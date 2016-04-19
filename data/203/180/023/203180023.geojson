@@ -1,0 +1,68 @@
+{
+  "id": 203180023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.953102,29.9641,-89.953102,29.9641",
+    "geom:latitude":29.9641,
+    "geom:longitude":-89.953102,
+    "iso:country":"US",
+    "sg:address":"4839 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 0179",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DjHmCYBdF4iTGtQm1oMH9_29.964100_-89.953102@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7031d51778b49040ad8283f97042c0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203180023
+        }
+    ],
+    "wof:id":203180023,
+    "wof:lastmodified":1449025032,
+    "wof:name":"Fradella's Collision Center Inc",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-89.953102,29.9641,-89.953102,29.9641],
+  "geometry": {"coordinates":[-89.953102,29.9641],"type":"Point"}
+}

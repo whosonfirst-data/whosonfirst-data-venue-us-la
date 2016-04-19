@@ -1,0 +1,66 @@
+{
+  "id": 203312809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.005501,30.230101,-92.005501,30.230101",
+    "geom:latitude":30.230101,
+    "geom:longitude":-92.005501,
+    "iso:country":"US",
+    "sg:address":"932 E Simcoe St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 264 1279",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qSu7t2qsywNBZDrjJtmFn_30.230101_-92.005501@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ca9067a12488db62a366adc31ac0f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203312809
+        }
+    ],
+    "wof:id":203312809,
+    "wof:lastmodified":1449025883,
+    "wof:name":"Miami Moon",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [-92.005501,30.230101,-92.005501,30.230101],
+  "geometry": {"coordinates":[-92.005501,30.230101],"type":"Point"}
+}

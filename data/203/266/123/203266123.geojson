@@ -1,0 +1,71 @@
+{
+  "id": 203266123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.054398,29.969007,-90.054398,29.969007",
+    "geom:latitude":29.969007,
+    "geom:longitude":-90.054398,
+    "iso:country":"US",
+    "sg:address":"2301 Saint Claude Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 9208",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85819021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tAS4cUIitDolAEqnV8CZL_29.969007_-90.054398@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47285b609c29a8d656acc4146910ecd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85819021,
+            "region_id":85688735,
+            "venue_id":203266123
+        }
+    ],
+    "wof:id":203266123,
+    "wof:lastmodified":1449025011,
+    "wof:name":"A-1 Automotive and Tire Center",
+    "wof:parent_id":85819021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-90.054398,29.969007,-90.054398,29.969007],
+  "geometry": {"coordinates":[-90.054398,29.969007],"type":"Point"}
+}

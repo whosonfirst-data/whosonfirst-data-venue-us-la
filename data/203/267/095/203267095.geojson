@@ -1,0 +1,75 @@
+{
+  "id": 203267095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.029503,29.9753,-90.029503,29.9753",
+    "geom:latitude":29.9753,
+    "geom:longitude":-90.029503,
+    "iso:country":"US",
+    "sg:address":"2110 Poland Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 945 9726",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aEo67ECjoc7PvuFyyqLNB_29.975300_-90.029503@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e566a7168e58a9a59b60121fc6cbb2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866085,
+            "region_id":85688735,
+            "venue_id":203267095
+        }
+    ],
+    "wof:id":203267095,
+    "wof:lastmodified":1449026693,
+    "wof:name":"Claude Bean's Auto Care & Tires",
+    "wof:parent_id":85866085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "tire"
+    ]
+},
+  "bbox": [-90.029503,29.9753,-90.029503,29.9753],
+  "geometry": {"coordinates":[-90.029503,29.9753],"type":"Point"}
+}

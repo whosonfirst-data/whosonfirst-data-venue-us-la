@@ -1,0 +1,78 @@
+{
+  "id": 203179201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.980598,29.952801,-89.980598,29.952801",
+    "geom:latitude":29.952801,
+    "geom:longitude":-89.980598,
+    "iso:country":"US",
+    "sg:address":"8332 Lafitte Ct",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 9218",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RQs73S0GrIeCSzV5z79R1_29.952801_-89.980598@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9d32941f9ea71481b0793947c6026a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203179201
+        }
+    ],
+    "wof:id":203179201,
+    "wof:lastmodified":1449026675,
+    "wof:name":"Early Education Center",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [-89.980598,29.952801,-89.980598,29.952801],
+  "geometry": {"coordinates":[-89.980598,29.952801],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 203307067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.0121,30.2286,-92.0121,30.2286",
+    "geom:latitude":30.2286,
+    "geom:longitude":-92.0121,
+    "iso:country":"US",
+    "sg:address":"312 Jefferson Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 4903",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:brand_id":420573801,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11OZmQ4PuUrHOvDg3U2lhN_30.228600_-92.012100@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4aca374946b47b68fc55afe87f78b341",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203307067
+        }
+    ],
+    "wof:id":203307067,
+    "wof:lastmodified":1457207423,
+    "wof:name":"Burger King",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.0121,
+    30.2286,
+    -92.0121,
+    30.2286
+],
+  "geometry": {"coordinates":[-92.0121,30.2286],"type":"Point"}
+}

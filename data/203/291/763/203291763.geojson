@@ -1,0 +1,71 @@
+{
+  "id": 203291763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.066002,29.958,-90.066002,29.958",
+    "geom:latitude":29.958,
+    "geom:longitude":-90.066002,
+    "iso:country":"US",
+    "sg:address":"624 Bourbon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 588 2744",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R2yqZ6Fdh6VAATtXF2pR0_29.958000_-90.066002@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69142c36cdbdbfdab298ae02acf77edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203291763
+        }
+    ],
+    "wof:id":203291763,
+    "wof:lastmodified":1449025491,
+    "wof:name":"Pat O's Courtyard Restaurant",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [-90.066002,29.958,-90.066002,29.958],
+  "geometry": {"coordinates":[-90.066002,29.958],"type":"Point"}
+}

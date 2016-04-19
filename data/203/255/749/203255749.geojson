@@ -1,0 +1,66 @@
+{
+  "id": 203255749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.065022,29.958181,-90.065022,29.958181",
+    "geom:latitude":29.958181,
+    "geom:longitude":-90.065022,
+    "iso:country":"US",
+    "sg:address":"731 Saint Peter St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Jazz & Blues",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 4950",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bypKmwvUazrd91lHCRKU9_29.958181_-90.065022@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25cf8f1ed9d1ffb44de0397274048627",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203255749
+        }
+    ],
+    "wof:id":203255749,
+    "wof:lastmodified":1449025772,
+    "wof:name":"Boondock Saint",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.065022,29.958181,-90.065022,29.958181],
+  "geometry": {"coordinates":[-90.065022,29.958181],"type":"Point"}
+}

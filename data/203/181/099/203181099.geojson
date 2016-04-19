@@ -1,0 +1,75 @@
+{
+  "id": 203181099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.972603,29.950899,-89.972603,29.950899",
+    "geom:latitude":29.950899,
+    "geom:longitude":-89.972603,
+    "iso:country":"US",
+    "sg:address":"9121 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 0141",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xj2TLUHW3I6ODydLWZ7dR_29.950899_-89.972603@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47705595a9cce0abd58bde293b8d9e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203181099
+        }
+    ],
+    "wof:id":203181099,
+    "wof:lastmodified":1449026097,
+    "wof:name":"St Bernard Veterinary Hospital",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-89.972603,29.950899,-89.972603,29.950899],
+  "geometry": {"coordinates":[-89.972603,29.950899],"type":"Point"}
+}

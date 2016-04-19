@@ -1,0 +1,68 @@
+{
+  "id": 203316433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.0625,30.2323,-92.0625,30.2323",
+    "geom:latitude":30.2323,
+    "geom:longitude":-92.0625,
+    "iso:country":"US",
+    "sg:address":"4111 Cameron St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 9441",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mv4MLX0fTYDRwVgC2APbj_30.232300_-92.062500@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58ba1226c65996624f321c9922dca3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203316433
+        }
+    ],
+    "wof:id":203316433,
+    "wof:lastmodified":1449026262,
+    "wof:name":"Cork's Automotive Repair",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-92.0625,30.2323,-92.0625,30.2323],
+  "geometry": {"coordinates":[-92.0625,30.2323],"type":"Point"}
+}

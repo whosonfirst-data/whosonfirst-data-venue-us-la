@@ -1,0 +1,66 @@
+{
+  "id": 203180675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.989408,29.95783,-89.989408,29.95783",
+    "geom:latitude":29.95783,
+    "geom:longitude":-89.989408,
+    "iso:country":"US",
+    "sg:address":"8101 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 278 5485",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hFskAy6ui9WKByRkN5s9o_29.957830_-89.989408@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"848c8798c4cf44eb8dc476c97d70f17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203180675
+        }
+    ],
+    "wof:id":203180675,
+    "wof:lastmodified":1449025030,
+    "wof:name":"Farber Dermatology Clinics",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [-89.989408,29.95783,-89.989408,29.95783],
+  "geometry": {"coordinates":[-89.989408,29.95783],"type":"Point"}
+}

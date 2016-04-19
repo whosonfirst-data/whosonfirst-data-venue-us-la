@@ -1,0 +1,66 @@
+{
+  "id": 203322361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.990898,30.156799,-91.990898,30.156799",
+    "geom:latitude":30.156799,
+    "geom:longitude":-91.990898,
+    "iso:country":"US",
+    "sg:address":"310 Youngsville Hwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 839 9880",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d2NnoTFvhDuwTzm8l37mu_30.156799_-91.990898@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d254a5e336294addf317a8ac5cc31030",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":203322361
+        }
+    ],
+    "wof:id":203322361,
+    "wof:lastmodified":1449024926,
+    "wof:name":"Rehabilitation Hospital of Acadiana",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-91.990898,30.156799,-91.990898,30.156799],
+  "geometry": {"coordinates":[-91.990898,30.156799],"type":"Point"}
+}

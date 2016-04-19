@@ -1,0 +1,68 @@
+{
+  "id": 203308813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.989484,30.232994,-91.989484,30.232994",
+    "geom:latitude":30.232994,
+    "geom:longitude":-91.989484,
+    "iso:country":"US",
+    "sg:address":"1232 Carmel Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 2080",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gi7SH9C9gGwl2bfNkN7M0_30.232994_-91.989484@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d445ad86bbe6feb04b01c506d910f303",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203308813
+        }
+    ],
+    "wof:id":203308813,
+    "wof:lastmodified":1449026892,
+    "wof:name":"Lafayette Collision Center",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-91.989484,30.232994,-91.989484,30.232994],
+  "geometry": {"coordinates":[-91.989484,30.232994],"type":"Point"}
+}

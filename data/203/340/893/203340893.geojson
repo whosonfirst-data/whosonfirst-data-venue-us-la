@@ -1,0 +1,66 @@
+{
+  "id": 203340893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.803101,30.003099,-91.803101,30.003099",
+    "geom:latitude":30.003099,
+    "geom:longitude":-91.803101,
+    "iso:country":"US",
+    "sg:address":"1000 Parkview Dr Ste 27",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 560 4461",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "podiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qu1eRFtpYfJ5xRXgrMhTr_30.003099_-91.803101@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"359d70272ad11f8de58061f4a4f971f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":203340893
+        }
+    ],
+    "wof:id":203340893,
+    "wof:lastmodified":1449026404,
+    "wof:name":"Dr Nick Servos",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist"
+    ]
+},
+  "bbox": [-91.803101,30.003099,-91.803101,30.003099],
+  "geometry": {"coordinates":[-91.803101,30.003099],"type":"Point"}
+}

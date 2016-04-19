@@ -1,0 +1,68 @@
+{
+  "id": 203336133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.921799,30.0375,-91.921799,30.0375",
+    "geom:latitude":30.0375,
+    "geom:longitude":-91.921799,
+    "iso:country":"US",
+    "sg:address":"6100 Highway 90 W",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 3652",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t4Q0SAppC14VaR31JrMlZ_30.037500_-91.921799@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f506399cec1d1f3d4a21a09ced6a8922",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":203336133
+        }
+    ],
+    "wof:id":203336133,
+    "wof:lastmodified":1449024912,
+    "wof:name":"Thibodeaux J P Body Shop",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-91.921799,30.0375,-91.921799,30.0375],
+  "geometry": {"coordinates":[-91.921799,30.0375],"type":"Point"}
+}

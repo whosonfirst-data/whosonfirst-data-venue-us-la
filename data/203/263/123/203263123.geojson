@@ -1,0 +1,66 @@
+{
+  "id": 203263123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.052597,29.975201,-90.052597,29.975201",
+    "geom:latitude":29.975201,
+    "geom:longitude":-90.052597,
+    "iso:country":"US",
+    "sg:address":"1725 Saint Roch Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 945 5961",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JZ4ZL0OGvyxdVAzJvIh0v_29.975201_-90.052597@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"138e4e8a1d9588cbf0ad7a69201d1145",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866099,
+            "region_id":85688735,
+            "venue_id":203263123
+        }
+    ],
+    "wof:id":203263123,
+    "wof:lastmodified":1449026819,
+    "wof:name":"Archdiocese of New Orleans",
+    "wof:parent_id":85866099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-90.052597,29.975201,-90.052597,29.975201],
+  "geometry": {"coordinates":[-90.052597,29.975201],"type":"Point"}
+}

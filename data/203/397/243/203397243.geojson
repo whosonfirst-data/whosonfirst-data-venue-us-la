@@ -1,0 +1,73 @@
+{
+  "id": 203397243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.404475,32.776531,-92.404475,32.776531",
+    "geom:latitude":32.776531,
+    "geom:longitude":-92.404475,
+    "iso:country":"US",
+    "sg:address":"202 E Green St",
+    "sg:city":"Farmerville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"71241",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948397,
+        102084877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44aKPxGyoTzb3khF7YdsgX_32.776531_-92.404475@1303262947"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63c8d34bb7700714864bfed777af5e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084877,
+            "locality_id":85948397,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203397243
+        }
+    ],
+    "wof:id":203397243,
+    "wof:lastmodified":1449025672,
+    "wof:name":"USPS - United States Post Office - Farmerville Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-92.404475,32.776531,-92.404475,32.776531],
+  "geometry": {"coordinates":[-92.404475,32.776531],"type":"Point"}
+}

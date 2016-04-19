@@ -1,0 +1,73 @@
+{
+  "id": 203263787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.038632,29.960929,-90.038632,29.960929",
+    "geom:latitude":29.960929,
+    "geom:longitude":-90.038632,
+    "iso:country":"US",
+    "sg:address":"3815 Chartres St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 949 4994",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sXifiwQBUCuZ692RMTqEr_29.960929_-90.038632@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"daa7dc8fc063c1db14934e9dba5f993d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866089,
+            "region_id":85688735,
+            "venue_id":203263787
+        }
+    ],
+    "wof:id":203263787,
+    "wof:lastmodified":1449026820,
+    "wof:name":"Direct Contractors Llc",
+    "wof:parent_id":85866089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [-90.038632,29.960929,-90.038632,29.960929],
+  "geometry": {"coordinates":[-90.038632,29.960929],"type":"Point"}
+}

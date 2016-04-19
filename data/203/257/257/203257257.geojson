@@ -1,0 +1,88 @@
+{
+  "id": 203257257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.059601,29.9596,-90.059601,29.9596",
+    "geom:latitude":29.9596,
+    "geom:longitude":-90.059601,
+    "iso:country":"US",
+    "sg:address":"1008 N Peters St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 2621",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tour",
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rksyWL6srkHd4B15uXRM5_29.959600_-90.059601@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d66e44dca19b9187175a3e0d2ae80baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203257257
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203257257
+        }
+    ],
+    "wof:id":203257257,
+    "wof:lastmodified":1449025465,
+    "wof:name":"Upper Pontalba Restoration Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "veggie"
+    ]
+},
+  "bbox": [-90.059601,29.9596,-90.059601,29.9596],
+  "geometry": {"coordinates":[-90.059601,29.9596],"type":"Point"}
+}

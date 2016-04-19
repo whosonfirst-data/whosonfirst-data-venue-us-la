@@ -1,0 +1,66 @@
+{
+  "id": 203259401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.057696,29.962638,-90.057696,29.962638",
+    "geom:latitude":29.962638,
+    "geom:longitude":-90.057696,
+    "iso:country":"US",
+    "sg:address":"508 Frenchmen St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Jazz & Blues",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:website":"508maisonmusique.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ze0szlhqM3E0RWIIzRy6Q_29.962638_-90.057696@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21f0ff74494c504b4781669d050c71f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866097,
+            "region_id":85688735,
+            "venue_id":203259401
+        }
+    ],
+    "wof:id":203259401,
+    "wof:lastmodified":1449025372,
+    "wof:name":"La Maison",
+    "wof:parent_id":85866097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.057696,29.962638,-90.057696,29.962638],
+  "geometry": {"coordinates":[-90.057696,29.962638],"type":"Point"}
+}

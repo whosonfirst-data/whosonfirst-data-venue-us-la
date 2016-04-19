@@ -1,0 +1,71 @@
+{
+  "id": 203340547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.809998,30.0072,-91.809998,30.0072",
+    "geom:latitude":30.0072,
+    "geom:longitude":-91.809998,
+    "iso:country":"US",
+    "sg:address":"300 Parkview Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 2337",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "venue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FyD4dwBLF5gekEjKVZqrE_30.007200_-91.809998@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"075033e9cae77c7e2aa2dc04caada315",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":203340547
+        }
+    ],
+    "wof:id":203340547,
+    "wof:lastmodified":1449026402,
+    "wof:name":"New Iberia City of",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [-91.809998,30.0072,-91.809998,30.0072],
+  "geometry": {"coordinates":[-91.809998,30.0072],"type":"Point"}
+}

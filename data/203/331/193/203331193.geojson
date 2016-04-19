@@ -1,0 +1,71 @@
+{
+  "id": 203331193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.033501,30.319,-92.033501,30.319",
+    "geom:latitude":30.319,
+    "geom:longitude":-92.033501,
+    "iso:country":"US",
+    "sg:address":"102 Greg St",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 9703",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sdmAc7BgpkhqNtdOSX8VD_30.319000_-92.033501@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02d6ff9d6cac1b3c8c70d841c5afedec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":203331193
+        }
+    ],
+    "wof:id":203331193,
+    "wof:lastmodified":1449026091,
+    "wof:name":"Community Chiropractic",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [-92.033501,30.319,-92.033501,30.319],
+  "geometry": {"coordinates":[-92.033501,30.319],"type":"Point"}
+}

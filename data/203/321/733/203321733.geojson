@@ -1,0 +1,66 @@
+{
+  "id": 203321733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.006625,30.286824,-92.006625,30.286824",
+    "geom:latitude":30.286824,
+    "geom:longitude":-92.006625,
+    "iso:country":"US",
+    "sg:address":"4300 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 2276",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cajun/creole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LaOGsWY3RIid2M8Ju3BDQ_30.286824_-92.006625@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f00df06e24454f4501b5af4d0b2888e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":203321733
+        }
+    ],
+    "wof:id":203321733,
+    "wof:lastmodified":1449024989,
+    "wof:name":"Red Barn Cafe",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cajun/creole"
+    ]
+},
+  "bbox": [-92.006625,30.286824,-92.006625,30.286824],
+  "geometry": {"coordinates":[-92.006625,30.286824],"type":"Point"}
+}

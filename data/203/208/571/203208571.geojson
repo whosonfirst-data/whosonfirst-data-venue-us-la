@@ -1,0 +1,78 @@
+{
+  "id": 203208571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0355,29.9219,-90.0355,29.9219",
+    "geom:latitude":29.9219,
+    "geom:longitude":-90.0355,
+    "iso:country":"US",
+    "sg:address":"111 Wright Ave",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 362 4433",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZkKU0JXXJF0HOJXnbI8V4_29.921900_-90.035500@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b17ee4418801f41499c9310f05392220",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":203208571
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":203208571
+        }
+    ],
+    "wof:id":203208571,
+    "wof:lastmodified":1449025166,
+    "wof:name":"D C's Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [-90.0355,29.9219,-90.0355,29.9219],
+  "geometry": {"coordinates":[-90.0355,29.9219],"type":"Point"}
+}

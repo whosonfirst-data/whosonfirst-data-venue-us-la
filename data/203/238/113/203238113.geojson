@@ -1,0 +1,84 @@
+{
+  "id": 203238113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.09137,29.895399,-90.09137,29.895399",
+    "geom:latitude":29.895399,
+    "geom:longitude":-90.09137,
+    "iso:country":"US",
+    "sg:address":"4120 Westbank Expy",
+    "sg:city":"Marrero",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 340 9444",
+    "sg:postcode":"70072",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948745,
+        102083179,
+        85866117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eRKwSf3ZV8GMP0SJ98fUr_29.895399_-90.091370@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59c91e257a8d9364f7c1605e4ba620c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866117,
+            "region_id":85688735,
+            "venue_id":203238113
+        }
+    ],
+    "wof:id":203238113,
+    "wof:lastmodified":1449025629,
+    "wof:name":"Hair Of Angels Salon",
+    "wof:parent_id":85866117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [-90.09137,29.895399,-90.09137,29.895399],
+  "geometry": {"coordinates":[-90.09137,29.895399],"type":"Point"}
+}

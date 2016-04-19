@@ -1,0 +1,73 @@
+{
+  "id": 203380107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.883117,32.602584,-93.883117,32.602584",
+    "geom:latitude":32.602584,
+    "geom:longitude":-93.883117,
+    "iso:country":"US",
+    "sg:address":"8312 Wasson Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 7082",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ORchmN68LjfbkezVoV39A_32.602584_-93.883117@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b2c460a358989f84c2da32e3c6c6257",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":203380107
+        }
+    ],
+    "wof:id":203380107,
+    "wof:lastmodified":1449025792,
+    "wof:name":"Elite Real Estate",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-93.883117,32.602584,-93.883117,32.602584],
+  "geometry": {"coordinates":[-93.883117,32.602584],"type":"Point"}
+}

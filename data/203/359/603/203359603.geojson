@@ -1,0 +1,74 @@
+{
+  "id": 203359603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.123901,30.3118,-91.123901,30.3118",
+    "geom:latitude":30.3118,
+    "geom:longitude":-91.123901,
+    "iso:country":"US",
+    "sg:address":"357 Highway 30",
+    "sg:city":"Saint Gabriel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 642 9900",
+    "sg:postcode":"70776",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948247,
+        102082457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1do9fPrBLO0yOwWUq7zENT_30.311800_-91.123901@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca3024793704618744b4418d379b7887",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948247,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203359603
+        }
+    ],
+    "wof:id":203359603,
+    "wof:lastmodified":1449024915,
+    "wof:name":"Acadian Animal Clinic East",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-91.123901,30.3118,-91.123901,30.3118],
+  "geometry": {"coordinates":[-91.123901,30.3118],"type":"Point"}
+}

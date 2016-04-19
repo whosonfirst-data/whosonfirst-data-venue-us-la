@@ -1,0 +1,71 @@
+{
+  "id": 203311925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.005203,30.255699,-92.005203,30.255699",
+    "geom:latitude":30.255699,
+    "geom:longitude":-92.005203,
+    "iso:country":"US",
+    "sg:address":"2600 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 2052",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SFq41aj7I9owRp7msSDa7_30.255699_-92.005203@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7e0ae5a408f2d2d31514372f2f59151",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203311925
+        }
+    ],
+    "wof:id":203311925,
+    "wof:lastmodified":1449025377,
+    "wof:name":"Breaux's Deli",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [-92.005203,30.255699,-92.005203,30.255699],
+  "geometry": {"coordinates":[-92.005203,30.255699],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203272273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.059577,29.986457,-90.059577,29.986457",
+    "geom:latitude":29.986457,
+    "geom:longitude":-90.059577,
+    "iso:country":"US",
+    "sg:address":"2815 Frenchmen Street",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 945 9400",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tour",
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.neworleansrum.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YntevSVUOvJsQA0iXA5Yf_29.986457_-90.059577@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca0ed2bed1e1cab26a772e8a08271fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866099,
+            "region_id":85688735,
+            "venue_id":203272273
+        }
+    ],
+    "wof:id":203272273,
+    "wof:lastmodified":1449026751,
+    "wof:name":"Old New Orleans Rum Distillery",
+    "wof:parent_id":85866099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-90.059577,29.986457,-90.059577,29.986457],
+  "geometry": {"coordinates":[-90.059577,29.986457],"type":"Point"}
+}

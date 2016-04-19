@@ -1,0 +1,73 @@
+{
+  "id": 203186657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.053883,29.906105,-90.053883,29.906105",
+    "geom:latitude":29.906105,
+    "geom:longitude":-90.053883,
+    "iso:country":"US",
+    "sg:address":"1800 Lafayette St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 366 8658",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ImPaWZ0GwSnrARsjXxO6D_29.906105_-90.053883@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7daad658f28f016f946ef823968e44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":203186657
+        }
+    ],
+    "wof:id":203186657,
+    "wof:lastmodified":1449026417,
+    "wof:name":"Metro Gaming & Amusement Company",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [-90.053883,29.906105,-90.053883,29.906105],
+  "geometry": {"coordinates":[-90.053883,29.906105],"type":"Point"}
+}

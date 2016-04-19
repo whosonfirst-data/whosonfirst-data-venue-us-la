@@ -1,0 +1,73 @@
+{
+  "id": 203273323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.99852,30.012496,-89.99852,30.012496",
+    "geom:latitude":30.012496,
+    "geom:longitude":-89.99852,
+    "iso:country":"US",
+    "sg:address":"7603 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 245 0024",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "towing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_315W0fGeuhTtInhQ8LgkuR_30.012496_-89.998520@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3997197ad6799c80ce9770df8e863f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":203273323
+        }
+    ],
+    "wof:id":203273323,
+    "wof:lastmodified":1449025912,
+    "wof:name":"New Orleans East Towing",
+    "wof:parent_id":85866169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "tire"
+    ]
+},
+  "bbox": [-89.99852,30.012496,-89.99852,30.012496],
+  "geometry": {"coordinates":[-89.99852,30.012496],"type":"Point"}
+}

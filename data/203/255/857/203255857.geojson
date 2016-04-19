@@ -1,0 +1,71 @@
+{
+  "id": 203255857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.062772,29.961859,-90.062772,29.961859",
+    "geom:latitude":29.961859,
+    "geom:longitude":-90.062772,
+    "iso:country":"US",
+    "sg:address":"1101 Bourbon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 9274",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QR4k337tCP9h30bKH8ARu_29.961859_-90.062772@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3f143cc045d436ef07086e3f9327cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203255857
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203255857
+        }
+    ],
+    "wof:id":203255857,
+    "wof:lastmodified":1449025771,
+    "wof:name":"Ralph's French Quarter Laundrette & Dry Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.062772,29.961859,-90.062772,29.961859],
+  "geometry": {"coordinates":[-90.062772,29.961859],"type":"Point"}
+}

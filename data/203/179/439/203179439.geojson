@@ -1,0 +1,66 @@
+{
+  "id": 203179439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971001,29.9568,-89.971001,29.9568",
+    "geom:latitude":29.9568,
+    "geom:longitude":-89.971001,
+    "iso:country":"US",
+    "sg:address":"9000 Patricia St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 0434",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gJjNZNYA9wh9OgduHATRP_29.956800_-89.971001@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4771b3b79096a53a4fa98564b51d2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203179439
+        }
+    ],
+    "wof:id":203179439,
+    "wof:lastmodified":1449026671,
+    "wof:name":"Chalmette Patricia",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [-89.971001,29.9568,-89.971001,29.9568],
+  "geometry": {"coordinates":[-89.971001,29.9568],"type":"Point"}
+}

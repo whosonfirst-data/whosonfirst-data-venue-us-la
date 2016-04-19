@@ -1,0 +1,74 @@
+{
+  "id": 203376983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.825574,32.288649,-93.825574,32.288649",
+    "geom:latitude":32.288649,
+    "geom:longitude":-93.825574,
+    "iso:country":"US",
+    "sg:address":"986 Highway 171",
+    "sg:city":"Stonewall",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"71078",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mltzoGHdHFk7V2IdhvnH8_32.288649_-93.825574@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f91d4f3e56080f99dd2aff4aa2e2e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":203376983
+        }
+    ],
+    "wof:id":203376983,
+    "wof:lastmodified":1449025566,
+    "wof:name":"USPS - United States Post Office - Stonewall Main Office",
+    "wof:parent_id":85813793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-93.825574,32.288649,-93.825574,32.288649],
+  "geometry": {"coordinates":[-93.825574,32.288649],"type":"Point"}
+}

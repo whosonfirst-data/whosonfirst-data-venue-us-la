@@ -1,0 +1,66 @@
+{
+  "id": 203355393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.990411,30.104109,-91.990411,30.104109",
+    "geom:latitude":30.104109,
+    "geom:longitude":-91.990411,
+    "iso:country":"US",
+    "sg:address":"506 Lafayette St",
+    "sg:city":"Youngsville",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 856 5100",
+    "sg:postcode":"70592",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948381,
+        102081919,
+        85806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HnsW19hhepyxjJNrvFtMz_30.104109_-91.990411@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3df24dd82077fadbcf5fc24aa62cb734",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948381,
+            "neighbourhood_id":85806101,
+            "region_id":85688735,
+            "venue_id":203355393
+        }
+    ],
+    "wof:id":203355393,
+    "wof:lastmodified":1449025435,
+    "wof:name":"Village Cafe",
+    "wof:parent_id":85806101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-91.990411,30.104109,-91.990411,30.104109],
+  "geometry": {"coordinates":[-91.990411,30.104109],"type":"Point"}
+}

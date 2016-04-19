@@ -1,0 +1,68 @@
+{
+  "id": 203255035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.064005,29.96532,-90.064005,29.96532",
+    "geom:latitude":29.96532,
+    "geom:longitude":-90.064005,
+    "iso:country":"US",
+    "sg:address":"1310 N Rampart St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 4663",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70TCzG4x2d8UoK28LB1500_29.965320_-90.064005@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c1cb3cb57a157b4dc08008b525cc1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866097,
+            "region_id":85688735,
+            "venue_id":203255035
+        }
+    ],
+    "wof:id":203255035,
+    "wof:lastmodified":1449025773,
+    "wof:name":"Avenue Mortgage",
+    "wof:parent_id":85866097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-90.064005,29.96532,-90.064005,29.96532],
+  "geometry": {"coordinates":[-90.064005,29.96532],"type":"Point"}
+}

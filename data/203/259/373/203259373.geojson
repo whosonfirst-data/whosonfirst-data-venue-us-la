@@ -1,0 +1,84 @@
+{
+  "id": 203259373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.065095,29.960867,-90.065095,29.960867",
+    "geom:latitude":29.960867,
+    "geom:longitude":-90.065095,
+    "iso:country":"US",
+    "sg:address":"900 Dumaine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Ethnic Foods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 7222",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cajun/creole",
+        "soul"
+    ],
+    "sg:website":"www.eatnola.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RhJQxbyktf0qYTJOI61aq_29.960867_-90.065095@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a6e808576d2e5aa48f69a2400e6ecfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203259373
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203259373
+        }
+    ],
+    "wof:id":203259373,
+    "wof:lastmodified":1449025371,
+    "wof:name":"Eat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cajun/creole",
+        "soul"
+    ]
+},
+  "bbox": [-90.065095,29.960867,-90.065095,29.960867],
+  "geometry": {"coordinates":[-90.065095,29.960867],"type":"Point"}
+}

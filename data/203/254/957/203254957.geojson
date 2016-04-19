@@ -1,0 +1,71 @@
+{
+  "id": 203254957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.059935,29.968178,-90.059935,29.968178",
+    "geom:latitude":29.968178,
+    "geom:longitude":-90.059935,
+    "iso:country":"US",
+    "sg:address":"1914 Saint Claude Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 256 8323",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electronics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bkdfAPtRKI13YbbtO5uJf_29.968178_-90.059935@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff0d6ea02384d050951819dbc22f53f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866097,
+            "region_id":85688735,
+            "venue_id":203254957
+        }
+    ],
+    "wof:id":203254957,
+    "wof:lastmodified":1449026285,
+    "wof:name":"iPhone Repair",
+    "wof:parent_id":85866097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronics"
+    ]
+},
+  "bbox": [-90.059935,29.968178,-90.059935,29.968178],
+  "geometry": {"coordinates":[-90.059935,29.968178],"type":"Point"}
+}

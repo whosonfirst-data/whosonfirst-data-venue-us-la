@@ -1,0 +1,70 @@
+{
+  "id": 203271299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.04797,30.002793,-90.04797,30.002793",
+    "geom:latitude":30.002793,
+    "geom:longitude":-90.04797,
+    "iso:country":"US",
+    "sg:address":"3774 Gentilly Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 941 3660",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85821297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qBpY28kVJXwolI8kuS2ve_30.002793_-90.047970@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c445649e18362f547fa4f476056b9d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821297,
+            "region_id":85688735,
+            "venue_id":203271299
+        }
+    ],
+    "wof:id":203271299,
+    "wof:lastmodified":1449025933,
+    "wof:name":"New Orleans Public Schools",
+    "wof:parent_id":85821297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-90.04797,30.002793,-90.04797,30.002793],
+  "geometry": {"coordinates":[-90.04797,30.002793],"type":"Point"}
+}

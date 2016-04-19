@@ -1,0 +1,71 @@
+{
+  "id": 203356389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.511327,30.988697,-93.511327,30.988697",
+    "geom:latitude":30.988697,
+    "geom:longitude":-93.511327,
+    "iso:country":"US",
+    "sg:address":"120 Bonner Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 286 9999",
+    "sg:postcode":"70639",
+    "sg:province":"LA",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TRFEyAiW40jBgKyDUsXOt_30.988697_-93.511327@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7dad5d378866a58ae164b69b5a9e816",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":203356389
+        }
+    ],
+    "wof:id":203356389,
+    "wof:lastmodified":1449026502,
+    "wof:name":"Evans Catering & Cafe",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [-93.511327,30.988697,-93.511327,30.988697],
+  "geometry": {"coordinates":[-93.511327,30.988697],"type":"Point"}
+}

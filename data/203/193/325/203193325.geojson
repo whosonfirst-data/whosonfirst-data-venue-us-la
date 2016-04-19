@@ -1,0 +1,68 @@
+{
+  "id": 203193325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.058075,29.909366,-90.058075,29.909366",
+    "geom:latitude":29.909366,
+    "geom:longitude":-90.058075,
+    "iso:country":"US",
+    "sg:address":"713 Westbank Expy",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 324 5373",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gmdCQZUtybogrPofXKpaR_29.909366_-90.058075@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01db993903305bf5f9679e3cb4f3e691",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":203193325
+        }
+    ],
+    "wof:id":203193325,
+    "wof:lastmodified":1449025247,
+    "wof:name":"Doggie Day Spa",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-90.058075,29.909366,-90.058075,29.909366],
+  "geometry": {"coordinates":[-90.058075,29.909366],"type":"Point"}
+}

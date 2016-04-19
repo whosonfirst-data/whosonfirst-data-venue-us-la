@@ -1,0 +1,86 @@
+{
+  "id": 203395399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.892876,32.780185,-91.892876,32.780185",
+    "geom:latitude":32.780185,
+    "geom:longitude":-91.892876,
+    "iso:country":"US",
+    "sg:address":"1611 Park Loop Dr",
+    "sg:city":"Bastrop",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 251 5999",
+    "sg:postcode":"71220",
+    "sg:province":"LA",
+    "sg:tags":[
+        "satellite",
+        "telecommunication",
+        "cable",
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "sg:website":"http://www.suddenlink.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948013,
+        102085931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L3ugHWlF4deVzfEtron9b_32.780185_-91.892876@1303262947"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eeee2883373a95c46b65eb19c18efdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085931,
+            "locality_id":85948013,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203395399
+        }
+    ],
+    "wof:id":203395399,
+    "wof:lastmodified":1449026571,
+    "wof:name":"Suddenlink Communications",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "telecommunication",
+        "cable",
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [-91.892876,32.780185,-91.892876,32.780185],
+  "geometry": {"coordinates":[-91.892876,32.780185],"type":"Point"}
+}

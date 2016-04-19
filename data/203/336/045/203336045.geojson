@@ -1,0 +1,75 @@
+{
+  "id": 203336045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.839699,30.0289,-91.839699,30.0289",
+    "geom:latitude":30.0289,
+    "geom:longitude":-91.839699,
+    "iso:country":"US",
+    "sg:address":"2106 W Old Spanish Trl",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 2811",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N1q3rMEDIIeh5U2PTP3s8_30.028900_-91.839699@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fb4e07002e77955489fe32f0b898431",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":203336045
+        }
+    ],
+    "wof:id":203336045,
+    "wof:lastmodified":1449024912,
+    "wof:name":"Reaux Animal Hospital",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-91.839699,30.0289,-91.839699,30.0289],
+  "geometry": {"coordinates":[-91.839699,30.0289],"type":"Point"}
+}

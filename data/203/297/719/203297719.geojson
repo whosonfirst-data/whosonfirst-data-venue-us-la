@@ -1,0 +1,81 @@
+{
+  "id": 203297719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.006989,29.916846,-90.006989,29.916846",
+    "geom:latitude":29.916846,
+    "geom:longitude":-90.006989,
+    "iso:country":"US",
+    "sg:address":"4110 General Degaulle Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 433 3297",
+    "sg:postcode":"70131",
+    "sg:province":"LA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693
+    ],
+    "wof:brand_id":420573797,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jw786ljQ8uvyrsaiRCFfv_29.916846_-90.006989@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec5715b96ebd0da7f30aa5f8d00bc6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203297719
+        }
+    ],
+    "wof:id":203297719,
+    "wof:lastmodified":1457207385,
+    "wof:name":"Walgreens",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.006989,
+    29.916846,
+    -90.006989,
+    29.916846
+],
+  "geometry": {"coordinates":[-90.006989,29.916846],"type":"Point"}
+}

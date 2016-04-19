@@ -1,0 +1,71 @@
+{
+  "id": 203282821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.93,30.0305,-89.93,30.0305",
+    "geom:latitude":30.0305,
+    "geom:longitude":-89.93,
+    "iso:country":"US",
+    "sg:address":"13311 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 254 5600",
+    "sg:postcode":"70129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85833951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EoQ7GozBvcuVl2dJfHzOG_30.030500_-89.930000@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd459c1cf60d22256c7d652651f29b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85833951,
+            "region_id":85688735,
+            "venue_id":203282821
+        }
+    ],
+    "wof:id":203282821,
+    "wof:lastmodified":1449026138,
+    "wof:name":"Brandt Goodyear Inc",
+    "wof:parent_id":85833951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-89.93,30.0305,-89.93,30.0305],
+  "geometry": {"coordinates":[-89.93,30.0305],"type":"Point"}
+}

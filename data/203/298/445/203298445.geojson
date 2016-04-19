@@ -1,0 +1,71 @@
+{
+  "id": 203298445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.9879,29.9149,-89.9879,29.9149",
+    "geom:latitude":29.9149,
+    "geom:longitude":-89.9879,
+    "iso:country":"US",
+    "sg:address":"3643 Aurora Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 394 2408",
+    "sg:postcode":"70131",
+    "sg:province":"LA",
+    "sg:tags":[
+        "day"
+    ],
+    "sg:website":"www.stphilipsno.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kFs83ECSjnDLUkYZU0DQ1_29.914900_-89.987900@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dd6c6110f064310525f72b21bab6f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203298445
+        }
+    ],
+    "wof:id":203298445,
+    "wof:lastmodified":1449025421,
+    "wof:name":"St Philip's Episcopal Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [-89.9879,29.9149,-89.9879,29.9149],
+  "geometry": {"coordinates":[-89.9879,29.9149],"type":"Point"}
+}

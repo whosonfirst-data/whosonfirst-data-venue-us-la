@@ -1,0 +1,74 @@
+{
+  "id": 203268611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.032997,29.9597,-90.032997,29.9597",
+    "geom:latitude":29.9597,
+    "geom:longitude":-90.032997,
+    "iso:country":"US",
+    "sg:address":"600 Poland Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 948 9111",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "beer",
+        "spirit"
+    ],
+    "sg:website":"www.bacchanalwine.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_172xiRtMp2HhVcxro4DozC_29.959700_-90.032997@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e73043fcba6d7ed6675fbaaaff5742f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866089,
+            "region_id":85688735,
+            "venue_id":203268611
+        }
+    ],
+    "wof:id":203268611,
+    "wof:lastmodified":1449026030,
+    "wof:name":"Bacchanal Wine",
+    "wof:parent_id":85866089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit"
+    ]
+},
+  "bbox": [-90.032997,29.9597,-90.032997,29.9597],
+  "geometry": {"coordinates":[-90.032997,29.9597],"type":"Point"}
+}

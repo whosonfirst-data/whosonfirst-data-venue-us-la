@@ -1,0 +1,73 @@
+{
+  "id": 203333503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.818818,30.006255,-91.818818,30.006255",
+    "geom:latitude":30.006255,
+    "geom:longitude":-91.818818,
+    "iso:country":"US",
+    "sg:address":"113 W Main St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 560 9430",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "venue",
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fpjrPQHbtZMga7jhq9fSv_30.006255_-91.818818@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c372cc3740375521d890ec797cf4c7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":203333503
+        }
+    ],
+    "wof:id":203333503,
+    "wof:lastmodified":1449026745,
+    "wof:name":"Bourbon Hall the",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue",
+        "nightlife"
+    ]
+},
+  "bbox": [-91.818818,30.006255,-91.818818,30.006255],
+  "geometry": {"coordinates":[-91.818818,30.006255],"type":"Point"}
+}

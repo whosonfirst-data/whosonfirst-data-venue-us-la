@@ -1,0 +1,72 @@
+{
+  "id": 203343855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.823502,30.143,-91.823502,30.143",
+    "geom:latitude":30.143,
+    "geom:longitude":-91.823502,
+    "iso:country":"US",
+    "sg:address":"2012 N Main St",
+    "sg:city":"Saint Martinville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 394 3332",
+    "sg:postcode":"70582",
+    "sg:province":"LA",
+    "sg:tags":[
+        "notary",
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948415,
+        102081925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yu4BLWC2en8ZP7GD2P7s3_30.143000_-91.823502@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"028b3a84025bebef0afd8f223e1e590d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081925,
+            "locality_id":85948415,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203343855
+        }
+    ],
+    "wof:id":203343855,
+    "wof:lastmodified":1449026312,
+    "wof:name":"Tax Services Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary",
+        "accountant"
+    ]
+},
+  "bbox": [-91.823502,30.143,-91.823502,30.143],
+  "geometry": {"coordinates":[-91.823502,30.143],"type":"Point"}
+}

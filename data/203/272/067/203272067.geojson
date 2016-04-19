@@ -1,0 +1,66 @@
+{
+  "id": 203272067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.060898,30.001101,-90.060898,30.001101",
+    "geom:latitude":30.001101,
+    "geom:longitude":-90.060898,
+    "iso:country":"US",
+    "sg:address":"4201 Frenchmen St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 7212",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "ophthalmologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KdKRx3sgHsayCc6mXnIwj_30.001101_-90.060898@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c8d0a25551a6dbf9ec1e01c9a396574",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":203272067
+        }
+    ],
+    "wof:id":203272067,
+    "wof:lastmodified":1449026749,
+    "wof:name":"Greater New Orleans Eye Physicians",
+    "wof:parent_id":85866059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist"
+    ]
+},
+  "bbox": [-90.060898,30.001101,-90.060898,30.001101],
+  "geometry": {"coordinates":[-90.060898,30.001101],"type":"Point"}
+}

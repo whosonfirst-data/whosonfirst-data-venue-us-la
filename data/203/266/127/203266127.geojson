@@ -1,0 +1,66 @@
+{
+  "id": 203266127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.041603,29.9706,-90.041603,29.9706",
+    "geom:latitude":29.9706,
+    "geom:longitude":-90.041603,
+    "iso:country":"US",
+    "sg:address":"1401 Louisa St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 945 9012",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y2nyEzuUx0hNOSQBwDf91_29.970600_-90.041603@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9fb4130d54316b5788bd0975f77a881",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866095,
+            "region_id":85688735,
+            "venue_id":203266127
+        }
+    ],
+    "wof:id":203266127,
+    "wof:lastmodified":1449025013,
+    "wof:name":"St Vincent De Paul Cemeteries & Mausoleum",
+    "wof:parent_id":85866095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-90.041603,29.9706,-90.041603,29.9706],
+  "geometry": {"coordinates":[-90.041603,29.9706],"type":"Point"}
+}

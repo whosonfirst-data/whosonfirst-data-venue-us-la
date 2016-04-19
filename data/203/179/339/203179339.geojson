@@ -1,0 +1,66 @@
+{
+  "id": 203179339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.965897,29.936701,-89.965897,29.936701",
+    "geom:latitude":29.936701,
+    "geom:longitude":-89.965897,
+    "iso:country":"US",
+    "sg:address":"111 E Saint Bernard Hwy",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 8260",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06OwEkpLpVhOfxdfCztOAD_29.936701_-89.965897@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"806544b6f5b99e742a7457668c75eef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203179339
+        }
+    ],
+    "wof:id":203179339,
+    "wof:lastmodified":1449026675,
+    "wof:name":"Chalmette Bicycle and Lawn Mower Store",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [-89.965897,29.936701,-89.965897,29.936701],
+  "geometry": {"coordinates":[-89.965897,29.936701],"type":"Point"}
+}

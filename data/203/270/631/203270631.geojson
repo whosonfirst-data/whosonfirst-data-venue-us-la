@@ -1,0 +1,71 @@
+{
+  "id": 203270631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.056348,30.018118,-90.056348,30.018118",
+    "geom:latitude":30.018118,
+    "geom:longitude":-90.056348,
+    "iso:country":"US",
+    "sg:address":"5800 Saint Roch Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 286 2635",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"nops.k12.la.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85834475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nRveHwa8b0Fgi8i80PVeL_30.018118_-90.056348@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"317d526f2d4db34ec8999f67ac88fac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":203270631
+        }
+    ],
+    "wof:id":203270631,
+    "wof:lastmodified":1449025283,
+    "wof:name":"Orleans Parish School Board",
+    "wof:parent_id":85834475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-90.056348,30.018118,-90.056348,30.018118],
+  "geometry": {"coordinates":[-90.056348,30.018118],"type":"Point"}
+}

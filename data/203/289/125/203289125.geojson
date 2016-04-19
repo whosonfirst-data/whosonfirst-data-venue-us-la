@@ -1,0 +1,67 @@
+{
+  "id": 203289125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0662,29.955,-90.0662,29.955",
+    "geom:latitude":29.955,
+    "geom:longitude":-90.0662,
+    "iso:country":"US",
+    "sg:address":"331 Chartres St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 3880",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.laurascandies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79g3ZFsj6UhedQi7G9cuf3_29.955000_-90.066200@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0faa21a25d9cde034a655dfb3538366c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203289125
+        }
+    ],
+    "wof:id":203289125,
+    "wof:lastmodified":1449026534,
+    "wof:name":"Laura's Candies & Creole Pralines",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [-90.0662,29.955,-90.0662,29.955],
+  "geometry": {"coordinates":[-90.0662,29.955],"type":"Point"}
+}

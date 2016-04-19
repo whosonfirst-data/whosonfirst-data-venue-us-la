@@ -1,0 +1,78 @@
+{
+  "id": 203363471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.139592,32.962289,-93.139592,32.962289",
+    "geom:latitude":32.962289,
+    "geom:longitude":-93.139592,
+    "iso:country":"US",
+    "sg:address":"1846 Sherman Dr",
+    "sg:city":"Haynesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 624 1611",
+    "sg:postcode":"71038",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948177,
+        102081031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IG95zKCH6vM7XzYZg6xEB_32.962289_-93.139592@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d66e701a0ceb0e6d7470bdc62097bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081031,
+            "locality_id":85948177,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203363471
+        }
+    ],
+    "wof:id":203363471,
+    "wof:lastmodified":1449026637,
+    "wof:name":"Haynesville Fire Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-93.139592,32.962289,-93.139592,32.962289],
+  "geometry": {"coordinates":[-93.139592,32.962289],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 203271395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.064697,30.0082,-90.064697,30.0082",
+    "geom:latitude":30.0082,
+    "geom:longitude":-90.064697,
+    "iso:country":"US",
+    "sg:address":"4915 Saint Anthony Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 7150",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "seafood",
+        "sandwich",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ztmdbK8DKtCH4j9I9ka6_30.008200_-90.064697@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"134ec78fed356ce3304b45611f3c9df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":203271395
+        }
+    ],
+    "wof:id":203271395,
+    "wof:lastmodified":1449025933,
+    "wof:name":"Zimmer's Seafood",
+    "wof:parent_id":85866063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "sandwich",
+        "market"
+    ]
+},
+  "bbox": [-90.064697,30.0082,-90.064697,30.0082],
+  "geometry": {"coordinates":[-90.064697,30.0082],"type":"Point"}
+}

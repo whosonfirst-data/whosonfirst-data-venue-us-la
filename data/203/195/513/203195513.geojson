@@ -1,0 +1,77 @@
+{
+  "id": 203195513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.051498,29.9037,-90.051498,29.9037",
+    "geom:latitude":29.9037,
+    "geom:longitude":-90.051498,
+    "iso:country":"US",
+    "sg:address":"2112 Belle Chasse Hwy",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 433 3684",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:brand_id":420574067,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g41PGjl6tL540gNdVEs7Y_29.903700_-90.051498@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78468b22cfddf2a7bc7a75b82cb8ddea",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":203195513
+        }
+    ],
+    "wof:id":203195513,
+    "wof:lastmodified":1457208422,
+    "wof:name":"Winn-Dixie",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -90.051498,
+    29.9037,
+    -90.051498,
+    29.9037
+],
+  "geometry": {"coordinates":[-90.051498,29.9037],"type":"Point"}
+}

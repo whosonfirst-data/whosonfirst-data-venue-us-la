@@ -1,0 +1,66 @@
+{
+  "id": 203329407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.937698,30.118601,-91.937698,30.118601",
+    "geom:latitude":30.118601,
+    "geom:longitude":-91.937698,
+    "iso:country":"US",
+    "sg:address":"116 Lakeview Dr",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Zoo",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 837 4325",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948381,
+        102081919,
+        85806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ufy6cDvIDkF3hjZwA6E2v_30.118601_-91.937698@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfecda39980a5f5ed3ae246eb964e1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948381,
+            "neighbourhood_id":85806101,
+            "region_id":85688735,
+            "venue_id":203329407
+        }
+    ],
+    "wof:id":203329407,
+    "wof:lastmodified":1449025432,
+    "wof:name":"Zoo of Acadiana",
+    "wof:parent_id":85806101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-91.937698,30.118601,-91.937698,30.118601],
+  "geometry": {"coordinates":[-91.937698,30.118601],"type":"Point"}
+}

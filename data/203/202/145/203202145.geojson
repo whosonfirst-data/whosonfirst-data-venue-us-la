@@ -1,0 +1,76 @@
+{
+  "id": 203202145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.035103,29.9219,-90.035103,29.9219",
+    "geom:latitude":29.9219,
+    "geom:longitude":-90.035103,
+    "iso:country":"US",
+    "sg:address":"129 Terry Pkwy",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 363 0023",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85869723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C7Oi7idE1HSNvN1jJMwjg_29.921900_-90.035103@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4b0ea98de07e59fe6701fd458a061bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":203202145
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869723,
+            "region_id":85688735,
+            "venue_id":203202145
+        }
+    ],
+    "wof:id":203202145,
+    "wof:lastmodified":1449026612,
+    "wof:name":"George's Produce",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [-90.035103,29.9219,-90.035103,29.9219],
+  "geometry": {"coordinates":[-90.035103,29.9219],"type":"Point"}
+}

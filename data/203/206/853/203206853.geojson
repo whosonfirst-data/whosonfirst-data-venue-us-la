@@ -1,0 +1,71 @@
+{
+  "id": 203206853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.020804,29.908127,-90.020804,29.908127",
+    "geom:latitude":29.908127,
+    "geom:longitude":-90.020804,
+    "iso:country":"US",
+    "sg:address":"555 Holmes Blvd",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 363 3315",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66rnkDHcMEMmqpml1RIgAJ_29.908127_-90.020804@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e0045ae3fed4c953ab3cc328932efaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866161,
+            "region_id":85688735,
+            "venue_id":203206853
+        }
+    ],
+    "wof:id":203206853,
+    "wof:lastmodified":1449026274,
+    "wof:name":"Academy 1 Preschool",
+    "wof:parent_id":85866161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [-90.020804,29.908127,-90.020804,29.908127],
+  "geometry": {"coordinates":[-90.020804,29.908127],"type":"Point"}
+}

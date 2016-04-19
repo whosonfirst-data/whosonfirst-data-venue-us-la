@@ -1,0 +1,68 @@
+{
+  "id": 203323547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.993515,30.154093,-91.993515,30.154093",
+    "geom:latitude":30.154093,
+    "geom:longitude":-91.993515,
+    "iso:country":"US",
+    "sg:address":"305 Cardinal Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 837 2700",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_072sw9mTVw6SwN9JYHfpuF_30.154093_-91.993515@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f854f8c5f927b9c49c4e1fe982c5d4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":203323547
+        }
+    ],
+    "wof:id":203323547,
+    "wof:lastmodified":1449025095,
+    "wof:name":"Animal Crackers",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-91.993515,30.154093,-91.993515,30.154093],
+  "geometry": {"coordinates":[-91.993515,30.154093],"type":"Point"}
+}

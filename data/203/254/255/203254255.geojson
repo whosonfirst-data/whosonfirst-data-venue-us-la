@@ -1,0 +1,76 @@
+{
+  "id": 203254255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061302,29.9582,-90.061302,29.9582",
+    "geom:latitude":29.9582,
+    "geom:longitude":-90.061302,
+    "iso:country":"US",
+    "sg:address":"848 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 7111",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dbcm8vXyswyVrY6VTz9lW_29.958200_-90.061302@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdd4da1972dae5991e7520a55bdb93c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203254255
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203254255
+        }
+    ],
+    "wof:id":203254255,
+    "wof:lastmodified":1449026282,
+    "wof:name":"Cuccia Chocolates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [-90.061302,29.9582,-90.061302,29.9582],
+  "geometry": {"coordinates":[-90.061302,29.9582],"type":"Point"}
+}

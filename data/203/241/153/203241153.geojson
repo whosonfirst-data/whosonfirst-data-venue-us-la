@@ -1,0 +1,74 @@
+{
+  "id": 203241153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.041956,29.92371,-90.041956,29.92371",
+    "geom:latitude":29.92371,
+    "geom:longitude":-90.041956,
+    "iso:country":"US",
+    "sg:address":"197 Westbank Expy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 361 1578",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:website":"www.bankoflouisiana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ygZa0zZ7gIPhGXaj8cCS4_29.923710_-90.041956@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca6ed041da84f504896c1f8df87605bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":203241153
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":203241153
+        }
+    ],
+    "wof:id":203241153,
+    "wof:lastmodified":1449026833,
+    "wof:name":"Bank of Louisiana",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.041956,29.92371,-90.041956,29.92371],
+  "geometry": {"coordinates":[-90.041956,29.92371],"type":"Point"}
+}

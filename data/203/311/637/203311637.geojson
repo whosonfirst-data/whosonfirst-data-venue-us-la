@@ -1,0 +1,68 @@
+{
+  "id": 203311637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.005203,30.250999,-92.005203,30.250999",
+    "geom:latitude":30.250999,
+    "geom:longitude":-92.005203,
+    "iso:country":"US",
+    "sg:address":"2022 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 9973",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V2R2sQf90PId34joZA58v_30.250999_-92.005203@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b6de59e811275306f3a8594d00c3a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203311637
+        }
+    ],
+    "wof:id":203311637,
+    "wof:lastmodified":1449025379,
+    "wof:name":"Penny Saver Seafood Market",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [-92.005203,30.250999,-92.005203,30.250999],
+  "geometry": {"coordinates":[-92.005203,30.250999],"type":"Point"}
+}

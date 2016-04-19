@@ -1,0 +1,82 @@
+{
+  "id": 203198759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.030359,29.90224,-90.030359,29.90224",
+    "geom:latitude":29.90224,
+    "geom:longitude":-90.030359,
+    "iso:country":"US",
+    "sg:address":"678 Terry Pkwy",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 366 1535",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866161
+    ],
+    "wof:brand_id":420573797,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22NbDLqljh1zl9A8aKH7AM_29.902240_-90.030359@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2102295d595852013687848020434004",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866161,
+            "region_id":85688735,
+            "venue_id":203198759
+        }
+    ],
+    "wof:id":203198759,
+    "wof:lastmodified":1457207385,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85866161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.030359,
+    29.90224,
+    -90.030359,
+    29.90224
+],
+  "geometry": {"coordinates":[-90.030359,29.90224],"type":"Point"}
+}

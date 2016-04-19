@@ -1,0 +1,68 @@
+{
+  "id": 203312399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.012398,30.2386,-92.012398,30.2386",
+    "geom:latitude":30.2386,
+    "geom:longitude":-92.012398,
+    "iso:country":"US",
+    "sg:address":"1224 NE Evangeline Trwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 261 0098",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:website":"www.tacobell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:brand_id":420573833,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GJ95FQYonqUINXpBsPzBd_30.238600_-92.012398@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"454f5731d30f93c9d96500b7c568f3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203312399
+        }
+    ],
+    "wof:id":203312399,
+    "wof:lastmodified":1457207600,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.012398,
+    30.2386,
+    -92.012398,
+    30.2386
+],
+  "geometry": {"coordinates":[-92.012398,30.2386],"type":"Point"}
+}

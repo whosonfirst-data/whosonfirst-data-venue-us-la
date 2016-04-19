@@ -1,0 +1,74 @@
+{
+  "id": 203325469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.950401,30.1402,-91.950401,30.1402",
+    "geom:latitude":30.1402,
+    "geom:longitude":-91.950401,
+    "iso:country":"US",
+    "sg:address":"1219 Albertson Pkwy",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 261 9424",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.home24bank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948381,
+        102081919,
+        85806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17f7zXfolza3ea0x34Or8l_30.140200_-91.950401@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"377292a9f4e337a8f8046afd88939bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948381,
+            "neighbourhood_id":85806101,
+            "region_id":85688735,
+            "venue_id":203325469
+        }
+    ],
+    "wof:id":203325469,
+    "wof:lastmodified":1449025657,
+    "wof:name":"Home Bank",
+    "wof:parent_id":85806101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-91.950401,30.1402,-91.950401,30.1402],
+  "geometry": {"coordinates":[-91.950401,30.1402],"type":"Point"}
+}

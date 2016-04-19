@@ -1,0 +1,66 @@
+{
+  "id": 203265003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.038706,29.966644,-90.038706,29.966644",
+    "geom:latitude":29.966644,
+    "geom:longitude":-90.038706,
+    "iso:country":"US",
+    "sg:address":"3601 Saint Claude Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 322 2200",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n6XN2EeTIAV5iQz4GppNx_29.966644_-90.038706@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f484333d98ac851604745eb3a9cde7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866089,
+            "region_id":85688735,
+            "venue_id":203265003
+        }
+    ],
+    "wof:id":203265003,
+    "wof:lastmodified":1449025562,
+    "wof:name":"Med-Pro Pharmacy",
+    "wof:parent_id":85866089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-90.038706,29.966644,-90.038706,29.966644],
+  "geometry": {"coordinates":[-90.038706,29.966644],"type":"Point"}
+}

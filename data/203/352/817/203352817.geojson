@@ -1,0 +1,67 @@
+{
+  "id": 203352817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.08677,30.233413,-92.08677,30.233413",
+    "geom:latitude":30.233413,
+    "geom:longitude":-92.08677,
+    "iso:country":"US",
+    "sg:address":"5416 Cameron St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 266 5884",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72DpIqNHKVTQFhfhi7oaMk_30.233413_-92.086770@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ebfef838278232d1f1b552ee10eb9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203352817
+        }
+    ],
+    "wof:id":203352817,
+    "wof:lastmodified":1449026101,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-92.08677,30.233413,-92.08677,30.233413],
+  "geometry": {"coordinates":[-92.08677,30.233413],"type":"Point"}
+}

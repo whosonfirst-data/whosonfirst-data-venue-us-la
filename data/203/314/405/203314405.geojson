@@ -1,0 +1,74 @@
+{
+  "id": 203314405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.012549,30.248221,-92.012549,30.248221",
+    "geom:latitude":30.248221,
+    "geom:longitude":-92.012549,
+    "iso:country":"US",
+    "sg:address":"1912 NE Evangeline Trwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SCRpDFqbtXUZGblb4KI0Y_30.248221_-92.012549@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5eb91dfeaa993c7ec11fb55281f1b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203314405
+        }
+    ],
+    "wof:id":203314405,
+    "wof:lastmodified":1449026794,
+    "wof:name":"Bank of America Atm",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-92.012549,30.248221,-92.012549,30.248221],
+  "geometry": {"coordinates":[-92.012549,30.248221],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203330975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.048103,30.316,-92.048103,30.316",
+    "geom:latitude":30.316,
+    "geom:longitude":-92.048103,
+    "iso:country":"US",
+    "sg:address":"200 S Saint John St",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 5683",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01AMOCNjFpmYZnYF1hSRuG_30.316000_-92.048103@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4889795c84a0c480d013e8c568dc4953",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":203330975
+        }
+    ],
+    "wof:id":203330975,
+    "wof:lastmodified":1449025882,
+    "wof:name":"Childrens Discovery Center",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [-92.048103,30.316,-92.048103,30.316],
+  "geometry": {"coordinates":[-92.048103,30.316],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 203293561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.064833,29.954526,-90.064833,29.954526",
+    "geom:latitude":29.954526,
+    "geom:longitude":-90.064833,
+    "iso:country":"US",
+    "sg:address":"National Park Service, U.S. Dept. of the Interior 419 Decatur Street",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 589 4841",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"www.nps.gov/jazz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25oX4H6iXU4tUCVblPm3Nu_29.954526_-90.064833@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12e6b2abd0ba57a6b1260a811e8fba81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203293561
+        }
+    ],
+    "wof:id":203293561,
+    "wof:lastmodified":1449025306,
+    "wof:name":"New Orleans Jazz National Historical Park",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [-90.064833,29.954526,-90.064833,29.954526],
+  "geometry": {"coordinates":[-90.064833,29.954526],"type":"Point"}
+}

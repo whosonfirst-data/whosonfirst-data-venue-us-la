@@ -1,0 +1,79 @@
+{
+  "id": 203357581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.581367,30.19636,-93.581367,30.19636",
+    "geom:latitude":30.19636,
+    "geom:longitude":-93.581367,
+    "iso:country":"US",
+    "sg:address":"1000 Horridge St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 3564",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j0NjInws32D8SpLhmgHB4_30.196360_-93.581367@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07880b93e9c75127d68b5696f588a8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":203357581
+        }
+    ],
+    "wof:id":203357581,
+    "wof:lastmodified":1449026630,
+    "wof:name":"Magnolias Apartments",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-93.581367,30.19636,-93.581367,30.19636],
+  "geometry": {"coordinates":[-93.581367,30.19636],"type":"Point"}
+}

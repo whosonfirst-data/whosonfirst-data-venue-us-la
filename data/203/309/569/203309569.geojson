@@ -1,0 +1,67 @@
+{
+  "id": 203309569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.012309,30.247605,-92.012309,30.247605",
+    "geom:latitude":30.247605,
+    "geom:longitude":-92.012309,
+    "iso:country":"US",
+    "sg:address":"1818 NE Evangeline Trwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 9880",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.savon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F9NqELwKkIqKcLhiHHodj_30.247605_-92.012309@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d6912169f4b9f3b4eab4608c3509d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203309569
+        }
+    ],
+    "wof:id":203309569,
+    "wof:lastmodified":1449025343,
+    "wof:name":"Sav-On Pharmacy",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-92.012309,30.247605,-92.012309,30.247605],
+  "geometry": {"coordinates":[-92.012309,30.247605],"type":"Point"}
+}

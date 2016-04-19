@@ -1,0 +1,67 @@
+{
+  "id": 203263419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.053078,29.963795,-90.053078,29.963795",
+    "geom:latitude":29.963795,
+    "geom:longitude":-90.053078,
+    "iso:country":"US",
+    "sg:address":"2440 Chartres St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 943 0010",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:website":"www.nolacakes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85819021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MlN9ZZ72aVkjq7VBBDmA8_29.963795_-90.053078@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f8812b3517b46835cdcde7817384436",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85819021,
+            "region_id":85688735,
+            "venue_id":203263419
+        }
+    ],
+    "wof:id":203263419,
+    "wof:lastmodified":1449026823,
+    "wof:name":"New Orleans Cake Cafe & Bakery",
+    "wof:parent_id":85819021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.053078,29.963795,-90.053078,29.963795],
+  "geometry": {"coordinates":[-90.053078,29.963795],"type":"Point"}
+}

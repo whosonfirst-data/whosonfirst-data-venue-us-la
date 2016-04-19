@@ -1,0 +1,73 @@
+{
+  "id": 203170969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.155037,30.012329,-90.155037,30.012329",
+    "geom:latitude":30.012329,
+    "geom:longitude":-90.155037,
+    "iso:country":"US",
+    "sg:address":"3500 N Causeway Blvd # 210",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 3636",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "broker",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948743,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7diXEcjgyAi8bFi4Z1YQXY_30.012329_-90.155037@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"163470b312c7ba0149350a9fee5391c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":203170969
+        }
+    ],
+    "wof:id":203170969,
+    "wof:lastmodified":1449025106,
+    "wof:name":"Mid-Ship Logistics, Inc.",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "shipping"
+    ]
+},
+  "bbox": [-90.155037,30.012329,-90.155037,30.012329],
+  "geometry": {"coordinates":[-90.155037,30.012329],"type":"Point"}
+}

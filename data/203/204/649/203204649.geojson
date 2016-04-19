@@ -1,0 +1,71 @@
+{
+  "id": 203204649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.023715,29.88335,-90.023715,29.88335",
+    "geom:latitude":29.88335,
+    "geom:longitude":-90.023715,
+    "iso:country":"US",
+    "sg:address":"2701 Belle Chasse Hwy",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 392 6970",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948739,
+        102083179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WOrQwuGW96spK3j1bHhFJ_29.883350_-90.023715@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40944fe769677e040de5cf7ccd3e6b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948739,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203204649
+        }
+    ],
+    "wof:id":203204649,
+    "wof:lastmodified":1449026900,
+    "wof:name":"Kmart Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-90.023715,29.88335,-90.023715,29.88335],
+  "geometry": {"coordinates":[-90.023715,29.88335],"type":"Point"}
+}

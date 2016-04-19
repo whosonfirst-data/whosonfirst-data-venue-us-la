@@ -1,0 +1,77 @@
+{
+  "id": 203259149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.06646,29.962376,-90.06646,29.962376",
+    "geom:latitude":29.962376,
+    "geom:longitude":-90.06646,
+    "iso:country":"US",
+    "sg:address":"942 N Rampart St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 569 9979",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "french"
+    ],
+    "sg:website":"www.meauxbar.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85891217,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mw39M8kgnqqa6LBpq7SgF_29.962376_-90.066460@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6968d7b9ee2db96b64e296ebb4975d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891217,
+            "region_id":85688735,
+            "venue_id":203259149
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203259149
+        }
+    ],
+    "wof:id":203259149,
+    "wof:lastmodified":1449025370,
+    "wof:name":"Meauxbar Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [-90.06646,29.962376,-90.06646,29.962376],
+  "geometry": {"coordinates":[-90.06646,29.962376],"type":"Point"}
+}

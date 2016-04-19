@@ -1,0 +1,98 @@
+{
+  "id": 203237445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.271746,29.986288,-90.271746,29.986288",
+    "geom:latitude":29.986288,
+    "geom:longitude":-90.271746,
+    "iso:country":"US",
+    "sg:address":"200 Crofton Rd",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 463 3339",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "sg:website":"http://www.fedex.com/us/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948743,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZGMYOeidCiB3KguprLKjs_29.986288_-90.271746@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f23e02b701b2e45d71ab03183f0e214",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":203237445
+        }
+    ],
+    "wof:id":203237445,
+    "wof:lastmodified":1449024992,
+    "wof:name":"FedEx",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [-90.271746,29.986288,-90.271746,29.986288],
+  "geometry": {"coordinates":[-90.271746,29.986288],"type":"Point"}
+}

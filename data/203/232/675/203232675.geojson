@@ -1,0 +1,66 @@
+{
+  "id": 203232675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.060676,29.895652,-90.060676,29.895652",
+    "geom:latitude":29.895652,
+    "geom:longitude":-90.060676,
+    "iso:country":"US",
+    "sg:address":"1321 Manhattan Blvd",
+    "sg:city":"Harvey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 227 0544",
+    "sg:postcode":"70058",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.banfield.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948753,
+        102083179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mkq0DvQ6uCx9tTtMoTzIt_29.895652_-90.060676@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"178d322c5cda70cadac98e55eeec36d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948753,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203232675
+        }
+    ],
+    "wof:id":203232675,
+    "wof:lastmodified":1449025530,
+    "wof:name":"Banfield the Pet Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-90.060676,29.895652,-90.060676,29.895652],
+  "geometry": {"coordinates":[-90.060676,29.895652],"type":"Point"}
+}

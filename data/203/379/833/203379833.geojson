@@ -1,0 +1,72 @@
+{
+  "id": 203379833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.846276,32.603339,-93.846276,32.603339",
+    "geom:latitude":32.603339,
+    "geom:longitude":-93.846276,
+    "iso:country":"US",
+    "sg:address":"5937 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 9383",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zUDrlAAlN0Hk679klr8j4_32.603339_-93.846276@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66a992016449fd911dec587d7561b068",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":203379833
+        }
+    ],
+    "wof:id":203379833,
+    "wof:lastmodified":1449026044,
+    "wof:name":"Tim's Paint And Collison Inc",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-93.846276,32.603339,-93.846276,32.603339],
+  "geometry": {"coordinates":[-93.846276,32.603339],"type":"Point"}
+}

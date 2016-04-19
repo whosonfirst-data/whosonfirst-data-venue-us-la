@@ -1,0 +1,68 @@
+{
+  "id": 203246409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.05397,29.953571,-90.05397,29.953571",
+    "geom:latitude":29.953571,
+    "geom:longitude":-90.05397,
+    "iso:country":"US",
+    "sg:address":"225 Morgan St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70114",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"www.friendsofalgierscourthouse.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GSQokgE4JQI5SvoGPQt9o_29.953571_-90.053970@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"393849d99834af6d685749071c4ea621",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866153,
+            "region_id":85688735,
+            "venue_id":203246409
+        }
+    ],
+    "wof:id":203246409,
+    "wof:lastmodified":1449025063,
+    "wof:name":"Algiers Courthouse",
+    "wof:parent_id":85866153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [-90.05397,29.953571,-90.05397,29.953571],
+  "geometry": {"coordinates":[-90.05397,29.953571],"type":"Point"}
+}

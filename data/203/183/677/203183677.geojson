@@ -1,0 +1,80 @@
+{
+  "id": 203183677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.966283,29.936879,-89.966283,29.936879",
+    "geom:latitude":29.936879,
+    "geom:longitude":-89.966283,
+    "iso:country":"US",
+    "sg:address":"2002 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 7050",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qz5z2KK7zEVKDLESZvgYj_29.936879_-89.966283@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da07c285b435b2924ca480c1a4c1c4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203183677
+        }
+    ],
+    "wof:id":203183677,
+    "wof:lastmodified":1449025959,
+    "wof:name":"Meraux Food Store",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-89.966283,29.936879,-89.966283,29.936879],
+  "geometry": {"coordinates":[-89.966283,29.936879],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203388761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.882187,32.500058,-93.882187,32.500058",
+    "geom:latitude":32.500058,
+    "geom:longitude":-93.882187,
+    "iso:country":"US",
+    "sg:address":"2900 Shorewood Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 631 7005",
+    "sg:postcode":"71119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "consultant",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85857989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QjAb2caw69AkUo6cAOUdw_32.500058_-93.882187@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c11b0ae7b61373fe929149bc73aa35be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85857989,
+            "region_id":85688735,
+            "venue_id":203388761
+        }
+    ],
+    "wof:id":203388761,
+    "wof:lastmodified":1449025028,
+    "wof:name":"Wells Transportation",
+    "wof:parent_id":85857989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "public"
+    ]
+},
+  "bbox": [-93.882187,32.500058,-93.882187,32.500058],
+  "geometry": {"coordinates":[-93.882187,32.500058],"type":"Point"}
+}

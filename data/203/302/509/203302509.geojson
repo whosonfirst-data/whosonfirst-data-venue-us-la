@@ -1,0 +1,72 @@
+{
+  "id": 203302509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.06501,29.958155,-90.06501,29.958155",
+    "geom:latitude":29.958155,
+    "geom:longitude":-90.06501,
+    "iso:country":"US",
+    "sg:address":"726 St. Peter St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Jazz & Blues",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 2841",
+    "sg:postcode":"70195",
+    "sg:province":"LA",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.preservationhall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NCdCw0GDakToBjxEQg4nz_29.958155_-90.065010@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8027b14d1d63fc9567c1971df45669a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203302509
+        }
+    ],
+    "wof:id":203302509,
+    "wof:lastmodified":1449025550,
+    "wof:name":"Preservation Hall",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [-90.06501,29.958155,-90.06501,29.958155],
+  "geometry": {"coordinates":[-90.06501,29.958155],"type":"Point"}
+}

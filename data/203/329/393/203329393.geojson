@@ -1,0 +1,67 @@
+{
+  "id": 203329393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.978167,30.157546,-91.978167,30.157546",
+    "geom:latitude":30.157546,
+    "geom:longitude":-91.978167,
+    "iso:country":"US",
+    "sg:address":"300 Industrial Trce",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 837 8765",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.whc-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948381,
+        102081919,
+        85806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XduLVC3ZOJpRdfWprtNxG_30.157546_-91.978167@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1309f2137ca252a37d5bde1e7d39497",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948381,
+            "neighbourhood_id":85806101,
+            "region_id":85688735,
+            "venue_id":203329393
+        }
+    ],
+    "wof:id":203329393,
+    "wof:lastmodified":1449025432,
+    "wof:name":"Whc Inc",
+    "wof:parent_id":85806101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-91.978167,30.157546,-91.978167,30.157546],
+  "geometry": {"coordinates":[-91.978167,30.157546],"type":"Point"}
+}

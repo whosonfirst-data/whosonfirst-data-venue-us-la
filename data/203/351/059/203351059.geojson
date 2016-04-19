@@ -1,0 +1,68 @@
+{
+  "id": 203351059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.071999,30.235701,-92.071999,30.235701",
+    "geom:latitude":30.235701,
+    "geom:longitude":-92.071999,
+    "iso:country":"US",
+    "sg:address":"305 Pecan Grove Rd",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 0226",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gbAK8s9nhGqQEISLZUW78_30.235701_-92.071999@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e15e8e5125bf30a5369cb9adbaf640e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203351059
+        }
+    ],
+    "wof:id":203351059,
+    "wof:lastmodified":1449026562,
+    "wof:name":"Kent's Body Shop & Auto Repair",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-92.071999,30.235701,-92.071999,30.235701],
+  "geometry": {"coordinates":[-92.071999,30.235701],"type":"Point"}
+}

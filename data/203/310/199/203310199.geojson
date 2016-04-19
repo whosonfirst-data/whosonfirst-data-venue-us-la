@@ -1,0 +1,66 @@
+{
+  "id": 203310199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.006599,30.2449,-92.006599,30.2449",
+    "geom:latitude":30.2449,
+    "geom:longitude":-92.006599,
+    "iso:country":"US",
+    "sg:address":"1419 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 5228",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73jV2wSXUnT7eIu34jjHB8_30.244900_-92.006599@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ace2f1723f217e3b35b75d8cd8deacde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203310199
+        }
+    ],
+    "wof:id":203310199,
+    "wof:lastmodified":1449026104,
+    "wof:name":"Thrifty Way Pharmacy of Louisiana No 17",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-92.006599,30.2449,-92.006599,30.2449],
+  "geometry": {"coordinates":[-92.006599,30.2449],"type":"Point"}
+}

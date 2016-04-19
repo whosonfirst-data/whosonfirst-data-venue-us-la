@@ -1,0 +1,78 @@
+{
+  "id": 203312571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.003197,30.2563,-92.003197,30.2563",
+    "geom:latitude":30.2563,
+    "geom:longitude":-92.003197,
+    "iso:country":"US",
+    "sg:address":"301 Peter St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 1323",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4diIERwQVnl7t5KYRyWa4J_30.256300_-92.003197@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01d5200cb1f77de1813d2a9b01a4a5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203312571
+        }
+    ],
+    "wof:id":203312571,
+    "wof:lastmodified":1449025884,
+    "wof:name":"Romper Room Child Care of Lafayette",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [-92.003197,30.2563,-92.003197,30.2563],
+  "geometry": {"coordinates":[-92.003197,30.2563],"type":"Point"}
+}

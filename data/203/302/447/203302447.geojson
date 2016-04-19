@@ -1,0 +1,72 @@
+{
+  "id": 203302447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063515,29.955511,-90.063515,29.955511",
+    "geom:latitude":29.955511,
+    "geom:longitude":-90.063515,
+    "iso:country":"US",
+    "sg:address":"723 St. Peter St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 861 2727",
+    "sg:postcode":"70195",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tour"
+    ],
+    "sg:website":"www.hauntedhistorytours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L8WVGhYmC7AWyzIad8qg5_29.955511_-90.063515@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fd6c7a5dd45b1b411dabfd0998bab9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203302447
+        }
+    ],
+    "wof:id":203302447,
+    "wof:lastmodified":1449025553,
+    "wof:name":"Haunted History Ghost Tour",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour"
+    ]
+},
+  "bbox": [-90.063515,29.955511,-90.063515,29.955511],
+  "geometry": {"coordinates":[-90.063515,29.955511],"type":"Point"}
+}

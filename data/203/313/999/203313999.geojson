@@ -1,0 +1,75 @@
+{
+  "id": 203313999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.009003,30.2481,-92.009003,30.2481",
+    "geom:latitude":30.2481,
+    "geom:longitude":-92.009003,
+    "iso:country":"US",
+    "sg:address":"180 Castille Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 3303",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:brand_id":420573763,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IuP3p9Ie4w65wKrJtKopb_30.248100_-92.009003@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1609b6d2506d96a4b5f5572ade15dbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203313999
+        }
+    ],
+    "wof:id":203313999,
+    "wof:lastmodified":1457207155,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -92.009003,
+    30.2481,
+    -92.009003,
+    30.2481
+],
+  "geometry": {"coordinates":[-92.00900300000001,30.2481],"type":"Point"}
+}

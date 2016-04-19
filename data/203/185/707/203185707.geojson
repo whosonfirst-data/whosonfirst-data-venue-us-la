@@ -1,0 +1,68 @@
+{
+  "id": 203185707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.053497,29.9247,-90.053497,29.9247",
+    "geom:latitude":29.9247,
+    "geom:longitude":-90.053497,
+    "iso:country":"US",
+    "sg:address":"1400 Jefferson St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 367 6676",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gzKiMEdFFQpTFfGZOGJkt_29.924700_-90.053497@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b5ed76ed9f6b8bc23bb5474969994af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":203185707
+        }
+    ],
+    "wof:id":203185707,
+    "wof:lastmodified":1449025254,
+    "wof:name":"Gretna Food Bank",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [-90.053497,29.9247,-90.053497,29.9247],
+  "geometry": {"coordinates":[-90.053497,29.9247],"type":"Point"}
+}

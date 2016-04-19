@@ -1,0 +1,67 @@
+{
+  "id": 203274933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.988098,30.0123,-89.988098,30.0123",
+    "geom:latitude":30.0123,
+    "geom:longitude":-89.988098,
+    "iso:country":"US",
+    "sg:address":"8160 Old Gentilly Rd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 245 1123",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ISZlkFFhAxmL4mnweEhPy_30.012300_-89.988098@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1b5abacff7215aa0ee2a267ef98233c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203274933
+        }
+    ],
+    "wof:id":203274933,
+    "wof:lastmodified":1449025178,
+    "wof:name":"Coleman's Auto Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-89.988098,30.0123,-89.988098,30.0123],
+  "geometry": {"coordinates":[-89.988098,30.0123],"type":"Point"}
+}

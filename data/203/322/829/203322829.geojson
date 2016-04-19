@@ -1,0 +1,74 @@
+{
+  "id": 203322829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.991746,30.16133,-91.991746,30.16133",
+    "geom:latitude":30.16133,
+    "geom:longitude":-91.991746,
+    "iso:country":"US",
+    "sg:address":"3527 W Pinhook Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 268 4514",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.capitalonebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UV7i0turSFkojm4KU63Ph_30.161330_-91.991746@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f9fe4c085e162069c36a71544e34d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":203322829
+        }
+    ],
+    "wof:id":203322829,
+    "wof:lastmodified":1449024925,
+    "wof:name":"Capital One",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-91.991746,30.16133,-91.991746,30.16133],
+  "geometry": {"coordinates":[-91.991746,30.16133],"type":"Point"}
+}

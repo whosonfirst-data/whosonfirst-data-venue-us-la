@@ -1,0 +1,73 @@
+{
+  "id": 203315303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.032391,30.2397,-92.032391,30.2397",
+    "geom:latitude":30.2397,
+    "geom:longitude":-92.032391,
+    "iso:country":"US",
+    "sg:address":"906 N University Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 5836",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o4VfXzdmV71fksIEpmerU_30.239700_-92.032391@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a7e21a732b5084793a565f2d749e203",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203315303
+        }
+    ],
+    "wof:id":203315303,
+    "wof:lastmodified":1449026770,
+    "wof:name":"Dave's Pest Control Services",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [-92.032391,30.2397,-92.032391,30.2397],
+  "geometry": {"coordinates":[-92.032391,30.2397],"type":"Point"}
+}

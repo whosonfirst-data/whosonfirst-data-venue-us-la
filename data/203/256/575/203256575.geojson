@@ -1,0 +1,77 @@
+{
+  "id": 203256575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063492,29.959361,-90.063492,29.959361",
+    "geom:latitude":29.959361,
+    "geom:longitude":-90.063492,
+    "iso:country":"US",
+    "sg:address":"838 Royal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 299 0040",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"salondiversions.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ibUO4VaDhsuci9e3ORDum_29.959361_-90.063492@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d72b09f2d852b1da1e1693f67c4691b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203256575
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203256575
+        }
+    ],
+    "wof:id":203256575,
+    "wof:lastmodified":1449026386,
+    "wof:name":"Salon Diversions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [-90.063492,29.959361,-90.063492,29.959361],
+  "geometry": {"coordinates":[-90.063492,29.959361],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 203312823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.996809,30.233915,-91.996809,30.233915",
+    "geom:latitude":30.233915,
+    "geom:longitude":-91.996809,
+    "iso:country":"US",
+    "sg:address":"603 Carmel Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 0909",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ybco3WYd9ODhModXKUO4b_30.233915_-91.996809@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"838ae14ff0cc9d4a259a487142cfaa64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203312823
+        }
+    ],
+    "wof:id":203312823,
+    "wof:lastmodified":1449025888,
+    "wof:name":"L & L Seafood",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [-91.996809,30.233915,-91.996809,30.233915],
+  "geometry": {"coordinates":[-91.996809,30.233915],"type":"Point"}
+}

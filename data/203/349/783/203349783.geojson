@@ -1,0 +1,74 @@
+{
+  "id": 203349783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.827202,30.133101,-91.827202,30.133101",
+    "geom:latitude":30.133101,
+    "geom:longitude":-91.827202,
+    "iso:country":"US",
+    "sg:address":"1117 N Main St # B",
+    "sg:city":"Saint Martinville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 394 7111",
+    "sg:postcode":"70582",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical",
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948415,
+        102081925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_305z6zk1yIs3E6D8bgV2w7_30.133101_-91.827202@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac484959a01442186e5cb619a4756d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081925,
+            "locality_id":85948415,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203349783
+        }
+    ],
+    "wof:id":203349783,
+    "wof:lastmodified":1449025635,
+    "wof:name":"Wiltz Daniel MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [-91.827202,30.133101,-91.827202,30.133101],
+  "geometry": {"coordinates":[-91.827202,30.133101],"type":"Point"}
+}

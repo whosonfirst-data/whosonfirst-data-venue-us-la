@@ -1,0 +1,77 @@
+{
+  "id": 203230099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.058499,29.891857,-90.058499,29.891857",
+    "geom:latitude":29.891857,
+    "geom:longitude":-90.058499,
+    "iso:country":"US",
+    "sg:address":"1501 Manhattan Blvd",
+    "sg:city":"Harvey",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 366 5255",
+    "sg:postcode":"70058",
+    "sg:province":"LA",
+    "sg:website":"www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948753,
+        102083179
+    ],
+    "wof:brand_id":420575293,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZmFAzFgpX9iDcQYdSXvdY_29.891857_-90.058499@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90cfdbad523b62ddfe29c2eed61823bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948753,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203230099
+        }
+    ],
+    "wof:id":203230099,
+    "wof:lastmodified":1457209509,
+    "wof:name":"Walmart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.058499,
+    29.891857,
+    -90.058499,
+    29.891857
+],
+  "geometry": {"coordinates":[-90.058499,29.891857],"type":"Point"}
+}

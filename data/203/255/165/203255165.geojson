@@ -1,0 +1,80 @@
+{
+  "id": 203255165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.062798,29.960501,-90.062798,29.960501",
+    "geom:latitude":29.960501,
+    "geom:longitude":-90.062798,
+    "iso:country":"US",
+    "sg:address":"721 Saint Philip St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 592 8505",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yXHTZJBHmSjv7fRn9DA0a_29.960501_-90.062798@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ec5920de0eb1d33c2ff888b5d42eb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203255165
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203255165
+        }
+    ],
+    "wof:id":203255165,
+    "wof:lastmodified":1449025773,
+    "wof:name":"Orleans Parish School Board",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-90.062798,29.960501,-90.062798,29.960501],
+  "geometry": {"coordinates":[-90.062798,29.960501],"type":"Point"}
+}

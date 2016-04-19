@@ -1,0 +1,79 @@
+{
+  "id": 203354039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.063192,30.411102,-92.063192,30.411102",
+    "geom:latitude":30.411102,
+    "geom:longitude":-92.063192,
+    "iso:country":"US",
+    "sg:address":"924 Napoleon Ave",
+    "sg:city":"Sunset",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"70584",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948421,
+        102083185
+    ],
+    "wof:brand_id":420575173,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07BDgtfLY1dTu2TzIHLExJ_30.411102_-92.063192@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17cb94998644494f4a7a5dbeef5cf21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083185,
+            "locality_id":85948421,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203354039
+        }
+    ],
+    "wof:id":203354039,
+    "wof:lastmodified":1457209444,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -92.063192,
+    30.411102,
+    -92.063192,
+    30.411102
+],
+  "geometry": {"coordinates":[-92.063192,30.411102],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203311199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.004659,30.230336,-92.004659,30.230336",
+    "geom:latitude":30.230336,
+    "geom:longitude":-92.004659,
+    "iso:country":"US",
+    "sg:address":"1001 E Simcoe St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 5677",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SI9HcTPSp4gxKcns5cOeN_30.230336_-92.004659@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28040597d3afb3c19795b751bab0ffbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203311199
+        }
+    ],
+    "wof:id":203311199,
+    "wof:lastmodified":1449025379,
+    "wof:name":"Golden Flamigo Nightclub",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [-92.004659,30.230336,-92.004659,30.230336],
+  "geometry": {"coordinates":[-92.004659,30.230336],"type":"Point"}
+}

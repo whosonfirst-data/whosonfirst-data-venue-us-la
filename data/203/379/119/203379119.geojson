@@ -1,0 +1,76 @@
+{
+  "id": 203379119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.710559,32.443419,-93.710559,32.443419",
+    "geom:latitude":32.443419,
+    "geom:longitude":-93.710559,
+    "iso:country":"US",
+    "sg:address":"1950 E 70th St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 629 2275",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "manufacturer",
+        "store",
+        "foods-wholesale"
+    ],
+    "sg:website":"http://www.justforfideaux.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SFvIkHTTgIeiM2Whw9aA3_32.443419_-93.710559@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f388cac1dcf69428b9cefb13d70d4a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":203379119
+        }
+    ],
+    "wof:id":203379119,
+    "wof:lastmodified":1449026047,
+    "wof:name":"Just For Fideaux",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "store",
+        "foods-wholesale"
+    ]
+},
+  "bbox": [-93.710559,32.443419,-93.710559,32.443419],
+  "geometry": {"coordinates":[-93.710559,32.443419],"type":"Point"}
+}

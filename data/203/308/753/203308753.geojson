@@ -1,0 +1,75 @@
+{
+  "id": 203308753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.013,30.228701,-92.013,30.228701",
+    "geom:latitude":30.228701,
+    "geom:longitude":-92.013,
+    "iso:country":"US",
+    "sg:address":"101 NW Evangeline Trwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 2070",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shuttle",
+        "car",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WTbq7bEFCXf7NNnShXPaD_30.228701_-92.013000@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b380a857140c3845ade4328a914ca58",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203308753
+        }
+    ],
+    "wof:id":203308753,
+    "wof:lastmodified":1449026892,
+    "wof:name":"Pro Auto Rentals",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "car",
+        "airport"
+    ]
+},
+  "bbox": [-92.013,30.228701,-92.013,30.228701],
+  "geometry": {"coordinates":[-92.013,30.228701],"type":"Point"}
+}

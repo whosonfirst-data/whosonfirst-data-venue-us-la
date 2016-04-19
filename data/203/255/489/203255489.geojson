@@ -1,0 +1,86 @@
+{
+  "id": 203255489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063475,29.959363,-90.063475,29.959363",
+    "geom:latitude":29.959363,
+    "geom:longitude":-90.063475,
+    "iso:country":"US",
+    "sg:address":"828 Royal St Ste 206",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 298 8876",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tour",
+        "school",
+        "specialty"
+    ],
+    "sg:website":"americanphotosafari.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4slJ0KxRswkzgDfIsAfyKk_29.959363_-90.063475@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"730e9c9a244da79f1630fdc148c0999c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203255489
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203255489
+        }
+    ],
+    "wof:id":203255489,
+    "wof:lastmodified":1449025771,
+    "wof:name":"American Photo Safari",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "school",
+        "specialty"
+    ]
+},
+  "bbox": [-90.063475,29.959363,-90.063475,29.959363],
+  "geometry": {"coordinates":[-90.063475,29.959363],"type":"Point"}
+}

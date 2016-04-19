@@ -1,0 +1,75 @@
+{
+  "id": 203181541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.956983,29.956552,-89.956983,29.956552",
+    "geom:latitude":29.956552,
+    "geom:longitude":-89.956983,
+    "iso:country":"US",
+    "sg:address":"4000 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 278 6924",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:brand_id":420573787,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KsUz8CjbkTcKE5pZVoKRY_29.956552_-89.956983@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7523e598342a238b7b36eb9012cca10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203181541
+        }
+    ],
+    "wof:id":203181541,
+    "wof:lastmodified":1457207322,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -89.956983,
+    29.956552,
+    -89.956983,
+    29.956552
+],
+  "geometry": {"coordinates":[-89.95698299999999,29.956552],"type":"Point"}
+}

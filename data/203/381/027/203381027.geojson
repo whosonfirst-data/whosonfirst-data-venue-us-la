@@ -1,0 +1,76 @@
+{
+  "id": 203381027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.797897,32.581589,-93.797897,32.581589",
+    "geom:latitude":32.581589,
+    "geom:longitude":-93.797897,
+    "iso:country":"US",
+    "sg:address":"1294 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 226 1222",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313871010&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K0S8rBtRcKjSwSgT6d1Ph_32.581589_-93.797897@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3328be75c2454c49b2882dc311d4c9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":203381027
+        }
+    ],
+    "wof:id":203381027,
+    "wof:lastmodified":1449025087,
+    "wof:name":"O R's Auto Repair",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [-93.797897,32.581589,-93.797897,32.581589],
+  "geometry": {"coordinates":[-93.797897,32.581589],"type":"Point"}
+}

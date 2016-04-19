@@ -1,0 +1,71 @@
+{
+  "id": 203258023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063067,29.959925,-90.063067,29.959925",
+    "geom:latitude":29.959925,
+    "geom:longitude":-90.063067,
+    "iso:country":"US",
+    "sg:address":"933 Royal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 6563",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fhIxW6jYCaegISQdzaCt0_29.959925_-90.063067@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4a93d57a9460db20a2333029c5e34c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203258023
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203258023
+        }
+    ],
+    "wof:id":203258023,
+    "wof:lastmodified":1449026437,
+    "wof:name":"Tommy's Flowers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.063067,29.959925,-90.063067,29.959925],
+  "geometry": {"coordinates":[-90.063067,29.959925],"type":"Point"}
+}

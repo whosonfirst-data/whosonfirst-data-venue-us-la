@@ -1,0 +1,73 @@
+{
+  "id": 203272129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.049202,30.012501,-90.049202,30.012501",
+    "geom:latitude":30.012501,
+    "geom:longitude":-90.049202,
+    "iso:country":"US",
+    "sg:address":"2657 Dreux Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 288 4000",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85834475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W5hTGjfoc1XgQ5sGIazFF_30.012501_-90.049202@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e12a23cd91f80929c4a1313712c298e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":203272129
+        }
+    ],
+    "wof:id":203272129,
+    "wof:lastmodified":1449026752,
+    "wof:name":"Malone Electrical Services",
+    "wof:parent_id":85834475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [-90.049202,30.012501,-90.049202,30.012501],
+  "geometry": {"coordinates":[-90.049202,30.012501],"type":"Point"}
+}

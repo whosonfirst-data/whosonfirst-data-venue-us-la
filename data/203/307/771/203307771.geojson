@@ -1,0 +1,68 @@
+{
+  "id": 203307771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.005203,30.2521,-92.005203,30.2521",
+    "geom:latitude":30.2521,
+    "geom:longitude":-92.005203,
+    "iso:country":"US",
+    "sg:address":"2206 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 1553",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fSSo3dl6zZSA1cBSSskUx_30.252100_-92.005203@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78f11e18cb2cea16130e3db50afff5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203307771
+        }
+    ],
+    "wof:id":203307771,
+    "wof:lastmodified":1449025405,
+    "wof:name":"Animal House Grooming and Boarding Inc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-92.005203,30.2521,-92.005203,30.2521],
+  "geometry": {"coordinates":[-92.005203,30.2521],"type":"Point"}
+}

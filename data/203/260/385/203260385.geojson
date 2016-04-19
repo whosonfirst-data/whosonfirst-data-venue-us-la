@@ -1,0 +1,77 @@
+{
+  "id": 203260385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.064003,29.9603,-90.064003,29.9603",
+    "geom:latitude":29.9603,
+    "geom:longitude":-90.064003,
+    "iso:country":"US",
+    "sg:address":"900 Bourbon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 598 1010",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "diner"
+    ],
+    "sg:website":"www.clovergrill.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PRJztJzFfhOUZOneqnDLD_29.960300_-90.064003@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d4fc3c10a918da5b4a5fe60f223477f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203260385
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203260385
+        }
+    ],
+    "wof:id":203260385,
+    "wof:lastmodified":1449025260,
+    "wof:name":"Clover Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diner"
+    ]
+},
+  "bbox": [-90.064003,29.9603,-90.064003,29.9603],
+  "geometry": {"coordinates":[-90.064003,29.9603],"type":"Point"}
+}

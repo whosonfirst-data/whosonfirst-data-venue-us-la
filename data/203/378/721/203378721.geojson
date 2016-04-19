@@ -1,0 +1,76 @@
+{
+  "id": 203378721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.78009,32.480463,-93.78009,32.480463",
+    "geom:latitude":32.480463,
+    "geom:longitude":-93.78009,
+    "iso:country":"US",
+    "sg:address":"3510 Hearne Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 631 5272",
+    "sg:postcode":"71103",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313871012&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85881005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03TvUplgJ5LG9FdZYaXTrr_32.480463_-93.780090@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2e2cf6afb1657aff38645afe5096460",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85881005,
+            "region_id":85688735,
+            "venue_id":203378721
+        }
+    ],
+    "wof:id":203378721,
+    "wof:lastmodified":1449026257,
+    "wof:name":"Tune-A-Car",
+    "wof:parent_id":85881005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [-93.78009,32.480463,-93.78009,32.480463],
+  "geometry": {"coordinates":[-93.78009,32.480463],"type":"Point"}
+}

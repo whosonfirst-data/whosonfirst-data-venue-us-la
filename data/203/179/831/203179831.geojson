@@ -1,0 +1,80 @@
+{
+  "id": 203179831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.965897,29.937599,-89.965897,29.937599",
+    "geom:latitude":29.937599,
+    "geom:longitude":-89.965897,
+    "iso:country":"US",
+    "sg:address":"2004 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 6834",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ueT0rmMwVum3Vw0ZaAJAA_29.937599_-89.965897@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc5e25a87d2ee88d005977532dddbea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203179831
+        }
+    ],
+    "wof:id":203179831,
+    "wof:lastmodified":1449026676,
+    "wof:name":"Meraux Food Stores Sporting Goods",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-89.965897,29.937599,-89.965897,29.937599],
+  "geometry": {"coordinates":[-89.965897,29.937599],"type":"Point"}
+}

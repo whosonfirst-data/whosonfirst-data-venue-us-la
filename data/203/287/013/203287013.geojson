@@ -1,0 +1,68 @@
+{
+  "id": 203287013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.065334,29.957396,-90.065334,29.957396",
+    "geom:latitude":29.957396,
+    "geom:longitude":-90.065334,
+    "iso:country":"US",
+    "sg:address":"621 Royal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "sg:website":"www.neworleanstours.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ciYKPJX3rQt82ZGBUGRHX_29.957396_-90.065334@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fe3958a2b248c7ff6ba23c6d3a5d65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203287013
+        }
+    ],
+    "wof:id":203287013,
+    "wof:lastmodified":1449025056,
+    "wof:name":"New Orleans Spirit Tours",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [-90.065334,29.957396,-90.065334,29.957396],
+  "geometry": {"coordinates":[-90.065334,29.957396],"type":"Point"}
+}

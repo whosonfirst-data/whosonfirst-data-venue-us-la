@@ -1,0 +1,73 @@
+{
+  "id": 203365435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.056343,32.791935,-93.056343,32.791935",
+    "geom:latitude":32.791935,
+    "geom:longitude":-93.056343,
+    "iso:country":"US",
+    "sg:address":"612 N Main St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"71040",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948175,
+        102081031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07eDjLmJbDzR3zmGwcCkap_32.791935_-93.056343@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e430471744435810fd12373c4107e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081031,
+            "locality_id":85948175,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203365435
+        }
+    ],
+    "wof:id":203365435,
+    "wof:lastmodified":1449025245,
+    "wof:name":"USPS - United States Post Office - Homer Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-93.056343,32.791935,-93.056343,32.791935],
+  "geometry": {"coordinates":[-93.056343,32.791935],"type":"Point"}
+}

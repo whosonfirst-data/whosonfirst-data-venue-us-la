@@ -1,0 +1,68 @@
+{
+  "id": 203266713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.044502,29.980101,-90.044502,29.980101",
+    "geom:latitude":29.980101,
+    "geom:longitude":-90.044502,
+    "iso:country":"US",
+    "sg:address":"2200 Saint Ferdinand St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 949 8593",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SwO3R6MKCaY7OQwSod8AD_29.980101_-90.044502@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e7d47d8fd0aa4b2bd28ca2b5f420d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866091,
+            "region_id":85688735,
+            "venue_id":203266713
+        }
+    ],
+    "wof:id":203266713,
+    "wof:lastmodified":1449025014,
+    "wof:name":"P & P Collision",
+    "wof:parent_id":85866091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-90.044502,29.980101,-90.044502,29.980101],
+  "geometry": {"coordinates":[-90.044502,29.980101],"type":"Point"}
+}

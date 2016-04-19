@@ -1,0 +1,75 @@
+{
+  "id": 203325563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.984703,30.1574,-91.984703,30.1574",
+    "geom:latitude":30.1574,
+    "geom:longitude":-91.984703,
+    "iso:country":"US",
+    "sg:address":"3730 Pinhook Rd",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 837 2191",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kV80SUkCSyWWAsymmxqcL_30.157400_-91.984703@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acf2bbfede7324290438029cc40374a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":203325563
+        }
+    ],
+    "wof:id":203325563,
+    "wof:lastmodified":1449025652,
+    "wof:name":"Evangeline Veterinary Clinic",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-91.984703,30.1574,-91.984703,30.1574],
+  "geometry": {"coordinates":[-91.984703,30.1574],"type":"Point"}
+}

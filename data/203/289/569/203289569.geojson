@@ -1,0 +1,73 @@
+{
+  "id": 203289569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063103,29.9498,-90.063103,29.9498",
+    "geom:latitude":29.9498,
+    "geom:longitude":-90.063103,
+    "iso:country":"US",
+    "sg:address":"2 Canal St Ste 2500",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 586 8777",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boating",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85891211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tfcME0GOL4tXYG5KAHyRI_29.949800_-90.063103@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ecfaa4ed322cc782b5654f77157ace9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891211,
+            "region_id":85688735,
+            "venue_id":203289569
+        }
+    ],
+    "wof:id":203289569,
+    "wof:lastmodified":1449026534,
+    "wof:name":"New Orleans Steamboat Company",
+    "wof:parent_id":85891211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boating",
+        "tour"
+    ]
+},
+  "bbox": [-90.063103,29.9498,-90.063103,29.9498],
+  "geometry": {"coordinates":[-90.063103,29.9498],"type":"Point"}
+}

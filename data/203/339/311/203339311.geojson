@@ -1,0 +1,68 @@
+{
+  "id": 203339311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.823997,30.0144,-91.823997,30.0144",
+    "geom:latitude":30.0144,
+    "geom:longitude":-91.823997,
+    "iso:country":"US",
+    "sg:address":"211 N Chestnut St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3696",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60lwl8xo5BTmDUKI69DIsa_30.014400_-91.823997@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4bfa74cfdb05afdf373149acb8241647",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":203339311
+        }
+    ],
+    "wof:id":203339311,
+    "wof:lastmodified":1449025755,
+    "wof:name":"Bennett's Paint & Body Shop",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-91.823997,30.0144,-91.823997,30.0144],
+  "geometry": {"coordinates":[-91.823997,30.0144],"type":"Point"}
+}

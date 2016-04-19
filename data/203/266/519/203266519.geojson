@@ -1,0 +1,76 @@
+{
+  "id": 203266519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.057603,29.968879,-90.057603,29.968879",
+    "geom:latitude":29.968879,
+    "geom:longitude":-90.057603,
+    "iso:country":"US",
+    "sg:address":"1100 Elysian Fields Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 943 9788",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85819021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jawENT0zyUvUHZ6miEk72_29.968879_-90.057603@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3555e356180fc895e189c769d2ec5b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85819021,
+            "region_id":85688735,
+            "venue_id":203266519
+        }
+    ],
+    "wof:id":203266519,
+    "wof:lastmodified":1449025014,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85819021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [-90.057603,29.968879,-90.057603,29.968879],
+  "geometry": {"coordinates":[-90.057603,29.968879],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 203222743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.03199,29.918815,-90.03199,29.918815",
+    "geom:latitude":29.918815,
+    "geom:longitude":-90.03199,
+    "iso:country":"US",
+    "sg:address":"91 Holmes Blvd Ste A",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 361 8881",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85869723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xw5Okb3w4tfW9CFgJMfjd_29.918815_-90.031990@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c1f5e5c187244e4d90e4499aab5bb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":203222743
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869723,
+            "region_id":85688735,
+            "venue_id":203222743
+        }
+    ],
+    "wof:id":203222743,
+    "wof:lastmodified":1449026249,
+    "wof:name":"Vanessa's Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.03199,29.918815,-90.03199,29.918815],
+  "geometry": {"coordinates":[-90.03199,29.918815],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 203240963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.066442,29.957893,-90.066442,29.957893",
+    "geom:latitude":29.957893,
+    "geom:longitude":-90.066442,
+    "iso:country":"US",
+    "sg:address":"813 Toulouse St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 553 2197",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wplAOzBEOKuZ7TLE3jfOs_29.957893_-90.066442@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc15e660002098ad7ff0569166606e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203240963
+        }
+    ],
+    "wof:id":203240963,
+    "wof:lastmodified":1449025134,
+    "wof:name":"Black Rose Flower Shop",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [-90.066442,29.957893,-90.066442,29.957893],
+  "geometry": {"coordinates":[-90.066442,29.957893],"type":"Point"}
+}

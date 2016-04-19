@@ -1,0 +1,68 @@
+{
+  "id": 203180551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.9618,29.9345,-89.9618,29.9345",
+    "geom:latitude":29.9345,
+    "geom:longitude":-89.9618,
+    "iso:country":"US",
+    "sg:address":"617 E Saint Bernard Hwy",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 3707",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gqiABESj2TvwZSnIAn9Yt_29.934500_-89.961800@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8a7c70c56a04abea98d286f8a331310",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":203180551
+        }
+    ],
+    "wof:id":203180551,
+    "wof:lastmodified":1449025030,
+    "wof:name":"Groomingdales",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-89.9618,29.9345,-89.9618,29.9345],
+  "geometry": {"coordinates":[-89.9618,29.9345],"type":"Point"}
+}

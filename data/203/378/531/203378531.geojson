@@ -1,0 +1,77 @@
+{
+  "id": 203378531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.744204,32.509818,-93.744204,32.509818",
+    "geom:latitude":32.509818,
+    "geom:longitude":-93.744204,
+    "iso:country":"US",
+    "sg:address":"322 Franklin St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 425 9910",
+    "sg:postcode":"71101",
+    "sg:province":"LA",
+    "sg:tags":[
+        "scooters-repairing",
+        "instruction",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947997,
+        102084883,
+        85880977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dm25Q0VWWbKGFe77QO63x_32.509818_-93.744204@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"624dc720755259c6bf352f3434255766",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85880977,
+            "region_id":85688735,
+            "venue_id":203378531
+        }
+    ],
+    "wof:id":203378531,
+    "wof:lastmodified":1449026252,
+    "wof:name":"R & D Cycles",
+    "wof:parent_id":85880977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "instruction",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [-93.744204,32.509818,-93.744204,32.509818],
+  "geometry": {"coordinates":[-93.744204,32.509818],"type":"Point"}
+}

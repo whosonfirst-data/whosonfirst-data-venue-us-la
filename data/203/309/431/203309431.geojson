@@ -1,0 +1,73 @@
+{
+  "id": 203309431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.005898,30.2479,-92.005898,30.2479",
+    "geom:latitude":30.2479,
+    "geom:longitude":-92.005898,
+    "iso:country":"US",
+    "sg:address":"1935 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 1418",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ImCLCmqsJFY9z2pQlVJMf_30.247900_-92.005898@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ec60ac9715d48dfd4c6d5e7104e8376",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203309431
+        }
+    ],
+    "wof:id":203309431,
+    "wof:lastmodified":1449025340,
+    "wof:name":"Pizza Village Inc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [-92.005898,30.2479,-92.005898,30.2479],
+  "geometry": {"coordinates":[-92.005898,30.2479],"type":"Point"}
+}

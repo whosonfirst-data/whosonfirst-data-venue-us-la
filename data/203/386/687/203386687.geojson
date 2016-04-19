@@ -1,0 +1,79 @@
+{
+  "id": 203386687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.830573,32.407539,-93.830573,32.407539",
+    "geom:latitude":32.407539,
+    "geom:longitude":-93.830573,
+    "iso:country":"US",
+    "sg:address":"3555 Cedar Creek Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 3555",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1daasDDwH4e09EgiAZKftk_32.407539_-93.830573@1303262946"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a23cabbd72c34567028661d5095d857",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":203386687
+        }
+    ],
+    "wof:id":203386687,
+    "wof:lastmodified":1449025936,
+    "wof:name":"Cedar Creek Village Apartments",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-93.830573,32.407539,-93.830573,32.407539],
+  "geometry": {"coordinates":[-93.830573,32.407539],"type":"Point"}
+}

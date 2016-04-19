@@ -1,0 +1,70 @@
+{
+  "id": 203397847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.242065,32.902483,-92.242065,32.902483",
+    "geom:latitude":32.902483,
+    "geom:longitude":-92.242065,
+    "iso:country":"US",
+    "sg:address":"3150 Taylor St",
+    "sg:city":"Marion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 292 2795",
+    "sg:postcode":"71260",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948393,
+        102084877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YuPb2XClcFFhIMceFBiMX_32.902483_-92.242065@1303262947"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2869974ce97a74d3d714d756057307a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084877,
+            "locality_id":85948393,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203397847
+        }
+    ],
+    "wof:id":203397847,
+    "wof:lastmodified":1449025672,
+    "wof:name":"Union Clinic of Marion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-92.242065,32.902483,-92.242065,32.902483],
+  "geometry": {"coordinates":[-92.242065,32.902483],"type":"Point"}
+}

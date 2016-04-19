@@ -1,0 +1,66 @@
+{
+  "id": 203286745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.064301,29.955299,-90.064301,29.955299",
+    "geom:latitude":29.955299,
+    "geom:longitude":-90.064301,
+    "iso:country":"US",
+    "sg:address":"501 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 7225",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tnjc09HGUpuoozjhsj8KB_29.955299_-90.064301@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5a0184df33fe695a6c91a660504b3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203286745
+        }
+    ],
+    "wof:id":203286745,
+    "wof:lastmodified":1449025415,
+    "wof:name":"Marie Laveau's Voodoo Bar",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [-90.064301,29.955299,-90.064301,29.955299],
+  "geometry": {"coordinates":[-90.064301,29.955299],"type":"Point"}
+}

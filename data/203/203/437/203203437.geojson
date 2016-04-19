@@ -1,0 +1,71 @@
+{
+  "id": 203203437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.035103,29.9219,-90.035103,29.9219",
+    "geom:latitude":29.9219,
+    "geom:longitude":-90.035103,
+    "iso:country":"US",
+    "sg:address":"127 Terry Pkwy",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 367 6768",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85869723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24bVx3ZYNsouNZjo7xBRX9_29.921900_-90.035103@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4b0ea98de07e59fe6701fd458a061bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":203203437
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869723,
+            "region_id":85688735,
+            "venue_id":203203437
+        }
+    ],
+    "wof:id":203203437,
+    "wof:lastmodified":1449025752,
+    "wof:name":"Terry Parkway Coin-Op Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-90.035103,29.9219,-90.035103,29.9219],
+  "geometry": {"coordinates":[-90.035103,29.9219],"type":"Point"}
+}

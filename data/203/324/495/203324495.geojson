@@ -1,0 +1,73 @@
+{
+  "id": 203324495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.267219,30.349318,-92.267219,30.349318",
+    "geom:latitude":30.349318,
+    "geom:longitude":-92.267219,
+    "iso:country":"US",
+    "sg:address":"7031 Church Point Hwy",
+    "sg:city":"Branch",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"70516",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948643,
+        102081037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tdzJtbbRjHBaCNkKKEsIU_30.349318_-92.267219@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7207ab2bbf11e234170e1de7b2100300",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081037,
+            "locality_id":85948643,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203324495
+        }
+    ],
+    "wof:id":203324495,
+    "wof:lastmodified":1449026050,
+    "wof:name":"USPS - United States Post Office - Branch Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-92.267219,30.349318,-92.267219,30.349318],
+  "geometry": {"coordinates":[-92.267219,30.349318],"type":"Point"}
+}

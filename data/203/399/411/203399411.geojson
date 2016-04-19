@@ -1,0 +1,74 @@
+{
+  "id": 203399411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.466665,31.491964,-93.466665,31.491964",
+    "geom:latitude":31.491964,
+    "geom:longitude":-93.466665,
+    "iso:country":"US",
+    "sg:address":"737 Four L Dr",
+    "sg:city":"Fisher",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 6752",
+    "sg:postcode":"71426",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AL9mIiC5ERqGAoK5LaFE1_31.491964_-93.466665@1303262947"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f229ad4374696e804d0643b456651902",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":203399411
+        }
+    ],
+    "wof:id":203399411,
+    "wof:lastmodified":1449025276,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-93.466665,31.491964,-93.466665,31.491964],
+  "geometry": {"coordinates":[-93.466665,31.491964],"type":"Point"}
+}

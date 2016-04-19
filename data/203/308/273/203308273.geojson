@@ -1,0 +1,75 @@
+{
+  "id": 203308273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.997244,30.230592,-91.997244,30.230592",
+    "geom:latitude":30.230592,
+    "geom:longitude":-91.997244,
+    "iso:country":"US",
+    "sg:address":"210 Belleau St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 4747",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "surgeon",
+        "oral",
+        "pediatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CnU39s11vVxNcnWxdkBx9_30.230592_-91.997244@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83932b9387488e4408fe490d51133741",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203308273
+        }
+    ],
+    "wof:id":203308273,
+    "wof:lastmodified":1449026893,
+    "wof:name":"Miller S Troy DDS",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral",
+        "pediatric"
+    ]
+},
+  "bbox": [-91.997244,30.230592,-91.997244,30.230592],
+  "geometry": {"coordinates":[-91.997244,30.230592],"type":"Point"}
+}

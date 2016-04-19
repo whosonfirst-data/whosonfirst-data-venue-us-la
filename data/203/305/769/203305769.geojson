@@ -1,0 +1,68 @@
+{
+  "id": 203305769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.78213,30.272939,-89.78213,30.272939",
+    "geom:latitude":30.272939,
+    "geom:longitude":-89.78213,
+    "iso:country":"US",
+    "sg:address":"353 Robert St",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 646 2082",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Z6BUNr4CbSfmD652ih9h_30.272939_-89.782130@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6a7c33dde68221ae41f1a1958db534d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":203305769
+        }
+    ],
+    "wof:id":203305769,
+    "wof:lastmodified":1449025222,
+    "wof:name":"Hair-Port",
+    "wof:parent_id":85810351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-89.78213,30.272939,-89.78213,30.272939],
+  "geometry": {"coordinates":[-89.78213,30.272939],"type":"Point"}
+}

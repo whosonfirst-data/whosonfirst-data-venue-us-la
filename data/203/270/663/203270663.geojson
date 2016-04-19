@@ -1,0 +1,68 @@
+{
+  "id": 203270663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.059857,30.012951,-90.059857,30.012951",
+    "geom:latitude":30.012951,
+    "geom:longitude":-90.059857,
+    "iso:country":"US",
+    "sg:address":"5315 Elysian Fields Ave.",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 265 0721",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sushi",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6okgIpUFQreXbjO0QVydDE_30.012951_-90.059857@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b8f896c6a65bb192bd6b6dbecf015ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":203270663
+        }
+    ],
+    "wof:id":203270663,
+    "wof:lastmodified":1449025284,
+    "wof:name":"Good Time Sushi",
+    "wof:parent_id":85866063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "bar"
+    ]
+},
+  "bbox": [-90.059857,30.012951,-90.059857,30.012951],
+  "geometry": {"coordinates":[-90.059857,30.012951],"type":"Point"}
+}

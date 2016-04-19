@@ -1,0 +1,102 @@
+{
+  "id": 203315365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.033165,30.245348,-92.033165,30.245348",
+    "geom:latitude":30.245348,
+    "geom:longitude":-92.033165,
+    "iso:country":"US",
+    "sg:address":"1181 N University Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 7731",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "major",
+        "electric",
+        "supply",
+        "supplies-wholesale",
+        "appliances-small",
+        "equipment",
+        "consumer",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0056b1Z32abZTk1LSB0uEx_30.245348_-92.033165@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ea0848534f746f91fe1952a118c6660",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":203315365
+        }
+    ],
+    "wof:id":203315365,
+    "wof:lastmodified":1449026771,
+    "wof:name":"Elliott Electric Supply",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "electric",
+        "supply",
+        "supplies-wholesale",
+        "appliances-small",
+        "equipment",
+        "consumer",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [-92.033165,30.245348,-92.033165,30.245348],
+  "geometry": {"coordinates":[-92.033165,30.245348],"type":"Point"}
+}

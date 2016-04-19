@@ -1,0 +1,76 @@
+{
+  "id": 203256923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.062103,29.959,-90.062103,29.959",
+    "geom:latitude":29.959,
+    "geom:longitude":-90.062103,
+    "iso:country":"US",
+    "sg:address":"900 Chartres St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 524 1107",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uOhkV47u68W4t9dBoGqSI_29.959000_-90.062103@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d026c552290883f59b71a10bb6fa345f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203256923
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203256923
+        }
+    ],
+    "wof:id":203256923,
+    "wof:lastmodified":1449026390,
+    "wof:name":"Harry's Corner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [-90.062103,29.959,-90.062103,29.959],
+  "geometry": {"coordinates":[-90.062103,29.959],"type":"Point"}
+}

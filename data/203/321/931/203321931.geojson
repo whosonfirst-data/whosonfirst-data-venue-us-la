@@ -1,0 +1,73 @@
+{
+  "id": 203321931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.991501,30.1535,-91.991501,30.1535",
+    "geom:latitude":30.1535,
+    "geom:longitude":-91.991501,
+    "iso:country":"US",
+    "sg:address":"110 Glaser Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 837 3737",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lBE3jxYLd5BgH19R429SL_30.153500_-91.991501@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0b76c2332175d45a4707743c9c8a919",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":203321931
+        }
+    ],
+    "wof:id":203321931,
+    "wof:lastmodified":1449024989,
+    "wof:name":"Dede's Florists",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [-91.991501,30.1535,-91.991501,30.1535],
+  "geometry": {"coordinates":[-91.991501,30.1535],"type":"Point"}
+}

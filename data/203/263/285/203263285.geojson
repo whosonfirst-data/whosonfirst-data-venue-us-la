@@ -1,0 +1,66 @@
+{
+  "id": 203263285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.040397,29.966929,-90.040397,29.966929",
+    "geom:latitude":29.966929,
+    "geom:longitude":-90.040397,
+    "iso:country":"US",
+    "sg:address":"3405 Saint Claude Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 943 9578",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bRzb9ADkYP0rzK6pcZDmN_29.966929_-90.040397@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54e3a4cfb7893cc7c3a86a8af2590547",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866089,
+            "region_id":85688735,
+            "venue_id":203263285
+        }
+    ],
+    "wof:id":203263285,
+    "wof:lastmodified":1449026819,
+    "wof:name":"Dyer Farere Dr",
+    "wof:parent_id":85866089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [-90.040397,29.966929,-90.040397,29.966929],
+  "geometry": {"coordinates":[-90.040397,29.966929],"type":"Point"}
+}

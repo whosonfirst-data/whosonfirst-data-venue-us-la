@@ -1,0 +1,81 @@
+{
+  "id": 203255309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061496,29.958568,-90.061496,29.958568",
+    "geom:latitude":29.958568,
+    "geom:longitude":-90.061496,
+    "iso:country":"US",
+    "sg:address":"903 Decatur",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 529 3633",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "men's",
+        "clothing",
+        "women's"
+    ],
+    "sg:website":"roadkill13.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GnlXTUKP1KQ8dm4KruBAR_29.958568_-90.061496@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7626be9baac871ba1e867ae1cf0d0087",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":203255309
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":203255309
+        }
+    ],
+    "wof:id":203255309,
+    "wof:lastmodified":1449025771,
+    "wof:name":"Road Kill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men's",
+        "clothing",
+        "women's"
+    ]
+},
+  "bbox": [-90.061496,29.958568,-90.061496,29.958568],
+  "geometry": {"coordinates":[-90.061496,29.958568],"type":"Point"}
+}

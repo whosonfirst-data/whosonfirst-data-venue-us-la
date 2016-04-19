@@ -1,0 +1,70 @@
+{
+  "id": 203282201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.954987,30.024859,-89.954987,30.024859",
+    "geom:latitude":30.024859,
+    "geom:longitude":-89.954987,
+    "iso:country":"US",
+    "sg:address":"4801 Maid Marion Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 243 5800",
+    "sg:postcode":"70128",
+    "sg:province":"LA",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"nops.k12.la.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KMSfzDGQRdAHG8y5odAeH_30.024859_-89.954987@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f11f70940546590309877af867378f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":-1,
+            "region_id":85688735,
+            "venue_id":203282201
+        }
+    ],
+    "wof:id":203282201,
+    "wof:lastmodified":1449026139,
+    "wof:name":"Orleans Parish School Board",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-89.954987,30.024859,-89.954987,30.024859],
+  "geometry": {"coordinates":[-89.954987,30.024859],"type":"Point"}
+}

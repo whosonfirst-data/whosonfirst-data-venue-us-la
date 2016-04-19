@@ -1,0 +1,86 @@
+{
+  "id": 203292149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.066584,29.933094,-90.066584,29.933094",
+    "geom:latitude":29.933094,
+    "geom:longitude":-90.066584,
+    "iso:country":"US",
+    "sg:address":"1501 Religious St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Playground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 301 2695",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "party",
+        "planning",
+        "event"
+    ],
+    "sg:website":"www.monkeyroom.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_341JWqc6izrwYptn9moEA1_29.933094_-90.066584@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28e3f7ce0e865c7579f51d9887671ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":203292149
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":203292149
+        }
+    ],
+    "wof:id":203292149,
+    "wof:lastmodified":1449025091,
+    "wof:name":"Monkey Room",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [-90.066584,29.933094,-90.066584,29.933094],
+  "geometry": {"coordinates":[-90.066584,29.933094],"type":"Point"}
+}

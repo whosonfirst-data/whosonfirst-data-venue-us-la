@@ -1,0 +1,81 @@
+{
+  "id": 203257063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.057726,29.962909,-90.057726,29.962909",
+    "geom:latitude":29.962909,
+    "geom:longitude":-90.057726,
+    "iso:country":"US",
+    "sg:address":"517 Frenchmen St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 942 1345",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "vegetarian",
+        "sandwich",
+        "diner"
+    ],
+    "sg:website":"www.13monaghan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948111,
+        102086693,
+        85866097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EKDqn5INfDoAgVX2d41Nq_29.962909_-90.057726@1303262944"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ca197f0bcac1f98a8f9c40b4d18a3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866097,
+            "region_id":85688735,
+            "venue_id":203257063
+        }
+    ],
+    "wof:id":203257063,
+    "wof:lastmodified":1449025464,
+    "wof:name":"13 Monaghan",
+    "wof:parent_id":85866097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetarian",
+        "sandwich",
+        "diner"
+    ]
+},
+  "bbox": [-90.057726,29.962909,-90.057726,29.962909],
+  "geometry": {"coordinates":[-90.057726,29.962909],"type":"Point"}
+}

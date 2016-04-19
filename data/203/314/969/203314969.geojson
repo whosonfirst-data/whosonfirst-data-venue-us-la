@@ -1,0 +1,71 @@
+{
+  "id": 203314969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.987099,30.240999,-91.987099,30.240999",
+    "geom:latitude":30.240999,
+    "geom:longitude":-91.987099,
+    "iso:country":"US",
+    "sg:address":"111 Marcelle Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 9661",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BtlDYLsSJrDq796Go19SN_30.240999_-91.987099@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ac4e2c1885aed083633065ca8b490bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":203314969
+        }
+    ],
+    "wof:id":203314969,
+    "wof:lastmodified":1449026793,
+    "wof:name":"Jc's Wrecker Service",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [-91.987099,30.240999,-91.987099,30.240999],
+  "geometry": {"coordinates":[-91.987099,30.240999],"type":"Point"}
+}

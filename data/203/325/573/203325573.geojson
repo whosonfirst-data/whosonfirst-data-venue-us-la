@@ -1,0 +1,67 @@
+{
+  "id": 203325573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-91.961403,30.1614,-91.961403,30.1614",
+    "geom:latitude":30.1614,
+    "geom:longitude":-91.961403,
+    "iso:country":"US",
+    "sg:address":"111 Bluffwood Dr",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 837 2553",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.techeconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948381,
+        102081919,
+        85806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04VaddsSD8WEbvIVksxWra_30.161400_-91.961403@1303262945"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89daaa9661bba3d63aa1c1adace65eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948381,
+            "neighbourhood_id":85806101,
+            "region_id":85688735,
+            "venue_id":203325573
+        }
+    ],
+    "wof:id":203325573,
+    "wof:lastmodified":1449025656,
+    "wof:name":"Teche Construction",
+    "wof:parent_id":85806101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-91.961403,30.1614,-91.961403,30.1614],
+  "geometry": {"coordinates":[-91.961403,30.1614],"type":"Point"}
+}
