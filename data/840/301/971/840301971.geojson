@@ -1,0 +1,73 @@
+{
+  "id": 840301971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.257678,30.286324,-93.257678,30.286324",
+    "geom:latitude":30.286324,
+    "geom:longitude":-93.257678,
+    "iso:country":"US",
+    "sg:address":"880 Rivers Edge Rd",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 2727",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UeGOcxNMhUiyNNsCIfk4N_30.286324_-93.257678@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526625,
+    "wof:geomhash":"79ecf33ca0c2f0f370aad9612365d3ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840301971
+        }
+    ],
+    "wof:id":840301971,
+    "wof:lastmodified":1463526625,
+    "wof:name":"Deep South Mechanical",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.257678,
+    30.286324,
+    -93.257678,
+    30.286324
+],
+  "geometry": {"coordinates":[-93.257678,30.286324],"type":"Point"}
+}

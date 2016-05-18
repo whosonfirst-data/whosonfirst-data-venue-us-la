@@ -1,0 +1,71 @@
+{
+  "id": 840302179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436313,30.519844,-90.436313,30.519844",
+    "geom:latitude":30.519844,
+    "geom:longitude":-90.436313,
+    "iso:country":"US",
+    "sg:address":"46184 Morris Rd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 7073",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41gqvDJQ2Tk5ETok3YMIMq_30.519844_-90.436313@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526634,
+    "wof:geomhash":"a5f923182d6822e9ff0b3e34d5aa322d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840302179
+        }
+    ],
+    "wof:id":840302179,
+    "wof:lastmodified":1463526634,
+    "wof:name":"A & B Towing",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.436313,
+    30.519844,
+    -90.436313,
+    30.519844
+],
+  "geometry": {"coordinates":[-90.436313,30.519844],"type":"Point"}
+}

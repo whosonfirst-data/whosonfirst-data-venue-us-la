@@ -1,0 +1,71 @@
+{
+  "id": 840251111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.484227,31.247427,-92.484227,31.247427",
+    "geom:latitude":31.247427,
+    "geom:longitude":-92.484227,
+    "iso:country":"US",
+    "sg:address":"6707 Masonic Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 8774",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NRBTqp47s8G8mQeCupXPB_31.247427_-92.484227@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524633,
+    "wof:geomhash":"36da91781c2091e8775d1bd4a31ae043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840251111
+        }
+    ],
+    "wof:id":840251111,
+    "wof:lastmodified":1463524633,
+    "wof:name":"Car Care Clinic",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -92.484227,
+    31.247427,
+    -92.484227,
+    31.247427
+],
+  "geometry": {"coordinates":[-92.484227,31.247427],"type":"Point"}
+}

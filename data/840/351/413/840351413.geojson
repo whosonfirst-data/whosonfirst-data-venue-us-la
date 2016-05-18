@@ -1,0 +1,71 @@
+{
+  "id": 840351413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.234471,30.448164,-91.234471,30.448164",
+    "geom:latitude":30.448164,
+    "geom:longitude":-91.234471,
+    "iso:country":"US",
+    "sg:address":"2420 Commercial Dr",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 346 8377",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85876063,
+        102086695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Om2JXzFSSmJCUor1yJ06g_30.448164_-91.234471@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528975,
+    "wof:geomhash":"9a92cebc2f581406429cb3e276cd1a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "neighbourhood_id":85876063,
+            "region_id":85688735,
+            "venue_id":840351413
+        }
+    ],
+    "wof:id":840351413,
+    "wof:lastmodified":1463528975,
+    "wof:name":"Westport Village Apartments",
+    "wof:parent_id":85876063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.234471,
+    30.448164,
+    -91.234471,
+    30.448164
+],
+  "geometry": {"coordinates":[-91.234471,30.448164],"type":"Point"}
+}

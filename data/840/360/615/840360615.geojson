@@ -1,0 +1,71 @@
+{
+  "id": 840360615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.179746,30.16348,-93.179746,30.16348",
+    "geom:latitude":30.16348,
+    "geom:longitude":-93.179746,
+    "iso:country":"US",
+    "sg:address":"5622 State Rte 14",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 0111",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zP7fNgreDcZQU1d2R5HQB_30.163480_-93.179746@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529414,
+    "wof:geomhash":"60a1c383fbb6885d1fc0a66bb9d2c73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840360615
+        }
+    ],
+    "wof:id":840360615,
+    "wof:lastmodified":1463529414,
+    "wof:name":"A A Towing & Wrecker Svc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.179746,
+    30.16348,
+    -93.179746,
+    30.16348
+],
+  "geometry": {"coordinates":[-93.17974599999999,30.16348],"type":"Point"}
+}

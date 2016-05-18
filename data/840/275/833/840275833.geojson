@@ -1,0 +1,71 @@
+{
+  "id": 840275833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.313729,29.690161,-91.313729,29.690161",
+    "geom:latitude":29.690161,
+    "geom:longitude":-91.313729,
+    "iso:country":"US",
+    "sg:address":"1100 US Hwy 90",
+    "sg:city":"Patterson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 399 9993",
+    "sg:postcode":"70392",
+    "sg:province":"LA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58PkBG4RVq0sKMDPsKTG98_29.690161_-91.313729@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525437,
+    "wof:geomhash":"6c6a58dcc65aacfa853c25208226ebdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840275833
+        }
+    ],
+    "wof:id":840275833,
+    "wof:lastmodified":1463525437,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.313729,
+    29.690161,
+    -91.313729,
+    29.690161
+],
+  "geometry": {"coordinates":[-91.313729,29.690161],"type":"Point"}
+}

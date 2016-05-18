@@ -1,0 +1,74 @@
+{
+  "id": 840456463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.082718,32.490672,-92.082718,32.490672",
+    "geom:latitude":32.490672,
+    "geom:longitude":-92.082718,
+    "iso:country":"US",
+    "sg:address":"1605 Martin Luther King Jr Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/monroe/132166-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 388 1780",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XVWhpVVpIrAsg1e1LcYsl_32.490672_-92.082718@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533554,
+    "wof:geomhash":"8131ef3ca57308d800c6075a32a8acfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840456463
+        }
+    ],
+    "wof:id":840456463,
+    "wof:lastmodified":1463533554,
+    "wof:name":"Subway",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.082718,
+    32.490672,
+    -92.082718,
+    32.490672
+],
+  "geometry": {"coordinates":[-92.082718,32.490672],"type":"Point"}
+}

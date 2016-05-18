@@ -1,0 +1,75 @@
+{
+  "id": 840352511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.826277,30.012636,-91.826277,30.012636",
+    "geom:latitude":30.012636,
+    "geom:longitude":-91.826277,
+    "iso:country":"US",
+    "sg:address":"528 W Saint Peter St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3378",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LmIsnJr0dINx3IgjVxG9D_30.012636_-91.826277@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529039,
+    "wof:geomhash":"3a0c5881d7fbe5fd9e082d049077635e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840352511
+        }
+    ],
+    "wof:id":840352511,
+    "wof:lastmodified":1463529039,
+    "wof:name":"Rock's Muffler Shop",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -91.826277,
+    30.012636,
+    -91.826277,
+    30.012636
+],
+  "geometry": {"coordinates":[-91.826277,30.012636],"type":"Point"}
+}

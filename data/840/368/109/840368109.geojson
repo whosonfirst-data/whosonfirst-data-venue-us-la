@@ -1,0 +1,73 @@
+{
+  "id": 840368109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.180637,30.231333,-93.180637,30.231333",
+    "geom:latitude":30.231333,
+    "geom:longitude":-93.180637,
+    "iso:country":"US",
+    "sg:address":"2439 Mill St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 7881",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5blC43sjhxBwIqPQACvOAe_30.231333_-93.180637@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529786,
+    "wof:geomhash":"194550e98e59dd110d47027077c4ea47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840368109
+        }
+    ],
+    "wof:id":840368109,
+    "wof:lastmodified":1463529786,
+    "wof:name":"Harry's Garage",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.180637,
+    30.231333,
+    -93.180637,
+    30.231333
+],
+  "geometry": {"coordinates":[-93.180637,30.231333],"type":"Point"}
+}

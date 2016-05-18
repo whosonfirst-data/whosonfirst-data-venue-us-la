@@ -1,0 +1,73 @@
+{
+  "id": 840047509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.179526,29.928566,-90.179526,29.928566",
+    "geom:latitude":29.928566,
+    "geom:longitude":-90.179526,
+    "iso:country":"US",
+    "sg:address":"4321 River Rd",
+    "sg:city":"Westwego",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 436 4444",
+    "sg:postcode":"70094",
+    "sg:province":"LA",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LGUBQI9dDePx7ySRPmoGf_29.928566_-90.179526@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519991,
+    "wof:geomhash":"2b1199fc83aea30a409e0466b1e3da99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840047509
+        }
+    ],
+    "wof:id":840047509,
+    "wof:lastmodified":1463519991,
+    "wof:name":"Tower Leasing Corp B & R Lng",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.179526,
+    29.928566,
+    -90.179526,
+    29.928566
+],
+  "geometry": {"coordinates":[-90.179526,29.928566],"type":"Point"}
+}

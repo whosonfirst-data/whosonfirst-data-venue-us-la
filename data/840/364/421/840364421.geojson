@@ -1,0 +1,73 @@
+{
+  "id": 840364421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.06166,30.243392,-92.06166,30.243392",
+    "geom:latitude":30.243392,
+    "geom:longitude":-92.06166,
+    "iso:country":"US",
+    "sg:address":"2101 W Willow St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 236 9869",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ofxYVyrUXCUEJGVYIcImO_30.243392_-92.061660@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529606,
+    "wof:geomhash":"97df2533d41ab77e7135d7709e650a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840364421
+        }
+    ],
+    "wof:id":840364421,
+    "wof:lastmodified":1463529606,
+    "wof:name":"Affordable Auto Sales",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.06166,
+    30.243392,
+    -92.06166,
+    30.243392
+],
+  "geometry": {"coordinates":[-92.06166,30.243392],"type":"Point"}
+}

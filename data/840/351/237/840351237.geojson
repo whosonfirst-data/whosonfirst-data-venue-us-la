@@ -1,0 +1,71 @@
+{
+  "id": 840351237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.34686,30.22746,-93.34686,30.22746",
+    "geom:latitude":30.22746,
+    "geom:longitude":-93.34686,
+    "iso:country":"US",
+    "sg:address":"2509 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 0347",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LfBPH5ighyWsgD9RKb9dg_30.227460_-93.346860@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528967,
+    "wof:geomhash":"e0b5fc4d8aae465357e45ab3b1beb108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840351237
+        }
+    ],
+    "wof:id":840351237,
+    "wof:lastmodified":1463528967,
+    "wof:name":"Family Practice Ctr-Sulphur",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.34686,
+    30.22746,
+    -93.34686,
+    30.22746
+],
+  "geometry": {"coordinates":[-93.34686000000001,30.22746],"type":"Point"}
+}

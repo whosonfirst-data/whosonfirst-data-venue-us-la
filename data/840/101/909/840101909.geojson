@@ -1,0 +1,73 @@
+{
+  "id": 840101909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.902531,30.055843,-91.902531,30.055843",
+    "geom:latitude":30.055843,
+    "geom:longitude":-91.902531,
+    "iso:country":"US",
+    "sg:address":"1309 Ashley Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 9310",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OkyU6yI30mCE7BbVePt8z_30.055843_-91.902531@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521259,
+    "wof:geomhash":"73b8bd633cfbdf0af1f37cd88b8969cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840101909
+        }
+    ],
+    "wof:id":840101909,
+    "wof:lastmodified":1463521259,
+    "wof:name":"Chris Maynard Trkng",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.902531,
+    30.055843,
+    -91.902531,
+    30.055843
+],
+  "geometry": {"coordinates":[-91.902531,30.055843],"type":"Point"}
+}

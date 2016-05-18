@@ -1,0 +1,73 @@
+{
+  "id": 840170575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.089104,29.970765,-90.089104,29.970765",
+    "geom:latitude":29.970765,
+    "geom:longitude":-90.089104,
+    "iso:country":"US",
+    "sg:address":"3001 Conti St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 3311",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s9GIIHUHR8Ptjb6DziNZq_29.970765_-90.089104@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522690,
+    "wof:geomhash":"dd7be2c55255ed9bdacff6d4828033a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840170575
+        }
+    ],
+    "wof:id":840170575,
+    "wof:lastmodified":1463522690,
+    "wof:name":"Yellow-Checker Cab",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.089104,
+    29.970765,
+    -90.089104,
+    29.970765
+],
+  "geometry": {"coordinates":[-90.08910400000001,29.970765],"type":"Point"}
+}

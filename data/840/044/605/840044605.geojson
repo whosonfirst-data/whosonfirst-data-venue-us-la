@@ -1,0 +1,71 @@
+{
+  "id": 840044605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.709161,30.290795,-89.709161,30.290795",
+    "geom:latitude":30.290795,
+    "geom:longitude":-89.709161,
+    "iso:country":"US",
+    "sg:address":"1036 Parkpoint Dr",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 847 1076",
+    "sg:postcode":"70461",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85844841,
+        102082453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dMGZ5iLA28Vw9rIDRvYGt_30.290795_-89.709161@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519939,
+    "wof:geomhash":"891105e8eb08c1c1c1a8026fa2cf2a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85844841,
+            "region_id":85688735,
+            "venue_id":840044605
+        }
+    ],
+    "wof:id":840044605,
+    "wof:lastmodified":1463519939,
+    "wof:name":"Louis C Hebert MD",
+    "wof:parent_id":85844841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.709161,
+    30.290795,
+    -89.709161,
+    30.290795
+],
+  "geometry": {"coordinates":[-89.70916099999999,30.290795],"type":"Point"}
+}

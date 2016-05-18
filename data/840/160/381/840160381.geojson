@@ -1,0 +1,73 @@
+{
+  "id": 840160381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.263725,31.150913,-93.263725,31.150913",
+    "geom:latitude":31.150913,
+    "geom:longitude":-93.263725,
+    "iso:country":"US",
+    "sg:address":"100 Miller Ave",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 392 6122",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dpu4cy1VvLP0S8rms90Ep_31.150913_-93.263725@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522454,
+    "wof:geomhash":"20aac6e76d65d1857c1232cb5eb72f16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840160381
+        }
+    ],
+    "wof:id":840160381,
+    "wof:lastmodified":1463522454,
+    "wof:name":"Pet Shop",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.263725,
+    31.150913,
+    -93.263725,
+    31.150913
+],
+  "geometry": {"coordinates":[-93.26372499999999,31.150913],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840287797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.145959,29.962776,-90.145959,29.962776",
+    "geom:latitude":29.962776,
+    "geom:longitude":-90.145959,
+    "iso:country":"US",
+    "sg:address":"1514 Jefferson Hwy",
+    "sg:city":"Jefferson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 842 3920",
+    "sg:postcode":"70121",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.ochsner.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aMVvcq438u0uYxPX0e7Be_29.962776_-90.145959@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525976,
+    "wof:geomhash":"169555678bf4051b02cf6ff9d46bf013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840287797
+        }
+    ],
+    "wof:id":840287797,
+    "wof:lastmodified":1463525976,
+    "wof:name":"Ochsner Rheumatology",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.145959,
+    29.962776,
+    -90.145959,
+    29.962776
+],
+  "geometry": {"coordinates":[-90.145959,29.962776],"type":"Point"}
+}

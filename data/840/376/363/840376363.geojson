@@ -1,0 +1,75 @@
+{
+  "id": 840376363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.511938,29.792505,-91.511938,29.792505",
+    "geom:latitude":29.792505,
+    "geom:longitude":-91.511938,
+    "iso:country":"US",
+    "sg:address":"810 10th St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4700",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PGYt6MqgfiTAxR6wIZ2E2_29.792505_-91.511938@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530181,
+    "wof:geomhash":"40d086c3f233955fcd0613746f201269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840376363
+        }
+    ],
+    "wof:id":840376363,
+    "wof:lastmodified":1463530181,
+    "wof:name":"Waste Management Inc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -91.511938,
+    29.792505,
+    -91.511938,
+    29.792505
+],
+  "geometry": {"coordinates":[-91.511938,29.792505],"type":"Point"}
+}

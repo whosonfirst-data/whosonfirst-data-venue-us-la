@@ -1,0 +1,73 @@
+{
+  "id": 840033447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.04822,32.51171,-92.04822,32.51171",
+    "geom:latitude":32.51171,
+    "geom:longitude":-92.04822,
+    "iso:country":"US",
+    "sg:address":"5000 Central Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 362 3453",
+    "sg:postcode":"71203",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43L7n2YQbNj6WLBmnVqsfM_32.511710_-92.048220@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519703,
+    "wof:geomhash":"154a3991528d754c11a6a3899b343f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840033447
+        }
+    ],
+    "wof:id":840033447,
+    "wof:lastmodified":1463519703,
+    "wof:name":"National Guard",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -92.04822,
+    32.51171,
+    -92.04822,
+    32.51171
+],
+  "geometry": {"coordinates":[-92.04822,32.51171],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840284031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.922889,32.422058,-93.922889,32.422058",
+    "geom:latitude":32.422058,
+    "geom:longitude":-93.922889,
+    "iso:country":"US",
+    "sg:address":"7600 General Motors Blvd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 683 9000",
+    "sg:postcode":"71129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "industrial",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85880975,
+        102087235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DTlJbylfOL5sS6VdbOhaW_32.422058_-93.922889@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525806,
+    "wof:geomhash":"ae034f4f31cdc9e763c7b8b588da97b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "neighbourhood_id":85880975,
+            "region_id":85688735,
+            "venue_id":840284031
+        }
+    ],
+    "wof:id":840284031,
+    "wof:lastmodified":1463525806,
+    "wof:name":"General Motors Corp",
+    "wof:parent_id":85880975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "truck"
+    ]
+},
+  "bbox": [
+    -93.922889,
+    32.422058,
+    -93.922889,
+    32.422058
+],
+  "geometry": {"coordinates":[-93.922889,32.422058],"type":"Point"}
+}

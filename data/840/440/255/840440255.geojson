@@ -1,0 +1,77 @@
+{
+  "id": 840440255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.680871,32.506656,-93.680871,32.506656",
+    "geom:latitude":32.506656,
+    "geom:longitude":-93.680871,
+    "iso:country":"US",
+    "sg:address":"101 Orville Wright Ave",
+    "sg:city":"Barksdale Afb",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 456 6714",
+    "sg:postcode":"71110",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529577,
+        85811501,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WN1DgiS6WiCWHHSorX80G_32.506656_-93.680871@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532913,
+    "wof:geomhash":"d9d87547a48b63c80441755ca00f4a32",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529577,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85811501,
+            "region_id":85688735,
+            "venue_id":840440255
+        }
+    ],
+    "wof:id":840440255,
+    "wof:lastmodified":1463532913,
+    "wof:name":"U S Air Force",
+    "wof:parent_id":102529577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.680871,
+    32.506656,
+    -93.680871,
+    32.506656
+],
+  "geometry": {"coordinates":[-93.680871,32.506656],"type":"Point"}
+}

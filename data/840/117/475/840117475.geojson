@@ -1,0 +1,71 @@
+{
+  "id": 840117475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.347105,30.236848,-93.347105,30.236848",
+    "geom:latitude":30.236848,
+    "geom:longitude":-93.347105,
+    "iso:country":"US",
+    "sg:address":"2508 E Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 0101",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mHgT3oV4J7RKty7PocWEL_30.236848_-93.347105@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521582,
+    "wof:geomhash":"1b3160f63b6992d785f65f8d81a31f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840117475
+        }
+    ],
+    "wof:id":840117475,
+    "wof:lastmodified":1463521582,
+    "wof:name":"Techweld Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.347105,
+    30.236848,
+    -93.347105,
+    30.236848
+],
+  "geometry": {"coordinates":[-93.347105,30.236848],"type":"Point"}
+}

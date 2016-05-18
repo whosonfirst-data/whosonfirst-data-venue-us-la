@@ -1,0 +1,74 @@
+{
+  "id": 840364891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.960509,29.949085,-89.960509,29.949085",
+    "geom:latitude":29.949085,
+    "geom:longitude":-89.960509,
+    "iso:country":"US",
+    "sg:address":"3224 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 9550",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tWsHmCC8mJ9LPKBBpNtlK_29.949085_-89.960509@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529635,
+    "wof:geomhash":"dfbced094c431c7bbb0353afdca70629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840364891
+        }
+    ],
+    "wof:id":840364891,
+    "wof:lastmodified":1463529635,
+    "wof:name":"Autozone",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -89.960509,
+    29.949085,
+    -89.960509,
+    29.949085
+],
+  "geometry": {"coordinates":[-89.960509,29.949085],"type":"Point"}
+}

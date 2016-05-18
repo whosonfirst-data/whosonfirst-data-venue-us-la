@@ -1,0 +1,73 @@
+{
+  "id": 840308655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.482673,31.568905,-93.482673,31.568905",
+    "geom:latitude":31.568905,
+    "geom:longitude":-93.482673,
+    "iso:country":"US",
+    "sg:address":"995 Sabine St",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 6367",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OMLHyWwWrMejjgSI4LHli_31.568905_-93.482673@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526925,
+    "wof:geomhash":"b7b900757dba6f52b8354b7883871e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840308655
+        }
+    ],
+    "wof:id":840308655,
+    "wof:lastmodified":1463526925,
+    "wof:name":"IESI",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -93.482673,
+    31.568905,
+    -93.482673,
+    31.568905
+],
+  "geometry": {"coordinates":[-93.48267300000001,31.568905],"type":"Point"}
+}

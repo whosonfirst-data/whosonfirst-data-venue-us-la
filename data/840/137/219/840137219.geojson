@@ -1,0 +1,85 @@
+{
+  "id": 840137219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.066509,29.933033,-90.066509,29.933033",
+    "geom:latitude":29.933033,
+    "geom:longitude":-90.066509,
+    "iso:country":"US",
+    "sg:address":"508 Race St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 524 7992",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hS2i45HHRgUeot1AFh2GH_29.933033_-90.066509@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521994,
+    "wof:geomhash":"e65a111e4377edc0f3138d1ddacb7904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840137219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840137219
+        }
+    ],
+    "wof:id":840137219,
+    "wof:lastmodified":1463521994,
+    "wof:name":"Fuses To Breakers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.066509,
+    29.933033,
+    -90.066509,
+    29.933033
+],
+  "geometry": {"coordinates":[-90.066509,29.933033],"type":"Point"}
+}

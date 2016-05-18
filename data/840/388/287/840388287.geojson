@@ -1,0 +1,73 @@
+{
+  "id": 840388287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.092058,30.152749,-92.092058,30.152749",
+    "geom:latitude":30.152749,
+    "geom:longitude":-92.092058,
+    "iso:country":"US",
+    "sg:address":"6738 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 0591",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KYtDpBzYw9cCAjNqCprk4_30.152749_-92.092058@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530732,
+    "wof:geomhash":"baee0b7b94f715782d3ffd2f163b2c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840388287
+        }
+    ],
+    "wof:id":840388287,
+    "wof:lastmodified":1463530732,
+    "wof:name":"Brake Shop",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.092058,
+    30.152749,
+    -92.092058,
+    30.152749
+],
+  "geometry": {"coordinates":[-92.09205799999999,30.152749],"type":"Point"}
+}

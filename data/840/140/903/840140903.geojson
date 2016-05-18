@@ -1,0 +1,71 @@
+{
+  "id": 840140903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512287,30.904508,-90.512287,30.904508",
+    "geom:latitude":30.904508,
+    "geom:longitude":-90.512287,
+    "iso:country":"US",
+    "sg:address":"71175 US Hwy 51",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 8484",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ARryTXeSm8FmYcw8IGM7s_30.904508_-90.512287@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522063,
+    "wof:geomhash":"663357fb27fbd762413ebdc79002d096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840140903
+        }
+    ],
+    "wof:id":840140903,
+    "wof:lastmodified":1463522063,
+    "wof:name":"Wofford Trucking",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.512287,
+    30.904508,
+    -90.512287,
+    30.904508
+],
+  "geometry": {"coordinates":[-90.512287,30.904508],"type":"Point"}
+}

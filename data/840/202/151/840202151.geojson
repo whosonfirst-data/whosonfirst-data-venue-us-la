@@ -1,0 +1,77 @@
+{
+  "id": 840202151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.756637,32.503388,-93.756637,32.503388",
+    "geom:latitude":32.503388,
+    "geom:longitude":-93.756637,
+    "iso:country":"US",
+    "sg:address":"752 Hope St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 222 0405",
+    "sg:postcode":"71101",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fJ2CRmBLRnK6Q1lJWUzhY_32.503388_-93.756637@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523407,
+    "wof:geomhash":"0acd3b04c437e99fdcd776a4040649c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880987,
+            "region_id":85688735,
+            "venue_id":840202151
+        }
+    ],
+    "wof:id":840202151,
+    "wof:lastmodified":1463523407,
+    "wof:name":"Hope Street Body Shop",
+    "wof:parent_id":85880987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.756637,
+    32.503388,
+    -93.756637,
+    32.503388
+],
+  "geometry": {"coordinates":[-93.756637,32.503388],"type":"Point"}
+}

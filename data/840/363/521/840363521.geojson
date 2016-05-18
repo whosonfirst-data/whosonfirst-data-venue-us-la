@@ -1,0 +1,71 @@
+{
+  "id": 840363521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.241565,31.054966,-93.241565,31.054966",
+    "geom:latitude":31.054966,
+    "geom:longitude":-93.241565,
+    "iso:country":"US",
+    "sg:address":"1189 Entrance Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 537 2454",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UdpYjdTWohUIEnhO56AZn_31.054966_-93.241565@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529543,
+    "wof:geomhash":"4da55465b1ef8b4cea9217a674c93c3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840363521
+        }
+    ],
+    "wof:id":840363521,
+    "wof:lastmodified":1463529543,
+    "wof:name":"Entrance Road Veterinary",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.241565,
+    31.054966,
+    -93.241565,
+    31.054966
+],
+  "geometry": {"coordinates":[-93.24156499999999,31.054966],"type":"Point"}
+}

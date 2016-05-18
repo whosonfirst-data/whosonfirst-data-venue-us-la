@@ -1,0 +1,71 @@
+{
+  "id": 840273613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.232389,30.167133,-93.232389,30.167133",
+    "geom:latitude":30.167133,
+    "geom:longitude":-93.232389,
+    "iso:country":"US",
+    "sg:address":"4940 Lake St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 480 6794",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p7RZkUfIZKLvRrxHzSh81_30.167133_-93.232389@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525336,
+    "wof:geomhash":"af7d48ab29369b71da1f2db18c2df345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840273613
+        }
+    ],
+    "wof:id":840273613,
+    "wof:lastmodified":1463525336,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.232389,
+    30.167133,
+    -93.232389,
+    30.167133
+],
+  "geometry": {"coordinates":[-93.232389,30.167133],"type":"Point"}
+}

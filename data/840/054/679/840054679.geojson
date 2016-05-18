@@ -1,0 +1,75 @@
+{
+  "id": 840054679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.504116,30.957231,-93.504116,30.957231",
+    "geom:latitude":30.957231,
+    "geom:longitude":-93.504116,
+    "iso:country":"US",
+    "sg:address":"20550 State Rte 111",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 286 5274",
+    "sg:postcode":"70639",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fDB7ajXJB3SlxXcz8pnnH_30.957231_-93.504116@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520140,
+    "wof:geomhash":"12524bba929444f054f8d192481cb7f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840054679
+        }
+    ],
+    "wof:id":840054679,
+    "wof:lastmodified":1463520140,
+    "wof:name":"Wl Haymon Trucking",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.504116,
+    30.957231,
+    -93.504116,
+    30.957231
+],
+  "geometry": {"coordinates":[-93.504116,30.957231],"type":"Point"}
+}

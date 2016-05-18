@@ -1,0 +1,71 @@
+{
+  "id": 840374977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.188833,29.692425,-91.188833,29.692425",
+    "geom:latitude":29.692425,
+    "geom:longitude":-91.188833,
+    "iso:country":"US",
+    "sg:address":"1455 Railroad Ave",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 1622",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5exxZc25B3Lw6ddKIxGDIZ_29.692425_-91.188833@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530129,
+    "wof:geomhash":"a2bd18bd72302c4c07266c52e90455e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840374977
+        }
+    ],
+    "wof:id":840374977,
+    "wof:lastmodified":1463530129,
+    "wof:name":"St Mary Sheriff Dept",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.188833,
+    29.692425,
+    -91.188833,
+    29.692425
+],
+  "geometry": {"coordinates":[-91.188833,29.692425],"type":"Point"}
+}

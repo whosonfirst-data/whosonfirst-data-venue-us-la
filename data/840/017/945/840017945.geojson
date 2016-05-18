@@ -1,0 +1,73 @@
+{
+  "id": 840017945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.07392,29.978333,-90.07392,29.978333",
+    "geom:latitude":29.978333,
+    "geom:longitude":-90.07392,
+    "iso:country":"US",
+    "sg:address":"1638 N Dorgenois St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 945 3009",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fp43K9NLdi4jJqpnDi9RB_29.978333_-90.073920@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519365,
+    "wof:geomhash":"0594c40469a824afdf3bcc424400a4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866083,
+            "region_id":85688735,
+            "venue_id":840017945
+        }
+    ],
+    "wof:id":840017945,
+    "wof:lastmodified":1463519365,
+    "wof:name":"Sanders Grocery",
+    "wof:parent_id":85866083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.07392,
+    29.978333,
+    -90.07392,
+    29.978333
+],
+  "geometry": {"coordinates":[-90.07392,29.978333],"type":"Point"}
+}

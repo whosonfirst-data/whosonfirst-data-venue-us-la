@@ -1,0 +1,77 @@
+{
+  "id": 840338911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218731,30.202892,-93.218731,30.202892",
+    "geom:latitude":30.202892,
+    "geom:longitude":-93.218731,
+    "iso:country":"US",
+    "sg:address":"2950 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 5228",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d3hELzLbnzalbjjVo87Xl_30.202892_-93.218731@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528359,
+    "wof:geomhash":"18b7aa1278f1b0cd50b22f02128108da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840338911
+        }
+    ],
+    "wof:id":840338911,
+    "wof:lastmodified":1463528359,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -93.218731,
+    30.202892,
+    -93.218731,
+    30.202892
+],
+  "geometry": {"coordinates":[-93.21873100000001,30.202892],"type":"Point"}
+}

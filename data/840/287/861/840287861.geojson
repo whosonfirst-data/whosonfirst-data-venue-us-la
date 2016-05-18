@@ -1,0 +1,75 @@
+{
+  "id": 840287861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.074482,30.006251,-90.074482,30.006251",
+    "geom:latitude":30.006251,
+    "geom:longitude":-90.074482,
+    "iso:country":"US",
+    "sg:address":"4714 Paris Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 1413",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85891215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lL8d34ma6MVlNfP83fkFL_30.006251_-90.074482@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525979,
+    "wof:geomhash":"54aa592484084a4d1898a22fabec338f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891215,
+            "region_id":85688735,
+            "venue_id":840287861
+        }
+    ],
+    "wof:id":840287861,
+    "wof:lastmodified":1463525979,
+    "wof:name":"Oak Park Shopping Center",
+    "wof:parent_id":85891215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.074482,
+    30.006251,
+    -90.074482,
+    30.006251
+],
+  "geometry": {"coordinates":[-90.074482,30.006251],"type":"Point"}
+}

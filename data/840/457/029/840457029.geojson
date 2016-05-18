@@ -1,0 +1,74 @@
+{
+  "id": 840457029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.458964,31.546182,-93.458964,31.546182",
+    "geom:latitude":31.546182,
+    "geom:longitude":-93.458964,
+    "iso:country":"US",
+    "sg:address":"330 Fisher Rd",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/many/72979-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 5625",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56x6Qlk15wLlq2v5ffrHRk_31.546182_-93.458964@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533575,
+    "wof:geomhash":"d3fa1052ea9c80983ab3ce332cfccca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840457029
+        }
+    ],
+    "wof:id":840457029,
+    "wof:lastmodified":1463533575,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.458964,
+    31.546182,
+    -93.458964,
+    31.546182
+],
+  "geometry": {"coordinates":[-93.45896399999999,31.546182],"type":"Point"}
+}

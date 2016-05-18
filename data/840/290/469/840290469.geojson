@@ -1,0 +1,71 @@
+{
+  "id": 840290469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.757148,32.31926,-93.757148,32.31926",
+    "geom:latitude":32.31926,
+    "geom:longitude":-93.757148,
+    "iso:country":"US",
+    "sg:address":"398 Woodland Park Rd",
+    "sg:city":"Stonewall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 925 0713",
+    "sg:postcode":"71078",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MW0biPfPZskspSa79hbDH_32.319260_-93.757148@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526086,
+    "wof:geomhash":"0a36640732e616917db3c4ebe50cac59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":840290469
+        }
+    ],
+    "wof:id":840290469,
+    "wof:lastmodified":1463526086,
+    "wof:name":"Dean's Automotive Svc",
+    "wof:parent_id":85813793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.757148,
+    32.31926,
+    -93.757148,
+    32.31926
+],
+  "geometry": {"coordinates":[-93.757148,32.31926],"type":"Point"}
+}

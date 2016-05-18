@@ -1,0 +1,71 @@
+{
+  "id": 840371915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.744348,32.442586,-93.744348,32.442586",
+    "geom:latitude":32.442586,
+    "geom:longitude":-93.744348,
+    "iso:country":"US",
+    "sg:address":"611 Bates St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 861 1112",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DaxdY5lXL2gYW8x14WdKH_32.442586_-93.744348@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529983,
+    "wof:geomhash":"9dec01ddbae0b7086e5047fd8c8fcc01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840371915
+        }
+    ],
+    "wof:id":840371915,
+    "wof:lastmodified":1463529983,
+    "wof:name":"Joseph's Cleaners",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.744348,
+    32.442586,
+    -93.744348,
+    32.442586
+],
+  "geometry": {"coordinates":[-93.744348,32.442586],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840021011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528663,29.795746,-91.528663,29.795746",
+    "geom:latitude":29.795746,
+    "geom:longitude":-91.528663,
+    "iso:country":"US",
+    "sg:address":"905 Joel Fletcher St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 0489",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZN1PejIT1VJWohQ4djT2t_29.795746_-91.528663@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519431,
+    "wof:geomhash":"727ae6fcf4a4999d071427751a7a0c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840021011
+        }
+    ],
+    "wof:id":840021011,
+    "wof:lastmodified":1463519431,
+    "wof:name":"Vaccarella's Repair Shop",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.528663,
+    29.795746,
+    -91.528663,
+    29.795746
+],
+  "geometry": {"coordinates":[-91.52866299999999,29.795746],"type":"Point"}
+}

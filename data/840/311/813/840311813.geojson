@@ -1,0 +1,75 @@
+{
+  "id": 840311813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.266511,30.244225,-93.266511,30.244225",
+    "geom:latitude":30.244225,
+    "geom:longitude":-93.266511,
+    "iso:country":"US",
+    "sg:address":"1600 Sulphur Ave",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 721 7855",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FVyVvvr7GvfRCNI7BlLgL_30.244225_-93.266511@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527085,
+    "wof:geomhash":"aebb3211a5c56cdfcc7a97fbc7285201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840311813
+        }
+    ],
+    "wof:id":840311813,
+    "wof:lastmodified":1463527085,
+    "wof:name":"Bantek West Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -93.266511,
+    30.244225,
+    -93.266511,
+    30.244225
+],
+  "geometry": {"coordinates":[-93.26651099999999,30.244225],"type":"Point"}
+}

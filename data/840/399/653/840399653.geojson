@@ -1,0 +1,73 @@
+{
+  "id": 840399653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.809799,29.976765,-91.809799,29.976765",
+    "geom:latitude":29.976765,
+    "geom:longitude":-91.809799,
+    "iso:country":"US",
+    "sg:address":"1603 Montagne St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 8997",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RNPhkyU4nYMSOeHYHfFke_29.976765_-91.809799@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531190,
+    "wof:geomhash":"8c006343bafdb2838a2ff351974f04bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840399653
+        }
+    ],
+    "wof:id":840399653,
+    "wof:lastmodified":1463531190,
+    "wof:name":"Pop-A-Lock",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -91.809799,
+    29.976765,
+    -91.809799,
+    29.976765
+],
+  "geometry": {"coordinates":[-91.809799,29.976765],"type":"Point"}
+}

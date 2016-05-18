@@ -1,0 +1,73 @@
+{
+  "id": 840298043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.478929,29.769551,-91.478929,29.769551",
+    "geom:latitude":29.769551,
+    "geom:longitude":-91.478929,
+    "iso:country":"US",
+    "sg:address":"10903 State Rte 182",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 5056",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ecEGrMnvNNHUhCYyG56pi_29.769551_-91.478929@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526403,
+    "wof:geomhash":"189d245b8561535936a69c035092be42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840298043
+        }
+    ],
+    "wof:id":840298043,
+    "wof:lastmodified":1463526403,
+    "wof:name":"Adams Heating & Air Cond",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.478929,
+    29.769551,
+    -91.478929,
+    29.769551
+],
+  "geometry": {"coordinates":[-91.47892899999999,29.769551],"type":"Point"}
+}

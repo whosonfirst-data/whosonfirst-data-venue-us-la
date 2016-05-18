@@ -1,0 +1,82 @@
+{
+  "id": 840080711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.446826,30.465185,-90.446826,30.465185",
+    "geom:latitude":30.465185,
+    "geom:longitude":-90.446826,
+    "iso:country":"US",
+    "sg:address":"42235 S Range Rd",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 4348",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z1lemaPdduZ2mZJ4Tvrh7_30.465185_-90.446826@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520699,
+    "wof:geomhash":"aad4f0cba6eaabfdfbba92432a55c50c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840080711
+        }
+    ],
+    "wof:id":840080711,
+    "wof:lastmodified":1463520699,
+    "wof:name":"Hank's Car Care",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.446826,
+    30.465185,
+    -90.446826,
+    30.465185
+],
+  "geometry": {"coordinates":[-90.446826,30.465185],"type":"Point"}
+}

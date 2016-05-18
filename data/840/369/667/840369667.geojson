@@ -1,0 +1,71 @@
+{
+  "id": 840369667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.911329,32.44384,-93.911329,32.44384",
+    "geom:latitude":32.44384,
+    "geom:longitude":-93.911329,
+    "iso:country":"US",
+    "sg:address":"6932 Nevada Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 938 6708",
+    "sg:postcode":"71129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85880975,
+        102087235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JRoHCWgO57RZDN95p9nd7_32.443840_-93.911329@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529883,
+    "wof:geomhash":"e62b1f0871a68b8c5c70384303cb4faa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "neighbourhood_id":85880975,
+            "region_id":85688735,
+            "venue_id":840369667
+        }
+    ],
+    "wof:id":840369667,
+    "wof:lastmodified":1463529883,
+    "wof:name":"Jackson Auto Shop",
+    "wof:parent_id":85880975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.911329,
+    32.44384,
+    -93.911329,
+    32.44384
+],
+  "geometry": {"coordinates":[-93.91132899999999,32.44384],"type":"Point"}
+}

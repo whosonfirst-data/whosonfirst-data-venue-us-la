@@ -1,0 +1,71 @@
+{
+  "id": 840314833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.844581,32.602736,-93.844581,32.602736",
+    "geom:latitude":32.602736,
+    "geom:longitude":-93.844581,
+    "iso:country":"US",
+    "sg:address":"5906 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 9987",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QOsc7KciLJum8yXlnoXkX_32.602736_-93.844581@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527212,
+    "wof:geomhash":"59199eb9e18b6353270be4c1474edc82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840314833
+        }
+    ],
+    "wof:id":840314833,
+    "wof:lastmodified":1463527212,
+    "wof:name":"Kaddo Parish Sheriff's Office",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -93.844581,
+    32.602736,
+    -93.844581,
+    32.602736
+],
+  "geometry": {"coordinates":[-93.84458100000001,32.602736],"type":"Point"}
+}

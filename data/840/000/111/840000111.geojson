@@ -1,0 +1,73 @@
+{
+  "id": 840000111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47583,30.500767,-90.47583,30.500767",
+    "geom:latitude":30.500767,
+    "geom:longitude":-90.47583,
+    "iso:country":"US",
+    "sg:address":"1415 W Morris Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 6962",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CXNTiED2aIQ9TFEfy3n3b_30.500767_-90.475830@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463518998,
+    "wof:geomhash":"6fe2addca0bd63a1c747e534d478d282",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840000111
+        }
+    ],
+    "wof:id":840000111,
+    "wof:lastmodified":1463518998,
+    "wof:name":"Marullo Motors Inc",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.47583,
+    30.500767,
+    -90.47583,
+    30.500767
+],
+  "geometry": {"coordinates":[-90.47583,30.500767],"type":"Point"}
+}

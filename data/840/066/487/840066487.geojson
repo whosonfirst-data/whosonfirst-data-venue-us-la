@@ -1,0 +1,75 @@
+{
+  "id": 840066487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.754683,32.495933,-93.754683,32.495933",
+    "geom:latitude":32.495933,
+    "geom:longitude":-93.754683,
+    "iso:country":"US",
+    "sg:address":"1734 Southern Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 222 2105",
+    "sg:postcode":"71101",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85881001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_212UknFKzxtOa5q9Ybd3tl_32.495933_-93.754683@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520402,
+    "wof:geomhash":"64a485cebf8858fd3bc5fd200b9b69b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85881001,
+            "region_id":85688735,
+            "venue_id":840066487
+        }
+    ],
+    "wof:id":840066487,
+    "wof:lastmodified":1463520402,
+    "wof:name":"Southern Automotive Svc",
+    "wof:parent_id":85881001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.754683,
+    32.495933,
+    -93.754683,
+    32.495933
+],
+  "geometry": {"coordinates":[-93.754683,32.495933],"type":"Point"}
+}

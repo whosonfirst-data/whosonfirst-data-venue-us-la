@@ -1,0 +1,71 @@
+{
+  "id": 840164489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.36787,30.240596,-93.36787,30.240596",
+    "geom:latitude":30.240596,
+    "geom:longitude":-93.36787,
+    "iso:country":"US",
+    "sg:address":"405 Lewis St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 9764",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "spring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j86a4UoaleIKOX5dVgNAx_30.240596_-93.367870@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522529,
+    "wof:geomhash":"032e94029cfe967a1ff66f121b3d1a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840164489
+        }
+    ],
+    "wof:id":840164489,
+    "wof:lastmodified":1463522529,
+    "wof:name":"Clark's Spring Svc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring"
+    ]
+},
+  "bbox": [
+    -93.36787,
+    30.240596,
+    -93.36787,
+    30.240596
+],
+  "geometry": {"coordinates":[-93.36787,30.240596],"type":"Point"}
+}

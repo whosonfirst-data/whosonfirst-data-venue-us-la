@@ -1,0 +1,71 @@
+{
+  "id": 840306863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.480063,30.500849,-90.480063,30.500849",
+    "geom:latitude":30.500849,
+    "geom:longitude":-90.480063,
+    "iso:country":"US",
+    "sg:address":"1828 W Thomas St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 6050",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ruUh5njNDzlNgTsPydBWo_30.500849_-90.480063@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526844,
+    "wof:geomhash":"ccfe69e40eb70a5c41b5ae993b8cc840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840306863
+        }
+    ],
+    "wof:id":840306863,
+    "wof:lastmodified":1463526844,
+    "wof:name":"Family Dentistry",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.480063,
+    30.500849,
+    -90.480063,
+    30.500849
+],
+  "geometry": {"coordinates":[-90.480063,30.500849],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840219757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.450825,31.313302,-92.450825,31.313302",
+    "geom:latitude":31.313302,
+    "geom:longitude":-92.450825,
+    "iso:country":"US",
+    "sg:address":"501 Medical Center Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 484 3899",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948321,
+        102081039,
+        85820213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RjdYY1GCR9LN4s3DANAy7_31.313302_-92.450825@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523828,
+    "wof:geomhash":"dd7508d25eb4a6471f7a6eb0646f6e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948321,
+            "neighbourhood_id":85820213,
+            "region_id":85688735,
+            "venue_id":840219757
+        }
+    ],
+    "wof:id":840219757,
+    "wof:lastmodified":1463523828,
+    "wof:name":"Mansoor Pediatrics",
+    "wof:parent_id":85820213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.450825,
+    31.313302,
+    -92.450825,
+    31.313302
+],
+  "geometry": {"coordinates":[-92.45082499999999,31.313302],"type":"Point"}
+}

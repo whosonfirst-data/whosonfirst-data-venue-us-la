@@ -1,0 +1,75 @@
+{
+  "id": 840310095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.959396,30.04372,-89.959396,30.04372",
+    "geom:latitude":30.04372,
+    "geom:longitude":-89.959396,
+    "iso:country":"US",
+    "sg:address":"6040 Bullard Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 246 0225",
+    "sg:postcode":"70128",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dZLc2KxE6ZH4UUbJ39nfN_30.043720_-89.959396@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527007,
+    "wof:geomhash":"3ee5c2b92385fd4721056bca99b4602f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840310095
+        }
+    ],
+    "wof:id":840310095,
+    "wof:lastmodified":1463527007,
+    "wof:name":"Gulf Coast Pain Institute",
+    "wof:parent_id":85866173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.959396,
+    30.04372,
+    -89.959396,
+    30.04372
+],
+  "geometry": {"coordinates":[-89.959396,30.04372],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840335673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.070183,30.174443,-92.070183,30.174443",
+    "geom:latitude":30.174443,
+    "geom:longitude":-92.070183,
+    "iso:country":"US",
+    "sg:address":"3636 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 0483",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q1vRxKSsMZlW44OYSON0K_30.174443_-92.070183@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528208,
+    "wof:geomhash":"4626767aed1060aa4959ab2f67ac252e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840335673
+        }
+    ],
+    "wof:id":840335673,
+    "wof:lastmodified":1463528208,
+    "wof:name":"Uncle Bob's Self-Storage",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -92.070183,
+    30.174443,
+    -92.070183,
+    30.174443
+],
+  "geometry": {"coordinates":[-92.070183,30.174443],"type":"Point"}
+}

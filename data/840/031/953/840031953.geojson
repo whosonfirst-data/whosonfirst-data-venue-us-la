@@ -1,0 +1,71 @@
+{
+  "id": 840031953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.433996,30.451228,-93.433996,30.451228",
+    "geom:latitude":30.451228,
+    "geom:longitude":-93.433996,
+    "iso:country":"US",
+    "sg:address":"202 N Holly St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 2146",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oGW1gOPHxFhEthbbdign9_30.451228_-93.433996@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519670,
+    "wof:geomhash":"5d08ab2f8bdb8acd56a736013a2c563a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840031953
+        }
+    ],
+    "wof:id":840031953,
+    "wof:lastmodified":1463519670,
+    "wof:name":"Snider Dental Offices",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.433996,
+    30.451228,
+    -93.433996,
+    30.451228
+],
+  "geometry": {"coordinates":[-93.43399599999999,30.451228],"type":"Point"}
+}

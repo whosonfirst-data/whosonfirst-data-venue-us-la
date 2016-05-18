@@ -1,0 +1,75 @@
+{
+  "id": 840323949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.223153,30.204727,-93.223153,30.204727",
+    "geom:latitude":30.204727,
+    "geom:longitude":-93.223153,
+    "iso:country":"US",
+    "sg:address":"2801 Ernest St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 8988",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TFkLxr8PGeYX3D6qXq1Gt_30.204727_-93.223153@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527672,
+    "wof:geomhash":"98fd660fc4adad8e58bd6f2e72397882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840323949
+        }
+    ],
+    "wof:id":840323949,
+    "wof:lastmodified":1463527672,
+    "wof:name":"Fontenot's Paint & Body Shop",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.223153,
+    30.204727,
+    -93.223153,
+    30.204727
+],
+  "geometry": {"coordinates":[-93.223153,30.204727],"type":"Point"}
+}

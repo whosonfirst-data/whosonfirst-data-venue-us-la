@@ -1,0 +1,71 @@
+{
+  "id": 840211743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.223877,30.216526,-93.223877,30.216526",
+    "geom:latitude":30.216526,
+    "geom:longitude":-93.223877,
+    "iso:country":"US",
+    "sg:address":"234 S Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 8857",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KCb0nFHP62CoRNJBTTumN_30.216526_-93.223877@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523655,
+    "wof:geomhash":"7e9467b56df487fc0d120973736359a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840211743
+        }
+    ],
+    "wof:id":840211743,
+    "wof:lastmodified":1463523655,
+    "wof:name":"Urology Center Of Sw Louisiana",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.223877,
+    30.216526,
+    -93.223877,
+    30.216526
+],
+  "geometry": {"coordinates":[-93.223877,30.216526],"type":"Point"}
+}

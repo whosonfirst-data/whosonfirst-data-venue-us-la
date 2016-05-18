@@ -1,0 +1,73 @@
+{
+  "id": 840019021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.260364,30.110319,-93.260364,30.110319",
+    "geom:latitude":30.110319,
+    "geom:longitude":-93.260364,
+    "iso:country":"US",
+    "sg:address":"2378 W Lincoln Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 3406",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boat",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NL45yzSr3GDOoZb1W9o7B_30.110319_-93.260364@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519384,
+    "wof:geomhash":"f457e993225caeb52b6ddc95bc981b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840019021
+        }
+    ],
+    "wof:id":840019021,
+    "wof:lastmodified":1463519384,
+    "wof:name":"Harolds Marine",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat",
+        "motor"
+    ]
+},
+  "bbox": [
+    -93.260364,
+    30.110319,
+    -93.260364,
+    30.110319
+],
+  "geometry": {"coordinates":[-93.260364,30.110319],"type":"Point"}
+}

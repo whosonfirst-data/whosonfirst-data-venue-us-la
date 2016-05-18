@@ -1,0 +1,74 @@
+{
+  "id": 840456993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.270421,31.117632,-93.270421,31.117632",
+    "geom:latitude":31.117632,
+    "geom:longitude":-93.270421,
+    "iso:country":"US",
+    "sg:address":"2410 S 5th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/north-fort-polk/72967-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 5201",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_379A91nYBjGwwm2hX65wyu_31.117632_-93.270421@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533574,
+    "wof:geomhash":"a971a570d6159971a49d13e8d7383c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840456993
+        }
+    ],
+    "wof:id":840456993,
+    "wof:lastmodified":1463533574,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.270421,
+    31.117632,
+    -93.270421,
+    31.117632
+],
+  "geometry": {"coordinates":[-93.270421,31.117632],"type":"Point"}
+}

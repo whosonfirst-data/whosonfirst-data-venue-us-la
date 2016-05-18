@@ -1,0 +1,73 @@
+{
+  "id": 840222355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.173326,29.69304,-91.173326,29.69304",
+    "geom:latitude":29.69304,
+    "geom:longitude":-91.173326,
+    "iso:country":"US",
+    "sg:address":"7916 State Rte 182",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 5656",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D1byauMG7LS89DyKg2riu_29.693040_-91.173326@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523886,
+    "wof:geomhash":"89f59e7de286612cd62d2374d7148150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840222355
+        }
+    ],
+    "wof:id":840222355,
+    "wof:lastmodified":1463523886,
+    "wof:name":"Lemon-Aid Shoppe",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.173326,
+    29.69304,
+    -91.173326,
+    29.69304
+],
+  "geometry": {"coordinates":[-91.173326,29.69304],"type":"Point"}
+}

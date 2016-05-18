@@ -1,0 +1,71 @@
+{
+  "id": 840347135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.041925,30.158649,-92.041925,30.158649",
+    "geom:latitude":30.158649,
+    "geom:longitude":-92.041925,
+    "iso:country":"US",
+    "sg:address":"104 Republic Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1103",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NBkTZU4UYqsiVsGbb6hGR_30.158649_-92.041925@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528749,
+    "wof:geomhash":"6da8f7bbfca186d022dc4296cedb391c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840347135
+        }
+    ],
+    "wof:id":840347135,
+    "wof:lastmodified":1463528749,
+    "wof:name":"Gary's Dry Cleaning",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.041925,
+    30.158649,
+    -92.041925,
+    30.158649
+],
+  "geometry": {"coordinates":[-92.04192500000001,30.158649],"type":"Point"}
+}

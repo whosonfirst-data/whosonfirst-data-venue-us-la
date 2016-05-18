@@ -1,0 +1,78 @@
+{
+  "id": 840210839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.067979,29.932384,-90.067979,29.932384",
+    "geom:latitude":29.932384,
+    "geom:longitude":-90.067979,
+    "iso:country":"US",
+    "sg:address":"601 Orange St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 566 9051",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lvy1r1PQXIh8rDw7c4LqZ_29.932384_-90.067979@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523640,
+    "wof:geomhash":"3b8fadbad3e6b182a2bbaa55e8fd7110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840210839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840210839
+        }
+    ],
+    "wof:id":840210839,
+    "wof:lastmodified":1463523640,
+    "wof:name":"Le Citio Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.067979,
+    29.932384,
+    -90.067979,
+    29.932384
+],
+  "geometry": {"coordinates":[-90.06797899999999,29.932384],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840432747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.111721,32.502852,-92.111721,32.502852",
+    "geom:latitude":32.502852,
+    "geom:longitude":-92.111721,
+    "iso:country":"US",
+    "sg:address":"611 Grammont St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 327 3107",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PpcaGXxKRCCPHWxPgP2Fv_32.502852_-92.111721@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532589,
+    "wof:geomhash":"b2b4b18949cdf497177001e5b812988c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840432747
+        }
+    ],
+    "wof:id":840432747,
+    "wof:lastmodified":1463532589,
+    "wof:name":"Endoscopy Center",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.111721,
+    32.502852,
+    -92.111721,
+    32.502852
+],
+  "geometry": {"coordinates":[-92.111721,32.502852],"type":"Point"}
+}

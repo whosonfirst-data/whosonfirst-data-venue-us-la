@@ -1,0 +1,73 @@
+{
+  "id": 840308207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.201349,30.226288,-93.201349,30.226288",
+    "geom:latitude":30.226288,
+    "geom:longitude":-93.201349,
+    "iso:country":"US",
+    "sg:address":"1513 1st St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 9409",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WCcsHoLg9baEAtVFHg90x_30.226288_-93.201349@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526908,
+    "wof:geomhash":"a3ee515319781241492d373cef8bdbd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840308207
+        }
+    ],
+    "wof:id":840308207,
+    "wof:lastmodified":1463526908,
+    "wof:name":"Discount Transm Specialists",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.201349,
+    30.226288,
+    -93.201349,
+    30.226288
+],
+  "geometry": {"coordinates":[-93.20134899999999,30.226288],"type":"Point"}
+}

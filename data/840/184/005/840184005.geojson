@@ -1,0 +1,75 @@
+{
+  "id": 840184005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209725,30.223416,-93.209725,30.223416",
+    "geom:latitude":30.223416,
+    "geom:longitude":-93.209725,
+    "iso:country":"US",
+    "sg:address":"1111 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 310 4737",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0acFZe5CptFqZQSH9Mx0Rq_30.223416_-93.209725@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522997,
+    "wof:geomhash":"f4570d5a16084799e28e96b2fd05a9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840184005
+        }
+    ],
+    "wof:id":840184005,
+    "wof:lastmodified":1463522997,
+    "wof:name":"Auto Recon",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.209725,
+    30.223416,
+    -93.209725,
+    30.223416
+],
+  "geometry": {"coordinates":[-93.20972500000001,30.223416],"type":"Point"}
+}

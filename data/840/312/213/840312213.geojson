@@ -1,0 +1,71 @@
+{
+  "id": 840312213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.426688,31.286111,-92.426688,31.286111",
+    "geom:latitude":31.286111,
+    "geom:longitude":-92.426688,
+    "iso:country":"US",
+    "sg:address":"1217 Willow Glen River Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 767 3604",
+    "sg:postcode":"71302",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XeJ2ImS7jvnBtdyGOvi5t_31.286111_-92.426688@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527100,
+    "wof:geomhash":"e8945e325c8f8db01ef4666b53a63b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840312213
+        }
+    ],
+    "wof:id":840312213,
+    "wof:lastmodified":1463527100,
+    "wof:name":"Rapides Primary Healthcare Ctr",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.426688,
+    31.286111,
+    -92.426688,
+    31.286111
+],
+  "geometry": {"coordinates":[-92.426688,31.286111],"type":"Point"}
+}

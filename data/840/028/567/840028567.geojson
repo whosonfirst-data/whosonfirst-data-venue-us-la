@@ -1,0 +1,71 @@
+{
+  "id": 840028567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.070912,30.189778,-92.070912,30.189778",
+    "geom:latitude":30.189778,
+    "geom:longitude":-92.070912,
+    "iso:country":"US",
+    "sg:address":"316 Alyene Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 0489",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d24x8spWANRpMQyylOi34_30.189778_-92.070912@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519593,
+    "wof:geomhash":"6941b67524cf045e6c8bb38094d2be0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840028567
+        }
+    ],
+    "wof:id":840028567,
+    "wof:lastmodified":1463519593,
+    "wof:name":"P & L Quality Cleaning Svc",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -92.070912,
+    30.189778,
+    -92.070912,
+    30.189778
+],
+  "geometry": {"coordinates":[-92.07091200000001,30.189778],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840243237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.191159,30.234526,-93.191159,30.234526",
+    "geom:latitude":30.234526,
+    "geom:longitude":-93.191159,
+    "iso:country":"US",
+    "sg:address":"2017 Vito St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 9537",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garment",
+        "pressing",
+        "agent",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67e8eHxG0Xqy6a6BsRQADC_30.234526_-93.191159@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524433,
+    "wof:geomhash":"8f66746c2eb3353db399969a04b8bc7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840243237
+        }
+    ],
+    "wof:id":840243237,
+    "wof:lastmodified":1463524433,
+    "wof:name":"Joe's Cleaners",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "pressing",
+        "agent",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.191159,
+    30.234526,
+    -93.191159,
+    30.234526
+],
+  "geometry": {"coordinates":[-93.191159,30.234526],"type":"Point"}
+}

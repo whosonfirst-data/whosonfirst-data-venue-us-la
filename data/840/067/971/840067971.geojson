@@ -1,0 +1,71 @@
+{
+  "id": 840067971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.83331,29.990763,-91.83331,29.990763",
+    "geom:latitude":29.990763,
+    "geom:longitude":-91.83331,
+    "iso:country":"US",
+    "sg:address":"1520 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 9059",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19EnbmicgglGZjXsOzZfNv_29.990763_-91.833310@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520438,
+    "wof:geomhash":"c49817e8093b0fc8e5b5ec813d850e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840067971
+        }
+    ],
+    "wof:id":840067971,
+    "wof:lastmodified":1463520438,
+    "wof:name":"Center Street Elementary Schl",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.83331,
+    29.990763,
+    -91.83331,
+    29.990763
+],
+  "geometry": {"coordinates":[-91.83331,29.990763],"type":"Point"}
+}

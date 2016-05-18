@@ -1,0 +1,73 @@
+{
+  "id": 840360995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.072941,29.987942,-90.072941,29.987942",
+    "geom:latitude":29.987942,
+    "geom:longitude":-90.072941,
+    "iso:country":"US",
+    "sg:address":"3040 Paris Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 948 4989",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k0IrhszK4wsJeQS7xPn7S_29.987942_-90.072941@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529429,
+    "wof:geomhash":"4df2bd1075a253caf597ccdaa4ca5975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866081,
+            "region_id":85688735,
+            "venue_id":840360995
+        }
+    ],
+    "wof:id":840360995,
+    "wof:lastmodified":1463529429,
+    "wof:name":"Paris Avenue Grocery",
+    "wof:parent_id":85866081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.072941,
+    29.987942,
+    -90.072941,
+    29.987942
+],
+  "geometry": {"coordinates":[-90.072941,29.987942],"type":"Point"}
+}

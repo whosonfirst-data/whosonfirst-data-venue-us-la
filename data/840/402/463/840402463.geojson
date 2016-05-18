@@ -1,0 +1,75 @@
+{
+  "id": 840402463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.044894,29.954275,-90.044894,29.954275",
+    "geom:latitude":29.954275,
+    "geom:longitude":-90.044894,
+    "iso:country":"US",
+    "sg:address":"111 Atlantic Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 361 3371",
+    "sg:postcode":"70114",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OKKDXAiJv6c3Ll6F02AOf_29.954275_-90.044894@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531316,
+    "wof:geomhash":"943f051a3c312ef122f5092bd111dccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866153,
+            "region_id":85688735,
+            "venue_id":840402463
+        }
+    ],
+    "wof:id":840402463,
+    "wof:lastmodified":1463531316,
+    "wof:name":"United Utility Svc",
+    "wof:parent_id":85866153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.044894,
+    29.954275,
+    -90.044894,
+    29.954275
+],
+  "geometry": {"coordinates":[-90.044894,29.954275],"type":"Point"}
+}

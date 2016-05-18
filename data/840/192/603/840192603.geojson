@@ -1,0 +1,71 @@
+{
+  "id": 840192603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.041137,30.386368,-91.041137,30.386368",
+    "geom:latitude":30.386368,
+    "geom:longitude":-91.041137,
+    "iso:country":"US",
+    "sg:address":"6629 Pecue Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 752 2101",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AXmqXKZNu8qqMl8KHsSi9_30.386368_-91.041137@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523162,
+    "wof:geomhash":"7f0445e151d0e0c780e0f922a81371f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840192603
+        }
+    ],
+    "wof:id":840192603,
+    "wof:lastmodified":1463523162,
+    "wof:name":"All Current Electrical Sales",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.041137,
+    30.386368,
+    -91.041137,
+    30.386368
+],
+  "geometry": {"coordinates":[-91.04113700000001,30.386368],"type":"Point"}
+}

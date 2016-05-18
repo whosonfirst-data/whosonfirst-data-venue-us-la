@@ -1,0 +1,73 @@
+{
+  "id": 840380367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.512973,29.802872,-91.512973,29.802872",
+    "geom:latitude":29.802872,
+    "geom:longitude":-91.512973,
+    "iso:country":"US",
+    "sg:address":"1133 Lee Charles St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4411",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NfQ3SkwoXVKyxH9MyZFjj_29.802872_-91.512973@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530365,
+    "wof:geomhash":"fcec6360a41d2cb4be580753f013f585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840380367
+        }
+    ],
+    "wof:id":840380367,
+    "wof:lastmodified":1463530365,
+    "wof:name":"Classic Cleaning",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.512973,
+    29.802872,
+    -91.512973,
+    29.802872
+],
+  "geometry": {"coordinates":[-91.512973,29.802872],"type":"Point"}
+}

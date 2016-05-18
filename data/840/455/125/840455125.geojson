@@ -1,0 +1,75 @@
+{
+  "id": 840455125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.183572,30.443157,-91.183572,30.443157",
+    "geom:latitude":30.443157,
+    "geom:longitude":-91.183572,
+    "iso:country":"US",
+    "sg:address":"720 Government St",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/188269-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70802",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85805113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25EJwjRheg4nipCqe9sVw6_30.443157_-91.183572@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533508,
+    "wof:geomhash":"81a44ec7aa338319e2db4d7354e017db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85805113,
+            "region_id":85688735,
+            "venue_id":840455125
+        }
+    ],
+    "wof:id":840455125,
+    "wof:lastmodified":1463533508,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85805113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.183572,
+    30.443157,
+    -91.183572,
+    30.443157
+],
+  "geometry": {"coordinates":[-91.183572,30.443157],"type":"Point"}
+}

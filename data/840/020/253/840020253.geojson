@@ -1,0 +1,71 @@
+{
+  "id": 840020253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.07494,30.208319,-92.07494,30.208319",
+    "geom:latitude":30.208319,
+    "geom:longitude":-92.07494,
+    "iso:country":"US",
+    "sg:address":"101 Wilbourn Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 3354",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04ZhZaPbzrW9QPvEmDchyd_30.208319_-92.074940@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519413,
+    "wof:geomhash":"389083583b2ca27b090e8cd871f6d1ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840020253
+        }
+    ],
+    "wof:id":840020253,
+    "wof:lastmodified":1463519413,
+    "wof:name":"Acadiana Apartment Assn",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -92.07494,
+    30.208319,
+    -92.07494,
+    30.208319
+],
+  "geometry": {"coordinates":[-92.07494,30.208319],"type":"Point"}
+}

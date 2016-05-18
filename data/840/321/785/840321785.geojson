@@ -1,0 +1,71 @@
+{
+  "id": 840321785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.98126,29.954468,-89.98126,29.954468",
+    "geom:latitude":29.954468,
+    "geom:longitude":-89.98126,
+    "iso:country":"US",
+    "sg:address":"8220 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 1234",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LFdbvSYImilu614pamENW_29.954468_-89.981260@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527539,
+    "wof:geomhash":"e4e978fdf6ba6f4417ee2554fff22daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840321785
+        }
+    ],
+    "wof:id":840321785,
+    "wof:lastmodified":1463527539,
+    "wof:name":"Buccaneer Villa Veterinary",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.98126,
+    29.954468,
+    -89.98126,
+    29.954468
+],
+  "geometry": {"coordinates":[-89.98126000000001,29.954468],"type":"Point"}
+}

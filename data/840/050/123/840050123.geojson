@@ -1,0 +1,75 @@
+{
+  "id": 840050123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.09932,32.522327,-92.09932,32.522327",
+    "geom:latitude":32.522327,
+    "geom:longitude":-92.09932,
+    "iso:country":"US",
+    "sg:address":"2333 Louisville Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 807 7283",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948231,
+        102081027,
+        85819355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kLjarIVmvp06b6DUl2cDx_32.522327_-92.099320@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520047,
+    "wof:geomhash":"5f3ea838778bbbd101fd8a46aca5e67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85819355,
+            "region_id":85688735,
+            "venue_id":840050123
+        }
+    ],
+    "wof:id":840050123,
+    "wof:lastmodified":1463520047,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":85819355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.09932,
+    32.522327,
+    -92.09932,
+    32.522327
+],
+  "geometry": {"coordinates":[-92.09932000000001,32.522327],"type":"Point"}
+}

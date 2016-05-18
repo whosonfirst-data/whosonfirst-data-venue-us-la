@@ -1,0 +1,76 @@
+{
+  "id": 840454189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.993911,30.227567,-91.993911,30.227567",
+    "geom:latitude":30.227567,
+    "geom:longitude":-91.993911,
+    "iso:country":"US",
+    "sg:address":"1821 E Pinhook Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/72948-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 4568",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X9fEEbcALq0WSsBHflJWx_30.227567_-91.993911@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533475,
+    "wof:geomhash":"eb48bf6ade9c5710e49db68a2b30bc4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840454189
+        }
+    ],
+    "wof:id":840454189,
+    "wof:lastmodified":1463533475,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.993911,
+    30.227567,
+    -91.993911,
+    30.227567
+],
+  "geometry": {"coordinates":[-91.993911,30.227567],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840453143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.074868,29.955515,-90.074868,29.955515",
+    "geom:latitude":29.955515,
+    "geom:longitude":-90.074868,
+    "iso:country":"US",
+    "sg:address":"204 S Saratoga St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/136684-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 585 1775",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NyPVDD0Q22NYYT1miNhdI_29.955515_-90.074868@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533431,
+    "wof:geomhash":"23710c59b54f92e8ad55dca2c0761a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840453143
+        }
+    ],
+    "wof:id":840453143,
+    "wof:lastmodified":1463533431,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.074868,
+    29.955515,
+    -90.074868,
+    29.955515
+],
+  "geometry": {"coordinates":[-90.074868,29.955515],"type":"Point"}
+}

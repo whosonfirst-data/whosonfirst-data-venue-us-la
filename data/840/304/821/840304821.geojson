@@ -1,0 +1,78 @@
+{
+  "id": 840304821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.459405,31.283831,-92.459405,31.283831",
+    "geom:latitude":31.283831,
+    "geom:longitude":-92.459405,
+    "iso:country":"US",
+    "sg:address":"3223 Masonic Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 448 9653",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X2lRrUy7gZu1xPpSPGT8V_31.283831_-92.459405@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526756,
+    "wof:geomhash":"61ec14acdc6294a52c36d00c7ef691dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840304821
+        }
+    ],
+    "wof:id":840304821,
+    "wof:lastmodified":1463526756,
+    "wof:name":"Texas and Masonic Snack Shop",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -92.459405,
+    31.283831,
+    -92.459405,
+    31.283831
+],
+  "geometry": {"coordinates":[-92.459405,31.283831],"type":"Point"}
+}

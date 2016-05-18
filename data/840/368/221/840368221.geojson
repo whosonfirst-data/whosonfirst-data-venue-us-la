@@ -1,0 +1,71 @@
+{
+  "id": 840368221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.184127,30.148534,-93.184127,30.148534",
+    "geom:latitude":30.148534,
+    "geom:longitude":-93.184127,
+    "iso:country":"US",
+    "sg:address":"2413 Green Briar Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 3617",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42chLED1Jim6hCCB1UDpNe_30.148534_-93.184127@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529796,
+    "wof:geomhash":"92916430be63bc9b3bfc2d9772a4c5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840368221
+        }
+    ],
+    "wof:id":840368221,
+    "wof:lastmodified":1463529796,
+    "wof:name":"ABC Painting & Drywall",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.184127,
+    30.148534,
+    -93.184127,
+    30.148534
+],
+  "geometry": {"coordinates":[-93.184127,30.148534],"type":"Point"}
+}

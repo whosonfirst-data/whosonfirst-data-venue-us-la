@@ -1,0 +1,71 @@
+{
+  "id": 840315731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.707655,32.44441,-93.707655,32.44441",
+    "geom:latitude":32.44441,
+    "geom:longitude":-93.707655,
+    "iso:country":"US",
+    "sg:address":"2046 E 70th St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 0868",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q26M9C5llgK0116euwQNc_32.444410_-93.707655@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527253,
+    "wof:geomhash":"3f83b592367b0f91eaf4274a0ea1e8ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840315731
+        }
+    ],
+    "wof:id":840315731,
+    "wof:lastmodified":1463527253,
+    "wof:name":"Robert L Price DDS",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.707655,
+    32.44441,
+    -93.707655,
+    32.44441
+],
+  "geometry": {"coordinates":[-93.707655,32.44441],"type":"Point"}
+}

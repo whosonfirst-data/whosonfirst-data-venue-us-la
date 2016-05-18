@@ -1,0 +1,71 @@
+{
+  "id": 840291451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.577489,30.186999,-93.577489,30.186999",
+    "geom:latitude":30.186999,
+    "geom:longitude":-93.577489,
+    "iso:country":"US",
+    "sg:address":"1514 Industrial St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 7003",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70NMp3VTL6EPW5xQ4ygkFN_30.186999_-93.577489@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526130,
+    "wof:geomhash":"122702ff339c3083bd89ba833452edce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840291451
+        }
+    ],
+    "wof:id":840291451,
+    "wof:lastmodified":1463526130,
+    "wof:name":"Shear Delight",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.577489,
+    30.186999,
+    -93.577489,
+    30.186999
+],
+  "geometry": {"coordinates":[-93.577489,30.186999],"type":"Point"}
+}

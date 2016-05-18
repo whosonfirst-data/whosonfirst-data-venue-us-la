@@ -1,0 +1,71 @@
+{
+  "id": 840157143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218582,30.209368,-93.218582,30.209368",
+    "geom:latitude":30.209368,
+    "geom:longitude":-93.218582,
+    "iso:country":"US",
+    "sg:address":"2309 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 497 0796",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5izJMCzjvbEeKi3lEFgrHp_30.209368_-93.218582@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522390,
+    "wof:geomhash":"f28014ff8de1e1529814bb5a9caa60fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840157143
+        }
+    ],
+    "wof:id":840157143,
+    "wof:lastmodified":1463522390,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.218582,
+    30.209368,
+    -93.218582,
+    30.209368
+],
+  "geometry": {"coordinates":[-93.218582,30.209368],"type":"Point"}
+}

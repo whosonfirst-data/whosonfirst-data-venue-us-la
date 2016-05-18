@@ -1,0 +1,78 @@
+{
+  "id": 840453277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.099517,29.976533,-90.099517,29.976533",
+    "geom:latitude":29.976533,
+    "geom:longitude":-90.099517,
+    "iso:country":"US",
+    "sg:address":"4123 Bienville St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/136679-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 484 6005",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eIncy2aHXMHtifV0VX5XR_29.976533_-90.099517@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533436,
+    "wof:geomhash":"02576d37d3eb317ae6b1c5b6e2f36c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840453277
+        }
+    ],
+    "wof:id":840453277,
+    "wof:lastmodified":1463533436,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.099517,
+    29.976533,
+    -90.099517,
+    29.976533
+],
+  "geometry": {"coordinates":[-90.09951700000001,29.976533],"type":"Point"}
+}

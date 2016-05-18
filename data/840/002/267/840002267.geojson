@@ -1,0 +1,71 @@
+{
+  "id": 840002267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.21909,30.217782,-93.21909,30.217782",
+    "geom:latitude":30.217782,
+    "geom:longitude":-93.21909,
+    "iso:country":"US",
+    "sg:address":"1625 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 9928",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "handicapped"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cBM3oiahMIbHGByQPKgss_30.217782_-93.219090@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519039,
+    "wof:geomhash":"5312a816a28ce2b86db38f3dfa80c361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840002267
+        }
+    ],
+    "wof:id":840002267,
+    "wof:lastmodified":1463519039,
+    "wof:name":"Guidry's Health Transportation",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped"
+    ]
+},
+  "bbox": [
+    -93.21909,
+    30.217782,
+    -93.21909,
+    30.217782
+],
+  "geometry": {"coordinates":[-93.21908999999999,30.217782],"type":"Point"}
+}

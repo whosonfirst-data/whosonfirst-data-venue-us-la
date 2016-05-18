@@ -1,0 +1,73 @@
+{
+  "id": 840269805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.083901,29.952605,-90.083901,29.952605",
+    "geom:latitude":29.952605,
+    "geom:longitude":-90.083901,
+    "iso:country":"US",
+    "sg:address":"1928 Lafayette St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 599 7767",
+    "sg:postcode":"70113",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jcVUFzftVqRa5OIFSoYOE_29.952605_-90.083901@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525169,
+    "wof:geomhash":"33eb312e336046f84738115c35323523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866073,
+            "region_id":85688735,
+            "venue_id":840269805
+        }
+    ],
+    "wof:id":840269805,
+    "wof:lastmodified":1463525169,
+    "wof:name":"Standard Parking",
+    "wof:parent_id":85866073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -90.083901,
+    29.952605,
+    -90.083901,
+    29.952605
+],
+  "geometry": {"coordinates":[-90.083901,29.952605],"type":"Point"}
+}

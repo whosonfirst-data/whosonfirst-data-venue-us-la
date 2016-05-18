@@ -1,0 +1,73 @@
+{
+  "id": 840391553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.360371,30.236782,-93.360371,30.236782",
+    "geom:latitude":30.236782,
+    "geom:longitude":-93.360371,
+    "iso:country":"US",
+    "sg:address":"1548 E Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 6111",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07SPUNiMu3mkTFsiHPQyg7_30.236782_-93.360371@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530864,
+    "wof:geomhash":"aae7d6495b13a66af5c7a86d14c9becf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840391553
+        }
+    ],
+    "wof:id":840391553,
+    "wof:lastmodified":1463530864,
+    "wof:name":"Mead's Garage Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -93.360371,
+    30.236782,
+    -93.360371,
+    30.236782
+],
+  "geometry": {"coordinates":[-93.360371,30.236782],"type":"Point"}
+}

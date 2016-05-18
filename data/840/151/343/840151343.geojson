@@ -1,0 +1,73 @@
+{
+  "id": 840151343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.458016,31.268459,-92.458016,31.268459",
+    "geom:latitude":31.268459,
+    "geom:longitude":-92.458016,
+    "iso:country":"US",
+    "sg:address":"2415 S Macarthur Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 445 8998",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Z73M1e195pu7oAyF2rVK_31.268459_-92.458016@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522274,
+    "wof:geomhash":"1902efa9ae1f3bc3315c60d334165ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840151343
+        }
+    ],
+    "wof:id":840151343,
+    "wof:lastmodified":1463522274,
+    "wof:name":"Kar Salon",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -92.458016,
+    31.268459,
+    -92.458016,
+    31.268459
+],
+  "geometry": {"coordinates":[-92.458016,31.268459],"type":"Point"}
+}

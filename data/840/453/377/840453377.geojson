@@ -1,0 +1,76 @@
+{
+  "id": 840453377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.11355,29.946748,-90.11355,29.946748",
+    "geom:latitude":29.946748,
+    "geom:longitude":-90.11355,
+    "iso:country":"US",
+    "sg:address":"6307 S Miro St ",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/281657-naked-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 865 0244",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AJUdx0tf8ZHahfdhVUyFH_29.946748_-90.113550@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533439,
+    "wof:geomhash":"3dd00a75d5d4d85b0f829265a820f4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866177,
+            "region_id":85688735,
+            "venue_id":840453377
+        }
+    ],
+    "wof:id":840453377,
+    "wof:lastmodified":1463533439,
+    "wof:name":"Naked Pizza",
+    "wof:parent_id":85866177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.11355,
+    29.946748,
+    -90.11355,
+    29.946748
+],
+  "geometry": {"coordinates":[-90.11355,29.946748],"type":"Point"}
+}

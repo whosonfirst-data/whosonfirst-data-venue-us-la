@@ -1,0 +1,74 @@
+{
+  "id": 840457573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.211572,30.30063,-93.211572,30.30063",
+    "geom:latitude":30.30063,
+    "geom:longitude":-93.211572,
+    "iso:country":"US",
+    "sg:address":"875 Sam Houston Jones Pkwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/72975-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 7770",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LNCL61p3E5P2k79070xaO_30.300711_-93.211464@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533599,
+    "wof:geomhash":"207acd167d530730e276b4658cdb67cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840457573
+        }
+    ],
+    "wof:id":840457573,
+    "wof:lastmodified":1463533599,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.211572,
+    30.30063,
+    -93.211572,
+    30.30063
+],
+  "geometry": {"coordinates":[-93.211572,30.30063],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840048653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.351221,30.236824,-93.351221,30.236824",
+    "geom:latitude":30.236824,
+    "geom:longitude":-93.351221,
+    "iso:country":"US",
+    "sg:address":"2360 E Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 0402",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Md3rUYpHppgZQI0qDVn1J_30.236824_-93.351221@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520011,
+    "wof:geomhash":"3823cf4a9ad9945baf1404111ed0546a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840048653
+        }
+    ],
+    "wof:id":840048653,
+    "wof:lastmodified":1463520011,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.351221,
+    30.236824,
+    -93.351221,
+    30.236824
+],
+  "geometry": {"coordinates":[-93.351221,30.236824],"type":"Point"}
+}

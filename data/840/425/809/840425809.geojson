@@ -1,0 +1,71 @@
+{
+  "id": 840425809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.223267,30.300614,-93.223267,30.300614",
+    "geom:latitude":30.300614,
+    "geom:longitude":-93.223267,
+    "iso:country":"US",
+    "sg:address":"1434 Sam Houston Jones Pkwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 7748",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t9hADbNpGeTUBt2QsGViP_30.300614_-93.223267@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532269,
+    "wof:geomhash":"f91a4689766c1d04491bdf3107d0721c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840425809
+        }
+    ],
+    "wof:id":840425809,
+    "wof:lastmodified":1463532269,
+    "wof:name":"Family Dental Care",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.223267,
+    30.300614,
+    -93.223267,
+    30.300614
+],
+  "geometry": {"coordinates":[-93.22326700000001,30.300614],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840405757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.25999,31.14134,-93.25999,31.14134",
+    "geom:latitude":31.14134,
+    "geom:longitude":-93.25999,
+    "iso:country":"US",
+    "sg:address":"401 E Maggie St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 0062",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KYOASssZHlHKcAZffkZpO_31.141340_-93.259990@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531452,
+    "wof:geomhash":"6c1eefa489f8b82ed487858c59d3b645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840405757
+        }
+    ],
+    "wof:id":840405757,
+    "wof:lastmodified":1463531452,
+    "wof:name":"City Cleaners",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.25999,
+    31.14134,
+    -93.25999,
+    31.14134
+],
+  "geometry": {"coordinates":[-93.25999,31.14134],"type":"Point"}
+}

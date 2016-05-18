@@ -1,0 +1,73 @@
+{
+  "id": 840430331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.031226,30.171399,-92.031226,30.171399",
+    "geom:latitude":30.171399,
+    "geom:longitude":-92.031226,
+    "iso:country":"US",
+    "sg:address":"2214 Kaliste Saloom Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 0099",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zIRADAmEgnFwLLw9YsIwR_30.171399_-92.031226@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532461,
+    "wof:geomhash":"2c644ad9ea0d1d5dcd1dbf37dc061dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840430331
+        }
+    ],
+    "wof:id":840430331,
+    "wof:lastmodified":1463532461,
+    "wof:name":"Ross Tire & Svc",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.031226,
+    30.171399,
+    -92.031226,
+    30.171399
+],
+  "geometry": {"coordinates":[-92.031226,30.171399],"type":"Point"}
+}

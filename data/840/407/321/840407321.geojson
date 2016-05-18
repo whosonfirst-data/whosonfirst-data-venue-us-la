@@ -1,0 +1,71 @@
+{
+  "id": 840407321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204234,30.212999,-93.204234,30.212999",
+    "geom:latitude":30.212999,
+    "geom:longitude":-93.204234,
+    "iso:country":"US",
+    "sg:address":"2017 Enterprise Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 8877",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gR6dQz7UrBSgYnSFESptK_30.212999_-93.204234@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531511,
+    "wof:geomhash":"0f2594d4132ddbbaf00dfd8a0fceac8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840407321
+        }
+    ],
+    "wof:id":840407321,
+    "wof:lastmodified":1463531511,
+    "wof:name":"Dan's Transmission Svc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.204234,
+    30.212999,
+    -93.204234,
+    30.212999
+],
+  "geometry": {"coordinates":[-93.204234,30.212999],"type":"Point"}
+}

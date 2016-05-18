@@ -1,0 +1,71 @@
+{
+  "id": 840103541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.715844,30.288151,-89.715844,30.288151",
+    "geom:latitude":30.288151,
+    "geom:longitude":-89.715844,
+    "iso:country":"US",
+    "sg:address":"389 E Essex Dr",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 643 3803",
+    "sg:postcode":"70461",
+    "sg:province":"LA",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85844841,
+        102082453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ue65iWuFCT1eSOcBle9Fe_30.288151_-89.715844@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521292,
+    "wof:geomhash":"e039fbb8ddbcf4c9c5666d29a910cba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85844841,
+            "region_id":85688735,
+            "venue_id":840103541
+        }
+    ],
+    "wof:id":840103541,
+    "wof:lastmodified":1463521292,
+    "wof:name":"Cross Gates Utility",
+    "wof:parent_id":85844841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.715844,
+    30.288151,
+    -89.715844,
+    30.288151
+],
+  "geometry": {"coordinates":[-89.715844,30.288151],"type":"Point"}
+}

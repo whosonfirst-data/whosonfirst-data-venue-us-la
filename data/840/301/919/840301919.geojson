@@ -1,0 +1,73 @@
+{
+  "id": 840301919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.124573,30.234234,-93.124573,30.234234",
+    "geom:latitude":30.234234,
+    "geom:longitude":-93.124573,
+    "iso:country":"US",
+    "sg:address":"6314 Leslie Ln",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 721 8040",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j0eN76JCS7Ophjm03xV2h_30.234234_-93.124573@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526622,
+    "wof:geomhash":"bf48873bc54162c6aa96d47dd583e462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840301919
+        }
+    ],
+    "wof:id":840301919,
+    "wof:lastmodified":1463526622,
+    "wof:name":"Aldan Corp",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.124573,
+    30.234234,
+    -93.124573,
+    30.234234
+],
+  "geometry": {"coordinates":[-93.124573,30.234234],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840197635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.087162,29.961313,-90.087162,29.961313",
+    "geom:latitude":29.961313,
+    "geom:longitude":-90.087162,
+    "iso:country":"US",
+    "sg:address":"300 S Rocheblave St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 821 3632",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lrmnrJOBSI3MtLiP1SmKo_29.961313_-90.087162@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523273,
+    "wof:geomhash":"ffd1bc2a01adb57608b5cf91de8cea70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840197635
+        }
+    ],
+    "wof:id":840197635,
+    "wof:lastmodified":1463523273,
+    "wof:name":"Chester's Auto Svc",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.087162,
+    29.961313,
+    -90.087162,
+    29.961313
+],
+  "geometry": {"coordinates":[-90.08716200000001,29.961313],"type":"Point"}
+}

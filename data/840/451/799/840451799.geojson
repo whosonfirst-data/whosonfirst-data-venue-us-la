@@ -1,0 +1,73 @@
+{
+  "id": 840451799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.050697,29.9667,-90.050697,29.9667",
+    "geom:latitude":29.9667,
+    "geom:longitude":-90.050697,
+    "iso:country":"US",
+    "sg:address":"2624 Burgundy St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 1773",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85819021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gJlpVUGM5aXIJKJkWCQ6P_29.966536_-90.050095@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533377,
+    "wof:geomhash":"b55e7cc980595429266f6d136b8d9292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85819021,
+            "region_id":85688735,
+            "venue_id":840451799
+        }
+    ],
+    "wof:id":840451799,
+    "wof:lastmodified":1463533377,
+    "wof:name":"St Paul Lutheran School",
+    "wof:parent_id":85819021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -90.050697,
+    29.9667,
+    -90.050697,
+    29.9667
+],
+  "geometry": {"coordinates":[-90.050697,29.9667],"type":"Point"}
+}

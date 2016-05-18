@@ -1,0 +1,71 @@
+{
+  "id": 840431513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.048981,30.389164,-91.048981,30.389164",
+    "geom:latitude":30.389164,
+    "geom:longitude":-91.048981,
+    "iso:country":"US",
+    "sg:address":"12112 Cloverland Park Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 752 3700",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fjwJUQUWn1xxEaAIDBGrb_30.389164_-91.048981@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532516,
+    "wof:geomhash":"1c06f841fa3935a970312eacf32c6577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840431513
+        }
+    ],
+    "wof:id":840431513,
+    "wof:lastmodified":1463532516,
+    "wof:name":"Trice's Professional Car Care",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.048981,
+    30.389164,
+    -91.048981,
+    30.389164
+],
+  "geometry": {"coordinates":[-91.048981,30.389164],"type":"Point"}
+}

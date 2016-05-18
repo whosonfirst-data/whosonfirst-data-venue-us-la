@@ -1,0 +1,72 @@
+{
+  "id": 840454643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.228011,30.237399,-93.228011,30.237399",
+    "geom:latitude":30.237399,
+    "geom:longitude":-93.228011,
+    "iso:country":"US",
+    "sg:address":"804 N Lake Shore Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/136388-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7676",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O9jstQHy5zKTKCoI2ug3x_30.237399_-93.228011@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533491,
+    "wof:geomhash":"d552fe0103ec95addb132980b9677abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840454643
+        }
+    ],
+    "wof:id":840454643,
+    "wof:lastmodified":1463533491,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -93.228011,
+    30.237399,
+    -93.228011,
+    30.237399
+],
+  "geometry": {"coordinates":[-93.228011,30.237399],"type":"Point"}
+}

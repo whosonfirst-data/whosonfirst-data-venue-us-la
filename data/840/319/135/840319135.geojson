@@ -1,0 +1,73 @@
+{
+  "id": 840319135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.810792,29.970685,-91.810792,29.970685",
+    "geom:latitude":29.970685,
+    "geom:longitude":-91.810792,
+    "iso:country":"US",
+    "sg:address":"1414 Montagne St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 7403",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51wR8SetN1rNMJOYXpF1lt_29.970685_-91.810792@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527421,
+    "wof:geomhash":"4d1fe15cbc8b3bd16dcac20ae2151582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840319135
+        }
+    ],
+    "wof:id":840319135,
+    "wof:lastmodified":1463527421,
+    "wof:name":"Dominique Transportation",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.810792,
+    29.970685,
+    -91.810792,
+    29.970685
+],
+  "geometry": {"coordinates":[-91.81079200000001,29.970685],"type":"Point"}
+}

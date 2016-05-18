@@ -1,0 +1,76 @@
+{
+  "id": 840456327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.698332,32.524627,-93.698332,32.524627",
+    "geom:latitude":32.524627,
+    "geom:longitude":-93.698332,
+    "iso:country":"US",
+    "sg:address":"1990 Airline Dr",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bossier-city/208596-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 747 2426",
+    "sg:postcode":"71112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529577,
+        85811501,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I1IJK5A0dPRGFxd1mUVDB_32.524627_-93.698332@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533549,
+    "wof:geomhash":"a8e09379bb11861794abb2f5e319067d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529577,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85811501,
+            "region_id":85688735,
+            "venue_id":840456327
+        }
+    ],
+    "wof:id":840456327,
+    "wof:lastmodified":1463533549,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":102529577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.698332,
+    32.524627,
+    -93.698332,
+    32.524627
+],
+  "geometry": {"coordinates":[-93.69833199999999,32.524627],"type":"Point"}
+}

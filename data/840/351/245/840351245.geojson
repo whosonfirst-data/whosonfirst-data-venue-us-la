@@ -1,0 +1,73 @@
+{
+  "id": 840351245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.084108,29.980511,-90.084108,29.980511",
+    "geom:latitude":29.980511,
+    "geom:longitude":-90.084108,
+    "iso:country":"US",
+    "sg:address":"3143 Ponce de Leon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 940 0577",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bwhQ3Sh4PFF19wFyWfq42_29.980511_-90.084108@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528968,
+    "wof:geomhash":"d3496e7937156dad5ca049080d40e2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840351245
+        }
+    ],
+    "wof:id":840351245,
+    "wof:lastmodified":1463528968,
+    "wof:name":"LA Boulangerie",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -90.084108,
+    29.980511,
+    -90.084108,
+    29.980511
+],
+  "geometry": {"coordinates":[-90.084108,29.980511],"type":"Point"}
+}

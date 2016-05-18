@@ -1,0 +1,75 @@
+{
+  "id": 840401319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.198606,30.198291,-93.198606,30.198291",
+    "geom:latitude":30.198291,
+    "geom:longitude":-93.198606,
+    "iso:country":"US",
+    "sg:address":"1503 E Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 1884",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qO7dyYw3yabSwbFbfmP5C_30.198291_-93.198606@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531261,
+    "wof:geomhash":"4b44d351a4212720e9d847f9f35b2d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840401319
+        }
+    ],
+    "wof:id":840401319,
+    "wof:lastmodified":1463531261,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -93.198606,
+    30.198291,
+    -93.198606,
+    30.198291
+],
+  "geometry": {"coordinates":[-93.198606,30.198291],"type":"Point"}
+}

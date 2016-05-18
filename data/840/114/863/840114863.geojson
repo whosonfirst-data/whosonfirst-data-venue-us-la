@@ -1,0 +1,71 @@
+{
+  "id": 840114863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209739,30.214213,-93.209739,30.214213",
+    "geom:latitude":30.214213,
+    "geom:longitude":-93.209739,
+    "iso:country":"US",
+    "sg:address":"1803 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 497 1240",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bdBVRXvg7wE8Qf1MEtmMG_30.214213_-93.209739@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521529,
+    "wof:geomhash":"339d133a26e572fa914b1e5fb7456c87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840114863
+        }
+    ],
+    "wof:id":840114863,
+    "wof:lastmodified":1463521529,
+    "wof:name":"Tower Loan",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -93.209739,
+    30.214213,
+    -93.209739,
+    30.214213
+],
+  "geometry": {"coordinates":[-93.209739,30.214213],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840143433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.235272,31.019881,-93.235272,31.019881",
+    "geom:latitude":31.019881,
+    "geom:longitude":-93.235272,
+    "iso:country":"US",
+    "sg:address":"533 Graham Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 537 8434",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "logistics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PieKvgziStl70DGNqQ5pK_31.019881_-93.235272@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522114,
+    "wof:geomhash":"9dbddbdd28a486d02dd47884d7113d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840143433
+        }
+    ],
+    "wof:id":840143433,
+    "wof:lastmodified":1463522114,
+    "wof:name":"Searle Logistics",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logistics"
+    ]
+},
+  "bbox": [
+    -93.235272,
+    31.019881,
+    -93.235272,
+    31.019881
+],
+  "geometry": {"coordinates":[-93.23527199999999,31.019881],"type":"Point"}
+}

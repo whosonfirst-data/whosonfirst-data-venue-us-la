@@ -1,0 +1,73 @@
+{
+  "id": 840064261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.25371,30.000235,-90.25371,30.000235",
+    "geom:latitude":30.000235,
+    "geom:longitude":-90.25371,
+    "iso:country":"US",
+    "sg:address":"2443 Helena St",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 471 3444",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UI9farzXSO2FDkoGXRJvK_30.000235_-90.253710@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520359,
+    "wof:geomhash":"9c9b5b79d22001fac71ff8143149cc68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840064261
+        }
+    ],
+    "wof:id":840064261,
+    "wof:lastmodified":1463520359,
+    "wof:name":"A J's Transmissions Inc",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.25371,
+    30.000235,
+    -90.25371,
+    30.000235
+],
+  "geometry": {"coordinates":[-90.25371,30.000235],"type":"Point"}
+}

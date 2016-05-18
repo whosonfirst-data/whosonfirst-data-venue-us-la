@@ -1,0 +1,73 @@
+{
+  "id": 840405633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.080369,30.223113,-92.080369,30.223113",
+    "geom:latitude":30.223113,
+    "geom:longitude":-92.080369,
+    "iso:country":"US",
+    "sg:address":"241 Des Jacques Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 9903",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "towing",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ENyLIQQLJgG52uwjc3SPr_30.223113_-92.080369@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531448,
+    "wof:geomhash":"2c7821dc0bd36c6705d33a68ce0d3ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840405633
+        }
+    ],
+    "wof:id":840405633,
+    "wof:lastmodified":1463531448,
+    "wof:name":"Apple's Towing",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -92.080369,
+    30.223113,
+    -92.080369,
+    30.223113
+],
+  "geometry": {"coordinates":[-92.080369,30.223113],"type":"Point"}
+}

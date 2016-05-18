@@ -1,0 +1,73 @@
+{
+  "id": 840005543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.033182,30.174066,-92.033182,30.174066",
+    "geom:latitude":30.174066,
+    "geom:longitude":-92.033182,
+    "iso:country":"US",
+    "sg:address":"107 Canebroke Ln",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 704 0091",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AyK8rR1xuGLnbD9SMQuLW_30.174066_-92.033182@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519112,
+    "wof:geomhash":"04514dc49711ae91cab31104dcb28bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840005543
+        }
+    ],
+    "wof:id":840005543,
+    "wof:lastmodified":1463519112,
+    "wof:name":"Gulf Stream Svc Inc",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -92.033182,
+    30.174066,
+    -92.033182,
+    30.174066
+],
+  "geometry": {"coordinates":[-92.033182,30.174066],"type":"Point"}
+}

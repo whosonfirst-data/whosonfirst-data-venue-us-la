@@ -1,0 +1,71 @@
+{
+  "id": 840013295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.384871,30.236488,-93.384871,30.236488",
+    "geom:latitude":30.236488,
+    "geom:longitude":-93.384871,
+    "iso:country":"US",
+    "sg:address":"713 W Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 2040",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ASiDiutL35hIuAD2mA9Aa_30.236488_-93.384871@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519275,
+    "wof:geomhash":"cc7c0b57b95b44556a7754899de4558a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840013295
+        }
+    ],
+    "wof:id":840013295,
+    "wof:lastmodified":1463519275,
+    "wof:name":"Pink Pig",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -93.384871,
+    30.236488,
+    -93.384871,
+    30.236488
+],
+  "geometry": {"coordinates":[-93.384871,30.236488],"type":"Point"}
+}

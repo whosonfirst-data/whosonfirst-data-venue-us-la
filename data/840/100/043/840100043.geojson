@@ -1,0 +1,71 @@
+{
+  "id": 840100043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.2424,29.714577,-91.2424,29.714577",
+    "geom:latitude":29.714577,
+    "geom:longitude":-91.2424,
+    "iso:country":"US",
+    "sg:address":"211 Hogan St",
+    "sg:city":"Berwick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 4697",
+    "sg:postcode":"70342",
+    "sg:province":"LA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e3YJqhl2Yhlt2I1wAOIVB_29.714577_-91.242400@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521210,
+    "wof:geomhash":"0d76cabaafca41cc618bc1e2ffe7a097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840100043
+        }
+    ],
+    "wof:id":840100043,
+    "wof:lastmodified":1463521210,
+    "wof:name":"Gray Trucking Inc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.2424,
+    29.714577,
+    -91.2424,
+    29.714577
+],
+  "geometry": {"coordinates":[-91.2424,29.714577],"type":"Point"}
+}

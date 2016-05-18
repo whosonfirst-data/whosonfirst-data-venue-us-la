@@ -1,0 +1,71 @@
+{
+  "id": 840113015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.06755,30.365826,-91.06755,30.365826",
+    "geom:latitude":30.365826,
+    "geom:longitude":-91.06755,
+    "iso:country":"US",
+    "sg:address":"13520 Perkins Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 767 5588",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03pdadPABzKDw1to0d4yKv_30.365826_-91.067550@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521487,
+    "wof:geomhash":"20064f1fc8fb903bb182a067cf9c0000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840113015
+        }
+    ],
+    "wof:id":840113015,
+    "wof:lastmodified":1463521487,
+    "wof:name":"Jaguar Cleaners",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.06755,
+    30.365826,
+    -91.06755,
+    30.365826
+],
+  "geometry": {"coordinates":[-91.06755,30.365826],"type":"Point"}
+}

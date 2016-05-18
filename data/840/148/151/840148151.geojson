@@ -1,0 +1,75 @@
+{
+  "id": 840148151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.180667,30.010696,-90.180667,30.010696",
+    "geom:latitude":30.010696,
+    "geom:longitude":-90.180667,
+    "iso:country":"US",
+    "sg:address":"3941 Houma Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 456 2407",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B8qQhwMDcVlUVsJD3AkTs_30.010696_-90.180667@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522207,
+    "wof:geomhash":"937613ac974c9a2924ee2ada57c4b1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840148151
+        }
+    ],
+    "wof:id":840148151,
+    "wof:lastmodified":1463522207,
+    "wof:name":"Allergy & Asthma Ctr",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.180667,
+    30.010696,
+    -90.180667,
+    30.010696
+],
+  "geometry": {"coordinates":[-90.180667,30.010696],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840122067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.00965,30.368792,-91.00965,30.368792",
+    "geom:latitude":30.368792,
+    "geom:longitude":-91.00965,
+    "iso:country":"US",
+    "sg:address":"16302 Jefferson Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 756 8488",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YS32JBiZVYXdKgSUzHQcG_30.368792_-91.009650@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521685,
+    "wof:geomhash":"57be4a1a29c736e942a788265721ff94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840122067
+        }
+    ],
+    "wof:id":840122067,
+    "wof:lastmodified":1463521685,
+    "wof:name":"L & S Automotive",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.00965,
+    30.368792,
+    -91.00965,
+    30.368792
+],
+  "geometry": {"coordinates":[-91.00964999999999,30.368792],"type":"Point"}
+}

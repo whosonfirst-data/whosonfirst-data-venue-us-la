@@ -1,0 +1,75 @@
+{
+  "id": 840065631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.963465,30.048581,-89.963465,30.048581",
+    "geom:latitude":30.048581,
+    "geom:longitude":-89.963465,
+    "iso:country":"US",
+    "sg:address":"11711 Barrington Dr W",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 242 1716",
+    "sg:postcode":"70128",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64p5WdyhpEaFLrTnnSxixj_30.048581_-89.963465@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520387,
+    "wof:geomhash":"982b358329de50b82b27a2c9755cc833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840065631
+        }
+    ],
+    "wof:id":840065631,
+    "wof:lastmodified":1463520387,
+    "wof:name":"Mc Clain's Electric",
+    "wof:parent_id":85866173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.963465,
+    30.048581,
+    -89.963465,
+    30.048581
+],
+  "geometry": {"coordinates":[-89.963465,30.048581],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840436501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.087651,30.157565,-92.087651,30.157565",
+    "geom:latitude":30.157565,
+    "geom:longitude":-92.087651,
+    "iso:country":"US",
+    "sg:address":"6404 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 1849",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C05kYksyny148X6JVgZNI_30.157565_-92.087651@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532751,
+    "wof:geomhash":"c6082b8e8a3dc00874135e08079c6b9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840436501
+        }
+    ],
+    "wof:id":840436501,
+    "wof:lastmodified":1463532751,
+    "wof:name":"Medical Measurements",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.087651,
+    30.157565,
+    -92.087651,
+    30.157565
+],
+  "geometry": {"coordinates":[-92.08765099999999,30.157565],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840011371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.977801,30.045022,-89.977801,30.045022",
+    "geom:latitude":30.045022,
+    "geom:longitude":-89.977801,
+    "iso:country":"US",
+    "sg:address":"10300 Heritage Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 246 7276",
+    "sg:postcode":"70127",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JneVVOvCGbZObcI86iRN4_30.045022_-89.977801@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519237,
+    "wof:geomhash":"bd62c84e8968c114e7ae49add5788b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840011371
+        }
+    ],
+    "wof:id":840011371,
+    "wof:lastmodified":1463519237,
+    "wof:name":"Hot Wire",
+    "wof:parent_id":85866167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.977801,
+    30.045022,
+    -89.977801,
+    30.045022
+],
+  "geometry": {"coordinates":[-89.977801,30.045022],"type":"Point"}
+}

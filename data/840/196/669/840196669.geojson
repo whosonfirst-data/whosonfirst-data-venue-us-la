@@ -1,0 +1,71 @@
+{
+  "id": 840196669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.089008,30.373859,-91.089008,30.373859",
+    "geom:latitude":30.373859,
+    "geom:longitude":-91.089008,
+    "iso:country":"US",
+    "sg:address":"11017 Perkins Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 757 1990",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nSeZVIdPv1TlWtv7DAuWf_30.373859_-91.089008@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523255,
+    "wof:geomhash":"c711b577dc3a85b5342db77b325995ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840196669
+        }
+    ],
+    "wof:id":840196669,
+    "wof:lastmodified":1463523255,
+    "wof:name":"River City Transport",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.089008,
+    30.373859,
+    -91.089008,
+    30.373859
+],
+  "geometry": {"coordinates":[-91.08900800000001,30.373859],"type":"Point"}
+}

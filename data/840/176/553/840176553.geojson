@@ -1,0 +1,73 @@
+{
+  "id": 840176553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08006,29.973695,-90.08006,29.973695",
+    "geom:latitude":29.973695,
+    "geom:longitude":-90.08006,
+    "iso:country":"US",
+    "sg:address":"2606 Ursulines Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 822 2266",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f9Y8wXeSGnFlITnh7tVin_29.973695_-90.080060@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522839,
+    "wof:geomhash":"b57af8db3b6beedc0883d2653990d128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840176553
+        }
+    ],
+    "wof:id":840176553,
+    "wof:lastmodified":1463522839,
+    "wof:name":"Ursulines Dental Ctr",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.08006,
+    29.973695,
+    -90.08006,
+    29.973695
+],
+  "geometry": {"coordinates":[-90.08006,29.973695],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 840243615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.018045,30.395043,-91.018045,30.395043",
+    "geom:latitude":30.395043,
+    "geom:longitude":-91.018045,
+    "iso:country":"US",
+    "sg:address":"6222 Jones Creek Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 756 1140",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:website":"www.ebr.lib.la.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lDipTEVlGBUsdpaOWgBzk_30.395043_-91.018045@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524440,
+    "wof:geomhash":"0fb2956292f5ee5cfe303bbd4ff40f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840243615
+        }
+    ],
+    "wof:id":840243615,
+    "wof:lastmodified":1463524440,
+    "wof:name":"Jones Creek Regional Library",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.018045,
+    30.395043,
+    -91.018045,
+    30.395043
+],
+  "geometry": {"coordinates":[-91.018045,30.395043],"type":"Point"}
+}

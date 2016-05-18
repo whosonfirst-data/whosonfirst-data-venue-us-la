@@ -1,0 +1,71 @@
+{
+  "id": 840351597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.50525,29.79012,-91.50525,29.79012",
+    "geom:latitude":29.79012,
+    "geom:longitude":-91.50525,
+    "iso:country":"US",
+    "sg:address":"700 Willow St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4343",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40MdmEpKWRohk8H2gSUcE1_29.790120_-91.505250@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528987,
+    "wof:geomhash":"57673603db7041525c808f385e42eeb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840351597
+        }
+    ],
+    "wof:id":840351597,
+    "wof:lastmodified":1463528987,
+    "wof:name":"Bill's Dollar Store",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.50525,
+    29.79012,
+    -91.50525,
+    29.79012
+],
+  "geometry": {"coordinates":[-91.50525,29.79012],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840101683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.088424,30.23354,-92.088424,30.23354",
+    "geom:latitude":30.23354,
+    "geom:longitude":-92.088424,
+    "iso:country":"US",
+    "sg:address":"5545 Cameron St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 5002",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "battery",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j4E59fQN7xKYltyJO7kmv_30.233540_-92.088424@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521255,
+    "wof:geomhash":"5288df9b77f91637049c452a77e46a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840101683
+        }
+    ],
+    "wof:id":840101683,
+    "wof:lastmodified":1463521255,
+    "wof:name":"Battery Place",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -92.088424,
+    30.23354,
+    -92.088424,
+    30.23354
+],
+  "geometry": {"coordinates":[-92.088424,30.23354],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840400611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.191328,30.249493,-93.191328,30.249493",
+    "geom:latitude":30.249493,
+    "geom:longitude":-93.191328,
+    "iso:country":"US",
+    "sg:address":"2018 Moeling St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 6066",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41zaAIp9AhADg2zyuoRHDi_30.249493_-93.191328@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531235,
+    "wof:geomhash":"e11701fc489884c0bd932bb9caef11f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840400611
+        }
+    ],
+    "wof:id":840400611,
+    "wof:lastmodified":1463531235,
+    "wof:name":"Ultimate One Stop Car Wash",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.191328,
+    30.249493,
+    -93.191328,
+    30.249493
+],
+  "geometry": {"coordinates":[-93.191328,30.249493],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840351021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.639705,32.444583,-93.639705,32.444583",
+    "geom:latitude":32.444583,
+    "geom:longitude":-93.639705,
+    "iso:country":"US",
+    "sg:address":"5760 Bayou Dr",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 549 2769",
+    "sg:postcode":"71112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947997,
+        102084883,
+        85813255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oyRGo5mlSzR8jXLmoL9zR_32.444583_-93.639705@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528959,
+    "wof:geomhash":"7b374c0eb553b764abdd54cff2eb940e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85813255,
+            "region_id":85688735,
+            "venue_id":840351021
+        }
+    ],
+    "wof:id":840351021,
+    "wof:lastmodified":1463528959,
+    "wof:name":"Suncoast Protech Service Inc",
+    "wof:parent_id":85813255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -93.639705,
+    32.444583,
+    -93.639705,
+    32.444583
+],
+  "geometry": {"coordinates":[-93.63970500000001,32.444583],"type":"Point"}
+}

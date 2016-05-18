@@ -1,0 +1,77 @@
+{
+  "id": 840221709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.818647,30.067152,-89.818647,30.067152",
+    "geom:latitude":30.067152,
+    "geom:longitude":-89.818647,
+    "iso:country":"US",
+    "sg:address":"20237 San Rocco St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 254 3935",
+    "sg:postcode":"70129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30rOYcLB0TgXtBU9yy2vBV_30.067152_-89.818647@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523869,
+    "wof:geomhash":"dd74b4c6b35f556824346fa9dc6b8fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869397,
+            "region_id":85688735,
+            "venue_id":840221709
+        }
+    ],
+    "wof:id":840221709,
+    "wof:lastmodified":1463523869,
+    "wof:name":"Creightons Trucking Company",
+    "wof:parent_id":85869397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.818647,
+    30.067152,
+    -89.818647,
+    30.067152
+],
+  "geometry": {"coordinates":[-89.818647,30.067152],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840453385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.113113,29.945144,-90.113113,29.945144",
+    "geom:latitude":29.945144,
+    "geom:longitude":-90.113113,
+    "iso:country":"US",
+    "sg:address":"6221 S Claiborne Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/96892-wing-zone/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 861 9663",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W5BIiT8GJQIbeNyYJ28Is_29.945144_-90.113113@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533439,
+    "wof:geomhash":"ce729ba2bdae8f15c955335c28655d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866177,
+            "region_id":85688735,
+            "venue_id":840453385
+        }
+    ],
+    "wof:id":840453385,
+    "wof:lastmodified":1463533439,
+    "wof:name":"Wing Zone",
+    "wof:parent_id":85866177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -90.113113,
+    29.945144,
+    -90.113113,
+    29.945144
+],
+  "geometry": {"coordinates":[-90.113113,29.945144],"type":"Point"}
+}

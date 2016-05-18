@@ -1,0 +1,71 @@
+{
+  "id": 840367919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.219471,30.300933,-93.219471,30.300933",
+    "geom:latitude":30.300933,
+    "geom:longitude":-93.219471,
+    "iso:country":"US",
+    "sg:address":"115 Park Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 3176",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XdzvnM6tkL0J0A7JfVPXB_30.300933_-93.219471@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529774,
+    "wof:geomhash":"83a9b5d85754a2c9879adf5cdc3efcde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840367919
+        }
+    ],
+    "wof:id":840367919,
+    "wof:lastmodified":1463529774,
+    "wof:name":"Moss Bluff Animal Hospital",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.219471,
+    30.300933,
+    -93.219471,
+    30.300933
+],
+  "geometry": {"coordinates":[-93.219471,30.300933],"type":"Point"}
+}

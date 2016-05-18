@@ -1,0 +1,71 @@
+{
+  "id": 840089201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.591179,29.879038,-91.591179,29.879038",
+    "geom:latitude":29.879038,
+    "geom:longitude":-91.591179,
+    "iso:country":"US",
+    "sg:address":"19135 State Rte 182",
+    "sg:city":"Jeanerette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 276 5701",
+    "sg:postcode":"70544",
+    "sg:province":"LA",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MheIyChIF2xAOka0Lv4Nc_29.879038_-91.591179@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521007,
+    "wof:geomhash":"7deb2033d33500357f4b61ba4631a029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840089201
+        }
+    ],
+    "wof:id":840089201,
+    "wof:lastmodified":1463521007,
+    "wof:name":"Johnny's Seafood Market",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -91.591179,
+    29.879038,
+    -91.591179,
+    29.879038
+],
+  "geometry": {"coordinates":[-91.591179,29.879038],"type":"Point"}
+}

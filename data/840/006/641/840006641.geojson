@@ -1,0 +1,75 @@
+{
+  "id": 840006641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.075371,29.944074,-90.075371,29.944074",
+    "geom:latitude":29.944074,
+    "geom:longitude":-90.075371,
+    "iso:country":"US",
+    "sg:address":"1019 Baronne St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 593 9068",
+    "sg:postcode":"70113",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OX3b8gkVPMMOPOA4nU9wR_29.944074_-90.075371@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519131,
+    "wof:geomhash":"9c024123cbdf791bd3c40a39e835b356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866107,
+            "region_id":85688735,
+            "venue_id":840006641
+        }
+    ],
+    "wof:id":840006641,
+    "wof:lastmodified":1463519131,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85866107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.075371,
+    29.944074,
+    -90.075371,
+    29.944074
+],
+  "geometry": {"coordinates":[-90.075371,29.944074],"type":"Point"}
+}

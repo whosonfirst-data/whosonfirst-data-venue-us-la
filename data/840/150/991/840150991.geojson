@@ -1,0 +1,83 @@
+{
+  "id": 840150991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.813419,30.290396,-89.813419,30.290396",
+    "geom:latitude":30.290396,
+    "geom:longitude":-89.813419,
+    "iso:country":"US",
+    "sg:address":"411 Drury Ln",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 641 3194",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85819983,
+        102082453,
+        102191575,
+        85948031,
+        85849001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hLohB8nIUzxpPpHEf4YZr_30.290396_-89.813419@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522263,
+    "wof:geomhash":"5d9c3f73331780df0f5ecc222354cc56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85819983,
+            "region_id":85688735,
+            "venue_id":840150991
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85849001,
+            "region_id":85688735,
+            "venue_id":840150991
+        }
+    ],
+    "wof:id":840150991,
+    "wof:lastmodified":1463522263,
+    "wof:name":"Plumbers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.813419,
+    30.290396,
+    -89.813419,
+    30.290396
+],
+  "geometry": {"coordinates":[-89.813419,30.290396],"type":"Point"}
+}

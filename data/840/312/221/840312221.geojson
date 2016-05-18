@@ -1,0 +1,68 @@
+{
+  "id": 840312221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.068529,29.955472,-90.068529,29.955472",
+    "geom:latitude":29.955472,
+    "geom:longitude":-90.068529,
+    "iso:country":"US",
+    "sg:address":"209 Bourbon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 2021",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dljAVA7JaRXppd5fteUa8_29.955472_-90.068529@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527100,
+    "wof:geomhash":"5dcc0638f3b507319f0a703f71ad50cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840312221
+        }
+    ],
+    "wof:id":840312221,
+    "wof:lastmodified":1463527100,
+    "wof:name":"Galatoire's Restaurant Inc",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.068529,
+    29.955472,
+    -90.068529,
+    29.955472
+],
+  "geometry": {"coordinates":[-90.068529,29.955472],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840201779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.23052,30.215072,-93.23052,30.215072",
+    "geom:latitude":30.215072,
+    "geom:longitude":-93.23052,
+    "iso:country":"US",
+    "sg:address":"631 S Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 2020",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eBiCJv8SxIi5glAOtqY20_30.215072_-93.230520@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523393,
+    "wof:geomhash":"5a2ab7725c22264fa416e1dfc1501583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840201779
+        }
+    ],
+    "wof:id":840201779,
+    "wof:lastmodified":1463523393,
+    "wof:name":"Carl W Nabours MD",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.23052,
+    30.215072,
+    -93.23052,
+    30.215072
+],
+  "geometry": {"coordinates":[-93.23052,30.215072],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840308009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.098302,29.931829,-90.098302,29.931829",
+    "geom:latitude":29.931829,
+    "geom:longitude":-90.098302,
+    "iso:country":"US",
+    "sg:address":"4025 S Saratoga St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 896 4747",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xEXlDzcp5seDcjKgbeoYG_29.931829_-90.098302@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526897,
+    "wof:geomhash":"86788b99d86ae2a9cecf3966ff4dade8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866119,
+            "region_id":85688735,
+            "venue_id":840308009
+        }
+    ],
+    "wof:id":840308009,
+    "wof:lastmodified":1463526897,
+    "wof:name":"New Orleans Nord Tennis Ctr",
+    "wof:parent_id":85866119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -90.098302,
+    29.931829,
+    -90.098302,
+    29.931829
+],
+  "geometry": {"coordinates":[-90.098302,29.931829],"type":"Point"}
+}

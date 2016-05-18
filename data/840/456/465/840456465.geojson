@@ -1,0 +1,74 @@
+{
+  "id": 840456465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.085025,32.4905,-92.085025,32.4905",
+    "geom:latitude":32.4905,
+    "geom:longitude":-92.085025,
+    "iso:country":"US",
+    "sg:address":"1613 Arizona Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/monroe/13222-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 8372",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L3Xv1azDp2BeELyP65bt4_32.490500_-92.085025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533554,
+    "wof:geomhash":"6e3709620fc6d2ca9a29133c0f1f59e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840456465
+        }
+    ],
+    "wof:id":840456465,
+    "wof:lastmodified":1463533554,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -92.085025,
+    32.4905,
+    -92.085025,
+    32.4905
+],
+  "geometry": {"coordinates":[-92.085025,32.4905],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840227001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.217388,30.227843,-93.217388,30.227843",
+    "geom:latitude":30.227843,
+    "geom:longitude":-93.217388,
+    "iso:country":"US",
+    "sg:address":"800 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 9700",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "accident"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LVYlBilVuMpm9j09BYMrs_30.227843_-93.217388@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524015,
+    "wof:geomhash":"b71c1dc8da6dcceebb3aa3a77dfc7a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840227001
+        }
+    ],
+    "wof:id":840227001,
+    "wof:lastmodified":1463524015,
+    "wof:name":"Med Pay Express",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accident"
+    ]
+},
+  "bbox": [
+    -93.217388,
+    30.227843,
+    -93.217388,
+    30.227843
+],
+  "geometry": {"coordinates":[-93.217388,30.227843],"type":"Point"}
+}

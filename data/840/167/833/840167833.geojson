@@ -1,0 +1,71 @@
+{
+  "id": 840167833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.709191,32.037039,-93.709191,32.037039",
+    "geom:latitude":32.037039,
+    "geom:longitude":-93.709191,
+    "iso:country":"US",
+    "sg:address":"126 Jefferson St",
+    "sg:city":"Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 872 1557",
+    "sg:postcode":"71052",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hSlVD1k3v12d247ecHp0V_32.037039_-93.709191@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522606,
+    "wof:geomhash":"9a8ec7c4e9afc3188fe746e114b3515d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":840167833
+        }
+    ],
+    "wof:id":840167833,
+    "wof:lastmodified":1463522606,
+    "wof:name":"Andrew G Murphy DDS",
+    "wof:parent_id":85813793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.709191,
+    32.037039,
+    -93.709191,
+    32.037039
+],
+  "geometry": {"coordinates":[-93.709191,32.037039],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840015557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.497916,29.800541,-91.497916,29.800541",
+    "geom:latitude":29.800541,
+    "geom:longitude":-91.497916,
+    "iso:country":"US",
+    "sg:address":"108 Johnson Ln",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 4429",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cyuLd50nP0RCA3kDA0PpZ_29.800541_-91.497916@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519323,
+    "wof:geomhash":"824277a20dcfe66b505f97b08dd48da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840015557
+        }
+    ],
+    "wof:id":840015557,
+    "wof:lastmodified":1463519323,
+    "wof:name":"Al's Locksmith Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -91.497916,
+    29.800541,
+    -91.497916,
+    29.800541
+],
+  "geometry": {"coordinates":[-91.497916,29.800541],"type":"Point"}
+}

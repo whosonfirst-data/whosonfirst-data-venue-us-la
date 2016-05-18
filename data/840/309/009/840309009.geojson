@@ -1,0 +1,68 @@
+{
+  "id": 840309009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.089248,29.963555,-90.089248,29.963555",
+    "geom:latitude":29.963555,
+    "geom:longitude":-90.089248,
+    "iso:country":"US",
+    "sg:address":"301 S Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 826 1200",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZIJGfineowVjZv3ZA6MCt_29.963555_-90.089248@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526948,
+    "wof:geomhash":"484ab65a903e3c628075e2d2924be63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840309009
+        }
+    ],
+    "wof:id":840309009,
+    "wof:lastmodified":1463526948,
+    "wof:name":"Orleans Parish 911 Adm",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.089248,
+    29.963555,
+    -90.089248,
+    29.963555
+],
+  "geometry": {"coordinates":[-90.089248,29.963555],"type":"Point"}
+}

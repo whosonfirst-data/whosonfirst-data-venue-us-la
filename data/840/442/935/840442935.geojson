@@ -1,0 +1,73 @@
+{
+  "id": 840442935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.451773,31.297851,-92.451773,31.297851",
+    "geom:latitude":31.297851,
+    "geom:longitude":-92.451773,
+    "iso:country":"US",
+    "sg:address":"2066 Lee St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 4767",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tva914OImEUATZ3fPwE4Z_31.297851_-92.451773@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533014,
+    "wof:geomhash":"ba7d80d99faf1a89e8bdd68683182d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840442935
+        }
+    ],
+    "wof:id":840442935,
+    "wof:lastmodified":1463533014,
+    "wof:name":"Darrell's Auto Svc",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.451773,
+    31.297851,
+    -92.451773,
+    31.297851
+],
+  "geometry": {"coordinates":[-92.451773,31.297851],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840412345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.150863,30.287164,-93.150863,30.287164",
+    "geom:latitude":30.287164,
+    "geom:longitude":-93.150863,
+    "iso:country":"US",
+    "sg:address":"5919 Goos Ferry Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 494 6222",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kFHJDj7ltkcMUDZRvN2JW_30.287164_-93.150863@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531712,
+    "wof:geomhash":"a0a523fa23b47e99e14ca2a3e63b0950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840412345
+        }
+    ],
+    "wof:id":840412345,
+    "wof:lastmodified":1463531712,
+    "wof:name":"J RS Mobile Home Movers",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.150863,
+    30.287164,
+    -93.150863,
+    30.287164
+],
+  "geometry": {"coordinates":[-93.150863,30.287164],"type":"Point"}
+}

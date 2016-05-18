@@ -1,0 +1,73 @@
+{
+  "id": 840282817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.025652,30.029348,-90.025652,30.029348",
+    "geom:latitude":30.029348,
+    "geom:longitude":-90.025652,
+    "iso:country":"US",
+    "sg:address":"7601 Downman Rd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 241 0355",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85847541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23Nl21c5jPxglOQ2mxYEVr_30.029348_-90.025652@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525748,
+    "wof:geomhash":"30d60ce5d3c1e5ccdcdee81ff9b1354f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85847541,
+            "region_id":85688735,
+            "venue_id":840282817
+        }
+    ],
+    "wof:id":840282817,
+    "wof:lastmodified":1463525748,
+    "wof:name":"New Orleans East Dental",
+    "wof:parent_id":85847541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.025652,
+    30.029348,
+    -90.025652,
+    30.029348
+],
+  "geometry": {"coordinates":[-90.02565199999999,30.029348],"type":"Point"}
+}

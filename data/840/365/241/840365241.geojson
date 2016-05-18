@@ -1,0 +1,71 @@
+{
+  "id": 840365241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.82815,30.003812,-91.82815,30.003812",
+    "geom:latitude":30.003812,
+    "geom:longitude":-91.82815,
+    "iso:country":"US",
+    "sg:address":"806 Jefferson St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 4945",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5di2AkdvQl9LtLAY1ZSvl7_30.003812_-91.828150@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529649,
+    "wof:geomhash":"b1e6b5551fe564a11e78281c7b7f53d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840365241
+        }
+    ],
+    "wof:id":840365241,
+    "wof:lastmodified":1463529649,
+    "wof:name":"Iberia Comprehensive Comm Hlth",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.82815,
+    30.003812,
+    -91.82815,
+    30.003812
+],
+  "geometry": {"coordinates":[-91.82814999999999,30.003812],"type":"Point"}
+}

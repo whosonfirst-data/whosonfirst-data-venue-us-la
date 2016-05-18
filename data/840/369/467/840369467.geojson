@@ -1,0 +1,71 @@
+{
+  "id": 840369467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.426192,30.447636,-93.426192,30.447636",
+    "geom:latitude":30.447636,
+    "geom:longitude":-93.426192,
+    "iso:country":"US",
+    "sg:address":"202 Acme Dr",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 5146",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IHxOb7xz76CrQFmbKrUVd_30.447636_-93.426192@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529866,
+    "wof:geomhash":"a25c5407ec21865f3f33fac858e24bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840369467
+        }
+    ],
+    "wof:id":840369467,
+    "wof:lastmodified":1463529866,
+    "wof:name":"Evergreen Baptist Church",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.426192,
+    30.447636,
+    -93.426192,
+    30.447636
+],
+  "geometry": {"coordinates":[-93.426192,30.447636],"type":"Point"}
+}

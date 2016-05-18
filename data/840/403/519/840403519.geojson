@@ -1,0 +1,71 @@
+{
+  "id": 840403519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.814752,32.405849,-93.814752,32.405849",
+    "geom:latitude":32.405849,
+    "geom:longitude":-93.814752,
+    "iso:country":"US",
+    "sg:address":"9096 Walker Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 687 1525",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G4GTg4EINZzMiH0fFBHLt_32.405849_-93.814752@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531362,
+    "wof:geomhash":"eece9ea066ed7dc333bc973f2946d8e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840403519
+        }
+    ],
+    "wof:id":840403519,
+    "wof:lastmodified":1463531362,
+    "wof:name":"Ryan G Walker DDS",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.814752,
+    32.405849,
+    -93.814752,
+    32.405849
+],
+  "geometry": {"coordinates":[-93.814752,32.405849],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840000235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.751764,30.310315,-89.751764,30.310315",
+    "geom:latitude":30.310315,
+    "geom:longitude":-89.751764,
+    "iso:country":"US",
+    "sg:address":"659 Brownswitch Rd",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 641 5558",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85836599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09s8klL4spne5PWbQ0dqME_30.310315_-89.751764@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519000,
+    "wof:geomhash":"2d3bc2ad3510dbdd85809038bb57b530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85836599,
+            "region_id":85688735,
+            "venue_id":840000235
+        }
+    ],
+    "wof:id":840000235,
+    "wof:lastmodified":1463519000,
+    "wof:name":"Neurology Clinic",
+    "wof:parent_id":85836599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.751764,
+    30.310315,
+    -89.751764,
+    30.310315
+],
+  "geometry": {"coordinates":[-89.75176399999999,30.310315],"type":"Point"}
+}

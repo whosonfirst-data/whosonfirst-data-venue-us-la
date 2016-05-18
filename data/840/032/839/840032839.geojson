@@ -1,0 +1,71 @@
+{
+  "id": 840032839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.200375,30.228511,-93.200375,30.228511",
+    "geom:latitude":30.228511,
+    "geom:longitude":-93.200375,
+    "iso:country":"US",
+    "sg:address":"752 S Lyons St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 2947",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NBSJ7B4cbDnHLOU5dJxRa_30.228511_-93.200375@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519691,
+    "wof:geomhash":"e85a1a1797bfd119669d0bb816ec00c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840032839
+        }
+    ],
+    "wof:id":840032839,
+    "wof:lastmodified":1463519691,
+    "wof:name":"Sweets Inspection Station",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.200375,
+    30.228511,
+    -93.200375,
+    30.228511
+],
+  "geometry": {"coordinates":[-93.20037499999999,30.228511],"type":"Point"}
+}

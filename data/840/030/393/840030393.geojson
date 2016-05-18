@@ -1,0 +1,69 @@
+{
+  "id": 840030393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.08923,32.462369,-92.08923,32.462369",
+    "geom:latitude":32.462369,
+    "geom:longitude":-92.08923,
+    "iso:country":"US",
+    "sg:address":"3600 Burg Jones Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 387 3024",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85822879,
+        102081027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hJ7II8SBX2SGGKixFb77x_32.462369_-92.089230@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519629,
+    "wof:geomhash":"f046c0f2347ac0e0f614d94060bb4038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "neighbourhood_id":85822879,
+            "region_id":85688735,
+            "venue_id":840030393
+        }
+    ],
+    "wof:id":840030393,
+    "wof:lastmodified":1463519629,
+    "wof:name":"Jones Manufacturing & Uphlstry",
+    "wof:parent_id":85822879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -92.08923,
+    32.462369,
+    -92.08923,
+    32.462369
+],
+  "geometry": {"coordinates":[-92.08923,32.462369],"type":"Point"}
+}

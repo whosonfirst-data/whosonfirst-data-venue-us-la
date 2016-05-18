@@ -1,0 +1,71 @@
+{
+  "id": 840336877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.032452,30.344559,-91.032452,30.344559",
+    "geom:latitude":30.344559,
+    "geom:longitude":-91.032452,
+    "iso:country":"US",
+    "sg:address":"17801 Highland Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 754 8500",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XUSBL0weihe902UHPx7iS_30.344559_-91.032452@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528254,
+    "wof:geomhash":"5dd1729ebf4f49a6746c6ff04a4be6cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840336877
+        }
+    ],
+    "wof:id":840336877,
+    "wof:lastmodified":1463528254,
+    "wof:name":"State Police",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -91.032452,
+    30.344559,
+    -91.032452,
+    30.344559
+],
+  "geometry": {"coordinates":[-91.03245200000001,30.344559],"type":"Point"}
+}

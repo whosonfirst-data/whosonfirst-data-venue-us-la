@@ -1,0 +1,71 @@
+{
+  "id": 840113205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.976366,29.944492,-89.976366,29.944492",
+    "geom:latitude":29.944492,
+    "geom:longitude":-89.976366,
+    "iso:country":"US",
+    "sg:address":"14 Coffee Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 9273",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D6HYsvlDaWJXWfVFxxZc0_29.944492_-89.976366@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521491,
+    "wof:geomhash":"479d79c361d2d3a1227fd4cc40862beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840113205
+        }
+    ],
+    "wof:id":840113205,
+    "wof:lastmodified":1463521491,
+    "wof:name":"Bob Dalon Roofing",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.976366,
+    29.944492,
+    -89.976366,
+    29.944492
+],
+  "geometry": {"coordinates":[-89.976366,29.944492],"type":"Point"}
+}

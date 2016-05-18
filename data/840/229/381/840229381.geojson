@@ -1,0 +1,71 @@
+{
+  "id": 840229381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.138297,30.227601,-93.138297,30.227601",
+    "geom:latitude":30.227601,
+    "geom:longitude":-93.138297,
+    "iso:country":"US",
+    "sg:address":"5400 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 3600",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X7Nc8Cfx8Pliw00aTqlq7_30.227601_-93.138297@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524100,
+    "wof:geomhash":"9a994519678445ba8896932e91d89bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840229381
+        }
+    ],
+    "wof:id":840229381,
+    "wof:lastmodified":1463524100,
+    "wof:name":"Calcasieu Sheriff's Dept",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -93.138297,
+    30.227601,
+    -93.138297,
+    30.227601
+],
+  "geometry": {"coordinates":[-93.13829699999999,30.227601],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840385333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.477076,31.285779,-92.477076,31.285779",
+    "geom:latitude":31.285779,
+    "geom:longitude":-92.477076,
+    "iso:country":"US",
+    "sg:address":"3515 Parliament Ct",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 9800",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mQRb1PHzTv12P4Tyh0Kuu_31.285779_-92.477076@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530606,
+    "wof:geomhash":"5491751f2aa1c4074d3b9a52fef987ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840385333
+        }
+    ],
+    "wof:id":840385333,
+    "wof:lastmodified":1463530606,
+    "wof:name":"Hal E Bailey DDS",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.477076,
+    31.285779,
+    -92.477076,
+    31.285779
+],
+  "geometry": {"coordinates":[-92.477076,31.285779],"type":"Point"}
+}

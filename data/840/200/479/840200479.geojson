@@ -1,0 +1,73 @@
+{
+  "id": 840200479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.380705,30.271045,-93.380705,30.271045",
+    "geom:latitude":30.271045,
+    "geom:longitude":-93.380705,
+    "iso:country":"US",
+    "sg:address":"745 W Jim Pickens Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 3446",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hcEx78sWUYp0hIj7uISZ4_30.271045_-93.380705@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523341,
+    "wof:geomhash":"45528f0578e297a0d060ce8b16a68a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840200479
+        }
+    ],
+    "wof:id":840200479,
+    "wof:lastmodified":1463523341,
+    "wof:name":"Houston River Waterworks Dist",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -93.380705,
+    30.271045,
+    -93.380705,
+    30.271045
+],
+  "geometry": {"coordinates":[-93.38070500000001,30.271045],"type":"Point"}
+}

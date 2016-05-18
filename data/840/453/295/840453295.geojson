@@ -1,0 +1,76 @@
+{
+  "id": 840453295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.182144,29.957273,-90.182144,29.957273",
+    "geom:latitude":29.957273,
+    "geom:longitude":-90.182144,
+    "iso:country":"US",
+    "sg:address":"845 S Clearview Pkwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bridge-city/210586-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 736 9016",
+    "sg:postcode":"70121",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42XD1bKkZW6ZtqneoZzAMs_29.957273_-90.182144@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533436,
+    "wof:geomhash":"749553f60e6f558043d24c79d7fdff5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840453295
+        }
+    ],
+    "wof:id":840453295,
+    "wof:lastmodified":1463533436,
+    "wof:name":"Arby's",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.182144,
+    29.957273,
+    -90.182144,
+    29.957273
+],
+  "geometry": {"coordinates":[-90.18214399999999,29.957273],"type":"Point"}
+}

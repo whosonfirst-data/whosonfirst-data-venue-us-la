@@ -1,0 +1,73 @@
+{
+  "id": 840007023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.270187,31.067651,-93.270187,31.067651",
+    "geom:latitude":31.067651,
+    "geom:longitude":-93.270187,
+    "iso:country":"US",
+    "sg:address":"291 Lewis Perkins Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 537 4696",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wkvBI3A9Se54QQNZbWhjd_31.067651_-93.270187@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519140,
+    "wof:geomhash":"38e6cd9d86ddcb194b898db8ecf39162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840007023
+        }
+    ],
+    "wof:id":840007023,
+    "wof:lastmodified":1463519140,
+    "wof:name":"Industrial Starter-Alternator",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -93.270187,
+    31.067651,
+    -93.270187,
+    31.067651
+],
+  "geometry": {"coordinates":[-93.27018700000001,31.067651],"type":"Point"}
+}

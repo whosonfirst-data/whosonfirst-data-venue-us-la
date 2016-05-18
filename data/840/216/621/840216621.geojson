@@ -1,0 +1,73 @@
+{
+  "id": 840216621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.176878,30.218829,-93.176878,30.218829",
+    "geom:latitude":30.218829,
+    "geom:longitude":-93.176878,
+    "iso:country":"US",
+    "sg:address":"1500 Summit St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 0463",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04QhxoBhur6m6pHrgTFiq7_30.218829_-93.176878@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523762,
+    "wof:geomhash":"9378be10b1f002679aafb8a97bba271a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840216621
+        }
+    ],
+    "wof:id":840216621,
+    "wof:lastmodified":1463523762,
+    "wof:name":"Steve's Automotive & Hvy Truck",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.176878,
+    30.218829,
+    -93.176878,
+    30.218829
+],
+  "geometry": {"coordinates":[-93.176878,30.218829],"type":"Point"}
+}

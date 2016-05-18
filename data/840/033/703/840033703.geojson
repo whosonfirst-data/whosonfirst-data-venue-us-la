@@ -1,0 +1,75 @@
+{
+  "id": 840033703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.196651,29.982245,-90.196651,29.982245",
+    "geom:latitude":29.982245,
+    "geom:longitude":-90.196651,
+    "iso:country":"US",
+    "sg:address":"704 Bell St",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 734 2256",
+    "sg:postcode":"70003",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gq4L67BVnrXlmZ3xzPoV0_29.982245_-90.196651@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519708,
+    "wof:geomhash":"69365d4183256e296403c8110dd13569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840033703
+        }
+    ],
+    "wof:id":840033703,
+    "wof:lastmodified":1463519708,
+    "wof:name":"Bienville Physician",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.196651,
+    29.982245,
+    -90.196651,
+    29.982245
+],
+  "geometry": {"coordinates":[-90.196651,29.982245],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840294137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.099712,29.955008,-90.099712,29.955008",
+    "geom:latitude":29.955008,
+    "geom:longitude":-90.099712,
+    "iso:country":"US",
+    "sg:address":"1228 S Dupre St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 821 9494",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85891209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Qqsc9ndP4cRarGESmgPP_29.955008_-90.099712@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526240,
+    "wof:geomhash":"ac9a4b476a782beb3df393d931a875ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891209,
+            "region_id":85688735,
+            "venue_id":840294137
+        }
+    ],
+    "wof:id":840294137,
+    "wof:lastmodified":1463526240,
+    "wof:name":"Fat Daddys Towing & Recovery",
+    "wof:parent_id":85891209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.099712,
+    29.955008,
+    -90.099712,
+    29.955008
+],
+  "geometry": {"coordinates":[-90.099712,29.955008],"type":"Point"}
+}

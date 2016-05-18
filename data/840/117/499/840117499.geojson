@@ -1,0 +1,73 @@
+{
+  "id": 840117499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.26429,29.703421,-91.26429,29.703421",
+    "geom:latitude":29.703421,
+    "geom:longitude":-91.26429,
+    "iso:country":"US",
+    "sg:address":"2604 State Rte 182",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 3791",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NPzQvLowr1A0pA7lWK2a5_29.703421_-91.264290@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521583,
+    "wof:geomhash":"cc8555b4cced88a1891507fff213b820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840117499
+        }
+    ],
+    "wof:id":840117499,
+    "wof:lastmodified":1463521583,
+    "wof:name":"Quality Glass & Lock Inc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -91.26429,
+    29.703421,
+    -91.26429,
+    29.703421
+],
+  "geometry": {"coordinates":[-91.26429,29.703421],"type":"Point"}
+}

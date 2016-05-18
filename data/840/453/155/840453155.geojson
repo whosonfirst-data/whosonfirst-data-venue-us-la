@@ -1,0 +1,78 @@
+{
+  "id": 840453155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.07471,29.951499,-90.07471,29.951499",
+    "geom:latitude":29.951499,
+    "geom:longitude":-90.07471,
+    "iso:country":"US",
+    "sg:address":"417 S Rampart St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/12504-italian-pie/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 7552",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H8N17wkXE1zOH9VGQHm9N_29.951499_-90.074710@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533431,
+    "wof:geomhash":"cf1d88ef3cce0fd37464a7e231a7d518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866107,
+            "region_id":85688735,
+            "venue_id":840453155
+        }
+    ],
+    "wof:id":840453155,
+    "wof:lastmodified":1463533431,
+    "wof:name":"Italian Pie",
+    "wof:parent_id":85866107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.07471,
+    29.951499,
+    -90.07471,
+    29.951499
+],
+  "geometry": {"coordinates":[-90.07471,29.951499],"type":"Point"}
+}

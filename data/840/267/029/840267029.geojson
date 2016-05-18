@@ -1,0 +1,73 @@
+{
+  "id": 840267029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.202684,29.70504,-91.202684,29.70504",
+    "geom:latitude":29.70504,
+    "geom:longitude":-91.202684,
+    "iso:country":"US",
+    "sg:address":"1118 8th St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 1562",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14ddurHJq6h4wDPPcIh9Xu_29.705040_-91.202684@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525029,
+    "wof:geomhash":"180ec5b7019df39e75b928315d81709c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840267029
+        }
+    ],
+    "wof:id":840267029,
+    "wof:lastmodified":1463525029,
+    "wof:name":"Women's Health & Wellness Ctr",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.202684,
+    29.70504,
+    -91.202684,
+    29.70504
+],
+  "geometry": {"coordinates":[-91.202684,29.70504],"type":"Point"}
+}

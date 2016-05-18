@@ -1,0 +1,71 @@
+{
+  "id": 840255299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.482232,31.299795,-92.482232,31.299795",
+    "geom:latitude":31.299795,
+    "geom:longitude":-92.482232,
+    "iso:country":"US",
+    "sg:address":"3620 Coliseum Blvd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 448 0219",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nzGhyDhqdSjoOvEgzdHiM_31.299795_-92.482232@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524723,
+    "wof:geomhash":"5999dd15acf9240e9ab588f772796026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840255299
+        }
+    ],
+    "wof:id":840255299,
+    "wof:lastmodified":1463524723,
+    "wof:name":"Turner Animal Clinic Inc",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -92.482232,
+    31.299795,
+    -92.482232,
+    31.299795
+],
+  "geometry": {"coordinates":[-92.482232,31.299795],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840430951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.209558,30.178507,-92.209558,30.178507",
+    "geom:latitude":30.178507,
+    "geom:longitude":-92.209558,
+    "iso:country":"US",
+    "sg:address":"2718 Riceland Rd",
+    "sg:city":"Rayne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 873 0493",
+    "sg:postcode":"70578",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CfV0lWigAaQh8B7Xcgqdu_30.178507_-92.209558@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532485,
+    "wof:geomhash":"446b0c1cd65f23bdcb0afe16bd982baa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840430951
+        }
+    ],
+    "wof:id":840430951,
+    "wof:lastmodified":1463532485,
+    "wof:name":"Mike's Electric",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.209558,
+    30.178507,
+    -92.209558,
+    30.178507
+],
+  "geometry": {"coordinates":[-92.209558,30.178507],"type":"Point"}
+}

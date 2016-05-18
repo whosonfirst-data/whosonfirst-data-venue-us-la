@@ -1,0 +1,73 @@
+{
+  "id": 840061713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218528,30.191669,-93.218528,30.191669",
+    "geom:latitude":30.191669,
+    "geom:longitude":-93.218528,
+    "iso:country":"US",
+    "sg:address":"3629 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 8916",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37QVMYkvIPAJ14LZcos0Rl_30.191669_-93.218528@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520312,
+    "wof:geomhash":"8899cdfe9e103cae2057b0872063357d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840061713
+        }
+    ],
+    "wof:id":840061713,
+    "wof:lastmodified":1463520312,
+    "wof:name":"Frank's Medical Mart Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.218528,
+    30.191669,
+    -93.218528,
+    30.191669
+],
+  "geometry": {"coordinates":[-93.21852800000001,30.191669],"type":"Point"}
+}

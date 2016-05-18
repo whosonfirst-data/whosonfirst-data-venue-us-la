@@ -1,0 +1,71 @@
+{
+  "id": 840353091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.891654,32.607097,-93.891654,32.607097",
+    "geom:latitude":32.607097,
+    "geom:longitude":-93.891654,
+    "iso:country":"US",
+    "sg:address":"6805 N Park Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 7365",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0coCRMXRX5E5WbbOdie3DL_32.607097_-93.891654@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529066,
+    "wof:geomhash":"3c2e1e2120450596590450e00c10b6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840353091
+        }
+    ],
+    "wof:id":840353091,
+    "wof:lastmodified":1463529066,
+    "wof:name":"Richard C Kamm M D",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -93.891654,
+    32.607097,
+    -93.891654,
+    32.607097
+],
+  "geometry": {"coordinates":[-93.891654,32.607097],"type":"Point"}
+}

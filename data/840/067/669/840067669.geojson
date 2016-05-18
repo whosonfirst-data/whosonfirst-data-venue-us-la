@@ -1,0 +1,76 @@
+{
+  "id": 840067669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.272248,30.164984,-93.272248,30.164984",
+    "geom:latitude":30.164984,
+    "geom:longitude":-93.272248,
+    "iso:country":"US",
+    "sg:address":"3158 Lafanette Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 1270",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h58fdykIqnjt3AjAGywlA_30.164984_-93.272248@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520433,
+    "wof:geomhash":"1d14f35e140a12e5894748e5a6e10666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840067669
+        }
+    ],
+    "wof:id":840067669,
+    "wof:lastmodified":1463520433,
+    "wof:name":"Beulah's Sitting Referral Svc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sitting"
+    ]
+},
+  "bbox": [
+    -93.272248,
+    30.164984,
+    -93.272248,
+    30.164984
+],
+  "geometry": {"coordinates":[-93.272248,30.164984],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840450073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.006897,30.242701,-92.006897,30.242701",
+    "geom:latitude":30.242701,
+    "geom:longitude":-92.006897,
+    "iso:country":"US",
+    "sg:address":"1305 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 5876",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YWx3WTFky5Ib34NCR8g6N_30.242364_-92.006682@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533304,
+    "wof:geomhash":"c419cbfe1b9c7370e1194adec6d892dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840450073
+        }
+    ],
+    "wof:id":840450073,
+    "wof:lastmodified":1463533304,
+    "wof:name":"Ed's Car Care",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.006897,
+    30.242701,
+    -92.006897,
+    30.242701
+],
+  "geometry": {"coordinates":[-92.006897,30.242701],"type":"Point"}
+}

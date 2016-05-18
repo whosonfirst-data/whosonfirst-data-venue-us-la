@@ -1,0 +1,68 @@
+{
+  "id": 840327423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.06695,29.968155,-90.06695,29.968155",
+    "geom:latitude":29.968155,
+    "geom:longitude":-90.06695,
+    "iso:country":"US",
+    "sg:address":"1400 Esplanade Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 4103",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cEcHFutDJLOlqJspQ7SUE_29.968155_-90.066950@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527837,
+    "wof:geomhash":"a54a3f5d32f301683e70a994047f9241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866069,
+            "region_id":85688735,
+            "venue_id":840327423
+        }
+    ],
+    "wof:id":840327423,
+    "wof:lastmodified":1463527837,
+    "wof:name":"Esplanade Pharmacy",
+    "wof:parent_id":85866069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.06695,
+    29.968155,
+    -90.06695,
+    29.968155
+],
+  "geometry": {"coordinates":[-90.06695000000001,29.968155],"type":"Point"}
+}

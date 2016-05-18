@@ -1,0 +1,73 @@
+{
+  "id": 840275473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.414617,30.481242,-90.414617,30.481242",
+    "geom:latitude":30.481242,
+    "geom:longitude":-90.414617,
+    "iso:country":"US",
+    "sg:address":"43089 S Airport Rd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 7500",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24z4vnIrCJdDFbKtAJKik6_30.481242_-90.414617@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525408,
+    "wof:geomhash":"82fbb7fc636461000c59bf2ab2d3b92d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840275473
+        }
+    ],
+    "wof:id":840275473,
+    "wof:lastmodified":1463525408,
+    "wof:name":"Rafael's Truck Wash",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -90.414617,
+    30.481242,
+    -90.414617,
+    30.481242
+],
+  "geometry": {"coordinates":[-90.41461700000001,30.481242],"type":"Point"}
+}

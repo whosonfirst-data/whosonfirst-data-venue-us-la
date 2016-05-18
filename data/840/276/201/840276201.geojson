@@ -1,0 +1,71 @@
+{
+  "id": 840276201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505132,29.800305,-91.505132,29.800305",
+    "geom:latitude":29.800305,
+    "geom:longitude":-91.505132,
+    "iso:country":"US",
+    "sg:address":"1115 Weber St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 2550",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QpMpa9c28esbUKgINIFsc_29.800305_-91.505132@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525453,
+    "wof:geomhash":"980ccc54e068a9cd84db92a9ea2e5197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840276201
+        }
+    ],
+    "wof:id":840276201,
+    "wof:lastmodified":1463525453,
+    "wof:name":"Teche Action Clinic",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.505132,
+    29.800305,
+    -91.505132,
+    29.800305
+],
+  "geometry": {"coordinates":[-91.505132,29.800305],"type":"Point"}
+}

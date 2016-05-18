@@ -1,0 +1,73 @@
+{
+  "id": 840388225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.253898,30.168771,-93.253898,30.168771",
+    "geom:latitude":30.168771,
+    "geom:longitude":-93.253898,
+    "iso:country":"US",
+    "sg:address":"2116 Country Club Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 7141",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JxHRInHfQ2XHzQwuHKbsH_30.168771_-93.253898@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530729,
+    "wof:geomhash":"5b82f5ac00a53d13e3c2294aea4ca322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840388225
+        }
+    ],
+    "wof:id":840388225,
+    "wof:lastmodified":1463530729,
+    "wof:name":"Foreman Dental Lab",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -93.253898,
+    30.168771,
+    -93.253898,
+    30.168771
+],
+  "geometry": {"coordinates":[-93.25389800000001,30.168771],"type":"Point"}
+}

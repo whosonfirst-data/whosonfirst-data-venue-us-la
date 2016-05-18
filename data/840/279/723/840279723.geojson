@@ -1,0 +1,73 @@
+{
+  "id": 840279723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08855,29.983201,-90.08855,29.983201",
+    "geom:latitude":29.983201,
+    "geom:longitude":-90.08855,
+    "iso:country":"US",
+    "sg:address":"3421 Esplanade Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 482 5065",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0id5ltCp1DVk2S8vd4i6F7_29.983201_-90.088550@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525604,
+    "wof:geomhash":"db2cc9a4a899e8ba80ea2a22cabb6894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866081,
+            "region_id":85688735,
+            "venue_id":840279723
+        }
+    ],
+    "wof:id":840279723,
+    "wof:lastmodified":1463525604,
+    "wof:name":"St Louis Cemeteries",
+    "wof:parent_id":85866081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -90.08855,
+    29.983201,
+    -90.08855,
+    29.983201
+],
+  "geometry": {"coordinates":[-90.08855,29.983201],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840377181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.183887,30.215462,-93.183887,30.215462",
+    "geom:latitude":30.215462,
+    "geom:longitude":-93.183887,
+    "iso:country":"US",
+    "sg:address":"2300 10th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 3575",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "army",
+        "reserve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z459G4DEE9ip28BBScAwL_30.215462_-93.183887@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530231,
+    "wof:geomhash":"07e85cc4891ca0b2c8705b411ac272b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840377181
+        }
+    ],
+    "wof:id":840377181,
+    "wof:lastmodified":1463530231,
+    "wof:name":"Army Reserve Armory",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "army",
+        "reserve"
+    ]
+},
+  "bbox": [
+    -93.183887,
+    30.215462,
+    -93.183887,
+    30.215462
+],
+  "geometry": {"coordinates":[-93.183887,30.215462],"type":"Point"}
+}

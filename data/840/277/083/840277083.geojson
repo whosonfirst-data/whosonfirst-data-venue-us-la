@@ -1,0 +1,73 @@
+{
+  "id": 840277083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218671,30.189425,-93.218671,30.189425",
+    "geom:latitude":30.189425,
+    "geom:longitude":-93.218671,
+    "iso:country":"US",
+    "sg:address":"3708 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 0315",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49FWruDxYmwkVTz9DTPj7b_30.189425_-93.218671@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525487,
+    "wof:geomhash":"37ba75e0c8afb92428d03a901c02ef94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840277083
+        }
+    ],
+    "wof:id":840277083,
+    "wof:lastmodified":1463525487,
+    "wof:name":"Don's Quick Lube",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -93.218671,
+    30.189425,
+    -93.218671,
+    30.189425
+],
+  "geometry": {"coordinates":[-93.218671,30.189425],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840441187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.469479,31.270301,-92.469479,31.270301",
+    "geom:latitude":31.270301,
+    "geom:longitude":-92.469479,
+    "iso:country":"US",
+    "sg:address":"4801 Masonic Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 4222",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R4farQpXcWhqFU78eB0cg_31.270301_-92.469479@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532946,
+    "wof:geomhash":"7c2d742a2c0f2da096d9fa366edf8e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840441187
+        }
+    ],
+    "wof:id":840441187,
+    "wof:lastmodified":1463532946,
+    "wof:name":"Alexandria Animal Clinic",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -92.469479,
+    31.270301,
+    -92.469479,
+    31.270301
+],
+  "geometry": {"coordinates":[-92.46947900000001,31.270301],"type":"Point"}
+}

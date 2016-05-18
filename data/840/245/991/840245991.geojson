@@ -1,0 +1,71 @@
+{
+  "id": 840245991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.368429,30.231898,-93.368429,30.231898",
+    "geom:latitude":30.231898,
+    "geom:longitude":-93.368429,
+    "iso:country":"US",
+    "sg:address":"910 1st Ave",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 6752",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XarF5OgE8Ha3I5x1vmDkQ_30.231898_-93.368429@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524510,
+    "wof:geomhash":"59b22783b8dbd792746ba2aa6b5a3bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840245991
+        }
+    ],
+    "wof:id":840245991,
+    "wof:lastmodified":1463524510,
+    "wof:name":"Alpha Denture Clinic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.368429,
+    30.231898,
+    -93.368429,
+    30.231898
+],
+  "geometry": {"coordinates":[-93.36842900000001,30.231898],"type":"Point"}
+}

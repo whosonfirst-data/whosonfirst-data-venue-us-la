@@ -1,0 +1,73 @@
+{
+  "id": 840370669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.3473,30.442599,-90.3473,30.442599",
+    "geom:latitude":30.442599,
+    "geom:longitude":-90.3473,
+    "iso:country":"US",
+    "sg:address":"41047 River Rd",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 6342",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6stYkfF5TUstd6RvRX1j4w_30.442599_-90.347300@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529927,
+    "wof:geomhash":"f09cdded9f1d174d0bb87b94a53ad308",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840370669
+        }
+    ],
+    "wof:id":840370669,
+    "wof:lastmodified":1463529927,
+    "wof:name":"Sewing Machine Svc",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -90.3473,
+    30.442599,
+    -90.3473,
+    30.442599
+],
+  "geometry": {"coordinates":[-90.3473,30.442599],"type":"Point"}
+}

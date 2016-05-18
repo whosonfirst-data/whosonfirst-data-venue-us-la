@@ -1,0 +1,73 @@
+{
+  "id": 840453663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.260574,29.683188,-91.260574,29.683188",
+    "geom:latitude":29.683188,
+    "geom:longitude":-91.260574,
+    "iso:country":"US",
+    "sg:address":"1319 Highway 90 E",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/wax-lake-pass/188277-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QufiXxOVuRtwO61Igye28_29.683188_-91.260574@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533450,
+    "wof:geomhash":"bd9c324f7abcc2ddd507bb8fad32d1a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840453663
+        }
+    ],
+    "wof:id":840453663,
+    "wof:lastmodified":1463533450,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.260574,
+    29.683188,
+    -91.260574,
+    29.683188
+],
+  "geometry": {"coordinates":[-91.26057400000001,29.683188],"type":"Point"}
+}

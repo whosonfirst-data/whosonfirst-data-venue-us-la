@@ -1,0 +1,72 @@
+{
+  "id": 840454801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325522,30.228888,-93.325522,30.228888",
+    "geom:latitude":30.228888,
+    "geom:longitude":-93.325522,
+    "iso:country":"US",
+    "sg:address":"215 N Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hollywood/208654-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 8226",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GPrLKwTpixeGatG6VXvnB_30.228888_-93.325522@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533497,
+    "wof:geomhash":"2a41b131c74308197bfda57d9850b1df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454801
+        }
+    ],
+    "wof:id":840454801,
+    "wof:lastmodified":1463533497,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.325522,
+    30.228888,
+    -93.325522,
+    30.228888
+],
+  "geometry": {"coordinates":[-93.32552200000001,30.228888],"type":"Point"}
+}

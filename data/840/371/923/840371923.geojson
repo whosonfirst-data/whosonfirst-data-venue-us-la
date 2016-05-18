@@ -1,0 +1,73 @@
+{
+  "id": 840371923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.188942,30.257534,-93.188942,30.257534",
+    "geom:latitude":30.257534,
+    "geom:longitude":-93.188942,
+    "iso:country":"US",
+    "sg:address":"1506 N Booker St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 0300",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NV7wK2CqzJn4XJEAZU1qp_30.257534_-93.188942@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529983,
+    "wof:geomhash":"b59dcf2324d7d5f44b590f146bcd3096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840371923
+        }
+    ],
+    "wof:id":840371923,
+    "wof:lastmodified":1463529983,
+    "wof:name":"Citizen Transportation",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.188942,
+    30.257534,
+    -93.188942,
+    30.257534
+],
+  "geometry": {"coordinates":[-93.188942,30.257534],"type":"Point"}
+}

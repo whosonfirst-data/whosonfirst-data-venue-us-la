@@ -1,0 +1,73 @@
+{
+  "id": 840051265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.880105,30.052177,-89.880105,30.052177",
+    "geom:latitude":30.052177,
+    "geom:longitude":-89.880105,
+    "iso:country":"US",
+    "sg:address":"18950 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 254 5544",
+    "sg:postcode":"70129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5674ifL0SbH2E4pkSOeS97_30.052177_-89.880105@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520073,
+    "wof:geomhash":"829f0ea2539206f4d3941649d90b3feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840051265
+        }
+    ],
+    "wof:id":840051265,
+    "wof:lastmodified":1463520073,
+    "wof:name":"TDF Towing",
+    "wof:parent_id":85853823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.880105,
+    30.052177,
+    -89.880105,
+    30.052177
+],
+  "geometry": {"coordinates":[-89.880105,30.052177],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840073921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.19868,30.204192,-93.19868,30.204192",
+    "geom:latitude":30.204192,
+    "geom:longitude":-93.19868,
+    "iso:country":"US",
+    "sg:address":"2770 2nd Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 7950",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eFsqakYYr3TAcaLWS1UzB_30.204192_-93.198680@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520559,
+    "wof:geomhash":"76c734cb4ac57fada9463ec1904d3cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840073921
+        }
+    ],
+    "wof:id":840073921,
+    "wof:lastmodified":1463520559,
+    "wof:name":"Memorial Plaza",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -93.19868,
+    30.204192,
+    -93.19868,
+    30.204192
+],
+  "geometry": {"coordinates":[-93.19868,30.204192],"type":"Point"}
+}

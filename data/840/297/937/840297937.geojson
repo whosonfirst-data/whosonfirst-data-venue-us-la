@@ -1,0 +1,66 @@
+{
+  "id": 840297937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258041,30.246967,-93.258041,30.246967",
+    "geom:latitude":30.246967,
+    "geom:longitude":-93.258041,
+    "iso:country":"US",
+    "sg:address":"1130 Sampson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 9541",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g43IHcICrLrNcZdeKSSCh_30.246967_-93.258041@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526400,
+    "wof:geomhash":"a87813b74ce0704dddd47897c0f0eb37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840297937
+        }
+    ],
+    "wof:id":840297937,
+    "wof:lastmodified":1463526400,
+    "wof:name":"Westlake Fast Stop",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.258041,
+    30.246967,
+    -93.258041,
+    30.246967
+],
+  "geometry": {"coordinates":[-93.25804100000001,30.246967],"type":"Point"}
+}

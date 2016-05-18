@@ -1,0 +1,71 @@
+{
+  "id": 840191009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.040737,30.259656,-92.040737,30.259656",
+    "geom:latitude":30.259656,
+    "geom:longitude":-92.040737,
+    "iso:country":"US",
+    "sg:address":"2100 N University Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 5996",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KS4Lt18piAvaGPTug5YXQ_30.259656_-92.040737@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523131,
+    "wof:geomhash":"be6037bce7236157f98c2ee63bd66245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840191009
+        }
+    ],
+    "wof:id":840191009,
+    "wof:lastmodified":1463523131,
+    "wof:name":"Camellia Cleaners",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.040737,
+    30.259656,
+    -92.040737,
+    30.259656
+],
+  "geometry": {"coordinates":[-92.04073699999999,30.259656],"type":"Point"}
+}

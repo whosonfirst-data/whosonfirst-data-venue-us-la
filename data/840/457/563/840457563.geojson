@@ -1,0 +1,76 @@
+{
+  "id": 840457563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249199,30.176645,-93.249199,30.176645",
+    "geom:latitude":30.176645,
+    "geom:longitude":-93.249199,
+    "iso:country":"US",
+    "sg:address":"4453 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/131673-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 480 1779",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oNTud68G22uG2EUp8Fe2o_30.176750_-93.249196@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533598,
+    "wof:geomhash":"e8d6d8f35040c4c2f49e678d7d916b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840457563
+        }
+    ],
+    "wof:id":840457563,
+    "wof:lastmodified":1463533598,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.249199,
+    30.176645,
+    -93.249199,
+    30.176645
+],
+  "geometry": {"coordinates":[-93.249199,30.176645],"type":"Point"}
+}

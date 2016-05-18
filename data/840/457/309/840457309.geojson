@@ -1,0 +1,88 @@
+{
+  "id": 840457309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.11234,30.02015,-90.11234,30.02015",
+    "geom:latitude":30.02015,
+    "geom:longitude":-90.11234,
+    "iso:country":"US",
+    "sg:address":"139 Robert E Lee Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/26547-chateau-coffee-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 286 1777",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DJXvyluzRAtU7nj3yP2yS_30.020162_-90.111802@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533590,
+    "wof:geomhash":"3a512b27675fe735d2968f1670002f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829329,
+            "region_id":85688735,
+            "venue_id":840457309
+        }
+    ],
+    "wof:id":840457309,
+    "wof:lastmodified":1463533590,
+    "wof:name":"Chateau Coffee Cafe",
+    "wof:parent_id":85829329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.11234,
+    30.02015,
+    -90.11234,
+    30.02015
+],
+  "geometry": {"coordinates":[-90.11234,30.02015],"type":"Point"}
+}

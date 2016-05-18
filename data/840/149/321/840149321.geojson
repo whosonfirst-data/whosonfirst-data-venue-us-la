@@ -1,0 +1,71 @@
+{
+  "id": 840149321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.222483,30.213076,-93.222483,30.213076",
+    "geom:latitude":30.213076,
+    "geom:longitude":-93.222483,
+    "iso:country":"US",
+    "sg:address":"1930 Ethel St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 5882",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qI9ESCORFoHvX0fZbk4GR_30.213076_-93.222483@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522228,
+    "wof:geomhash":"32dfd725995c6f0d9e61d231fa4127fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840149321
+        }
+    ],
+    "wof:id":840149321,
+    "wof:lastmodified":1463522228,
+    "wof:name":"Jo's Party House",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -93.222483,
+    30.213076,
+    -93.222483,
+    30.213076
+],
+  "geometry": {"coordinates":[-93.222483,30.213076],"type":"Point"}
+}

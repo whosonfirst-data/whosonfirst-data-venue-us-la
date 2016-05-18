@@ -1,0 +1,75 @@
+{
+  "id": 840457465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.021984,30.214215,-92.021984,30.214215",
+    "geom:latitude":30.214215,
+    "geom:longitude":-92.021984,
+    "iso:country":"US",
+    "sg:address":"1522 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/188352-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dmU8HbpoRamqOm7h0KqxH_30.213880_-92.022558@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533595,
+    "wof:geomhash":"493114d5b3ccedac148fa3c1513ca957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840457465
+        }
+    ],
+    "wof:id":840457465,
+    "wof:lastmodified":1463533595,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.021984,
+    30.214215,
+    -92.021984,
+    30.214215
+],
+  "geometry": {"coordinates":[-92.021984,30.214215],"type":"Point"}
+}

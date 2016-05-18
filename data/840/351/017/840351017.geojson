@@ -1,0 +1,68 @@
+{
+  "id": 840351017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.110045,29.985475,-90.110045,29.985475",
+    "geom:latitude":29.985475,
+    "geom:longitude":-90.110045,
+    "iso:country":"US",
+    "sg:address":"5243 Canal Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 488 0100",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rc1S2q2USbArKGBzKsCNG_29.985475_-90.110045@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528959,
+    "wof:geomhash":"5be6ed82c71bd41c9de451fd2b4c4a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866055,
+            "region_id":85688735,
+            "venue_id":840351017
+        }
+    ],
+    "wof:id":840351017,
+    "wof:lastmodified":1463528959,
+    "wof:name":"Pacific Cafe",
+    "wof:parent_id":85866055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.110045,
+    29.985475,
+    -90.110045,
+    29.985475
+],
+  "geometry": {"coordinates":[-90.110045,29.985475],"type":"Point"}
+}

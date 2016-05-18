@@ -1,0 +1,75 @@
+{
+  "id": 840331621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.104318,29.9554,-90.104318,29.9554",
+    "geom:latitude":29.9554,
+    "geom:longitude":-90.104318,
+    "iso:country":"US",
+    "sg:address":"1401 S Rendon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 827 0878",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15mjozG9dQIZ6Hs0cQPXW3_29.955400_-90.104318@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528018,
+    "wof:geomhash":"dc4e787272bfe71fe46dd9696890a067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866139,
+            "region_id":85688735,
+            "venue_id":840331621
+        }
+    ],
+    "wof:id":840331621,
+    "wof:lastmodified":1463528018,
+    "wof:name":"Coffee Roasters Of New Orleans",
+    "wof:parent_id":85866139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -90.104318,
+    29.9554,
+    -90.104318,
+    29.9554
+],
+  "geometry": {"coordinates":[-90.10431800000001,29.9554],"type":"Point"}
+}

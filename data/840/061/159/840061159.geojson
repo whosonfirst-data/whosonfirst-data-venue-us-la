@@ -1,0 +1,73 @@
+{
+  "id": 840061159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.233171,30.210333,-93.233171,30.210333",
+    "geom:latitude":30.210333,
+    "geom:longitude":-93.233171,
+    "iso:country":"US",
+    "sg:address":"810 W Bayou Pines Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 310 0153",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xFQk4hwGHF7lFpzGgNIRS_30.210333_-93.233171@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520301,
+    "wof:geomhash":"357f0b218a8ca77cf023fddc9f621063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840061159
+        }
+    ],
+    "wof:id":840061159,
+    "wof:lastmodified":1463520301,
+    "wof:name":"Advanced Psychiatric Svc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.233171,
+    30.210333,
+    -93.233171,
+    30.210333
+],
+  "geometry": {"coordinates":[-93.233171,30.210333],"type":"Point"}
+}

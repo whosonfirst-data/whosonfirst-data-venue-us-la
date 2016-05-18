@@ -1,0 +1,74 @@
+{
+  "id": 840454777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.206491,30.300589,-93.206491,30.300589",
+    "geom:latitude":30.300589,
+    "geom:longitude":-93.206491,
+    "iso:country":"US",
+    "sg:address":"675 Sam Houston Jones Pkwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/201465-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 855 8688",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZeITdyYkL0whFEwy7RdZN_30.300589_-93.206491@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533496,
+    "wof:geomhash":"8366a0f3248db1401dbc18ca62a52b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840454777
+        }
+    ],
+    "wof:id":840454777,
+    "wof:lastmodified":1463533496,
+    "wof:name":"Sonic",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.206491,
+    30.300589,
+    -93.206491,
+    30.300589
+],
+  "geometry": {"coordinates":[-93.206491,30.300589],"type":"Point"}
+}

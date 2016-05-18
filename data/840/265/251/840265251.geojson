@@ -1,0 +1,71 @@
+{
+  "id": 840265251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.803624,32.375445,-93.803624,32.375445",
+    "geom:latitude":32.375445,
+    "geom:longitude":-93.803624,
+    "iso:country":"US",
+    "sg:address":"9884 Deepwoods Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 218 5545",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PCjwcPrgEfz0kngmBOPYu_32.375445_-93.803624@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524944,
+    "wof:geomhash":"f66fb590a5a7f67092d188d7faeb203b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840265251
+        }
+    ],
+    "wof:id":840265251,
+    "wof:lastmodified":1463524944,
+    "wof:name":"American Trck Lube Shereveport",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.803624,
+    32.375445,
+    -93.803624,
+    32.375445
+],
+  "geometry": {"coordinates":[-93.803624,32.375445],"type":"Point"}
+}

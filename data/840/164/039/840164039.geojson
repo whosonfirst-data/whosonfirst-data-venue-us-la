@@ -1,0 +1,69 @@
+{
+  "id": 840164039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.053031,30.389492,-91.053031,30.389492",
+    "geom:latitude":30.389492,
+    "geom:longitude":-91.053031,
+    "iso:country":"US",
+    "sg:address":"6211 Hollyfield Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 755 1020",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JxeI0VZ27thqoLpWVwXtJ_30.389492_-91.053031@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522520,
+    "wof:geomhash":"5a160f62ac1b0ed489bbb80bb47fafab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840164039
+        }
+    ],
+    "wof:id":840164039,
+    "wof:lastmodified":1463522520,
+    "wof:name":"Spectro Chem Inc",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.053031,
+    30.389492,
+    -91.053031,
+    30.389492
+],
+  "geometry": {"coordinates":[-91.053031,30.389492],"type":"Point"}
+}

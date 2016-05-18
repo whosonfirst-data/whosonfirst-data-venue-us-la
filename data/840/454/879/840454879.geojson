@@ -1,0 +1,75 @@
+{
+  "id": 840454879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.170348,30.576358,-91.170348,30.576358",
+    "geom:latitude":30.576358,
+    "geom:longitude":-91.170348,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/zachary/188248-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948207,
+        102087229,
+        85840811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72YbvZOrnXkFD9Jxdvd9Z5_30.576358_-91.170348@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533500,
+    "wof:geomhash":"61139985d8e40de57528993732ce3f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840811,
+            "region_id":85688735,
+            "venue_id":840454879
+        }
+    ],
+    "wof:id":840454879,
+    "wof:lastmodified":1463533500,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85840811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.170348,
+    30.576358,
+    -91.170348,
+    30.576358
+],
+  "geometry": {"coordinates":[-91.170348,30.576358],"type":"Point"}
+}

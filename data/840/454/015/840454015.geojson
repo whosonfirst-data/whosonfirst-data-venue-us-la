@@ -1,0 +1,74 @@
+{
+  "id": 840454015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.751666,30.28468,-89.751666,30.28468",
+    "geom:latitude":30.28468,
+    "geom:longitude":-89.751666,
+    "iso:country":"US",
+    "sg:address":"1681 Gause Blvd",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/slidell/208652-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 649 2722",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85810457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HYbE3MTY9RoGv3oE8u7wf_30.284680_-89.751666@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533469,
+    "wof:geomhash":"447b631af6434ce2aa3b40e1f8abcc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810457,
+            "region_id":85688735,
+            "venue_id":840454015
+        }
+    ],
+    "wof:id":840454015,
+    "wof:lastmodified":1463533469,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85810457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -89.751666,
+    30.28468,
+    -89.751666,
+    30.28468
+],
+  "geometry": {"coordinates":[-89.751666,30.28468],"type":"Point"}
+}

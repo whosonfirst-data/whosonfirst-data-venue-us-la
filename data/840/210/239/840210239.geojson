@@ -1,0 +1,75 @@
+{
+  "id": 840210239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.139945,29.960881,-90.139945,29.960881",
+    "geom:latitude":29.960881,
+    "geom:longitude":-90.139945,
+    "iso:country":"US",
+    "sg:address":"217 Brooklyn Ave",
+    "sg:city":"Jefferson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 831 3771",
+    "sg:postcode":"70121",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948759,
+        102083179,
+        85891225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b9GaoyQRZQXq6XoFF9NVk_29.960881_-90.139945@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523629,
+    "wof:geomhash":"78b8b026db1fde74f15eab63f95bea8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948759,
+            "neighbourhood_id":85891225,
+            "region_id":85688735,
+            "venue_id":840210239
+        }
+    ],
+    "wof:id":840210239,
+    "wof:lastmodified":1463523629,
+    "wof:name":"Kevin's Automotive Inc",
+    "wof:parent_id":85891225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.139945,
+    29.960881,
+    -90.139945,
+    29.960881
+],
+  "geometry": {"coordinates":[-90.139945,29.960881],"type":"Point"}
+}

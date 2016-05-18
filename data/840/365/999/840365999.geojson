@@ -1,0 +1,71 @@
+{
+  "id": 840365999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.016474,30.403943,-91.016474,30.403943",
+    "geom:latitude":30.403943,
+    "geom:longitude":-91.016474,
+    "iso:country":"US",
+    "sg:address":"5531 Jones Creek Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 752 4766",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rsIsCSAxZsu1oyz7UKKZX_30.403943_-91.016474@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529681,
+    "wof:geomhash":"6988dc47d2cc28a6ecc1227030fcf9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840365999
+        }
+    ],
+    "wof:id":840365999,
+    "wof:lastmodified":1463529681,
+    "wof:name":"Shenandoah Cleaners",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.016474,
+    30.403943,
+    -91.016474,
+    30.403943
+],
+  "geometry": {"coordinates":[-91.016474,30.403943],"type":"Point"}
+}

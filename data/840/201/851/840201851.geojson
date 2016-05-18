@@ -1,0 +1,71 @@
+{
+  "id": 840201851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.798832,32.421409,-93.798832,32.421409",
+    "geom:latitude":32.421409,
+    "geom:longitude":-93.798832,
+    "iso:country":"US",
+    "sg:address":"2605 Betty St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 688 9400",
+    "sg:postcode":"71108",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hdvztko0hVLhOgX7mwPiT_32.421409_-93.798832@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523394,
+    "wof:geomhash":"e1df735e34ecba94bef20de13c3018be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840201851
+        }
+    ],
+    "wof:id":840201851,
+    "wof:lastmodified":1463523394,
+    "wof:name":"Heritage Dental Studio",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.798832,
+    32.421409,
+    -93.798832,
+    32.421409
+],
+  "geometry": {"coordinates":[-93.798832,32.421409],"type":"Point"}
+}

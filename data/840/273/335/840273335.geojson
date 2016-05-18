@@ -1,0 +1,73 @@
+{
+  "id": 840273335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.959796,29.950268,-89.959796,29.950268",
+    "geom:latitude":29.950268,
+    "geom:longitude":-89.959796,
+    "iso:country":"US",
+    "sg:address":"3417 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 7365",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KPCR01kTq1jnegfCUDIXC_29.950268_-89.959796@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525325,
+    "wof:geomhash":"06802c15ef5df096f2b95faa23a29fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840273335
+        }
+    ],
+    "wof:id":840273335,
+    "wof:lastmodified":1463525325,
+    "wof:name":"St Bernard Motor Vehicle",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -89.959796,
+    29.950268,
+    -89.959796,
+    29.950268
+],
+  "geometry": {"coordinates":[-89.959796,29.950268],"type":"Point"}
+}

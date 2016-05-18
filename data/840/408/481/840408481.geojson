@@ -1,0 +1,75 @@
+{
+  "id": 840408481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.170129,29.929912,-90.170129,29.929912",
+    "geom:latitude":29.929912,
+    "geom:longitude":-90.170129,
+    "iso:country":"US",
+    "sg:address":"1507 Bridge City Ave",
+    "sg:city":"Bridge City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 436 9543",
+    "sg:postcode":"70094",
+    "sg:province":"LA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q8uDn1Gxb92Kzz68nNTFD_29.929912_-90.170129@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531562,
+    "wof:geomhash":"40592b55697e88695ec95868ff63fa0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840408481
+        }
+    ],
+    "wof:id":840408481,
+    "wof:lastmodified":1463531562,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.170129,
+    29.929912,
+    -90.170129,
+    29.929912
+],
+  "geometry": {"coordinates":[-90.170129,29.929912],"type":"Point"}
+}

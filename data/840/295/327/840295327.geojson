@@ -1,0 +1,71 @@
+{
+  "id": 840295327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.981332,32.816336,-93.981332,32.816336",
+    "geom:latitude":32.816336,
+    "geom:longitude":-93.981332,
+    "iso:country":"US",
+    "sg:address":"14445 Hwy 1",
+    "sg:city":"Vivian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 375 5555",
+    "sg:postcode":"71082",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fTQP7ndb9Zw4VXlL1pmHA_32.816336_-93.981332@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526287,
+    "wof:geomhash":"2bca9af8adfbaff82b518a1802054179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840295327
+        }
+    ],
+    "wof:id":840295327,
+    "wof:lastmodified":1463526287,
+    "wof:name":"Vivian Animal Hospital",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.981332,
+    32.816336,
+    -93.981332,
+    32.816336
+],
+  "geometry": {"coordinates":[-93.98133199999999,32.816336],"type":"Point"}
+}

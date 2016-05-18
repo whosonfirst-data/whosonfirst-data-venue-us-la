@@ -1,0 +1,73 @@
+{
+  "id": 840313291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.030238,29.968322,-90.030238,29.968322",
+    "geom:latitude":29.968322,
+    "geom:longitude":-90.030238,
+    "iso:country":"US",
+    "sg:address":"1441 Poland Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 301 4443",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZJQA4u93kmy86nY2rk5CQ_29.968322_-90.030238@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527143,
+    "wof:geomhash":"808fcd3173e21cec71c462d7340ee9f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866089,
+            "region_id":85688735,
+            "venue_id":840313291
+        }
+    ],
+    "wof:id":840313291,
+    "wof:lastmodified":1463527143,
+    "wof:name":"Smith Cleaning Svc",
+    "wof:parent_id":85866089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.030238,
+    29.968322,
+    -90.030238,
+    29.968322
+],
+  "geometry": {"coordinates":[-90.030238,29.968322],"type":"Point"}
+}

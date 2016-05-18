@@ -1,0 +1,75 @@
+{
+  "id": 840054079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.099929,30.008695,-90.099929,30.008695",
+    "geom:latitude":30.008695,
+    "geom:longitude":-90.099929,
+    "iso:country":"US",
+    "sg:address":"6558 Orleans Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 482 3530",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YN96TdCdnpwpWCy9ZQtiQ_30.008695_-90.099929@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520127,
+    "wof:geomhash":"79ae18c26a2c7bc5253e4c40db4d9680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829431,
+            "region_id":85688735,
+            "venue_id":840054079
+        }
+    ],
+    "wof:id":840054079,
+    "wof:lastmodified":1463520127,
+    "wof:name":"Tri State Respiratory Inc",
+    "wof:parent_id":85829431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -90.099929,
+    30.008695,
+    -90.099929,
+    30.008695
+],
+  "geometry": {"coordinates":[-90.099929,30.008695],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840240051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.904153,30.061288,-91.904153,30.061288",
+    "geom:latitude":30.061288,
+    "geom:longitude":-91.904153,
+    "iso:country":"US",
+    "sg:address":"6605 Fremin Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 8122",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BfIIOapMf7MAIfXhoGgq7_30.061288_-91.904153@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524366,
+    "wof:geomhash":"72e7e8a449ecf32ecbb8d58531740673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840240051
+        }
+    ],
+    "wof:id":840240051,
+    "wof:lastmodified":1463524366,
+    "wof:name":"Carrol's Tire Svc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.904153,
+    30.061288,
+    -91.904153,
+    30.061288
+],
+  "geometry": {"coordinates":[-91.90415299999999,30.061288],"type":"Point"}
+}

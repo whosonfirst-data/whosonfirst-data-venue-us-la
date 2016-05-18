@@ -1,0 +1,74 @@
+{
+  "id": 840455579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.076644,30.368966,-91.076644,30.368966",
+    "geom:latitude":30.368966,
+    "geom:longitude":-91.076644,
+    "iso:country":"US",
+    "sg:address":"12642 Perkins Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/81562-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 769 7272",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pO2FY6TAnGANRaiMqzW59_30.368966_-91.076644@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533523,
+    "wof:geomhash":"69fd3c9d390ccf2604f49c191b637f3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840455579
+        }
+    ],
+    "wof:id":840455579,
+    "wof:lastmodified":1463533523,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.076644,
+    30.368966,
+    -91.076644,
+    30.368966
+],
+  "geometry": {"coordinates":[-91.076644,30.368966],"type":"Point"}
+}

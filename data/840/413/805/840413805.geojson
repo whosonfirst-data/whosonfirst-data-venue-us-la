@@ -1,0 +1,75 @@
+{
+  "id": 840413805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.21014,32.546331,-92.21014,32.546331",
+    "geom:latitude":32.546331,
+    "geom:longitude":-92.21014,
+    "iso:country":"US",
+    "sg:address":"123 Western Ave",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 396 9820",
+    "sg:postcode":"71291",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RAWX4aU4gFd4ub2NHBxn6_32.546331_-92.210140@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531770,
+    "wof:geomhash":"b582896540348c71cf89746c05839cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840413805
+        }
+    ],
+    "wof:id":840413805,
+    "wof:lastmodified":1463531770,
+    "wof:name":"ABC Electric",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.21014,
+    32.546331,
+    -92.21014,
+    32.546331
+],
+  "geometry": {"coordinates":[-92.21014,32.546331],"type":"Point"}
+}

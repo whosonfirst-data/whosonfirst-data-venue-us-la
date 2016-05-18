@@ -1,0 +1,71 @@
+{
+  "id": 840308753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.456279,30.505103,-90.456279,30.505103",
+    "geom:latitude":30.505103,
+    "geom:longitude":-90.456279,
+    "iso:country":"US",
+    "sg:address":"107 S Orange St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 543 0403",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iapjuOuirIRhSXwoL6ip6_30.505103_-90.456279@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526934,
+    "wof:geomhash":"7b6bc08b9290b6d9115ecf98b7b0e65d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840308753
+        }
+    ],
+    "wof:id":840308753,
+    "wof:lastmodified":1463526934,
+    "wof:name":"Hammond Eastside Apartments",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.456279,
+    30.505103,
+    -90.456279,
+    30.505103
+],
+  "geometry": {"coordinates":[-90.45627899999999,30.505103],"type":"Point"}
+}

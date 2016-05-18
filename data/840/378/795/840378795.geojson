@@ -1,0 +1,75 @@
+{
+  "id": 840378795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.075205,30.195991,-92.075205,30.195991",
+    "geom:latitude":30.195991,
+    "geom:longitude":-92.075205,
+    "iso:country":"US",
+    "sg:address":"4212 W Congress St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 8810",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WZXoClmSnKOjnTTiXd4Sf_30.195991_-92.075205@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530297,
+    "wof:geomhash":"5f2005410fa6cc2cd66412eed50b011b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840378795
+        }
+    ],
+    "wof:id":840378795,
+    "wof:lastmodified":1463530297,
+    "wof:name":"Hamilton Medical Group South",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.075205,
+    30.195991,
+    -92.075205,
+    30.195991
+],
+  "geometry": {"coordinates":[-92.075205,30.195991],"type":"Point"}
+}

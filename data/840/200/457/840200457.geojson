@@ -1,0 +1,71 @@
+{
+  "id": 840200457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.530448,29.798384,-91.530448,29.798384",
+    "geom:latitude":29.798384,
+    "geom:longitude":-91.530448,
+    "iso:country":"US",
+    "sg:address":"1416 Northwest Blvd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4169",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gQirf8zD5SF4iW4nCiear_29.798384_-91.530448@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523341,
+    "wof:geomhash":"daf148b61a3b58b44c99a7189d4eb0e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840200457
+        }
+    ],
+    "wof:id":840200457,
+    "wof:lastmodified":1463523341,
+    "wof:name":"Charlie's Of Franklin",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -91.530448,
+    29.798384,
+    -91.530448,
+    29.798384
+],
+  "geometry": {"coordinates":[-91.53044800000001,29.798384],"type":"Point"}
+}

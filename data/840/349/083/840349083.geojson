@@ -1,0 +1,75 @@
+{
+  "id": 840349083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.830238,32.318666,-93.830238,32.318666",
+    "geom:latitude":32.318666,
+    "geom:longitude":-93.830238,
+    "iso:country":"US",
+    "sg:address":"12406 Mansfield Rd",
+    "sg:city":"Keithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 925 3282",
+    "sg:postcode":"71047",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08sVn6CmWuHd29oFHXIsyL_32.318666_-93.830238@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528860,
+    "wof:geomhash":"ea2368dde22e455d27d2a96587086642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840349083
+        }
+    ],
+    "wof:id":840349083,
+    "wof:lastmodified":1463528860,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.830238,
+    32.318666,
+    -93.830238,
+    32.318666
+],
+  "geometry": {"coordinates":[-93.83023799999999,32.318666],"type":"Point"}
+}

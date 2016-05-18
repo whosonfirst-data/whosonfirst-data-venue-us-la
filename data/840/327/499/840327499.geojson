@@ -1,0 +1,71 @@
+{
+  "id": 840327499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.179804,30.39908,-91.179804,30.39908",
+    "geom:latitude":30.39908,
+    "geom:longitude":-91.179804,
+    "iso:country":"US",
+    "sg:address":"4005 Nicholson Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 906 4005",
+    "sg:postcode":"70802",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948205,
+        102087229,
+        85853197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YG7bdrxqlWcoADGNoxRQO_30.399080_-91.179804@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527840,
+    "wof:geomhash":"eb80905d47b2129b2ad9a0e758594fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85853197,
+            "region_id":85688735,
+            "venue_id":840327499
+        }
+    ],
+    "wof:id":840327499,
+    "wof:lastmodified":1463527840,
+    "wof:name":"Southgate Towers",
+    "wof:parent_id":85853197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.179804,
+    30.39908,
+    -91.179804,
+    30.39908
+],
+  "geometry": {"coordinates":[-91.179804,30.39908],"type":"Point"}
+}

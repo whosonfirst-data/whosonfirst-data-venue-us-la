@@ -1,0 +1,71 @@
+{
+  "id": 840127971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.208379,30.237052,-93.208379,30.237052",
+    "geom:latitude":30.237052,
+    "geom:longitude":-93.208379,
+    "iso:country":"US",
+    "sg:address":"123 Reid St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 4730",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dSPibKz9BXd99IKuzW59P_30.237052_-93.208379@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521811,
+    "wof:geomhash":"33558a68a7c1589c21997685e56925d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840127971
+        }
+    ],
+    "wof:id":840127971,
+    "wof:lastmodified":1463521811,
+    "wof:name":"Bernard's Appliances",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -93.208379,
+    30.237052,
+    -93.208379,
+    30.237052
+],
+  "geometry": {"coordinates":[-93.20837899999999,30.237052],"type":"Point"}
+}

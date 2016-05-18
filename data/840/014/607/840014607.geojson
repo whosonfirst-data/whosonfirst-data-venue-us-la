@@ -1,0 +1,71 @@
+{
+  "id": 840014607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.075569,30.210443,-92.075569,30.210443",
+    "geom:latitude":30.210443,
+    "geom:longitude":-92.075569,
+    "iso:country":"US",
+    "sg:address":"2305 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 295 7009",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4valUN6tFaa7Ox4v7o6QBH_30.210443_-92.075569@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519303,
+    "wof:geomhash":"d89368a2ccc2de4f5d902c7820edc898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840014607
+        }
+    ],
+    "wof:id":840014607,
+    "wof:lastmodified":1463519303,
+    "wof:name":"Ambassador Veterinary Clinic",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -92.075569,
+    30.210443,
+    -92.075569,
+    30.210443
+],
+  "geometry": {"coordinates":[-92.075569,30.210443],"type":"Point"}
+}

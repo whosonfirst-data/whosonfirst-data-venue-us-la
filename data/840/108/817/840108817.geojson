@@ -1,0 +1,75 @@
+{
+  "id": 840108817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.016067,30.008156,-90.016067,30.008156",
+    "geom:latitude":30.008156,
+    "geom:longitude":-90.016067,
+    "iso:country":"US",
+    "sg:address":"6100 Old Gentilly Rd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 243 1868",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WCpwaqZWRzaMXZYJ4uqOr_30.008156_-90.016067@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521407,
+    "wof:geomhash":"3e0732232893c09d61bb5b292319bd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840108817
+        }
+    ],
+    "wof:id":840108817,
+    "wof:lastmodified":1463521407,
+    "wof:name":"Doc's Automotive Clinic",
+    "wof:parent_id":85866169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.016067,
+    30.008156,
+    -90.016067,
+    30.008156
+],
+  "geometry": {"coordinates":[-90.01606700000001,30.008156],"type":"Point"}
+}

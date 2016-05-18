@@ -1,0 +1,83 @@
+{
+  "id": 840331187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482547,30.511197,-90.482547,30.511197",
+    "geom:latitude":30.511197,
+    "geom:longitude":-90.482547,
+    "iso:country":"US",
+    "sg:address":"1100 N Morrison Blvd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 1231",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"www.tirekingdom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177,
+        102191575,
+        85857619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AOzMIub0iBXmPPZYIpVFw_30.511197_-90.482547@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528000,
+    "wof:geomhash":"6c22bdf73fa7ff51d62c42f4aaab49ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840331187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85857619,
+            "region_id":85688735,
+            "venue_id":840331187
+        }
+    ],
+    "wof:id":840331187,
+    "wof:lastmodified":1463528000,
+    "wof:name":"Tire Kingdom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -90.482547,
+    30.511197,
+    -90.482547,
+    30.511197
+],
+  "geometry": {"coordinates":[-90.482547,30.511197],"type":"Point"}
+}

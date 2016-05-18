@@ -1,0 +1,71 @@
+{
+  "id": 840451301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.8181,30.005699,-91.8181,30.005699",
+    "geom:latitude":30.005699,
+    "geom:longitude":-91.8181,
+    "iso:country":"US",
+    "sg:address":"106 E Main St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 7621",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ezuULRrCzAvsctWfFAZlO_30.005845_-91.818349@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533357,
+    "wof:geomhash":"61b53ddabec30ae09c982325e8ba073a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840451301
+        }
+    ],
+    "wof:id":840451301,
+    "wof:lastmodified":1463533357,
+    "wof:name":"Books Along the Teche",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -91.8181,
+    30.005699,
+    -91.8181,
+    30.005699
+],
+  "geometry": {"coordinates":[-91.8181,30.005699],"type":"Point"}
+}

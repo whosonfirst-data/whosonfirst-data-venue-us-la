@@ -1,0 +1,73 @@
+{
+  "id": 840316517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.806755,30.004666,-91.806755,30.004666",
+    "geom:latitude":30.004666,
+    "geom:longitude":-91.806755,
+    "iso:country":"US",
+    "sg:address":"700 Parkview Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 373 0123",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e7QtmV3gXp5wVlUPBCJje_30.004666_-91.806755@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527283,
+    "wof:geomhash":"f1dbc96bf6a85bc2ee28a501a3a403b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840316517
+        }
+    ],
+    "wof:id":840316517,
+    "wof:lastmodified":1463527283,
+    "wof:name":"National Guard",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -91.806755,
+    30.004666,
+    -91.806755,
+    30.004666
+],
+  "geometry": {"coordinates":[-91.806755,30.004666],"type":"Point"}
+}

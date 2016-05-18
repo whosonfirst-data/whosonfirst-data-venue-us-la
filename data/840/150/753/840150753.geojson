@@ -1,0 +1,74 @@
+{
+  "id": 840150753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.101192,29.920897,-90.101192,29.920897",
+    "geom:latitude":29.920897,
+    "geom:longitude":-90.101192,
+    "iso:country":"US",
+    "sg:address":"4317 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 896 4700",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.nopdsecond.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fVlXtfbQ41Ryrue9VwHQT_29.920897_-90.101192@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522257,
+    "wof:geomhash":"3c113c27e7f43eb30cc1c1283bde9c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840150753
+        }
+    ],
+    "wof:id":840150753,
+    "wof:lastmodified":1463522257,
+    "wof:name":"New Orleans Police Dept",
+    "wof:parent_id":85866115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.101192,
+    29.920897,
+    -90.101192,
+    29.920897
+],
+  "geometry": {"coordinates":[-90.101192,29.920897],"type":"Point"}
+}

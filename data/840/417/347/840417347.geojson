@@ -1,0 +1,80 @@
+{
+  "id": 840417347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.176118,30.273831,-93.176118,30.273831",
+    "geom:latitude":30.273831,
+    "geom:longitude":-93.176118,
+    "iso:country":"US",
+    "sg:address":"2644 Old Hwy 171 N",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 3389",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "rebuilt",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IHjtJ805Q3A0IF3TzOk0E_30.273831_-93.176118@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531918,
+    "wof:geomhash":"360c67e087c5b5525fd68859f8f1df9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840417347
+        }
+    ],
+    "wof:id":840417347,
+    "wof:lastmodified":1463531918,
+    "wof:name":"Lake Charles Auto Salvage",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "rebuilt",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.176118,
+    30.273831,
+    -93.176118,
+    30.273831
+],
+  "geometry": {"coordinates":[-93.176118,30.273831],"type":"Point"}
+}

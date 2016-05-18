@@ -1,0 +1,71 @@
+{
+  "id": 840164055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.500278,29.792681,-91.500278,29.792681",
+    "geom:latitude":29.792681,
+    "geom:longitude":-91.500278,
+    "iso:country":"US",
+    "sg:address":"108 Commercial St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 829 8999",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C8bLWC8iNUvUfp5qyUB7k_29.792681_-91.500278@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522521,
+    "wof:geomhash":"837c99ad74dd44548211138b026037d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840164055
+        }
+    ],
+    "wof:id":840164055,
+    "wof:lastmodified":1463522521,
+    "wof:name":"Roy's Appraisal Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -91.500278,
+    29.792681,
+    -91.500278,
+    29.792681
+],
+  "geometry": {"coordinates":[-91.50027799999999,29.792681],"type":"Point"}
+}

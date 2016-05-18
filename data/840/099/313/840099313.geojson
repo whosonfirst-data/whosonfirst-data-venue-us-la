@@ -1,0 +1,71 @@
+{
+  "id": 840099313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.074251,30.368547,-91.074251,30.368547",
+    "geom:latitude":30.368547,
+    "geom:longitude":-91.074251,
+    "iso:country":"US",
+    "sg:address":"8445 Siegen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 766 8445",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63i0XbKcY5h16teu8okiaU_30.368547_-91.074251@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521196,
+    "wof:geomhash":"57e2721b9a38a941c57ee87a8bc06906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840099313
+        }
+    ],
+    "wof:id":840099313,
+    "wof:lastmodified":1463521196,
+    "wof:name":"Auto King Inc",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -91.074251,
+    30.368547,
+    -91.074251,
+    30.368547
+],
+  "geometry": {"coordinates":[-91.074251,30.368547],"type":"Point"}
+}

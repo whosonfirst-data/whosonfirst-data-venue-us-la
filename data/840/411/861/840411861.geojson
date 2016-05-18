@@ -1,0 +1,80 @@
+{
+  "id": 840411861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.08146,32.491529,-92.08146,32.491529",
+    "geom:latitude":32.491529,
+    "geom:longitude":-92.08146,
+    "iso:country":"US",
+    "sg:address":"1501 Southern Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 398 4181",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33xgEkv1INF9i1WQAD0Gyx_32.491529_-92.081460@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531689,
+    "wof:geomhash":"dec73b41ba1b2d2ee15e85da7f22fa5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840411861
+        }
+    ],
+    "wof:id":840411861,
+    "wof:lastmodified":1463531689,
+    "wof:name":"Monroe Kidney Center",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -92.08146,
+    32.491529,
+    -92.08146,
+    32.491529
+],
+  "geometry": {"coordinates":[-92.08146000000001,32.491529],"type":"Point"}
+}

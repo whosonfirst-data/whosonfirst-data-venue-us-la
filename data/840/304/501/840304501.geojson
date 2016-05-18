@@ -1,0 +1,71 @@
+{
+  "id": 840304501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.470147,30.501954,-90.470147,30.501954",
+    "geom:latitude":30.501954,
+    "geom:longitude":-90.470147,
+    "iso:country":"US",
+    "sg:address":"907 W Thomas St",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 9070",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CTGs4HLLHMCCtF7ZiC5MY_30.501954_-90.470147@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526742,
+    "wof:geomhash":"4c452c4258fa8ae55c2531006f98d146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840304501
+        }
+    ],
+    "wof:id":840304501,
+    "wof:lastmodified":1463526742,
+    "wof:name":"James E Fagan DDS",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.470147,
+    30.501954,
+    -90.470147,
+    30.501954
+],
+  "geometry": {"coordinates":[-90.470147,30.501954],"type":"Point"}
+}

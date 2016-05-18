@@ -1,0 +1,75 @@
+{
+  "id": 840405255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.080495,29.960676,-90.080495,29.960676",
+    "geom:latitude":29.960676,
+    "geom:longitude":-90.080495,
+    "iso:country":"US",
+    "sg:address":"1915 Canal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 558 9375",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71dMW8CvJI1p4dNPohgEHj_29.960676_-90.080495@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531433,
+    "wof:geomhash":"8c6371fc9507ffa45ed9aab334297dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866071,
+            "region_id":85688735,
+            "venue_id":840405255
+        }
+    ],
+    "wof:id":840405255,
+    "wof:lastmodified":1463531433,
+    "wof:name":"Del Cid Motors Inc",
+    "wof:parent_id":85866071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.080495,
+    29.960676,
+    -90.080495,
+    29.960676
+],
+  "geometry": {"coordinates":[-90.080495,29.960676],"type":"Point"}
+}

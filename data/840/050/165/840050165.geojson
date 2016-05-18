@@ -1,0 +1,69 @@
+{
+  "id": 840050165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.010874,30.466054,-91.010874,30.466054",
+    "geom:latitude":30.466054,
+    "geom:longitude":-91.010874,
+    "iso:country":"US",
+    "sg:address":"15687 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 273 3731",
+    "sg:postcode":"70819",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85844741,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5il5M9eVUzLPpWoubYFGaE_30.466054_-91.010874@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520050,
+    "wof:geomhash":"b212a5a61366d57d7d187cd0c0d37316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85844741,
+            "region_id":85688735,
+            "venue_id":840050165
+        }
+    ],
+    "wof:id":840050165,
+    "wof:lastmodified":1463520050,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85844741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -91.010874,
+    30.466054,
+    -91.010874,
+    30.466054
+],
+  "geometry": {"coordinates":[-91.010874,30.466054],"type":"Point"}
+}

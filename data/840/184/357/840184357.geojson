@@ -1,0 +1,73 @@
+{
+  "id": 840184357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325598,30.231115,-93.325598,30.231115",
+    "geom:latitude":30.231115,
+    "geom:longitude":-93.325598,
+    "iso:country":"US",
+    "sg:address":"207 N Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 8863",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hXXxo7jCp7CYMEndVxRdZ_30.231115_-93.325598@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523003,
+    "wof:geomhash":"cc030879dfaf9dea68659e893c177b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840184357
+        }
+    ],
+    "wof:id":840184357,
+    "wof:lastmodified":1463523003,
+    "wof:name":"Performance Dyno LLC",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -93.325598,
+    30.231115,
+    -93.325598,
+    30.231115
+],
+  "geometry": {"coordinates":[-93.325598,30.231115],"type":"Point"}
+}

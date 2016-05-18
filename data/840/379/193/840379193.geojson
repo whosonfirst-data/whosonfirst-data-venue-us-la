@@ -1,0 +1,73 @@
+{
+  "id": 840379193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.114234,30.134404,-92.114234,30.134404",
+    "geom:latitude":30.134404,
+    "geom:longitude":-92.114234,
+    "iso:country":"US",
+    "sg:address":"101 Bourque Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 991 9914",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0We4pME5OZUgbwIGoiYxjc_30.134404_-92.114234@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530312,
+    "wof:geomhash":"8263011deba88a51f0dbb7c082894663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840379193
+        }
+    ],
+    "wof:id":840379193,
+    "wof:lastmodified":1463530312,
+    "wof:name":"L & W Store & Lock",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -92.114234,
+    30.134404,
+    -92.114234,
+    30.134404
+],
+  "geometry": {"coordinates":[-92.114234,30.134404],"type":"Point"}
+}

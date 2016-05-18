@@ -1,0 +1,73 @@
+{
+  "id": 840440843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.193183,30.217977,-93.193183,30.217977",
+    "geom:latitude":30.217977,
+    "geom:longitude":-93.193183,
+    "iso:country":"US",
+    "sg:address":"1810 8th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 6438",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IUoaEOuTkzrBg7mOajFfJ_30.217977_-93.193183@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532934,
+    "wof:geomhash":"33386fe30074876252b014db130626c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840440843
+        }
+    ],
+    "wof:id":840440843,
+    "wof:lastmodified":1463532934,
+    "wof:name":"Gerard Biagas",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.193183,
+    30.217977,
+    -93.193183,
+    30.217977
+],
+  "geometry": {"coordinates":[-93.193183,30.217977],"type":"Point"}
+}

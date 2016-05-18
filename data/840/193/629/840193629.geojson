@@ -1,0 +1,73 @@
+{
+  "id": 840193629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.969994,29.956338,-89.969994,29.956338",
+    "geom:latitude":29.956338,
+    "geom:longitude":-89.969994,
+    "iso:country":"US",
+    "sg:address":"9000 Patricia St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 0124",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tb3jDWT608rnV1EjCixMC_29.956338_-89.969994@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523187,
+    "wof:geomhash":"6032aace6c543fc5557964fc414572a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840193629
+        }
+    ],
+    "wof:id":840193629,
+    "wof:lastmodified":1463523187,
+    "wof:name":"Samuels & Huddleston",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.969994,
+    29.956338,
+    -89.969994,
+    29.956338
+],
+  "geometry": {"coordinates":[-89.969994,29.956338],"type":"Point"}
+}

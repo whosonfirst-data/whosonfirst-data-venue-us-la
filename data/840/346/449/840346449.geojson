@@ -1,0 +1,71 @@
+{
+  "id": 840346449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.097163,30.408255,-91.097163,30.408255",
+    "geom:latitude":30.408255,
+    "geom:longitude":-91.097163,
+    "iso:country":"US",
+    "sg:address":"8595 United Plaza Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 231 3170",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BPeeCan4BKPX8MKQAyJQB_30.408255_-91.097163@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528719,
+    "wof:geomhash":"1a7b83228c8c775bb50ec5fa7bbbbef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840346449
+        }
+    ],
+    "wof:id":840346449,
+    "wof:lastmodified":1463528719,
+    "wof:name":"James Poche MD",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.097163,
+    30.408255,
+    -91.097163,
+    30.408255
+],
+  "geometry": {"coordinates":[-91.09716299999999,30.408255],"type":"Point"}
+}

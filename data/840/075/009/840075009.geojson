@@ -1,0 +1,71 @@
+{
+  "id": 840075009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.067255,30.365743,-91.067255,30.365743",
+    "geom:latitude":30.365743,
+    "geom:longitude":-91.067255,
+    "iso:country":"US",
+    "sg:address":"13510 Perkins Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 766 1485",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NNszRqBoHV3ibOd6FDkkM_30.365743_-91.067255@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520581,
+    "wof:geomhash":"1dc3eddc8080868ada3596701a71ee63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840075009
+        }
+    ],
+    "wof:id":840075009,
+    "wof:lastmodified":1463520581,
+    "wof:name":"Village Grocery & Deli",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.067255,
+    30.365743,
+    -91.067255,
+    30.365743
+],
+  "geometry": {"coordinates":[-91.067255,30.365743],"type":"Point"}
+}

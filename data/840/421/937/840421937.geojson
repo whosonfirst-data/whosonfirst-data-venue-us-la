@@ -1,0 +1,88 @@
+{
+  "id": 840421937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.267037,29.976604,-90.267037,29.976604",
+    "geom:latitude":29.976604,
+    "geom:longitude":-90.267037,
+    "iso:country":"US",
+    "sg:address":"317 3rd St",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 466 7116",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "grease",
+        "local",
+        "trap",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530009,
+        85842683,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H8SQX83ZXPaKPKjv9Y190_29.976604_-90.267037@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532113,
+    "wof:geomhash":"cc40aebe23854bf33f6082ec08a31f17",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530009,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840421937
+        }
+    ],
+    "wof:id":840421937,
+    "wof:lastmodified":1463532113,
+    "wof:name":"Airport Vacuum Truck Service",
+    "wof:parent_id":102530009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "grease",
+        "local",
+        "trap",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.267037,
+    29.976604,
+    -90.267037,
+    29.976604
+],
+  "geometry": {"coordinates":[-90.267037,29.976604],"type":"Point"}
+}

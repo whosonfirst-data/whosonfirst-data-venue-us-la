@@ -1,0 +1,76 @@
+{
+  "id": 840453207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.107815,29.924574,-90.107815,29.924574",
+    "geom:latitude":29.924574,
+    "geom:longitude":-90.107815,
+    "iso:country":"US",
+    "sg:address":"4903 Prytania St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/73010-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 896 4990",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14qj6tcNkVLBLQNF4UgO28_29.924574_-90.107815@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533433,
+    "wof:geomhash":"3bcd6cd4ba497c0abf4442db5604401d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866125,
+            "region_id":85688735,
+            "venue_id":840453207
+        }
+    ],
+    "wof:id":840453207,
+    "wof:lastmodified":1463533433,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85866125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.107815,
+    29.924574,
+    -90.107815,
+    29.924574
+],
+  "geometry": {"coordinates":[-90.107815,29.924574],"type":"Point"}
+}

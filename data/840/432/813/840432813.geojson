@@ -1,0 +1,71 @@
+{
+  "id": 840432813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.001988,30.277592,-92.001988,30.277592",
+    "geom:latitude":30.277592,
+    "geom:longitude":-92.001988,
+    "iso:country":"US",
+    "sg:address":"213 Clause Ln",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 4334",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IPbZvc3am8P2wlcdn0pKu_30.277592_-92.001988@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532592,
+    "wof:geomhash":"4d06df5d26ae347682f434d4c22b387d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840432813
+        }
+    ],
+    "wof:id":840432813,
+    "wof:lastmodified":1463532592,
+    "wof:name":"Acadiana Chimney Sweeps",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -92.001988,
+    30.277592,
+    -92.001988,
+    30.277592
+],
+  "geometry": {"coordinates":[-92.001988,30.277592],"type":"Point"}
+}

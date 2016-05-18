@@ -1,0 +1,73 @@
+{
+  "id": 840051019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.28209,30.943068,-93.28209,30.943068",
+    "geom:latitude":30.943068,
+    "geom:longitude":-93.28209,
+    "iso:country":"US",
+    "sg:address":"17554 Lake Charles Hwy",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 460 7600",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZqN1Rvjcp7sJomDadcWsl_30.943068_-93.282090@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520069,
+    "wof:geomhash":"778f1e0b02e016b835c039d42495d6d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840051019
+        }
+    ],
+    "wof:id":840051019,
+    "wof:lastmodified":1463520069,
+    "wof:name":"Young's Small Engine Repair",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -93.28209,
+    30.943068,
+    -93.28209,
+    30.943068
+],
+  "geometry": {"coordinates":[-93.28209,30.943068],"type":"Point"}
+}

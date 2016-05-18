@@ -1,0 +1,73 @@
+{
+  "id": 840076771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.07492,29.995878,-90.07492,29.995878",
+    "geom:latitude":29.995878,
+    "geom:longitude":-90.07492,
+    "iso:country":"US",
+    "sg:address":"1508 Milton St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 0457",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53zn1ZfexSm8UluXYLLjcN_29.995878_-90.074920@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520616,
+    "wof:geomhash":"5629dc00eee7a9e0b7aa6b919bb83498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866079,
+            "region_id":85688735,
+            "venue_id":840076771
+        }
+    ],
+    "wof:id":840076771,
+    "wof:lastmodified":1463520616,
+    "wof:name":"St Bernard Cops",
+    "wof:parent_id":85866079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.07492,
+    29.995878,
+    -90.07492,
+    29.995878
+],
+  "geometry": {"coordinates":[-90.07492000000001,29.995878],"type":"Point"}
+}

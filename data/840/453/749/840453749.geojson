@@ -1,0 +1,74 @@
+{
+  "id": 840453749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.510866,30.726631,-90.510866,30.726631",
+    "geom:latitude":30.726631,
+    "geom:longitude":-90.510866,
+    "iso:country":"US",
+    "sg:address":"221 W Oak St",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/amite/72977-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 4555",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bbR8PYBiuCN2w0UqNd3pr_30.726631_-90.510866@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533459,
+    "wof:geomhash":"c773e1e167a09ca60da10c28e674a989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840453749
+        }
+    ],
+    "wof:id":840453749,
+    "wof:lastmodified":1463533459,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.510866,
+    30.726631,
+    -90.510866,
+    30.726631
+],
+  "geometry": {"coordinates":[-90.51086599999999,30.726631],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840377335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.244944,30.262983,-91.244944,30.262983",
+    "geom:latitude":30.262983,
+    "geom:longitude":-91.244944,
+    "iso:country":"US",
+    "sg:address":"59315 River West Dr",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 767 3900",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BYAdEL8TDGnwl6skyIeuj_30.262983_-91.244944@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530238,
+    "wof:geomhash":"a618ea072c17e8ee7e0f460aaed39b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840377335
+        }
+    ],
+    "wof:id":840377335,
+    "wof:lastmodified":1463530238,
+    "wof:name":"Louisiana Cardiology Assoc",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.244944,
+    30.262983,
+    -91.244944,
+    30.262983
+],
+  "geometry": {"coordinates":[-91.244944,30.262983],"type":"Point"}
+}

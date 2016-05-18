@@ -1,0 +1,76 @@
+{
+  "id": 840359085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.101333,29.675128,-91.101333,29.675128",
+    "geom:latitude":29.675128,
+    "geom:longitude":-91.101333,
+    "iso:country":"US",
+    "sg:address":"1410 Lake Palourde Rd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 631 2683",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iU47wf6CMQtBnWasQ3fin_29.675128_-91.101333@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529344,
+    "wof:geomhash":"c17cb4f0189c173c49ea5b9ae0fe3248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840359085
+        }
+    ],
+    "wof:id":840359085,
+    "wof:lastmodified":1463529344,
+    "wof:name":"Leroy's Barber Shop",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.101333,
+    29.675128,
+    -91.101333,
+    29.675128
+],
+  "geometry": {"coordinates":[-91.101333,29.675128],"type":"Point"}
+}

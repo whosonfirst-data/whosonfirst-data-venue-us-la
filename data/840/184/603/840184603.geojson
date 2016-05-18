@@ -1,0 +1,71 @@
+{
+  "id": 840184603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.097785,30.416114,-91.097785,30.416114",
+    "geom:latitude":30.416114,
+    "geom:longitude":-91.097785,
+    "iso:country":"US",
+    "sg:address":"8890 Quarters Lake Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 924 1104",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tuGwyeVgu428gUyeoOqKU_30.416114_-91.097785@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523007,
+    "wof:geomhash":"9c3788568e0f47261e2a3db7e8fa456a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840184603
+        }
+    ],
+    "wof:id":840184603,
+    "wof:lastmodified":1463523007,
+    "wof:name":"Health System Inc",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.097785,
+    30.416114,
+    -91.097785,
+    30.416114
+],
+  "geometry": {"coordinates":[-91.097785,30.416114],"type":"Point"}
+}

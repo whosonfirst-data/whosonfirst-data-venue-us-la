@@ -1,0 +1,73 @@
+{
+  "id": 840356367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.075331,30.197688,-92.075331,30.197688",
+    "geom:latitude":30.197688,
+    "geom:longitude":-92.075331,
+    "iso:country":"US",
+    "sg:address":"2810 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 769 1570",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jHlAfX08E0ftdyeXa7HgZ_30.197688_-92.075331@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529228,
+    "wof:geomhash":"0f75f4fe769060757be93b1b171794a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840356367
+        }
+    ],
+    "wof:id":840356367,
+    "wof:lastmodified":1463529228,
+    "wof:name":"Diagnostic Radiology Group Inc",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.075331,
+    30.197688,
+    -92.075331,
+    30.197688
+],
+  "geometry": {"coordinates":[-92.07533100000001,30.197688],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 840006235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.081431,30.022396,-90.081431,30.022396",
+    "geom:latitude":30.022396,
+    "geom:longitude":-90.081431,
+    "iso:country":"US",
+    "sg:address":"1325 Frankfort St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 288 2338",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85850401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VYaAMysOmFp3vd6wag4NE_30.022396_-90.081431@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519124,
+    "wof:geomhash":"4094da660d2b9b1885e4ca1d9b553acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85850401,
+            "region_id":85688735,
+            "venue_id":840006235
+        }
+    ],
+    "wof:id":840006235,
+    "wof:lastmodified":1463519124,
+    "wof:name":"Baker Maid Products Inc",
+    "wof:parent_id":85850401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.081431,
+    30.022396,
+    -90.081431,
+    30.022396
+],
+  "geometry": {"coordinates":[-90.08143099999999,30.022396],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 840035477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.020675,30.218651,-92.020675,30.218651",
+    "geom:latitude":30.218651,
+    "geom:longitude":-92.020675,
+    "iso:country":"US",
+    "sg:address":"1206 Lee Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 4458",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop",
+        "electrolysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dkfkvpsnWT8DUypiGpAIj_30.218651_-92.020675@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519741,
+    "wof:geomhash":"d647f4d92ca9fe86d9c21472cd422716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840035477
+        }
+    ],
+    "wof:id":840035477,
+    "wof:lastmodified":1463519741,
+    "wof:name":"Ransonet Electrolysis Center",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "electrolysis"
+    ]
+},
+  "bbox": [
+    -92.020675,
+    30.218651,
+    -92.020675,
+    30.218651
+],
+  "geometry": {"coordinates":[-92.020675,30.218651],"type":"Point"}
+}

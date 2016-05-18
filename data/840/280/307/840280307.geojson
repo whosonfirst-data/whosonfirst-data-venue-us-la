@@ -1,0 +1,71 @@
+{
+  "id": 840280307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.862704,30.305081,-89.862704,30.305081",
+    "geom:latitude":30.305081,
+    "geom:longitude":-89.862704,
+    "iso:country":"US",
+    "sg:address":"2685 US Hwy 190",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 643 7784",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85852271,
+        102082453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sijGybvNLFFHucUtVtAxZ_30.305081_-89.862704@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525627,
+    "wof:geomhash":"dca4324125c63bd43e0b9f73e73c244e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85852271,
+            "region_id":85688735,
+            "venue_id":840280307
+        }
+    ],
+    "wof:id":840280307,
+    "wof:lastmodified":1463525627,
+    "wof:name":"Waste Management Inc",
+    "wof:parent_id":85852271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -89.862704,
+    30.305081,
+    -89.862704,
+    30.305081
+],
+  "geometry": {"coordinates":[-89.86270399999999,30.305081],"type":"Point"}
+}

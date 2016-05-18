@@ -1,0 +1,73 @@
+{
+  "id": 840315875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.099271,29.92185,-90.099271,29.92185",
+    "geom:latitude":29.92185,
+    "geom:longitude":-90.099271,
+    "iso:country":"US",
+    "sg:address":"912 Milan St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 897 3133",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GXko8F4JUHMZMnbAaXGax_29.921850_-90.099271@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527259,
+    "wof:geomhash":"b25cbed358965d9e60badc9d63791935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840315875
+        }
+    ],
+    "wof:id":840315875,
+    "wof:lastmodified":1463527259,
+    "wof:name":"Russell's Upholstery",
+    "wof:parent_id":85866115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -90.099271,
+    29.92185,
+    -90.099271,
+    29.92185
+],
+  "geometry": {"coordinates":[-90.099271,29.92185],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840454513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505592,29.80567,-91.505592,29.80567",
+    "geom:latitude":29.80567,
+    "geom:longitude":-91.505592,
+    "iso:country":"US",
+    "sg:address":"1724 Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/franklin/72980-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 2306",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fsSNh0KNrBx3wKRG5eYWG_29.805670_-91.505592@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533487,
+    "wof:geomhash":"9f6d78f8d4c563cf587dd2527102955e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840454513
+        }
+    ],
+    "wof:id":840454513,
+    "wof:lastmodified":1463533487,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.505592,
+    29.80567,
+    -91.505592,
+    29.80567
+],
+  "geometry": {"coordinates":[-91.50559199999999,29.80567],"type":"Point"}
+}

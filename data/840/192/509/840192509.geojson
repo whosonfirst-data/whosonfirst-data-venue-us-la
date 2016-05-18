@@ -1,0 +1,73 @@
+{
+  "id": 840192509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.094215,30.167023,-92.094215,30.167023",
+    "geom:latitude":30.167023,
+    "geom:longitude":-92.094215,
+    "iso:country":"US",
+    "sg:address":"326 Duhon Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1779",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BTiPG8gr4HKqpIoRY65ts_30.167023_-92.094215@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523160,
+    "wof:geomhash":"a809c7258a5cbc9dbfaf55eb25c359ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840192509
+        }
+    ],
+    "wof:id":840192509,
+    "wof:lastmodified":1463523160,
+    "wof:name":"Clock House",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -92.094215,
+    30.167023,
+    -92.094215,
+    30.167023
+],
+  "geometry": {"coordinates":[-92.09421500000001,30.167023],"type":"Point"}
+}

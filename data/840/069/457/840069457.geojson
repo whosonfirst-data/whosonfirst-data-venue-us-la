@@ -1,0 +1,75 @@
+{
+  "id": 840069457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.925545,30.031724,-89.925545,30.031724",
+    "geom:latitude":30.031724,
+    "geom:longitude":-89.925545,
+    "iso:country":"US",
+    "sg:address":"13500 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 254 9431",
+    "sg:postcode":"70129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85833951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z9rSTDwDuJMFJFFeA7pK3_30.031724_-89.925545@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520468,
+    "wof:geomhash":"d77c1321606a67b5a2db20fc8d25a36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85833951,
+            "region_id":85688735,
+            "venue_id":840069457
+        }
+    ],
+    "wof:id":840069457,
+    "wof:lastmodified":1463520468,
+    "wof:name":"Maison Orleans Nursing Home",
+    "wof:parent_id":85833951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -89.925545,
+    30.031724,
+    -89.925545,
+    30.031724
+],
+  "geometry": {"coordinates":[-89.925545,30.031724],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840371423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.241692,30.286379,-91.241692,30.286379",
+    "geom:latitude":30.286379,
+    "geom:longitude":-91.241692,
+    "iso:country":"US",
+    "sg:address":"58311 Plaquemine St",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 687 9261",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zLtYfNryWsl6KIwTqrY1T_30.286379_-91.241692@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529962,
+    "wof:geomhash":"50a48dc97087619cf8a523648f3fbab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840371423
+        }
+    ],
+    "wof:id":840371423,
+    "wof:lastmodified":1463529962,
+    "wof:name":"Iberville Mental Health Clinic",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.241692,
+    30.286379,
+    -91.241692,
+    30.286379
+],
+  "geometry": {"coordinates":[-91.241692,30.286379],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840305481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.190202,32.515869,-92.190202,32.515869",
+    "geom:latitude":32.515869,
+    "geom:longitude":-92.190202,
+    "iso:country":"US",
+    "sg:address":"5305 Cypress St",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 396 1502",
+    "sg:postcode":"71291",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RL05qqVddLQdNNK5IQrp0_32.515869_-92.190202@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526784,
+    "wof:geomhash":"f913393355186ba2b1d64342e40daebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840305481
+        }
+    ],
+    "wof:id":840305481,
+    "wof:lastmodified":1463526784,
+    "wof:name":"Modern Cleaners West",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.190202,
+    32.515869,
+    -92.190202,
+    32.515869
+],
+  "geometry": {"coordinates":[-92.190202,32.515869],"type":"Point"}
+}

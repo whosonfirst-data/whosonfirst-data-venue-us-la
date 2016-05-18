@@ -1,0 +1,71 @@
+{
+  "id": 840309377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.222449,30.210063,-93.222449,30.210063",
+    "geom:latitude":30.210063,
+    "geom:longitude":-93.222449,
+    "iso:country":"US",
+    "sg:address":"222 Louie St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6719",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UoAp9lNN2KIOvTy68ykjB_30.210063_-93.222449@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526968,
+    "wof:geomhash":"efb7aec1d29ed4cbcedbfac619ee8ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840309377
+        }
+    ],
+    "wof:id":840309377,
+    "wof:lastmodified":1463526968,
+    "wof:name":"Tower Oaks Apartments",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.222449,
+    30.210063,
+    -93.222449,
+    30.210063
+],
+  "geometry": {"coordinates":[-93.222449,30.210063],"type":"Point"}
+}

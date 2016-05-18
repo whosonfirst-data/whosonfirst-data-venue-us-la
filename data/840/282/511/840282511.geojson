@@ -1,0 +1,73 @@
+{
+  "id": 840282511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.090329,32.466285,-92.090329,32.466285",
+    "geom:latitude":32.466285,
+    "geom:longitude":-92.090329,
+    "iso:country":"US",
+    "sg:address":"1808 Bernstein Park Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 4826",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85822879,
+        102081027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ErqTkPj2qJ5I1CjzRp5U0_32.466285_-92.090329@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525737,
+    "wof:geomhash":"c142a68e74791c3d40e9cd6f7a5f1818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "neighbourhood_id":85822879,
+            "region_id":85688735,
+            "venue_id":840282511
+        }
+    ],
+    "wof:id":840282511,
+    "wof:lastmodified":1463525737,
+    "wof:name":"Edward's Body Works",
+    "wof:parent_id":85822879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -92.090329,
+    32.466285,
+    -92.090329,
+    32.466285
+],
+  "geometry": {"coordinates":[-92.090329,32.466285],"type":"Point"}
+}

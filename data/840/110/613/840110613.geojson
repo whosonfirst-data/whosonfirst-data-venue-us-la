@@ -1,0 +1,73 @@
+{
+  "id": 840110613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.881877,30.061566,-91.881877,30.061566",
+    "geom:latitude":30.061566,
+    "geom:longitude":-91.881877,
+    "iso:country":"US",
+    "sg:address":"106 Coteau Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 9862",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dOEgI5wSopWGiJk0XGome_30.061566_-91.881877@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521440,
+    "wof:geomhash":"6fc9b60dd70e4afaa15136cf38c3d8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840110613
+        }
+    ],
+    "wof:id":840110613,
+    "wof:lastmodified":1463521440,
+    "wof:name":"State Wide Electric Contractor",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.881877,
+    30.061566,
+    -91.881877,
+    30.061566
+],
+  "geometry": {"coordinates":[-91.881877,30.061566],"type":"Point"}
+}

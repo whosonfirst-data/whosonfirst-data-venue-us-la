@@ -1,0 +1,71 @@
+{
+  "id": 840266265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.463186,31.269935,-92.463186,31.269935",
+    "geom:latitude":31.269935,
+    "geom:longitude":-92.463186,
+    "iso:country":"US",
+    "sg:address":"2416 Linwood Ln",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 4449",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7648afCydOjDQV9gqVq2In_31.269935_-92.463186@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524984,
+    "wof:geomhash":"b33d71dabb50717d8c6692104195b3cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840266265
+        }
+    ],
+    "wof:id":840266265,
+    "wof:lastmodified":1463524984,
+    "wof:name":"A Plus Cleaning",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -92.463186,
+    31.269935,
+    -92.463186,
+    31.269935
+],
+  "geometry": {"coordinates":[-92.46318599999999,31.269935],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840454265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.011293,30.207929,-92.011293,30.207929",
+    "geom:latitude":30.207929,
+    "geom:longitude":-92.011293,
+    "iso:country":"US",
+    "sg:address":"616 W Pinhook Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/201440-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 0881",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XOW9OZGoEXjQQwjNyuAm4_30.207929_-92.011293@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533478,
+    "wof:geomhash":"ab755bac435296be4aa8a6b8ea9c3fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840454265
+        }
+    ],
+    "wof:id":840454265,
+    "wof:lastmodified":1463533478,
+    "wof:name":"Sonic",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.011293,
+    30.207929,
+    -92.011293,
+    30.207929
+],
+  "geometry": {"coordinates":[-92.01129299999999,30.207929],"type":"Point"}
+}

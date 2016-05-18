@@ -1,0 +1,73 @@
+{
+  "id": 840426871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.800579,30.279052,-89.800579,30.279052",
+    "geom:latitude":30.279052,
+    "geom:longitude":-89.800579,
+    "iso:country":"US",
+    "sg:address":"58071 Apache St",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 643 0508",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hb1ESccmr07jYAS1AVi5I_30.279052_-89.800579@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532307,
+    "wof:geomhash":"9d9faafdff07071cd4dc4df169d44812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":840426871
+        }
+    ],
+    "wof:id":840426871,
+    "wof:lastmodified":1463532307,
+    "wof:name":"D & L Transport",
+    "wof:parent_id":85810351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.800579,
+    30.279052,
+    -89.800579,
+    30.279052
+],
+  "geometry": {"coordinates":[-89.800579,30.279052],"type":"Point"}
+}

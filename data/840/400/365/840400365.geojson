@@ -1,0 +1,75 @@
+{
+  "id": 840400365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.736832,30.063657,-91.736832,30.063657",
+    "geom:latitude":30.063657,
+    "geom:longitude":-91.736832,
+    "iso:country":"US",
+    "sg:address":"801 N Main St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 6912",
+    "sg:postcode":"70552",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53qnlGoisz83rVPUAKd3u2_30.063657_-91.736832@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531227,
+    "wof:geomhash":"b61ec7fa55d3f1f5dd1c8937323c1a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840400365
+        }
+    ],
+    "wof:id":840400365,
+    "wof:lastmodified":1463531227,
+    "wof:name":"T & R Repairs",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -91.736832,
+    30.063657,
+    -91.736832,
+    30.063657
+],
+  "geometry": {"coordinates":[-91.73683200000001,30.063657],"type":"Point"}
+}

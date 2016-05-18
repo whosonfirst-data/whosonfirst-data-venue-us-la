@@ -1,0 +1,71 @@
+{
+  "id": 840223763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.067217,30.200431,-92.067217,30.200431",
+    "geom:latitude":30.200431,
+    "geom:longitude":-92.067217,
+    "iso:country":"US",
+    "sg:address":"3922 W Congress St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 9693",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dgd8I43Mm51yddVpVVLmd_30.200431_-92.067217@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523917,
+    "wof:geomhash":"0ad4537e30e66a9d01f357fac320adbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840223763
+        }
+    ],
+    "wof:id":840223763,
+    "wof:lastmodified":1463523917,
+    "wof:name":"Congress Cleaners",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.067217,
+    30.200431,
+    -92.067217,
+    30.200431
+],
+  "geometry": {"coordinates":[-92.067217,30.200431],"type":"Point"}
+}

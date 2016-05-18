@@ -1,0 +1,67 @@
+{
+  "id": 840318335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.373536,30.218243,-93.373536,30.218243",
+    "geom:latitude":30.218243,
+    "geom:longitude":-93.373536,
+    "iso:country":"US",
+    "sg:address":"202 Henning Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 9044",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:website":"www.cajuncharlies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39MXKEo69TKdC5P8PpiVCU_30.218243_-93.373536@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527376,
+    "wof:geomhash":"169725ec6ba4b83dc60ff571c477db84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840318335
+        }
+    ],
+    "wof:id":840318335,
+    "wof:lastmodified":1463527376,
+    "wof:name":"Cajun Charlie's Restaurant",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.373536,
+    30.218243,
+    -93.373536,
+    30.218243
+],
+  "geometry": {"coordinates":[-93.373536,30.218243],"type":"Point"}
+}

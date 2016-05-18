@@ -1,0 +1,80 @@
+{
+  "id": 840423907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.446407,31.266149,-92.446407,31.266149",
+    "geom:latitude":31.266149,
+    "geom:longitude":-92.446407,
+    "iso:country":"US",
+    "sg:address":"3648 Government St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 473 1014",
+    "sg:postcode":"71302",
+    "sg:province":"LA",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hy6V0vrfQw6o7GT9QLBtZ_31.266149_-92.446407@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532188,
+    "wof:geomhash":"aa9e9b86f33ade9dacc4f543f5b6456d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840423907
+        }
+    ],
+    "wof:id":840423907,
+    "wof:lastmodified":1463532188,
+    "wof:name":"Concentra Managed Care Inc",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -92.446407,
+    31.266149,
+    -92.446407,
+    31.266149
+],
+  "geometry": {"coordinates":[-92.44640699999999,31.266149],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 840339379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.363668,30.231146,-93.363668,30.231146",
+    "geom:latitude":30.231146,
+    "geom:longitude":-93.363668,
+    "iso:country":"US",
+    "sg:address":"1148 Cypress St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 1177",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yt3WtQViidVg1L9neaaIw_30.231146_-93.363668@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528379,
+    "wof:geomhash":"11da59137963e29a7c324c2f439cda09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840339379
+        }
+    ],
+    "wof:id":840339379,
+    "wof:lastmodified":1463528379,
+    "wof:name":"Hardy Construction",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.363668,
+    30.231146,
+    -93.363668,
+    30.231146
+],
+  "geometry": {"coordinates":[-93.363668,30.231146],"type":"Point"}
+}

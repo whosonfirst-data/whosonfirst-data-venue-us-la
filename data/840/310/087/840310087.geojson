@@ -1,0 +1,71 @@
+{
+  "id": 840310087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218732,30.204389,-93.218732,30.204389",
+    "geom:latitude":30.204389,
+    "geom:longitude":-93.218732,
+    "iso:country":"US",
+    "sg:address":"2800 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 4962",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ken4c3cRLbzwfdffHbZD3_30.204389_-93.218732@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527006,
+    "wof:geomhash":"b94a2142934122ec48b0bc842c9ad273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840310087
+        }
+    ],
+    "wof:id":840310087,
+    "wof:lastmodified":1463527006,
+    "wof:name":"Market Basket Food Stores",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.218732,
+    30.204389,
+    -93.218732,
+    30.204389
+],
+  "geometry": {"coordinates":[-93.218732,30.204389],"type":"Point"}
+}

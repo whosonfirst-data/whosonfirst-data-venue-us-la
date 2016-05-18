@@ -1,0 +1,73 @@
+{
+  "id": 840158183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.306315,29.68999,-91.306315,29.68999",
+    "geom:latitude":29.68999,
+    "geom:longitude":-91.306315,
+    "iso:country":"US",
+    "sg:address":"409 Grout St",
+    "sg:city":"Patterson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 3736",
+    "sg:postcode":"70392",
+    "sg:province":"LA",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t7xjFa41bYNnvwu6gI1AC_29.689990_-91.306315@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522410,
+    "wof:geomhash":"3c36683e9a119e5361d96ad768f12cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840158183
+        }
+    ],
+    "wof:id":840158183,
+    "wof:lastmodified":1463522410,
+    "wof:name":"PATTERSON Housing Authority",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -91.306315,
+    29.68999,
+    -91.306315,
+    29.68999
+],
+  "geometry": {"coordinates":[-91.306315,29.68999],"type":"Point"}
+}

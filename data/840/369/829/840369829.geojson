@@ -1,0 +1,73 @@
+{
+  "id": 840369829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.114541,32.499362,-92.114541,32.499362",
+    "geom:latitude":32.499362,
+    "geom:longitude":-92.114541,
+    "iso:country":"US",
+    "sg:address":"309 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 327 4105",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40cQ1rE5mYPPLufjqZoPk2_32.499362_-92.114541@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529893,
+    "wof:geomhash":"1937df76de638b2f70ac5f05f9db6b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840369829
+        }
+    ],
+    "wof:id":840369829,
+    "wof:lastmodified":1463529893,
+    "wof:name":"Geisler Blanchard Blanchard",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.114541,
+    32.499362,
+    -92.114541,
+    32.499362
+],
+  "geometry": {"coordinates":[-92.114541,32.499362],"type":"Point"}
+}

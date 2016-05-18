@@ -1,0 +1,80 @@
+{
+  "id": 840000695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.042246,29.924962,-90.042246,29.924962",
+    "geom:latitude":29.924962,
+    "geom:longitude":-90.042246,
+    "iso:country":"US",
+    "sg:address":"1408 Romain St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 367 1900",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Be4ApK6InloCt8vH9SZEC_29.924962_-90.042246@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519008,
+    "wof:geomhash":"764165f7189ae909f0388fceb852dfa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":840000695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840000695
+        }
+    ],
+    "wof:id":840000695,
+    "wof:lastmodified":1463519008,
+    "wof:name":"Randazzo VTI Medical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.042246,
+    29.924962,
+    -90.042246,
+    29.924962
+],
+  "geometry": {"coordinates":[-90.04224600000001,29.924962],"type":"Point"}
+}

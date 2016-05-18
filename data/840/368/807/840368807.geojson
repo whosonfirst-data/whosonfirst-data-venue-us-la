@@ -1,0 +1,71 @@
+{
+  "id": 840368807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.226236,30.176231,-93.226236,30.176231",
+    "geom:latitude":30.176231,
+    "geom:longitude":-93.226236,
+    "iso:country":"US",
+    "sg:address":"406 W McNeese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 4252",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l93Z84e0OjEDO5K5hBZCn_30.176231_-93.226236@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529820,
+    "wof:geomhash":"bb1e8bb02d062506a34d3df0f5e147ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840368807
+        }
+    ],
+    "wof:id":840368807,
+    "wof:lastmodified":1463529820,
+    "wof:name":"Gill Animal Hospital Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.226236,
+    30.176231,
+    -93.226236,
+    30.176231
+],
+  "geometry": {"coordinates":[-93.226236,30.176231],"type":"Point"}
+}

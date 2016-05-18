@@ -1,0 +1,74 @@
+{
+  "id": 840453431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.065235,29.948295,-90.065235,29.948295",
+    "geom:latitude":29.948295,
+    "geom:longitude":-90.065235,
+    "iso:country":"US",
+    "sg:address":"200 Poydras St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Brewery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/21442-gordon-biersch-brewery-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 552 2739",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60uDK7NqGEwMCnNIC5WuZF_29.948295_-90.065235@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533442,
+    "wof:geomhash":"06cc85f11c6906495791839611e04335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866969,
+            "region_id":85688735,
+            "venue_id":840453431
+        }
+    ],
+    "wof:id":840453431,
+    "wof:lastmodified":1463533442,
+    "wof:name":"Gordon Biersch Brewery Restaurant",
+    "wof:parent_id":85866969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.065235,
+    29.948295,
+    -90.065235,
+    29.948295
+],
+  "geometry": {"coordinates":[-90.065235,29.948295],"type":"Point"}
+}

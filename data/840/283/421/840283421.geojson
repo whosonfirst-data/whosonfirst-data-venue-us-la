@@ -1,0 +1,73 @@
+{
+  "id": 840283421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.844765,32.60229,-93.844765,32.60229",
+    "geom:latitude":32.60229,
+    "geom:longitude":-93.844765,
+    "iso:country":"US",
+    "sg:address":"5885 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 5354",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DJlQkelFsKyE4i66PvNaL_32.602290_-93.844765@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525772,
+    "wof:geomhash":"88fad0f9c577323f838acbc69dc198fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840283421
+        }
+    ],
+    "wof:id":840283421,
+    "wof:lastmodified":1463525772,
+    "wof:name":"Palmer's Auto Sales",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.844765,
+    32.60229,
+    -93.844765,
+    32.60229
+],
+  "geometry": {"coordinates":[-93.844765,32.60229],"type":"Point"}
+}

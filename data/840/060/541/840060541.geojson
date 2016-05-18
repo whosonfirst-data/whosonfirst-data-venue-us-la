@@ -1,0 +1,75 @@
+{
+  "id": 840060541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.027637,30.216634,-92.027637,30.216634",
+    "geom:latitude":30.216634,
+    "geom:longitude":-92.027637,
+    "iso:country":"US",
+    "sg:address":"514 Saint Landry St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 2020",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HzS0gRt14AtIOeBMpSQQx_30.216634_-92.027637@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520287,
+    "wof:geomhash":"5aeb02396c340fbf2c470e9298468f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840060541
+        }
+    ],
+    "wof:id":840060541,
+    "wof:lastmodified":1463520287,
+    "wof:name":"Laser & Surgery Ctr",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -92.027637,
+    30.216634,
+    -92.027637,
+    30.216634
+],
+  "geometry": {"coordinates":[-92.027637,30.216634],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840195015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.484183,30.579108,-90.484183,30.579108",
+    "geom:latitude":30.579108,
+    "geom:longitude":-90.484183,
+    "iso:country":"US",
+    "sg:address":"50081 Hwy 51",
+    "sg:city":"Tickfaw",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 0472",
+    "sg:postcode":"70466",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZXbgNi8EKJf7JHFMtHLgf_30.579108_-90.484183@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523218,
+    "wof:geomhash":"378df9a3d10d34c84032119706c38d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840195015
+        }
+    ],
+    "wof:id":840195015,
+    "wof:lastmodified":1463523218,
+    "wof:name":"Tickfaw Police Dept",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.484183,
+    30.579108,
+    -90.484183,
+    30.579108
+],
+  "geometry": {"coordinates":[-90.484183,30.579108],"type":"Point"}
+}

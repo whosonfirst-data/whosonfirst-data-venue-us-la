@@ -1,0 +1,71 @@
+{
+  "id": 840351683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.544578,30.603003,-90.544578,30.603003",
+    "geom:latitude":30.603003,
+    "geom:longitude":-90.544578,
+    "iso:country":"US",
+    "sg:address":"52152 S Evans Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 878 6692",
+    "sg:postcode":"70443",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ej0EADzKVHy6P1vSewqKB_30.603003_-90.544578@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528990,
+    "wof:geomhash":"b2f152a802230d5e1c5f0f98b52116a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840351683
+        }
+    ],
+    "wof:id":840351683,
+    "wof:lastmodified":1463528990,
+    "wof:name":"J & D Transmission Specs",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.544578,
+    30.603003,
+    -90.544578,
+    30.603003
+],
+  "geometry": {"coordinates":[-90.544578,30.603003],"type":"Point"}
+}

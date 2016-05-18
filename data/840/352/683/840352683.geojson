@@ -1,0 +1,73 @@
+{
+  "id": 840352683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.037768,29.982966,-90.037768,29.982966",
+    "geom:latitude":29.982966,
+    "geom:longitude":-90.037768,
+    "iso:country":"US",
+    "sg:address":"2630 Louisa St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 7921",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oj8UXYXBUYmtnNSXeB6Yu_29.982966_-90.037768@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529046,
+    "wof:geomhash":"29b2466343c259c64c2226b47c32da01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866091,
+            "region_id":85688735,
+            "venue_id":840352683
+        }
+    ],
+    "wof:id":840352683,
+    "wof:lastmodified":1463529046,
+    "wof:name":"Roman Cleaners",
+    "wof:parent_id":85866091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.037768,
+    29.982966,
+    -90.037768,
+    29.982966
+],
+  "geometry": {"coordinates":[-90.037768,29.982966],"type":"Point"}
+}

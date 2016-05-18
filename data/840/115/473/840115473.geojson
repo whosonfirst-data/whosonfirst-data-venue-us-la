@@ -1,0 +1,71 @@
+{
+  "id": 840115473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.25278,30.168701,-93.25278,30.168701",
+    "geom:latitude":30.168701,
+    "geom:longitude":-93.25278,
+    "iso:country":"US",
+    "sg:address":"2001 Country Club Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 9918",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lubricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rFKHHm430abc1787iexEb_30.168701_-93.252780@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521545,
+    "wof:geomhash":"28c4e0d583050297ac38e818603c81a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840115473
+        }
+    ],
+    "wof:id":840115473,
+    "wof:lastmodified":1463521545,
+    "wof:name":"Doug's Quick Lube",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricating"
+    ]
+},
+  "bbox": [
+    -93.25278,
+    30.168701,
+    -93.25278,
+    30.168701
+],
+  "geometry": {"coordinates":[-93.25278,30.168701],"type":"Point"}
+}

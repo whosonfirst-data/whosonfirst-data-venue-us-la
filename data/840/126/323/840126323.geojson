@@ -1,0 +1,73 @@
+{
+  "id": 840126323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.210635,30.456536,-91.210635,30.456536",
+    "geom:latitude":30.456536,
+    "geom:longitude":-91.210635,
+    "iso:country":"US",
+    "sg:address":"555 N Alexander Ave",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 383 1514",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oq9Rc5YGd1eYlxpQ5mlk8_30.456536_-91.210635@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521776,
+    "wof:geomhash":"52d7e77c32543b9a6247297058d85932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840126323
+        }
+    ],
+    "wof:id":840126323,
+    "wof:lastmodified":1463521776,
+    "wof:name":"Port Allen Tire & Automotive",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.210635,
+    30.456536,
+    -91.210635,
+    30.456536
+],
+  "geometry": {"coordinates":[-91.210635,30.456536],"type":"Point"}
+}

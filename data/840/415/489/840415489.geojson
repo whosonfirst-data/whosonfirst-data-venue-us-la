@@ -1,0 +1,71 @@
+{
+  "id": 840415489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.339729,30.209315,-93.339729,30.209315",
+    "geom:latitude":30.209315,
+    "geom:longitude":-93.339729,
+    "iso:country":"US",
+    "sg:address":"1465 Swisco Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 2728",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AbnMhmA0drk4lU8Pn0KWV_30.209315_-93.339729@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531849,
+    "wof:geomhash":"476c562fe611894a2ad55c55b7bf93f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840415489
+        }
+    ],
+    "wof:id":840415489,
+    "wof:lastmodified":1463531849,
+    "wof:name":"Bertha's Catering Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -93.339729,
+    30.209315,
+    -93.339729,
+    30.209315
+],
+  "geometry": {"coordinates":[-93.33972900000001,30.209315],"type":"Point"}
+}

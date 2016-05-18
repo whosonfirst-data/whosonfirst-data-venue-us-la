@@ -1,0 +1,73 @@
+{
+  "id": 840322631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.099727,30.286931,-92.099727,30.286931",
+    "geom:latitude":30.286931,
+    "geom:longitude":-92.099727,
+    "iso:country":"US",
+    "sg:address":"307 Rue Scholastique",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 8683",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tOg52ODiRRRmeQV5UHA4L_30.286931_-92.099727@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527585,
+    "wof:geomhash":"0af684ac299f319ccd96565d2945bd2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840322631
+        }
+    ],
+    "wof:id":840322631,
+    "wof:lastmodified":1463527585,
+    "wof:name":"Lafayette Parish Water Works",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -92.099727,
+    30.286931,
+    -92.099727,
+    30.286931
+],
+  "geometry": {"coordinates":[-92.099727,30.286931],"type":"Point"}
+}

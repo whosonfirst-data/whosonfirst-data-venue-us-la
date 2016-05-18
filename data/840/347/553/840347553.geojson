@@ -1,0 +1,73 @@
+{
+  "id": 840347553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.469469,31.276242,-92.469469,31.276242",
+    "geom:latitude":31.276242,
+    "geom:longitude":-92.469469,
+    "iso:country":"US",
+    "sg:address":"2003 Macarthur Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 619 7707",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n8qujqJGUfzyCJsbCzkLe_31.276242_-92.469469@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528773,
+    "wof:geomhash":"30e1f3f55d4b4383d6a2d9630e0a633a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840347553
+        }
+    ],
+    "wof:id":840347553,
+    "wof:lastmodified":1463528773,
+    "wof:name":"Hematoloyg Oncology Life Ctr",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.469469,
+    31.276242,
+    -92.469469,
+    31.276242
+],
+  "geometry": {"coordinates":[-92.469469,31.276242],"type":"Point"}
+}

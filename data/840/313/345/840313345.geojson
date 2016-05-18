@@ -1,0 +1,71 @@
+{
+  "id": 840313345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.463082,30.483345,-90.463082,30.483345",
+    "geom:latitude":30.483345,
+    "geom:longitude":-90.463082,
+    "iso:country":"US",
+    "sg:address":"800 C M Fagan Dr",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 5888",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HGTSAbDCiRRDKRjQPutii_30.483345_-90.463082@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527145,
+    "wof:geomhash":"30b26543b4094da68a15df6cc8172898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840313345
+        }
+    ],
+    "wof:id":840313345,
+    "wof:lastmodified":1463527145,
+    "wof:name":"Louisiana Dental Ctr",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.463082,
+    30.483345,
+    -90.463082,
+    30.483345
+],
+  "geometry": {"coordinates":[-90.463082,30.483345],"type":"Point"}
+}

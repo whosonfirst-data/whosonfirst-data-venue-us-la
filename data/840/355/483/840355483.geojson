@@ -1,0 +1,73 @@
+{
+  "id": 840355483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.093703,30.231541,-92.093703,30.231541",
+    "geom:latitude":30.231541,
+    "geom:longitude":-92.093703,
+    "iso:country":"US",
+    "sg:address":"703 Alfred St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 262 1032",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K8Al0qV0ySvnCBwbVudsM_30.231541_-92.093703@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529177,
+    "wof:geomhash":"ca6ebf1237108dde87d306cc0b0efffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840355483
+        }
+    ],
+    "wof:id":840355483,
+    "wof:lastmodified":1463529177,
+    "wof:name":"Council On Aging",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -92.093703,
+    30.231541,
+    -92.093703,
+    30.231541
+],
+  "geometry": {"coordinates":[-92.093703,30.231541],"type":"Point"}
+}

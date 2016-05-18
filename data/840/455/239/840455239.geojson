@@ -1,0 +1,78 @@
+{
+  "id": 840455239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.139908,30.445051,-91.139908,30.445051",
+    "geom:latitude":30.445051,
+    "geom:longitude":-91.139908,
+    "iso:country":"US",
+    "sg:address":"4857 Government St",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/106970-soup-man/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 216 7226",
+    "sg:postcode":"70806",
+    "sg:province":"LA",
+    "sg:tags":[
+        "soup",
+        "american",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85809373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_115cD4Z1lWjctLN0fTKAs7_30.445051_-91.139908@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533512,
+    "wof:geomhash":"e0383421b53f9c156c6a46c1babf84bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85809373,
+            "region_id":85688735,
+            "venue_id":840455239
+        }
+    ],
+    "wof:id":840455239,
+    "wof:lastmodified":1463533512,
+    "wof:name":"Soup Man",
+    "wof:parent_id":85809373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "salad"
+    ]
+},
+  "bbox": [
+    -91.139908,
+    30.445051,
+    -91.139908,
+    30.445051
+],
+  "geometry": {"coordinates":[-91.13990800000001,30.445051],"type":"Point"}
+}

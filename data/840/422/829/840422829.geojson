@@ -1,0 +1,75 @@
+{
+  "id": 840422829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.984859,29.94465,-91.984859,29.94465",
+    "geom:latitude":29.94465,
+    "geom:longitude":-91.984859,
+    "iso:country":"US",
+    "sg:address":"508 Pitre St",
+    "sg:city":"Delcambre",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 685 6339",
+    "sg:postcode":"70528",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nLzLRFDR3ntogegAT4Znc_29.944650_-91.984859@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532144,
+    "wof:geomhash":"da886aaaa0ac15dc82c01f62583634a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840422829
+        }
+    ],
+    "wof:id":840422829,
+    "wof:lastmodified":1463532144,
+    "wof:name":"Pommier Trucking",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.984859,
+    29.94465,
+    -91.984859,
+    29.94465
+],
+  "geometry": {"coordinates":[-91.984859,29.94465],"type":"Point"}
+}

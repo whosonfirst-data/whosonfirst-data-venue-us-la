@@ -1,0 +1,73 @@
+{
+  "id": 840245595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.432582,30.450899,-93.432582,30.450899",
+    "geom:latitude":30.450899,
+    "geom:longitude":-93.432582,
+    "iso:country":"US",
+    "sg:address":"401 E 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 4426",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13lEPfnR8QrqLDVaAIvVrg_30.450899_-93.432582@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524498,
+    "wof:geomhash":"23a6c697badd9856ddc8d58658d4d9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840245595
+        }
+    ],
+    "wof:id":840245595,
+    "wof:lastmodified":1463524498,
+    "wof:name":"Lawco",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -93.432582,
+    30.450899,
+    -93.432582,
+    30.450899
+],
+  "geometry": {"coordinates":[-93.432582,30.450899],"type":"Point"}
+}

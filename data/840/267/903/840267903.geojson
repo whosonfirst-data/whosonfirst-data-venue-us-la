@@ -1,0 +1,73 @@
+{
+  "id": 840267903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.05779,30.201093,-92.05779,30.201093",
+    "geom:latitude":30.201093,
+    "geom:longitude":-92.05779,
+    "iso:country":"US",
+    "sg:address":"124 Westchester Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 4273",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "paint",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DJzjJxKKOewx28vSo45zh_30.201093_-92.057790@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525080,
+    "wof:geomhash":"7f2bedb7e28b6fe7d3878a7424779785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840267903
+        }
+    ],
+    "wof:id":840267903,
+    "wof:lastmodified":1463525080,
+    "wof:name":"Bourgeois Peter Paint Contr",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.05779,
+    30.201093,
+    -92.05779,
+    30.201093
+],
+  "geometry": {"coordinates":[-92.05779,30.201093],"type":"Point"}
+}

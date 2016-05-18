@@ -1,0 +1,68 @@
+{
+  "id": 840029003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.167037,30.004216,-90.167037,30.004216",
+    "geom:latitude":30.004216,
+    "geom:longitude":-90.167037,
+    "iso:country":"US",
+    "sg:address":"3721 Veterans Memorial Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 455 4929",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tz5fOeCRSFnNaAutyRcyb_30.004216_-90.167037@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519603,
+    "wof:geomhash":"ffb437e0b1237823ebb7f82a76775ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840029003
+        }
+    ],
+    "wof:id":840029003,
+    "wof:lastmodified":1463519603,
+    "wof:name":"Barnes & Noble",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.167037,
+    30.004216,
+    -90.167037,
+    30.004216
+],
+  "geometry": {"coordinates":[-90.16703699999999,30.004216],"type":"Point"}
+}

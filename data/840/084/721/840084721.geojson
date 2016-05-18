@@ -1,0 +1,71 @@
+{
+  "id": 840084721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.95025,29.937186,-89.95025,29.937186",
+    "geom:latitude":29.937186,
+    "geom:longitude":-89.95025,
+    "iso:country":"US",
+    "sg:address":"2436 Chalona Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 0655",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bAPzgZ81xr47HtcdUiBJK_29.937186_-89.950250@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520903,
+    "wof:geomhash":"21e754338be7b58fa73b8b6a6e6bd351",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840084721
+        }
+    ],
+    "wof:id":840084721,
+    "wof:lastmodified":1463520903,
+    "wof:name":"Chris Licciardi Dump Truck Svc",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.95025,
+    29.937186,
+    -89.95025,
+    29.937186
+],
+  "geometry": {"coordinates":[-89.95025,29.937186],"type":"Point"}
+}

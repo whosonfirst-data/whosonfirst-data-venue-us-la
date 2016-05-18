@@ -1,0 +1,71 @@
+{
+  "id": 840248939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.826343,30.028096,-91.826343,30.028096",
+    "geom:latitude":30.028096,
+    "geom:longitude":-91.826343,
+    "iso:country":"US",
+    "sg:address":"123 Dalton Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 6376",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yque0nzI4ek4LVeG8lH5L_30.028096_-91.826343@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524580,
+    "wof:geomhash":"d24adc426f6cb8aab5dc99790ce999d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840248939
+        }
+    ],
+    "wof:id":840248939,
+    "wof:lastmodified":1463524580,
+    "wof:name":"Oris Dental Lab",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.826343,
+    30.028096,
+    -91.826343,
+    30.028096
+],
+  "geometry": {"coordinates":[-91.82634299999999,30.028096],"type":"Point"}
+}

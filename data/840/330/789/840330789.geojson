@@ -1,0 +1,71 @@
+{
+  "id": 840330789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.472299,30.501531,-90.472299,30.501531",
+    "geom:latitude":30.501531,
+    "geom:longitude":-90.472299,
+    "iso:country":"US",
+    "sg:address":"1008 W Thomas St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 6855",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vSFhykBcrmbpKSnjRGBEB_30.501531_-90.472299@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527979,
+    "wof:geomhash":"29dc0624eea2378addd126919b1c6d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840330789
+        }
+    ],
+    "wof:id":840330789,
+    "wof:lastmodified":1463527979,
+    "wof:name":"Thomas H Wingo Jr DDS",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.472299,
+    30.501531,
+    -90.472299,
+    30.501531
+],
+  "geometry": {"coordinates":[-90.47229900000001,30.501531],"type":"Point"}
+}

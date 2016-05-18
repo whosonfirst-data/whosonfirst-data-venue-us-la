@@ -1,0 +1,73 @@
+{
+  "id": 840321163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.02069,30.304196,-92.02069,30.304196",
+    "geom:latitude":30.304196,
+    "geom:longitude":-92.02069,
+    "iso:country":"US",
+    "sg:address":"108 Paddock Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 9003",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fK34a7nxcG1Q6wewiebg1_30.304196_-92.020690@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527508,
+    "wof:geomhash":"979d4c03376a26867902f644aac2aa67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840321163
+        }
+    ],
+    "wof:id":840321163,
+    "wof:lastmodified":1463527508,
+    "wof:name":"John Rice Construction",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.02069,
+    30.304196,
+    -92.02069,
+    30.304196
+],
+  "geometry": {"coordinates":[-92.02069,30.304196],"type":"Point"}
+}

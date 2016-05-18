@@ -1,0 +1,73 @@
+{
+  "id": 840210195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.12889,30.199624,-93.12889,30.199624",
+    "geom:latitude":30.199624,
+    "geom:longitude":-93.12889,
+    "iso:country":"US",
+    "sg:address":"3773 State Rte 397",
+    "sg:city":"Iowa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 5815",
+    "sg:postcode":"70647",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aIiexTkHFYmzZVt8EjplH_30.199624_-93.128890@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523629,
+    "wof:geomhash":"6cb3887de7186c80aa0b26dc06695973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840210195
+        }
+    ],
+    "wof:id":840210195,
+    "wof:lastmodified":1463523629,
+    "wof:name":"Service-24",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.12889,
+    30.199624,
+    -93.12889,
+    30.199624
+],
+  "geometry": {"coordinates":[-93.12889,30.199624],"type":"Point"}
+}

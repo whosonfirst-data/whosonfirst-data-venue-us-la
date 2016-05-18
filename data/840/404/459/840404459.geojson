@@ -1,0 +1,73 @@
+{
+  "id": 840404459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.263564,31.139281,-93.263564,31.139281",
+    "geom:latitude":31.139281,
+    "geom:longitude":-93.263564,
+    "iso:country":"US",
+    "sg:address":"611 S 5th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 2709",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "legislative",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72GVTPeW0BuL9jMrkkOeFL_31.139281_-93.263564@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531401,
+    "wof:geomhash":"48ba2cbbfb8907bddb5da0daceba3aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840404459
+        }
+    ],
+    "wof:id":840404459,
+    "wof:lastmodified":1463531401,
+    "wof:name":"John Smith Representative",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body"
+    ]
+},
+  "bbox": [
+    -93.263564,
+    31.139281,
+    -93.263564,
+    31.139281
+],
+  "geometry": {"coordinates":[-93.263564,31.139281],"type":"Point"}
+}

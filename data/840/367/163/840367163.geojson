@@ -1,0 +1,75 @@
+{
+  "id": 840367163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.475787,30.50104,-90.475787,30.50104",
+    "geom:latitude":30.50104,
+    "geom:longitude":-90.475787,
+    "iso:country":"US",
+    "sg:address":"1410 W Thomas St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 902 8468",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HQwXKuvdgUZfh0vKShycA_30.501040_-90.475787@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529742,
+    "wof:geomhash":"e5bf0d528af0e22112778ce9863058c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840367163
+        }
+    ],
+    "wof:id":840367163,
+    "wof:lastmodified":1463529742,
+    "wof:name":"Tint City",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -90.475787,
+    30.50104,
+    -90.475787,
+    30.50104
+],
+  "geometry": {"coordinates":[-90.475787,30.50104],"type":"Point"}
+}

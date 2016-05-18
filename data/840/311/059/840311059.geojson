@@ -1,0 +1,85 @@
+{
+  "id": 840311059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.101312,29.950342,-90.101312,29.950342",
+    "geom:latitude":29.950342,
+    "geom:longitude":-90.101312,
+    "iso:country":"US",
+    "sg:address":"3908 Louisiana Avenue Pkwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 821 1512",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866139,
+        85891209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JhyKj8C5dE9FyxF1VwH9X_29.950342_-90.101312@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527045,
+    "wof:geomhash":"dfa519f9230f58b635ea865e11c4dbe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866139,
+            "region_id":85688735,
+            "venue_id":840311059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891209,
+            "region_id":85688735,
+            "venue_id":840311059
+        }
+    ],
+    "wof:id":840311059,
+    "wof:lastmodified":1463527045,
+    "wof:name":"Millennium 2000 Janitorial Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.101312,
+    29.950342,
+    -90.101312,
+    29.950342
+],
+  "geometry": {"coordinates":[-90.10131199999999,29.950342],"type":"Point"}
+}

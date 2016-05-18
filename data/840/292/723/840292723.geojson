@@ -1,0 +1,73 @@
+{
+  "id": 840292723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.080565,29.932305,-90.080565,29.932305",
+    "geom:latitude":29.932305,
+    "geom:longitude":-90.080565,
+    "iso:country":"US",
+    "sg:address":"1400 Philip St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 565 7290",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iFjto3HtvzSq6NYqL7GxD_29.932305_-90.080565@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526184,
+    "wof:geomhash":"f22a35571d791686d293db95459f64d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821037,
+            "region_id":85688735,
+            "venue_id":840292723
+        }
+    ],
+    "wof:id":840292723,
+    "wof:lastmodified":1463526184,
+    "wof:name":"New Orleans Treme Ctr",
+    "wof:parent_id":85821037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -90.080565,
+    29.932305,
+    -90.080565,
+    29.932305
+],
+  "geometry": {"coordinates":[-90.08056500000001,29.932305],"type":"Point"}
+}

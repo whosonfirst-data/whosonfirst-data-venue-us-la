@@ -1,0 +1,75 @@
+{
+  "id": 840168655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.066964,29.955329,-90.066964,29.955329",
+    "geom:latitude":29.955329,
+    "geom:longitude":-90.066964,
+    "iso:country":"US",
+    "sg:address":"334 Royal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 524 5530",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69EjySzUrKPnnpVIrMmsjk_29.955329_-90.066964@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522631,
+    "wof:geomhash":"ac0c043116173e14c291e1cd20c243b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840168655
+        }
+    ],
+    "wof:id":840168655,
+    "wof:lastmodified":1463522631,
+    "wof:name":"Cafe Beignet",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -90.066964,
+    29.955329,
+    -90.066964,
+    29.955329
+],
+  "geometry": {"coordinates":[-90.066964,29.955329],"type":"Point"}
+}

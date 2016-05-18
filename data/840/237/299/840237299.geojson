@@ -1,0 +1,73 @@
+{
+  "id": 840237299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.0861,32.531349,-92.0861,32.531349",
+    "geom:latitude":32.531349,
+    "geom:longitude":-92.0861,
+    "iso:country":"US",
+    "sg:address":"800 N 33rd St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 5012",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948231,
+        102081027,
+        85819355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V679ZpYWr2I4HGn8alwVZ_32.531349_-92.086100@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524307,
+    "wof:geomhash":"93fa8acf016de9fc0d663361a9603e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85819355,
+            "region_id":85688735,
+            "venue_id":840237299
+        }
+    ],
+    "wof:id":840237299,
+    "wof:lastmodified":1463524307,
+    "wof:name":"La Custom Designs",
+    "wof:parent_id":85819355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -92.0861,
+    32.531349,
+    -92.0861,
+    32.531349
+],
+  "geometry": {"coordinates":[-92.0861,32.531349],"type":"Point"}
+}

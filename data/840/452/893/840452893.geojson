@@ -1,0 +1,78 @@
+{
+  "id": 840452893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.258337,29.982546,-90.258337,29.982546",
+    "geom:latitude":29.982546,
+    "geom:longitude":-90.258337,
+    "iso:country":"US",
+    "sg:address":"1021 Airline Dr",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/avondale/11399-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 464 6536",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530009,
+        85842683,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aokyDXQFvrS4HSUk4mkLU_29.982546_-90.258337@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533419,
+    "wof:geomhash":"c67289e4be1d7675b6fabc4940cd7884",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530009,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840452893
+        }
+    ],
+    "wof:id":840452893,
+    "wof:lastmodified":1463533419,
+    "wof:name":"Denny's",
+    "wof:parent_id":102530009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -90.258337,
+    29.982546,
+    -90.258337,
+    29.982546
+],
+  "geometry": {"coordinates":[-90.258337,29.982546],"type":"Point"}
+}

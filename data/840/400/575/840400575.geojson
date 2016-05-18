@@ -1,0 +1,71 @@
+{
+  "id": 840400575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.964087,29.954069,-89.964087,29.954069",
+    "geom:latitude":29.954069,
+    "geom:longitude":-89.964087,
+    "iso:country":"US",
+    "sg:address":"510 W Genie St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 3400",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AtFf9u1X2aawI8CeMKgKe_29.954069_-89.964087@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531234,
+    "wof:geomhash":"fce9bfbe453254b2854035d1d83145ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840400575
+        }
+    ],
+    "wof:id":840400575,
+    "wof:lastmodified":1463531234,
+    "wof:name":"Euronippon",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.964087,
+    29.954069,
+    -89.964087,
+    29.954069
+],
+  "geometry": {"coordinates":[-89.96408700000001,29.954069],"type":"Point"}
+}

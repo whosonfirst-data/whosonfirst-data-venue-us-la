@@ -1,0 +1,88 @@
+{
+  "id": 840450257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.051201,29.9328,-90.051201,29.9328",
+    "geom:latitude":29.9328,
+    "geom:longitude":-90.051201,
+    "iso:country":"US",
+    "sg:address":"639 Monroe St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 361 3555",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab",
+        "courier",
+        "trucking",
+        "delivery",
+        "operator",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948301,
+        102083179,
+        85833233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E6bpsjkAbMAHFMRhax1Bd_29.932927_-90.051471@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533313,
+    "wof:geomhash":"9b30ce500e803a4aaf3968d7e4d6889a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85833233,
+            "region_id":85688735,
+            "venue_id":840450257
+        }
+    ],
+    "wof:id":840450257,
+    "wof:lastmodified":1463533313,
+    "wof:name":"Glenn's Cab Co",
+    "wof:parent_id":85833233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab",
+        "courier",
+        "trucking",
+        "delivery",
+        "operator",
+        "local"
+    ]
+},
+  "bbox": [
+    -90.051201,
+    29.9328,
+    -90.051201,
+    29.9328
+],
+  "geometry": {"coordinates":[-90.05120100000001,29.9328],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840418007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.358082,30.152757,-93.358082,30.152757",
+    "geom:latitude":30.152757,
+    "geom:longitude":-93.358082,
+    "iso:country":"US",
+    "sg:address":"1035 Nathaniel Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 3217",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MFjzObuXqzFczfuycf8Lo_30.152757_-93.358082@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531944,
+    "wof:geomhash":"dc0d567f473751bc8b5850ee17bfdadc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840418007
+        }
+    ],
+    "wof:id":840418007,
+    "wof:lastmodified":1463531944,
+    "wof:name":"Bergeron Electric",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.358082,
+    30.152757,
+    -93.358082,
+    30.152757
+],
+  "geometry": {"coordinates":[-93.358082,30.152757],"type":"Point"}
+}

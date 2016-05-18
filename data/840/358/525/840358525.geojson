@@ -1,0 +1,71 @@
+{
+  "id": 840358525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.161994,30.227708,-93.161994,30.227708",
+    "geom:latitude":30.227708,
+    "geom:longitude":-93.161994,
+    "iso:country":"US",
+    "sg:address":"3935 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 515 4417",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mvZhpTk57rOQfn23NivJA_30.227708_-93.161994@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529322,
+    "wof:geomhash":"fe582fb0f66816dcb660cd7db9934a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840358525
+        }
+    ],
+    "wof:id":840358525,
+    "wof:lastmodified":1463529322,
+    "wof:name":"Hwy 397 Paint & Body Shop",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.161994,
+    30.227708,
+    -93.161994,
+    30.227708
+],
+  "geometry": {"coordinates":[-93.16199400000001,30.227708],"type":"Point"}
+}

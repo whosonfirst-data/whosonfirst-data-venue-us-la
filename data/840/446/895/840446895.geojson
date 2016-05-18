@@ -1,0 +1,73 @@
+{
+  "id": 840446895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.331202,30.23678,-93.331202,30.23678",
+    "geom:latitude":30.23678,
+    "geom:longitude":-93.331202,
+    "iso:country":"US",
+    "sg:address":"3324 E Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 9358",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "warehouse",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z9A5Q8GpVjjrYeq7IzQez_30.236780_-93.331202@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533159,
+    "wof:geomhash":"34fabc14f70cff31de74f9405c242fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840446895
+        }
+    ],
+    "wof:id":840446895,
+    "wof:lastmodified":1463533159,
+    "wof:name":"Kronos Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public"
+    ]
+},
+  "bbox": [
+    -93.331202,
+    30.23678,
+    -93.331202,
+    30.23678
+],
+  "geometry": {"coordinates":[-93.331202,30.23678],"type":"Point"}
+}

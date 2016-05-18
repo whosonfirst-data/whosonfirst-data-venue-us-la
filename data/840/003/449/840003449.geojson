@@ -1,0 +1,71 @@
+{
+  "id": 840003449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.509471,30.989071,-93.509471,30.989071",
+    "geom:latitude":30.989071,
+    "geom:longitude":-93.509471,
+    "iso:country":"US",
+    "sg:address":"403 Bonner Rd",
+    "sg:city":"Evans",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 286 5497",
+    "sg:postcode":"70639",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bFhRdghC4LpQnfs0TyK93_30.989071_-93.509471@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519065,
+    "wof:geomhash":"6e39bc330ff3a9e0d695c997e0a8744c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840003449
+        }
+    ],
+    "wof:id":840003449,
+    "wof:lastmodified":1463519065,
+    "wof:name":"Galilee Baptist Church",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.509471,
+    30.989071,
+    -93.509471,
+    30.989071
+],
+  "geometry": {"coordinates":[-93.509471,30.989071],"type":"Point"}
+}

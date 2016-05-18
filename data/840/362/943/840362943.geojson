@@ -1,0 +1,71 @@
+{
+  "id": 840362943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213869,30.182335,-93.213869,30.182335",
+    "geom:latitude":30.182335,
+    "geom:longitude":-93.213869,
+    "iso:country":"US",
+    "sg:address":"4141 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 7611",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DzEdCum1wum0RGwXUgt6S_30.182335_-93.213869@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529519,
+    "wof:geomhash":"6c5370980c5085d49dc621dd81c83a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840362943
+        }
+    ],
+    "wof:id":840362943,
+    "wof:lastmodified":1463529519,
+    "wof:name":"Textbook Rentals",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.213869,
+    30.182335,
+    -93.213869,
+    30.182335
+],
+  "geometry": {"coordinates":[-93.213869,30.182335],"type":"Point"}
+}

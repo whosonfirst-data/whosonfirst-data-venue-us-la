@@ -1,0 +1,75 @@
+{
+  "id": 840335263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.103514,29.938869,-90.103514,29.938869",
+    "geom:latitude":29.938869,
+    "geom:longitude":-90.103514,
+    "iso:country":"US",
+    "sg:address":"2820 Napoleon Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 897 4567",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7chSLFbf0omB0hFk5pcfuQ_29.938869_-90.103514@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528192,
+    "wof:geomhash":"aa5797e5a72f9e03a8dab4adffd270c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840335263
+        }
+    ],
+    "wof:id":840335263,
+    "wof:lastmodified":1463528192,
+    "wof:name":"Lanoux & LA Cour",
+    "wof:parent_id":85866127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.103514,
+    29.938869,
+    -90.103514,
+    29.938869
+],
+  "geometry": {"coordinates":[-90.103514,29.938869],"type":"Point"}
+}

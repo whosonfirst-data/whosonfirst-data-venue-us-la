@@ -1,0 +1,74 @@
+{
+  "id": 840457583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.012233,30.246103,-93.012233,30.246103",
+    "geom:latitude":30.246103,
+    "geom:longitude":-93.012233,
+    "iso:country":"US",
+    "sg:address":"203 E Miller Ave",
+    "sg:city":"Iowa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bon-air/132076-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 582 3443",
+    "sg:postcode":"70647",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o9XgMuzxqMUhLm5KFneSU_30.245962_-93.012356@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533599,
+    "wof:geomhash":"dedd04baffa00fea3b83fad845b5f946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840457583
+        }
+    ],
+    "wof:id":840457583,
+    "wof:lastmodified":1463533599,
+    "wof:name":"Subway",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.012233,
+    30.246103,
+    -93.012233,
+    30.246103
+],
+  "geometry": {"coordinates":[-93.01223299999999,30.246103],"type":"Point"}
+}

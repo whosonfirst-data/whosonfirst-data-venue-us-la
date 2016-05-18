@@ -1,0 +1,73 @@
+{
+  "id": 840033203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.027662,30.304472,-92.027662,30.304472",
+    "geom:latitude":30.304472,
+    "geom:longitude":-92.027662,
+    "iso:country":"US",
+    "sg:address":"3360 NE Evangeline Throughway",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 4949",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wbQSqbNt9WLMS5Dlfm2Q5_30.304472_-92.027662@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519699,
+    "wof:geomhash":"8abf289128a18e5f4a391c56da26259b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840033203
+        }
+    ],
+    "wof:id":840033203,
+    "wof:lastmodified":1463519699,
+    "wof:name":"Melancon I-49 Storage Ctr",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -92.027662,
+    30.304472,
+    -92.027662,
+    30.304472
+],
+  "geometry": {"coordinates":[-92.02766200000001,30.304472],"type":"Point"}
+}

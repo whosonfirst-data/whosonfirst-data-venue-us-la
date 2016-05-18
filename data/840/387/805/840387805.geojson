@@ -1,0 +1,73 @@
+{
+  "id": 840387805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0153,30.01061,-90.0153,30.01061",
+    "geom:latitude":30.01061,
+    "geom:longitude":-90.0153,
+    "iso:country":"US",
+    "sg:address":"6201 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 244 8732",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vLX5mMPUTdejLbnStX9qK_30.010610_-90.015300@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530710,
+    "wof:geomhash":"5ce987e77b129ccfd451d4b5d391af68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840387805
+        }
+    ],
+    "wof:id":840387805,
+    "wof:lastmodified":1463530710,
+    "wof:name":"Classic Catering",
+    "wof:parent_id":85866169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -90.0153,
+    30.01061,
+    -90.0153,
+    30.01061
+],
+  "geometry": {"coordinates":[-90.0153,30.01061],"type":"Point"}
+}

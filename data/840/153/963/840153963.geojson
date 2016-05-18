@@ -1,0 +1,73 @@
+{
+  "id": 840153963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.082557,30.438734,-91.082557,30.438734",
+    "geom:latitude":30.438734,
+    "geom:longitude":-91.082557,
+    "iso:country":"US",
+    "sg:address":"1514 Cottondale Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 925 5566",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85807707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V69cUzNaGUcZQmC6JNBbM_30.438734_-91.082557@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522330,
+    "wof:geomhash":"fdceb8086111641523c544bc365e8e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85807707,
+            "region_id":85688735,
+            "venue_id":840153963
+        }
+    ],
+    "wof:id":840153963,
+    "wof:lastmodified":1463522330,
+    "wof:name":"Baton Rouge Pet Emergency Hosp",
+    "wof:parent_id":85807707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.082557,
+    30.438734,
+    -91.082557,
+    30.438734
+],
+  "geometry": {"coordinates":[-91.08255699999999,30.438734],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840307219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.14402,30.233064,-93.14402,30.233064",
+    "geom:latitude":30.233064,
+    "geom:longitude":-93.14402,
+    "iso:country":"US",
+    "sg:address":"536 Wesley St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7229",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MKulHaDPmIyMxdvVjTvgA_30.233064_-93.144020@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526859,
+    "wof:geomhash":"63df7d2336e47cd0c675a59ef7938860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840307219
+        }
+    ],
+    "wof:id":840307219,
+    "wof:lastmodified":1463526859,
+    "wof:name":"Waste Management",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -93.14402,
+    30.233064,
+    -93.14402,
+    30.233064
+],
+  "geometry": {"coordinates":[-93.14402,30.233064],"type":"Point"}
+}

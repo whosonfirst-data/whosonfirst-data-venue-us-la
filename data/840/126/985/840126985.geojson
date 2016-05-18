@@ -1,0 +1,73 @@
+{
+  "id": 840126985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.219062,30.216075,-93.219062,30.216075",
+    "geom:latitude":30.216075,
+    "geom:longitude":-93.219062,
+    "iso:country":"US",
+    "sg:address":"1739 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 9419",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38KufUrBSAZc87gDc9y67j_30.216075_-93.219062@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521792,
+    "wof:geomhash":"f923567d53ae6efe1976d3c70a383bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840126985
+        }
+    ],
+    "wof:id":840126985,
+    "wof:lastmodified":1463521792,
+    "wof:name":"John L Cocchiara MD",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.219062,
+    30.216075,
+    -93.219062,
+    30.216075
+],
+  "geometry": {"coordinates":[-93.21906199999999,30.216075],"type":"Point"}
+}

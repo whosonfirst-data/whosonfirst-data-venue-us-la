@@ -1,0 +1,71 @@
+{
+  "id": 840192205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.231923,30.287994,-91.231923,30.287994",
+    "geom:latitude":30.287994,
+    "geom:longitude":-91.231923,
+    "iso:country":"US",
+    "sg:address":"23805 Church St",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 687 1351",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TJVSC4B2NGopBZxUJXfUg_30.287994_-91.231923@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523152,
+    "wof:geomhash":"63625ec68a42f1de7d8824d0fb7a1222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840192205
+        }
+    ],
+    "wof:id":840192205,
+    "wof:lastmodified":1463523152,
+    "wof:name":"Acadian Animal Clinic",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.231923,
+    30.287994,
+    -91.231923,
+    30.287994
+],
+  "geometry": {"coordinates":[-91.23192299999999,30.287994],"type":"Point"}
+}

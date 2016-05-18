@@ -1,0 +1,71 @@
+{
+  "id": 840026935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.833617,32.135708,-93.833617,32.135708",
+    "geom:latitude":32.135708,
+    "geom:longitude":-93.833617,
+    "iso:country":"US",
+    "sg:address":"7719 US Hwy 171",
+    "sg:city":"Grand Cane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 858 3328",
+    "sg:postcode":"71032",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zVANBfCqKYo44seI036LN_32.135708_-93.833617@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519549,
+    "wof:geomhash":"1b38ecf8f5da036c7eefe44c00d8b7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":840026935
+        }
+    ],
+    "wof:id":840026935,
+    "wof:lastmodified":1463519549,
+    "wof:name":"Desoto Veterinary Hospital",
+    "wof:parent_id":85813793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.833617,
+    32.135708,
+    -93.833617,
+    32.135708
+],
+  "geometry": {"coordinates":[-93.833617,32.135708],"type":"Point"}
+}

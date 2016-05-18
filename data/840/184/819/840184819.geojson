@@ -1,0 +1,71 @@
+{
+  "id": 840184819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213669,30.13837,-93.213669,30.13837",
+    "geom:latitude":30.13837,
+    "geom:longitude":-93.213669,
+    "iso:country":"US",
+    "sg:address":"7098 Gulf Hwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 431 1331",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xDJ7s6WL3Pn7tJ644mT1Z_30.138370_-93.213669@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523012,
+    "wof:geomhash":"ad78d32c20a3799990aedecdc69fb29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840184819
+        }
+    ],
+    "wof:id":840184819,
+    "wof:lastmodified":1463523012,
+    "wof:name":"Calcasieu Parish Sheriff Dept",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -93.213669,
+    30.13837,
+    -93.213669,
+    30.13837
+],
+  "geometry": {"coordinates":[-93.213669,30.13837],"type":"Point"}
+}

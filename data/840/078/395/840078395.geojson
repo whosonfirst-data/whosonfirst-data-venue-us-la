@@ -1,0 +1,73 @@
+{
+  "id": 840078395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.178958,30.267328,-93.178958,30.267328",
+    "geom:latitude":30.267328,
+    "geom:longitude":-93.178958,
+    "iso:country":"US",
+    "sg:address":"2201 Old Hwy 171 N",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 1531",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cowgRkII4e7rj68SaBZlS_30.267328_-93.178958@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520647,
+    "wof:geomhash":"398428bc80caa8fa238050717bd0068e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840078395
+        }
+    ],
+    "wof:id":840078395,
+    "wof:lastmodified":1463520647,
+    "wof:name":"Lake City Auto Sales",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.178958,
+    30.267328,
+    -93.178958,
+    30.267328
+],
+  "geometry": {"coordinates":[-93.17895799999999,30.267328],"type":"Point"}
+}

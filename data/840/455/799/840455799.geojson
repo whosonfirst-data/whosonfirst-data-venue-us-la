@@ -1,0 +1,76 @@
+{
+  "id": 840455799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.01568,30.408416,-91.01568,30.408416",
+    "geom:latitude":30.408416,
+    "geom:longitude":-91.01568,
+    "iso:country":"US",
+    "sg:address":"15232 George Oneal Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/106962-soup-man/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 753 0700",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "soup",
+        "american",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vy1ek2RATYCtFb5pdxp4w_30.408416_-91.015680@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533531,
+    "wof:geomhash":"f774f152d8a9a962cf6beac42b401ce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840455799
+        }
+    ],
+    "wof:id":840455799,
+    "wof:lastmodified":1463533531,
+    "wof:name":"Soup Man",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "salad"
+    ]
+},
+  "bbox": [
+    -91.01568,
+    30.408416,
+    -91.01568,
+    30.408416
+],
+  "geometry": {"coordinates":[-91.01568,30.408416],"type":"Point"}
+}

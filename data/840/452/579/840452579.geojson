@@ -1,0 +1,86 @@
+{
+  "id": 840452579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.158582,30.003228,-90.158582,30.003228",
+    "geom:latitude":30.003228,
+    "geom:longitude":-90.158582,
+    "iso:country":"US",
+    "sg:address":"3434 Veterans Memorial Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/metairie/25576-bennigans-grill--tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 888 0664",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W0TIfmVpj1rFZHsA29Ft5_30.003228_-90.158582@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533406,
+    "wof:geomhash":"67d60bd13ac3851ac9782ece9c612d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840452579
+        }
+    ],
+    "wof:id":840452579,
+    "wof:lastmodified":1463533406,
+    "wof:name":"Bennigan's Grill & Tavern",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -90.158582,
+    30.003228,
+    -90.158582,
+    30.003228
+],
+  "geometry": {"coordinates":[-90.158582,30.003228],"type":"Point"}
+}

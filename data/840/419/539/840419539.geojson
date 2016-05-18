@@ -1,0 +1,75 @@
+{
+  "id": 840419539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.101786,29.937079,-90.101786,29.937079",
+    "geom:latitude":29.937079,
+    "geom:longitude":-90.101786,
+    "iso:country":"US",
+    "sg:address":"2625 General Pershing St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 899 2366",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pEJbrU4866MbHRdUViMOj_29.937079_-90.101786@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532007,
+    "wof:geomhash":"ecba1361609fda52ee442b04e400d0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866119,
+            "region_id":85688735,
+            "venue_id":840419539
+        }
+    ],
+    "wof:id":840419539,
+    "wof:lastmodified":1463532007,
+    "wof:name":"Behavior Therapy Ctr",
+    "wof:parent_id":85866119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.101786,
+    29.937079,
+    -90.101786,
+    29.937079
+],
+  "geometry": {"coordinates":[-90.101786,29.937079],"type":"Point"}
+}

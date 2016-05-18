@@ -1,0 +1,71 @@
+{
+  "id": 840231501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.64216,31.643219,-93.64216,31.643219",
+    "geom:latitude":31.643219,
+    "geom:longitude":-93.64216,
+    "iso:country":"US",
+    "sg:address":"1449 Obrie St",
+    "sg:city":"Zwolle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 645 7055",
+    "sg:postcode":"71486",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zjRBGGC1YeBbYL0TMkl3V_31.643219_-93.642160@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524149,
+    "wof:geomhash":"f0a3bff62ddad446afc5133829d90e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840231501
+        }
+    ],
+    "wof:id":840231501,
+    "wof:lastmodified":1463524149,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.64216,
+    31.643219,
+    -93.64216,
+    31.643219
+],
+  "geometry": {"coordinates":[-93.64216,31.643219],"type":"Point"}
+}

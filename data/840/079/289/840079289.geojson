@@ -1,0 +1,71 @@
+{
+  "id": 840079289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.708418,32.444027,-93.708418,32.444027",
+    "geom:latitude":32.444027,
+    "geom:longitude":-93.708418,
+    "iso:country":"US",
+    "sg:address":"2010 E 70th St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 797 1181",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kX8GZNHSn2z6SQTSEfB9m_32.444027_-93.708418@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520666,
+    "wof:geomhash":"006fc4259ccb0fb63f48f084815a2724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840079289
+        }
+    ],
+    "wof:id":840079289,
+    "wof:lastmodified":1463520666,
+    "wof:name":"Ronald L Crawford DDS",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.708418,
+    32.444027,
+    -93.708418,
+    32.444027
+],
+  "geometry": {"coordinates":[-93.70841799999999,32.444027],"type":"Point"}
+}

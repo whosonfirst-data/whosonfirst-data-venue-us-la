@@ -1,0 +1,73 @@
+{
+  "id": 840323015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.449942,30.455803,-93.449942,30.455803",
+    "geom:latitude":30.455803,
+    "geom:longitude":-93.449942,
+    "iso:country":"US",
+    "sg:address":"168 Louise St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 8751",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40AkGW6nTgwQcrfac3Im69_30.455803_-93.449942@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527615,
+    "wof:geomhash":"cbb5ef4b79914b0c44e4d4e479354823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840323015
+        }
+    ],
+    "wof:id":840323015,
+    "wof:lastmodified":1463527615,
+    "wof:name":"Wheeler's Mini Storage",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.449942,
+    30.455803,
+    -93.449942,
+    30.455803
+],
+  "geometry": {"coordinates":[-93.44994199999999,30.455803],"type":"Point"}
+}

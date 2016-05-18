@@ -1,0 +1,72 @@
+{
+  "id": 840270387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.100852,30.244117,-92.100852,30.244117",
+    "geom:latitude":30.244117,
+    "geom:longitude":-92.100852,
+    "iso:country":"US",
+    "sg:address":"102 Park West Dr",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 593 7000",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "sg:website":"www.landtelweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2So3x5VKHx4uyYs2m93Gnl_30.244117_-92.100852@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525198,
+    "wof:geomhash":"ad40e2395cef8b34eb37abbf235229a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840270387
+        }
+    ],
+    "wof:id":840270387,
+    "wof:lastmodified":1463525198,
+    "wof:name":"Land Tel Communications",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -92.100852,
+    30.244117,
+    -92.100852,
+    30.244117
+],
+  "geometry": {"coordinates":[-92.100852,30.244117],"type":"Point"}
+}

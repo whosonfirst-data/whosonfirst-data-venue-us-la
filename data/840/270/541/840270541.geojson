@@ -1,0 +1,76 @@
+{
+  "id": 840270541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512076,30.729249,-90.512076,30.729249",
+    "geom:latitude":30.729249,
+    "geom:longitude":-90.512076,
+    "iso:country":"US",
+    "sg:address":"214 N 2nd St",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 4901",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28mm9Ss14cWDmb2iR0bIPG_30.729249_-90.512076@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525204,
+    "wof:geomhash":"4ca08a5e1de4eaef920e480e307fddc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840270541
+        }
+    ],
+    "wof:id":840270541,
+    "wof:lastmodified":1463525204,
+    "wof:name":"Andrew's Barber & Style",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.512076,
+    30.729249,
+    -90.512076,
+    30.729249
+],
+  "geometry": {"coordinates":[-90.51207599999999,30.729249],"type":"Point"}
+}

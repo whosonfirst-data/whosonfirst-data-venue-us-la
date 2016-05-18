@@ -1,0 +1,78 @@
+{
+  "id": 840453313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.164401,29.963583,-90.164401,29.963583",
+    "geom:latitude":29.963583,
+    "geom:longitude":-90.164401,
+    "iso:country":"US",
+    "sg:address":"3737 Jefferson Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bridge-city/80214-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 832 3030",
+    "sg:postcode":"70121",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xd5yN6ARBqs1tBxQCMQpB_29.963583_-90.164401@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533437,
+    "wof:geomhash":"276e958c3de5e2e9d647ac381c42e2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840453313
+        }
+    ],
+    "wof:id":840453313,
+    "wof:lastmodified":1463533437,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.164401,
+    29.963583,
+    -90.164401,
+    29.963583
+],
+  "geometry": {"coordinates":[-90.164401,29.963583],"type":"Point"}
+}

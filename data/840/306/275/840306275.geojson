@@ -1,0 +1,73 @@
+{
+  "id": 840306275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213955,30.202037,-93.213955,30.202037",
+    "geom:latitude":30.202037,
+    "geom:longitude":-93.213955,
+    "iso:country":"US",
+    "sg:address":"2915 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6616",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xyOhXWA0m2q0Na1WgwQaK_30.202037_-93.213955@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526822,
+    "wof:geomhash":"682e3d9dbf6184e293aa91f086827532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840306275
+        }
+    ],
+    "wof:id":840306275,
+    "wof:lastmodified":1463526822,
+    "wof:name":"Lake Charles Physical Therapy",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -93.213955,
+    30.202037,
+    -93.213955,
+    30.202037
+],
+  "geometry": {"coordinates":[-93.213955,30.202037],"type":"Point"}
+}

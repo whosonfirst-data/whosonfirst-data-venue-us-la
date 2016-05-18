@@ -1,0 +1,71 @@
+{
+  "id": 840097401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.744201,30.732831,-91.744201,30.732831",
+    "geom:latitude":30.732831,
+    "geom:longitude":-91.744201,
+    "iso:country":"US",
+    "sg:address":"11022 Coon Rd",
+    "sg:city":"Batchelor",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 492 3475",
+    "sg:postcode":"70715",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85868903,
+        102083185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GJoSAyu4OJFKEeupGl7rb_30.732831_-91.744201@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521161,
+    "wof:geomhash":"41538d1f2a354aa817f542e089ac319d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083185,
+            "neighbourhood_id":85868903,
+            "region_id":85688735,
+            "venue_id":840097401
+        }
+    ],
+    "wof:id":840097401,
+    "wof:lastmodified":1463521161,
+    "wof:name":"R & L Wastewater",
+    "wof:parent_id":85868903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -91.744201,
+    30.732831,
+    -91.744201,
+    30.732831
+],
+  "geometry": {"coordinates":[-91.744201,30.732831],"type":"Point"}
+}

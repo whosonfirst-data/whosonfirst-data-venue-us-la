@@ -1,0 +1,69 @@
+{
+  "id": 840361381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.024317,30.359858,-91.024317,30.359858",
+    "geom:latitude":30.359858,
+    "geom:longitude":-91.024317,
+    "iso:country":"US",
+    "sg:address":"10003 Barringer Foreman Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 754 7774",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pDeLMnUGALUaWgQXXak3J_30.359858_-91.024317@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529450,
+    "wof:geomhash":"3e907eca5803a3eeca9b337daaa08091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840361381
+        }
+    ],
+    "wof:id":840361381,
+    "wof:lastmodified":1463529450,
+    "wof:name":"Cody's Hot Shot Svc",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -91.024317,
+    30.359858,
+    -91.024317,
+    30.359858
+],
+  "geometry": {"coordinates":[-91.024317,30.359858],"type":"Point"}
+}

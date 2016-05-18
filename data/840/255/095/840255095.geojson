@@ -1,0 +1,71 @@
+{
+  "id": 840255095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498143,29.782084,-91.498143,29.782084",
+    "geom:latitude":29.782084,
+    "geom:longitude":-91.498143,
+    "iso:country":"US",
+    "sg:address":"86 Virginia St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 1954",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "toilet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dDIFQOEz4qokcWkuEsv4C_29.782084_-91.498143@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524719,
+    "wof:geomhash":"cb5e91a1af93ebb4bf8b2771e8ef65c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840255095
+        }
+    ],
+    "wof:id":840255095,
+    "wof:lastmodified":1463524719,
+    "wof:name":"Franklin Portable Potties",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toilet"
+    ]
+},
+  "bbox": [
+    -91.498143,
+    29.782084,
+    -91.498143,
+    29.782084
+],
+  "geometry": {"coordinates":[-91.498143,29.782084],"type":"Point"}
+}

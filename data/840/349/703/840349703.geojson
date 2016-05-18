@@ -1,0 +1,71 @@
+{
+  "id": 840349703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.270861,29.685115,-91.270861,29.685115",
+    "geom:latitude":29.685115,
+    "geom:longitude":-91.270861,
+    "iso:country":"US",
+    "sg:address":"324 Venus Rd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 9873",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dFaICOJAC1CxO8G1gd2f_29.685115_-91.270861@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528885,
+    "wof:geomhash":"fcdeddb6045f5b2daff9ffb86e344446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840349703
+        }
+    ],
+    "wof:id":840349703,
+    "wof:lastmodified":1463528885,
+    "wof:name":"Mattes Body Shop",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.270861,
+    29.685115,
+    -91.270861,
+    29.685115
+],
+  "geometry": {"coordinates":[-91.270861,29.685115],"type":"Point"}
+}

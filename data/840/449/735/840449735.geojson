@@ -1,0 +1,75 @@
+{
+  "id": 840449735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.016406,30.228267,-92.016406,30.228267",
+    "geom:latitude":30.228267,
+    "geom:longitude":-92.016406,
+    "iso:country":"US",
+    "sg:address":"210 W 3rd St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 3036",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e7hBrvxllQL35iduhtNeO_30.227977_-92.017004@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533292,
+    "wof:geomhash":"4d4711d8e8999b727b62bb0615b49782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840449735
+        }
+    ],
+    "wof:id":840449735,
+    "wof:lastmodified":1463533292,
+    "wof:name":"Downtown Automotive",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.016406,
+    30.228267,
+    -92.016406,
+    30.228267
+],
+  "geometry": {"coordinates":[-92.016406,30.228267],"type":"Point"}
+}

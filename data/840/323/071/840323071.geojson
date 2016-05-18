@@ -1,0 +1,71 @@
+{
+  "id": 840323071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.457191,30.475897,-90.457191,30.475897",
+    "geom:latitude":30.475897,
+    "geom:longitude":-90.457191,
+    "iso:country":"US",
+    "sg:address":"2570 Veterans Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 5300",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mJnpaatvn2sI4k4L3t4YP_30.475897_-90.457191@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527619,
+    "wof:geomhash":"af36f55085da289360b9b5c9e6588fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840323071
+        }
+    ],
+    "wof:id":840323071,
+    "wof:lastmodified":1463527619,
+    "wof:name":"Dialysis Systems Of Hammond",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.457191,
+    30.475897,
+    -90.457191,
+    30.475897
+],
+  "geometry": {"coordinates":[-90.45719099999999,30.475897],"type":"Point"}
+}

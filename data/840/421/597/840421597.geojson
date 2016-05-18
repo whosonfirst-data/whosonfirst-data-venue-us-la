@@ -1,0 +1,71 @@
+{
+  "id": 840421597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.20021,30.239684,-93.20021,30.239684",
+    "geom:latitude":30.239684,
+    "geom:longitude":-93.20021,
+    "iso:country":"US",
+    "sg:address":"1408 Jackson St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 0129",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FLHrBpCZ88KHRUI5JGjBJ_30.239684_-93.200210@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532101,
+    "wof:geomhash":"bab25fa70c0318c48ab098c00190b18a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840421597
+        }
+    ],
+    "wof:id":840421597,
+    "wof:lastmodified":1463532101,
+    "wof:name":"Upward Bound Tutorial Program",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -93.20021,
+    30.239684,
+    -93.20021,
+    30.239684
+],
+  "geometry": {"coordinates":[-93.20021,30.239684],"type":"Point"}
+}

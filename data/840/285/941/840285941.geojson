@@ -1,0 +1,78 @@
+{
+  "id": 840285941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0691,29.98615,-90.0691,29.98615",
+    "geom:latitude":29.98615,
+    "geom:longitude":-90.0691,
+    "iso:country":"US",
+    "sg:address":"2100 N Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 9800",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XJdaexjAZEfaRGAkpS1nl_29.986150_-90.069100@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525885,
+    "wof:geomhash":"5f665dd65dcd40ed95fe63e2329cd0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866083,
+            "region_id":85688735,
+            "venue_id":840285941
+        }
+    ],
+    "wof:id":840285941,
+    "wof:lastmodified":1463525885,
+    "wof:name":"Shorty's Barber Shop",
+    "wof:parent_id":85866083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.0691,
+    29.98615,
+    -90.0691,
+    29.98615
+],
+  "geometry": {"coordinates":[-90.06910000000001,29.98615],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840089881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.68075,32.038176,-93.68075,32.038176",
+    "geom:latitude":32.038176,
+    "geom:longitude":-93.68075,
+    "iso:country":"US",
+    "sg:address":"127 Deer Ln",
+    "sg:city":"Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 872 3030",
+    "sg:postcode":"71052",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793,
+        85857955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VlMDKfr5g2LU06Vr6K2ff_32.038176_-93.680750@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521019,
+    "wof:geomhash":"efe0e5a28229b3c44717b2f885b81174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":840089881
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "neighbourhood_id":85857955,
+            "region_id":85688735,
+            "venue_id":840089881
+        }
+    ],
+    "wof:id":840089881,
+    "wof:lastmodified":1463521019,
+    "wof:name":"Mansfield Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.68075,
+    32.038176,
+    -93.68075,
+    32.038176
+],
+  "geometry": {"coordinates":[-93.68075,32.038176],"type":"Point"}
+}

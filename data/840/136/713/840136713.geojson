@@ -1,0 +1,75 @@
+{
+  "id": 840136713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.111,29.939669,-90.111,29.939669",
+    "geom:latitude":29.939669,
+    "geom:longitude":-90.111,
+    "iso:country":"US",
+    "sg:address":"2723 Octavia St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 861 8213",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VowQibFCpVROOGqYLXNIy_29.939669_-90.111000@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521986,
+    "wof:geomhash":"d31bbb467e87854d5781a9fd0d55984a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840136713
+        }
+    ],
+    "wof:id":840136713,
+    "wof:lastmodified":1463521986,
+    "wof:name":"Health International",
+    "wof:parent_id":85866127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -90.111,
+    29.939669,
+    -90.111,
+    29.939669
+],
+  "geometry": {"coordinates":[-90.111,29.939669],"type":"Point"}
+}

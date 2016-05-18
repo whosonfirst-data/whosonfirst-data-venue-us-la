@@ -1,0 +1,75 @@
+{
+  "id": 840366101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.20581,29.964261,-90.20581,29.964261",
+    "geom:latitude":29.964261,
+    "geom:longitude":-90.20581,
+    "iso:country":"US",
+    "sg:address":"1700 Hickory Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 738 3962",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FgRAp29RFJQaGp2e7NEnH_29.964261_-90.205810@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529685,
+    "wof:geomhash":"84fff922b8debca1cdfe75c9efc9384f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840366101
+        }
+    ],
+    "wof:id":840366101,
+    "wof:lastmodified":1463529685,
+    "wof:name":"Texaco",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.20581,
+    29.964261,
+    -90.20581,
+    29.964261
+],
+  "geometry": {"coordinates":[-90.20581,29.964261],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840277825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.782656,30.27339,-89.782656,30.27339",
+    "geom:latitude":30.27339,
+    "geom:longitude":-89.782656,
+    "iso:country":"US",
+    "sg:address":"2256 1st St",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 649 7156",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qYdvz49qQphv23knYc7OQ_30.273390_-89.782656@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525519,
+    "wof:geomhash":"06a3c57ec8cfe9c1fcffe1ddfd9cb286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":840277825
+        }
+    ],
+    "wof:id":840277825,
+    "wof:lastmodified":1463525519,
+    "wof:name":"Sunshine House",
+    "wof:parent_id":85810351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -89.782656,
+    30.27339,
+    -89.782656,
+    30.27339
+],
+  "geometry": {"coordinates":[-89.782656,30.27339],"type":"Point"}
+}

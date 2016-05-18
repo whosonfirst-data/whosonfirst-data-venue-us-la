@@ -1,0 +1,71 @@
+{
+  "id": 840347247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.163345,30.223976,-93.163345,30.223976",
+    "geom:latitude":30.223976,
+    "geom:longitude":-93.163345,
+    "iso:country":"US",
+    "sg:address":"805 Main St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 2511",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AiN12LmmLPXg2reb23onV_30.223976_-93.163345@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528755,
+    "wof:geomhash":"3219a69dc11306c25187b196b9c81363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840347247
+        }
+    ],
+    "wof:id":840347247,
+    "wof:lastmodified":1463528755,
+    "wof:name":"Louisiana State Police",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -93.163345,
+    30.223976,
+    -93.163345,
+    30.223976
+],
+  "geometry": {"coordinates":[-93.16334500000001,30.223976],"type":"Point"}
+}

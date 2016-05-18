@@ -1,0 +1,75 @@
+{
+  "id": 840010803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.008155,30.269356,-92.008155,30.269356",
+    "geom:latitude":30.269356,
+    "geom:longitude":-92.008155,
+    "iso:country":"US",
+    "sg:address":"3515 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 267 7424",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "corn",
+        "chips",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n2Lj9q9W1X4UPWOg6Xlwj_30.269356_-92.008155@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519226,
+    "wof:geomhash":"4e472edc399aa3318d7ea0d62e65b4b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840010803
+        }
+    ],
+    "wof:id":840010803,
+    "wof:lastmodified":1463519226,
+    "wof:name":"LA La's Snack Shack",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "chips",
+        "potato"
+    ]
+},
+  "bbox": [
+    -92.008155,
+    30.269356,
+    -92.008155,
+    30.269356
+],
+  "geometry": {"coordinates":[-92.008155,30.269356],"type":"Point"}
+}

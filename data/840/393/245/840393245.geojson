@@ -1,0 +1,73 @@
+{
+  "id": 840393245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.468627,31.291945,-92.468627,31.291945",
+    "geom:latitude":31.291945,
+    "geom:longitude":-92.468627,
+    "iso:country":"US",
+    "sg:address":"2920 Jackson St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 1886",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HK8nqDc6kuqWcxRnHzFM6_31.291945_-92.468627@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530932,
+    "wof:geomhash":"afb2b0281f5e33c9c87f1508df0717d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840393245
+        }
+    ],
+    "wof:id":840393245,
+    "wof:lastmodified":1463530932,
+    "wof:name":"Alexandria Sinus & Ear Ctr",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.468627,
+    31.291945,
+    -92.468627,
+    31.291945
+],
+  "geometry": {"coordinates":[-92.468627,31.291945],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840375101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.095061,29.970917,-90.095061,29.970917",
+    "geom:latitude":29.970917,
+    "geom:longitude":-90.095061,
+    "iso:country":"US",
+    "sg:address":"3401 Canal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 488 6188",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:website":"www.isl-edu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oDh3avtSv1W4QxXbHl9rt_29.970917_-90.095061@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530133,
+    "wof:geomhash":"28bb56041912366f98a751faa282c09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840375101
+        }
+    ],
+    "wof:id":840375101,
+    "wof:lastmodified":1463530133,
+    "wof:name":"International School Of LA",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.095061,
+    29.970917,
+    -90.095061,
+    29.970917
+],
+  "geometry": {"coordinates":[-90.095061,29.970917],"type":"Point"}
+}

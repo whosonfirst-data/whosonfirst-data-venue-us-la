@@ -1,0 +1,71 @@
+{
+  "id": 840268631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.509082,30.941577,-90.509082,30.941577",
+    "geom:latitude":30.941577,
+    "geom:longitude":-90.509082,
+    "iso:country":"US",
+    "sg:address":"311 3rd St",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 6789",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gozTXuIrvwJF30T1xaTyw_30.941577_-90.509082@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525112,
+    "wof:geomhash":"721dd9f1943d87e8fc2c304563a682bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840268631
+        }
+    ],
+    "wof:id":840268631,
+    "wof:lastmodified":1463525112,
+    "wof:name":"S & S Transmissions",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.509082,
+    30.941577,
+    -90.509082,
+    30.941577
+],
+  "geometry": {"coordinates":[-90.50908200000001,30.941577],"type":"Point"}
+}

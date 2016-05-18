@@ -1,0 +1,84 @@
+{
+  "id": 840456343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.71187,32.431583,-93.71187,32.431583",
+    "geom:latitude":32.431583,
+    "geom:longitude":-93.71187,
+    "iso:country":"US",
+    "sg:address":"8010 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/shreveport/96573-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 0799",
+    "sg:postcode":"71115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HO4nVEoXWNPe8LU26pd57_32.431583_-93.711870@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533550,
+    "wof:geomhash":"b5204c900040e8fc05ece3bb976ef4b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840456343
+        }
+    ],
+    "wof:id":840456343,
+    "wof:lastmodified":1463533550,
+    "wof:name":"IHOP",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -93.71187,
+    32.431583,
+    -93.71187,
+    32.431583
+],
+  "geometry": {"coordinates":[-93.71187,32.431583],"type":"Point"}
+}

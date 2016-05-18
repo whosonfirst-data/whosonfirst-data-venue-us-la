@@ -1,0 +1,73 @@
+{
+  "id": 840004349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.57973,31.310345,-92.57973,31.310345",
+    "geom:latitude":31.310345,
+    "geom:longitude":-92.57973,
+    "iso:country":"US",
+    "sg:address":"6893 Bayou Rapides Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 445 9800",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z1x3Ix3XANbeMgrU2iv7D_31.310345_-92.579730@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519083,
+    "wof:geomhash":"ab56f74bcd7aea0b9c8d0810b7973523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840004349
+        }
+    ],
+    "wof:id":840004349,
+    "wof:lastmodified":1463519083,
+    "wof:name":"A-1 Radiator Shop",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.57973,
+    31.310345,
+    -92.57973,
+    31.310345
+],
+  "geometry": {"coordinates":[-92.57973,31.310345],"type":"Point"}
+}

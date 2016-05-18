@@ -1,0 +1,73 @@
+{
+  "id": 840413773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.097976,30.205886,-92.097976,30.205886",
+    "geom:latitude":30.205886,
+    "geom:longitude":-92.097976,
+    "iso:country":"US",
+    "sg:address":"222 Herbert Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 839 1111",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boxing",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rBUIvqQnT2kxHbJF5Bf3q_30.205886_-92.097976@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531769,
+    "wof:geomhash":"98ca04cd158fa16632f13177454b74bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840413773
+        }
+    ],
+    "wof:id":840413773,
+    "wof:lastmodified":1463531769,
+    "wof:name":"Layfayette Boxing Club",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boxing",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -92.097976,
+    30.205886,
+    -92.097976,
+    30.205886
+],
+  "geometry": {"coordinates":[-92.097976,30.205886],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 840107695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.072017,29.931263,-90.072017,29.931263",
+    "geom:latitude":29.931263,
+    "geom:longitude":-90.072017,
+    "iso:country":"US",
+    "sg:address":"909 Felicity St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 529 5334",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fqmSQKuwLYc3xO4tABAU5_29.931263_-90.072017@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521386,
+    "wof:geomhash":"e244fac49acfd9a45bf80e92e360d9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840107695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840107695
+        }
+    ],
+    "wof:id":840107695,
+    "wof:lastmodified":1463521386,
+    "wof:name":"St Thomas Housing Dev",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -90.072017,
+    29.931263,
+    -90.072017,
+    29.931263
+],
+  "geometry": {"coordinates":[-90.072017,29.931263],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840187311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.891181,30.01807,-91.891181,30.01807",
+    "geom:latitude":30.01807,
+    "geom:longitude":-91.891181,
+    "iso:country":"US",
+    "sg:address":"3618 Broken Arrow Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 2431",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KekLZnW2WgLPO635Ckt9u_30.018070_-91.891181@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523059,
+    "wof:geomhash":"69a0dce68877747c512ebdb43ec5a72d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840187311
+        }
+    ],
+    "wof:id":840187311,
+    "wof:lastmodified":1463523059,
+    "wof:name":"Iberia Sheriff Dept Criminal",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -91.891181,
+    30.01807,
+    -91.891181,
+    30.01807
+],
+  "geometry": {"coordinates":[-91.891181,30.01807],"type":"Point"}
+}

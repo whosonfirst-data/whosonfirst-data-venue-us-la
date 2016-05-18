@@ -1,0 +1,71 @@
+{
+  "id": 840328637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.083809,30.276265,-93.083809,30.276265",
+    "geom:latitude":30.276265,
+    "geom:longitude":-93.083809,
+    "iso:country":"US",
+    "sg:address":"6443 State Rte 3059",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 582 6055",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SCMVOM0rGjWNewIdKAj41_30.276265_-93.083809@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527882,
+    "wof:geomhash":"db8b0c92eae907a9c41d485430da5738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840328637
+        }
+    ],
+    "wof:id":840328637,
+    "wof:lastmodified":1463527882,
+    "wof:name":"Le Bleu Settlement Fire Dept",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.083809,
+    30.276265,
+    -93.083809,
+    30.276265
+],
+  "geometry": {"coordinates":[-93.083809,30.276265],"type":"Point"}
+}

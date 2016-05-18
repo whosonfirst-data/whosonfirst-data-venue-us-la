@@ -1,0 +1,71 @@
+{
+  "id": 840420301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.3974,30.650293,-90.3974,30.650293",
+    "geom:latitude":30.650293,
+    "geom:longitude":-90.3974,
+    "iso:country":"US",
+    "sg:address":"20011 Hwy 1062",
+    "sg:city":"Loranger",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 878 3923",
+    "sg:postcode":"70446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IKGoo3QeCxAuv7pTjVYM2_30.650293_-90.397400@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532044,
+    "wof:geomhash":"549a2cd6755aff9556046771c67f795d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840420301
+        }
+    ],
+    "wof:id":840420301,
+    "wof:lastmodified":1463532044,
+    "wof:name":"Tangi Animal Clinic",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.3974,
+    30.650293,
+    -90.3974,
+    30.650293
+],
+  "geometry": {"coordinates":[-90.3974,30.650293],"type":"Point"}
+}

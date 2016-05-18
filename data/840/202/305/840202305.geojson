@@ -1,0 +1,73 @@
+{
+  "id": 840202305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.010858,30.294897,-92.010858,30.294897",
+    "geom:latitude":30.294897,
+    "geom:longitude":-92.010858,
+    "iso:country":"US",
+    "sg:address":"600 E Gloria Switch Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 264 1291",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p8oKPQxoj9FKR47aqb4on_30.294897_-92.010858@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523415,
+    "wof:geomhash":"001e586bc2e873259e5ea478a86b5c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840202305
+        }
+    ],
+    "wof:id":840202305,
+    "wof:lastmodified":1463523415,
+    "wof:name":"Brian Granger MD",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.010858,
+    30.294897,
+    -92.010858,
+    30.294897
+],
+  "geometry": {"coordinates":[-92.010858,30.294897],"type":"Point"}
+}

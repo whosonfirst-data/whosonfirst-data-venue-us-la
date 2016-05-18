@@ -1,0 +1,75 @@
+{
+  "id": 840411755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.217639,30.22664,-93.217639,30.22664",
+    "geom:latitude":30.22664,
+    "geom:longitude":-93.217639,
+    "iso:country":"US",
+    "sg:address":"900 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 2833",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G1E486feRyzuYA6erFoAt_30.226640_-93.217639@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531683,
+    "wof:geomhash":"1e869b202e740c61491de951c179d797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840411755
+        }
+    ],
+    "wof:id":840411755,
+    "wof:lastmodified":1463531683,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -93.217639,
+    30.22664,
+    -93.217639,
+    30.22664
+],
+  "geometry": {"coordinates":[-93.21763900000001,30.22664],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840316531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.7349,30.265941,-89.7349,30.265941",
+    "geom:latitude":30.265941,
+    "geom:longitude":-89.7349,
+    "iso:country":"US",
+    "sg:address":"40111 Hwy 190 E",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 885 5383",
+    "sg:postcode":"70461",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospital",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85825873,
+        102082453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CHwfQcCnIWl9A3FpCygJL_30.265941_-89.734900@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527284,
+    "wof:geomhash":"6d5379adf5968ab73eaf0473971a0686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85825873,
+            "region_id":85688735,
+            "venue_id":840316531
+        }
+    ],
+    "wof:id":840316531,
+    "wof:lastmodified":1463527284,
+    "wof:name":"Southern Medical Svc",
+    "wof:parent_id":85825873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -89.7349,
+    30.265941,
+    -89.7349,
+    30.265941
+],
+  "geometry": {"coordinates":[-89.7349,30.265941],"type":"Point"}
+}

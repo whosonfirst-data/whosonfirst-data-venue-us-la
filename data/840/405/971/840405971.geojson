@@ -1,0 +1,71 @@
+{
+  "id": 840405971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209568,30.300766,-93.209568,30.300766",
+    "geom:latitude":30.300766,
+    "geom:longitude":-93.209568,
+    "iso:country":"US",
+    "sg:address":"115 Bronco Ln",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 9633",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23UdqMAgv8H6Mqpk9MLapO_30.300766_-93.209568@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531460,
+    "wof:geomhash":"63fb1108e4b66a36ad9214e1c2e3e2e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840405971
+        }
+    ],
+    "wof:id":840405971,
+    "wof:lastmodified":1463531460,
+    "wof:name":"Moss Bluff Sheriff's Dept",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -93.209568,
+    30.300766,
+    -93.209568,
+    30.300766
+],
+  "geometry": {"coordinates":[-93.209568,30.300766],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840444963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.476913,31.275268,-92.476913,31.275268",
+    "geom:latitude":31.275268,
+    "geom:longitude":-92.476913,
+    "iso:country":"US",
+    "sg:address":"1420 Metro Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 1095",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uV5wszrAvMAHUWX38WmP4_31.275268_-92.476913@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533088,
+    "wof:geomhash":"a2a81f2db305e8dca0783ce3c7c29eb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840444963
+        }
+    ],
+    "wof:id":840444963,
+    "wof:lastmodified":1463533088,
+    "wof:name":"Donovan's Laundry & Cleaners",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.476913,
+    31.275268,
+    -92.476913,
+    31.275268
+],
+  "geometry": {"coordinates":[-92.476913,31.275268],"type":"Point"}
+}

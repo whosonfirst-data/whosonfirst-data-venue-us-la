@@ -1,0 +1,73 @@
+{
+  "id": 840055177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.807239,32.362689,-93.807239,32.362689",
+    "geom:latitude":32.362689,
+    "geom:longitude":-93.807239,
+    "iso:country":"US",
+    "sg:address":"10236 Rabbit Ridge",
+    "sg:city":"Keithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 925 9174",
+    "sg:postcode":"71047",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gi5ZPCC2XpthlON5ZF5f6_32.362689_-93.807239@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520150,
+    "wof:geomhash":"9fc3a473a438eae5165d11949adf53d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840055177
+        }
+    ],
+    "wof:id":840055177,
+    "wof:lastmodified":1463520150,
+    "wof:name":"Earl's Automotive Svc",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.807239,
+    32.362689,
+    -93.807239,
+    32.362689
+],
+  "geometry": {"coordinates":[-93.807239,32.362689],"type":"Point"}
+}

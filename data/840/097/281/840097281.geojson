@@ -1,0 +1,71 @@
+{
+  "id": 840097281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.107327,30.398889,-91.107327,30.398889",
+    "geom:latitude":30.398889,
+    "geom:longitude":-91.107327,
+    "iso:country":"US",
+    "sg:address":"5131 Essen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 769 0043",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hBqycBXUsxkowAXEX5H4q_30.398889_-91.107327@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521159,
+    "wof:geomhash":"81c2f59db531c63766c707649344c6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840097281
+        }
+    ],
+    "wof:id":840097281,
+    "wof:lastmodified":1463521159,
+    "wof:name":"Brent O Campanella MD",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.107327,
+    30.398889,
+    -91.107327,
+    30.398889
+],
+  "geometry": {"coordinates":[-91.107327,30.398889],"type":"Point"}
+}

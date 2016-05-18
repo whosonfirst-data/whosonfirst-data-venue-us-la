@@ -1,0 +1,71 @@
+{
+  "id": 840096485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.031565,30.386932,-91.031565,30.386932",
+    "geom:latitude":30.386932,
+    "geom:longitude":-91.031565,
+    "iso:country":"US",
+    "sg:address":"13757 Jefferson Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 753 7220",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g5ly91bTR00I29RYDbpdX_30.386932_-91.031565@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521142,
+    "wof:geomhash":"a93a9b288bfd729fff6be60edf748a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840096485
+        }
+    ],
+    "wof:id":840096485,
+    "wof:lastmodified":1463521142,
+    "wof:name":"Guillory Truck Repair",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.031565,
+    30.386932,
+    -91.031565,
+    30.386932
+],
+  "geometry": {"coordinates":[-91.031565,30.386932],"type":"Point"}
+}

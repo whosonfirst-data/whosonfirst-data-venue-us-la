@@ -1,0 +1,75 @@
+{
+  "id": 840298709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.039395,30.300978,-92.039395,30.300978",
+    "geom:latitude":30.300978,
+    "geom:longitude":-92.039395,
+    "iso:country":"US",
+    "sg:address":"513 Walter Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 319 5724",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IKFwIzCLM4p60Fbzr0DvV_30.300978_-92.039395@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526434,
+    "wof:geomhash":"404ff2c2f8474767393c954e083a59b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840298709
+        }
+    ],
+    "wof:id":840298709,
+    "wof:lastmodified":1463526434,
+    "wof:name":"T Herbs Trucking LLC",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.039395,
+    30.300978,
+    -92.039395,
+    30.300978
+],
+  "geometry": {"coordinates":[-92.039395,30.300978],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840279253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.156633,29.969548,-90.156633,29.969548",
+    "geom:latitude":29.969548,
+    "geom:longitude":-90.156633,
+    "iso:country":"US",
+    "sg:address":"1510 Causeway Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 833 3701",
+    "sg:postcode":"70001",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HmcHEJwyuS4mgKqTVKpwX_29.969548_-90.156633@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525586,
+    "wof:geomhash":"0d935b890e1aeacc708fdb4b1b779d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840279253
+        }
+    ],
+    "wof:id":840279253,
+    "wof:lastmodified":1463525586,
+    "wof:name":"Safelite Auto Glass",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.156633,
+    29.969548,
+    -90.156633,
+    29.969548
+],
+  "geometry": {"coordinates":[-90.156633,29.969548],"type":"Point"}
+}

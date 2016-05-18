@@ -1,0 +1,71 @@
+{
+  "id": 840335169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.811645,32.394613,-93.811645,32.394613",
+    "geom:latitude":32.394613,
+    "geom:longitude":-93.811645,
+    "iso:country":"US",
+    "sg:address":"9464 Mansfield Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 2345",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57v0oe9ksxA6XJZWAk0wp2_32.394613_-93.811645@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528182,
+    "wof:geomhash":"3bdccea9ad4ae30844261b64eca900d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840335169
+        }
+    ],
+    "wof:id":840335169,
+    "wof:lastmodified":1463528182,
+    "wof:name":"Silver Palate Bakery",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -93.811645,
+    32.394613,
+    -93.811645,
+    32.394613
+],
+  "geometry": {"coordinates":[-93.811645,32.394613],"type":"Point"}
+}

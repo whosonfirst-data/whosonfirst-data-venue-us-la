@@ -1,0 +1,71 @@
+{
+  "id": 840209127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.839738,29.986228,-91.839738,29.986228",
+    "geom:latitude":29.986228,
+    "geom:longitude":-91.839738,
+    "iso:country":"US",
+    "sg:address":"1804 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 6055",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xg5prNbWrA9qu9FfH13nJ_29.986228_-91.839738@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523609,
+    "wof:geomhash":"2807417ccf2e56bcbe793371a4cd6a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840209127
+        }
+    ],
+    "wof:id":840209127,
+    "wof:lastmodified":1463523609,
+    "wof:name":"Maricle's Body & Paint Shop",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -91.839738,
+    29.986228,
+    -91.839738,
+    29.986228
+],
+  "geometry": {"coordinates":[-91.839738,29.986228],"type":"Point"}
+}

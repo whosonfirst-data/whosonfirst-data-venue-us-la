@@ -1,0 +1,73 @@
+{
+  "id": 840282259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.112466,30.277019,-92.112466,30.277019",
+    "geom:latitude":30.277019,
+    "geom:longitude":-92.112466,
+    "iso:country":"US",
+    "sg:address":"1441 State Rte 93",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 9590",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bzzyEUcnAN5ouBCbaYqZQ_30.277019_-92.112466@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525728,
+    "wof:geomhash":"25d86ef960b47d10b2cc8371e6db76bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840282259
+        }
+    ],
+    "wof:id":840282259,
+    "wof:lastmodified":1463525728,
+    "wof:name":"Baton Rouge Cargo",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -92.112466,
+    30.277019,
+    -92.112466,
+    30.277019
+],
+  "geometry": {"coordinates":[-92.112466,30.277019],"type":"Point"}
+}

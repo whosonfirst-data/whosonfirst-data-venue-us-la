@@ -1,0 +1,75 @@
+{
+  "id": 840387341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.330524,30.23158,-93.330524,30.23158",
+    "geom:latitude":30.23158,
+    "geom:longitude":-93.330524,
+    "iso:country":"US",
+    "sg:address":"117 Production Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 2699",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KIm7U80YStNZiw93bXWUA_30.231580_-93.330524@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530688,
+    "wof:geomhash":"6e6d328bf7ae1433464a7f6f77118fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840387341
+        }
+    ],
+    "wof:id":840387341,
+    "wof:lastmodified":1463530688,
+    "wof:name":"Material Delivery Svc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.330524,
+    30.23158,
+    -93.330524,
+    30.23158
+],
+  "geometry": {"coordinates":[-93.330524,30.23158],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840367615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.977154,30.03035,-89.977154,30.03035",
+    "geom:latitude":30.03035,
+    "geom:longitude":-89.977154,
+    "iso:country":"US",
+    "sg:address":"9900 Lake Forest Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 246 3455",
+    "sg:postcode":"70127",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85891213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MKCNvMWutlQJdRyG8OjWo_30.030350_-89.977154@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529761,
+    "wof:geomhash":"dad3290928304819d39c904b6dc6c05f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891213,
+            "region_id":85688735,
+            "venue_id":840367615
+        }
+    ],
+    "wof:id":840367615,
+    "wof:lastmodified":1463529761,
+    "wof:name":"Dental Shoppe",
+    "wof:parent_id":85891213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.977154,
+    30.03035,
+    -89.977154,
+    30.03035
+],
+  "geometry": {"coordinates":[-89.977154,30.03035],"type":"Point"}
+}

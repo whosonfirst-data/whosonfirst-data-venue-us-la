@@ -1,0 +1,73 @@
+{
+  "id": 840204529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.164501,29.974954,-90.164501,29.974954",
+    "geom:latitude":29.974954,
+    "geom:longitude":-90.164501,
+    "iso:country":"US",
+    "sg:address":"3704 Airline Dr",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 834 1400",
+    "sg:postcode":"70001",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y6W1unwCGHJHlFiP5at8r_29.974954_-90.164501@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523503,
+    "wof:geomhash":"6b4ef42ec9514001210230410a25a22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840204529
+        }
+    ],
+    "wof:id":840204529,
+    "wof:lastmodified":1463523503,
+    "wof:name":"A Service Cab Co",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.164501,
+    29.974954,
+    -90.164501,
+    29.974954
+],
+  "geometry": {"coordinates":[-90.164501,29.974954],"type":"Point"}
+}

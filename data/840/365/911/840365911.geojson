@@ -1,0 +1,85 @@
+{
+  "id": 840365911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.067337,29.933203,-90.067337,29.933203",
+    "geom:latitude":29.933203,
+    "geom:longitude":-90.067337,
+    "iso:country":"US",
+    "sg:address":"636 Race St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 4401",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rR0oulj2CHTiM12tc1Fq3_29.933203_-90.067337@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529677,
+    "wof:geomhash":"a8d89d554287d00cb5c5a8f7605d0992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840365911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840365911
+        }
+    ],
+    "wof:id":840365911,
+    "wof:lastmodified":1463529677,
+    "wof:name":"Dancing Iguana Music",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -90.067337,
+    29.933203,
+    -90.067337,
+    29.933203
+],
+  "geometry": {"coordinates":[-90.06733699999999,29.933203],"type":"Point"}
+}

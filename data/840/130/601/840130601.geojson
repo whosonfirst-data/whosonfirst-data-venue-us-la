@@ -1,0 +1,73 @@
+{
+  "id": 840130601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376273,30.227185,-93.376273,30.227185",
+    "geom:latitude":30.227185,
+    "geom:longitude":-93.376273,
+    "iso:country":"US",
+    "sg:address":"1315 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 9009",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36aMoNHKIqOlK6BFhhH3Eo_30.227185_-93.376273@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521857,
+    "wof:geomhash":"0cee367d42a22dbdbdc7bb2ae42238bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840130601
+        }
+    ],
+    "wof:id":840130601,
+    "wof:lastmodified":1463521857,
+    "wof:name":"M & I Electric Industries Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.376273,
+    30.227185,
+    -93.376273,
+    30.227185
+],
+  "geometry": {"coordinates":[-93.376273,30.227185],"type":"Point"}
+}

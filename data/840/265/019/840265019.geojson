@@ -1,0 +1,71 @@
+{
+  "id": 840265019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.048834,30.183467,-92.048834,30.183467",
+    "geom:latitude":30.183467,
+    "geom:longitude":-92.048834,
+    "iso:country":"US",
+    "sg:address":"609 Cambridge Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 3583",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aRbCXaBcLvRAeS9eh6aUL_30.183467_-92.048834@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524930,
+    "wof:geomhash":"f521d85b89556877e8849d79bddf5dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840265019
+        }
+    ],
+    "wof:id":840265019,
+    "wof:lastmodified":1463524930,
+    "wof:name":"Robert Ureta Painting",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -92.048834,
+    30.183467,
+    -92.048834,
+    30.183467
+],
+  "geometry": {"coordinates":[-92.048834,30.183467],"type":"Point"}
+}

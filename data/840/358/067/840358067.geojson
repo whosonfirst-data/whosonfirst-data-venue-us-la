@@ -1,0 +1,71 @@
+{
+  "id": 840358067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.219243,30.31622,-93.219243,30.31622",
+    "geom:latitude":30.31622,
+    "geom:longitude":-93.219243,
+    "iso:country":"US",
+    "sg:address":"950 Park Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 217 0616",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KI3hYJ3BmwNz8YYyl1xmw_30.316220_-93.219243@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529298,
+    "wof:geomhash":"020c7a22a2bb768c089b1ebeb5e9a043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840358067
+        }
+    ],
+    "wof:id":840358067,
+    "wof:lastmodified":1463529298,
+    "wof:name":"Ray McManus",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -93.219243,
+    30.31622,
+    -93.219243,
+    30.31622
+],
+  "geometry": {"coordinates":[-93.21924300000001,30.31622],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840276631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.05354,30.150048,-92.05354,30.150048",
+    "geom:latitude":30.150048,
+    "geom:longitude":-92.05354,
+    "iso:country":"US",
+    "sg:address":"100 S Meyers Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 4906",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r6G0zC47MCqcEq0uVcVwI_30.150048_-92.053540@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525470,
+    "wof:geomhash":"3145cca6c02519530b8a83430b8c14b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840276631
+        }
+    ],
+    "wof:id":840276631,
+    "wof:lastmodified":1463525470,
+    "wof:name":"Emberwood Apartments",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -92.05354,
+    30.150048,
+    -92.05354,
+    30.150048
+],
+  "geometry": {"coordinates":[-92.05354,30.150048],"type":"Point"}
+}

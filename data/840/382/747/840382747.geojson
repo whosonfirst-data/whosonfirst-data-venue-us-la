@@ -1,0 +1,73 @@
+{
+  "id": 840382747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.112456,32.489903,-92.112456,32.489903",
+    "geom:latitude":32.489903,
+    "geom:longitude":-92.112456,
+    "iso:country":"US",
+    "sg:address":"1515 S Grand St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 5458",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DgY1gWo4pL43NVdn7AgFj_32.489903_-92.112456@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530482,
+    "wof:geomhash":"8f6ec247552aa2eabe63c2847f0948d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840382747
+        }
+    ],
+    "wof:id":840382747,
+    "wof:lastmodified":1463530482,
+    "wof:name":"Master Auto Svc",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.112456,
+    32.489903,
+    -92.112456,
+    32.489903
+],
+  "geometry": {"coordinates":[-92.11245599999999,32.489903],"type":"Point"}
+}

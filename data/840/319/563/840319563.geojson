@@ -1,0 +1,73 @@
+{
+  "id": 840319563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.131986,30.563473,-91.131986,30.563473",
+    "geom:latitude":30.563473,
+    "geom:longitude":-91.131986,
+    "iso:country":"US",
+    "sg:address":"12753 Plank Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 775 2584",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IqgZnqYJZHVqK45xoSthG_30.563473_-91.131986@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527444,
+    "wof:geomhash":"333bea722dd614e483dd5a159feb54fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840319563
+        }
+    ],
+    "wof:id":840319563,
+    "wof:lastmodified":1463527444,
+    "wof:name":"Family Manor Apartments",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.131986,
+    30.563473,
+    -91.131986,
+    30.563473
+],
+  "geometry": {"coordinates":[-91.131986,30.563473],"type":"Point"}
+}

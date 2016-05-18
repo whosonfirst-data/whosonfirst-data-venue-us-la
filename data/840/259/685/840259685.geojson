@@ -1,0 +1,73 @@
+{
+  "id": 840259685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.11165,32.496739,-92.11165,32.496739",
+    "geom:latitude":32.496739,
+    "geom:longitude":-92.11165,
+    "iso:country":"US",
+    "sg:address":"100 S 2nd St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 398 9675",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nQpmbpRULZrxXBELsxKOZ_32.496739_-92.111650@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524808,
+    "wof:geomhash":"4e6055b980f933711cbe77fc66637328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840259685
+        }
+    ],
+    "wof:id":840259685,
+    "wof:lastmodified":1463524808,
+    "wof:name":"Therapy Works",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -92.11165,
+    32.496739,
+    -92.11165,
+    32.496739
+],
+  "geometry": {"coordinates":[-92.11165,32.496739],"type":"Point"}
+}

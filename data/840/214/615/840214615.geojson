@@ -1,0 +1,73 @@
+{
+  "id": 840214615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.749361,32.442075,-93.749361,32.442075",
+    "geom:latitude":32.442075,
+    "geom:longitude":-93.749361,
+    "iso:country":"US",
+    "sg:address":"469 E 70th St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 865 8321",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dWGKYTFSNMIAi5wQ9ka43_32.442075_-93.749361@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523720,
+    "wof:geomhash":"2fa6d82c0e1abc76cdd58c6bf5cf9d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880995,
+            "region_id":85688735,
+            "venue_id":840214615
+        }
+    ],
+    "wof:id":840214615,
+    "wof:lastmodified":1463523720,
+    "wof:name":"Ed's Transmission Svc",
+    "wof:parent_id":85880995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.749361,
+    32.442075,
+    -93.749361,
+    32.442075
+],
+  "geometry": {"coordinates":[-93.74936099999999,32.442075],"type":"Point"}
+}

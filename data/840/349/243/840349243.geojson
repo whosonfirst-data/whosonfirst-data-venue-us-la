@@ -1,0 +1,73 @@
+{
+  "id": 840349243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.091923,30.185071,-92.091923,30.185071",
+    "geom:latitude":30.185071,
+    "geom:longitude":-92.091923,
+    "iso:country":"US",
+    "sg:address":"1200 Rue du Belier",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 8161",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DwORKqU63V6YnQYHu4Dkv_30.185071_-92.091923@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528866,
+    "wof:geomhash":"078ca75a47e5e3a2a72d94fc8365245f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840349243
+        }
+    ],
+    "wof:id":840349243,
+    "wof:lastmodified":1463528866,
+    "wof:name":"Danny's Auto & Truck Repair",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.091923,
+    30.185071,
+    -92.091923,
+    30.185071
+],
+  "geometry": {"coordinates":[-92.09192299999999,30.185071],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840348701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.233134,30.210216,-93.233134,30.210216",
+    "geom:latitude":30.210216,
+    "geom:longitude":-93.233134,
+    "iso:country":"US",
+    "sg:address":"816 W Bayou Pines Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 5588",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HTSjRbcxglg58JVR2W8D2_30.210216_-93.233134@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528844,
+    "wof:geomhash":"68371c087b3d5d384990b859a2d7f395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840348701
+        }
+    ],
+    "wof:id":840348701,
+    "wof:lastmodified":1463528844,
+    "wof:name":"Thomas H Mc Calla MD",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.233134,
+    30.210216,
+    -93.233134,
+    30.210216
+],
+  "geometry": {"coordinates":[-93.23313400000001,30.210216],"type":"Point"}
+}

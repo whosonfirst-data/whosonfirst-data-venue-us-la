@@ -1,0 +1,73 @@
+{
+  "id": 840137019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204246,30.234288,-93.204246,30.234288",
+    "geom:latitude":30.234288,
+    "geom:longitude":-93.204246,
+    "iso:country":"US",
+    "sg:address":"305 Enterprise Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 9955",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WP2PGfFvFJVTF9d6l6iVt_30.234288_-93.204246@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521991,
+    "wof:geomhash":"c39e7e1af670a42637e220b4f598edbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840137019
+        }
+    ],
+    "wof:id":840137019,
+    "wof:lastmodified":1463521991,
+    "wof:name":"KZWA FM",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -93.204246,
+    30.234288,
+    -93.204246,
+    30.234288
+],
+  "geometry": {"coordinates":[-93.204246,30.234288],"type":"Point"}
+}

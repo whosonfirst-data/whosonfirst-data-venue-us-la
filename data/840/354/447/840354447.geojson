@@ -1,0 +1,71 @@
+{
+  "id": 840354447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.195016,30.307139,-93.195016,30.307139",
+    "geom:latitude":30.307139,
+    "geom:longitude":-93.195016,
+    "iso:country":"US",
+    "sg:address":"487 US Hwy 171",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 7791",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00zAkgfQ5VcsGA1l1fIQAm_30.307139_-93.195016@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529129,
+    "wof:geomhash":"fb36913313b3fe1ae07c452e091a82d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840354447
+        }
+    ],
+    "wof:id":840354447,
+    "wof:lastmodified":1463529129,
+    "wof:name":"Grand Rental Station",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -93.195016,
+    30.307139,
+    -93.195016,
+    30.307139
+],
+  "geometry": {"coordinates":[-93.195016,30.307139],"type":"Point"}
+}

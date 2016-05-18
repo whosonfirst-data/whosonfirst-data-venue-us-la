@@ -1,0 +1,71 @@
+{
+  "id": 840336757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.958502,29.953263,-89.958502,29.953263",
+    "geom:latitude":29.953263,
+    "geom:longitude":-89.958502,
+    "iso:country":"US",
+    "sg:address":"3601 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 276 7246",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E2P9wY35QDT3gBzPAW79n_29.953263_-89.958502@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528250,
+    "wof:geomhash":"01277dc4288454d43951c71edbe8c8e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840336757
+        }
+    ],
+    "wof:id":840336757,
+    "wof:lastmodified":1463528250,
+    "wof:name":"Dyess Medical Pain Management",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.958502,
+    29.953263,
+    -89.958502,
+    29.953263
+],
+  "geometry": {"coordinates":[-89.958502,29.953263],"type":"Point"}
+}

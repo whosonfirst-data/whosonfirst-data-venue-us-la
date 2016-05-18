@@ -1,0 +1,75 @@
+{
+  "id": 840232247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.423118,31.293288,-92.423118,31.293288",
+    "geom:latitude":31.293288,
+    "geom:longitude":-92.423118,
+    "iso:country":"US",
+    "sg:address":"3620 5th St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 473 2627",
+    "sg:postcode":"71302",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948321,
+        102081039,
+        85820213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_371MqLiz3LtzDDIVeFIWx8_31.293288_-92.423118@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524168,
+    "wof:geomhash":"dc436b61a03885038000686de4f6a949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948321,
+            "neighbourhood_id":85820213,
+            "region_id":85688735,
+            "venue_id":840232247
+        }
+    ],
+    "wof:id":840232247,
+    "wof:lastmodified":1463524168,
+    "wof:name":"Leroy's Garage",
+    "wof:parent_id":85820213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -92.423118,
+    31.293288,
+    -92.423118,
+    31.293288
+],
+  "geometry": {"coordinates":[-92.423118,31.293288],"type":"Point"}
+}

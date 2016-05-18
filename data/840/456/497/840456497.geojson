@@ -1,0 +1,75 @@
+{
+  "id": 840456497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.078675,32.53774,-92.078675,32.53774",
+    "geom:latitude":32.53774,
+    "geom:longitude":-92.078675,
+    "iso:country":"US",
+    "sg:address":"1614 Sterlington Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/monroe/188388-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71203",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948231,
+        102081027,
+        85807169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tuiyKCdXjsDyZF7XuPSXW_32.537740_-92.078675@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533556,
+    "wof:geomhash":"6a45f1917c10b454994a33883bb533fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85807169,
+            "region_id":85688735,
+            "venue_id":840456497
+        }
+    ],
+    "wof:id":840456497,
+    "wof:lastmodified":1463533556,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85807169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.078675,
+    32.53774,
+    -92.078675,
+    32.53774
+],
+  "geometry": {"coordinates":[-92.078675,32.53774],"type":"Point"}
+}

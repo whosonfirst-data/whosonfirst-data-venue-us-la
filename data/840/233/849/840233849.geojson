@@ -1,0 +1,69 @@
+{
+  "id": 840233849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.109671,30.400601,-91.109671,30.400601",
+    "geom:latitude":30.400601,
+    "geom:longitude":-91.109671,
+    "iso:country":"US",
+    "sg:address":"5231 Brittany Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 769 0933",
+    "sg:postcode":"70808",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a0nnSWPn23NSK8xvL3BbY_30.400601_-91.109671@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524216,
+    "wof:geomhash":"436d2a3af4055b84060bd5f17a5df4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840233849
+        }
+    ],
+    "wof:id":840233849,
+    "wof:lastmodified":1463524216,
+    "wof:name":"Baton Rouge Cardiology Ctr",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.109671,
+    30.400601,
+    -91.109671,
+    30.400601
+],
+  "geometry": {"coordinates":[-91.10967100000001,30.400601],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840100921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.193103,30.223608,-93.193103,30.223608",
+    "geom:latitude":30.223608,
+    "geom:longitude":-93.193103,
+    "iso:country":"US",
+    "sg:address":"1905 3rd St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7621",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56CkJ0rOfdZ8X4fqAmUsnQ_30.223608_-93.193103@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521238,
+    "wof:geomhash":"8bb074533d8059821a5518c6d5c6bd25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840100921
+        }
+    ],
+    "wof:id":840100921,
+    "wof:lastmodified":1463521238,
+    "wof:name":"Yolas Cleaning Service",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -93.193103,
+    30.223608,
+    -93.193103,
+    30.223608
+],
+  "geometry": {"coordinates":[-93.19310299999999,30.223608],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840445883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.367777,30.230986,-93.367777,30.230986",
+    "geom:latitude":30.230986,
+    "geom:longitude":-93.367777,
+    "iso:country":"US",
+    "sg:address":"711 Cypress St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 2900",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77iXCkXxUNiQ32poEZu31p_30.230986_-93.367777@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533122,
+    "wof:geomhash":"3d9f36e4ccbf96cd7ca073e305b19bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840445883
+        }
+    ],
+    "wof:id":840445883,
+    "wof:lastmodified":1463533122,
+    "wof:name":"Center For Orthopaedics",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.367777,
+    30.230986,
+    -93.367777,
+    30.230986
+],
+  "geometry": {"coordinates":[-93.367777,30.230986],"type":"Point"}
+}

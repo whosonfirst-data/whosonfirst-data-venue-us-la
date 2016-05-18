@@ -1,0 +1,75 @@
+{
+  "id": 840455455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.100769,30.42136,-91.100769,30.42136",
+    "geom:latitude":30.42136,
+    "geom:longitude":-91.100769,
+    "iso:country":"US",
+    "sg:address":"8212 Jefferson Hwy ",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/23229-new-york-bagel-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 924 5657",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85806615,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OqHCkoi74V05hlapXYZG8_30.421360_-91.100769@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533519,
+    "wof:geomhash":"374a3abafd76877e92451b8c5db2ab73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85806615,
+            "region_id":85688735,
+            "venue_id":840455455
+        }
+    ],
+    "wof:id":840455455,
+    "wof:lastmodified":1463533519,
+    "wof:name":"New York Bagel Company",
+    "wof:parent_id":85806615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -91.100769,
+    30.42136,
+    -91.100769,
+    30.42136
+],
+  "geometry": {"coordinates":[-91.100769,30.42136],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840366631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.049425,30.316706,-92.049425,30.316706",
+    "geom:latitude":30.316706,
+    "geom:longitude":-92.049425,
+    "iso:country":"US",
+    "sg:address":"4306 N University Ave",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 3062",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ckEz26NkJ4MbyLih9cz6V_30.316706_-92.049425@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529714,
+    "wof:geomhash":"1f57b712123c92d80376eaae5b18df32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840366631
+        }
+    ],
+    "wof:id":840366631,
+    "wof:lastmodified":1463529714,
+    "wof:name":"Michele Lavergne DDS",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.049425,
+    30.316706,
+    -92.049425,
+    30.316706
+],
+  "geometry": {"coordinates":[-92.049425,30.316706],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840301183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.825775,30.005218,-91.825775,30.005218",
+    "geom:latitude":30.005218,
+    "geom:longitude":-91.825775,
+    "iso:country":"US",
+    "sg:address":"532 Jefferson St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 6923",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uxBND9xM2VzqvqackMYiG_30.005218_-91.825775@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526563,
+    "wof:geomhash":"479222ed34fa10832a64b3372cc05a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840301183
+        }
+    ],
+    "wof:id":840301183,
+    "wof:lastmodified":1463526563,
+    "wof:name":"Iberia Rehab Hospital",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -91.825775,
+    30.005218,
+    -91.825775,
+    30.005218
+],
+  "geometry": {"coordinates":[-91.82577499999999,30.005218],"type":"Point"}
+}

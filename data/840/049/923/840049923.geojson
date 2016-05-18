@@ -1,0 +1,75 @@
+{
+  "id": 840049923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.14899,32.50121,-92.14899,32.50121",
+    "geom:latitude":32.50121,
+    "geom:longitude":-92.14899,
+    "iso:country":"US",
+    "sg:address":"901 Glenwood Dr",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 1691",
+    "sg:postcode":"71291",
+    "sg:province":"LA",
+    "sg:tags":[
+        "chicken",
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SC7IvnNCiFFBDHcK4fFcQ_32.501210_-92.148990@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520042,
+    "wof:geomhash":"d4fe1de6876114203a14cac8d64da32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840049923
+        }
+    ],
+    "wof:id":840049923,
+    "wof:lastmodified":1463520042,
+    "wof:name":"KFC",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "fast"
+    ]
+},
+  "bbox": [
+    -92.14899,
+    32.50121,
+    -92.14899,
+    32.50121
+],
+  "geometry": {"coordinates":[-92.14899,32.50121],"type":"Point"}
+}

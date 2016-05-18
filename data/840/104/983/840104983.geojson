@@ -1,0 +1,71 @@
+{
+  "id": 840104983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.471413,31.289426,-92.471413,31.289426",
+    "geom:latitude":31.289426,
+    "geom:longitude":-92.471413,
+    "iso:country":"US",
+    "sg:address":"3030 Jackson St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 4332",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SBzZStKOmGyRxtOxgt7lO_31.289426_-92.471413@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521332,
+    "wof:geomhash":"2db67fb7ec921c8896b106bc895d10e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840104983
+        }
+    ],
+    "wof:id":840104983,
+    "wof:lastmodified":1463521332,
+    "wof:name":"Clinical Pathology Lab Inc",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -92.471413,
+    31.289426,
+    -92.471413,
+    31.289426
+],
+  "geometry": {"coordinates":[-92.471413,31.289426],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840423423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.045345,32.508792,-92.045345,32.508792",
+    "geom:latitude":32.508792,
+    "geom:longitude":-92.045345,
+    "iso:country":"US",
+    "sg:address":"5220 Operations Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 1536",
+    "sg:postcode":"71203",
+    "sg:province":"LA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04L8nwHYwkGZoIBxpvUVRG_32.508792_-92.045345@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532166,
+    "wof:geomhash":"01292e872afdba0832107d15392ad00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840423423
+        }
+    ],
+    "wof:id":840423423,
+    "wof:lastmodified":1463532166,
+    "wof:name":"Amidon Aircraft Solutions LLC",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -92.045345,
+    32.508792,
+    -92.045345,
+    32.508792
+],
+  "geometry": {"coordinates":[-92.045345,32.508792],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840269103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204335,30.227626,-93.204335,30.227626",
+    "geom:latitude":30.227626,
+    "geom:longitude":-93.204335,
+    "iso:country":"US",
+    "sg:address":"706 Enterprise Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 1360",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z9xeodedPvQJab49I0ARV_30.227626_-93.204335@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525137,
+    "wof:geomhash":"ec6467f8622443863bba4c00c81dfa07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840269103
+        }
+    ],
+    "wof:id":840269103,
+    "wof:lastmodified":1463525137,
+    "wof:name":"Lake Charles Fire Dept",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.204335,
+    30.227626,
+    -93.204335,
+    30.227626
+],
+  "geometry": {"coordinates":[-93.204335,30.227626],"type":"Point"}
+}

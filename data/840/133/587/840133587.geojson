@@ -1,0 +1,75 @@
+{
+  "id": 840133587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.976422,30.039707,-89.976422,30.039707",
+    "geom:latitude":30.039707,
+    "geom:longitude":-89.976422,
+    "iso:country":"US",
+    "sg:address":"7023 Read Ln",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 246 8648",
+    "sg:postcode":"70127",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_683VcflX3acBtUcZg61eFi_30.039707_-89.976422@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521921,
+    "wof:geomhash":"ffdd9178a16fbef97358d9e4435c6d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840133587
+        }
+    ],
+    "wof:id":840133587,
+    "wof:lastmodified":1463521921,
+    "wof:name":"Music Instruction",
+    "wof:parent_id":85866173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -89.976422,
+    30.039707,
+    -89.976422,
+    30.039707
+],
+  "geometry": {"coordinates":[-89.976422,30.039707],"type":"Point"}
+}

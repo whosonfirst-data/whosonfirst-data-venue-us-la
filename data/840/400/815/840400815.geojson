@@ -1,0 +1,76 @@
+{
+  "id": 840400815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.06627,30.254043,-92.06627,30.254043",
+    "geom:latitude":30.254043,
+    "geom:longitude":-92.06627,
+    "iso:country":"US",
+    "sg:address":"133 N Ambassador Caffery Pkwy",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 6470",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.ryder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k1cQmuXIsPELkwd8lAIRf_30.254043_-92.066270@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531243,
+    "wof:geomhash":"90b41f519a6dd5ce993480e4810d332b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840400815
+        }
+    ],
+    "wof:id":840400815,
+    "wof:lastmodified":1463531243,
+    "wof:name":"Ryder Truck Rental",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -92.06627,
+    30.254043,
+    -92.06627,
+    30.254043
+],
+  "geometry": {"coordinates":[-92.06627,30.254043],"type":"Point"}
+}

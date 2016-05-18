@@ -1,0 +1,73 @@
+{
+  "id": 840362333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.308052,30.237093,-93.308052,30.237093",
+    "geom:latitude":30.237093,
+    "geom:longitude":-93.308052,
+    "iso:country":"US",
+    "sg:address":"3611 US Hwy 90",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 882 0704",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49tJYSTSgvXa7YOzJT1DGa_30.237093_-93.308052@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529491,
+    "wof:geomhash":"44ec49ef3fee254b78afc9135b398e6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840362333
+        }
+    ],
+    "wof:id":840362333,
+    "wof:lastmodified":1463529491,
+    "wof:name":"Byrd Instruments",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.308052,
+    30.237093,
+    -93.308052,
+    30.237093
+],
+  "geometry": {"coordinates":[-93.308052,30.237093],"type":"Point"}
+}

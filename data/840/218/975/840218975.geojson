@@ -1,0 +1,75 @@
+{
+  "id": 840218975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359394,30.247138,-93.359394,30.247138",
+    "geom:latitude":30.247138,
+    "geom:longitude":-93.359394,
+    "iso:country":"US",
+    "sg:address":"1013 N Beglis Pkwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 5100",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KED3RJ6Jb09KJKHzyFI4f_30.247138_-93.359394@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523809,
+    "wof:geomhash":"516a18b25d1dc3e877fc44e93bd1fa70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840218975
+        }
+    ],
+    "wof:id":840218975,
+    "wof:lastmodified":1463523809,
+    "wof:name":"NAPA Auto & Truck Parts",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.359394,
+    30.247138,
+    -93.359394,
+    30.247138
+],
+  "geometry": {"coordinates":[-93.35939399999999,30.247138],"type":"Point"}
+}

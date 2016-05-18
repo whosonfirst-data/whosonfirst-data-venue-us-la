@@ -1,0 +1,75 @@
+{
+  "id": 840346339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.181922,29.949129,-90.181922,29.949129",
+    "geom:latitude":29.949129,
+    "geom:longitude":-90.181922,
+    "iso:country":"US",
+    "sg:address":"5330 Jefferson Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 734 9777",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R6plO80PWuEtaWPecNOf7_29.949129_-90.181922@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528714,
+    "wof:geomhash":"487fe96627a28957146669d1b1209a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840346339
+        }
+    ],
+    "wof:id":840346339,
+    "wof:lastmodified":1463528714,
+    "wof:name":"Devon Self Storage",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.181922,
+    29.949129,
+    -90.181922,
+    29.949129
+],
+  "geometry": {"coordinates":[-90.181922,29.949129],"type":"Point"}
+}

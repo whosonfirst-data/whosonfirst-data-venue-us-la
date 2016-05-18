@@ -1,0 +1,75 @@
+{
+  "id": 840325575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.111759,32.492888,-92.111759,32.492888",
+    "geom:latitude":32.492888,
+    "geom:longitude":-92.111759,
+    "iso:country":"US",
+    "sg:address":"1013 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 5531",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5llqIKhKe4wy5CgYTDLT8Y_32.492888_-92.111759@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527748,
+    "wof:geomhash":"77a8f53581d0159276ef00594db9e868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840325575
+        }
+    ],
+    "wof:id":840325575,
+    "wof:lastmodified":1463527748,
+    "wof:name":"Muffler Center",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -92.111759,
+    32.492888,
+    -92.111759,
+    32.492888
+],
+  "geometry": {"coordinates":[-92.11175900000001,32.492888],"type":"Point"}
+}

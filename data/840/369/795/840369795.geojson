@@ -1,0 +1,75 @@
+{
+  "id": 840369795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204048,31.073632,-93.204048,31.073632",
+    "geom:latitude":31.073632,
+    "geom:longitude":-93.204048,
+    "iso:country":"US",
+    "sg:address":"1457 Chaffee Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 2636",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gDFRxFluJFV1e4uODzAB0_31.073632_-93.204048@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529891,
+    "wof:geomhash":"d43bcde3b55be9aeb073702a72e7cac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840369795
+        }
+    ],
+    "wof:id":840369795,
+    "wof:lastmodified":1463529891,
+    "wof:name":"Logree Automotive & Collision",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.204048,
+    31.073632,
+    -93.204048,
+    31.073632
+],
+  "geometry": {"coordinates":[-93.204048,31.073632],"type":"Point"}
+}

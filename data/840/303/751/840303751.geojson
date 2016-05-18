@@ -1,0 +1,79 @@
+{
+  "id": 840303751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.434265,31.354908,-92.434265,31.354908",
+    "geom:latitude":31.354908,
+    "geom:longitude":-92.434265,
+    "iso:country":"US",
+    "sg:address":"2495 Shreveport Hwy",
+    "sg:city":"Pineville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 473 0010",
+    "sg:postcode":"71360",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hosp",
+        "ex",
+        "psychiatric",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948321,
+        102081039,
+        85820213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NSU8PKGJaKTNtRMIZFkRT_31.354908_-92.434265@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526709,
+    "wof:geomhash":"be07d43e744a63e341b77f494b9923c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948321,
+            "neighbourhood_id":85820213,
+            "region_id":85688735,
+            "venue_id":840303751
+        }
+    ],
+    "wof:id":840303751,
+    "wof:lastmodified":1463526709,
+    "wof:name":"US Veterans Medical Ctr",
+    "wof:parent_id":85820213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hosp",
+        "ex",
+        "psychiatric",
+        "government"
+    ]
+},
+  "bbox": [
+    -92.434265,
+    31.354908,
+    -92.434265,
+    31.354908
+],
+  "geometry": {"coordinates":[-92.434265,31.354908],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840456853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.517125,31.345088,-92.517125,31.345088",
+    "geom:latitude":31.345088,
+    "geom:longitude":-92.517125,
+    "iso:country":"US",
+    "sg:address":"6021 Old Boyce Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/188243-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948321,
+        102081039,
+        85820213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x4FiXiGXqOzpyyFR12YAn_31.345088_-92.517125@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533569,
+    "wof:geomhash":"a0a7cc066f1a6bb9e9082f68f186ab38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948321,
+            "neighbourhood_id":85820213,
+            "region_id":85688735,
+            "venue_id":840456853
+        }
+    ],
+    "wof:id":840456853,
+    "wof:lastmodified":1463533569,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85820213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.517125,
+    31.345088,
+    -92.517125,
+    31.345088
+],
+  "geometry": {"coordinates":[-92.51712499999999,31.345088],"type":"Point"}
+}

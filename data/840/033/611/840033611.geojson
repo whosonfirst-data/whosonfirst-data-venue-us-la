@@ -1,0 +1,71 @@
+{
+  "id": 840033611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.279603,30.095403,-93.279603,30.095403",
+    "geom:latitude":30.095403,
+    "geom:longitude":-93.279603,
+    "iso:country":"US",
+    "sg:address":"8635 Joe Ledoux Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 5444",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R53LArV0wYmZboLVXutWd_30.095403_-93.279603@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519706,
+    "wof:geomhash":"19cf755ea4145fc3b8736b6f15b7955a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840033611
+        }
+    ],
+    "wof:id":840033611,
+    "wof:lastmodified":1463519706,
+    "wof:name":"Joes AC",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -93.279603,
+    30.095403,
+    -93.279603,
+    30.095403
+],
+  "geometry": {"coordinates":[-93.27960299999999,30.095403],"type":"Point"}
+}

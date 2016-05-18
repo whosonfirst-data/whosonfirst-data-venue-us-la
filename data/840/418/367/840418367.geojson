@@ -1,0 +1,71 @@
+{
+  "id": 840418367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.48789,31.566659,-93.48789,31.566659",
+    "geom:latitude":31.566659,
+    "geom:longitude":-93.48789,
+    "iso:country":"US",
+    "sg:address":"200 Elizabeth St",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 3682",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RTTNOKEC2pKRLVHh72ZBL_31.566659_-93.487890@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531960,
+    "wof:geomhash":"19cf96a8b475a03dc16a4d9e0e401e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840418367
+        }
+    ],
+    "wof:id":840418367,
+    "wof:lastmodified":1463531960,
+    "wof:name":"Fred's Store",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.48789,
+    31.566659,
+    -93.48789,
+    31.566659
+],
+  "geometry": {"coordinates":[-93.48788999999999,31.566659],"type":"Point"}
+}

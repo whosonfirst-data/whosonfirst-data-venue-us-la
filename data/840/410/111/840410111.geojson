@@ -1,0 +1,71 @@
+{
+  "id": 840410111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.087278,32.510107,-92.087278,32.510107",
+    "geom:latitude":32.510107,
+    "geom:longitude":-92.087278,
+    "iso:country":"US",
+    "sg:address":"1605 Swayze St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 410 8749",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hs7kalhaaQyuhgaUKHafF_32.510107_-92.087278@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531626,
+    "wof:geomhash":"d4462e306c7e2f7e4839c298e073c6c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840410111
+        }
+    ],
+    "wof:id":840410111,
+    "wof:lastmodified":1463531626,
+    "wof:name":"Swayze Street Groceries",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -92.087278,
+    32.510107,
+    -92.087278,
+    32.510107
+],
+  "geometry": {"coordinates":[-92.087278,32.510107],"type":"Point"}
+}

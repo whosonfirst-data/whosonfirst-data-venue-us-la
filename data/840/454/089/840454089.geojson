@@ -1,0 +1,86 @@
+{
+  "id": 840454089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.805251,30.296072,-89.805251,30.296072",
+    "geom:latitude":30.296072,
+    "geom:longitude":-89.805251,
+    "iso:country":"US",
+    "sg:address":"1838 Gause Blvd W",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bonfouca/80235-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 649 3030",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85819983,
+        102082453,
+        102191575,
+        85948031,
+        85849001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fup0ituu0GQuNkKTUmyIw_30.296072_-89.805251@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533471,
+    "wof:geomhash":"1080fc74be0b9c7b36b6ff1124353d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85819983,
+            "region_id":85688735,
+            "venue_id":840454089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85849001,
+            "region_id":85688735,
+            "venue_id":840454089
+        }
+    ],
+    "wof:id":840454089,
+    "wof:lastmodified":1463533471,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.805251,
+    30.296072,
+    -89.805251,
+    30.296072
+],
+  "geometry": {"coordinates":[-89.805251,30.296072],"type":"Point"}
+}

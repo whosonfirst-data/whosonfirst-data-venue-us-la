@@ -1,0 +1,71 @@
+{
+  "id": 840421527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.08761,32.484712,-92.08761,32.484712",
+    "geom:latitude":32.484712,
+    "geom:longitude":-92.08761,
+    "iso:country":"US",
+    "sg:address":"1425 Winnsboro Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 362 0026",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SCJ1Auh1hAKgeKlYYbxVS_32.484712_-92.087610@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532099,
+    "wof:geomhash":"0ece2a105a9a94fbdefe979d81591bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840421527
+        }
+    ],
+    "wof:id":840421527,
+    "wof:lastmodified":1463532099,
+    "wof:name":"Checker Cab",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -92.08761,
+    32.484712,
+    -92.08761,
+    32.484712
+],
+  "geometry": {"coordinates":[-92.08761,32.484712],"type":"Point"}
+}

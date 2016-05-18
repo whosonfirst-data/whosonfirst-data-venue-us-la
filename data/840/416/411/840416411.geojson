@@ -1,0 +1,71 @@
+{
+  "id": 840416411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.940636,30.050766,-91.940636,30.050766",
+    "geom:latitude":30.050766,
+    "geom:longitude":-91.940636,
+    "iso:country":"US",
+    "sg:address":"6505 Coteau Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 0240",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73itUWTApeepNMzk7dZ6Er_30.050766_-91.940636@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531882,
+    "wof:geomhash":"6188605a28d2cc531013fb43e585f362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840416411
+        }
+    ],
+    "wof:id":840416411,
+    "wof:lastmodified":1463531882,
+    "wof:name":"David Landfill",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -91.940636,
+    30.050766,
+    -91.940636,
+    30.050766
+],
+  "geometry": {"coordinates":[-91.940636,30.050766],"type":"Point"}
+}

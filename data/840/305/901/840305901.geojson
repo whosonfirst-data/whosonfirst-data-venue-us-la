@@ -1,0 +1,71 @@
+{
+  "id": 840305901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.270109,31.018932,-93.270109,31.018932",
+    "geom:latitude":31.018932,
+    "geom:longitude":-93.270109,
+    "iso:country":"US",
+    "sg:address":"12393 Lake Charles Hwy",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 239 3881",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nk9wusQtLKO8m6l8OIdEc_31.018932_-93.270109@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526801,
+    "wof:geomhash":"83f5708c0e313f5dcbdea1f82e0a5ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840305901
+        }
+    ],
+    "wof:id":840305901,
+    "wof:lastmodified":1463526801,
+    "wof:name":"E & WS Trailways",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility"
+    ]
+},
+  "bbox": [
+    -93.270109,
+    31.018932,
+    -93.270109,
+    31.018932
+],
+  "geometry": {"coordinates":[-93.27010900000001,31.018932],"type":"Point"}
+}

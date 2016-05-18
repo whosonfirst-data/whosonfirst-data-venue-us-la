@@ -1,0 +1,75 @@
+{
+  "id": 840456109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.746033,32.454324,-93.746033,32.454324",
+    "geom:latitude":32.454324,
+    "geom:longitude":-93.746033,
+    "iso:country":"US",
+    "sg:address":"5920 Line Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/cedar-grove/188448-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hvzICDdUSoDTZCk5HUifT_32.454324_-93.746033@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533542,
+    "wof:geomhash":"1fbf94992692051cc99cfa0f82357ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880995,
+            "region_id":85688735,
+            "venue_id":840456109
+        }
+    ],
+    "wof:id":840456109,
+    "wof:lastmodified":1463533542,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85880995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.746033,
+    32.454324,
+    -93.746033,
+    32.454324
+],
+  "geometry": {"coordinates":[-93.746033,32.454324],"type":"Point"}
+}

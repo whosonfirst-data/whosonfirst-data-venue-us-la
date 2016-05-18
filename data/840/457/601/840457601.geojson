@@ -1,0 +1,74 @@
+{
+  "id": 840457601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258119,30.25331,-93.258119,30.25331",
+    "geom:latitude":30.25331,
+    "geom:longitude":-93.258119,
+    "iso:country":"US",
+    "sg:address":"1608 Sampson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/westlake/132084-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 494 0822",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CVCZ2pADwZq4MrBSm2H1H_30.253258_-93.258027@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533599,
+    "wof:geomhash":"5adec556c915313e2be1fcd8c55816fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840457601
+        }
+    ],
+    "wof:id":840457601,
+    "wof:lastmodified":1463533599,
+    "wof:name":"Subway",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.258119,
+    30.25331,
+    -93.258119,
+    30.25331
+],
+  "geometry": {"coordinates":[-93.25811899999999,30.25331],"type":"Point"}
+}

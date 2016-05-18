@@ -1,0 +1,73 @@
+{
+  "id": 840103113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.350738,30.210308,-93.350738,30.210308",
+    "geom:latitude":30.210308,
+    "geom:longitude":-93.350738,
+    "iso:country":"US",
+    "sg:address":"2915 S Post Oak Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 3812",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2glsi4qLxahDPQVuk4zsNj_30.210308_-93.350738@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521282,
+    "wof:geomhash":"ff755ce407dcee31b631c793012d566f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840103113
+        }
+    ],
+    "wof:id":840103113,
+    "wof:lastmodified":1463521282,
+    "wof:name":"Public Works Dept",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.350738,
+    30.210308,
+    -93.350738,
+    30.210308
+],
+  "geometry": {"coordinates":[-93.35073800000001,30.210308],"type":"Point"}
+}

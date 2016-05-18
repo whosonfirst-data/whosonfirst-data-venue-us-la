@@ -1,0 +1,71 @@
+{
+  "id": 840076743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.110965,30.181475,-92.110965,30.181475",
+    "geom:latitude":30.181475,
+    "geom:longitude":-92.110965,
+    "iso:country":"US",
+    "sg:address":"856 Ridge Rd",
+    "sg:city":"Duson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 2050",
+    "sg:postcode":"70529",
+    "sg:province":"LA",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B7RT6OaXulschsQx1fece_30.181475_-92.110965@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520615,
+    "wof:geomhash":"bd1878ebf099fc12fa66b8f4845517e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840076743
+        }
+    ],
+    "wof:id":840076743,
+    "wof:lastmodified":1463520615,
+    "wof:name":"ARI",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -92.110965,
+    30.181475,
+    -92.110965,
+    30.181475
+],
+  "geometry": {"coordinates":[-92.11096499999999,30.181475],"type":"Point"}
+}

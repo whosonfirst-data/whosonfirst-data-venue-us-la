@@ -1,0 +1,73 @@
+{
+  "id": 840329503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.019717,30.224196,-92.019717,30.224196",
+    "geom:latitude":30.224196,
+    "geom:longitude":-92.019717,
+    "iso:country":"US",
+    "sg:address":"611 S Buchanan St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 264 7181",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GRkf2o6gWd4JynGoSJxlo_30.224196_-92.019717@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527919,
+    "wof:geomhash":"567ea3f1e797ace9d0df018501674c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840329503
+        }
+    ],
+    "wof:id":840329503,
+    "wof:lastmodified":1463527919,
+    "wof:name":"Lab Techniques",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -92.019717,
+    30.224196,
+    -92.019717,
+    30.224196
+],
+  "geometry": {"coordinates":[-92.019717,30.224196],"type":"Point"}
+}

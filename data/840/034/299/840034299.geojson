@@ -1,0 +1,75 @@
+{
+  "id": 840034299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.267733,30.168714,-93.267733,30.168714",
+    "geom:latitude":30.168714,
+    "geom:longitude":-93.267733,
+    "iso:country":"US",
+    "sg:address":"3001 Country Club Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 2400",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GOXZRHQBUrw1vRiFkphSr_30.168714_-93.267733@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519719,
+    "wof:geomhash":"0057d2ebc3611ba621d52214aa392ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840034299
+        }
+    ],
+    "wof:id":840034299,
+    "wof:lastmodified":1463519719,
+    "wof:name":"Country Club Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.267733,
+    30.168714,
+    -93.267733,
+    30.168714
+],
+  "geometry": {"coordinates":[-93.26773300000001,30.168714],"type":"Point"}
+}

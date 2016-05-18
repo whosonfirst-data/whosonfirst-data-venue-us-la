@@ -1,0 +1,85 @@
+{
+  "id": 840023447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.075313,29.930658,-90.075313,29.930658",
+    "geom:latitude":29.930658,
+    "geom:longitude":-90.075313,
+    "iso:country":"US",
+    "sg:address":"2049 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 5525",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop",
+        "rock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hoUeqNS1mxdhaxj6mdCgF_29.930658_-90.075313@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519475,
+    "wof:geomhash":"958d8ffebbec46402170dba0406f098a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840023447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840023447
+        }
+    ],
+    "wof:id":840023447,
+    "wof:lastmodified":1463519475,
+    "wof:name":"Southern Fossil & Mineral Exch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "rock"
+    ]
+},
+  "bbox": [
+    -90.075313,
+    29.930658,
+    -90.075313,
+    29.930658
+],
+  "geometry": {"coordinates":[-90.07531299999999,29.930658],"type":"Point"}
+}

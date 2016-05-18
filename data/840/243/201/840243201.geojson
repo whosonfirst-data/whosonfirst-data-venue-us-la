@@ -1,0 +1,73 @@
+{
+  "id": 840243201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.711779,32.431899,-93.711779,32.431899",
+    "geom:latitude":32.431899,
+    "geom:longitude":-93.711779,
+    "iso:country":"US",
+    "sg:address":"1717 E Bert Kouns Industrial Loop",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 524 1717",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CcZNS2bJHrCrYsOwWKT2q_32.431899_-93.711779@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524432,
+    "wof:geomhash":"14fe5dc9c7c86b96c73414cbc2df48ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840243201
+        }
+    ],
+    "wof:id":840243201,
+    "wof:lastmodified":1463524432,
+    "wof:name":"Pediatric Associates",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.711779,
+    32.431899,
+    -93.711779,
+    32.431899
+],
+  "geometry": {"coordinates":[-93.71177900000001,32.431899],"type":"Point"}
+}

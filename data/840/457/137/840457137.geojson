@@ -1,0 +1,83 @@
+{
+  "id": 840457137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.187711,30.015321,-90.187711,30.015321",
+    "geom:latitude":30.015321,
+    "geom:longitude":-90.187711,
+    "iso:country":"US",
+    "sg:address":"4301 Clearview Pkwy",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/metairie/27231-caffe-caffe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 885 4845",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YPyfbRHExpniH3ZZL5rvk_30.015247_-90.187666@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533584,
+    "wof:geomhash":"e4bda1e43a417ed898018c70f22cf7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840457137
+        }
+    ],
+    "wof:id":840457137,
+    "wof:lastmodified":1463533584,
+    "wof:name":"Caffe Caffe",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.187711,
+    30.015321,
+    -90.187711,
+    30.015321
+],
+  "geometry": {"coordinates":[-90.18771099999999,30.015321],"type":"Point"}
+}

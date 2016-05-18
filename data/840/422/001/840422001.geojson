@@ -1,0 +1,71 @@
+{
+  "id": 840422001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.3997,30.869001,-90.3997,30.869001",
+    "geom:latitude":30.869001,
+    "geom:longitude":-90.3997,
+    "iso:country":"US",
+    "sg:address":"19504 Hwy 440",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 5309",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XnnQuKoT28dR7KN9FQ2EQ_30.869001_-90.399700@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532116,
+    "wof:geomhash":"dc48de11d6100096073cdaef76ed199a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840422001
+        }
+    ],
+    "wof:id":840422001,
+    "wof:lastmodified":1463532116,
+    "wof:name":"Tates Paint Body Shop",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.3997,
+    30.869001,
+    -90.3997,
+    30.869001
+],
+  "geometry": {"coordinates":[-90.3997,30.869001],"type":"Point"}
+}

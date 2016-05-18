@@ -1,0 +1,75 @@
+{
+  "id": 840345015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.701011,32.528805,-93.701011,32.528805",
+    "geom:latitude":32.528805,
+    "geom:longitude":-93.701011,
+    "iso:country":"US",
+    "sg:address":"3052 E Texas St",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 742 7828",
+    "sg:postcode":"71111",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529577,
+        85811501,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bJiFrUikS0mhAvujrAbkv_32.528805_-93.701011@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528656,
+    "wof:geomhash":"4737a0f613848377ef7f1b2ad1c7b668",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529577,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85811501,
+            "region_id":85688735,
+            "venue_id":840345015
+        }
+    ],
+    "wof:id":840345015,
+    "wof:lastmodified":1463528656,
+    "wof:name":"Brian Veterinary Hospital",
+    "wof:parent_id":102529577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.701011,
+    32.528805,
+    -93.701011,
+    32.528805
+],
+  "geometry": {"coordinates":[-93.70101099999999,32.528805],"type":"Point"}
+}

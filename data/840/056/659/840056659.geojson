@@ -1,0 +1,71 @@
+{
+  "id": 840056659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.705129,32.019032,-93.705129,32.019032",
+    "geom:latitude":32.019032,
+    "geom:longitude":-93.705129,
+    "iso:country":"US",
+    "sg:address":"960 Oxford Rd",
+    "sg:city":"Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 871 2800",
+    "sg:postcode":"71052",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85842867,
+        102084887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wsdrcrorIbDgUNEuI1ohI_32.019032_-93.705129@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520194,
+    "wof:geomhash":"cb49e3e2c4315c6ca1400a64903bac6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "neighbourhood_id":85842867,
+            "region_id":85688735,
+            "venue_id":840056659
+        }
+    ],
+    "wof:id":840056659,
+    "wof:lastmodified":1463520194,
+    "wof:name":"Horton's Auto Repair",
+    "wof:parent_id":85842867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.705129,
+    32.019032,
+    -93.705129,
+    32.019032
+],
+  "geometry": {"coordinates":[-93.705129,32.019032],"type":"Point"}
+}

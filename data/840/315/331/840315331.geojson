@@ -1,0 +1,73 @@
+{
+  "id": 840315331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.056853,30.147453,-92.056853,30.147453",
+    "geom:latitude":30.147453,
+    "geom:longitude":-92.056853,
+    "iso:country":"US",
+    "sg:address":"3220 Kaliste Saloom Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 8486",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w10I1i1t3PXKj3nU0zx1V_30.147453_-92.056853@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527231,
+    "wof:geomhash":"c1d260b9f22f340319829cb186b2d0a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840315331
+        }
+    ],
+    "wof:id":840315331,
+    "wof:lastmodified":1463527231,
+    "wof:name":"Our Lady Of Lourdes Hospital",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.056853,
+    30.147453,
+    -92.056853,
+    30.147453
+],
+  "geometry": {"coordinates":[-92.056853,30.147453],"type":"Point"}
+}

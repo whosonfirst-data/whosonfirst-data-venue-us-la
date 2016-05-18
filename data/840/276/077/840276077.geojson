@@ -1,0 +1,73 @@
+{
+  "id": 840276077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.195146,30.249585,-93.195146,30.249585",
+    "geom:latitude":30.249585,
+    "geom:longitude":-93.195146,
+    "iso:country":"US",
+    "sg:address":"1819 Moeling St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 1229",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YbxqLPOVmHU6z4b1PHF6Q_30.249585_-93.195146@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525448,
+    "wof:geomhash":"d566b961e65b1dd170b5fd6c720652fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840276077
+        }
+    ],
+    "wof:id":840276077,
+    "wof:lastmodified":1463525448,
+    "wof:name":"Twin Auto Repair Inc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.195146,
+    30.249585,
+    -93.195146,
+    30.249585
+],
+  "geometry": {"coordinates":[-93.19514599999999,30.249585],"type":"Point"}
+}

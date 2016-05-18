@@ -1,0 +1,71 @@
+{
+  "id": 840445253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.81074,29.952437,-91.81074,29.952437",
+    "geom:latitude":29.952437,
+    "geom:longitude":-91.81074,
+    "iso:country":"US",
+    "sg:address":"3612 Jack Brooks Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 9160",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T6CU4F1IJsj2otVqOEvWq_29.952437_-91.810740@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533099,
+    "wof:geomhash":"6c2ea570098317ba136ad388e3e6172e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840445253
+        }
+    ],
+    "wof:id":840445253,
+    "wof:lastmodified":1463533099,
+    "wof:name":"Mark's Repair",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -91.81074,
+    29.952437,
+    -91.81074,
+    29.952437
+],
+  "geometry": {"coordinates":[-91.81074,29.952437],"type":"Point"}
+}

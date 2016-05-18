@@ -1,0 +1,85 @@
+{
+  "id": 840311713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.075405,29.930404,-90.075405,29.930404",
+    "geom:latitude":29.930404,
+    "geom:longitude":-90.075405,
+    "iso:country":"US",
+    "sg:address":"2028 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 2043",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "antique",
+        "retailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i8a9qsqYZL4fksk3K37aH_29.930404_-90.075405@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527081,
+    "wof:geomhash":"582e7cd95d705334b89d0ad2df465ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840311713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840311713
+        }
+    ],
+    "wof:id":840311713,
+    "wof:lastmodified":1463527081,
+    "wof:name":"Antiques Magazine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "retailer"
+    ]
+},
+  "bbox": [
+    -90.075405,
+    29.930404,
+    -90.075405,
+    29.930404
+],
+  "geometry": {"coordinates":[-90.075405,29.930404],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840281605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.168565,30.218811,-93.168565,30.218811",
+    "geom:latitude":30.218811,
+    "geom:longitude":-93.168565,
+    "iso:country":"US",
+    "sg:address":"210 Widgeon St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 2604",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4olXvEovBoxlaFjYWH31Z6_30.218811_-93.168565@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525699,
+    "wof:geomhash":"11b387ce718b3fcf4ccff7ea4665126b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840281605
+        }
+    ],
+    "wof:id":840281605,
+    "wof:lastmodified":1463525699,
+    "wof:name":"Travtel Inc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.168565,
+    30.218811,
+    -93.168565,
+    30.218811
+],
+  "geometry": {"coordinates":[-93.168565,30.218811],"type":"Point"}
+}

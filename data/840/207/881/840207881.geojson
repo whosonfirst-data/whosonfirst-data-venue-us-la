@@ -1,0 +1,71 @@
+{
+  "id": 840207881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.70584,32.421062,-93.70584,32.421062",
+    "geom:latitude":32.421062,
+    "geom:longitude":-93.70584,
+    "iso:country":"US",
+    "sg:address":"8714 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 4002",
+    "sg:postcode":"71115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JUX84dGqKWxduQozFPyy5_32.421062_-93.705840@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523586,
+    "wof:geomhash":"7a2f2e2cc2185a8c5fea98311a3e92d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840207881
+        }
+    ],
+    "wof:id":840207881,
+    "wof:lastmodified":1463523586,
+    "wof:name":"Frederick Animal Hospital",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.70584,
+    32.421062,
+    -93.70584,
+    32.421062
+],
+  "geometry": {"coordinates":[-93.70583999999999,32.421062],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 840311201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.823375,30.013703,-91.823375,30.013703",
+    "geom:latitude":30.013703,
+    "geom:longitude":-91.823375,
+    "iso:country":"US",
+    "sg:address":"600 Jane St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 9594",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "concrete",
+        "center",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NzRqhLheJpTUBwYJTTSLK_30.013703_-91.823375@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527051,
+    "wof:geomhash":"f8c6010a21cd5f44ebec65165601197c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840311201
+        }
+    ],
+    "wof:id":840311201,
+    "wof:lastmodified":1463527051,
+    "wof:name":"Bayou Concrete Gardens Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "center",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.823375,
+    30.013703,
+    -91.823375,
+    30.013703
+],
+  "geometry": {"coordinates":[-91.823375,30.013703],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840399727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.041285,30.388508,-91.041285,30.388508",
+    "geom:latitude":30.388508,
+    "geom:longitude":-91.041285,
+    "iso:country":"US",
+    "sg:address":"6890 Pecue Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 344 4905",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.penske.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CgVZMKu4CPtUarykjXuqx_30.388508_-91.041285@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531198,
+    "wof:geomhash":"500e0f5f659214be4874ec1ca22a2bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840399727
+        }
+    ],
+    "wof:id":840399727,
+    "wof:lastmodified":1463531198,
+    "wof:name":"Penske Truck Rental",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -91.041285,
+    30.388508,
+    -91.041285,
+    30.388508
+],
+  "geometry": {"coordinates":[-91.041285,30.388508],"type":"Point"}
+}

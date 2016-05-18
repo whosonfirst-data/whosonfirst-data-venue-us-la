@@ -1,0 +1,73 @@
+{
+  "id": 840113835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.074887,30.182361,-92.074887,30.182361",
+    "geom:latitude":30.182361,
+    "geom:longitude":-92.074887,
+    "iso:country":"US",
+    "sg:address":"3251 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1346",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o6DzGTwhtqPee8crnMuOa_30.182361_-92.074887@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521502,
+    "wof:geomhash":"a858ec18769094d45a40fe876b916bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840113835
+        }
+    ],
+    "wof:id":840113835,
+    "wof:lastmodified":1463521502,
+    "wof:name":"Stafford Health Care Clinics",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.074887,
+    30.182361,
+    -92.074887,
+    30.182361
+],
+  "geometry": {"coordinates":[-92.074887,30.182361],"type":"Point"}
+}

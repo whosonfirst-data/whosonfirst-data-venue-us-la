@@ -1,0 +1,71 @@
+{
+  "id": 840176755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.2098,30.206743,-93.2098,30.206743",
+    "geom:latitude":30.206743,
+    "geom:longitude":-93.2098,
+    "iso:country":"US",
+    "sg:address":"700 17th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 5245",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wlWYRbGrL760U0GFimZk7_30.206743_-93.209800@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522843,
+    "wof:geomhash":"721016502ab80927e4bf894c7df3d3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840176755
+        }
+    ],
+    "wof:id":840176755,
+    "wof:lastmodified":1463522843,
+    "wof:name":"Home Bound Taxi",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -93.2098,
+    30.206743,
+    -93.2098,
+    30.206743
+],
+  "geometry": {"coordinates":[-93.2098,30.206743],"type":"Point"}
+}

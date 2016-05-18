@@ -1,0 +1,73 @@
+{
+  "id": 840229843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.078834,30.264756,-92.078834,30.264756",
+    "geom:latitude":30.264756,
+    "geom:longitude":-92.078834,
+    "iso:country":"US",
+    "sg:address":"201 Mire St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 5730",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eNyCFfpx2ofoEiHBiS8wv_30.264756_-92.078834@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524111,
+    "wof:geomhash":"e5bcc302139435f3e9e901c9efed7111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840229843
+        }
+    ],
+    "wof:id":840229843,
+    "wof:lastmodified":1463524111,
+    "wof:name":"BFI Inc",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -92.078834,
+    30.264756,
+    -92.078834,
+    30.264756
+],
+  "geometry": {"coordinates":[-92.078834,30.264756],"type":"Point"}
+}

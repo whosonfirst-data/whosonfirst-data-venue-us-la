@@ -1,0 +1,73 @@
+{
+  "id": 840363843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.931446,30.065455,-91.931446,30.065455",
+    "geom:latitude":30.065455,
+    "geom:longitude":-91.931446,
+    "iso:country":"US",
+    "sg:address":"7903 Curley St",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 6408",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gWpW9SL2UAxMkyo5x1lgO_30.065455_-91.931446@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529563,
+    "wof:geomhash":"e04d39e4d475a06969b0b253ee87d264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840363843
+        }
+    ],
+    "wof:id":840363843,
+    "wof:lastmodified":1463529563,
+    "wof:name":"Don's Auto Tech",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.931446,
+    30.065455,
+    -91.931446,
+    30.065455
+],
+  "geometry": {"coordinates":[-91.93144599999999,30.065455],"type":"Point"}
+}

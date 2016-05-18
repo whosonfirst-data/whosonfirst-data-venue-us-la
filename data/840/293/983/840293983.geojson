@@ -1,0 +1,73 @@
+{
+  "id": 840293983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.954349,29.954055,-89.954349,29.954055",
+    "geom:latitude":29.954055,
+    "geom:longitude":-89.954349,
+    "iso:country":"US",
+    "sg:address":"301 E Virtue St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 278 3700",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08t82rWDeZykM8QdypcuCq_29.954055_-89.954349@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526234,
+    "wof:geomhash":"e47d0721b3bec9957671a4f2fcb7dce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840293983
+        }
+    ],
+    "wof:id":840293983,
+    "wof:lastmodified":1463526234,
+    "wof:name":"W W Automotive Engine Exchange",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -89.954349,
+    29.954055,
+    -89.954349,
+    29.954055
+],
+  "geometry": {"coordinates":[-89.95434899999999,29.954055],"type":"Point"}
+}

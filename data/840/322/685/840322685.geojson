@@ -1,0 +1,73 @@
+{
+  "id": 840322685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.075386,30.20462,-92.075386,30.20462",
+    "geom:latitude":30.20462,
+    "geom:longitude":-92.075386,
+    "iso:country":"US",
+    "sg:address":"2510 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 6206",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aedPvaOrJhb7LoTwz3ASu_30.204620_-92.075386@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527588,
+    "wof:geomhash":"23bf75f0c3f62ccf039429c6031c0159",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840322685
+        }
+    ],
+    "wof:id":840322685,
+    "wof:lastmodified":1463527588,
+    "wof:name":"Bridge Storage",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -92.075386,
+    30.20462,
+    -92.075386,
+    30.20462
+],
+  "geometry": {"coordinates":[-92.07538599999999,30.20462],"type":"Point"}
+}

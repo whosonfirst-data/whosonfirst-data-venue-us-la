@@ -1,0 +1,73 @@
+{
+  "id": 840064499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.208492,29.971757,-90.208492,29.971757",
+    "geom:latitude":29.971757,
+    "geom:longitude":-90.208492,
+    "iso:country":"US",
+    "sg:address":"2351 Hickory Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 734 6910",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "rail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zPfK20XpV4lEj7GxSxykb_29.971757_-90.208492@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520364,
+    "wof:geomhash":"3d2f057211c5fa7779a73e51b33cbd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840064499
+        }
+    ],
+    "wof:id":840064499,
+    "wof:lastmodified":1463520364,
+    "wof:name":"Canadian National Railroad",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rail"
+    ]
+},
+  "bbox": [
+    -90.208492,
+    29.971757,
+    -90.208492,
+    29.971757
+],
+  "geometry": {"coordinates":[-90.20849200000001,29.971757],"type":"Point"}
+}

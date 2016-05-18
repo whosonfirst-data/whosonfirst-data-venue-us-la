@@ -1,0 +1,68 @@
+{
+  "id": 840282385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.101933,29.955019,-90.101933,29.955019",
+    "geom:latitude":29.955019,
+    "geom:longitude":-90.101933,
+    "iso:country":"US",
+    "sg:address":"4333 Thalia St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 821 6002",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pc3MYLDZHUh4XkZG2TZY1_29.955019_-90.101933@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525733,
+    "wof:geomhash":"6943df60c37d29b324e7b3c55e80a092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866139,
+            "region_id":85688735,
+            "venue_id":840282385
+        }
+    ],
+    "wof:id":840282385,
+    "wof:lastmodified":1463525733,
+    "wof:name":"Ed's Bar",
+    "wof:parent_id":85866139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.101933,
+    29.955019,
+    -90.101933,
+    29.955019
+],
+  "geometry": {"coordinates":[-90.101933,29.955019],"type":"Point"}
+}

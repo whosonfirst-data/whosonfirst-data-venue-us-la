@@ -1,0 +1,73 @@
+{
+  "id": 840090377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.07992,30.625852,-91.07992,30.625852",
+    "geom:latitude":30.625852,
+    "geom:longitude":-91.07992,
+    "iso:country":"US",
+    "sg:address":"9743 Arleen Ave",
+    "sg:city":"Zachary",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 654 5408",
+    "sg:postcode":"70791",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nFg8HfniViq0tYLgsKzgZ_30.625852_-91.079920@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521027,
+    "wof:geomhash":"1285f452d919a7c7160c6869408f6b58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840090377
+        }
+    ],
+    "wof:id":840090377,
+    "wof:lastmodified":1463521027,
+    "wof:name":"Industrial Equipment & Vehicle",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -91.07992,
+    30.625852,
+    -91.07992,
+    30.625852
+],
+  "geometry": {"coordinates":[-91.07992,30.625852],"type":"Point"}
+}

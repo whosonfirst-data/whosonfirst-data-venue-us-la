@@ -1,0 +1,71 @@
+{
+  "id": 840283079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.792254,32.411259,-93.792254,32.411259",
+    "geom:latitude":32.411259,
+    "geom:longitude":-93.792254,
+    "iso:country":"US",
+    "sg:address":"8901 Hawthorne Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 4849",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HDfZzpB2vCJtTtXryQi7C_32.411259_-93.792254@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525760,
+    "wof:geomhash":"fb9363e34e0fd43fb4722717411bb3bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840283079
+        }
+    ],
+    "wof:id":840283079,
+    "wof:lastmodified":1463525760,
+    "wof:name":"Dynasty Limousine Inc",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -93.792254,
+    32.411259,
+    -93.792254,
+    32.411259
+],
+  "geometry": {"coordinates":[-93.792254,32.411259],"type":"Point"}
+}

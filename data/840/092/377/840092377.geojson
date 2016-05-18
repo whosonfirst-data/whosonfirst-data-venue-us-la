@@ -1,0 +1,73 @@
+{
+  "id": 840092377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.917339,30.0509,-91.917339,30.0509",
+    "geom:latitude":30.0509,
+    "geom:longitude":-91.917339,
+    "iso:country":"US",
+    "sg:address":"4104 Coteau Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 6111",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TIw7GrHFvPY2Ksrqw8OCd_30.050900_-91.917339@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521067,
+    "wof:geomhash":"5d69d176404b2bb04ad455739bab135e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840092377
+        }
+    ],
+    "wof:id":840092377,
+    "wof:lastmodified":1463521067,
+    "wof:name":"Coteau Water System Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.917339,
+    30.0509,
+    -91.917339,
+    30.0509
+],
+  "geometry": {"coordinates":[-91.917339,30.0509],"type":"Point"}
+}

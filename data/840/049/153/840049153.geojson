@@ -1,0 +1,73 @@
+{
+  "id": 840049153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.153345,30.227567,-93.153345,30.227567",
+    "geom:latitude":30.227567,
+    "geom:longitude":-93.153345,
+    "iso:country":"US",
+    "sg:address":"4930 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 0898",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4liWPRk05Cvni45ruMT5d5_30.227567_-93.153345@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520020,
+    "wof:geomhash":"c45dcd39880a67e81a0474ad9d04420f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840049153
+        }
+    ],
+    "wof:id":840049153,
+    "wof:lastmodified":1463520020,
+    "wof:name":"Conner Electric Svc Inc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.153345,
+    30.227567,
+    -93.153345,
+    30.227567
+],
+  "geometry": {"coordinates":[-93.153345,30.227567],"type":"Point"}
+}

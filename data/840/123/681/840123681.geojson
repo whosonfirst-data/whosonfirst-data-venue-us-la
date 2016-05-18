@@ -1,0 +1,71 @@
+{
+  "id": 840123681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.087327,30.23306,-92.087327,30.23306",
+    "geom:latitude":30.23306,
+    "geom:longitude":-92.087327,
+    "iso:country":"US",
+    "sg:address":"5515 Cameron St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 5436",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aBuDrBnX3s09DNAAWeZaM_30.233060_-92.087327@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521725,
+    "wof:geomhash":"a492c751ca70e35924c8615492989651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840123681
+        }
+    ],
+    "wof:id":840123681,
+    "wof:lastmodified":1463521725,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.087327,
+    30.23306,
+    -92.087327,
+    30.23306
+],
+  "geometry": {"coordinates":[-92.087327,30.23306],"type":"Point"}
+}

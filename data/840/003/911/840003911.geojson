@@ -1,0 +1,73 @@
+{
+  "id": 840003911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.4788,31.280762,-92.4788,31.280762",
+    "geom:latitude":31.280762,
+    "geom:longitude":-92.4788,
+    "iso:country":"US",
+    "sg:address":"4124 Jackson St Exd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 445 3653",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AS7TT16HKNstvtYb2cJGx_31.280762_-92.478800@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519073,
+    "wof:geomhash":"12921485586dea0753d02968f73f2240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840003911
+        }
+    ],
+    "wof:id":840003911,
+    "wof:lastmodified":1463519073,
+    "wof:name":"James T Pate MD",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.4788,
+    31.280762,
+    -92.4788,
+    31.280762
+],
+  "geometry": {"coordinates":[-92.47880000000001,31.280762],"type":"Point"}
+}

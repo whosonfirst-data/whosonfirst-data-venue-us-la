@@ -1,0 +1,71 @@
+{
+  "id": 840428171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.370002,30.231042,-93.370002,30.231042",
+    "geom:latitude":30.231042,
+    "geom:longitude":-93.370002,
+    "iso:country":"US",
+    "sg:address":"619 Cypress St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 3932",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IDHWWu6UrhRrt7Yyv0eVp_30.231042_-93.370002@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532364,
+    "wof:geomhash":"1347b9e41d69dfd8dac2a9baf0f665a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840428171
+        }
+    ],
+    "wof:id":840428171,
+    "wof:lastmodified":1463532364,
+    "wof:name":"James M Fontenot DDS",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.370002,
+    30.231042,
+    -93.370002,
+    30.231042
+],
+  "geometry": {"coordinates":[-93.370002,30.231042],"type":"Point"}
+}

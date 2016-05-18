@@ -1,0 +1,74 @@
+{
+  "id": 840457897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.480975,31.277039,-92.480975,31.277039",
+    "geom:latitude":31.277039,
+    "geom:longitude":-92.480975,
+    "iso:country":"US",
+    "sg:address":"4605 Jackson Street Ext",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/72935-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 6000",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aujXhIs0X1tUtXU8IM5Dg_31.276410_-92.481397@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533609,
+    "wof:geomhash":"eb68fd981929233aa7dfe17ad6e944ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840457897
+        }
+    ],
+    "wof:id":840457897,
+    "wof:lastmodified":1463533609,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.480975,
+    31.277039,
+    -92.480975,
+    31.277039
+],
+  "geometry": {"coordinates":[-92.480975,31.277039],"type":"Point"}
+}

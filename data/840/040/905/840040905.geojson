@@ -1,0 +1,75 @@
+{
+  "id": 840040905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.161524,30.158097,-93.161524,30.158097",
+    "geom:latitude":30.158097,
+    "geom:longitude":-93.161524,
+    "iso:country":"US",
+    "sg:address":"3323 State Rte 14",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 1190",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YMFeRXzaaS5JuW6aOotrr_30.158097_-93.161524@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519872,
+    "wof:geomhash":"f07f31f90ff673c7b7797867f6c98c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840040905
+        }
+    ],
+    "wof:id":840040905,
+    "wof:lastmodified":1463519872,
+    "wof:name":"Harry's Automotive Machine Shp",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.161524,
+    30.158097,
+    -93.161524,
+    30.158097
+],
+  "geometry": {"coordinates":[-93.161524,30.158097],"type":"Point"}
+}

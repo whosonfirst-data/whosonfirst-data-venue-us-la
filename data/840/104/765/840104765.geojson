@@ -1,0 +1,71 @@
+{
+  "id": 840104765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.738883,30.057973,-91.738883,30.057973",
+    "geom:latitude":30.057973,
+    "geom:longitude":-91.738883,
+    "iso:country":"US",
+    "sg:address":"119 Helen St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 4935",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eV0x63R0GiNHngWhwjQnI_30.057973_-91.738883@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521327,
+    "wof:geomhash":"2682283c6286c3a631fb2466ebf73cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840104765
+        }
+    ],
+    "wof:id":840104765,
+    "wof:lastmodified":1463521327,
+    "wof:name":"Alton's Welding Svc Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -91.738883,
+    30.057973,
+    -91.738883,
+    30.057973
+],
+  "geometry": {"coordinates":[-91.738883,30.057973],"type":"Point"}
+}

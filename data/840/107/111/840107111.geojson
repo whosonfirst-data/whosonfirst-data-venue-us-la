@@ -1,0 +1,75 @@
+{
+  "id": 840107111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.667344,32.466762,-93.667344,32.466762",
+    "geom:latitude":32.466762,
+    "geom:longitude":-93.667344,
+    "iso:country":"US",
+    "sg:address":"4614 Barksdale Blvd",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 747 2250",
+    "sg:postcode":"71112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85805419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jGHF8GBY08lqjIKBcsHAY_32.466762_-93.667344@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521375,
+    "wof:geomhash":"b61c1849d26e6ba9feb4307e628e9bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85805419,
+            "region_id":85688735,
+            "venue_id":840107111
+        }
+    ],
+    "wof:id":840107111,
+    "wof:lastmodified":1463521375,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85805419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.667344,
+    32.466762,
+    -93.667344,
+    32.466762
+],
+  "geometry": {"coordinates":[-93.667344,32.466762],"type":"Point"}
+}

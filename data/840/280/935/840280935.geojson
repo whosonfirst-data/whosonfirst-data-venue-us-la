@@ -1,0 +1,71 @@
+{
+  "id": 840280935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.951573,32.442838,-93.951573,32.442838",
+    "geom:latitude":32.442838,
+    "geom:longitude":-93.951573,
+    "iso:country":"US",
+    "sg:address":"8092 W 70th St",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 938 7392",
+    "sg:postcode":"71033",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85880975,
+        102087235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MjhfadvRn50suxerLzdi2_32.442838_-93.951573@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525669,
+    "wof:geomhash":"1a3f749851a98e24ee3d010d9677e97a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "neighbourhood_id":85880975,
+            "region_id":85688735,
+            "venue_id":840280935
+        }
+    ],
+    "wof:id":840280935,
+    "wof:lastmodified":1463525669,
+    "wof:name":"West 70th Auto Svc Ctr",
+    "wof:parent_id":85880975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.951573,
+    32.442838,
+    -93.951573,
+    32.442838
+],
+  "geometry": {"coordinates":[-93.951573,32.442838],"type":"Point"}
+}

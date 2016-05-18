@@ -1,0 +1,71 @@
+{
+  "id": 840431723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.070194,32.448667,-92.070194,32.448667",
+    "geom:latitude":32.448667,
+    "geom:longitude":-92.070194,
+    "iso:country":"US",
+    "sg:address":"2723 Martin Luther King Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 8992",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dWGuqGCy9t3H0blJssaxy_32.448667_-92.070194@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532526,
+    "wof:geomhash":"80e8d39391f1e094a9e5ef77427dbf62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840431723
+        }
+    ],
+    "wof:id":840431723,
+    "wof:lastmodified":1463532526,
+    "wof:name":"Community Grocery Store",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -92.070194,
+    32.448667,
+    -92.070194,
+    32.448667
+],
+  "geometry": {"coordinates":[-92.070194,32.448667],"type":"Point"}
+}

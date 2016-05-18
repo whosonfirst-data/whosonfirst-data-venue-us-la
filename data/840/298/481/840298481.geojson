@@ -1,0 +1,71 @@
+{
+  "id": 840298481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.095439,30.237728,-92.095439,30.237728",
+    "geom:latitude":30.237728,
+    "geom:longitude":-92.095439,
+    "iso:country":"US",
+    "sg:address":"1121 Saint Mary St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 1148",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e7K2PLG1IaPZlXzeIkkpT_30.237728_-92.095439@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526421,
+    "wof:geomhash":"97b6a5b1085eb0de28f5113169e28a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840298481
+        }
+    ],
+    "wof:id":840298481,
+    "wof:lastmodified":1463526421,
+    "wof:name":"Recovery Room Upholstery",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -92.095439,
+    30.237728,
+    -92.095439,
+    30.237728
+],
+  "geometry": {"coordinates":[-92.095439,30.237728],"type":"Point"}
+}

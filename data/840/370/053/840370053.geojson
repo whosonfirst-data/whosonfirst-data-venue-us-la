@@ -1,0 +1,73 @@
+{
+  "id": 840370053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.251122,30.178512,-93.251122,30.178512",
+    "geom:latitude":30.178512,
+    "geom:longitude":-93.251122,
+    "iso:country":"US",
+    "sg:address":"2005 Southwood Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 0839",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iKRfhwv1U5vew0aPCsEdQ_30.178512_-93.251122@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529901,
+    "wof:geomhash":"fab11e9f9aefd19794a85cd53f073d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840370053
+        }
+    ],
+    "wof:id":840370053,
+    "wof:lastmodified":1463529901,
+    "wof:name":"Pediatric Cardiology Of Sw LA",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.251122,
+    30.178512,
+    -93.251122,
+    30.178512
+],
+  "geometry": {"coordinates":[-93.251122,30.178512],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840235001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.102212,30.276007,-92.102212,30.276007",
+    "geom:latitude":30.276007,
+    "geom:longitude":-92.102212,
+    "iso:country":"US",
+    "sg:address":"849 Wyman Rd",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 7900",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_437ZFJXTOKnnYoRk241OIV_30.276007_-92.102212@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524246,
+    "wof:geomhash":"93bd89cf905fdf9373b702163a2fafca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840235001
+        }
+    ],
+    "wof:id":840235001,
+    "wof:lastmodified":1463524246,
+    "wof:name":"Lone Star Transportation",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.102212,
+    30.276007,
+    -92.102212,
+    30.276007
+],
+  "geometry": {"coordinates":[-92.10221199999999,30.276007],"type":"Point"}
+}

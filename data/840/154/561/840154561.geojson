@@ -1,0 +1,71 @@
+{
+  "id": 840154561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.097962,30.203904,-92.097962,30.203904",
+    "geom:latitude":30.203904,
+    "geom:longitude":-92.097962,
+    "iso:country":"US",
+    "sg:address":"306 Herbert Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 5500",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UEHufZPdpjze9mYzW5j7c_30.203904_-92.097962@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522341,
+    "wof:geomhash":"51c5a3354f230a88a375bfc8d4f56825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840154561
+        }
+    ],
+    "wof:id":840154561,
+    "wof:lastmodified":1463522341,
+    "wof:name":"Moni Ellsworth Travel Errand",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -92.097962,
+    30.203904,
+    -92.097962,
+    30.203904
+],
+  "geometry": {"coordinates":[-92.097962,30.203904],"type":"Point"}
+}

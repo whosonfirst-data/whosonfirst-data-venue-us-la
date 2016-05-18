@@ -1,0 +1,82 @@
+{
+  "id": 840166799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.232388,30.209984,-93.232388,30.209984",
+    "geom:latitude":30.209984,
+    "geom:longitude":-93.232388,
+    "iso:country":"US",
+    "sg:address":"2201 Lake St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 9116",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "agency",
+        "employment",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lXon5mVIYb5VxmoHxEcCA_30.209984_-93.232388@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522583,
+    "wof:geomhash":"c40e92a750ac7b71871e7ef81422386a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840166799
+        }
+    ],
+    "wof:id":840166799,
+    "wof:lastmodified":1463522583,
+    "wof:name":"Option Care",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "agency",
+        "employment",
+        "care"
+    ]
+},
+  "bbox": [
+    -93.232388,
+    30.209984,
+    -93.232388,
+    30.209984
+],
+  "geometry": {"coordinates":[-93.232388,30.209984],"type":"Point"}
+}

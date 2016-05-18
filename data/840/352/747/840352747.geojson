@@ -1,0 +1,71 @@
+{
+  "id": 840352747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.207477,30.462911,-91.207477,30.462911",
+    "geom:latitude":30.462911,
+    "geom:longitude":-91.207477,
+    "iso:country":"US",
+    "sg:address":"1043 6th St",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 383 1194",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DR2m3v4HxvrUqIDVneqLH_30.462911_-91.207477@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529048,
+    "wof:geomhash":"9df482398d0cb53e5951b90ca6eed68f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840352747
+        }
+    ],
+    "wof:id":840352747,
+    "wof:lastmodified":1463529048,
+    "wof:name":"Matthews Cleaning Svc",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.207477,
+    30.462911,
+    -91.207477,
+    30.462911
+],
+  "geometry": {"coordinates":[-91.207477,30.462911],"type":"Point"}
+}

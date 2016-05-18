@@ -1,0 +1,76 @@
+{
+  "id": 840453091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.114028,29.875182,-90.114028,29.875182",
+    "geom:latitude":29.875182,
+    "geom:longitude":-90.114028,
+    "iso:country":"US",
+    "sg:address":"6201 Lapalco Blvd",
+    "sg:city":"Marrero",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/avondale/197427-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 341 6303",
+    "sg:postcode":"70072",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948745,
+        102083179,
+        85866123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kp3byHS9yV0F6c93aCxvs_29.875182_-90.114028@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533427,
+    "wof:geomhash":"b0ab68ab898c5f765bd0e138d750b96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866123,
+            "region_id":85688735,
+            "venue_id":840453091
+        }
+    ],
+    "wof:id":840453091,
+    "wof:lastmodified":1463533427,
+    "wof:name":"Burger King",
+    "wof:parent_id":85866123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.114028,
+    29.875182,
+    -90.114028,
+    29.875182
+],
+  "geometry": {"coordinates":[-90.114028,29.875182],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840453395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.959401,30.044298,-89.959401,30.044298",
+    "geom:latitude":30.044298,
+    "geom:longitude":-89.959401,
+    "iso:country":"US",
+    "sg:address":"6005 Bullard Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/188415-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70128",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l8kwdDQhNBV51emW8kWoh_30.044298_-89.959401@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533439,
+    "wof:geomhash":"9c6e162b6415844ee36d74745d687ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840453395
+        }
+    ],
+    "wof:id":840453395,
+    "wof:lastmodified":1463533439,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85866173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.959401,
+    30.044298,
+    -89.959401,
+    30.044298
+],
+  "geometry": {"coordinates":[-89.959401,30.044298],"type":"Point"}
+}

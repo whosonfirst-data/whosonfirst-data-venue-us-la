@@ -1,0 +1,71 @@
+{
+  "id": 840105095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.50975,29.786177,-91.50975,29.786177",
+    "geom:latitude":29.786177,
+    "geom:longitude":-91.50975,
+    "iso:country":"US",
+    "sg:address":"505 9th St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4756",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rWB0DlRv3w0hadtvE6TVB_29.786177_-91.509750@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521334,
+    "wof:geomhash":"4d0c0a353ff824bf1274b42a8f5eb004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840105095
+        }
+    ],
+    "wof:id":840105095,
+    "wof:lastmodified":1463521334,
+    "wof:name":"Hair Connection",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.50975,
+    29.786177,
+    -91.50975,
+    29.786177
+],
+  "geometry": {"coordinates":[-91.50975,29.786177],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840386431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.217597,30.172134,-93.217597,30.172134",
+    "geom:latitude":30.172134,
+    "geom:longitude":-93.217597,
+    "iso:country":"US",
+    "sg:address":"300 Jefferson Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 304 3601",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E8N6gHfmNH8PJdIs5GAyR_30.172134_-93.217597@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530651,
+    "wof:geomhash":"b41d04de265afc380af9e3610cf24bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840386431
+        }
+    ],
+    "wof:id":840386431,
+    "wof:lastmodified":1463530651,
+    "wof:name":"Muzberg Medical",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [
+    -93.217597,
+    30.172134,
+    -93.217597,
+    30.172134
+],
+  "geometry": {"coordinates":[-93.217597,30.172134],"type":"Point"}
+}

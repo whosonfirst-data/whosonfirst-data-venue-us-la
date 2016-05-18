@@ -1,0 +1,73 @@
+{
+  "id": 840300073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.129017,30.202962,-93.129017,30.202962",
+    "geom:latitude":30.202962,
+    "geom:longitude":-93.129017,
+    "iso:country":"US",
+    "sg:address":"2626 State Rte 397",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 3333",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dQkSNaDMMiWMGOLYC6vOQ_30.202962_-93.129017@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526490,
+    "wof:geomhash":"2f010f9ec934d75a01f44aaec5728949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840300073
+        }
+    ],
+    "wof:id":840300073,
+    "wof:lastmodified":1463526490,
+    "wof:name":"South Point Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -93.129017,
+    30.202962,
+    -93.129017,
+    30.202962
+],
+  "geometry": {"coordinates":[-93.129017,30.202962],"type":"Point"}
+}

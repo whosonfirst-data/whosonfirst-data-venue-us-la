@@ -1,0 +1,71 @@
+{
+  "id": 840201061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.109879,32.4884,-92.109879,32.4884",
+    "geom:latitude":32.4884,
+    "geom:longitude":-92.109879,
+    "iso:country":"US",
+    "sg:address":"1601 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 323 3360",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KclDUvjZVs7blYIy1ryEA_32.488400_-92.109879@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523366,
+    "wof:geomhash":"d6c3783f914aa60be104f452612aa91a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840201061
+        }
+    ],
+    "wof:id":840201061,
+    "wof:lastmodified":1463523366,
+    "wof:name":"ABC Appliance Repair",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -92.109879,
+    32.4884,
+    -92.109879,
+    32.4884
+],
+  "geometry": {"coordinates":[-92.10987900000001,32.4884],"type":"Point"}
+}

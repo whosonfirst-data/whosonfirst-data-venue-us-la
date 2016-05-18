@@ -1,0 +1,73 @@
+{
+  "id": 840000149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.200322,29.692148,-91.200322,29.692148",
+    "geom:latitude":29.692148,
+    "geom:longitude":-91.200322,
+    "iso:country":"US",
+    "sg:address":"800 Youngs Rd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 6658",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x6dO5qk385ExqfX9oBUv0_29.692148_-91.200322@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463518999,
+    "wof:geomhash":"53bf4d44c947ae4f462899f6671fcdab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840000149
+        }
+    ],
+    "wof:id":840000149,
+    "wof:lastmodified":1463518999,
+    "wof:name":"United States Customs Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -91.200322,
+    29.692148,
+    -91.200322,
+    29.692148
+],
+  "geometry": {"coordinates":[-91.200322,29.692148],"type":"Point"}
+}

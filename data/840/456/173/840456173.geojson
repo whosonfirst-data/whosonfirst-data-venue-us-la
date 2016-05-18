@@ -1,0 +1,75 @@
+{
+  "id": 840456173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.79733,32.475149,-93.79733,32.475149",
+    "geom:latitude":32.475149,
+    "geom:longitude":-93.79733,
+    "iso:country":"US",
+    "sg:address":"3610 Greenwood Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/shreveport/188445-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71109",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85881003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YJftnedLYGW8EjP440tN8_32.475149_-93.797330@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533544,
+    "wof:geomhash":"9904f38365da4fdd77938337c063f4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85881003,
+            "region_id":85688735,
+            "venue_id":840456173
+        }
+    ],
+    "wof:id":840456173,
+    "wof:lastmodified":1463533544,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.79733,
+    32.475149,
+    -93.79733,
+    32.475149
+],
+  "geometry": {"coordinates":[-93.79733,32.475149],"type":"Point"}
+}

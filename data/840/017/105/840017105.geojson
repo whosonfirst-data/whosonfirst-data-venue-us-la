@@ -1,0 +1,83 @@
+{
+  "id": 840017105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482785,30.519181,-90.482785,30.519181",
+    "geom:latitude":30.519181,
+    "geom:longitude":-90.482785,
+    "iso:country":"US",
+    "sg:address":"1807 N Morrison Blvd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 230 0180",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948469,
+        102083809,
+        85857619,
+        85856811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eFfrV8v9xQymGLnURQRBB_30.519181_-90.482785@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519350,
+    "wof:geomhash":"c234a6b959324d75f9e48dae10362a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85857619,
+            "region_id":85688735,
+            "venue_id":840017105
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "neighbourhood_id":85856811,
+            "region_id":85688735,
+            "venue_id":840017105
+        }
+    ],
+    "wof:id":840017105,
+    "wof:lastmodified":1463519350,
+    "wof:name":"Touch Me Not Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.482785,
+    30.519181,
+    -90.482785,
+    30.519181
+],
+  "geometry": {"coordinates":[-90.48278500000001,30.519181],"type":"Point"}
+}

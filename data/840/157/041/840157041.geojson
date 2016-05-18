@@ -1,0 +1,73 @@
+{
+  "id": 840157041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.587265,30.190992,-93.587265,30.190992",
+    "geom:latitude":30.190992,
+    "geom:longitude":-93.587265,
+    "iso:country":"US",
+    "sg:address":"1806 Center St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 0367",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lg4x6aWFQ9zxHbuU1sAyZ_30.190992_-93.587265@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522388,
+    "wof:geomhash":"81a802713cf0ac48fac31c7b6323cf79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840157041
+        }
+    ],
+    "wof:id":840157041,
+    "wof:lastmodified":1463522388,
+    "wof:name":"Vinton Lube & Tire",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -93.587265,
+    30.190992,
+    -93.587265,
+    30.190992
+],
+  "geometry": {"coordinates":[-93.587265,30.190992],"type":"Point"}
+}

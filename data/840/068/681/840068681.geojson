@@ -1,0 +1,73 @@
+{
+  "id": 840068681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.049122,30.218137,-92.049122,30.218137",
+    "geom:latitude":30.218137,
+    "geom:longitude":-92.049122,
+    "iso:country":"US",
+    "sg:address":"1014 Bertrand Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 4763",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FIpeIfWiVZ0PGVdvOh5Tv_30.218137_-92.049122@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520454,
+    "wof:geomhash":"08cbe7a3659defbf941fbf0f9a14d3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840068681
+        }
+    ],
+    "wof:id":840068681,
+    "wof:lastmodified":1463520454,
+    "wof:name":"Lafayette Rental Svc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.049122,
+    30.218137,
+    -92.049122,
+    30.218137
+],
+  "geometry": {"coordinates":[-92.049122,30.218137],"type":"Point"}
+}

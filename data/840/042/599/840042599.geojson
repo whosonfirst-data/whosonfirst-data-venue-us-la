@@ -1,0 +1,73 @@
+{
+  "id": 840042599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.077549,29.948723,-90.077549,29.948723",
+    "geom:latitude":29.948723,
+    "geom:longitude":-90.077549,
+    "iso:country":"US",
+    "sg:address":"1301 Girod St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 561 0575",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "attendant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wciHkxdBMAzIOfkzGRV9U_29.948723_-90.077549@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519902,
+    "wof:geomhash":"775e697b507e21459d4d84c5e10ada02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866107,
+            "region_id":85688735,
+            "venue_id":840042599
+        }
+    ],
+    "wof:id":840042599,
+    "wof:lastmodified":1463519902,
+    "wof:name":"Merit Parking",
+    "wof:parent_id":85866107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attendant"
+    ]
+},
+  "bbox": [
+    -90.077549,
+    29.948723,
+    -90.077549,
+    29.948723
+],
+  "geometry": {"coordinates":[-90.077549,29.948723],"type":"Point"}
+}

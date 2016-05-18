@@ -1,0 +1,76 @@
+{
+  "id": 840455187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.168361,30.473161,-91.168361,30.473161",
+    "geom:latitude":30.473161,
+    "geom:longitude":-91.168361,
+    "iso:country":"US",
+    "sg:address":"2805 Scenic Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/180394-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 356 1215",
+    "sg:postcode":"70805",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85827149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pdBkQJq3Jn6KE8eMTB4Mc_30.473161_-91.168361@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533511,
+    "wof:geomhash":"82ed4849c34258588291ad42062000db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85827149,
+            "region_id":85688735,
+            "venue_id":840455187
+        }
+    ],
+    "wof:id":840455187,
+    "wof:lastmodified":1463533511,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85827149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.168361,
+    30.473161,
+    -91.168361,
+    30.473161
+],
+  "geometry": {"coordinates":[-91.168361,30.473161],"type":"Point"}
+}

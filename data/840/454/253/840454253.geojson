@@ -1,0 +1,76 @@
+{
+  "id": 840454253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.072131,30.180591,-92.072131,30.180591",
+    "geom:latitude":30.180591,
+    "geom:longitude":-92.072131,
+    "iso:country":"US",
+    "sg:address":"5423 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/12520-italian-pie/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 0011",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hZ7gQ6B9Iu5WPr92KbeF1_30.180591_-92.072131@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533477,
+    "wof:geomhash":"8fc0fb9983068b80507461e9eb7744e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840454253
+        }
+    ],
+    "wof:id":840454253,
+    "wof:lastmodified":1463533477,
+    "wof:name":"Italian Pie",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.072131,
+    30.180591,
+    -92.072131,
+    30.180591
+],
+  "geometry": {"coordinates":[-92.072131,30.180591],"type":"Point"}
+}

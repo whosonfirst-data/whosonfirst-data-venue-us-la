@@ -1,0 +1,73 @@
+{
+  "id": 840031671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.111657,30.147616,-92.111657,30.147616",
+    "geom:latitude":30.147616,
+    "geom:longitude":-92.111657,
+    "iso:country":"US",
+    "sg:address":"301 Hapsburg Ln",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 3547",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pT5A7ZoOrq7wL27BrCoUT_30.147616_-92.111657@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519664,
+    "wof:geomhash":"dab5f8ef82edc8da16e136faf0ebfbfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840031671
+        }
+    ],
+    "wof:id":840031671,
+    "wof:lastmodified":1463519664,
+    "wof:name":"Acadiana Gymnastics Training",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -92.111657,
+    30.147616,
+    -92.111657,
+    30.147616
+],
+  "geometry": {"coordinates":[-92.11165699999999,30.147616],"type":"Point"}
+}

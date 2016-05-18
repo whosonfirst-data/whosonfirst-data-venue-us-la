@@ -1,0 +1,71 @@
+{
+  "id": 840184871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.075724,30.196058,-92.075724,30.196058",
+    "geom:latitude":30.196058,
+    "geom:longitude":-92.075724,
+    "iso:country":"US",
+    "sg:address":"4242 W Congress St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 7256",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QQBDuqgat67XzFhFfjmuR_30.196058_-92.075724@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523014,
+    "wof:geomhash":"7d1a4be6f6d6578aed90185e391e9a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840184871
+        }
+    ],
+    "wof:id":840184871,
+    "wof:lastmodified":1463523014,
+    "wof:name":"Animal Medical Clinic Congress",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -92.075724,
+    30.196058,
+    -92.075724,
+    30.196058
+],
+  "geometry": {"coordinates":[-92.07572399999999,30.196058],"type":"Point"}
+}

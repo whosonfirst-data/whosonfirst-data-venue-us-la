@@ -1,0 +1,73 @@
+{
+  "id": 840407669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.955527,29.958425,-89.955527,29.958425",
+    "geom:latitude":29.958425,
+    "geom:longitude":-89.955527,
+    "iso:country":"US",
+    "sg:address":"5133 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 6110",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CKTF2ookn6BU7dJMB6prf_29.958425_-89.955527@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531531,
+    "wof:geomhash":"a8eab93af4dd729c432548cff638494e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840407669
+        }
+    ],
+    "wof:id":840407669,
+    "wof:lastmodified":1463531531,
+    "wof:name":"Pro-Tech Automotive",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.955527,
+    29.958425,
+    -89.955527,
+    29.958425
+],
+  "geometry": {"coordinates":[-89.955527,29.958425],"type":"Point"}
+}

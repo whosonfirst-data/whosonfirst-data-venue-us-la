@@ -1,0 +1,75 @@
+{
+  "id": 840327041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.117322,29.950569,-90.117322,29.950569",
+    "geom:latitude":29.950569,
+    "geom:longitude":-90.117322,
+    "iso:country":"US",
+    "sg:address":"7216 Sycamore St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 866 6400",
+    "sg:postcode":"70118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xwj4RD8aOnvMhYGOSApSC_29.950569_-90.117322@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527816,
+    "wof:geomhash":"6a66dcc7a25ff62e9abb5f3c59ad26a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866137,
+            "region_id":85688735,
+            "venue_id":840327041
+        }
+    ],
+    "wof:id":840327041,
+    "wof:lastmodified":1463527816,
+    "wof:name":"Secure Student Storage",
+    "wof:parent_id":85866137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.117322,
+    29.950569,
+    -90.117322,
+    29.950569
+],
+  "geometry": {"coordinates":[-90.117322,29.950569],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840101359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.031964,30.364395,-91.031964,30.364395",
+    "geom:latitude":30.364395,
+    "geom:longitude":-91.031964,
+    "iso:country":"US",
+    "sg:address":"9141 Amber Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 753 2232",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hcTCjyuyVdiWrxttQqV8w_30.364395_-91.031964@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521249,
+    "wof:geomhash":"5fd25f9740cf7061601efe8226a05f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840101359
+        }
+    ],
+    "wof:id":840101359,
+    "wof:lastmodified":1463521249,
+    "wof:name":"Thibodeaux Plumbing",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.031964,
+    30.364395,
+    -91.031964,
+    30.364395
+],
+  "geometry": {"coordinates":[-91.031964,30.364395],"type":"Point"}
+}

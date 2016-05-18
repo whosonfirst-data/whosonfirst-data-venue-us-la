@@ -1,0 +1,85 @@
+{
+  "id": 840398827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.098592,29.952282,-90.098592,29.952282",
+    "geom:latitude":29.952282,
+    "geom:longitude":-90.098592,
+    "iso:country":"US",
+    "sg:address":"1401 S Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 822 0345",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866139,
+        85891209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TeUE4wEeZ0SxPL0523TAB_29.952282_-90.098592@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531160,
+    "wof:geomhash":"a3103c9bc3b0d0bde6106760eebdaa06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866139,
+            "region_id":85688735,
+            "venue_id":840398827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891209,
+            "region_id":85688735,
+            "venue_id":840398827
+        }
+    ],
+    "wof:id":840398827,
+    "wof:lastmodified":1463531160,
+    "wof:name":"A & N Warehouses",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.098592,
+    29.952282,
+    -90.098592,
+    29.952282
+],
+  "geometry": {"coordinates":[-90.098592,29.952282],"type":"Point"}
+}

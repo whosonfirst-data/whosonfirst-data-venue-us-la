@@ -1,0 +1,74 @@
+{
+  "id": 840401641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.082865,30.166577,-92.082865,30.166577",
+    "geom:latitude":30.166577,
+    "geom:longitude":-92.082865,
+    "iso:country":"US",
+    "sg:address":"6141 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 2277",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.gilesauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JdGDTcGFCTrlrPLPbOEck_30.166577_-92.082865@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531273,
+    "wof:geomhash":"a217e47b4060d6633a5d9685c881eb74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840401641
+        }
+    ],
+    "wof:id":840401641,
+    "wof:lastmodified":1463531273,
+    "wof:name":"Giles Volvo",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.082865,
+    30.166577,
+    -92.082865,
+    30.166577
+],
+  "geometry": {"coordinates":[-92.082865,30.166577],"type":"Point"}
+}

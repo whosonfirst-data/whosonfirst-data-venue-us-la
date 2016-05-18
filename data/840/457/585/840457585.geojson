@@ -1,0 +1,74 @@
+{
+  "id": 840457585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376255,30.219702,-93.376255,30.219702",
+    "geom:latitude":30.219702,
+    "geom:longitude":-93.376255,
+    "iso:country":"US",
+    "sg:address":"2017 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/sulphur/197498-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 2222",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40Lq4GokCignxwBdyLf9C8_30.219705_-93.376331@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533599,
+    "wof:geomhash":"dd6931bb691ca9f71e5798001ebd00d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840457585
+        }
+    ],
+    "wof:id":840457585,
+    "wof:lastmodified":1463533599,
+    "wof:name":"Burger King",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.376255,
+    30.219702,
+    -93.376255,
+    30.219702
+],
+  "geometry": {"coordinates":[-93.376255,30.219702],"type":"Point"}
+}

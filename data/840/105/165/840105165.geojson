@@ -1,0 +1,73 @@
+{
+  "id": 840105165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.965046,29.958074,-89.965046,29.958074",
+    "geom:latitude":29.958074,
+    "geom:longitude":-89.965046,
+    "iso:country":"US",
+    "sg:address":"800 W Virtue St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 1263",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uopWMjbgT3Pca6RXdlxmr_29.958074_-89.965046@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521337,
+    "wof:geomhash":"62399c1ae007e6cc6b41fc3d2c370b3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840105165
+        }
+    ],
+    "wof:id":840105165,
+    "wof:lastmodified":1463521337,
+    "wof:name":"Glade Larimer & Crosby",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.965046,
+    29.958074,
+    -89.965046,
+    29.958074
+],
+  "geometry": {"coordinates":[-89.965046,29.958074],"type":"Point"}
+}

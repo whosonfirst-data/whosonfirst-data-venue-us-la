@@ -1,0 +1,73 @@
+{
+  "id": 840242129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.223523,30.17624,-93.223523,30.17624",
+    "geom:latitude":30.17624,
+    "geom:longitude":-93.223523,
+    "iso:country":"US",
+    "sg:address":"310 W McNeese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 2999",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a68qT9tOrVgVrLWGzuXns_30.176240_-93.223523@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524407,
+    "wof:geomhash":"625e28efe05f2881a11756b29e8bd7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840242129
+        }
+    ],
+    "wof:id":840242129,
+    "wof:lastmodified":1463524407,
+    "wof:name":"Lake Charles Tackle",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -93.223523,
+    30.17624,
+    -93.223523,
+    30.17624
+],
+  "geometry": {"coordinates":[-93.223523,30.17624],"type":"Point"}
+}

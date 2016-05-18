@@ -1,0 +1,75 @@
+{
+  "id": 840104099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.798969,30.275603,-89.798969,30.275603",
+    "geom:latitude":30.275603,
+    "geom:longitude":-89.798969,
+    "iso:country":"US",
+    "sg:address":"36249 Hwy 433",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 661 9008",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49bEMwvWapDmCmsprW2Kfs_30.275603_-89.798969@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521304,
+    "wof:geomhash":"77b90145f1cdf65bbf33c71059c0a180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":840104099
+        }
+    ],
+    "wof:id":840104099,
+    "wof:lastmodified":1463521304,
+    "wof:name":"Precision Auto Repair",
+    "wof:parent_id":85810351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.798969,
+    30.275603,
+    -89.798969,
+    30.275603
+],
+  "geometry": {"coordinates":[-89.798969,30.275603],"type":"Point"}
+}

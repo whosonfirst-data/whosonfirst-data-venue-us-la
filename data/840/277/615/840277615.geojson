@@ -1,0 +1,71 @@
+{
+  "id": 840277615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.99558,32.970982,-93.99558,32.970982",
+    "geom:latitude":32.970982,
+    "geom:longitude":-93.99558,
+    "iso:country":"US",
+    "sg:address":"10093 Main St",
+    "sg:city":"Rodessa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 223 4211",
+    "sg:postcode":"71069",
+    "sg:province":"LA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_159UGUOpe2opHtB12kSZpl_32.970982_-93.995580@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525508,
+    "wof:geomhash":"1e3d06ed6a61608f005c209026ce27f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840277615
+        }
+    ],
+    "wof:id":840277615,
+    "wof:lastmodified":1463525508,
+    "wof:name":"Rodessa Village Hall",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -93.99558,
+    32.970982,
+    -93.99558,
+    32.970982
+],
+  "geometry": {"coordinates":[-93.99558,32.970982],"type":"Point"}
+}

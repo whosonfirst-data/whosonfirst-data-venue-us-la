@@ -1,0 +1,68 @@
+{
+  "id": 840308107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.071834,29.953577,-90.071834,29.953577",
+    "geom:latitude":29.953577,
+    "geom:longitude":-90.071834,
+    "iso:country":"US",
+    "sg:address":"123 Baronne St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 529 4733",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wockAiaQi8FKkmYisUDdA_29.953577_-90.071834@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526903,
+    "wof:geomhash":"b4c866f7b2741e31d5a0480e16cb491e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840308107
+        }
+    ],
+    "wof:id":840308107,
+    "wof:lastmodified":1463526903,
+    "wof:name":"Sazerac Bar & Grill",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.071834,
+    29.953577,
+    -90.071834,
+    29.953577
+],
+  "geometry": {"coordinates":[-90.071834,29.953577],"type":"Point"}
+}

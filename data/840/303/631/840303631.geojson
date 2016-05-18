@@ -1,0 +1,71 @@
+{
+  "id": 840303631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.229332,30.196369,-93.229332,30.196369",
+    "geom:latitude":30.196369,
+    "geom:longitude":-93.229332,
+    "iso:country":"US",
+    "sg:address":"715 W College St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 3123",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yPhkaQU66XdpIrJ7ArWa6_30.196369_-93.229332@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526704,
+    "wof:geomhash":"0ef185378ecbec0b5263bb8d081ceeeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840303631
+        }
+    ],
+    "wof:id":840303631,
+    "wof:lastmodified":1463526704,
+    "wof:name":"Rick Bercier DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.229332,
+    30.196369,
+    -93.229332,
+    30.196369
+],
+  "geometry": {"coordinates":[-93.229332,30.196369],"type":"Point"}
+}

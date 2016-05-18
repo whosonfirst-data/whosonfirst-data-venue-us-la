@@ -1,0 +1,71 @@
+{
+  "id": 840350629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.158053,30.151264,-93.158053,30.151264",
+    "geom:latitude":30.151264,
+    "geom:longitude":-93.158053,
+    "iso:country":"US",
+    "sg:address":"5320 Western Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 2576",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W4lKUBrNBbJ5LOShmearF_30.151264_-93.158053@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528929,
+    "wof:geomhash":"ec7d9e4f865dc62de39b6aa548c1e6be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840350629
+        }
+    ],
+    "wof:id":840350629,
+    "wof:lastmodified":1463528929,
+    "wof:name":"Custom Built Transmissions",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.158053,
+    30.151264,
+    -93.158053,
+    30.151264
+],
+  "geometry": {"coordinates":[-93.158053,30.151264],"type":"Point"}
+}

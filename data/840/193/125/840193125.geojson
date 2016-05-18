@@ -1,0 +1,75 @@
+{
+  "id": 840193125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.076956,29.93487,-90.076956,29.93487",
+    "geom:latitude":29.93487,
+    "geom:longitude":-90.076956,
+    "iso:country":"US",
+    "sg:address":"1823 Prytania St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 3466",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZS6pxrBRzto8pfV49EcBc_29.934870_-90.076956@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523176,
+    "wof:geomhash":"6fb82ab4c77e482e88900b76e0f902fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840193125
+        }
+    ],
+    "wof:id":840193125,
+    "wof:lastmodified":1463523176,
+    "wof:name":"St Anna's Residence",
+    "wof:parent_id":85831571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.076956,
+    29.93487,
+    -90.076956,
+    29.93487
+],
+  "geometry": {"coordinates":[-90.076956,29.93487],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840382419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.987804,30.285883,-91.987804,30.285883",
+    "geom:latitude":30.285883,
+    "geom:longitude":-91.987804,
+    "iso:country":"US",
+    "sg:address":"1412 E Butcher Switch Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 6523",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kRuZ1D2LPqkZLrJYdw2NW_30.285883_-91.987804@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530469,
+    "wof:geomhash":"796149079b65fa46eea0cd62ed471faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840382419
+        }
+    ],
+    "wof:id":840382419,
+    "wof:lastmodified":1463530469,
+    "wof:name":"Savant's Upholstery Shop",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -91.987804,
+    30.285883,
+    -91.987804,
+    30.285883
+],
+  "geometry": {"coordinates":[-91.987804,30.285883],"type":"Point"}
+}

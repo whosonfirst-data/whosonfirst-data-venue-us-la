@@ -1,0 +1,71 @@
+{
+  "id": 840293281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213651,30.17627,-93.213651,30.17627",
+    "geom:latitude":30.17627,
+    "geom:longitude":-93.213651,
+    "iso:country":"US",
+    "sg:address":"623 E McNeese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 5188",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OddeCldNe6Rku0roaXiS1_30.176270_-93.213651@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526205,
+    "wof:geomhash":"593485be654834266f1c9f4c0134fea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840293281
+        }
+    ],
+    "wof:id":840293281,
+    "wof:lastmodified":1463526205,
+    "wof:name":"University Animal Clinic",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.213651,
+    30.17627,
+    -93.213651,
+    30.17627
+],
+  "geometry": {"coordinates":[-93.213651,30.17627],"type":"Point"}
+}

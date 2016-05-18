@@ -1,0 +1,75 @@
+{
+  "id": 840457265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.071542,29.983404,-90.071542,29.983404",
+    "geom:latitude":29.983404,
+    "geom:longitude":-90.071542,
+    "iso:country":"US",
+    "sg:address":"1918 N Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/188405-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04fxkdvajx7SXrrgYqeYHP_29.983304_-90.071651@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533588,
+    "wof:geomhash":"ea0cac65788091b0d1e74f32aebdf2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866083,
+            "region_id":85688735,
+            "venue_id":840457265
+        }
+    ],
+    "wof:id":840457265,
+    "wof:lastmodified":1463533588,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85866083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.071542,
+    29.983404,
+    -90.071542,
+    29.983404
+],
+  "geometry": {"coordinates":[-90.07154199999999,29.983404],"type":"Point"}
+}

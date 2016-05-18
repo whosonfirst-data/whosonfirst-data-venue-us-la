@@ -1,0 +1,73 @@
+{
+  "id": 840265751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.085002,29.97204,-90.085002,29.97204",
+    "geom:latitude":29.97204,
+    "geom:longitude":-90.085002,
+    "iso:country":"US",
+    "sg:address":"2820 Orleans Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 527 4597",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bkOsa3YnRmUTjXHOIENhz_29.972040_-90.085002@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524964,
+    "wof:geomhash":"d164f5350dfc1b33d325821f4fe3f0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840265751
+        }
+    ],
+    "wof:id":840265751,
+    "wof:lastmodified":1463524964,
+    "wof:name":"Spencer Towing Service",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -90.085002,
+    29.97204,
+    -90.085002,
+    29.97204
+],
+  "geometry": {"coordinates":[-90.085002,29.97204],"type":"Point"}
+}

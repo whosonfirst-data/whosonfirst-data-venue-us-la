@@ -1,0 +1,71 @@
+{
+  "id": 840327429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258014,30.249593,-93.258014,30.249593",
+    "geom:latitude":30.249593,
+    "geom:longitude":-93.258014,
+    "iso:country":"US",
+    "sg:address":"1306 Sampson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 1050",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s837WBVKop4xiHTNCTx7U_30.249593_-93.258014@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527837,
+    "wof:geomhash":"5173bf915175adf608cdc4069b610027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840327429
+        }
+    ],
+    "wof:id":840327429,
+    "wof:lastmodified":1463527837,
+    "wof:name":"Endless Summers Tanning",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -93.258014,
+    30.249593,
+    -93.258014,
+    30.249593
+],
+  "geometry": {"coordinates":[-93.258014,30.249593],"type":"Point"}
+}

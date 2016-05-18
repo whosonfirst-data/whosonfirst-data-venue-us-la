@@ -1,0 +1,73 @@
+{
+  "id": 840267749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.802222,30.002571,-91.802222,30.002571",
+    "geom:latitude":30.002571,
+    "geom:longitude":-91.802222,
+    "iso:country":"US",
+    "sg:address":"1105 Parkview Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 560 1801",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h076vKtPvmWQGslRaPABX_30.002571_-91.802222@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525064,
+    "wof:geomhash":"82bf646f5e71bdbcb4bcb45573ab233b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840267749
+        }
+    ],
+    "wof:id":840267749,
+    "wof:lastmodified":1463525064,
+    "wof:name":"New Iberia Surgery Ctr Office",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -91.802222,
+    30.002571,
+    -91.802222,
+    30.002571
+],
+  "geometry": {"coordinates":[-91.802222,30.002571],"type":"Point"}
+}

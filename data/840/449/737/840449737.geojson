@@ -1,0 +1,71 @@
+{
+  "id": 840449737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.951401,29.937901,-89.951401,29.937901",
+    "geom:latitude":29.937901,
+    "geom:longitude":-89.951401,
+    "iso:country":"US",
+    "sg:address":"1210 E Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 835 8508",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EApVci7rdBSTNZY6CDNnJ_29.937963_-89.951231@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533292,
+    "wof:geomhash":"d6660a1c14c81f4fa848af8a92466c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840449737
+        }
+    ],
+    "wof:id":840449737,
+    "wof:lastmodified":1463533292,
+    "wof:name":"Chalmette Animal Hospital Inc",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.951401,
+    29.937901,
+    -89.951401,
+    29.937901
+],
+  "geometry": {"coordinates":[-89.951401,29.937901],"type":"Point"}
+}

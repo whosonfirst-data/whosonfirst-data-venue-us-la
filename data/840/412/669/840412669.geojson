@@ -1,0 +1,73 @@
+{
+  "id": 840412669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.780365,32.48583,-93.780365,32.48583",
+    "geom:latitude":32.48583,
+    "geom:longitude":-93.780365,
+    "iso:country":"US",
+    "sg:address":"2750 N Hearne Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 673 7355",
+    "sg:postcode":"71103",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85881005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CvrFxjo5dm0OtBravSfGw_32.485830_-93.780365@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531725,
+    "wof:geomhash":"31cdf3402faf1c8862f7d21021c48e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85881005,
+            "region_id":85688735,
+            "venue_id":840412669
+        }
+    ],
+    "wof:id":840412669,
+    "wof:lastmodified":1463531725,
+    "wof:name":"Shreveport Police Dept",
+    "wof:parent_id":85881005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.780365,
+    32.48583,
+    -93.780365,
+    32.48583
+],
+  "geometry": {"coordinates":[-93.780365,32.48583],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840059363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.06442,30.376686,-91.06442,30.376686",
+    "geom:latitude":30.376686,
+    "geom:longitude":-91.06442,
+    "iso:country":"US",
+    "sg:address":"10527 S Mall Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 292 0479",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TWuDWD8fGQJD9zeRNaMJA_30.376686_-91.064420@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520258,
+    "wof:geomhash":"48614921c5097de5840ce0986d514c2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840059363
+        }
+    ],
+    "wof:id":840059363,
+    "wof:lastmodified":1463520258,
+    "wof:name":"Petsmart",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.06442,
+    30.376686,
+    -91.06442,
+    30.376686
+],
+  "geometry": {"coordinates":[-91.06442,30.376686],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840454805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325531,30.228478,-93.325531,30.228478",
+    "geom:latitude":30.228478,
+    "geom:longitude":-93.325531,
+    "iso:country":"US",
+    "sg:address":"190 N Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hollywood/132088-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 4430",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OBdGKm4wMjTOi8ErPbHae_30.228478_-93.325531@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533497,
+    "wof:geomhash":"d97dda2fc7ff3816c61806fec2e99eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454805
+        }
+    ],
+    "wof:id":840454805,
+    "wof:lastmodified":1463533497,
+    "wof:name":"Subway",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.325531,
+    30.228478,
+    -93.325531,
+    30.228478
+],
+  "geometry": {"coordinates":[-93.325531,30.228478],"type":"Point"}
+}

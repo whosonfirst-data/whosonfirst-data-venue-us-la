@@ -1,0 +1,75 @@
+{
+  "id": 840100207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.09044,29.973737,-90.09044,29.973737",
+    "geom:latitude":29.973737,
+    "geom:longitude":-90.09044,
+    "iso:country":"US",
+    "sg:address":"519 Hagan Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 486 1608",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xwi6vdn92kWBw08YEEPUx_29.973737_-90.090440@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521213,
+    "wof:geomhash":"b4b4f50c00f510289b3c77ca2f9dcf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840100207
+        }
+    ],
+    "wof:id":840100207,
+    "wof:lastmodified":1463521213,
+    "wof:name":"R & S Auto Svc",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.09044,
+    29.973737,
+    -90.09044,
+    29.973737
+],
+  "geometry": {"coordinates":[-90.09044,29.973737],"type":"Point"}
+}

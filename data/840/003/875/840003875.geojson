@@ -1,0 +1,71 @@
+{
+  "id": 840003875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.328233,30.204435,-93.328233,30.204435",
+    "geom:latitude":30.204435,
+    "geom:longitude":-93.328233,
+    "iso:country":"US",
+    "sg:address":"3211 Petro Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 708 0040",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ENAx527nPgxDQJV3RCGHk_30.204435_-93.328233@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519073,
+    "wof:geomhash":"7b35d06d9c30606baf6d70347894c2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840003875
+        }
+    ],
+    "wof:id":840003875,
+    "wof:lastmodified":1463519073,
+    "wof:name":"Louisiana Crane LLC",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -93.328233,
+    30.204435,
+    -93.328233,
+    30.204435
+],
+  "geometry": {"coordinates":[-93.328233,30.204435],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840335829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.825587,30.004291,-91.825587,30.004291",
+    "geom:latitude":30.004291,
+    "geom:longitude":-91.825587,
+    "iso:country":"US",
+    "sg:address":"307 Robertson St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 9900",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dijCsv712xtravtWepRY9_30.004291_-91.825587@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528214,
+    "wof:geomhash":"920787223dd4ac91e33c588941d921e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840335829
+        }
+    ],
+    "wof:id":840335829,
+    "wof:lastmodified":1463528214,
+    "wof:name":"Iberia Homeless Shelter",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -91.825587,
+    30.004291,
+    -91.825587,
+    30.004291
+],
+  "geometry": {"coordinates":[-91.825587,30.004291],"type":"Point"}
+}

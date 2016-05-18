@@ -1,0 +1,75 @@
+{
+  "id": 840359341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08335,29.932597,-90.08335,29.932597",
+    "geom:latitude":29.932597,
+    "geom:longitude":-90.08335,
+    "iso:country":"US",
+    "sg:address":"2427 Saint Charles Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 895 8610",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ChA9fLkpq2JtL1t2Ekl2_29.932597_-90.083350@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529353,
+    "wof:geomhash":"1bd489930e35fa5797d2022e15b56c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821037,
+            "region_id":85688735,
+            "venue_id":840359341
+        }
+    ],
+    "wof:id":840359341,
+    "wof:lastmodified":1463529353,
+    "wof:name":"Hedgewood Surgical Ctr",
+    "wof:parent_id":85821037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -90.08335,
+    29.932597,
+    -90.08335,
+    29.932597
+],
+  "geometry": {"coordinates":[-90.08335,29.932597],"type":"Point"}
+}

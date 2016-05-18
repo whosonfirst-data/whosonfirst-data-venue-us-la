@@ -1,0 +1,73 @@
+{
+  "id": 840292183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.198347,30.30054,-93.198347,30.30054",
+    "geom:latitude":30.30054,
+    "geom:longitude":-93.198347,
+    "iso:country":"US",
+    "sg:address":"243 Sam Houston Jones Pkwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 8930",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qwVCmlvvjqviwLjY8GctG_30.300540_-93.198347@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526158,
+    "wof:geomhash":"663d0f013d64b100414df3367d40ae63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840292183
+        }
+    ],
+    "wof:id":840292183,
+    "wof:lastmodified":1463526158,
+    "wof:name":"Ronnie's Auto Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.198347,
+    30.30054,
+    -93.198347,
+    30.30054
+],
+  "geometry": {"coordinates":[-93.198347,30.30054],"type":"Point"}
+}

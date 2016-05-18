@@ -1,0 +1,71 @@
+{
+  "id": 840360273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.188817,30.189618,-93.188817,30.189618",
+    "geom:latitude":30.189618,
+    "geom:longitude":-93.188817,
+    "iso:country":"US",
+    "sg:address":"4247 5th Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 7829",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FbS3vzjTDXSX1MIFruiNM_30.189618_-93.188817@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529396,
+    "wof:geomhash":"745ead72cd55501a0c04d1801eba2937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840360273
+        }
+    ],
+    "wof:id":840360273,
+    "wof:lastmodified":1463529396,
+    "wof:name":"Fifth Avenue Apts",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.188817,
+    30.189618,
+    -93.188817,
+    30.189618
+],
+  "geometry": {"coordinates":[-93.188817,30.189618],"type":"Point"}
+}

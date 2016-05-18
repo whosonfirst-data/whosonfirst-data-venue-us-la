@@ -1,0 +1,75 @@
+{
+  "id": 840185261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.056942,30.193901,-92.056942,30.193901",
+    "geom:latitude":30.193901,
+    "geom:longitude":-92.056942,
+    "iso:country":"US",
+    "sg:address":"109 Rena Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 406 8966",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lBpbgXkQfMZwKAaXadoOS_30.193901_-92.056942@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523021,
+    "wof:geomhash":"0cee2059979d8cd3362d2c002034e141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840185261
+        }
+    ],
+    "wof:id":840185261,
+    "wof:lastmodified":1463523021,
+    "wof:name":"Pet Express",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -92.056942,
+    30.193901,
+    -92.056942,
+    30.193901
+],
+  "geometry": {"coordinates":[-92.05694200000001,30.193901],"type":"Point"}
+}

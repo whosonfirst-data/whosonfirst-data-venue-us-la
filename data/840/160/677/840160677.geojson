@@ -1,0 +1,71 @@
+{
+  "id": 840160677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218574,30.19934,-93.218574,30.19934",
+    "geom:latitude":30.19934,
+    "geom:longitude":-93.218574,
+    "iso:country":"US",
+    "sg:address":"3203 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 8191",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n9syQ76ALaNsEyeL5sp5f_30.199340_-93.218574@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522459,
+    "wof:geomhash":"fff8c50ee78c4eeff10f585ae1a21aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840160677
+        }
+    ],
+    "wof:id":840160677,
+    "wof:lastmodified":1463522459,
+    "wof:name":"One Hour Martinizing",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.218574,
+    30.19934,
+    -93.218574,
+    30.19934
+],
+  "geometry": {"coordinates":[-93.218574,30.19934],"type":"Point"}
+}

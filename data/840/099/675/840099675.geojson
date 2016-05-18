@@ -1,0 +1,71 @@
+{
+  "id": 840099675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.074889,30.182752,-92.074889,30.182752",
+    "geom:latitude":30.182752,
+    "geom:longitude":-92.074889,
+    "iso:country":"US",
+    "sg:address":"3233 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 3384",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XFve8f0EYxgJQ2MFRQege_30.182752_-92.074889@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521203,
+    "wof:geomhash":"41f6abcad381178323320894bbb59df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840099675
+        }
+    ],
+    "wof:id":840099675,
+    "wof:lastmodified":1463521203,
+    "wof:name":"Acadiana Dental Group",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.074889,
+    30.182752,
+    -92.074889,
+    30.182752
+],
+  "geometry": {"coordinates":[-92.074889,30.182752],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840435185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.624272,30.548358,-91.624272,30.548358",
+    "geom:latitude":30.548358,
+    "geom:longitude":-91.624272,
+    "iso:country":"US",
+    "sg:address":"6306 State Rte 81",
+    "sg:city":"Lottie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 637 3901",
+    "sg:postcode":"70756",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85868903,
+        102083185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3adhIz1FjbQ54APOWmxT49_30.548358_-91.624272@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532691,
+    "wof:geomhash":"e0610164135a90fe851805dd483fe45b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083185,
+            "neighbourhood_id":85868903,
+            "region_id":85688735,
+            "venue_id":840435185
+        }
+    ],
+    "wof:id":840435185,
+    "wof:lastmodified":1463532691,
+    "wof:name":"Neal Smith III MD",
+    "wof:parent_id":85868903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.624272,
+    30.548358,
+    -91.624272,
+    30.548358
+],
+  "geometry": {"coordinates":[-91.624272,30.548358],"type":"Point"}
+}

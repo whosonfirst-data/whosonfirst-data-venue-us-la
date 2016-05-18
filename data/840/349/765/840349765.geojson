@@ -1,0 +1,73 @@
+{
+  "id": 840349765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.21697,30.229496,-93.21697,30.229496",
+    "geom:latitude":30.229496,
+    "geom:longitude":-93.21697,
+    "iso:country":"US",
+    "sg:address":"709 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 310 7023",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cEVuSV4YYdEzwV2cLhF75_30.229496_-93.216970@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528888,
+    "wof:geomhash":"bd3ab49aad7f7c295d0f4c3b2c1793b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840349765
+        }
+    ],
+    "wof:id":840349765,
+    "wof:lastmodified":1463528888,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -93.21697,
+    30.229496,
+    -93.21697,
+    30.229496
+],
+  "geometry": {"coordinates":[-93.21697,30.229496],"type":"Point"}
+}

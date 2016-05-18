@@ -1,0 +1,76 @@
+{
+  "id": 840457175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.239267,30.022255,-90.239267,30.022255",
+    "geom:latitude":30.022255,
+    "geom:longitude":-90.239267,
+    "iso:country":"US",
+    "sg:address":"3617 Williams Blvd",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/kenner/26532-papas-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 461 9111",
+    "sg:postcode":"70065",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E7rOHLIBDFXhcs6a2qs8j_30.022830_-90.239249@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533585,
+    "wof:geomhash":"62a965dcd263c691d9bb05a9c8c6996b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840457175
+        }
+    ],
+    "wof:id":840457175,
+    "wof:lastmodified":1463533585,
+    "wof:name":"Papa's Pizza",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.239267,
+    30.022255,
+    -90.239267,
+    30.022255
+],
+  "geometry": {"coordinates":[-90.239267,30.022255],"type":"Point"}
+}

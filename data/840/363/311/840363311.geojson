@@ -1,0 +1,71 @@
+{
+  "id": 840363311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.212586,29.709217,-91.212586,29.709217",
+    "geom:latitude":29.709217,
+    "geom:longitude":-91.212586,
+    "iso:country":"US",
+    "sg:address":"1600 Federal Ave",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 380 4634",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45UknkowBu5JWS5Befy2Yj_29.709217_-91.212586@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529533,
+    "wof:geomhash":"f801182fb1b739883a65f49300554569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840363311
+        }
+    ],
+    "wof:id":840363311,
+    "wof:lastmodified":1463529533,
+    "wof:name":"Morgan City Purchasing",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.212586,
+    29.709217,
+    -91.212586,
+    29.709217
+],
+  "geometry": {"coordinates":[-91.212586,29.709217],"type":"Point"}
+}

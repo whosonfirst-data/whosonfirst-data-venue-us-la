@@ -1,0 +1,71 @@
+{
+  "id": 840204457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.454492,31.27729,-92.454492,31.27729",
+    "geom:latitude":31.27729,
+    "geom:longitude":-92.454492,
+    "iso:country":"US",
+    "sg:address":"2071 N Mall Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 619 8556",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QpXCSO9l0HumcckNHCNpX_31.277290_-92.454492@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523501,
+    "wof:geomhash":"98a54df77983b69c88d262550d7c5214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840204457
+        }
+    ],
+    "wof:id":840204457,
+    "wof:lastmodified":1463523501,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.454492,
+    31.27729,
+    -92.454492,
+    31.27729
+],
+  "geometry": {"coordinates":[-92.454492,31.27729],"type":"Point"}
+}

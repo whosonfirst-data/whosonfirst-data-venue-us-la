@@ -1,0 +1,68 @@
+{
+  "id": 840440675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.109383,30.005027,-90.109383,30.005027",
+    "geom:latitude":30.005027,
+    "geom:longitude":-90.109383,
+    "iso:country":"US",
+    "sg:address":"515 Harrison Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 486 1766",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S4DVVXSZAA0mSzXaCOaai_30.005027_-90.109383@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532928,
+    "wof:geomhash":"0f604478cab8c862ed03d6fdf2ebeba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829431,
+            "region_id":85688735,
+            "venue_id":840440675
+        }
+    ],
+    "wof:id":840440675,
+    "wof:lastmodified":1463532928,
+    "wof:name":"Charlie's Deli",
+    "wof:parent_id":85829431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.109383,
+    30.005027,
+    -90.109383,
+    30.005027
+],
+  "geometry": {"coordinates":[-90.10938299999999,30.005027],"type":"Point"}
+}

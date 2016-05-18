@@ -1,0 +1,71 @@
+{
+  "id": 840057297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.195142,29.700747,-91.195142,29.700747",
+    "geom:latitude":29.700747,
+    "geom:longitude":-91.195142,
+    "iso:country":"US",
+    "sg:address":"1307 Victor II Blvd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 380 4617",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h2qaODNAK0ArziKxmMlpk_29.700747_-91.195142@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520207,
+    "wof:geomhash":"6e8a98b6f0090fb8c7ba7954431d206a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840057297
+        }
+    ],
+    "wof:id":840057297,
+    "wof:lastmodified":1463520207,
+    "wof:name":"Morgan City Fire Chief's Ofc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.195142,
+    29.700747,
+    -91.195142,
+    29.700747
+],
+  "geometry": {"coordinates":[-91.195142,29.700747],"type":"Point"}
+}

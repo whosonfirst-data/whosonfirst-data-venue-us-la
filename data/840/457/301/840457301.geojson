@@ -1,0 +1,83 @@
+{
+  "id": 840457301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.202945,29.957282,-90.202945,29.957282",
+    "geom:latitude":29.957282,
+    "geom:longitude":-90.202945,
+    "iso:country":"US",
+    "sg:address":"1313 Hickory Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bridge-city/25568-hickory-cafe--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 737 0033",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ca1dzL1M3UmwqIVxRteED_29.957233_-90.203171@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533589,
+    "wof:geomhash":"8308c6cf11deacd03f600453f543ae6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840457301
+        }
+    ],
+    "wof:id":840457301,
+    "wof:lastmodified":1463533589,
+    "wof:name":"Hickory Cafe & Grill",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.202945,
+    29.957282,
+    -90.202945,
+    29.957282
+],
+  "geometry": {"coordinates":[-90.202945,29.957282],"type":"Point"}
+}

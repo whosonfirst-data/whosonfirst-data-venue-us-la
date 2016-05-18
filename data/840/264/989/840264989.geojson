@@ -1,0 +1,75 @@
+{
+  "id": 840264989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.095882,30.210519,-92.095882,30.210519",
+    "geom:latitude":30.210519,
+    "geom:longitude":-92.095882,
+    "iso:country":"US",
+    "sg:address":"2129 Dulles Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 7952",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DNpUAoFQTf4Gk2FCcAwCm_30.210519_-92.095882@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524928,
+    "wof:geomhash":"e74efcec358071108257fa5b810f5a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840264989
+        }
+    ],
+    "wof:id":840264989,
+    "wof:lastmodified":1463524928,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -92.095882,
+    30.210519,
+    -92.095882,
+    30.210519
+],
+  "geometry": {"coordinates":[-92.095882,30.210519],"type":"Point"}
+}

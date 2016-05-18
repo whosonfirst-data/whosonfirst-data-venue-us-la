@@ -1,0 +1,73 @@
+{
+  "id": 840035207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.076363,29.903586,-90.076363,29.903586",
+    "geom:latitude":29.903586,
+    "geom:longitude":-90.076363,
+    "iso:country":"US",
+    "sg:address":"2425 8th St",
+    "sg:city":"Harvey",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 366 7331",
+    "sg:postcode":"70058",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948753,
+        102083179,
+        85866113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E9ZgEaav92VMIDgwcC3zp_29.903586_-90.076363@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519736,
+    "wof:geomhash":"7b90c1568c19dbdc76aa5d5c819c350e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948753,
+            "neighbourhood_id":85866113,
+            "region_id":85688735,
+            "venue_id":840035207
+        }
+    ],
+    "wof:id":840035207,
+    "wof:lastmodified":1463519736,
+    "wof:name":"Jerry's Superette",
+    "wof:parent_id":85866113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.076363,
+    29.903586,
+    -90.076363,
+    29.903586
+],
+  "geometry": {"coordinates":[-90.076363,29.903586],"type":"Point"}
+}

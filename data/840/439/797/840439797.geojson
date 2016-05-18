@@ -1,0 +1,71 @@
+{
+  "id": 840439797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.173504,29.689958,-91.173504,29.689958",
+    "geom:latitude":29.689958,
+    "geom:longitude":-91.173504,
+    "iso:country":"US",
+    "sg:address":"5002 Railroad Ave",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 380 4620",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jGXErhlFMm2fx9A706Nro_29.689958_-91.173504@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532885,
+    "wof:geomhash":"86c841512a48252ecd05f6a24fb36d8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840439797
+        }
+    ],
+    "wof:id":840439797,
+    "wof:lastmodified":1463532885,
+    "wof:name":"Morgan City Fire Dept",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.173504,
+    29.689958,
+    -91.173504,
+    29.689958
+],
+  "geometry": {"coordinates":[-91.17350399999999,29.689958],"type":"Point"}
+}

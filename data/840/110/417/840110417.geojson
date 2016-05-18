@@ -1,0 +1,71 @@
+{
+  "id": 840110417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218648,30.200352,-93.218648,30.200352",
+    "geom:latitude":30.200352,
+    "geom:longitude":-93.218648,
+    "iso:country":"US",
+    "sg:address":"3001 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 2446",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AGhvUHw0ICwj7vwtEQyaB_30.200352_-93.218648@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521437,
+    "wof:geomhash":"65bb9dc08b08b1e2818143dafa2a20e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840110417
+        }
+    ],
+    "wof:id":840110417,
+    "wof:lastmodified":1463521437,
+    "wof:name":"Hixson's Funeral Home",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -93.218648,
+    30.200352,
+    -93.218648,
+    30.200352
+],
+  "geometry": {"coordinates":[-93.218648,30.200352],"type":"Point"}
+}

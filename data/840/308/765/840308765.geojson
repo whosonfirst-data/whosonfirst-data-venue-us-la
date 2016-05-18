@@ -1,0 +1,73 @@
+{
+  "id": 840308765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.200342,30.32928,-93.200342,30.32928",
+    "geom:latitude":30.32928,
+    "geom:longitude":-93.200342,
+    "iso:country":"US",
+    "sg:address":"1717 US Hwy 171",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 0609",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50xNmABZSNEMfjpdlMaZGO_30.329280_-93.200342@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526934,
+    "wof:geomhash":"53b000a54e293e2b9919af90f3da945c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840308765
+        }
+    ],
+    "wof:id":840308765,
+    "wof:lastmodified":1463526934,
+    "wof:name":"BAS Automotive Repair",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.200342,
+    30.32928,
+    -93.200342,
+    30.32928
+],
+  "geometry": {"coordinates":[-93.20034200000001,30.32928],"type":"Point"}
+}

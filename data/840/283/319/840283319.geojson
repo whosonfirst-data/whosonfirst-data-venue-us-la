@@ -1,0 +1,75 @@
+{
+  "id": 840283319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.00983,30.21481,-92.00983,30.21481",
+    "geom:latitude":30.21481,
+    "geom:longitude":-92.00983,
+    "iso:country":"US",
+    "sg:address":"1814 Jefferson St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 5030",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70UZDfPG83Rv23n2a5zutm_30.214810_-92.009830@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525769,
+    "wof:geomhash":"419fd048a6ce459ab84c51f5e57fe451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840283319
+        }
+    ],
+    "wof:id":840283319,
+    "wof:lastmodified":1463525769,
+    "wof:name":"Transmission Shop Of Lafayette",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.00983,
+    30.21481,
+    -92.00983,
+    30.21481
+],
+  "geometry": {"coordinates":[-92.00982999999999,30.21481],"type":"Point"}
+}

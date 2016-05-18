@@ -1,0 +1,73 @@
+{
+  "id": 840365411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.043909,30.259253,-92.043909,30.259253",
+    "geom:latitude":30.259253,
+    "geom:longitude":-92.043909,
+    "iso:country":"US",
+    "sg:address":"111 Marcon Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 6667",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bx35H7unMfuUtWHBLelw0_30.259253_-92.043909@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529655,
+    "wof:geomhash":"4acdbbde63b14e116429133d46fbbb1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840365411
+        }
+    ],
+    "wof:id":840365411,
+    "wof:lastmodified":1463529655,
+    "wof:name":"Car Deal Part",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -92.043909,
+    30.259253,
+    -92.043909,
+    30.259253
+],
+  "geometry": {"coordinates":[-92.043909,30.259253],"type":"Point"}
+}

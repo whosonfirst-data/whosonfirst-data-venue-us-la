@@ -1,0 +1,79 @@
+{
+  "id": 840449405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.027298,30.2959,-92.027298,30.2959",
+    "geom:latitude":30.2959,
+    "geom:longitude":-92.027298,
+    "iso:country":"US",
+    "sg:address":"236 W Gloria Switch Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 0325",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "hospital",
+        "boarding/pet",
+        "animal",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P3jWE1vqg2TCgtFQZgfUY_30.295897_-92.027057@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533273,
+    "wof:geomhash":"4b5126f5adf61623339d03642b3815f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840449405
+        }
+    ],
+    "wof:id":840449405,
+    "wof:lastmodified":1463533273,
+    "wof:name":"Gloria Switch Road Veterinary Hospital",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "hospital",
+        "boarding/pet",
+        "animal",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -92.027298,
+    30.2959,
+    -92.027298,
+    30.2959
+],
+  "geometry": {"coordinates":[-92.027298,30.2959],"type":"Point"}
+}

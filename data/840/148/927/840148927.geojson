@@ -1,0 +1,71 @@
+{
+  "id": 840148927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.214067,30.191753,-93.214067,30.191753",
+    "geom:latitude":30.191753,
+    "geom:longitude":-93.214067,
+    "iso:country":"US",
+    "sg:address":"3640 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 5070",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TLybXkqT4YBCeB6eJ8hQ6_30.191753_-93.214067@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522221,
+    "wof:geomhash":"59b6510c68e5b840f5ec9de324055916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840148927
+        }
+    ],
+    "wof:id":840148927,
+    "wof:lastmodified":1463522221,
+    "wof:name":"J Randy Hudson DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.214067,
+    30.191753,
+    -93.214067,
+    30.191753
+],
+  "geometry": {"coordinates":[-93.214067,30.191753],"type":"Point"}
+}

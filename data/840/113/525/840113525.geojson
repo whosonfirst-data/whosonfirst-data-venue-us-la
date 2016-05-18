@@ -1,0 +1,73 @@
+{
+  "id": 840113525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.381636,30.245826,-93.381636,30.245826",
+    "geom:latitude":30.245826,
+    "geom:longitude":-93.381636,
+    "iso:country":"US",
+    "sg:address":"918 Platt St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 3086",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54oDLKEaZJ4HXMS3obYrGr_30.245826_-93.381636@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521496,
+    "wof:geomhash":"9a3baf97e7a1175d8486a513a27f6262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840113525
+        }
+    ],
+    "wof:id":840113525,
+    "wof:lastmodified":1463521496,
+    "wof:name":"Reb's Shop",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "welding"
+    ]
+},
+  "bbox": [
+    -93.381636,
+    30.245826,
+    -93.381636,
+    30.245826
+],
+  "geometry": {"coordinates":[-93.381636,30.245826],"type":"Point"}
+}

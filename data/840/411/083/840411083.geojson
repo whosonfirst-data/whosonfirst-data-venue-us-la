@@ -1,0 +1,75 @@
+{
+  "id": 840411083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.081294,29.961235,-90.081294,29.961235",
+    "geom:latitude":29.961235,
+    "geom:longitude":-90.081294,
+    "iso:country":"US",
+    "sg:address":"2024 Canal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 4317",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GYvb4GfdAtrUZngFEP2Tj_29.961235_-90.081294@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531660,
+    "wof:geomhash":"fa4a18e83ad5925e0df07db5e97e94f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840411083
+        }
+    ],
+    "wof:id":840411083,
+    "wof:lastmodified":1463531660,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.081294,
+    29.961235,
+    -90.081294,
+    29.961235
+],
+  "geometry": {"coordinates":[-90.081294,29.961235],"type":"Point"}
+}

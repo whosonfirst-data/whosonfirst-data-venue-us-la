@@ -1,0 +1,71 @@
+{
+  "id": 840429377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.709665,32.37694,-93.709665,32.37694",
+    "geom:latitude":32.37694,
+    "geom:longitude":-93.709665,
+    "iso:country":"US",
+    "sg:address":"10161 Stonehedge Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 3642",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MUnPOXA3uZD0N7JKA6Gx6_32.376940_-93.709665@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532411,
+    "wof:geomhash":"f70e970df0524d61f6983b6ac54d51df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840429377
+        }
+    ],
+    "wof:id":840429377,
+    "wof:lastmodified":1463532411,
+    "wof:name":"David Caskey MD",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -93.709665,
+    32.37694,
+    -93.709665,
+    32.37694
+],
+  "geometry": {"coordinates":[-93.709665,32.37694],"type":"Point"}
+}

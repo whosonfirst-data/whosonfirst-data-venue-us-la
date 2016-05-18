@@ -1,0 +1,73 @@
+{
+  "id": 840403169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.272541,29.685828,-91.272541,29.685828",
+    "geom:latitude":29.685828,
+    "geom:longitude":-91.272541,
+    "iso:country":"US",
+    "sg:address":"141 Polaris Rd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 7970",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39QNCaFrxXjXB7oWcXerLJ_29.685828_-91.272541@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531349,
+    "wof:geomhash":"81e94570dea006500255439d41d1d31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840403169
+        }
+    ],
+    "wof:id":840403169,
+    "wof:lastmodified":1463531349,
+    "wof:name":"Polaris Rd Apartments",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.272541,
+    29.685828,
+    -91.272541,
+    29.685828
+],
+  "geometry": {"coordinates":[-91.272541,29.685828],"type":"Point"}
+}

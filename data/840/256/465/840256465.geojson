@@ -1,0 +1,75 @@
+{
+  "id": 840256465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.992429,30.10191,-91.992429,30.10191",
+    "geom:latitude":30.10191,
+    "geom:longitude":-91.992429,
+    "iso:country":"US",
+    "sg:address":"327 Iberia St",
+    "sg:city":"Youngsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 857 2390",
+    "sg:postcode":"70592",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948381,
+        102081919,
+        85806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NeoRVAozqIUDa9FJS58k5_30.101910_-91.992429@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524748,
+    "wof:geomhash":"f065bd99f1262b691f118f62c32af3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948381,
+            "neighbourhood_id":85806101,
+            "region_id":85688735,
+            "venue_id":840256465
+        }
+    ],
+    "wof:id":840256465,
+    "wof:lastmodified":1463524748,
+    "wof:name":"Stephen W Darbonne MD",
+    "wof:parent_id":85806101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.992429,
+    30.10191,
+    -91.992429,
+    30.10191
+],
+  "geometry": {"coordinates":[-91.992429,30.10191],"type":"Point"}
+}

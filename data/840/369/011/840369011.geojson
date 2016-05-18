@@ -1,0 +1,71 @@
+{
+  "id": 840369011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.999305,31.978792,-93.999305,31.978792",
+    "geom:latitude":31.978792,
+    "geom:longitude":-93.999305,
+    "iso:country":"US",
+    "sg:address":"300 Marie St",
+    "sg:city":"Logansport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 697 4380",
+    "sg:postcode":"71049",
+    "sg:province":"LA",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85842867,
+        102084887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6grWBmL1P9XNoOvP7EvUOh_31.978792_-93.999305@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529831,
+    "wof:geomhash":"8192fb85e9e92a947212d8785702cf32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "neighbourhood_id":85842867,
+            "region_id":85688735,
+            "venue_id":840369011
+        }
+    ],
+    "wof:id":840369011,
+    "wof:lastmodified":1463529831,
+    "wof:name":"Logansport Housing Authority",
+    "wof:parent_id":85842867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -93.999305,
+    31.978792,
+    -93.999305,
+    31.978792
+],
+  "geometry": {"coordinates":[-93.99930500000001,31.978792],"type":"Point"}
+}

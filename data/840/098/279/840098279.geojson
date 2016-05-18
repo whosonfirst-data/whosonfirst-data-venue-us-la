@@ -1,0 +1,73 @@
+{
+  "id": 840098279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.180146,30.007673,-90.180146,30.007673",
+    "geom:latitude":30.007673,
+    "geom:longitude":-90.180146,
+    "iso:country":"US",
+    "sg:address":"3601 Houma Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 889 7200",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60fdVlLbHYYKDbDQMwT4Kb_30.007673_-90.180146@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521177,
+    "wof:geomhash":"23a5f5dfe6bc69e9a19b1d4b66057291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840098279
+        }
+    ],
+    "wof:id":840098279,
+    "wof:lastmodified":1463521177,
+    "wof:name":"Wound Care Ctr",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.180146,
+    30.007673,
+    -90.180146,
+    30.007673
+],
+  "geometry": {"coordinates":[-90.18014599999999,30.007673],"type":"Point"}
+}

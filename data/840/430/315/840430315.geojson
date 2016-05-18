@@ -1,0 +1,71 @@
+{
+  "id": 840430315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.02186,30.353686,-91.02186,30.353686",
+    "geom:latitude":30.353686,
+    "geom:longitude":-91.02186,
+    "iso:country":"US",
+    "sg:address":"17924 Sotile Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 677 9221",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g0GULGc3GFWl5szNZ6RwL_30.353686_-91.021860@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532461,
+    "wof:geomhash":"bc5794c4ee0c6661ecf9d3dd656eed11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840430315
+        }
+    ],
+    "wof:id":840430315,
+    "wof:lastmodified":1463532461,
+    "wof:name":"Tri Star Waste Svc",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -91.02186,
+    30.353686,
+    -91.02186,
+    30.353686
+],
+  "geometry": {"coordinates":[-91.02186,30.353686],"type":"Point"}
+}

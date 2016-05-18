@@ -1,0 +1,71 @@
+{
+  "id": 840087647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.106487,30.402299,-91.106487,30.402299",
+    "geom:latitude":30.402299,
+    "geom:longitude":-91.106487,
+    "iso:country":"US",
+    "sg:address":"7777 Hennessy Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 767 6700",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PNrQDMfbASfYQCZwIs5tt_30.402299_-91.106487@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520978,
+    "wof:geomhash":"9ecb7d6e074fb5a04ab23e4e5a898754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840087647
+        }
+    ],
+    "wof:id":840087647,
+    "wof:lastmodified":1463520978,
+    "wof:name":"Pediatric Cardiolgy Assoc",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.106487,
+    30.402299,
+    -91.106487,
+    30.402299
+],
+  "geometry": {"coordinates":[-91.106487,30.402299],"type":"Point"}
+}

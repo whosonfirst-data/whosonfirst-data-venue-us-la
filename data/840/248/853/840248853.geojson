@@ -1,0 +1,71 @@
+{
+  "id": 840248853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.262873,30.448556,-91.262873,30.448556",
+    "geom:latitude":30.448556,
+    "geom:longitude":-91.262873,
+    "iso:country":"US",
+    "sg:address":"200 Bates Industrial Dr",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 344 0097",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "launderer",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85876063,
+        102086695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iVCccC78tfocWAr4k8m8O_30.448556_-91.262873@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524577,
+    "wof:geomhash":"12967cf8f4b258ed694c86c633587a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "neighbourhood_id":85876063,
+            "region_id":85688735,
+            "venue_id":840248853
+        }
+    ],
+    "wof:id":840248853,
+    "wof:lastmodified":1463524577,
+    "wof:name":"G & K",
+    "wof:parent_id":85876063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "launderer",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -91.262873,
+    30.448556,
+    -91.262873,
+    30.448556
+],
+  "geometry": {"coordinates":[-91.262873,30.448556],"type":"Point"}
+}

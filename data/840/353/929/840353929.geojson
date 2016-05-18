@@ -1,0 +1,71 @@
+{
+  "id": 840353929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.064757,30.20174,-92.064757,30.20174",
+    "geom:latitude":30.20174,
+    "geom:longitude":-92.064757,
+    "iso:country":"US",
+    "sg:address":"3839 W Congress St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 0178",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23KTHoa3bvKwrIRTkNMjtJ_30.201740_-92.064757@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529102,
+    "wof:geomhash":"6d363d3641aeb425511a25f610681059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840353929
+        }
+    ],
+    "wof:id":840353929,
+    "wof:lastmodified":1463529102,
+    "wof:name":"Stephen E Searcy DDS",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.064757,
+    30.20174,
+    -92.064757,
+    30.20174
+],
+  "geometry": {"coordinates":[-92.064757,30.20174],"type":"Point"}
+}

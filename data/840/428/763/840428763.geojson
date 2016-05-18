@@ -1,0 +1,71 @@
+{
+  "id": 840428763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.97558,30.289879,-91.97558,30.289879",
+    "geom:latitude":30.289879,
+    "geom:longitude":-91.97558,
+    "iso:country":"US",
+    "sg:address":"300 Wildlife Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 0649",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hQbaijebVNRTptKx1Qkv4_30.289879_-91.975580@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532386,
+    "wof:geomhash":"6f51c882c19904f019f3218a7973b554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840428763
+        }
+    ],
+    "wof:id":840428763,
+    "wof:lastmodified":1463532386,
+    "wof:name":"Car Wash Sys of Lafayette",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.97558,
+    30.289879,
+    -91.97558,
+    30.289879
+],
+  "geometry": {"coordinates":[-91.97557999999999,30.289879],"type":"Point"}
+}

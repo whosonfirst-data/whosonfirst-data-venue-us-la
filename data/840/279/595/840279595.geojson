@@ -1,0 +1,73 @@
+{
+  "id": 840279595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.45945,30.474524,-90.45945,30.474524",
+    "geom:latitude":30.474524,
+    "geom:longitude":-90.45945,
+    "iso:country":"US",
+    "sg:address":"15825 Professional Plz",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 429 0020",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K6x5yYAwvvSedsm0lajlN_30.474524_-90.459450@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525599,
+    "wof:geomhash":"8afd2c8bf75351a5905fa46cada6fdf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840279595
+        }
+    ],
+    "wof:id":840279595,
+    "wof:lastmodified":1463525599,
+    "wof:name":"Robert M Starns MD",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.45945,
+    30.474524,
+    -90.45945,
+    30.474524
+],
+  "geometry": {"coordinates":[-90.45945,30.474524],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840457775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.719803,32.445309,-93.719803,32.445309",
+    "geom:latitude":32.445309,
+    "geom:longitude":-93.719803,
+    "iso:country":"US",
+    "sg:address":"6658 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/cedar-grove/136689-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 797 1799",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kWYm3y7YThQgsMZASD38J_32.444723_-93.719435@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533605,
+    "wof:geomhash":"a5d1f6fade79345b2311cb53bff67fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840457775
+        }
+    ],
+    "wof:id":840457775,
+    "wof:lastmodified":1463533605,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.719803,
+    32.445309,
+    -93.719803,
+    32.445309
+],
+  "geometry": {"coordinates":[-93.719803,32.445309],"type":"Point"}
+}

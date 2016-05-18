@@ -1,0 +1,71 @@
+{
+  "id": 840038111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.200166,30.307196,-93.200166,30.307196",
+    "geom:latitude":30.307196,
+    "geom:longitude":-93.200166,
+    "iso:country":"US",
+    "sg:address":"485 Parish Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 0045",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AunblzB7NyWW52GTFYB2D_30.307196_-93.200166@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519797,
+    "wof:geomhash":"16158fee04d9fdace5b84d5cb0d95355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840038111
+        }
+    ],
+    "wof:id":840038111,
+    "wof:lastmodified":1463519797,
+    "wof:name":"E-Tronics Workshop LLC",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -93.200166,
+    30.307196,
+    -93.200166,
+    30.307196
+],
+  "geometry": {"coordinates":[-93.200166,30.307196],"type":"Point"}
+}

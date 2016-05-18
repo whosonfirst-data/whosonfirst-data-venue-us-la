@@ -1,0 +1,71 @@
+{
+  "id": 840312223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.202788,29.702101,-91.202788,29.702101",
+    "geom:latitude":29.702101,
+    "geom:longitude":-91.202788,
+    "iso:country":"US",
+    "sg:address":"915 7th St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 0533",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mxMEDejLv6cEaTg2noxaN_29.702101_-91.202788@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527100,
+    "wof:geomhash":"1fd68a6e6bdcfb99e1e9b9e1518a7370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840312223
+        }
+    ],
+    "wof:id":840312223,
+    "wof:lastmodified":1463527100,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.202788,
+    29.702101,
+    -91.202788,
+    29.702101
+],
+  "geometry": {"coordinates":[-91.202788,29.702101],"type":"Point"}
+}

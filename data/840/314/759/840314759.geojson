@@ -1,0 +1,73 @@
+{
+  "id": 840314759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.108569,32.475802,-92.108569,32.475802",
+    "geom:latitude":32.475802,
+    "geom:longitude":-92.108569,
+    "iso:country":"US",
+    "sg:address":"2713 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 340 0390",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50lu3fw6hlGNgbQUgHplda_32.475802_-92.108569@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527209,
+    "wof:geomhash":"b08b6f995ec354098abde1805f13e0e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840314759
+        }
+    ],
+    "wof:id":840314759,
+    "wof:lastmodified":1463527209,
+    "wof:name":"Willies Professional Auto Rpr",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.108569,
+    32.475802,
+    -92.108569,
+    32.475802
+],
+  "geometry": {"coordinates":[-92.108569,32.475802],"type":"Point"}
+}

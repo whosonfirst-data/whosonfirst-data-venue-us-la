@@ -1,0 +1,74 @@
+{
+  "id": 840454621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.10187,30.242525,-92.10187,30.242525",
+    "geom:latitude":30.242525,
+    "geom:longitude":-92.10187,
+    "iso:country":"US",
+    "sg:address":"1610 Saint Mary St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/carencro/132063-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 504 4847",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GVrpolw4soUulF3zJrIIA_30.242525_-92.101870@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533490,
+    "wof:geomhash":"3ff3bcb5c79736bf28e83aaaeeb04ed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840454621
+        }
+    ],
+    "wof:id":840454621,
+    "wof:lastmodified":1463533490,
+    "wof:name":"Subway",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.10187,
+    30.242525,
+    -92.10187,
+    30.242525
+],
+  "geometry": {"coordinates":[-92.10187000000001,30.242525],"type":"Point"}
+}

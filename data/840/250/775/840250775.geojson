@@ -1,0 +1,73 @@
+{
+  "id": 840250775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.474826,30.501067,-90.474826,30.501067",
+    "geom:latitude":30.501067,
+    "geom:longitude":-90.474826,
+    "iso:country":"US",
+    "sg:address":"1318 W Thomas St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 419 9200",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fwrur9bvRcIhxXyMbljrf_30.501067_-90.474826@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524627,
+    "wof:geomhash":"6f0829e4131119296de9557f460b1c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840250775
+        }
+    ],
+    "wof:id":840250775,
+    "wof:lastmodified":1463524627,
+    "wof:name":"Cherokee Lock Works",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.474826,
+    30.501067,
+    -90.474826,
+    30.501067
+],
+  "geometry": {"coordinates":[-90.47482599999999,30.501067],"type":"Point"}
+}

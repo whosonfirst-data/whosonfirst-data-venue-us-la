@@ -1,0 +1,73 @@
+{
+  "id": 840382435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213875,30.154903,-93.213875,30.154903",
+    "geom:latitude":30.154903,
+    "geom:longitude":-93.213875,
+    "iso:country":"US",
+    "sg:address":"5728 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 3692",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_032UuTHDlQgJNxGdHPucmo_30.154903_-93.213875@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530469,
+    "wof:geomhash":"28015a8ab21f95eb172cfe59708835ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840382435
+        }
+    ],
+    "wof:id":840382435,
+    "wof:lastmodified":1463530469,
+    "wof:name":"Fontenot Plumbing Co",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.213875,
+    30.154903,
+    -93.213875,
+    30.154903
+],
+  "geometry": {"coordinates":[-93.213875,30.154903],"type":"Point"}
+}

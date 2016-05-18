@@ -1,0 +1,71 @@
+{
+  "id": 840240375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.985224,32.870794,-93.985224,32.870794",
+    "geom:latitude":32.870794,
+    "geom:longitude":-93.985224,
+    "iso:country":"US",
+    "sg:address":"213 E Arkansas Ave",
+    "sg:city":"Vivian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 375 3696",
+    "sg:postcode":"71082",
+    "sg:province":"LA",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a2SeRlGGU192gKD8SrLC9_32.870794_-93.985224@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524373,
+    "wof:geomhash":"568ccf05827c632327dfef736c18d61e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840240375
+        }
+    ],
+    "wof:id":840240375,
+    "wof:lastmodified":1463524373,
+    "wof:name":"Lennox",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -93.985224,
+    32.870794,
+    -93.985224,
+    32.870794
+],
+  "geometry": {"coordinates":[-93.985224,32.870794],"type":"Point"}
+}

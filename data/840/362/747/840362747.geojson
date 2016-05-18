@@ -1,0 +1,75 @@
+{
+  "id": 840362747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.766142,30.243806,-89.766142,30.243806",
+    "geom:latitude":30.243806,
+    "geom:longitude":-89.766142,
+    "iso:country":"US",
+    "sg:address":"38228 Cleveland St",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 643 1109",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85850405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MdoSqbikzJzkslVoa7Kou_30.243806_-89.766142@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529512,
+    "wof:geomhash":"a0aa11b17b38c00df37cac199a48bd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85850405,
+            "region_id":85688735,
+            "venue_id":840362747
+        }
+    ],
+    "wof:id":840362747,
+    "wof:lastmodified":1463529512,
+    "wof:name":"Bryan's Automotive",
+    "wof:parent_id":85850405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.766142,
+    30.243806,
+    -89.766142,
+    30.243806
+],
+  "geometry": {"coordinates":[-89.766142,30.243806],"type":"Point"}
+}

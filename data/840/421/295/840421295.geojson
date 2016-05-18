@@ -1,0 +1,73 @@
+{
+  "id": 840421295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.462605,31.569875,-93.462605,31.569875",
+    "geom:latitude":31.569875,
+    "geom:longitude":-93.462605,
+    "iso:country":"US",
+    "sg:address":"583 Middle Creek Rd",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 5006",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NppEzQZL8qlmPWlMweeuX_31.569875_-93.462605@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532091,
+    "wof:geomhash":"051ed098151982cf53e5b127305632d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840421295
+        }
+    ],
+    "wof:id":840421295,
+    "wof:lastmodified":1463532091,
+    "wof:name":"Apollo Plaza Apartments",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.462605,
+    31.569875,
+    -93.462605,
+    31.569875
+],
+  "geometry": {"coordinates":[-93.462605,31.569875],"type":"Point"}
+}

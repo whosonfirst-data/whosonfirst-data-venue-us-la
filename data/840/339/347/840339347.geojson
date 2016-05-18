@@ -1,0 +1,71 @@
+{
+  "id": 840339347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.457871,30.484535,-90.457871,30.484535",
+    "geom:latitude":30.484535,
+    "geom:longitude":-90.457871,
+    "iso:country":"US",
+    "sg:address":"212 W Minnesota Park Rd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 3368",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JuV0x7WDJ16JKINaFlyct_30.484535_-90.457871@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528378,
+    "wof:geomhash":"0e4557b48510127318e4ec443a4ef0c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840339347
+        }
+    ],
+    "wof:id":840339347,
+    "wof:lastmodified":1463528378,
+    "wof:name":"Dental Care Assoc",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.457871,
+    30.484535,
+    -90.457871,
+    30.484535
+],
+  "geometry": {"coordinates":[-90.457871,30.484535],"type":"Point"}
+}

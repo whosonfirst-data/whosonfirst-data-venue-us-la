@@ -1,0 +1,71 @@
+{
+  "id": 840298011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.026386,30.292085,-92.026386,30.292085",
+    "geom:latitude":30.292085,
+    "geom:longitude":-92.026386,
+    "iso:country":"US",
+    "sg:address":"601 Loire Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 2089",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eR8Wc2OgFZ7LaB8n4hfbP_30.292085_-92.026386@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526402,
+    "wof:geomhash":"307d3449ea0b3e396a7cbc03af3a408d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840298011
+        }
+    ],
+    "wof:id":840298011,
+    "wof:lastmodified":1463526402,
+    "wof:name":"John Arnaud Builder",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.026386,
+    30.292085,
+    -92.026386,
+    30.292085
+],
+  "geometry": {"coordinates":[-92.026386,30.292085],"type":"Point"}
+}

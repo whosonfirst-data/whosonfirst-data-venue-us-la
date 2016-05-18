@@ -1,0 +1,71 @@
+{
+  "id": 840093971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.502436,29.790809,-91.502436,29.790809",
+    "geom:latitude":29.790809,
+    "geom:longitude":-91.502436,
+    "iso:country":"US",
+    "sg:address":"508 2nd St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 6331",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wuyZHLfC4YxMdcM0KoHDC_29.790809_-91.502436@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521097,
+    "wof:geomhash":"fb9a444450f8a8afd52c69569522e791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840093971
+        }
+    ],
+    "wof:id":840093971,
+    "wof:lastmodified":1463521097,
+    "wof:name":"Franklin City Police Dept",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.502436,
+    29.790809,
+    -91.502436,
+    29.790809
+],
+  "geometry": {"coordinates":[-91.502436,29.790809],"type":"Point"}
+}

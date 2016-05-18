@@ -1,0 +1,73 @@
+{
+  "id": 840300293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.464919,31.275936,-92.464919,31.275936",
+    "geom:latitude":31.275936,
+    "geom:longitude":-92.464919,
+    "iso:country":"US",
+    "sg:address":"2216 Worley Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 445 8296",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F0pNlaPlB29PlBAK6ZP77_31.275936_-92.464919@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526505,
+    "wof:geomhash":"98af846e85b12cf236f00b10024936a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840300293
+        }
+    ],
+    "wof:id":840300293,
+    "wof:lastmodified":1463526505,
+    "wof:name":"Michael Menache MD",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.464919,
+    31.275936,
+    -92.464919,
+    31.275936
+],
+  "geometry": {"coordinates":[-92.46491899999999,31.275936],"type":"Point"}
+}

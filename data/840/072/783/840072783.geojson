@@ -1,0 +1,71 @@
+{
+  "id": 840072783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.205428,30.184502,-93.205428,30.184502",
+    "geom:latitude":30.184502,
+    "geom:longitude":-93.205428,
+    "iso:country":"US",
+    "sg:address":"4003 Louisiana Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 8360",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O9SjlPhcdBmoVGI4knTq8_30.184502_-93.205428@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520537,
+    "wof:geomhash":"22f363527cb559c0b180d44b79482402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840072783
+        }
+    ],
+    "wof:id":840072783,
+    "wof:lastmodified":1463520537,
+    "wof:name":"Richard L Le Blanc DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.205428,
+    30.184502,
+    -93.205428,
+    30.184502
+],
+  "geometry": {"coordinates":[-93.205428,30.184502],"type":"Point"}
+}

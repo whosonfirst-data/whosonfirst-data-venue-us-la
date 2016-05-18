@@ -1,0 +1,71 @@
+{
+  "id": 840430155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.099566,30.269922,-92.099566,30.269922",
+    "geom:latitude":30.269922,
+    "geom:longitude":-92.099566,
+    "iso:country":"US",
+    "sg:address":"720 Pitt Rd",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 873 2233",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W68sv8nYE20o2KtjlqrIX_30.269922_-92.099566@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532455,
+    "wof:geomhash":"752d6c0fb456e67191b87f617e789532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840430155
+        }
+    ],
+    "wof:id":840430155,
+    "wof:lastmodified":1463532455,
+    "wof:name":"Dennis Falcon Trucking Inc",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.099566,
+    30.269922,
+    -92.099566,
+    30.269922
+],
+  "geometry": {"coordinates":[-92.099566,30.269922],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840038119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.042289,30.431659,-91.042289,30.431659",
+    "geom:latitude":30.431659,
+    "geom:longitude":-91.042289,
+    "iso:country":"US",
+    "sg:address":"12551 S Harrells Ferry Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 925 9797",
+    "sg:postcode":"70816",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85850079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GXEnrdpPXICn3bTHe9XjZ_30.431659_-91.042289@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519798,
+    "wof:geomhash":"47ad368b049575408e6ddae32bb78ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85850079,
+            "region_id":85688735,
+            "venue_id":840038119
+        }
+    ],
+    "wof:id":840038119,
+    "wof:lastmodified":1463519798,
+    "wof:name":"Southeast Pediatric Clinic",
+    "wof:parent_id":85850079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.042289,
+    30.431659,
+    -91.042289,
+    30.431659
+],
+  "geometry": {"coordinates":[-91.042289,30.431659],"type":"Point"}
+}

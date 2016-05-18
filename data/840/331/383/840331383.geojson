@@ -1,0 +1,73 @@
+{
+  "id": 840331383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.077481,29.93809,-90.077481,29.93809",
+    "geom:latitude":29.93809,
+    "geom:longitude":-90.077481,
+    "iso:country":"US",
+    "sg:address":"1634 Euterpe St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 0629",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GFq6iR6nwnzRJoUjosdz9_29.938090_-90.077481@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528008,
+    "wof:geomhash":"3db643ceb79e4371fbe7a0ff3c75763f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840331383
+        }
+    ],
+    "wof:id":840331383,
+    "wof:lastmodified":1463528008,
+    "wof:name":"United Cabs Inc",
+    "wof:parent_id":85831571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.077481,
+    29.93809,
+    -90.077481,
+    29.93809
+],
+  "geometry": {"coordinates":[-90.07748100000001,29.93809],"type":"Point"}
+}

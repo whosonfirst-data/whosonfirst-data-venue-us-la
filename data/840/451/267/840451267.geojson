@@ -1,0 +1,75 @@
+{
+  "id": 840451267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.056297,30.2323,-92.056297,30.2323",
+    "geom:latitude":30.2323,
+    "geom:longitude":-92.056297,
+    "iso:country":"US",
+    "sg:address":"3125 Cameron St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 572 9960",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5daL9R7i9w2391aUieNVxS_30.232512_-92.056294@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533356,
+    "wof:geomhash":"34c62691c6007c9906d4029fb907062a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840451267
+        }
+    ],
+    "wof:id":840451267,
+    "wof:lastmodified":1463533356,
+    "wof:name":"Dedicated Services Lafayette",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -92.056297,
+    30.2323,
+    -92.056297,
+    30.2323
+],
+  "geometry": {"coordinates":[-92.056297,30.2323],"type":"Point"}
+}

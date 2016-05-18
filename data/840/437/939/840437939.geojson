@@ -1,0 +1,75 @@
+{
+  "id": 840437939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.521989,29.862829,-91.521989,29.862829",
+    "geom:latitude":29.862829,
+    "geom:longitude":-91.521989,
+    "iso:country":"US",
+    "sg:address":"6025 State Rte 87",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 7137",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29hn6keW0KSIqBOOKHtRcD_29.862829_-91.521989@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532803,
+    "wof:geomhash":"822e88cdcced50b3eb2efe0daed055a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840437939
+        }
+    ],
+    "wof:id":840437939,
+    "wof:lastmodified":1463532803,
+    "wof:name":"BP Pipeline North America",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -91.521989,
+    29.862829,
+    -91.521989,
+    29.862829
+],
+  "geometry": {"coordinates":[-91.521989,29.862829],"type":"Point"}
+}

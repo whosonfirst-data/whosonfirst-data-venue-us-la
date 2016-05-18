@@ -1,0 +1,71 @@
+{
+  "id": 840054999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.946627,30.945444,-92.946627,30.945444",
+    "geom:latitude":30.945444,
+    "geom:longitude":-92.946627,
+    "iso:country":"US",
+    "sg:address":"3270 State Rte 458",
+    "sg:city":"Pitkin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 328 7953",
+    "sg:postcode":"70656",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ltMgwQQukS6ZghxlcLYqx_30.945444_-92.946627@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520146,
+    "wof:geomhash":"bc5df20567a3bd36ba49843397f7703d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840054999
+        }
+    ],
+    "wof:id":840054999,
+    "wof:lastmodified":1463520146,
+    "wof:name":"Vernon Parish Police Jury",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -92.946627,
+    30.945444,
+    -92.946627,
+    30.945444
+],
+  "geometry": {"coordinates":[-92.94662700000001,30.945444],"type":"Point"}
+}

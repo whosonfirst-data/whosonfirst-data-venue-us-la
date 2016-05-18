@@ -1,0 +1,71 @@
+{
+  "id": 840122303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.718446,32.443597,-93.718446,32.443597",
+    "geom:latitude":32.443597,
+    "geom:longitude":-93.718446,
+    "iso:country":"US",
+    "sg:address":"6605 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 6789",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15LnDahhWPZT6APivZ3YIJ_32.443597_-93.718446@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521690,
+    "wof:geomhash":"4b51a254fdde6f5b055bb08bb5fb9d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840122303
+        }
+    ],
+    "wof:id":840122303,
+    "wof:lastmodified":1463521690,
+    "wof:name":"Red River Catering",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -93.718446,
+    32.443597,
+    -93.718446,
+    32.443597
+],
+  "geometry": {"coordinates":[-93.718446,32.443597],"type":"Point"}
+}

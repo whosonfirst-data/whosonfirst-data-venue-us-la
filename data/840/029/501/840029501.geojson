@@ -1,0 +1,67 @@
+{
+  "id": 840029501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.207148,30.218304,-93.207148,30.218304",
+    "geom:latitude":30.218304,
+    "geom:longitude":-93.207148,
+    "iso:country":"US",
+    "sg:address":"1620 Bank St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7275",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:website":"www.stlouishighschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WkOQok0w2sTGpCcvU0x30_30.218304_-93.207148@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519613,
+    "wof:geomhash":"4af49b8b8e8a489c05992a6b513d48f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840029501
+        }
+    ],
+    "wof:id":840029501,
+    "wof:lastmodified":1463519613,
+    "wof:name":"St Louis Catholic High School",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.207148,
+    30.218304,
+    -93.207148,
+    30.218304
+],
+  "geometry": {"coordinates":[-93.207148,30.218304],"type":"Point"}
+}

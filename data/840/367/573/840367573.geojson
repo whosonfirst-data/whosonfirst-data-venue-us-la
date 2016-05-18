@@ -1,0 +1,73 @@
+{
+  "id": 840367573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.789731,30.017628,-91.789731,30.017628",
+    "geom:latitude":30.017628,
+    "geom:longitude":-91.789731,
+    "iso:country":"US",
+    "sg:address":"2818 Sugar Mill Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3198",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jPTcxnVL9eXJfyFGOlslk_30.017628_-91.789731@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529759,
+    "wof:geomhash":"9d34797460211c8827e2bf7218390761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840367573
+        }
+    ],
+    "wof:id":840367573,
+    "wof:lastmodified":1463529759,
+    "wof:name":"Carmen Enterprises Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.789731,
+    30.017628,
+    -91.789731,
+    30.017628
+],
+  "geometry": {"coordinates":[-91.789731,30.017628],"type":"Point"}
+}

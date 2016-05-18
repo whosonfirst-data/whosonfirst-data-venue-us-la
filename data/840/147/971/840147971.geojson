@@ -1,0 +1,71 @@
+{
+  "id": 840147971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.232247,30.142234,-93.232247,30.142234",
+    "geom:latitude":30.142234,
+    "geom:longitude":-93.232247,
+    "iso:country":"US",
+    "sg:address":"6600 Lake St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 1325",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bTZ45V6sAV88m231IAej3_30.142234_-93.232247@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522197,
+    "wof:geomhash":"814f06f6980df78455f397122640e321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840147971
+        }
+    ],
+    "wof:id":840147971,
+    "wof:lastmodified":1463522197,
+    "wof:name":"Reina Veterinary Clinic",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.232247,
+    30.142234,
+    -93.232247,
+    30.142234
+],
+  "geometry": {"coordinates":[-93.232247,30.142234],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840008643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.751089,30.303794,-89.751089,30.303794",
+    "geom:latitude":30.303794,
+    "geom:longitude":-89.751089,
+    "iso:country":"US",
+    "sg:address":"110 Robert Blvd",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 649 3253",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85836599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PrVk7zvZ1Tohk5CuapXEx_30.303794_-89.751089@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519180,
+    "wof:geomhash":"91b9e1d890518f76cbed2792180c5a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85836599,
+            "region_id":85688735,
+            "venue_id":840008643
+        }
+    ],
+    "wof:id":840008643,
+    "wof:lastmodified":1463519180,
+    "wof:name":"AY2K Marine Survey",
+    "wof:parent_id":85836599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -89.751089,
+    30.303794,
+    -89.751089,
+    30.303794
+],
+  "geometry": {"coordinates":[-89.75108899999999,30.303794],"type":"Point"}
+}

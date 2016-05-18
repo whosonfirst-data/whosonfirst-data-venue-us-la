@@ -1,0 +1,73 @@
+{
+  "id": 840075303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.443389,30.439602,-90.443389,30.439602",
+    "geom:latitude":30.439602,
+    "geom:longitude":-90.443389,
+    "iso:country":"US",
+    "sg:address":"111 N 6th St",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 0710",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "eating",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rjMSjZ9Ig1tw96d38BgrQ_30.439602_-90.443389@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520588,
+    "wof:geomhash":"44dd7db5a479b92b5c4fe9b2a0fe586c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840075303
+        }
+    ],
+    "wof:id":840075303,
+    "wof:lastmodified":1463520588,
+    "wof:name":"Le Fleur De Lis",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "business"
+    ]
+},
+  "bbox": [
+    -90.443389,
+    30.439602,
+    -90.443389,
+    30.439602
+],
+  "geometry": {"coordinates":[-90.443389,30.439602],"type":"Point"}
+}

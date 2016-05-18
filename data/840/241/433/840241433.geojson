@@ -1,0 +1,71 @@
+{
+  "id": 840241433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.200225,30.201296,-93.200225,30.201296",
+    "geom:latitude":30.201296,
+    "geom:longitude":-93.200225,
+    "iso:country":"US",
+    "sg:address":"3050 Aster St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 494 6444",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VYJaRNJSdJGMlUVoJ2Yt4_30.201296_-93.200225@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524393,
+    "wof:geomhash":"bdc78a3adfc182f495f4a752f790f035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840241433
+        }
+    ],
+    "wof:id":840241433,
+    "wof:lastmodified":1463524393,
+    "wof:name":"Home Health Agency-Lk Charles",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -93.200225,
+    30.201296,
+    -93.200225,
+    30.201296
+],
+  "geometry": {"coordinates":[-93.200225,30.201296],"type":"Point"}
+}

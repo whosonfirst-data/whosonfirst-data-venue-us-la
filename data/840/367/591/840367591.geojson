@@ -1,0 +1,75 @@
+{
+  "id": 840367591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.709813,32.533383,-93.709813,32.533383",
+    "geom:latitude":32.533383,
+    "geom:longitude":-93.709813,
+    "iso:country":"US",
+    "sg:address":"1513 Doctors Dr",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 746 7272",
+    "sg:postcode":"71111",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85821887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cnSeFoE8kHQ5dJ45wLfGU_32.533383_-93.709813@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529760,
+    "wof:geomhash":"3b207704b79444e42f1484406ea0e5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85821887,
+            "region_id":85688735,
+            "venue_id":840367591
+        }
+    ],
+    "wof:id":840367591,
+    "wof:lastmodified":1463529760,
+    "wof:name":"North Louisiana Surgery Ctr",
+    "wof:parent_id":85821887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.709813,
+    32.533383,
+    -93.709813,
+    32.533383
+],
+  "geometry": {"coordinates":[-93.709813,32.533383],"type":"Point"}
+}

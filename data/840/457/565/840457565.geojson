@@ -1,0 +1,74 @@
+{
+  "id": 840457565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218706,30.176175,-93.218706,30.176175",
+    "geom:latitude":30.176175,
+    "geom:longitude":-93.218706,
+    "iso:country":"US",
+    "sg:address":"108 W Mcneese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/197495-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 7876",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xWeWiyD7H2DdMqMjQUtJ7_30.176258_-93.218852@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533598,
+    "wof:geomhash":"a207fa4c0dce4a11b8667afa2c180933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840457565
+        }
+    ],
+    "wof:id":840457565,
+    "wof:lastmodified":1463533598,
+    "wof:name":"Burger King",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.218706,
+    30.176175,
+    -93.218706,
+    30.176175
+],
+  "geometry": {"coordinates":[-93.218706,30.176175],"type":"Point"}
+}

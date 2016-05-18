@@ -1,0 +1,71 @@
+{
+  "id": 840201961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.587151,30.169531,-93.587151,30.169531",
+    "geom:latitude":30.169531,
+    "geom:longitude":-93.587151,
+    "iso:country":"US",
+    "sg:address":"2114 West St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 7114",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UZ1RAcuvxsWsRdGg9OWAq_30.169531_-93.587151@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523400,
+    "wof:geomhash":"1084d7321f27b911190b0f2bcb23b3f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840201961
+        }
+    ],
+    "wof:id":840201961,
+    "wof:lastmodified":1463523400,
+    "wof:name":"Dental One",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.587151,
+    30.169531,
+    -93.587151,
+    30.169531
+],
+  "geometry": {"coordinates":[-93.58715100000001,30.169531],"type":"Point"}
+}

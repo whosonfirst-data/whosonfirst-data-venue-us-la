@@ -1,0 +1,73 @@
+{
+  "id": 840199845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.377321,30.235994,-93.377321,30.235994",
+    "geom:latitude":30.235994,
+    "geom:longitude":-93.377321,
+    "iso:country":"US",
+    "sg:address":"110 E Thomas St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 3662",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NBy3rqfpy2yUmQei8RZxJ_30.235994_-93.377321@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523327,
+    "wof:geomhash":"c215a01b858f2513ac2753ba5a2b018c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840199845
+        }
+    ],
+    "wof:id":840199845,
+    "wof:lastmodified":1463523327,
+    "wof:name":"Lake Area Driving School",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -93.377321,
+    30.235994,
+    -93.377321,
+    30.235994
+],
+  "geometry": {"coordinates":[-93.37732099999999,30.235994],"type":"Point"}
+}

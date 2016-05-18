@@ -1,0 +1,79 @@
+{
+  "id": 840379717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.072099,29.931236,-90.072099,29.931236",
+    "geom:latitude":29.931236,
+    "geom:longitude":-90.072099,
+    "iso:country":"US",
+    "sg:address":"1600 Constance St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 6221",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:website":"www.kingsleyhouse.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QukG8qSqtvAYSMKcvG1Ws_29.931236_-90.072099@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530338,
+    "wof:geomhash":"1c093fb494633867b7d6a6e826ecae33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840379717
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840379717
+        }
+    ],
+    "wof:id":840379717,
+    "wof:lastmodified":1463530338,
+    "wof:name":"Kingsley House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.072099,
+    29.931236,
+    -90.072099,
+    29.931236
+],
+  "geometry": {"coordinates":[-90.07209899999999,29.931236],"type":"Point"}
+}

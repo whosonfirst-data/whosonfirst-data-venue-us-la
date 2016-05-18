@@ -1,0 +1,73 @@
+{
+  "id": 840178821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.999681,32.875457,-93.999681,32.875457",
+    "geom:latitude":32.875457,
+    "geom:longitude":-93.999681,
+    "iso:country":"US",
+    "sg:address":"439 Redbud Ln",
+    "sg:city":"Vivian",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 375 2226",
+    "sg:postcode":"71082",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pnvd1dzllojke8etdbd1u_32.875457_-93.999681@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522881,
+    "wof:geomhash":"0629a7ec3dae28d82c308540d63cd894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840178821
+        }
+    ],
+    "wof:id":840178821,
+    "wof:lastmodified":1463522881,
+    "wof:name":"Vivian Car Care",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.999681,
+    32.875457,
+    -93.999681,
+    32.875457
+],
+  "geometry": {"coordinates":[-93.999681,32.875457],"type":"Point"}
+}

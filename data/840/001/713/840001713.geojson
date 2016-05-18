@@ -1,0 +1,71 @@
+{
+  "id": 840001713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.445415,30.502852,-90.445415,30.502852",
+    "geom:latitude":30.502852,
+    "geom:longitude":-90.445415,
+    "iso:country":"US",
+    "sg:address":"44364 Parker Blvd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 8049",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "piano"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n27Vpw0YAcQtQGkzchesd_30.502852_-90.445415@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519028,
+    "wof:geomhash":"4dc3e42022eee16c0e732a35cae290ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840001713
+        }
+    ],
+    "wof:id":840001713,
+    "wof:lastmodified":1463519028,
+    "wof:name":"Rushing Piano & Organ Svc",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano"
+    ]
+},
+  "bbox": [
+    -90.445415,
+    30.502852,
+    -90.445415,
+    30.502852
+],
+  "geometry": {"coordinates":[-90.445415,30.502852],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840409077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.583987,30.192631,-93.583987,30.192631",
+    "geom:latitude":30.192631,
+    "geom:longitude":-93.583987,
+    "iso:country":"US",
+    "sg:address":"1611 Hampton St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 5951",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nE2IUzZ1XY5745e3BAcol_30.192631_-93.583987@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531587,
+    "wof:geomhash":"8148b9ba96ad95a908ee201f43ca8d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840409077
+        }
+    ],
+    "wof:id":840409077,
+    "wof:lastmodified":1463531587,
+    "wof:name":"Vinton Medical Clinic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.583987,
+    30.192631,
+    -93.583987,
+    30.192631
+],
+  "geometry": {"coordinates":[-93.58398699999999,30.192631],"type":"Point"}
+}

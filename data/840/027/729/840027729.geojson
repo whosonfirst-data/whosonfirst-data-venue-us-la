@@ -1,0 +1,71 @@
+{
+  "id": 840027729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.986225,32.873309,-93.986225,32.873309",
+    "geom:latitude":32.873309,
+    "geom:longitude":-93.986225,
+    "iso:country":"US",
+    "sg:address":"117 N Pine St",
+    "sg:city":"Vivian",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 375 2851",
+    "sg:postcode":"71082",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24itm4U4VkNj9XnUAH7uEj_32.873309_-93.986225@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519571,
+    "wof:geomhash":"5330eab889161b5ccf51d757298acd1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840027729
+        }
+    ],
+    "wof:id":840027729,
+    "wof:lastmodified":1463519571,
+    "wof:name":"James R Mc Cormick DDS",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.986225,
+    32.873309,
+    -93.986225,
+    32.873309
+],
+  "geometry": {"coordinates":[-93.986225,32.873309],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840428641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.271552,31.082658,-93.271552,31.082658",
+    "geom:latitude":31.082658,
+    "geom:longitude":-93.271552,
+    "iso:country":"US",
+    "sg:address":"411 Eissman Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 238 0067",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "county",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V03IcAJTQ44gczRZHxTTX_31.082658_-93.271552@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532382,
+    "wof:geomhash":"ab068733bee3c818fa2232f1bc8c328f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840428641
+        }
+    ],
+    "wof:id":840428641,
+    "wof:lastmodified":1463532382,
+    "wof:name":"Country Acre Apartments",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.271552,
+    31.082658,
+    -93.271552,
+    31.082658
+],
+  "geometry": {"coordinates":[-93.271552,31.082658],"type":"Point"}
+}

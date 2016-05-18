@@ -1,0 +1,73 @@
+{
+  "id": 840405381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.125455,29.979595,-90.125455,29.979595",
+    "geom:latitude":29.979595,
+    "geom:longitude":-90.125455,
+    "iso:country":"US",
+    "sg:address":"123 Metairie Rd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 833 7337",
+    "sg:postcode":"70001",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948743,
+        102083179,
+        85866143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gFdsc8igzvCYnzcb2Ydlo_29.979595_-90.125455@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531438,
+    "wof:geomhash":"354a63319472d2b55aa9f4ea23ceb1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":85866143,
+            "region_id":85688735,
+            "venue_id":840405381
+        }
+    ],
+    "wof:id":840405381,
+    "wof:lastmodified":1463531438,
+    "wof:name":"John M Daly MD",
+    "wof:parent_id":85866143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.125455,
+    29.979595,
+    -90.125455,
+    29.979595
+],
+  "geometry": {"coordinates":[-90.125455,29.979595],"type":"Point"}
+}

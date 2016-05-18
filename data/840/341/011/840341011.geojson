@@ -1,0 +1,75 @@
+{
+  "id": 840341011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.82639,32.247738,-93.82639,32.247738",
+    "geom:latitude":32.247738,
+    "geom:longitude":-93.82639,
+    "iso:country":"US",
+    "sg:address":"269 Hillside Cir",
+    "sg:city":"Stonewall",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 925 3270",
+    "sg:postcode":"71078",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tUzPXwmpJzebq40T79nHZ_32.247738_-93.826390@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528463,
+    "wof:geomhash":"765e6360fb1b9e2588cb48818d0260eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":840341011
+        }
+    ],
+    "wof:id":840341011,
+    "wof:lastmodified":1463528463,
+    "wof:name":"R&D Trucking",
+    "wof:parent_id":85813793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.82639,
+    32.247738,
+    -93.82639,
+    32.247738
+],
+  "geometry": {"coordinates":[-93.82639,32.247738],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840425547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.267372,31.12666,-93.267372,31.12666",
+    "geom:latitude":31.12666,
+    "geom:longitude":-93.267372,
+    "iso:country":"US",
+    "sg:address":"1760 S 5th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 5700",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ulv5aSBjh1O4SndhNwvyo_31.126660_-93.267372@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532258,
+    "wof:geomhash":"c9eb20b514e18c8df42885271cafab71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840425547
+        }
+    ],
+    "wof:id":840425547,
+    "wof:lastmodified":1463532258,
+    "wof:name":"Alammar Medical Clinic",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.267372,
+    31.12666,
+    -93.267372,
+    31.12666
+],
+  "geometry": {"coordinates":[-93.26737199999999,31.12666],"type":"Point"}
+}

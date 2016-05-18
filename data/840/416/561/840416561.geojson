@@ -1,0 +1,73 @@
+{
+  "id": 840416561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.06646,29.987016,-90.06646,29.987016",
+    "geom:latitude":29.987016,
+    "geom:longitude":-90.06646,
+    "iso:country":"US",
+    "sg:address":"2831 New Orleans St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 949 2422",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qp0jrzkAgu8hgAjpiZZvv_29.987016_-90.066460@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531887,
+    "wof:geomhash":"e9dd3fff8fbea303a817404a8202d123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866083,
+            "region_id":85688735,
+            "venue_id":840416561
+        }
+    ],
+    "wof:id":840416561,
+    "wof:lastmodified":1463531887,
+    "wof:name":"ABC Refrigeration",
+    "wof:parent_id":85866083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -90.06646,
+    29.987016,
+    -90.06646,
+    29.987016
+],
+  "geometry": {"coordinates":[-90.06646000000001,29.987016],"type":"Point"}
+}

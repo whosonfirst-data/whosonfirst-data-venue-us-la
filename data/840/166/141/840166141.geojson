@@ -1,0 +1,75 @@
+{
+  "id": 840166141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.029325,30.299889,-92.029325,30.299889",
+    "geom:latitude":30.299889,
+    "geom:longitude":-92.029325,
+    "iso:country":"US",
+    "sg:address":"101 Inryco Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 6203",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ev2O5o7CjkMuTLcx3weJQ_30.299889_-92.029325@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522567,
+    "wof:geomhash":"9c69b72d81bcd6bc8fb1891c355c46fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840166141
+        }
+    ],
+    "wof:id":840166141,
+    "wof:lastmodified":1463522567,
+    "wof:name":"Donald's Paint & Body Shop",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -92.029325,
+    30.299889,
+    -92.029325,
+    30.299889
+],
+  "geometry": {"coordinates":[-92.029325,30.299889],"type":"Point"}
+}

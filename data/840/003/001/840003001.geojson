@@ -1,0 +1,71 @@
+{
+  "id": 840003001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.092779,30.227923,-92.092779,30.227923",
+    "geom:latitude":30.227923,
+    "geom:longitude":-92.092779,
+    "iso:country":"US",
+    "sg:address":"100 Westward Ave",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 261 0243",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hG4jqtfTOhIJ2rzeQKbOL_30.227923_-92.092779@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519056,
+    "wof:geomhash":"1fd3b922407774876cdfae3eceb0b0a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840003001
+        }
+    ],
+    "wof:id":840003001,
+    "wof:lastmodified":1463519056,
+    "wof:name":"Windows Doors & More",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -92.092779,
+    30.227923,
+    -92.092779,
+    30.227923
+],
+  "geometry": {"coordinates":[-92.09277899999999,30.227923],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 840439653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.034379,30.451717,-91.034379,30.451717",
+    "geom:latitude":30.451717,
+    "geom:longitude":-91.034379,
+    "iso:country":"US",
+    "sg:address":"1097 S Flannery Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 272 4373",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85848349,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w84TEvL92z4gsnry3uvSV_30.451717_-91.034379@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532877,
+    "wof:geomhash":"75a4831b063c129d8b8afeddb0e7ec54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85848349,
+            "region_id":85688735,
+            "venue_id":840439653
+        }
+    ],
+    "wof:id":840439653,
+    "wof:lastmodified":1463532877,
+    "wof:name":"Eagle Cleaners",
+    "wof:parent_id":85848349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.034379,
+    30.451717,
+    -91.034379,
+    30.451717
+],
+  "geometry": {"coordinates":[-91.034379,30.451717],"type":"Point"}
+}

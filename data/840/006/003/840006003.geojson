@@ -1,0 +1,77 @@
+{
+  "id": 840006003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.953561,29.951445,-89.953561,29.951445",
+    "geom:latitude":29.951445,
+    "geom:longitude":-89.953561,
+    "iso:country":"US",
+    "sg:address":"500 E Liberaux St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 2670",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dcLsWZA2Dg5iLf9ywr6kr_29.951445_-89.953561@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519120,
+    "wof:geomhash":"078e8d733efbb39d407da09469dc880c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840006003
+        }
+    ],
+    "wof:id":840006003,
+    "wof:lastmodified":1463519120,
+    "wof:name":"Bill The Rooter",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -89.953561,
+    29.951445,
+    -89.953561,
+    29.951445
+],
+  "geometry": {"coordinates":[-89.95356099999999,29.951445],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840260023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.214246,30.209173,-93.214246,30.209173",
+    "geom:latitude":30.209173,
+    "geom:longitude":-93.214246,
+    "iso:country":"US",
+    "sg:address":"534 15th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 3006",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64J6TAxDDOGvvLOcomoqgW_30.209173_-93.214246@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524815,
+    "wof:geomhash":"2af2a03613946b7fd1a51604182bebc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840260023
+        }
+    ],
+    "wof:id":840260023,
+    "wof:lastmodified":1463524815,
+    "wof:name":"Rosewood Social Svc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -93.214246,
+    30.209173,
+    -93.214246,
+    30.209173
+],
+  "geometry": {"coordinates":[-93.214246,30.209173],"type":"Point"}
+}

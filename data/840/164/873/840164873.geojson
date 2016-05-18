@@ -1,0 +1,75 @@
+{
+  "id": 840164873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.15495,30.587601,-91.15495,30.587601",
+    "geom:latitude":30.587601,
+    "geom:longitude":-91.15495,
+    "iso:country":"US",
+    "sg:address":"4444 Groom Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 774 9134",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948207,
+        102087229,
+        85840811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OsViY1ha5PqA4OnJ5cSpo_30.587601_-91.154950@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522542,
+    "wof:geomhash":"9e2768b68f756431be526f727fe5adb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840811,
+            "region_id":85688735,
+            "venue_id":840164873
+        }
+    ],
+    "wof:id":840164873,
+    "wof:lastmodified":1463522542,
+    "wof:name":"Baker Internal Medicine",
+    "wof:parent_id":85840811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.15495,
+    30.587601,
+    -91.15495,
+    30.587601
+],
+  "geometry": {"coordinates":[-91.15495,30.587601],"type":"Point"}
+}

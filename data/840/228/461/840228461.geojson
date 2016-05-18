@@ -1,0 +1,71 @@
+{
+  "id": 840228461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.732159,31.212199,-92.732159,31.212199",
+    "geom:latitude":31.212199,
+    "geom:longitude":-92.732159,
+    "iso:country":"US",
+    "sg:address":"168 Powell Rd",
+    "sg:city":"Hornbeck",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 565 4337",
+    "sg:postcode":"71466",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_492XKrgPjFkeIACjOOnwbd_31.212199_-92.732159@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524067,
+    "wof:geomhash":"c8415ddac637d43557be23d4acff0f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840228461
+        }
+    ],
+    "wof:id":840228461,
+    "wof:lastmodified":1463524067,
+    "wof:name":"Hornbeck Fire Tower",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.732159,
+    31.212199,
+    -92.732159,
+    31.212199
+],
+  "geometry": {"coordinates":[-92.732159,31.212199],"type":"Point"}
+}

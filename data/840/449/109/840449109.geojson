@@ -1,0 +1,76 @@
+{
+  "id": 840449109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.004303,30.251699,-92.004303,30.251699",
+    "geom:latitude":30.251699,
+    "geom:longitude":-92.004303,
+    "iso:country":"US",
+    "sg:address":"111 Cadillac St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 7647",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.crcollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11GYzvg85aBFZ3P80UrkOk_30.251718_-92.004745@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533258,
+    "wof:geomhash":"ea646fc6f740ec870be498e84815b720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840449109
+        }
+    ],
+    "wof:id":840449109,
+    "wof:lastmodified":1463533258,
+    "wof:name":"C & R Collision Repair",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.004303,
+    30.251699,
+    -92.004303,
+    30.251699
+],
+  "geometry": {"coordinates":[-92.00430299999999,30.251699],"type":"Point"}
+}

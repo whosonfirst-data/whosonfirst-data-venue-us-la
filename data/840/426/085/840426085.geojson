@@ -1,0 +1,76 @@
+{
+  "id": 840426085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.245415,30.262511,-91.245415,30.262511",
+    "geom:latitude":30.262511,
+    "geom:longitude":-91.245415,
+    "iso:country":"US",
+    "sg:address":"59355 River West Dr",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 687 0820",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10An5Q5M1xyle7MOaAe4N5_30.262511_-91.245415@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532278,
+    "wof:geomhash":"ca6554563d26ecafb2c73e302c45519d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840426085
+        }
+    ],
+    "wof:id":840426085,
+    "wof:lastmodified":1463532278,
+    "wof:name":"River West Medical Ctr Home",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -91.245415,
+    30.262511,
+    -91.245415,
+    30.262511
+],
+  "geometry": {"coordinates":[-91.24541499999999,30.262511],"type":"Point"}
+}

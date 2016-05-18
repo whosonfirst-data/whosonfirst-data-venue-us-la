@@ -1,0 +1,71 @@
+{
+  "id": 840403009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.230634,30.198244,-93.230634,30.198244",
+    "geom:latitude":30.198244,
+    "geom:longitude":-93.230634,
+    "iso:country":"US",
+    "sg:address":"601 W Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 7100",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GM2l3JBjv58YpqsaI8yZx_30.198244_-93.230634@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531343,
+    "wof:geomhash":"12cc601514fec4e42bd3b0eaa771e2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840403009
+        }
+    ],
+    "wof:id":840403009,
+    "wof:lastmodified":1463531343,
+    "wof:name":"Crossroads Book Store",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.230634,
+    30.198244,
+    -93.230634,
+    30.198244
+],
+  "geometry": {"coordinates":[-93.23063399999999,30.198244],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840455569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.073786,30.368406,-91.073786,30.368406",
+    "geom:latitude":30.368406,
+    "geom:longitude":-91.073786,
+    "iso:country":"US",
+    "sg:address":"8919 Siegen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/180390-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 819 9838",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nUMOZ0QchNQarHkLaX4lK_30.368406_-91.073786@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533523,
+    "wof:geomhash":"8c7cb235273d30eadd9ee9a7ea034d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840455569
+        }
+    ],
+    "wof:id":840455569,
+    "wof:lastmodified":1463533523,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.073786,
+    30.368406,
+    -91.073786,
+    30.368406
+],
+  "geometry": {"coordinates":[-91.073786,30.368406],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840220059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.073744,29.931767,-90.073744,29.931767",
+    "geom:latitude":29.931767,
+    "geom:longitude":-90.073744,
+    "iso:country":"US",
+    "sg:address":"1823 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 671 8235",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IOM1ka0NLVdxKt958q9b7_29.931767_-90.073744@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523835,
+    "wof:geomhash":"e7965b8b56d7bc868b5e5fd750148022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840220059
+        }
+    ],
+    "wof:id":840220059,
+    "wof:lastmodified":1463523835,
+    "wof:name":"Southern Animal Foundation",
+    "wof:parent_id":85831571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.073744,
+    29.931767,
+    -90.073744,
+    29.931767
+],
+  "geometry": {"coordinates":[-90.073744,29.931767],"type":"Point"}
+}

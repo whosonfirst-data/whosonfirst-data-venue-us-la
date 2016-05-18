@@ -1,0 +1,73 @@
+{
+  "id": 840353827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.503768,29.796086,-91.503768,29.796086",
+    "geom:latitude":29.796086,
+    "geom:longitude":-91.503768,
+    "iso:country":"US",
+    "sg:address":"300 Iberia St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 6312",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jKyiaBBJxTdmEjwHKJIlQ_29.796086_-91.503768@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529097,
+    "wof:geomhash":"396f357ee307c908ec939397be81b9d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840353827
+        }
+    ],
+    "wof:id":840353827,
+    "wof:lastmodified":1463529097,
+    "wof:name":"Water Billing",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.503768,
+    29.796086,
+    -91.503768,
+    29.796086
+],
+  "geometry": {"coordinates":[-91.50376799999999,29.796086],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840008267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.333722,30.229777,-93.333722,30.229777",
+    "geom:latitude":30.229777,
+    "geom:longitude":-93.333722,
+    "iso:country":"US",
+    "sg:address":"600 N Hazel St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 9540",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6psxF5nu6WH6TeeXyL8X2y_30.229777_-93.333722@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519172,
+    "wof:geomhash":"c87137e60a50ad0b4ec7a7af78e37687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840008267
+        }
+    ],
+    "wof:id":840008267,
+    "wof:lastmodified":1463519172,
+    "wof:name":"Den Mar Enterprises",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.333722,
+    30.229777,
+    -93.333722,
+    30.229777
+],
+  "geometry": {"coordinates":[-93.33372199999999,30.229777],"type":"Point"}
+}

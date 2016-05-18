@@ -1,0 +1,75 @@
+{
+  "id": 840154739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.250546,30.241135,-93.250546,30.241135",
+    "geom:latitude":30.241135,
+    "geom:longitude":-93.250546,
+    "iso:country":"US",
+    "sg:address":"301 Gray St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 3101",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5esumtCBZy1dbZC17R8Z9o_30.241135_-93.250546@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522344,
+    "wof:geomhash":"f04199171601e4e9206a9786b71fefdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840154739
+        }
+    ],
+    "wof:id":840154739,
+    "wof:lastmodified":1463522344,
+    "wof:name":"Joe's Unlimited Coating",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.250546,
+    30.241135,
+    -93.250546,
+    30.241135
+],
+  "geometry": {"coordinates":[-93.250546,30.241135],"type":"Point"}
+}

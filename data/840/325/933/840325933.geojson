@@ -1,0 +1,86 @@
+{
+  "id": 840325933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482665,30.509804,-90.482665,30.509804",
+    "geom:latitude":30.509804,
+    "geom:longitude":-90.482665,
+    "iso:country":"US",
+    "sg:address":"915 N Morrison Blvd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 5798",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177,
+        102191575,
+        85857619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fkyiggxp6DexaWAURCxWx_30.509804_-90.482665@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527764,
+    "wof:geomhash":"af403e9c4ea18f8c1d4a844e637759db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840325933
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85857619,
+            "region_id":85688735,
+            "venue_id":840325933
+        }
+    ],
+    "wof:id":840325933,
+    "wof:lastmodified":1463527764,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.482665,
+    30.509804,
+    -90.482665,
+    30.509804
+],
+  "geometry": {"coordinates":[-90.482665,30.509804],"type":"Point"}
+}

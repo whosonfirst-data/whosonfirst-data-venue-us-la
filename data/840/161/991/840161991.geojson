@@ -1,0 +1,71 @@
+{
+  "id": 840161991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.16353,30.236542,-93.16353,30.236542",
+    "geom:latitude":30.236542,
+    "geom:longitude":-93.16353,
+    "iso:country":"US",
+    "sg:address":"401 Bunker Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 9998",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eMQ8lgCVSD9DnsibJ5MXZ_30.236542_-93.163530@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522483,
+    "wof:geomhash":"dac8f0718b9cd17bb0c419d415038fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840161991
+        }
+    ],
+    "wof:id":840161991,
+    "wof:lastmodified":1463522483,
+    "wof:name":"Ash Management",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.16353,
+    30.236542,
+    -93.16353,
+    30.236542
+],
+  "geometry": {"coordinates":[-93.16352999999999,30.236542],"type":"Point"}
+}

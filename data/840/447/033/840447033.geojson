@@ -1,0 +1,71 @@
+{
+  "id": 840447033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.153387,30.227716,-93.153387,30.227716",
+    "geom:latitude":30.227716,
+    "geom:longitude":-93.153387,
+    "iso:country":"US",
+    "sg:address":"4935 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 794 5626",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GtBRUJMWEpxpNwyetnK6k_30.227716_-93.153387@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533164,
+    "wof:geomhash":"22d9d1fb45002813751af8dc0ad78aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840447033
+        }
+    ],
+    "wof:id":840447033,
+    "wof:lastmodified":1463533164,
+    "wof:name":"One Stop Auto Repair",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.153387,
+    30.227716,
+    -93.153387,
+    30.227716
+],
+  "geometry": {"coordinates":[-93.153387,30.227716],"type":"Point"}
+}

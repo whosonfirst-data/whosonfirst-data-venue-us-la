@@ -1,0 +1,75 @@
+{
+  "id": 840169455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.039931,30.002591,-90.039931,30.002591",
+    "geom:latitude":30.002591,
+    "geom:longitude":-90.039931,
+    "iso:country":"US",
+    "sg:address":"4116 Old Gentilly Rd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 4499",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_071QopNYSvgEtcExk8Taqv_30.002591_-90.039931@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522658,
+    "wof:geomhash":"c43baafe24e76656caccdeedc3ef1cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866087,
+            "region_id":85688735,
+            "venue_id":840169455
+        }
+    ],
+    "wof:id":840169455,
+    "wof:lastmodified":1463522658,
+    "wof:name":"Halo Health Center",
+    "wof:parent_id":85866087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.039931,
+    30.002591,
+    -90.039931,
+    30.002591
+],
+  "geometry": {"coordinates":[-90.039931,30.002591],"type":"Point"}
+}

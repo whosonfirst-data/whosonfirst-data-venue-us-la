@@ -1,0 +1,69 @@
+{
+  "id": 840413049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.104737,29.940319,-90.104737,29.940319",
+    "geom:latitude":29.940319,
+    "geom:longitude":-90.104737,
+    "iso:country":"US",
+    "sg:address":"4401 S Claiborne Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 569 0295",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:website":"www.bankone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JlKlzupOuYBLbqmBUsfrY_29.940319_-90.104737@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531739,
+    "wof:geomhash":"5d82720ac9b0b54e3b53ccab1bd29005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840413049
+        }
+    ],
+    "wof:id":840413049,
+    "wof:lastmodified":1463531739,
+    "wof:name":"Bank One",
+    "wof:parent_id":85866127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.104737,
+    29.940319,
+    -90.104737,
+    29.940319
+],
+  "geometry": {"coordinates":[-90.104737,29.940319],"type":"Point"}
+}

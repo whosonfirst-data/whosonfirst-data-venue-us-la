@@ -1,0 +1,73 @@
+{
+  "id": 840120421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.695483,32.029935,-93.695483,32.029935",
+    "geom:latitude":32.029935,
+    "geom:longitude":-93.695483,
+    "iso:country":"US",
+    "sg:address":"1238 Vine St",
+    "sg:city":"Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 872 1737",
+    "sg:postcode":"71052",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hjtrq9vioim3z3teul3cp_32.029935_-93.695483@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521647,
+    "wof:geomhash":"caebd01e1bba1befae20178915848b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":840120421
+        }
+    ],
+    "wof:id":840120421,
+    "wof:lastmodified":1463521647,
+    "wof:name":"Scott's Garage",
+    "wof:parent_id":85813793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.695483,
+    32.029935,
+    -93.695483,
+    32.029935
+],
+  "geometry": {"coordinates":[-93.695483,32.029935],"type":"Point"}
+}

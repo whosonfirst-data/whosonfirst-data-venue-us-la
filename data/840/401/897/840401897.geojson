@@ -1,0 +1,71 @@
+{
+  "id": 840401897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218723,30.199509,-93.218723,30.199509",
+    "geom:latitude":30.199509,
+    "geom:longitude":-93.218723,
+    "iso:country":"US",
+    "sg:address":"3218 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 3360",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QuaHxfgEL0CitJ73WWGwL_30.199509_-93.218723@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531284,
+    "wof:geomhash":"81949f2bceea5d57c00ccef491a20d20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840401897
+        }
+    ],
+    "wof:id":840401897,
+    "wof:lastmodified":1463531284,
+    "wof:name":"Walson Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -93.218723,
+    30.199509,
+    -93.218723,
+    30.199509
+],
+  "geometry": {"coordinates":[-93.218723,30.199509],"type":"Point"}
+}

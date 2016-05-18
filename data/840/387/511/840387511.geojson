@@ -1,0 +1,75 @@
+{
+  "id": 840387511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.083361,29.969263,-90.083361,29.969263",
+    "geom:latitude":29.969263,
+    "geom:longitude":-90.083361,
+    "iso:country":"US",
+    "sg:address":"2635 Toulouse St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 827 2121",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hoAV8tweML8t2MKn4PVqq_29.969263_-90.083361@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530695,
+    "wof:geomhash":"0d8c9c689a3be002525073cb292d323a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840387511
+        }
+    ],
+    "wof:id":840387511,
+    "wof:lastmodified":1463530695,
+    "wof:name":"Five Star Auto",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.083361,
+    29.969263,
+    -90.083361,
+    29.969263
+],
+  "geometry": {"coordinates":[-90.083361,29.969263],"type":"Point"}
+}

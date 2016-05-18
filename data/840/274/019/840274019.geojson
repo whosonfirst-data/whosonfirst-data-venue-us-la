@@ -1,0 +1,71 @@
+{
+  "id": 840274019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.086524,30.136086,-92.086524,30.136086",
+    "geom:latitude":30.136086,
+    "geom:longitude":-92.086524,
+    "iso:country":"US",
+    "sg:address":"2421 Robley Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 3637",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LzpBz4hMeGyezpa3Z3qJR_30.136086_-92.086524@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525351,
+    "wof:geomhash":"63a7a4705a277bc956a8dedc24d1ad35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840274019
+        }
+    ],
+    "wof:id":840274019,
+    "wof:lastmodified":1463525351,
+    "wof:name":"Majestic Painting",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -92.086524,
+    30.136086,
+    -92.086524,
+    30.136086
+],
+  "geometry": {"coordinates":[-92.086524,30.136086],"type":"Point"}
+}

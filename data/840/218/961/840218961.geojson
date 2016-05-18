@@ -1,0 +1,73 @@
+{
+  "id": 840218961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.459617,30.4742,-90.459617,30.4742",
+    "geom:latitude":30.4742,
+    "geom:longitude":-90.459617,
+    "iso:country":"US",
+    "sg:address":"15800 Professional Plz",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 2180",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KiTbPM9awgKHJ6Q0vj5Vw_30.474200_-90.459617@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523809,
+    "wof:geomhash":"50e4b3c88893e2b0bf105187b0188ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840218961
+        }
+    ],
+    "wof:id":840218961,
+    "wof:lastmodified":1463523809,
+    "wof:name":"Plaza Pediatrics",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.459617,
+    30.4742,
+    -90.459617,
+    30.4742
+],
+  "geometry": {"coordinates":[-90.45961699999999,30.4742],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 840269901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.015608,30.223293,-92.015608,30.223293",
+    "geom:latitude":30.223293,
+    "geom:longitude":-92.015608,
+    "iso:country":"US",
+    "sg:address":"200 E Vermilion St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 236 3333",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_757I8VXVkTNLgG52u4jYTX_30.223293_-92.015608@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525179,
+    "wof:geomhash":"e81247736dcb0459fa6a4c69181cb620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840269901
+        }
+    ],
+    "wof:id":840269901,
+    "wof:lastmodified":1463525179,
+    "wof:name":"Cafe' LA Fontaine",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.015608,
+    30.223293,
+    -92.015608,
+    30.223293
+],
+  "geometry": {"coordinates":[-92.015608,30.223293],"type":"Point"}
+}

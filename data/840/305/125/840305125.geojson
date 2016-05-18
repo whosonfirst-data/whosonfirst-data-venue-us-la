@@ -1,0 +1,73 @@
+{
+  "id": 840305125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.317252,30.227844,-93.317252,30.227844",
+    "geom:latitude":30.227844,
+    "geom:longitude":-93.317252,
+    "iso:country":"US",
+    "sg:address":"4315 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 4388",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OgrBBMHInkKlUbyLbJubj_30.227844_-93.317252@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526769,
+    "wof:geomhash":"bc6a5874e90a9a87cf81837d29310a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840305125
+        }
+    ],
+    "wof:id":840305125,
+    "wof:lastmodified":1463526769,
+    "wof:name":"Clyde's Automotive & Air Cond",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.317252,
+    30.227844,
+    -93.317252,
+    30.227844
+],
+  "geometry": {"coordinates":[-93.317252,30.227844],"type":"Point"}
+}

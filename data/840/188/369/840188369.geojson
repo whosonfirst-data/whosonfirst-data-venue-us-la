@@ -1,0 +1,71 @@
+{
+  "id": 840188369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.738303,30.056111,-91.738303,30.056111",
+    "geom:latitude":30.056111,
+    "geom:longitude":-91.738303,
+    "iso:country":"US",
+    "sg:address":"120 S Main St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 6386",
+    "sg:postcode":"70552",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LmPsq8hAjkcioCS3m8UO6_30.056111_-91.738303@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523080,
+    "wof:geomhash":"631c177e7e7f5f71ded92384cccdad08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840188369
+        }
+    ],
+    "wof:id":840188369,
+    "wof:lastmodified":1463523080,
+    "wof:name":"Millers Market",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.738303,
+    30.056111,
+    -91.738303,
+    30.056111
+],
+  "geometry": {"coordinates":[-91.738303,30.056111],"type":"Point"}
+}

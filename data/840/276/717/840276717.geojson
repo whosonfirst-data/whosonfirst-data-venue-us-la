@@ -1,0 +1,73 @@
+{
+  "id": 840276717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.285449,30.16919,-93.285449,30.16919",
+    "geom:latitude":30.16919,
+    "geom:longitude":-93.285449,
+    "iso:country":"US",
+    "sg:address":"4805 Kingspoint Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 7119",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XAV9nMCoV7ADQEmYC8jmb_30.169190_-93.285449@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525473,
+    "wof:geomhash":"fd7e61bde82f7524456cc0071e8b8258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840276717
+        }
+    ],
+    "wof:id":840276717,
+    "wof:lastmodified":1463525473,
+    "wof:name":"Carlos Choucino MD",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.285449,
+    30.16919,
+    -93.285449,
+    30.16919
+],
+  "geometry": {"coordinates":[-93.285449,30.16919],"type":"Point"}
+}

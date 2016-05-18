@@ -1,0 +1,72 @@
+{
+  "id": 840428219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.513627,29.81277,-91.513627,29.81277",
+    "geom:latitude":29.81277,
+    "geom:longitude":-91.513627,
+    "iso:country":"US",
+    "sg:address":"204 Northwest Blvd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 9081",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.winndixie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_056EGsBpNCDjTlK5g0LXVB_29.812770_-91.513627@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532366,
+    "wof:geomhash":"6114e75ebf0e0df9ff0704fcf36aaf64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840428219
+        }
+    ],
+    "wof:id":840428219,
+    "wof:lastmodified":1463532366,
+    "wof:name":"Winn-Dixie",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.513627,
+    29.81277,
+    -91.513627,
+    29.81277
+],
+  "geometry": {"coordinates":[-91.513627,29.81277],"type":"Point"}
+}

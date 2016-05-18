@@ -1,0 +1,68 @@
+{
+  "id": 840295727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.039079,29.984393,-90.039079,29.984393",
+    "geom:latitude":29.984393,
+    "geom:longitude":-90.039079,
+    "iso:country":"US",
+    "sg:address":"2609 Clouet St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 943 3494",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AXi1OU7fbpJ8d6JoDqEVm_29.984393_-90.039079@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526308,
+    "wof:geomhash":"4a01081e91232cb04ac368a42c55954e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866091,
+            "region_id":85688735,
+            "venue_id":840295727
+        }
+    ],
+    "wof:id":840295727,
+    "wof:lastmodified":1463526308,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85866091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.039079,
+    29.984393,
+    -90.039079,
+    29.984393
+],
+  "geometry": {"coordinates":[-90.039079,29.984393],"type":"Point"}
+}

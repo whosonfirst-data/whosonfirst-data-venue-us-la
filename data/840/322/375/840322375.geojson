@@ -1,0 +1,71 @@
+{
+  "id": 840322375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.581416,30.190313,-93.581416,30.190313",
+    "geom:latitude":30.190313,
+    "geom:longitude":-93.581416,
+    "iso:country":"US",
+    "sg:address":"1330 Horridge St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 0124",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HvT0OhofhWnpsbvnds6VW_30.190313_-93.581416@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527571,
+    "wof:geomhash":"b155d878b2aef67f18c86404664f8996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840322375
+        }
+    ],
+    "wof:id":840322375,
+    "wof:lastmodified":1463527571,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.581416,
+    30.190313,
+    -93.581416,
+    30.190313
+],
+  "geometry": {"coordinates":[-93.581416,30.190313],"type":"Point"}
+}

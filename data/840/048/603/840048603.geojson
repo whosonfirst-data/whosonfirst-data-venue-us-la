@@ -1,0 +1,78 @@
+{
+  "id": 840048603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.738112,30.056378,-91.738112,30.056378",
+    "geom:latitude":30.056378,
+    "geom:longitude":-91.738112,
+    "iso:country":"US",
+    "sg:address":"103 S Main St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 8306",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KzAJIGDziEKz5k96KY2py_30.056378_-91.738112@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520010,
+    "wof:geomhash":"90f637894ae89bad6e40a25105c69002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840048603
+        }
+    ],
+    "wof:id":840048603,
+    "wof:lastmodified":1463520010,
+    "wof:name":"Loreauville Town Hall Fire",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "city"
+    ]
+},
+  "bbox": [
+    -91.738112,
+    30.056378,
+    -91.738112,
+    30.056378
+],
+  "geometry": {"coordinates":[-91.738112,30.056378],"type":"Point"}
+}

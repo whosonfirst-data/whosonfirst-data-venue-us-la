@@ -1,0 +1,66 @@
+{
+  "id": 840234683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.41688,29.759009,-91.41688,29.759009",
+    "geom:latitude":29.759009,
+    "geom:longitude":-91.41688,
+    "iso:country":"US",
+    "sg:address":"8645 State Rte 182",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 836 9700",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pv4iNzQEIeQDULjepG66T_29.759009_-91.416880@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524240,
+    "wof:geomhash":"b09e469de781f6b396b13c95a3766553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840234683
+        }
+    ],
+    "wof:id":840234683,
+    "wof:lastmodified":1463524240,
+    "wof:name":"Deli-Mart",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.41688,
+    29.759009,
+    -91.41688,
+    29.759009
+],
+  "geometry": {"coordinates":[-91.41688000000001,29.759009],"type":"Point"}
+}

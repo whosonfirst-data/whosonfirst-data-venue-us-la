@@ -1,0 +1,72 @@
+{
+  "id": 840103305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.364452,30.241927,-93.364452,30.241927",
+    "geom:latitude":30.241927,
+    "geom:longitude":-93.364452,
+    "iso:country":"US",
+    "sg:address":"1501 E Burton St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 7600",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.trimac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kjO4F418X0B1NuVW05a6T_30.241927_-93.364452@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521287,
+    "wof:geomhash":"fed32a2810ecfd9d664253e72c01b771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840103305
+        }
+    ],
+    "wof:id":840103305,
+    "wof:lastmodified":1463521287,
+    "wof:name":"Trimac Transports Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.364452,
+    30.241927,
+    -93.364452,
+    30.241927
+],
+  "geometry": {"coordinates":[-93.364452,30.241927],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840397191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.232285,30.178078,-93.232285,30.178078",
+    "geom:latitude":30.178078,
+    "geom:longitude":-93.232285,
+    "iso:country":"US",
+    "sg:address":"4325 Lake St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 8685",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "crematory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51MirnqYffufipBFgdZpQH_30.178078_-93.232285@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531101,
+    "wof:geomhash":"a7a4a734095a0e955efa7bbec837a541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840397191
+        }
+    ],
+    "wof:id":840397191,
+    "wof:lastmodified":1463531101,
+    "wof:name":"Lake Charles Crematory",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crematory"
+    ]
+},
+  "bbox": [
+    -93.232285,
+    30.178078,
+    -93.232285,
+    30.178078
+],
+  "geometry": {"coordinates":[-93.232285,30.178078],"type":"Point"}
+}

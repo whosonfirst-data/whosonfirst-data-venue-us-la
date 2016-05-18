@@ -1,0 +1,73 @@
+{
+  "id": 840421603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.748599,32.683091,-93.748599,32.683091",
+    "geom:latitude":32.683091,
+    "geom:longitude":-93.748599,
+    "iso:country":"US",
+    "sg:address":"241 Crestwood Cir",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 965 3156",
+    "sg:postcode":"71006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85808045,
+        102084883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nl1ACMHHC5kphH5jtYbRe_32.683091_-93.748599@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532102,
+    "wof:geomhash":"7974c251deba09e1995e75e17c390da1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "neighbourhood_id":85808045,
+            "region_id":85688735,
+            "venue_id":840421603
+        }
+    ],
+    "wof:id":840421603,
+    "wof:lastmodified":1463532102,
+    "wof:name":"Bm Trucking",
+    "wof:parent_id":85808045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.748599,
+    32.683091,
+    -93.748599,
+    32.683091
+],
+  "geometry": {"coordinates":[-93.748599,32.683091],"type":"Point"}
+}

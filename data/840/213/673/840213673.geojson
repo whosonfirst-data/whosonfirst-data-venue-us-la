@@ -1,0 +1,71 @@
+{
+  "id": 840213673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.443789,30.441009,-90.443789,30.441009",
+    "geom:latitude":30.441009,
+    "geom:longitude":-90.443789,
+    "iso:country":"US",
+    "sg:address":"225 N 6th St",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 7778",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WIxBbrOS2nfmjjWsumbes_30.441009_-90.443789@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523699,
+    "wof:geomhash":"b23d03430372e224f73c267d7d13b36c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840213673
+        }
+    ],
+    "wof:id":840213673,
+    "wof:lastmodified":1463523699,
+    "wof:name":"Richard A Henry DDS",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.443789,
+    30.441009,
+    -90.443789,
+    30.441009
+],
+  "geometry": {"coordinates":[-90.443789,30.441009],"type":"Point"}
+}

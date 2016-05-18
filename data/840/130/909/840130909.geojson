@@ -1,0 +1,73 @@
+{
+  "id": 840130909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.435252,30.45138,-93.435252,30.45138",
+    "geom:latitude":30.45138,
+    "geom:longitude":-93.435252,
+    "iso:country":"US",
+    "sg:address":"209 N Pine St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 4234",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y2rlRKLTvAn1uIkafdxOw_30.451380_-93.435252@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521865,
+    "wof:geomhash":"d7624d88aa1c3bf51b1fd04a13abd6bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840130909
+        }
+    ],
+    "wof:id":840130909,
+    "wof:lastmodified":1463521865,
+    "wof:name":"United Medical Eqpt Supply",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.435252,
+    30.45138,
+    -93.435252,
+    30.45138
+],
+  "geometry": {"coordinates":[-93.43525200000001,30.45138],"type":"Point"}
+}

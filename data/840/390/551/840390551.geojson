@@ -1,0 +1,73 @@
+{
+  "id": 840390551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.219778,30.21417,-93.219778,30.21417",
+    "geom:latitude":30.21417,
+    "geom:longitude":-93.219778,
+    "iso:country":"US",
+    "sg:address":"112 W 11th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 497 1686",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TCnzTYseLWdrfRwbSQlLb_30.214170_-93.219778@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530828,
+    "wof:geomhash":"8e169f7e466b129b7f7c08421150eb1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840390551
+        }
+    ],
+    "wof:id":840390551,
+    "wof:lastmodified":1463530828,
+    "wof:name":"Mid-City Private Storage",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.219778,
+    30.21417,
+    -93.219778,
+    30.21417
+],
+  "geometry": {"coordinates":[-93.21977800000001,30.21417],"type":"Point"}
+}

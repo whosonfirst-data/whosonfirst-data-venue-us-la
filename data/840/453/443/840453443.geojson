@@ -1,0 +1,78 @@
+{
+  "id": 840453443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.069778,29.953976,-90.069778,29.953976",
+    "geom:latitude":29.953976,
+    "geom:longitude":-90.069778,
+    "iso:country":"US",
+    "sg:address":"116 Bourbon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/156482-krystal-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 4030",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "chicken",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pqyiz56OXzX4xWnRs1heZ_29.953976_-90.069778@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533442,
+    "wof:geomhash":"ab98b7b24110f683fc5615629b9b2adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840453443
+        }
+    ],
+    "wof:id":840453443,
+    "wof:lastmodified":1463533442,
+    "wof:name":"Krystal Burgers",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "chicken",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.069778,
+    29.953976,
+    -90.069778,
+    29.953976
+],
+  "geometry": {"coordinates":[-90.069778,29.953976],"type":"Point"}
+}

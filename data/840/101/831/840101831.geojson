@@ -1,0 +1,71 @@
+{
+  "id": 840101831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.502584,29.79096,-91.502584,29.79096",
+    "geom:latitude":29.79096,
+    "geom:longitude":-91.502584,
+    "iso:country":"US",
+    "sg:address":"400 Willow St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 5446",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55jBhnCmm0CnKfN5ouykZt_29.790960_-91.502584@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521258,
+    "wof:geomhash":"eb6f0f158383906facbd862daa589395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840101831
+        }
+    ],
+    "wof:id":840101831,
+    "wof:lastmodified":1463521258,
+    "wof:name":"Haydel Cleaners",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.502584,
+    29.79096,
+    -91.502584,
+    29.79096
+],
+  "geometry": {"coordinates":[-91.502584,29.79096],"type":"Point"}
+}

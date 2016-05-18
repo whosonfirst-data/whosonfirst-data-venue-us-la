@@ -1,0 +1,77 @@
+{
+  "id": 840242369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.102111,29.95354,-90.102111,29.95354",
+    "geom:latitude":29.95354,
+    "geom:longitude":-90.102111,
+    "iso:country":"US",
+    "sg:address":"4250 Washington Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 822 4101",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SgMsE7pRAcFkuUVLp9snT_29.953540_-90.102111@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524412,
+    "wof:geomhash":"bf5a5c614660aeab74c282c43ff0104b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866139,
+            "region_id":85688735,
+            "venue_id":840242369
+        }
+    ],
+    "wof:id":840242369,
+    "wof:lastmodified":1463524412,
+    "wof:name":"Washington Avenue Details",
+    "wof:parent_id":85866139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -90.102111,
+    29.95354,
+    -90.102111,
+    29.95354
+],
+  "geometry": {"coordinates":[-90.10211099999999,29.95354],"type":"Point"}
+}

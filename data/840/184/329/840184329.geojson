@@ -1,0 +1,71 @@
+{
+  "id": 840184329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.762383,30.370107,-89.762383,30.370107",
+    "geom:latitude":30.370107,
+    "geom:longitude":-89.762383,
+    "iso:country":"US",
+    "sg:address":"64629 Hwy 41",
+    "sg:city":"Pearl River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 863 7100",
+    "sg:postcode":"70452",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85841093,
+        102082453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ngV8Zn48HdP4qEmsB609K_30.370107_-89.762383@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523002,
+    "wof:geomhash":"954161805f00f12dfece914b8002e8a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85841093,
+            "region_id":85688735,
+            "venue_id":840184329
+        }
+    ],
+    "wof:id":840184329,
+    "wof:lastmodified":1463523002,
+    "wof:name":"Southern Pines Family Medical",
+    "wof:parent_id":85841093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.762383,
+    30.370107,
+    -89.762383,
+    30.370107
+],
+  "geometry": {"coordinates":[-89.762383,30.370107],"type":"Point"}
+}

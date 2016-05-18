@@ -1,0 +1,71 @@
+{
+  "id": 840316403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.585267,30.188809,-93.585267,30.188809",
+    "geom:latitude":30.188809,
+    "geom:longitude":-93.585267,
+    "iso:country":"US",
+    "sg:address":"1717 US Hwy 90",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 7511",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LJrbfuGv7zBMA1dVnK5fq_30.188809_-93.585267@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527279,
+    "wof:geomhash":"538debc8b88bb5d4cde4e80974ba3ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840316403
+        }
+    ],
+    "wof:id":840316403,
+    "wof:lastmodified":1463527279,
+    "wof:name":"Market Basket",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -93.585267,
+    30.188809,
+    -93.585267,
+    30.188809
+],
+  "geometry": {"coordinates":[-93.585267,30.188809],"type":"Point"}
+}

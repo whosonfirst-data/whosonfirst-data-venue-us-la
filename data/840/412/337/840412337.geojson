@@ -1,0 +1,73 @@
+{
+  "id": 840412337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.079959,29.941356,-90.079959,29.941356",
+    "geom:latitude":29.941356,
+    "geom:longitude":-90.079959,
+    "iso:country":"US",
+    "sg:address":"1930 Martin Luther King Jr Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 565 7515",
+    "sg:postcode":"70113",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KV6awiWgEJ3YFK2GZyiCf_29.941356_-90.079959@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531712,
+    "wof:geomhash":"7e48ebb933c7c4f822aca5dc49c18b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840412337
+        }
+    ],
+    "wof:id":840412337,
+    "wof:lastmodified":1463531712,
+    "wof:name":"New Orleans Police Dept",
+    "wof:parent_id":85866121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.079959,
+    29.941356,
+    -90.079959,
+    29.941356
+],
+  "geometry": {"coordinates":[-90.079959,29.941356],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840453287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08591,29.989969,-90.08591,29.989969",
+    "geom:latitude":29.989969,
+    "geom:longitude":-90.08591,
+    "iso:country":"US",
+    "sg:address":"3600 Roger Williams St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/12509-italian-pie/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 469 4999",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FSj7MGdq2AebRYvuEywxn_29.989969_-90.085910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533436,
+    "wof:geomhash":"ed5be0c9bf669bac1a4635e31b7f879f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866081,
+            "region_id":85688735,
+            "venue_id":840453287
+        }
+    ],
+    "wof:id":840453287,
+    "wof:lastmodified":1463533436,
+    "wof:name":"Italian Pie",
+    "wof:parent_id":85866081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.08591,
+    29.989969,
+    -90.08591,
+    29.989969
+],
+  "geometry": {"coordinates":[-90.08591,29.989969],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840406677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.826958,29.983305,-91.826958,29.983305",
+    "geom:latitude":29.983305,
+    "geom:longitude":-91.826958,
+    "iso:country":"US",
+    "sg:address":"1615 Parkwood Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 2787",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0APS3iqFSlZVf0pelhHyMs_29.983305_-91.826958@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531485,
+    "wof:geomhash":"514b0c056a25b6de3f5a95730a646cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840406677
+        }
+    ],
+    "wof:id":840406677,
+    "wof:lastmodified":1463531485,
+    "wof:name":"Len's Electrical Svc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.826958,
+    29.983305,
+    -91.826958,
+    29.983305
+],
+  "geometry": {"coordinates":[-91.826958,29.983305],"type":"Point"}
+}

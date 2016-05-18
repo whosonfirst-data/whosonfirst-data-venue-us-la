@@ -1,0 +1,80 @@
+{
+  "id": 840138317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.055637,30.111517,-92.055637,30.111517",
+    "geom:latitude":30.111517,
+    "geom:longitude":-92.055637,
+    "iso:country":"US",
+    "sg:address":"221 Melbry Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 856 8430",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "heavy",
+        "sprinkler",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sVKrjNRyBG1xhdklvoVUJ_30.111517_-92.055637@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522016,
+    "wof:geomhash":"c2f58bb93cf8bb033ddccadeef5b51c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840138317
+        }
+    ],
+    "wof:id":840138317,
+    "wof:lastmodified":1463522016,
+    "wof:name":"Ben Labbe Co",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "sprinkler",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.055637,
+    30.111517,
+    -92.055637,
+    30.111517
+],
+  "geometry": {"coordinates":[-92.055637,30.111517],"type":"Point"}
+}

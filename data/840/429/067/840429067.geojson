@@ -1,0 +1,71 @@
+{
+  "id": 840429067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.931395,30.111628,-92.931395,30.111628",
+    "geom:latitude":30.111628,
+    "geom:longitude":-92.931395,
+    "iso:country":"US",
+    "sg:address":"7595 State Rte 14",
+    "sg:city":"Hayes",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 622 3300",
+    "sg:postcode":"70646",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RdbQUb22vNeGVnDDiTlV4_30.111628_-92.931395@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532401,
+    "wof:geomhash":"139f7322db7c713ef78c97990ce9db9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840429067
+        }
+    ],
+    "wof:id":840429067,
+    "wof:lastmodified":1463532401,
+    "wof:name":"Blin's Grocery",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -92.931395,
+    30.111628,
+    -92.931395,
+    30.111628
+],
+  "geometry": {"coordinates":[-92.93139499999999,30.111628],"type":"Point"}
+}

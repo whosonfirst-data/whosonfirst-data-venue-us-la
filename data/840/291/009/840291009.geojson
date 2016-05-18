@@ -1,0 +1,71 @@
+{
+  "id": 840291009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.768039,32.405659,-93.768039,32.405659",
+    "geom:latitude":32.405659,
+    "geom:longitude":-93.768039,
+    "iso:country":"US",
+    "sg:address":"498 Kennie Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 1168",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wF3B7IHuI3oBTbE4P5Q7u_32.405659_-93.768039@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526106,
+    "wof:geomhash":"6ac88c12e43021b1cc10a6d9a86ae02e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840291009
+        }
+    ],
+    "wof:id":840291009,
+    "wof:lastmodified":1463526106,
+    "wof:name":"Carver Memorial Cemetery",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -93.768039,
+    32.405659,
+    -93.768039,
+    32.405659
+],
+  "geometry": {"coordinates":[-93.768039,32.405659],"type":"Point"}
+}

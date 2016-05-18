@@ -1,0 +1,72 @@
+{
+  "id": 840124441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.458757,30.504945,-90.458757,30.504945",
+    "geom:latitude":30.504945,
+    "geom:longitude":-90.458757,
+    "iso:country":"US",
+    "sg:address":"107 N Cherry St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 3509",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.hammond.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xOn0VL1nGI2itVuL0hIvK_30.504945_-90.458757@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521739,
+    "wof:geomhash":"f6d73d862701872530a368d7496a38fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840124441
+        }
+    ],
+    "wof:id":840124441,
+    "wof:lastmodified":1463521739,
+    "wof:name":"Hammond Police Detectives",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.458757,
+    30.504945,
+    -90.458757,
+    30.504945
+],
+  "geometry": {"coordinates":[-90.45875700000001,30.504945],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840118285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.055367,30.182404,-92.055367,30.182404",
+    "geom:latitude":30.182404,
+    "geom:longitude":-92.055367,
+    "iso:country":"US",
+    "sg:address":"202 Aundria Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1387",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZbSms8mGEpht98di9L7pv_30.182404_-92.055367@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521605,
+    "wof:geomhash":"a07e355f36ae147456baacbc78fc10f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840118285
+        }
+    ],
+    "wof:id":840118285,
+    "wof:lastmodified":1463521605,
+    "wof:name":"Compton Trucking Inc",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.055367,
+    30.182404,
+    -92.055367,
+    30.182404
+],
+  "geometry": {"coordinates":[-92.055367,30.182404],"type":"Point"}
+}

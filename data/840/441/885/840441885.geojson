@@ -1,0 +1,71 @@
+{
+  "id": 840441885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.157102,30.198227,-93.157102,30.198227",
+    "geom:latitude":30.198227,
+    "geom:longitude":-93.157102,
+    "iso:country":"US",
+    "sg:address":"4420 E Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 6226",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J1G7i5645K7o5sqq13sUk_30.198227_-93.157102@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532973,
+    "wof:geomhash":"318e1746f9a786604963c421502baeef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840441885
+        }
+    ],
+    "wof:id":840441885,
+    "wof:lastmodified":1463532973,
+    "wof:name":"Acme Sandblasting & Painting",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting"
+    ]
+},
+  "bbox": [
+    -93.157102,
+    30.198227,
+    -93.157102,
+    30.198227
+],
+  "geometry": {"coordinates":[-93.15710199999999,30.198227],"type":"Point"}
+}

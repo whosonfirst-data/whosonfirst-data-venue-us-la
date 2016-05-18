@@ -1,0 +1,71 @@
+{
+  "id": 840455035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.244576,30.449368,-91.244576,30.449368",
+    "geom:latitude":30.449368,
+    "geom:longitude":-91.244576,
+    "iso:country":"US",
+    "sg:address":"150 Lobdell Hwy",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/port-allen/188428-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85876063,
+        102086695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ERHWev7qMaLHHj2n0SNS_30.449368_-91.244576@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533506,
+    "wof:geomhash":"5e498b758d4cb415f2275c4afd5677d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "neighbourhood_id":85876063,
+            "region_id":85688735,
+            "venue_id":840455035
+        }
+    ],
+    "wof:id":840455035,
+    "wof:lastmodified":1463533506,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85876063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.244576,
+    30.449368,
+    -91.244576,
+    30.449368
+],
+  "geometry": {"coordinates":[-91.244576,30.449368],"type":"Point"}
+}

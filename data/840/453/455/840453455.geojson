@@ -1,0 +1,78 @@
+{
+  "id": 840453455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.07826,29.93579,-90.07826,29.93579",
+    "geom:latitude":29.93579,
+    "geom:longitude":-90.07826,
+    "iso:country":"US",
+    "sg:address":"1905 Saint Charles Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/136683-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 2030",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1we17uXUTflFf9YQKgRmWK_29.935790_-90.078260@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533442,
+    "wof:geomhash":"e952c59b520b3eb7ff90cf1bfbf6c3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840453455
+        }
+    ],
+    "wof:id":840453455,
+    "wof:lastmodified":1463533442,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85831571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.07826,
+    29.93579,
+    -90.07826,
+    29.93579
+],
+  "geometry": {"coordinates":[-90.07826,29.93579],"type":"Point"}
+}

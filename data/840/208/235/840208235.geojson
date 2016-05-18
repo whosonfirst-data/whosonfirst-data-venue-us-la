@@ -1,0 +1,71 @@
+{
+  "id": 840208235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.268628,31.121821,-93.268628,31.121821",
+    "geom:latitude":31.121821,
+    "geom:longitude":-93.268628,
+    "iso:country":"US",
+    "sg:address":"2204 S 5th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 0334",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q5g4bf6FBAj8kjV42XA9Y_31.121821_-93.268628@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523592,
+    "wof:geomhash":"92ff02d39b038a95dac67713a3a5c1d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840208235
+        }
+    ],
+    "wof:id":840208235,
+    "wof:lastmodified":1463523592,
+    "wof:name":"Leesville Police Dept",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.268628,
+    31.121821,
+    -93.268628,
+    31.121821
+],
+  "geometry": {"coordinates":[-93.26862800000001,31.121821],"type":"Point"}
+}

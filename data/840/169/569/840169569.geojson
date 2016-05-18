@@ -1,0 +1,71 @@
+{
+  "id": 840169569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.053884,30.398689,-91.053884,30.398689",
+    "geom:latitude":30.398689,
+    "geom:longitude":-91.053884,
+    "iso:country":"US",
+    "sg:address":"11670 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 293 5544",
+    "sg:postcode":"70816",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85814143,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nNEr2pvy85U2jhhW5SBjo_30.398689_-91.053884@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522660,
+    "wof:geomhash":"15f1d1a3e5c18043969fe4a7dc256b38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85814143,
+            "region_id":85688735,
+            "venue_id":840169569
+        }
+    ],
+    "wof:id":840169569,
+    "wof:lastmodified":1463522660,
+    "wof:name":"Uncle Bob's Self-Storage",
+    "wof:parent_id":85814143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -91.053884,
+    30.398689,
+    -91.053884,
+    30.398689
+],
+  "geometry": {"coordinates":[-91.053884,30.398689],"type":"Point"}
+}

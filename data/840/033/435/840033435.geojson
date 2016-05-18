@@ -1,0 +1,76 @@
+{
+  "id": 840033435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.180773,30.249513,-93.180773,30.249513",
+    "geom:latitude":30.249513,
+    "geom:longitude":-93.180773,
+    "iso:country":"US",
+    "sg:address":"2418 Moeling St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 3896",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "sg:website":"www.elmersradiatorshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L5gr1ViBxRSACr0DxqCl1_30.249513_-93.180773@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519703,
+    "wof:geomhash":"91f8272dd4628cab9cbd724a21b252f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840033435
+        }
+    ],
+    "wof:id":840033435,
+    "wof:lastmodified":1463519703,
+    "wof:name":"Elmer's Radiator Shop",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -93.180773,
+    30.249513,
+    -93.180773,
+    30.249513
+],
+  "geometry": {"coordinates":[-93.180773,30.249513],"type":"Point"}
+}

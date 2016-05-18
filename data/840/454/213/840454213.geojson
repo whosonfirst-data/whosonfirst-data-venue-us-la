@@ -1,0 +1,74 @@
+{
+  "id": 840454213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.055713,30.198955,-92.055713,30.198955",
+    "geom:latitude":30.198955,
+    "geom:longitude":-92.055713,
+    "iso:country":"US",
+    "sg:address":"3902 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/197470-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 7062",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VdgavCaBgt43eKly4frOb_30.198955_-92.055713@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533476,
+    "wof:geomhash":"961d7b3871aeac057b636ca6c68705d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840454213
+        }
+    ],
+    "wof:id":840454213,
+    "wof:lastmodified":1463533476,
+    "wof:name":"Burger King",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.055713,
+    30.198955,
+    -92.055713,
+    30.198955
+],
+  "geometry": {"coordinates":[-92.055713,30.198955],"type":"Point"}
+}

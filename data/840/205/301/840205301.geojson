@@ -1,0 +1,73 @@
+{
+  "id": 840205301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.263563,31.139249,-93.263563,31.139249",
+    "geom:latitude":31.139249,
+    "geom:longitude":-93.263563,
+    "iso:country":"US",
+    "sg:address":"613 S 5th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 9888",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xWYARH8FrdLS3CBs8vKpK_31.139249_-93.263563@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523522,
+    "wof:geomhash":"0dd296177fef9261fd608a07b7e9aa84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840205301
+        }
+    ],
+    "wof:id":840205301,
+    "wof:lastmodified":1463523522,
+    "wof:name":"Back To Nature",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -93.263563,
+    31.139249,
+    -93.263563,
+    31.139249
+],
+  "geometry": {"coordinates":[-93.263563,31.139249],"type":"Point"}
+}

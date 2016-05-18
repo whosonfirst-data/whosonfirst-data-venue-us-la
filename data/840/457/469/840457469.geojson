@@ -1,0 +1,76 @@
+{
+  "id": 840457469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.058843,30.193581,-92.058843,30.193581",
+    "geom:latitude":30.193581,
+    "geom:longitude":-92.058843,
+    "iso:country":"US",
+    "sg:address":"4416 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/131669-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 7849",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3khCL3mDbs54qmXKRqOGgj_30.193877_-92.058609@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533595,
+    "wof:geomhash":"2d1ef7d61379171e802c48131e875c68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840457469
+        }
+    ],
+    "wof:id":840457469,
+    "wof:lastmodified":1463533595,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.058843,
+    30.193581,
+    -92.058843,
+    30.193581
+],
+  "geometry": {"coordinates":[-92.058843,30.193581],"type":"Point"}
+}

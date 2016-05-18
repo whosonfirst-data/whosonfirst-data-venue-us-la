@@ -1,0 +1,71 @@
+{
+  "id": 840282019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.182744,30.276707,-93.182744,30.276707",
+    "geom:latitude":30.276707,
+    "geom:longitude":-93.182744,
+    "iso:country":"US",
+    "sg:address":"2530 State Rte 3059",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 1564",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38t4XtgAyJqrJUdADNePub_30.276707_-93.182744@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525715,
+    "wof:geomhash":"4ff3547d1a8b5f1dd4a16ce5d519f449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840282019
+        }
+    ],
+    "wof:id":840282019,
+    "wof:lastmodified":1463525715,
+    "wof:name":"Miller Transmission Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.182744,
+    30.276707,
+    -93.182744,
+    30.276707
+],
+  "geometry": {"coordinates":[-93.182744,30.276707],"type":"Point"}
+}

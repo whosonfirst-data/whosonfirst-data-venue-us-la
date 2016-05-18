@@ -1,0 +1,73 @@
+{
+  "id": 840270091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.118082,29.938043,-90.118082,29.938043",
+    "geom:latitude":29.938043,
+    "geom:longitude":-90.118082,
+    "iso:country":"US",
+    "sg:address":"2126 Calhoun St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 866 1558",
+    "sg:postcode":"70118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L8cyO0i6HFr2gGMEwVwJc_29.938043_-90.118082@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525186,
+    "wof:geomhash":"58e06120fc4dfb964d409f98476203bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840270091
+        }
+    ],
+    "wof:id":840270091,
+    "wof:lastmodified":1463525186,
+    "wof:name":"Edward Morse Dr",
+    "wof:parent_id":85866131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.118082,
+    29.938043,
+    -90.118082,
+    29.938043
+],
+  "geometry": {"coordinates":[-90.118082,29.938043],"type":"Point"}
+}

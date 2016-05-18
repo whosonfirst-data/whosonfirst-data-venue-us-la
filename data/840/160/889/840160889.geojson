@@ -1,0 +1,73 @@
+{
+  "id": 840160889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.835725,32.381953,-93.835725,32.381953",
+    "geom:latitude":32.381953,
+    "geom:longitude":-93.835725,
+    "iso:country":"US",
+    "sg:address":"9738 Monticello Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 3341",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N0FFC8pcfPP8dibLQsHMX_32.381953_-93.835725@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522464,
+    "wof:geomhash":"dacd519ee7fe4ba296c23e43f3587631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840160889
+        }
+    ],
+    "wof:id":840160889,
+    "wof:lastmodified":1463522464,
+    "wof:name":"Bayton Dental Lab",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -93.835725,
+    32.381953,
+    -93.835725,
+    32.381953
+],
+  "geometry": {"coordinates":[-93.835725,32.381953],"type":"Point"}
+}

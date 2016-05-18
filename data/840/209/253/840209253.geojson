@@ -1,0 +1,85 @@
+{
+  "id": 840209253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.062592,30.458056,-91.062592,30.458056",
+    "geom:latitude":30.458056,
+    "geom:longitude":-91.062592,
+    "iso:country":"US",
+    "sg:address":"11188 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 275 7570",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85838033,
+        85819973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_427x17OQ7w7aUT1pzKnv4J_30.458056_-91.062592@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523612,
+    "wof:geomhash":"12294a07581a98c6ce5e80ecc6608eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85838033,
+            "region_id":85688735,
+            "venue_id":840209253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85819973,
+            "region_id":85688735,
+            "venue_id":840209253
+        }
+    ],
+    "wof:id":840209253,
+    "wof:lastmodified":1463523612,
+    "wof:name":"Care Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -91.062592,
+    30.458056,
+    -91.062592,
+    30.458056
+],
+  "geometry": {"coordinates":[-91.062592,30.458056],"type":"Point"}
+}

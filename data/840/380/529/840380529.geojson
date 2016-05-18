@@ -1,0 +1,68 @@
+{
+  "id": 840380529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.070405,29.985059,-90.070405,29.985059",
+    "geom:latitude":29.985059,
+    "geom:longitude":-90.070405,
+    "iso:country":"US",
+    "sg:address":"2005 N Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 949 7970",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T3mZ2oiYrobEU3zTrlsJ6_29.985059_-90.070405@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530372,
+    "wof:geomhash":"117dd928c1c8666a276ed80967dcd91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866081,
+            "region_id":85688735,
+            "venue_id":840380529
+        }
+    ],
+    "wof:id":840380529,
+    "wof:lastmodified":1463530372,
+    "wof:name":"Pampy's Restaurant & Bar",
+    "wof:parent_id":85866081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.070405,
+    29.985059,
+    -90.070405,
+    29.985059
+],
+  "geometry": {"coordinates":[-90.07040499999999,29.985059],"type":"Point"}
+}

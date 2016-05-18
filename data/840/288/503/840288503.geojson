@@ -1,0 +1,71 @@
+{
+  "id": 840288503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.481357,31.251989,-92.481357,31.251989",
+    "geom:latitude":31.251989,
+    "geom:longitude":-92.481357,
+    "iso:country":"US",
+    "sg:address":"6505 Masonic Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 1886",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PTvU10gbQyj6vvkKvENi7_31.251989_-92.481357@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526003,
+    "wof:geomhash":"fc73868b4383c8d9478e1c64651c2bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840288503
+        }
+    ],
+    "wof:id":840288503,
+    "wof:lastmodified":1463526003,
+    "wof:name":"Alexandria Transmission Co",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -92.481357,
+    31.251989,
+    -92.481357,
+    31.251989
+],
+  "geometry": {"coordinates":[-92.481357,31.251989],"type":"Point"}
+}

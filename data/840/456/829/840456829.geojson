@@ -1,0 +1,84 @@
+{
+  "id": 840456829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.459106,31.269047,-92.459106,31.269047",
+    "geom:latitude":31.269047,
+    "geom:longitude":-92.459106,
+    "iso:country":"US",
+    "sg:address":"2715 S Macarthur Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/96559-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 767 1666",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79c9GdVXgLQZl6vfMveuFo_31.269047_-92.459106@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533568,
+    "wof:geomhash":"c6b85f82c2d2a7a3196fd15b23432318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840456829
+        }
+    ],
+    "wof:id":840456829,
+    "wof:lastmodified":1463533568,
+    "wof:name":"IHOP",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -92.459106,
+    31.269047,
+    -92.459106,
+    31.269047
+],
+  "geometry": {"coordinates":[-92.45910600000001,31.269047],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840276213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.54467,29.83828,-91.54467,29.83828",
+    "geom:latitude":29.83828,
+    "geom:longitude":-91.54467,
+    "iso:country":"US",
+    "sg:address":"800 Main St",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 7523",
+    "sg:postcode":"70514",
+    "sg:province":"LA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52L6OPvOfNo938N640hRdN_29.838280_-91.544670@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525453,
+    "wof:geomhash":"9a1d4dad078b46dfa9a8bb3a6c0d5a9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840276213
+        }
+    ],
+    "wof:id":840276213,
+    "wof:lastmodified":1463525453,
+    "wof:name":"Baldwin Town Hall",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.54467,
+    29.83828,
+    -91.54467,
+    29.83828
+],
+  "geometry": {"coordinates":[-91.54467,29.83828],"type":"Point"}
+}

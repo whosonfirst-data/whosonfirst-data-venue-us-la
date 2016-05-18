@@ -1,0 +1,75 @@
+{
+  "id": 840321067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.785084,30.265724,-89.785084,30.265724",
+    "geom:latitude":30.265724,
+    "geom:longitude":-89.785084,
+    "iso:country":"US",
+    "sg:address":"436 Old Spanish Trl",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 641 4898",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85840247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yAHCb7yNdZMoW1tTypu2L_30.265724_-89.785084@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527504,
+    "wof:geomhash":"5f818fc0a16a684baf1f3e32dd1e58fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85840247,
+            "region_id":85688735,
+            "venue_id":840321067
+        }
+    ],
+    "wof:id":840321067,
+    "wof:lastmodified":1463527504,
+    "wof:name":"Global Medical Ctr",
+    "wof:parent_id":85840247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.785084,
+    30.265724,
+    -89.785084,
+    30.265724
+],
+  "geometry": {"coordinates":[-89.785084,30.265724],"type":"Point"}
+}

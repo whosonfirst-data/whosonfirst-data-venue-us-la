@@ -1,0 +1,75 @@
+{
+  "id": 840424961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.271334,30.00228,-90.271334,30.00228",
+    "geom:latitude":30.00228,
+    "geom:longitude":-90.271334,
+    "iso:country":"US",
+    "sg:address":"2734 Piedmont St",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 466 9088",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04xrExIwdJa7wVvKmaDn2D_30.002280_-90.271334@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532231,
+    "wof:geomhash":"2fa6022ab196bed4be36a54f32bef139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840424961
+        }
+    ],
+    "wof:id":840424961,
+    "wof:lastmodified":1463532231,
+    "wof:name":"Tavora Auto Repairs",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.271334,
+    30.00228,
+    -90.271334,
+    30.00228
+],
+  "geometry": {"coordinates":[-90.271334,30.00228],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840408821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.227802,30.176222,-93.227802,30.176222",
+    "geom:latitude":30.176222,
+    "geom:longitude":-93.227802,
+    "iso:country":"US",
+    "sg:address":"636 W McNeese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 6124",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ya4bdLNbe60TQAgqWDocS_30.176222_-93.227802@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531578,
+    "wof:geomhash":"40b5b4b91878875141e8a85a11300010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840408821
+        }
+    ],
+    "wof:id":840408821,
+    "wof:lastmodified":1463531578,
+    "wof:name":"Kenneth W Parks DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.227802,
+    30.176222,
+    -93.227802,
+    30.176222
+],
+  "geometry": {"coordinates":[-93.227802,30.176222],"type":"Point"}
+}

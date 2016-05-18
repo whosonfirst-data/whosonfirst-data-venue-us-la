@@ -1,0 +1,83 @@
+{
+  "id": 840051497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063541,29.962291,-90.063541,29.962291",
+    "geom:latitude":29.962291,
+    "geom:longitude":-90.063541,
+    "iso:country":"US",
+    "sg:address":"820 Ursulines Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 0102",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64HUAdGXBaAL72daBEfITJ_29.962291_-90.063541@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520077,
+    "wof:geomhash":"c951aab54755e54f4a985e7ad58223a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840051497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840051497
+        }
+    ],
+    "wof:id":840051497,
+    "wof:lastmodified":1463520077,
+    "wof:name":"French Quarter Reservations",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -90.063541,
+    29.962291,
+    -90.063541,
+    29.962291
+],
+  "geometry": {"coordinates":[-90.063541,29.962291],"type":"Point"}
+}

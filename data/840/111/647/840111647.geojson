@@ -1,0 +1,74 @@
+{
+  "id": 840111647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.094077,30.15024,-92.094077,30.15024",
+    "geom:latitude":30.15024,
+    "geom:longitude":-92.094077,
+    "iso:country":"US",
+    "sg:address":"6879 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 8444",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fDjrI9fHsHsyGwoIsSx38_30.150240_-92.094077@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521461,
+    "wof:geomhash":"36d71903fee0eb9e30d26379442e1a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840111647
+        }
+    ],
+    "wof:id":840111647,
+    "wof:lastmodified":1463521461,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.094077,
+    30.15024,
+    -92.094077,
+    30.15024
+],
+  "geometry": {"coordinates":[-92.094077,30.15024],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840028741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.288286,30.901393,-93.288286,30.901393",
+    "geom:latitude":30.901393,
+    "geom:longitude":-93.288286,
+    "iso:country":"US",
+    "sg:address":"197 State Rte 3226",
+    "sg:city":"Deridder",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 462 8888",
+    "sg:postcode":"70659",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PHyGNQty3TpNvRxEdbokv_30.901393_-93.288286@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519597,
+    "wof:geomhash":"85d63bd378bb5f03a9a737211f0bb194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840028741
+        }
+    ],
+    "wof:id":840028741,
+    "wof:lastmodified":1463519597,
+    "wof:name":"South Vernon Parish Waterworks",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -93.288286,
+    30.901393,
+    -93.288286,
+    30.901393
+],
+  "geometry": {"coordinates":[-93.288286,30.901393],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840409935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.879925,30.052271,-89.879925,30.052271",
+    "geom:latitude":30.052271,
+    "geom:longitude":-89.879925,
+    "iso:country":"US",
+    "sg:address":"20800 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 000 1111",
+    "sg:postcode":"70129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61lTYrc9WIYmivJxY9QG2E_30.052271_-89.879925@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531620,
+    "wof:geomhash":"9d039ef9eaaf471499978c533ea89982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840409935
+        }
+    ],
+    "wof:id":840409935,
+    "wof:lastmodified":1463531620,
+    "wof:name":"New Orleans Police Dept",
+    "wof:parent_id":85853823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.879925,
+    30.052271,
+    -89.879925,
+    30.052271
+],
+  "geometry": {"coordinates":[-89.879925,30.052271],"type":"Point"}
+}

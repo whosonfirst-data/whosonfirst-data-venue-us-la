@@ -1,0 +1,71 @@
+{
+  "id": 840450895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.827599,30.008801,-91.827599,30.008801",
+    "geom:latitude":30.008801,
+    "geom:longitude":-91.827599,
+    "iso:country":"US",
+    "sg:address":"501 S Hopkins St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 5666",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mShEw5SvdAWhmofDJ5sp3_30.008315_-91.827858@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533343,
+    "wof:geomhash":"78bef5c1fd69ed1e5292f32255d467a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840450895
+        }
+    ],
+    "wof:id":840450895,
+    "wof:lastmodified":1463533343,
+    "wof:name":"Lily's Grocery",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.827599,
+    30.008801,
+    -91.827599,
+    30.008801
+],
+  "geometry": {"coordinates":[-91.82759900000001,30.008801],"type":"Point"}
+}

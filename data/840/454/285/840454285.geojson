@@ -1,0 +1,73 @@
+{
+  "id": 840454285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.061707,30.190488,-92.061707,30.190488",
+    "geom:latitude":30.190488,
+    "geom:longitude":-92.061707,
+    "iso:country":"US",
+    "sg:address":"4555 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/broadmoor/188356-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kq3S8TH5KFOwYvC8KrEfq_30.190488_-92.061707@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533479,
+    "wof:geomhash":"3187e5a794fa0e497c8abc294c612dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840454285
+        }
+    ],
+    "wof:id":840454285,
+    "wof:lastmodified":1463533479,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.061707,
+    30.190488,
+    -92.061707,
+    30.190488
+],
+  "geometry": {"coordinates":[-92.061707,30.190488],"type":"Point"}
+}

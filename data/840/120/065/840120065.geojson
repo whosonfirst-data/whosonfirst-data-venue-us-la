@@ -1,0 +1,72 @@
+{
+  "id": 840120065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.197319,30.20345,-93.197319,30.20345",
+    "geom:latitude":30.20345,
+    "geom:longitude":-93.197319,
+    "iso:country":"US",
+    "sg:address":"1717 Oak Park Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 3810",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.theeyeclinic.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ul2j4hyKlElFqTBQRy3KR_30.203450_-93.197319@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521639,
+    "wof:geomhash":"55d0b209a2bf01c6f7b28e48f385a4e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840120065
+        }
+    ],
+    "wof:id":840120065,
+    "wof:lastmodified":1463521639,
+    "wof:name":"Eye Clinic",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.197319,
+    30.20345,
+    -93.197319,
+    30.20345
+],
+  "geometry": {"coordinates":[-93.19731899999999,30.20345],"type":"Point"}
+}

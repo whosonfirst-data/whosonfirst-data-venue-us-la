@@ -1,0 +1,71 @@
+{
+  "id": 840235861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.442002,30.440149,-90.442002,30.440149",
+    "geom:latitude":30.440149,
+    "geom:longitude":-90.442002,
+    "iso:country":"US",
+    "sg:address":"110 W Hickory St",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 6548",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BT4UAjQ0q0TJISn8OzHRS_30.440149_-90.442002@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524270,
+    "wof:geomhash":"67db99cfc5cba9b635efc3e1ea48008c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840235861
+        }
+    ],
+    "wof:id":840235861,
+    "wof:lastmodified":1463524270,
+    "wof:name":"Ponchatoula City Police Sta",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.442002,
+    30.440149,
+    -90.442002,
+    30.440149
+],
+  "geometry": {"coordinates":[-90.442002,30.440149],"type":"Point"}
+}

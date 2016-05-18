@@ -1,0 +1,73 @@
+{
+  "id": 840373019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.216023,30.205374,-93.216023,30.205374",
+    "geom:latitude":30.205374,
+    "geom:longitude":-93.216023,
+    "iso:country":"US",
+    "sg:address":"2600 Hodges St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6799",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hD8QddKobOiclrDuwQxd5_30.205374_-93.216023@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530029,
+    "wof:geomhash":"6a2434ae01402d90b83152408372b3ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840373019
+        }
+    ],
+    "wof:id":840373019,
+    "wof:lastmodified":1463530029,
+    "wof:name":"Chiasson Electric Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.216023,
+    30.205374,
+    -93.216023,
+    30.205374
+],
+  "geometry": {"coordinates":[-93.21602300000001,30.205374],"type":"Point"}
+}

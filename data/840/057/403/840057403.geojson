@@ -1,0 +1,73 @@
+{
+  "id": 840057403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.002548,30.282125,-92.002548,30.282125",
+    "geom:latitude":30.282125,
+    "geom:longitude":-92.002548,
+    "iso:country":"US",
+    "sg:address":"310 Acorn Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 4620",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sv7MN709v2oJeiBX2dP4Y_30.282125_-92.002548@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520209,
+    "wof:geomhash":"8a5b3e09e95fa9c7fd2354be599588b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840057403
+        }
+    ],
+    "wof:id":840057403,
+    "wof:lastmodified":1463520209,
+    "wof:name":"Wil's Electrical Svc",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.002548,
+    30.282125,
+    -92.002548,
+    30.282125
+],
+  "geometry": {"coordinates":[-92.002548,30.282125],"type":"Point"}
+}

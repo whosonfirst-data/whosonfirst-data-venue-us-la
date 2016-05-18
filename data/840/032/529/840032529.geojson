@@ -1,0 +1,73 @@
+{
+  "id": 840032529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0344,29.981459,-90.0344,29.981459",
+    "geom:latitude":29.981459,
+    "geom:longitude":-90.0344,
+    "iso:country":"US",
+    "sg:address":"2540 Congress St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 949 0910",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3011557hlMFONRePStOymP_29.981459_-90.034400@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519683,
+    "wof:geomhash":"ff723ab59614b697b526676e5859b582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866085,
+            "region_id":85688735,
+            "venue_id":840032529
+        }
+    ],
+    "wof:id":840032529,
+    "wof:lastmodified":1463519683,
+    "wof:name":"Martino Superette",
+    "wof:parent_id":85866085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.0344,
+    29.981459,
+    -90.0344,
+    29.981459
+],
+  "geometry": {"coordinates":[-90.03440000000001,29.981459],"type":"Point"}
+}

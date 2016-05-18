@@ -1,0 +1,71 @@
+{
+  "id": 840087367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.50766,29.78715,-91.50766,29.78715",
+    "geom:latitude":29.78715,
+    "geom:longitude":-91.50766,
+    "iso:country":"US",
+    "sg:address":"804 Martin Luther King Jr Blvd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 7355",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M4fGNn7tb8aSztq1rvEhd_29.787150_-91.507660@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520970,
+    "wof:geomhash":"3eff7da9e251b3e83e8e830ff5aab6d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840087367
+        }
+    ],
+    "wof:id":840087367,
+    "wof:lastmodified":1463520970,
+    "wof:name":"Butler's Foodarama",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.50766,
+    29.78715,
+    -91.50766,
+    29.78715
+],
+  "geometry": {"coordinates":[-91.50766,29.78715],"type":"Point"}
+}

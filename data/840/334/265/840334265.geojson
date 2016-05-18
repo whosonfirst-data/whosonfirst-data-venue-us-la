@@ -1,0 +1,73 @@
+{
+  "id": 840334265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.201256,30.222925,-93.201256,30.222925",
+    "geom:latitude":30.222925,
+    "geom:longitude":-93.201256,
+    "iso:country":"US",
+    "sg:address":"1111 1st Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 4345",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74DD1d6EeZ1JHfpVDOjMS5_30.222925_-93.201256@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528145,
+    "wof:geomhash":"2b1932cc57ff42f06e6715b63fa51cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840334265
+        }
+    ],
+    "wof:id":840334265,
+    "wof:lastmodified":1463528145,
+    "wof:name":"US Army Training",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -93.201256,
+    30.222925,
+    -93.201256,
+    30.222925
+],
+  "geometry": {"coordinates":[-93.201256,30.222925],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840336113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.084271,29.969254,-90.084271,29.969254",
+    "geom:latitude":29.969254,
+    "geom:longitude":-90.084271,
+    "iso:country":"US",
+    "sg:address":"615 N Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 486 8080",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55zUjd6HdUhvgbiQNNFYyv_29.969254_-90.084271@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528225,
+    "wof:geomhash":"6e4355a27e2e3914019a84135a963823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840336113
+        }
+    ],
+    "wof:id":840336113,
+    "wof:lastmodified":1463528225,
+    "wof:name":"Lanes Professional Car Wash",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.084271,
+    29.969254,
+    -90.084271,
+    29.969254
+],
+  "geometry": {"coordinates":[-90.084271,29.969254],"type":"Point"}
+}

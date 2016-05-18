@@ -1,0 +1,71 @@
+{
+  "id": 840318641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.887654,30.058177,-91.887654,30.058177",
+    "geom:latitude":30.058177,
+    "geom:longitude":-91.887654,
+    "iso:country":"US",
+    "sg:address":"614 Coteau Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 9034",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W6GN5STnBGXJeJjfchOOu_30.058177_-91.887654@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527390,
+    "wof:geomhash":"bd3048ccc89d451da6a966358a9bbfd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840318641
+        }
+    ],
+    "wof:id":840318641,
+    "wof:lastmodified":1463527390,
+    "wof:name":"Gordon's Construction/Landfill",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -91.887654,
+    30.058177,
+    -91.887654,
+    30.058177
+],
+  "geometry": {"coordinates":[-91.887654,30.058177],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840070041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.122568,32.507473,-92.122568,32.507473",
+    "geom:latitude":32.507473,
+    "geom:longitude":-92.122568,
+    "iso:country":"US",
+    "sg:address":"201 Louisville Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 7479",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_708cyOgf4Se87OJbDghawm_32.507473_-92.122568@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520478,
+    "wof:geomhash":"96cbe32954e8f578a45c20e229a215b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840070041
+        }
+    ],
+    "wof:id":840070041,
+    "wof:lastmodified":1463520478,
+    "wof:name":"Louisville Motors",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.122568,
+    32.507473,
+    -92.122568,
+    32.507473
+],
+  "geometry": {"coordinates":[-92.122568,32.507473],"type":"Point"}
+}

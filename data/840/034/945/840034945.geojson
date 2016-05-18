@@ -1,0 +1,73 @@
+{
+  "id": 840034945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.043842,30.259252,-92.043842,30.259252",
+    "geom:latitude":30.259252,
+    "geom:longitude":-92.043842,
+    "iso:country":"US",
+    "sg:address":"113 Marcon Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 5589",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NSco9msuPGv1kCKjH0Syw_30.259252_-92.043842@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519731,
+    "wof:geomhash":"0bc9886e11f456fa7db357371ea4a930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840034945
+        }
+    ],
+    "wof:id":840034945,
+    "wof:lastmodified":1463519731,
+    "wof:name":"Hoskins Plumbing Inc",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.043842,
+    30.259252,
+    -92.043842,
+    30.259252
+],
+  "geometry": {"coordinates":[-92.043842,30.259252],"type":"Point"}
+}

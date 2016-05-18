@@ -1,0 +1,71 @@
+{
+  "id": 840039725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.751143,30.310315,-89.751143,30.310315",
+    "geom:latitude":30.310315,
+    "geom:longitude":-89.751143,
+    "iso:country":"US",
+    "sg:address":"640 Brownswitch Rd",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 641 6607",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85836599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R4p2tMUPPuF00sibongjq_30.310315_-89.751143@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519836,
+    "wof:geomhash":"75274e02d75f995877b39768cd4f8957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85836599,
+            "region_id":85688735,
+            "venue_id":840039725
+        }
+    ],
+    "wof:id":840039725,
+    "wof:lastmodified":1463519836,
+    "wof:name":"Pousson & Smith",
+    "wof:parent_id":85836599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.751143,
+    30.310315,
+    -89.751143,
+    30.310315
+],
+  "geometry": {"coordinates":[-89.751143,30.310315],"type":"Point"}
+}

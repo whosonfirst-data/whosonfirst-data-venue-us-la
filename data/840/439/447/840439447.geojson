@@ -1,0 +1,73 @@
+{
+  "id": 840439447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.056933,30.204419,-92.056933,30.204419",
+    "geom:latitude":30.204419,
+    "geom:longitude":-92.056933,
+    "iso:country":"US",
+    "sg:address":"213 Marie Antoinette St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1149",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hrYEpTBsysdU5DWq9Y1iE_30.204419_-92.056933@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532866,
+    "wof:geomhash":"cc56f1a9076c73d3a511795b5a602893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840439447
+        }
+    ],
+    "wof:id":840439447,
+    "wof:lastmodified":1463532866,
+    "wof:name":"Action Plumbing",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.056933,
+    30.204419,
+    -92.056933,
+    30.204419
+],
+  "geometry": {"coordinates":[-92.056933,30.204419],"type":"Point"}
+}

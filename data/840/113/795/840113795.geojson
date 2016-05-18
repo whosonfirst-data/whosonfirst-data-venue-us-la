@@ -1,0 +1,73 @@
+{
+  "id": 840113795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.076443,30.020938,-90.076443,30.020938",
+    "geom:latitude":30.020938,
+    "geom:longitude":-90.076443,
+    "iso:country":"US",
+    "sg:address":"1536 Robert E Lee Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 288 8114",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23lsrkgzWPqRopkg3VMFLt_30.020938_-90.076443@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521501,
+    "wof:geomhash":"a2520510ec1708c26f7f2b1e01bec1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866061,
+            "region_id":85688735,
+            "venue_id":840113795
+        }
+    ],
+    "wof:id":840113795,
+    "wof:lastmodified":1463521501,
+    "wof:name":"Lake Terrace Veterinary Clinic",
+    "wof:parent_id":85866061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.076443,
+    30.020938,
+    -90.076443,
+    30.020938
+],
+  "geometry": {"coordinates":[-90.076443,30.020938],"type":"Point"}
+}

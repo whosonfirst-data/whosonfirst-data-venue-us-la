@@ -1,0 +1,71 @@
+{
+  "id": 840037685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.006901,30.400472,-91.006901,30.400472",
+    "geom:latitude":30.400472,
+    "geom:longitude":-91.006901,
+    "iso:country":"US",
+    "sg:address":"15654 Malvern Hill Ave",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 756 3024",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rGd0tmoGUhiGmbnitP3QE_30.400472_-91.006901@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519787,
+    "wof:geomhash":"8dcbc4cc26b914c499e174512432efac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840037685
+        }
+    ],
+    "wof:id":840037685,
+    "wof:lastmodified":1463519787,
+    "wof:name":"Capitol City Appliance",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -91.006901,
+    30.400472,
+    -91.006901,
+    30.400472
+],
+  "geometry": {"coordinates":[-91.006901,30.400472],"type":"Point"}
+}

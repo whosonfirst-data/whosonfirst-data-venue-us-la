@@ -1,0 +1,73 @@
+{
+  "id": 840213859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.068466,30.184192,-92.068466,30.184192",
+    "geom:latitude":30.184192,
+    "geom:longitude":-92.068466,
+    "iso:country":"US",
+    "sg:address":"4952 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 0721",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a5S7OT8DuWGCsuaB4rY3j_30.184192_-92.068466@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523703,
+    "wof:geomhash":"9dd18f0bc843a2661be750c5ffeb6089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840213859
+        }
+    ],
+    "wof:id":840213859,
+    "wof:lastmodified":1463523703,
+    "wof:name":"Custom Gun Works",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -92.068466,
+    30.184192,
+    -92.068466,
+    30.184192
+],
+  "geometry": {"coordinates":[-92.068466,30.184192],"type":"Point"}
+}

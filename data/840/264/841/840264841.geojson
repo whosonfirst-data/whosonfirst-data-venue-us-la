@@ -1,0 +1,73 @@
+{
+  "id": 840264841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258026,30.253222,-93.258026,30.253222",
+    "geom:latitude":30.253222,
+    "geom:longitude":-93.258026,
+    "iso:country":"US",
+    "sg:address":"1604 Sampson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 494 1088",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lofr892IckZkvoJSTIjxZ_30.253222_-93.258026@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524918,
+    "wof:geomhash":"ecb67901de94a420f1c6dbc2f00be044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840264841
+        }
+    ],
+    "wof:id":840264841,
+    "wof:lastmodified":1463524918,
+    "wof:name":"American Check Cashers",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -93.258026,
+    30.253222,
+    -93.258026,
+    30.253222
+],
+  "geometry": {"coordinates":[-93.258026,30.253222],"type":"Point"}
+}

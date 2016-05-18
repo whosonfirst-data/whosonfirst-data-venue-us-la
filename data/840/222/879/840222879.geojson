@@ -1,0 +1,73 @@
+{
+  "id": 840222879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.226583,30.215867,-93.226583,30.215867",
+    "geom:latitude":30.215867,
+    "geom:longitude":-93.226583,
+    "iso:country":"US",
+    "sg:address":"1611 Foster St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 1370",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FFwXLx4Tcc0GLqR4JMrL3_30.215867_-93.226583@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523901,
+    "wof:geomhash":"01c4b5a5064dee2d5581381704ebb99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840222879
+        }
+    ],
+    "wof:id":840222879,
+    "wof:lastmodified":1463523901,
+    "wof:name":"Springer Family Medical",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.226583,
+    30.215867,
+    -93.226583,
+    30.215867
+],
+  "geometry": {"coordinates":[-93.22658300000001,30.215867],"type":"Point"}
+}

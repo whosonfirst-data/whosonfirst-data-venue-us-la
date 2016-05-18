@@ -1,0 +1,71 @@
+{
+  "id": 840194987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.217124,30.229359,-93.217124,30.229359",
+    "geom:latitude":30.229359,
+    "geom:longitude":-93.217124,
+    "iso:country":"US",
+    "sg:address":"106 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 6558",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_002EPjkP2HTemEvF7cBnrQ_30.229359_-93.217124@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523217,
+    "wof:geomhash":"409235cb0a88240e4f405babd3c28e20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840194987
+        }
+    ],
+    "wof:id":840194987,
+    "wof:lastmodified":1463523217,
+    "wof:name":"Black Tie Cleaners",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.217124,
+    30.229359,
+    -93.217124,
+    30.229359
+],
+  "geometry": {"coordinates":[-93.217124,30.229359],"type":"Point"}
+}

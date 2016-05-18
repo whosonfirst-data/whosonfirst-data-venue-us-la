@@ -1,0 +1,71 @@
+{
+  "id": 840071359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213158,30.213185,-93.213158,30.213185",
+    "geom:latitude":30.213185,
+    "geom:longitude":-93.213158,
+    "iso:country":"US",
+    "sg:address":"600 12th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 3685",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4quCvJZYFkDZ3JT3F4FYkK_30.213185_-93.213158@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520504,
+    "wof:geomhash":"ba276757312aa0c8b169c583e51b9d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840071359
+        }
+    ],
+    "wof:id":840071359,
+    "wof:lastmodified":1463520504,
+    "wof:name":"Kroger",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.213158,
+    30.213185,
+    -93.213158,
+    30.213185
+],
+  "geometry": {"coordinates":[-93.21315800000001,30.213185],"type":"Point"}
+}

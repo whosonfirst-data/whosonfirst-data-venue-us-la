@@ -1,0 +1,73 @@
+{
+  "id": 840456131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.763772,32.398191,-93.763772,32.398191",
+    "geom:latitude":32.398191,
+    "geom:longitude":-93.763772,
+    "iso:country":"US",
+    "sg:address":"395 Bert Kouns Industrial Loop",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/shreveport/188446-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_142cmzCO5grO1MoXz7Hmjr_32.398191_-93.763772@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533543,
+    "wof:geomhash":"960964015d4b7fd01abcecd4d2e9bc67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840456131
+        }
+    ],
+    "wof:id":840456131,
+    "wof:lastmodified":1463533543,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.763772,
+    32.398191,
+    -93.763772,
+    32.398191
+],
+  "geometry": {"coordinates":[-93.763772,32.398191],"type":"Point"}
+}

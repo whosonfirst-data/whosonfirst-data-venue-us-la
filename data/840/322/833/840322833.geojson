@@ -1,0 +1,71 @@
+{
+  "id": 840322833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.371392,30.218263,-93.371392,30.218263",
+    "geom:latitude":30.218263,
+    "geom:longitude":-93.371392,
+    "iso:country":"US",
+    "sg:address":"700 Henning Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 2358",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28zNouxvqSTuqbclYGsdPT_30.218263_-93.371392@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527601,
+    "wof:geomhash":"ad3510b58596a6c4d35e41c12bf44f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840322833
+        }
+    ],
+    "wof:id":840322833,
+    "wof:lastmodified":1463527601,
+    "wof:name":"Sulphur Springs",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.371392,
+    30.218263,
+    -93.371392,
+    30.218263
+],
+  "geometry": {"coordinates":[-93.371392,30.218263],"type":"Point"}
+}

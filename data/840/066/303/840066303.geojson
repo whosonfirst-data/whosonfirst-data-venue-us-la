@@ -1,0 +1,73 @@
+{
+  "id": 840066303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.275004,30.264208,-93.275004,30.264208",
+    "geom:latitude":30.264208,
+    "geom:longitude":-93.275004,
+    "iso:country":"US",
+    "sg:address":"2105 John Stine Rd",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7350",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pTBmiSVezDSFxcM1qbEZU_30.264208_-93.275004@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520399,
+    "wof:geomhash":"523dc673b2bc2989150a1709119d6b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840066303
+        }
+    ],
+    "wof:id":840066303,
+    "wof:lastmodified":1463520399,
+    "wof:name":"J H Auto",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.275004,
+    30.264208,
+    -93.275004,
+    30.264208
+],
+  "geometry": {"coordinates":[-93.275004,30.264208],"type":"Point"}
+}

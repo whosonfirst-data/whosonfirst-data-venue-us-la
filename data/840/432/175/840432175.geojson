@@ -1,0 +1,71 @@
+{
+  "id": 840432175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.811067,30.00194,-91.811067,30.00194",
+    "geom:latitude":30.00194,
+    "geom:longitude":-91.811067,
+    "iso:country":"US",
+    "sg:address":"224 Prairie Ave",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 2380",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N8nvgATa1jvHdEQDLHSCJ_30.001940_-91.811067@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532551,
+    "wof:geomhash":"2a40371d795adad8e8fb8a35fb3c93f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840432175
+        }
+    ],
+    "wof:id":840432175,
+    "wof:lastmodified":1463532551,
+    "wof:name":"Fire Inspectors Office",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.811067,
+    30.00194,
+    -91.811067,
+    30.00194
+],
+  "geometry": {"coordinates":[-91.81106699999999,30.00194],"type":"Point"}
+}

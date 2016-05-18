@@ -1,0 +1,72 @@
+{
+  "id": 840454775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.198131,30.315438,-93.198131,30.315438",
+    "geom:latitude":30.315438,
+    "geom:longitude":-93.198131,
+    "iso:country":"US",
+    "sg:address":"1009 N Highway 171",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/208623-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 0348",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S3xxHE5y6lBugcOXf57ka_30.315438_-93.198131@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533496,
+    "wof:geomhash":"7db10009a618341397b6fe8a1b1fed4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840454775
+        }
+    ],
+    "wof:id":840454775,
+    "wof:lastmodified":1463533496,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.198131,
+    30.315438,
+    -93.198131,
+    30.315438
+],
+  "geometry": {"coordinates":[-93.198131,30.315438],"type":"Point"}
+}

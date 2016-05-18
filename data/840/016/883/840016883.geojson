@@ -1,0 +1,71 @@
+{
+  "id": 840016883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.100669,30.399106,-91.100669,30.399106",
+    "geom:latitude":30.399106,
+    "geom:longitude":-91.100669,
+    "iso:country":"US",
+    "sg:address":"8338 Summa Ave",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 769 7200",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85807101,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FERZ3j7ctK5K0pZzENmDU_30.399106_-91.100669@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519346,
+    "wof:geomhash":"c41aefa389e53608cb837677225a0984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85807101,
+            "region_id":85688735,
+            "venue_id":840016883
+        }
+    ],
+    "wof:id":840016883,
+    "wof:lastmodified":1463519346,
+    "wof:name":"Louisiana Neurologic Conslnts",
+    "wof:parent_id":85807101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.100669,
+    30.399106,
+    -91.100669,
+    30.399106
+],
+  "geometry": {"coordinates":[-91.100669,30.399106],"type":"Point"}
+}

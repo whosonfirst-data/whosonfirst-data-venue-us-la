@@ -1,0 +1,74 @@
+{
+  "id": 840457391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.499338,30.519089,-90.499338,30.519089",
+    "geom:latitude":30.519089,
+    "geom:longitude":-90.499338,
+    "iso:country":"US",
+    "sg:address":"14123 University Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/natalbany/173635-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 2529",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85856811,
+        102083809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GfjIs6UBlFRZeeLwy71En_30.519144_-90.499977@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533593,
+    "wof:geomhash":"cc0b0c026438b41fb6d4bc9c860a3629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "neighbourhood_id":85856811,
+            "region_id":85688735,
+            "venue_id":840457391
+        }
+    ],
+    "wof:id":840457391,
+    "wof:lastmodified":1463533593,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85856811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.499338,
+    30.519089,
+    -90.499338,
+    30.519089
+],
+  "geometry": {"coordinates":[-90.49933799999999,30.519089],"type":"Point"}
+}

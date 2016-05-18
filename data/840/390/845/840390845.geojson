@@ -1,0 +1,73 @@
+{
+  "id": 840390845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.032767,29.9134,-90.032767,29.9134",
+    "geom:latitude":29.9134,
+    "geom:longitude":-90.032767,
+    "iso:country":"US",
+    "sg:address":"341 Heritage Ave",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 349 5551",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948739,
+        102083179,
+        85869723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61b1Wk0M2WY1KHcXZ6DBO8_29.913400_-90.032767@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530839,
+    "wof:geomhash":"b8534b736c45995eee87e7c3025bd306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948739,
+            "neighbourhood_id":85869723,
+            "region_id":85688735,
+            "venue_id":840390845
+        }
+    ],
+    "wof:id":840390845,
+    "wof:lastmodified":1463530839,
+    "wof:name":"Terrytown Volunteer Fire Dept",
+    "wof:parent_id":85869723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.032767,
+    29.9134,
+    -90.032767,
+    29.9134
+],
+  "geometry": {"coordinates":[-90.03276700000001,29.9134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840107013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.367739,30.235519,-93.367739,30.235519",
+    "geom:latitude":30.235519,
+    "geom:longitude":-93.367739,
+    "iso:country":"US",
+    "sg:address":"208 Maple St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 6570",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h3er5LRJKWX9TRuDsHEV6_30.235519_-93.367739@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521373,
+    "wof:geomhash":"cef86177b5c97f552adfc39f1ddf1aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840107013
+        }
+    ],
+    "wof:id":840107013,
+    "wof:lastmodified":1463521373,
+    "wof:name":"Curry Chapel CME Church",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.367739,
+    30.235519,
+    -93.367739,
+    30.235519
+],
+  "geometry": {"coordinates":[-93.367739,30.235519],"type":"Point"}
+}

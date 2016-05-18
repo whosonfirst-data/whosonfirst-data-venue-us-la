@@ -1,0 +1,71 @@
+{
+  "id": 840253289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.713861,31.996124,-93.713861,31.996124",
+    "geom:latitude":31.996124,
+    "geom:longitude":-93.713861,
+    "iso:country":"US",
+    "sg:address":"13712 US Hwy 171",
+    "sg:city":"Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 872 6320",
+    "sg:postcode":"71052",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85842867,
+        102084887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nGJsdjH82HTLzgmFwY4kT_31.996124_-93.713861@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524686,
+    "wof:geomhash":"314515bdc2d9c58fb2adeb14d8433386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "neighbourhood_id":85842867,
+            "region_id":85688735,
+            "venue_id":840253289
+        }
+    ],
+    "wof:id":840253289,
+    "wof:lastmodified":1463524686,
+    "wof:name":"B & B Automotive",
+    "wof:parent_id":85842867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.713861,
+    31.996124,
+    -93.713861,
+    31.996124
+],
+  "geometry": {"coordinates":[-93.71386099999999,31.996124],"type":"Point"}
+}

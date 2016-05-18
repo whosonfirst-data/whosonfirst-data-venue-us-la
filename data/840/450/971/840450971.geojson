@@ -1,0 +1,83 @@
+{
+  "id": 840450971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061302,29.9608,-90.061302,29.9608",
+    "geom:latitude":29.9608,
+    "geom:longitude":-90.061302,
+    "iso:country":"US",
+    "sg:address":"617 Ursulines Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 524 4663",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853777,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QJEgLTefPre9iiYwE4JJl_29.961189_-90.061658@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533346,
+    "wof:geomhash":"20d69f95a94f1e70f4888c5b67763f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840450971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840450971
+        }
+    ],
+    "wof:id":840450971,
+    "wof:lastmodified":1463533346,
+    "wof:name":"Croissant D'or Patisserie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -90.061302,
+    29.9608,
+    -90.061302,
+    29.9608
+],
+  "geometry": {"coordinates":[-90.061302,29.9608],"type":"Point"}
+}

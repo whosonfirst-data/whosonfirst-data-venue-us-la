@@ -1,0 +1,83 @@
+{
+  "id": 840298809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.063945,30.45806,-91.063945,30.45806",
+    "geom:latitude":30.45806,
+    "geom:longitude":-91.063945,
+    "iso:country":"US",
+    "sg:address":"11261 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 273 0039",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85838033,
+        85819973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dtN7fYWwsLiR96zPXoA9u_30.458060_-91.063945@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526438,
+    "wof:geomhash":"baae1c92d02d1e4c3d39a05e4452c3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85838033,
+            "region_id":85688735,
+            "venue_id":840298809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85819973,
+            "region_id":85688735,
+            "venue_id":840298809
+        }
+    ],
+    "wof:id":840298809,
+    "wof:lastmodified":1463526438,
+    "wof:name":"Easy Money",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -91.063945,
+    30.45806,
+    -91.063945,
+    30.45806
+],
+  "geometry": {"coordinates":[-91.063945,30.45806],"type":"Point"}
+}

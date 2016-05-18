@@ -1,0 +1,73 @@
+{
+  "id": 840290649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.067366,29.946455,-90.067366,29.946455",
+    "geom:latitude":29.946455,
+    "geom:longitude":-90.067366,
+    "iso:country":"US",
+    "sg:address":"601 Tchoupitoulas St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 561 8115",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K3UD3TyDeLyQWe7L7K19Z_29.946455_-90.067366@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526093,
+    "wof:geomhash":"f9149f4124298b1914f88d5e393519ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866969,
+            "region_id":85688735,
+            "venue_id":840290649
+        }
+    ],
+    "wof:id":840290649,
+    "wof:lastmodified":1463526093,
+    "wof:name":"Standard Parking",
+    "wof:parent_id":85866969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -90.067366,
+    29.946455,
+    -90.067366,
+    29.946455
+],
+  "geometry": {"coordinates":[-90.06736600000001,29.946455],"type":"Point"}
+}

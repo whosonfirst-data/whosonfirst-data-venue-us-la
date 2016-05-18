@@ -1,0 +1,80 @@
+{
+  "id": 840098627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.262333,30.256831,-93.262333,30.256831",
+    "geom:latitude":30.256831,
+    "geom:longitude":-93.262333,
+    "iso:country":"US",
+    "sg:address":"2001 Jones St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 6879",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "senior",
+        "medical",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rzlyf5JaOdXPLkLDwVeQL_30.256831_-93.262333@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521184,
+    "wof:geomhash":"cb8dedf5b9a866eeb5e1fbc9a0a38007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840098627
+        }
+    ],
+    "wof:id":840098627,
+    "wof:lastmodified":1463521184,
+    "wof:name":"Westlake Senior Center",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "medical",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -93.262333,
+    30.256831,
+    -93.262333,
+    30.256831
+],
+  "geometry": {"coordinates":[-93.262333,30.256831],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840231215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.112138,30.468425,-91.112138,30.468425",
+    "geom:latitude":30.468425,
+    "geom:longitude":-91.112138,
+    "iso:country":"US",
+    "sg:address":"2195 Dallas Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 201 0012",
+    "sg:postcode":"70806",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85876071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kS6eW3vFdfWVSw5ySyOUU_30.468425_-91.112138@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524143,
+    "wof:geomhash":"6cc603d96a8853628109f58f7d22e54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85876071,
+            "region_id":85688735,
+            "venue_id":840231215
+        }
+    ],
+    "wof:id":840231215,
+    "wof:lastmodified":1463524143,
+    "wof:name":"Bayou Towing & Road Side",
+    "wof:parent_id":85876071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -91.112138,
+    30.468425,
+    -91.112138,
+    30.468425
+],
+  "geometry": {"coordinates":[-91.112138,30.468425],"type":"Point"}
+}

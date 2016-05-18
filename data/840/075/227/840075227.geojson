@@ -1,0 +1,71 @@
+{
+  "id": 840075227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204335,30.199726,-93.204335,30.199726",
+    "geom:latitude":30.199726,
+    "geom:longitude":-93.204335,
+    "iso:country":"US",
+    "sg:address":"3212 Enterprise Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 0517",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59RKnQxC4mt7gk53XA8CGk_30.199726_-93.204335@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520587,
+    "wof:geomhash":"808f0fd35b5e67575f2331afae4541a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840075227
+        }
+    ],
+    "wof:id":840075227,
+    "wof:lastmodified":1463520587,
+    "wof:name":"Ted Bercier DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.204335,
+    30.199726,
+    -93.204335,
+    30.199726
+],
+  "geometry": {"coordinates":[-93.204335,30.199726],"type":"Point"}
+}

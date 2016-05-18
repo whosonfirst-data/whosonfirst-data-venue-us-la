@@ -1,0 +1,73 @@
+{
+  "id": 840309315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.007125,30.358764,-91.007125,30.358764",
+    "geom:latitude":30.358764,
+    "geom:longitude":-91.007125,
+    "iso:country":"US",
+    "sg:address":"15707 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 755 0259",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FzK1EsB8mbTgu79Rxzbop_30.358764_-91.007125@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526965,
+    "wof:geomhash":"0a406a456796251bf80eb86ee3c30558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840309315
+        }
+    ],
+    "wof:id":840309315,
+    "wof:lastmodified":1463526965,
+    "wof:name":"Highland Self Storage",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -91.007125,
+    30.358764,
+    -91.007125,
+    30.358764
+],
+  "geometry": {"coordinates":[-91.007125,30.358764],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840028951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.925453,29.93513,-89.925453,29.93513",
+    "geom:latitude":29.93513,
+    "geom:longitude":-89.925453,
+    "iso:country":"US",
+    "sg:address":"2545 Paul Dr",
+    "sg:city":"Meraux",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 276 7387",
+    "sg:postcode":"70075",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948813,
+        102082447,
+        85850917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EOqRdkPdRaWNmSsl8H1YV_29.935130_-89.925453@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519601,
+    "wof:geomhash":"fe1dcd4c48316fd76b64d1c8f1f2ef8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948813,
+            "neighbourhood_id":85850917,
+            "region_id":85688735,
+            "venue_id":840028951
+        }
+    ],
+    "wof:id":840028951,
+    "wof:lastmodified":1463519601,
+    "wof:name":"Animal Adoption Society Inc",
+    "wof:parent_id":85850917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -89.925453,
+    29.93513,
+    -89.925453,
+    29.93513
+],
+  "geometry": {"coordinates":[-89.925453,29.93513],"type":"Point"}
+}

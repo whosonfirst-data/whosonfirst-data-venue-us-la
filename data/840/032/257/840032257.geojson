@@ -1,0 +1,75 @@
+{
+  "id": 840032257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.014408,30.224335,-92.014408,30.224335",
+    "geom:latitude":30.224335,
+    "geom:longitude":-92.014408,
+    "iso:country":"US",
+    "sg:address":"105 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 8770",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GomQpu32fZe1f7nNe4egN_30.224335_-92.014408@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519677,
+    "wof:geomhash":"02962a613c05528cca6cbc4ebf4ab0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840032257
+        }
+    ],
+    "wof:id":840032257,
+    "wof:lastmodified":1463519677,
+    "wof:name":"Precision Tune Auto Care",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.014408,
+    30.224335,
+    -92.014408,
+    30.224335
+],
+  "geometry": {"coordinates":[-92.014408,30.224335],"type":"Point"}
+}

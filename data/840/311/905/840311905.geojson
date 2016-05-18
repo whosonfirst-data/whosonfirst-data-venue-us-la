@@ -1,0 +1,75 @@
+{
+  "id": 840311905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.220915,30.004967,-90.220915,30.004967",
+    "geom:latitude":30.004967,
+    "geom:longitude":-90.220915,
+    "iso:country":"US",
+    "sg:address":"3104 David Dr",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 455 5354",
+    "sg:postcode":"70003",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ELAa7NTWYG8FJ60rLtawn_30.004967_-90.220915@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527088,
+    "wof:geomhash":"a9b674ffbf7ee350da89c9359c843f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840311905
+        }
+    ],
+    "wof:id":840311905,
+    "wof:lastmodified":1463527088,
+    "wof:name":"Complete Auto Repair",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.220915,
+    30.004967,
+    -90.220915,
+    30.004967
+],
+  "geometry": {"coordinates":[-90.22091500000001,30.004967],"type":"Point"}
+}

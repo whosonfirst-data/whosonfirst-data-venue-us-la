@@ -1,0 +1,71 @@
+{
+  "id": 840222841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359313,30.245912,-93.359313,30.245912",
+    "geom:latitude":30.245912,
+    "geom:longitude":-93.359313,
+    "iso:country":"US",
+    "sg:address":"910 N Beglis Pkwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 2212",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49IiFQYmS5bAowNgWE7GHp_30.245912_-93.359313@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523900,
+    "wof:geomhash":"aa04932ac5450916f5701c46f97efd0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840222841
+        }
+    ],
+    "wof:id":840222841,
+    "wof:lastmodified":1463523900,
+    "wof:name":"Roger Grimball Jr DDS",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.359313,
+    30.245912,
+    -93.359313,
+    30.245912
+],
+  "geometry": {"coordinates":[-93.359313,30.245912],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840348899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.167268,30.16222,-92.167268,30.16222",
+    "geom:latitude":30.16222,
+    "geom:longitude":-92.167268,
+    "iso:country":"US",
+    "sg:address":"111 Andover Rd",
+    "sg:city":"Rayne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 873 0304",
+    "sg:postcode":"70578",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nxxQoJMExnr8cjb9PNvrk_30.162220_-92.167268@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528852,
+    "wof:geomhash":"040a1b01677c41df4390fbd8023d2bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840348899
+        }
+    ],
+    "wof:id":840348899,
+    "wof:lastmodified":1463528852,
+    "wof:name":"Timcom",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.167268,
+    30.16222,
+    -92.167268,
+    30.16222
+],
+  "geometry": {"coordinates":[-92.16726800000001,30.16222],"type":"Point"}
+}

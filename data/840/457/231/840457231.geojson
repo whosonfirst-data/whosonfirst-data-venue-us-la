@@ -1,0 +1,76 @@
+{
+  "id": 840457231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.087429,29.923564,-90.087429,29.923564",
+    "geom:latitude":29.923564,
+    "geom:longitude":-90.087429,
+    "iso:country":"US",
+    "sg:address":"3244 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/39730-reginellis-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 895 7272",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48TlW4joDobRowkeGLMhIC_29.923398_-90.087618@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533587,
+    "wof:geomhash":"d019bd8631e32dea0fa747d1be9b1e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821037,
+            "region_id":85688735,
+            "venue_id":840457231
+        }
+    ],
+    "wof:id":840457231,
+    "wof:lastmodified":1463533587,
+    "wof:name":"Reginelli's Pizzeria",
+    "wof:parent_id":85821037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.087429,
+    29.923564,
+    -90.087429,
+    29.923564
+],
+  "geometry": {"coordinates":[-90.087429,29.923564],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840333889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.50904,30.732097,-90.50904,30.732097",
+    "geom:latitude":30.732097,
+    "geom:longitude":-90.50904,
+    "iso:country":"US",
+    "sg:address":"401 NW Central Ave",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 4350",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pgQWKIv59kpzke9FngNGa_30.732097_-90.509040@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528121,
+    "wof:geomhash":"8ccea3b3d3c57d90f12e0a5340b7798f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840333889
+        }
+    ],
+    "wof:id":840333889,
+    "wof:lastmodified":1463528121,
+    "wof:name":"Amite Car Wash",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.50904,
+    30.732097,
+    -90.50904,
+    30.732097
+],
+  "geometry": {"coordinates":[-90.50904,30.732097],"type":"Point"}
+}

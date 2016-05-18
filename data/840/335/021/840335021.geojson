@@ -1,0 +1,71 @@
+{
+  "id": 840335021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.729664,32.442541,-93.729664,32.442541",
+    "geom:latitude":32.442541,
+    "geom:longitude":-93.729664,
+    "iso:country":"US",
+    "sg:address":"7000 Fern Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 797 3629",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RtNnYjGNpxQjTBM9rm0cl_32.442541_-93.729664@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528175,
+    "wof:geomhash":"a19b487ec898930dc1bbd0d36655de04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840335021
+        }
+    ],
+    "wof:id":840335021,
+    "wof:lastmodified":1463528175,
+    "wof:name":"Haystack Apartments",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.729664,
+    32.442541,
+    -93.729664,
+    32.442541
+],
+  "geometry": {"coordinates":[-93.729664,32.442541],"type":"Point"}
+}

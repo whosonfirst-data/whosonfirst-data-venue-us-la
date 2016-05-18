@@ -1,0 +1,73 @@
+{
+  "id": 840366439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.604485,29.553602,-90.604485,29.553602",
+    "geom:latitude":29.553602,
+    "geom:longitude":-90.604485,
+    "iso:country":"US",
+    "sg:address":"4402 Hwy 24",
+    "sg:city":"Bourg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 594 9588",
+    "sg:postcode":"70343",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948799,
+        102081923,
+        85803459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lCM8kcj1ydp1f8e8eQeqX_29.553602_-90.604485@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529700,
+    "wof:geomhash":"fad85798dd06ea290a89456804cd5157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081923,
+            "locality_id":85948799,
+            "neighbourhood_id":85803459,
+            "region_id":85688735,
+            "venue_id":840366439
+        }
+    ],
+    "wof:id":840366439,
+    "wof:lastmodified":1463529700,
+    "wof:name":"Bourg Volunteer Fire Dept",
+    "wof:parent_id":85803459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.604485,
+    29.553602,
+    -90.604485,
+    29.553602
+],
+  "geometry": {"coordinates":[-90.604485,29.553602],"type":"Point"}
+}

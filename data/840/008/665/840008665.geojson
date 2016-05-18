@@ -1,0 +1,73 @@
+{
+  "id": 840008665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.027431,30.249996,-92.027431,30.249996",
+    "geom:latitude":30.249996,
+    "geom:longitude":-92.027431,
+    "iso:country":"US",
+    "sg:address":"112 Delahoussaye Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 3685",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eleb2TTWl9RFIh2Ns5x5u_30.249996_-92.027431@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519181,
+    "wof:geomhash":"48324f30494442fb7fb691f490c1837e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840008665
+        }
+    ],
+    "wof:id":840008665,
+    "wof:lastmodified":1463519181,
+    "wof:name":"Housing Authority Of Lafayette",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -92.027431,
+    30.249996,
+    -92.027431,
+    30.249996
+],
+  "geometry": {"coordinates":[-92.02743100000001,30.249996],"type":"Point"}
+}

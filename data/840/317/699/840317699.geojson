@@ -1,0 +1,71 @@
+{
+  "id": 840317699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.214095,30.212019,-93.214095,30.212019",
+    "geom:latitude":30.212019,
+    "geom:longitude":-93.214095,
+    "iso:country":"US",
+    "sg:address":"2080 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 9394",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T3iW49iXpmsoNibD22Fv0_30.212019_-93.214095@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527343,
+    "wof:geomhash":"59f44c10d9f50f4e2548f227522ffedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840317699
+        }
+    ],
+    "wof:id":840317699,
+    "wof:lastmodified":1463527343,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.214095,
+    30.212019,
+    -93.214095,
+    30.212019
+],
+  "geometry": {"coordinates":[-93.214095,30.212019],"type":"Point"}
+}

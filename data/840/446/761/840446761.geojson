@@ -1,0 +1,73 @@
+{
+  "id": 840446761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.083187,30.341505,-92.083187,30.341505",
+    "geom:latitude":30.341505,
+    "geom:longitude":-92.083187,
+    "iso:country":"US",
+    "sg:address":"1830 Gendarme Rd",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 5665",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ah6ZgmXYjmiENv8ALBY1G_30.341505_-92.083187@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533154,
+    "wof:geomhash":"13f2654bcd2acff9dabc8d45b2d47e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840446761
+        }
+    ],
+    "wof:id":840446761,
+    "wof:lastmodified":1463533154,
+    "wof:name":"Coffee Hut",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -92.083187,
+    30.341505,
+    -92.083187,
+    30.341505
+],
+  "geometry": {"coordinates":[-92.083187,30.341505],"type":"Point"}
+}

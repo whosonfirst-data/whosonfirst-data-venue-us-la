@@ -1,0 +1,73 @@
+{
+  "id": 840231579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.428832,30.441585,-90.428832,30.441585",
+    "geom:latitude":30.441585,
+    "geom:longitude":-90.428832,
+    "iso:country":"US",
+    "sg:address":"955 E Pine St",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 8244",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jrwT0zqJNTXLwKxEK5vr0_30.441585_-90.428832@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524150,
+    "wof:geomhash":"d7fba6821d780c6501d8cdfa3d1754ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840231579
+        }
+    ],
+    "wof:id":840231579,
+    "wof:lastmodified":1463524150,
+    "wof:name":"Ponchatoula Automotive Svc",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.428832,
+    30.441585,
+    -90.428832,
+    30.441585
+],
+  "geometry": {"coordinates":[-90.428832,30.441585],"type":"Point"}
+}

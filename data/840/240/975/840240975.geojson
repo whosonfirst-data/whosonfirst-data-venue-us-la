@@ -1,0 +1,73 @@
+{
+  "id": 840240975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.217342,30.19061,-93.217342,30.19061",
+    "geom:latitude":30.19061,
+    "geom:longitude":-93.217342,
+    "iso:country":"US",
+    "sg:address":"598 E School St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 9200",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L03SUmTYWi9gZyuGy174h_30.190610_-93.217342@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524385,
+    "wof:geomhash":"b5fe3f550a7c7dac55b4effb7f51f28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840240975
+        }
+    ],
+    "wof:id":840240975,
+    "wof:lastmodified":1463524385,
+    "wof:name":"One Stop Auto Specialist",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.217342,
+    30.19061,
+    -93.217342,
+    30.19061
+],
+  "geometry": {"coordinates":[-93.217342,30.19061],"type":"Point"}
+}

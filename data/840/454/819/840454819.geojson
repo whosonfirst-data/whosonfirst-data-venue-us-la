@@ -1,0 +1,74 @@
+{
+  "id": 840454819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376272,30.222171,-93.376272,30.222171",
+    "geom:latitude":30.222171,
+    "geom:longitude":-93.376272,
+    "iso:country":"US",
+    "sg:address":"1800 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/sulphur/132087-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 0876",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QC7CLK9wkLteEMixzcQdM_30.222171_-93.376272@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533498,
+    "wof:geomhash":"ccae7eeaa4c13829865541d51068dfa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454819
+        }
+    ],
+    "wof:id":840454819,
+    "wof:lastmodified":1463533498,
+    "wof:name":"Subway",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.376272,
+    30.222171,
+    -93.376272,
+    30.222171
+],
+  "geometry": {"coordinates":[-93.376272,30.222171],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840418027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.220343,30.003762,-90.220343,30.003762",
+    "geom:latitude":30.003762,
+    "geom:longitude":-90.220343,
+    "iso:country":"US",
+    "sg:address":"2912 David Dr",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 455 5000",
+    "sg:postcode":"70003",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HBd89P7ZiwuQPsvRnRJmO_30.003762_-90.220343@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531946,
+    "wof:geomhash":"9eb6ebf5ccac59511b6c95328047eb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840418027
+        }
+    ],
+    "wof:id":840418027,
+    "wof:lastmodified":1463531946,
+    "wof:name":"Super Cleaners Inc",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.220343,
+    30.003762,
+    -90.220343,
+    30.003762
+],
+  "geometry": {"coordinates":[-90.220343,30.003762],"type":"Point"}
+}

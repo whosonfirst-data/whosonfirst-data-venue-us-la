@@ -1,0 +1,68 @@
+{
+  "id": 840122547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.100447,30.025356,-90.100447,30.025356",
+    "geom:latitude":30.025356,
+    "geom:longitude":-90.100447,
+    "iso:country":"US",
+    "sg:address":"984 Topaz St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 288 8228",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MSatW1WEULDNRME8bV8Zz_30.025356_-90.100447@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521698,
+    "wof:geomhash":"9dc6968907505151da9aa741447c7fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829329,
+            "region_id":85688735,
+            "venue_id":840122547
+        }
+    ],
+    "wof:id":840122547,
+    "wof:lastmodified":1463521698,
+    "wof:name":"Bike New Orleans",
+    "wof:parent_id":85829329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.100447,
+    30.025356,
+    -90.100447,
+    30.025356
+],
+  "geometry": {"coordinates":[-90.100447,30.025356],"type":"Point"}
+}

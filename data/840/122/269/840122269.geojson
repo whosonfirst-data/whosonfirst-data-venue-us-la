@@ -1,0 +1,75 @@
+{
+  "id": 840122269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.12146,30.582821,-91.12146,30.582821",
+    "geom:latitude":30.582821,
+    "geom:longitude":-91.12146,
+    "iso:country":"US",
+    "sg:address":"6829 Laurel Hill Ave",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 802 4706",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EQsj3GKHwTA4TdP4Lsfoy_30.582821_-91.121460@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521689,
+    "wof:geomhash":"a548bddf5dbda0ae854499f6f0e4617a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840122269
+        }
+    ],
+    "wof:id":840122269,
+    "wof:lastmodified":1463521689,
+    "wof:name":"John's Mobile Car Wash",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -91.12146,
+    30.582821,
+    -91.12146,
+    30.582821
+],
+  "geometry": {"coordinates":[-91.12146,30.582821],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840452855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.089462,29.895622,-90.089462,29.895622",
+    "geom:latitude":29.895622,
+    "geom:longitude":-90.089462,
+    "iso:country":"US",
+    "sg:address":"3950 Westbank Expy",
+    "sg:city":"Harvey",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bridge-city/197422-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 347 5749",
+    "sg:postcode":"70058",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948745,
+        102083179,
+        85866117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zWHj2kjjNvyYKsbboT9X1_29.895622_-90.089462@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533418,
+    "wof:geomhash":"591bb0acf75331f14990539873934e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866117,
+            "region_id":85688735,
+            "venue_id":840452855
+        }
+    ],
+    "wof:id":840452855,
+    "wof:lastmodified":1463533418,
+    "wof:name":"Burger King",
+    "wof:parent_id":85866117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.089462,
+    29.895622,
+    -90.089462,
+    29.895622
+],
+  "geometry": {"coordinates":[-90.089462,29.895622],"type":"Point"}
+}

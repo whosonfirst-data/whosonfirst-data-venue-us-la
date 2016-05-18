@@ -1,0 +1,75 @@
+{
+  "id": 840431649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.177115,30.020506,-90.177115,30.020506",
+    "geom:latitude":30.020506,
+    "geom:longitude":-90.177115,
+    "iso:country":"US",
+    "sg:address":"4008 Rivage Ct",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 454 2963",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N0dodsh5LqWVYSuWi1RBK_30.020506_-90.177115@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532524,
+    "wof:geomhash":"3836020275bf1b6fcc6a969e2321ec3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840431649
+        }
+    ],
+    "wof:id":840431649,
+    "wof:lastmodified":1463532524,
+    "wof:name":"Michael Berger MD",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.177115,
+    30.020506,
+    -90.177115,
+    30.020506
+],
+  "geometry": {"coordinates":[-90.177115,30.020506],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840330805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.985832,32.868015,-93.985832,32.868015",
+    "geom:latitude":32.868015,
+    "geom:longitude":-93.985832,
+    "iso:country":"US",
+    "sg:address":"222 E California Ave",
+    "sg:city":"Vivian",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 375 3031",
+    "sg:postcode":"71082",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TCsre6hN41tfByZ8g8d9p_32.868015_-93.985832@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527980,
+    "wof:geomhash":"db571bf556a08ecdff04082a19b035c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840330805
+        }
+    ],
+    "wof:id":840330805,
+    "wof:lastmodified":1463527980,
+    "wof:name":"Edwards Electric & Air Cond",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.985832,
+    32.868015,
+    -93.985832,
+    32.868015
+],
+  "geometry": {"coordinates":[-93.985832,32.868015],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840381499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.999245,30.241217,-91.999245,30.241217",
+    "geom:latitude":30.241217,
+    "geom:longitude":-91.999245,
+    "iso:country":"US",
+    "sg:address":"223 Arizona St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 266 9855",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OGZB1YarUJRq3k6UowfBw_30.241217_-91.999245@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530410,
+    "wof:geomhash":"b04846bcb899d484fb1dbcfbae35ddbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840381499
+        }
+    ],
+    "wof:id":840381499,
+    "wof:lastmodified":1463530410,
+    "wof:name":"On Go Car Washing",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.999245,
+    30.241217,
+    -91.999245,
+    30.241217
+],
+  "geometry": {"coordinates":[-91.999245,30.241217],"type":"Point"}
+}

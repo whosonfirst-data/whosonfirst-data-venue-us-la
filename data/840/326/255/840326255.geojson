@@ -1,0 +1,75 @@
+{
+  "id": 840326255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.129638,29.986642,-90.129638,29.986642",
+    "geom:latitude":29.986642,
+    "geom:longitude":-90.129638,
+    "iso:country":"US",
+    "sg:address":"519 Metairie Rd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 838 6000",
+    "sg:postcode":"70005",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948743,
+        102083179,
+        85866149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wONh5GAktSsptKGIXjupN_29.986642_-90.129638@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527777,
+    "wof:geomhash":"36346344875a9b1cc51d51604c88d096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":85866149,
+            "region_id":85688735,
+            "venue_id":840326255
+        }
+    ],
+    "wof:id":840326255,
+    "wof:lastmodified":1463527777,
+    "wof:name":"St John Medical Ctr",
+    "wof:parent_id":85866149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.129638,
+    29.986642,
+    -90.129638,
+    29.986642
+],
+  "geometry": {"coordinates":[-90.129638,29.986642],"type":"Point"}
+}

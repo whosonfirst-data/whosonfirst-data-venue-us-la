@@ -1,0 +1,73 @@
+{
+  "id": 840088483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.463069,31.264298,-92.463069,31.264298",
+    "geom:latitude":31.264298,
+    "geom:longitude":-92.463069,
+    "iso:country":"US",
+    "sg:address":"2602 Culpepper Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 448 0014",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a64xIufXR9wi2MsHymUiK_31.264298_-92.463069@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520993,
+    "wof:geomhash":"0bcf97060cb63d4374321df8381a95f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840088483
+        }
+    ],
+    "wof:id":840088483,
+    "wof:lastmodified":1463520993,
+    "wof:name":"Added Storage",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -92.463069,
+    31.264298,
+    -92.463069,
+    31.264298
+],
+  "geometry": {"coordinates":[-92.463069,31.264298],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840266791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.819591,30.007285,-91.819591,30.007285",
+    "geom:latitude":30.007285,
+    "geom:longitude":-91.819591,
+    "iso:country":"US",
+    "sg:address":"232 W Main St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 9400",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fiZhsr83jCd8gCOGHNonX_30.007285_-91.819591@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525012,
+    "wof:geomhash":"2e9d97f11f1721089ee2a5aa63394778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840266791
+        }
+    ],
+    "wof:id":840266791,
+    "wof:lastmodified":1463525012,
+    "wof:name":"Light Master Electric Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.819591,
+    30.007285,
+    -91.819591,
+    30.007285
+],
+  "geometry": {"coordinates":[-91.819591,30.007285],"type":"Point"}
+}

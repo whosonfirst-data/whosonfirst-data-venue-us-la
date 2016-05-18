@@ -1,0 +1,71 @@
+{
+  "id": 840330591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.057619,30.170747,-92.057619,30.170747",
+    "geom:latitude":30.170747,
+    "geom:longitude":-92.057619,
+    "iso:country":"US",
+    "sg:address":"500 Dover Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 761 7070",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FLYKTZUq38MvwyQVtH1tb_30.170747_-92.057619@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527971,
+    "wof:geomhash":"1128f8539f8ca436704d2dcfdb63aefe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840330591
+        }
+    ],
+    "wof:id":840330591,
+    "wof:lastmodified":1463527971,
+    "wof:name":"Balhoff Orthodontics",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.057619,
+    30.170747,
+    -92.057619,
+    30.170747
+],
+  "geometry": {"coordinates":[-92.057619,30.170747],"type":"Point"}
+}

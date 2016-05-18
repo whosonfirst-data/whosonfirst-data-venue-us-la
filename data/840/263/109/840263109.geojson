@@ -1,0 +1,73 @@
+{
+  "id": 840263109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.14058,29.902567,-90.14058,29.902567",
+    "geom:latitude":29.902567,
+    "geom:longitude":-90.14058,
+    "iso:country":"US",
+    "sg:address":"918 6th St",
+    "sg:city":"Westwego",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 341 2525",
+    "sg:postcode":"70094",
+    "sg:province":"LA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948745,
+        102083179,
+        85866123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62JMuARnFQH9Pt1wgigLg9_29.902567_-90.140580@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524877,
+    "wof:geomhash":"20a99c3fc6040c67d67f39bbc2faaa85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866123,
+            "region_id":85688735,
+            "venue_id":840263109
+        }
+    ],
+    "wof:id":840263109,
+    "wof:lastmodified":1463524877,
+    "wof:name":"Westwego Emergency Medical Svc",
+    "wof:parent_id":85866123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -90.14058,
+    29.902567,
+    -90.14058,
+    29.902567
+],
+  "geometry": {"coordinates":[-90.14058,29.902567],"type":"Point"}
+}

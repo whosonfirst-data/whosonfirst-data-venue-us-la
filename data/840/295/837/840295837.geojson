@@ -1,0 +1,74 @@
+{
+  "id": 840295837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.370412,30.231115,-93.370412,30.231115",
+    "geom:latitude":30.231115,
+    "geom:longitude":-93.370412,
+    "iso:country":"US",
+    "sg:address":"600 Cypress St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 6371",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.thepediatriccenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LpWoFC2aYVAlufrMhDlt7_30.231115_-93.370412@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526312,
+    "wof:geomhash":"39a2d42344041de9b698df050a3ec3f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840295837
+        }
+    ],
+    "wof:id":840295837,
+    "wof:lastmodified":1463526312,
+    "wof:name":"Pediatric Center Of Sw LA",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.370412,
+    30.231115,
+    -93.370412,
+    30.231115
+],
+  "geometry": {"coordinates":[-93.370412,30.231115],"type":"Point"}
+}

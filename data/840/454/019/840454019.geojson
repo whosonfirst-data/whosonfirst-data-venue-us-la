@@ -1,0 +1,74 @@
+{
+  "id": 840454019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.765215,30.249643,-89.765215,30.249643",
+    "geom:latitude":30.249643,
+    "geom:longitude":-89.765215,
+    "iso:country":"US",
+    "sg:address":"2006 Old Spanish Trl",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/slidell/136408-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 847 0200",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85850405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jJfoEaOmSAylYWFx1bYDa_30.249643_-89.765215@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533469,
+    "wof:geomhash":"6450b4064cba00b9782cad87e9a8cf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85850405,
+            "region_id":85688735,
+            "venue_id":840454019
+        }
+    ],
+    "wof:id":840454019,
+    "wof:lastmodified":1463533469,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85850405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.765215,
+    30.249643,
+    -89.765215,
+    30.249643
+],
+  "geometry": {"coordinates":[-89.765215,30.249643],"type":"Point"}
+}

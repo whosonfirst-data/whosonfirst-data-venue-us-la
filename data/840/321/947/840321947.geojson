@@ -1,0 +1,73 @@
+{
+  "id": 840321947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.203142,30.298919,-93.203142,30.298919",
+    "geom:latitude":30.298919,
+    "geom:longitude":-93.203142,
+    "iso:country":"US",
+    "sg:address":"166 School St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 7250",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DUEJHHpcrYHM6Jbu6u80K_30.298919_-93.203142@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527552,
+    "wof:geomhash":"ebbb00ff9606306b930f47c0563bc5c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840321947
+        }
+    ],
+    "wof:id":840321947,
+    "wof:lastmodified":1463527552,
+    "wof:name":"Water Works District 1",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -93.203142,
+    30.298919,
+    -93.203142,
+    30.298919
+],
+  "geometry": {"coordinates":[-93.203142,30.298919],"type":"Point"}
+}

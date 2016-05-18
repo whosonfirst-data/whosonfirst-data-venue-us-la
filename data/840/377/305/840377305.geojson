@@ -1,0 +1,73 @@
+{
+  "id": 840377305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.121431,29.900773,-90.121431,29.900773",
+    "geom:latitude":29.900773,
+    "geom:longitude":-90.121431,
+    "iso:country":"US",
+    "sg:address":"6819 4th St",
+    "sg:city":"Marrero",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 341 1165",
+    "sg:postcode":"70072",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948745,
+        102083179,
+        85866123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zrrJWXir4taBYFFv3xL6t_29.900773_-90.121431@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530237,
+    "wof:geomhash":"9491eb3d206653086ee67814ee74cc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866123,
+            "region_id":85688735,
+            "venue_id":840377305
+        }
+    ],
+    "wof:id":840377305,
+    "wof:lastmodified":1463530237,
+    "wof:name":"Action Transmission",
+    "wof:parent_id":85866123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.121431,
+    29.900773,
+    -90.121431,
+    29.900773
+],
+  "geometry": {"coordinates":[-90.121431,29.900773],"type":"Point"}
+}

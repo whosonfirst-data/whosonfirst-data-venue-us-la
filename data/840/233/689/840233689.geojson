@@ -1,0 +1,71 @@
+{
+  "id": 840233689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.112512,32.503618,-92.112512,32.503618",
+    "geom:latitude":32.503618,
+    "geom:longitude":-92.112512,
+    "iso:country":"US",
+    "sg:address":"517 Harrison St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 387 7525",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qjXbczVqqUGEWvG1ximEi_32.503618_-92.112512@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524213,
+    "wof:geomhash":"a798343461245ab74f0e7ac263c7cd05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840233689
+        }
+    ],
+    "wof:id":840233689,
+    "wof:lastmodified":1463524213,
+    "wof:name":"Velocity Express Inc",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -92.112512,
+    32.503618,
+    -92.112512,
+    32.503618
+],
+  "geometry": {"coordinates":[-92.112512,32.503618],"type":"Point"}
+}

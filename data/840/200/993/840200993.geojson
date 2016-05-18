@@ -1,0 +1,73 @@
+{
+  "id": 840200993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.577016,30.200142,-93.577016,30.200142",
+    "geom:latitude":30.200142,
+    "geom:longitude":-93.577016,
+    "iso:country":"US",
+    "sg:address":"809 Industrial St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 4748",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00lzVsEvEfrr403x1UF9Ai_30.200142_-93.577016@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523364,
+    "wof:geomhash":"9afb6c25071c4d650850dd21074dd8a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840200993
+        }
+    ],
+    "wof:id":840200993,
+    "wof:lastmodified":1463523364,
+    "wof:name":"Precision Electric",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.577016,
+    30.200142,
+    -93.577016,
+    30.200142
+],
+  "geometry": {"coordinates":[-93.577016,30.200142],"type":"Point"}
+}

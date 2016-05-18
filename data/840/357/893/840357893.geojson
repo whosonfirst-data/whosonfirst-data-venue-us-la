@@ -1,0 +1,72 @@
+{
+  "id": 840357893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.10363,32.470529,-92.10363,32.470529",
+    "geom:latitude":32.470529,
+    "geom:longitude":-92.10363,
+    "iso:country":"US",
+    "sg:address":"800 Thomas Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 651 0404",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.iesi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85822879,
+        102081027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sG4vKgWF2buXyHMIcYOkD_32.470529_-92.103630@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529291,
+    "wof:geomhash":"32f45ef8fcc4d4ac67945c872dfd33cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "neighbourhood_id":85822879,
+            "region_id":85688735,
+            "venue_id":840357893
+        }
+    ],
+    "wof:id":840357893,
+    "wof:lastmodified":1463529291,
+    "wof:name":"IESI",
+    "wof:parent_id":85822879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -92.10363,
+    32.470529,
+    -92.10363,
+    32.470529
+],
+  "geometry": {"coordinates":[-92.10363,32.470529],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840423329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.109439,32.484489,-92.109439,32.484489",
+    "geom:latitude":32.484489,
+    "geom:longitude":-92.109439,
+    "iso:country":"US",
+    "sg:address":"2019 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 387 9341",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "sg:website":"www.monroewarehouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13Dere1mMrYVlTsGhkSrm1_32.484489_-92.109439@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532163,
+    "wof:geomhash":"572bc6b93da9929eaf8fd047d0b8111a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840423329
+        }
+    ],
+    "wof:id":840423329,
+    "wof:lastmodified":1463532163,
+    "wof:name":"Monroe Warehouse Co",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -92.109439,
+    32.484489,
+    -92.109439,
+    32.484489
+],
+  "geometry": {"coordinates":[-92.10943899999999,32.484489],"type":"Point"}
+}

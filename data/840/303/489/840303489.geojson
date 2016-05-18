@@ -1,0 +1,75 @@
+{
+  "id": 840303489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.207977,29.972291,-90.207977,29.972291",
+    "geom:latitude":29.972291,
+    "geom:longitude":-90.207977,
+    "iso:country":"US",
+    "sg:address":"2100 Sawmill Rd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 734 1071",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_273AFc0WrCWkvnSv3FW8P7_29.972291_-90.207977@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526698,
+    "wof:geomhash":"f7cadfbe067676940984860c82ea9413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840303489
+        }
+    ],
+    "wof:id":840303489,
+    "wof:lastmodified":1463526698,
+    "wof:name":"Sawmill Creek Apts",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.207977,
+    29.972291,
+    -90.207977,
+    29.972291
+],
+  "geometry": {"coordinates":[-90.207977,29.972291],"type":"Point"}
+}

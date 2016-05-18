@@ -1,0 +1,71 @@
+{
+  "id": 840292069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.0495,30.316304,-92.0495,30.316304",
+    "geom:latitude":30.316304,
+    "geom:longitude":-92.0495,
+    "iso:country":"US",
+    "sg:address":"4201 N University Ave",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 4045",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aqHe9TvcLZQLrhAVai69i_30.316304_-92.049500@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526154,
+    "wof:geomhash":"571dde8f65093d90e285e5eed286682d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840292069
+        }
+    ],
+    "wof:id":840292069,
+    "wof:lastmodified":1463526154,
+    "wof:name":"Carencro Family Clinic",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.0495,
+    30.316304,
+    -92.0495,
+    30.316304
+],
+  "geometry": {"coordinates":[-92.04949999999999,30.316304],"type":"Point"}
+}

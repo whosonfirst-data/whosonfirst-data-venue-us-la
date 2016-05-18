@@ -1,0 +1,71 @@
+{
+  "id": 840432355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.42711,30.445919,-93.42711,30.445919",
+    "geom:latitude":30.445919,
+    "geom:longitude":-93.42711,
+    "iso:country":"US",
+    "sg:address":"500 S Grand Ave",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 2057",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DfUcXewc2LaKILprzA0rE_30.445919_-93.427110@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532561,
+    "wof:geomhash":"27d163922429dda82fe4076845449957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840432355
+        }
+    ],
+    "wof:id":840432355,
+    "wof:lastmodified":1463532561,
+    "wof:name":"Calcasieu Parish Sheriff Dept",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -93.42711,
+    30.445919,
+    -93.42711,
+    30.445919
+],
+  "geometry": {"coordinates":[-93.42711,30.445919],"type":"Point"}
+}

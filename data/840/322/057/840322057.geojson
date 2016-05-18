@@ -1,0 +1,73 @@
+{
+  "id": 840322057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.052321,29.928241,-90.052321,29.928241",
+    "geom:latitude":29.928241,
+    "geom:longitude":-90.052321,
+    "iso:country":"US",
+    "sg:address":"501 Anson St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 363 1595",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YYvjPTcO9HGXZDUAsQnZO_29.928241_-90.052321@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527557,
+    "wof:geomhash":"233ddb1399a8f8be2de04f6b7596f32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840322057
+        }
+    ],
+    "wof:id":840322057,
+    "wof:lastmodified":1463527557,
+    "wof:name":"Gould Volunteer Fire Dept",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.052321,
+    29.928241,
+    -90.052321,
+    29.928241
+],
+  "geometry": {"coordinates":[-90.05232100000001,29.928241],"type":"Point"}
+}

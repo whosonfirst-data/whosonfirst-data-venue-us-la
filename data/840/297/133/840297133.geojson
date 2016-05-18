@@ -1,0 +1,71 @@
+{
+  "id": 840297133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.107316,30.204181,-92.107316,30.204181",
+    "geom:latitude":30.204181,
+    "geom:longitude":-92.107316,
+    "iso:country":"US",
+    "sg:address":"105 Appaloosa St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 6824",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KMKtDa2Am2w8BOLGpgzDF_30.204181_-92.107316@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526368,
+    "wof:geomhash":"c72f1a631306e09e72d331cb27f7d1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840297133
+        }
+    ],
+    "wof:id":840297133,
+    "wof:lastmodified":1463526368,
+    "wof:name":"Alexander Furniture Movers",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -92.107316,
+    30.204181,
+    -92.107316,
+    30.204181
+],
+  "geometry": {"coordinates":[-92.107316,30.204181],"type":"Point"}
+}

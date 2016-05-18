@@ -1,0 +1,73 @@
+{
+  "id": 840397415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.049015,29.988448,-90.049015,29.988448",
+    "geom:latitude":29.988448,
+    "geom:longitude":-90.049015,
+    "iso:country":"US",
+    "sg:address":"2909 Franklin Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 942 5999",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qUoUPlj0ftS4xYVRrsns5_29.988448_-90.049015@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531109,
+    "wof:geomhash":"8c909d4d0384a7492508668dd3d678b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866099,
+            "region_id":85688735,
+            "venue_id":840397415
+        }
+    ],
+    "wof:id":840397415,
+    "wof:lastmodified":1463531109,
+    "wof:name":"Probation & Parole Office",
+    "wof:parent_id":85866099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -90.049015,
+    29.988448,
+    -90.049015,
+    29.988448
+],
+  "geometry": {"coordinates":[-90.049015,29.988448],"type":"Point"}
+}

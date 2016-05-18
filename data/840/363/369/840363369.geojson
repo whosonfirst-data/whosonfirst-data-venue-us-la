@@ -1,0 +1,71 @@
+{
+  "id": 840363369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.102548,29.664689,-91.102548,29.664689",
+    "geom:latitude":29.664689,
+    "geom:longitude":-91.102548,
+    "iso:country":"US",
+    "sg:address":"609 Lake Palourde Rd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 631 2883",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A2GAG7ifY8wIcUUk0k2ND_29.664689_-91.102548@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529536,
+    "wof:geomhash":"540b47e9333384e255d2491f52f4746b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840363369
+        }
+    ],
+    "wof:id":840363369,
+    "wof:lastmodified":1463529536,
+    "wof:name":"Amelia Volunteer Fire Dept",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.102548,
+    29.664689,
+    -91.102548,
+    29.664689
+],
+  "geometry": {"coordinates":[-91.102548,29.664689],"type":"Point"}
+}

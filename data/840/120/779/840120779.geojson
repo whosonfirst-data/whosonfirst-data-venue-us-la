@@ -1,0 +1,73 @@
+{
+  "id": 840120779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.091994,29.971491,-90.091994,29.971491",
+    "geom:latitude":29.971491,
+    "geom:longitude":-90.091994,
+    "iso:country":"US",
+    "sg:address":"3333 Bienville St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 822 6336",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WKsZ5XcNF1ySIIGv7GLrA_29.971491_-90.091994@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521654,
+    "wof:geomhash":"7d66ab8d423904078850dc0c30d34329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840120779
+        }
+    ],
+    "wof:id":840120779,
+    "wof:lastmodified":1463521654,
+    "wof:name":"Bienville Kidney Ctr",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.091994,
+    29.971491,
+    -90.091994,
+    29.971491
+],
+  "geometry": {"coordinates":[-90.091994,29.971491],"type":"Point"}
+}

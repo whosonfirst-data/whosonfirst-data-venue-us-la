@@ -1,0 +1,71 @@
+{
+  "id": 840310149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.189385,30.194803,-93.189385,30.194803",
+    "geom:latitude":30.194803,
+    "geom:longitude":-93.189385,
+    "iso:country":"US",
+    "sg:address":"3412 5th Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 480 1140",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yEePW0wjsGQCvPl2L8xT8_30.194803_-93.189385@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527009,
+    "wof:geomhash":"359c76b652a6d11efee6b8fa9792593e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840310149
+        }
+    ],
+    "wof:id":840310149,
+    "wof:lastmodified":1463527009,
+    "wof:name":"Everything's A Buck",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.189385,
+    30.194803,
+    -93.189385,
+    30.194803
+],
+  "geometry": {"coordinates":[-93.189385,30.194803],"type":"Point"}
+}

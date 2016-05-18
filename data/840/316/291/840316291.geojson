@@ -1,0 +1,71 @@
+{
+  "id": 840316291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.215565,30.230531,-93.215565,30.230531",
+    "geom:latitude":30.230531,
+    "geom:longitude":-93.215565,
+    "iso:country":"US",
+    "sg:address":"313 Division St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 566 3533",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N9jvMkhFEFODR23XLalmW_30.230531_-93.215565@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527274,
+    "wof:geomhash":"14dc5d493d8a48fdae33278c23a93360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840316291
+        }
+    ],
+    "wof:id":840316291,
+    "wof:lastmodified":1463527274,
+    "wof:name":"St Landry EMS",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -93.215565,
+    30.230531,
+    -93.215565,
+    30.230531
+],
+  "geometry": {"coordinates":[-93.215565,30.230531],"type":"Point"}
+}

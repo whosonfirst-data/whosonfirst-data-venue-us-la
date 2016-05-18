@@ -1,0 +1,76 @@
+{
+  "id": 840456169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.798703,32.474285,-93.798703,32.474285",
+    "geom:latitude":32.474285,
+    "geom:longitude":-93.798703,
+    "iso:country":"US",
+    "sg:address":"3705 Greenwood Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/shreveport/132143-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 635 9116",
+    "sg:postcode":"71109",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85881003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AdjAe7aW8rUnIq2FqayQW_32.474285_-93.798703@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533544,
+    "wof:geomhash":"75689d8959aae6ca0b8ef3bcf61f55d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85881003,
+            "region_id":85688735,
+            "venue_id":840456169
+        }
+    ],
+    "wof:id":840456169,
+    "wof:lastmodified":1463533544,
+    "wof:name":"Subway",
+    "wof:parent_id":85881003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.798703,
+    32.474285,
+    -93.798703,
+    32.474285
+],
+  "geometry": {"coordinates":[-93.798703,32.474285],"type":"Point"}
+}

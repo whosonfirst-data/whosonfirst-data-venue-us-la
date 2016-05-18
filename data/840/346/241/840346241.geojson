@@ -1,0 +1,73 @@
+{
+  "id": 840346241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.735243,32.696852,-93.735243,32.696852",
+    "geom:latitude":32.696852,
+    "geom:longitude":-93.735243,
+    "iso:country":"US",
+    "sg:address":"608 5th St",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 965 0091",
+    "sg:postcode":"71006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85808045,
+        102084883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Od9PIvTynGShze1QPduMr_32.696852_-93.735243@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528710,
+    "wof:geomhash":"17945477952f2fcbaaa81ea7de9e790e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "neighbourhood_id":85808045,
+            "region_id":85688735,
+            "venue_id":840346241
+        }
+    ],
+    "wof:id":840346241,
+    "wof:lastmodified":1463528710,
+    "wof:name":"Benton Auto Collision Inc",
+    "wof:parent_id":85808045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.735243,
+    32.696852,
+    -93.735243,
+    32.696852
+],
+  "geometry": {"coordinates":[-93.735243,32.696852],"type":"Point"}
+}

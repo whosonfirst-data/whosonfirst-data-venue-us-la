@@ -1,0 +1,71 @@
+{
+  "id": 840143965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.205497,30.183541,-93.205497,30.183541",
+    "geom:latitude":30.183541,
+    "geom:longitude":-93.205497,
+    "iso:country":"US",
+    "sg:address":"4119 Louisiana Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 2191",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y4309uPaVaaVaQSNp3oNw_30.183541_-93.205497@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522125,
+    "wof:geomhash":"bd64e7b1ddc1573137459c4789460cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840143965
+        }
+    ],
+    "wof:id":840143965,
+    "wof:lastmodified":1463522125,
+    "wof:name":"C & G Grocery Store",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.205497,
+    30.183541,
+    -93.205497,
+    30.183541
+],
+  "geometry": {"coordinates":[-93.20549699999999,30.183541],"type":"Point"}
+}

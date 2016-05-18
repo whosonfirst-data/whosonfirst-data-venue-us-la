@@ -1,0 +1,75 @@
+{
+  "id": 840430563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.815803,29.998578,-91.815803,29.998578",
+    "geom:latitude":29.998578,
+    "geom:longitude":-91.815803,
+    "iso:country":"US",
+    "sg:address":"601 E Pershing St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 9600",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47nANiTLy4j0oG0bYH0yK8_29.998578_-91.815803@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532469,
+    "wof:geomhash":"89ce49e84da395d273787a50c33846f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840430563
+        }
+    ],
+    "wof:id":840430563,
+    "wof:lastmodified":1463532469,
+    "wof:name":"M R Bradley Trucking",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.815803,
+    29.998578,
+    -91.815803,
+    29.998578
+],
+  "geometry": {"coordinates":[-91.815803,29.998578],"type":"Point"}
+}

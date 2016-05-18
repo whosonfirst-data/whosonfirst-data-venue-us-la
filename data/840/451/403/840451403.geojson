@@ -1,0 +1,81 @@
+{
+  "id": 840451403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.038716,29.925026,-90.038716,29.925026",
+    "geom:latitude":29.925026,
+    "geom:longitude":-90.038716,
+    "iso:country":"US",
+    "sg:address":"50 Terry Pkwy",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 368 5600",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:website":"www.lq.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kSC5VQjrkofL7qUeNWibI_29.924802_-90.038656@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533361,
+    "wof:geomhash":"e0aa7daa42ffb8352671f73eff1ba7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":840451403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840451403
+        }
+    ],
+    "wof:id":840451403,
+    "wof:lastmodified":1463533361,
+    "wof:name":"La Quinta Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.038716,
+    29.925026,
+    -90.038716,
+    29.925026
+],
+  "geometry": {"coordinates":[-90.03871599999999,29.925026],"type":"Point"}
+}

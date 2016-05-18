@@ -1,0 +1,77 @@
+{
+  "id": 840053491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.077364,29.952693,-90.077364,29.952693",
+    "geom:latitude":29.952693,
+    "geom:longitude":-90.077364,
+    "iso:country":"US",
+    "sg:address":"1300 Perdido St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 565 8100",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ipxJYJnhYeoSK9F6slJ2R_29.952693_-90.077364@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520117,
+    "wof:geomhash":"fd1ae59be3fc06939b36ff8e66b195ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866107,
+            "region_id":85688735,
+            "venue_id":840053491
+        }
+    ],
+    "wof:id":840053491,
+    "wof:lastmodified":1463520117,
+    "wof:name":"New Orleans Urban Development",
+    "wof:parent_id":85866107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -90.077364,
+    29.952693,
+    -90.077364,
+    29.952693
+],
+  "geometry": {"coordinates":[-90.077364,29.952693],"type":"Point"}
+}

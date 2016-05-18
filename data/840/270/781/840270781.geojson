@@ -1,0 +1,71 @@
+{
+  "id": 840270781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.825695,30.005089,-91.825695,30.005089",
+    "geom:latitude":30.005089,
+    "geom:longitude":-91.825695,
+    "iso:country":"US",
+    "sg:address":"531 Jefferson St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 560 0880",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PvwGAOAXBQUyUFP0WVvd9_30.005089_-91.825695@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525213,
+    "wof:geomhash":"20ac30ef9950c15f68ffbc5ed31ad2e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840270781
+        }
+    ],
+    "wof:id":840270781,
+    "wof:lastmodified":1463525213,
+    "wof:name":"Headache & Pain Ctr",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.825695,
+    30.005089,
+    -91.825695,
+    30.005089
+],
+  "geometry": {"coordinates":[-91.825695,30.005089],"type":"Point"}
+}

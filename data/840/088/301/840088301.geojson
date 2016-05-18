@@ -1,0 +1,73 @@
+{
+  "id": 840088301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359313,30.245995,-93.359313,30.245995",
+    "geom:latitude":30.245995,
+    "geom:longitude":-93.359313,
+    "iso:country":"US",
+    "sg:address":"916 N Beglis Pkwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 4444",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HapqSrXDD3qFuLU0mxczv_30.245995_-93.359313@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520990,
+    "wof:geomhash":"a024abfa6b0b22b53cd7e8c0885d8b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840088301
+        }
+    ],
+    "wof:id":840088301,
+    "wof:lastmodified":1463520990,
+    "wof:name":"Louisiana Sew-Vac Sales & Svc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -93.359313,
+    30.245995,
+    -93.359313,
+    30.245995
+],
+  "geometry": {"coordinates":[-93.359313,30.245995],"type":"Point"}
+}

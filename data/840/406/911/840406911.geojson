@@ -1,0 +1,78 @@
+{
+  "id": 840406911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.073794,30.178806,-92.073794,30.178806",
+    "geom:latitude":30.178806,
+    "geom:longitude":-92.073794,
+    "iso:country":"US",
+    "sg:address":"5425 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 2365",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ouPqEwjgUu09TWqHTOW6m_30.178806_-92.073794@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531493,
+    "wof:geomhash":"129ba85ed85a9a1dba332c9d6577b701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840406911
+        }
+    ],
+    "wof:id":840406911,
+    "wof:lastmodified":1463531493,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -92.073794,
+    30.178806,
+    -92.073794,
+    30.178806
+],
+  "geometry": {"coordinates":[-92.07379400000001,30.178806],"type":"Point"}
+}

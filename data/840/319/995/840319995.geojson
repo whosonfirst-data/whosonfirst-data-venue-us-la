@@ -1,0 +1,71 @@
+{
+  "id": 840319995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.202976,30.244619,-93.202976,30.244619",
+    "geom:latitude":30.244619,
+    "geom:longitude":-93.202976,
+    "iso:country":"US",
+    "sg:address":"1200 Gieffers St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 6568",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X7fi3BZx7HR0knkKCNg6z_30.244619_-93.202976@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527460,
+    "wof:geomhash":"ded7d9eccf7b3b6b81e998da0da03b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840319995
+        }
+    ],
+    "wof:id":840319995,
+    "wof:lastmodified":1463527460,
+    "wof:name":"Independent Cab",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -93.202976,
+    30.244619,
+    -93.202976,
+    30.244619
+],
+  "geometry": {"coordinates":[-93.20297600000001,30.244619],"type":"Point"}
+}

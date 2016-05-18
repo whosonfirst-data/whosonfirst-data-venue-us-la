@@ -1,0 +1,71 @@
+{
+  "id": 840078033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.111797,32.49931,-92.111797,32.49931",
+    "geom:latitude":32.49931,
+    "geom:longitude":-92.111797,
+    "iso:country":"US",
+    "sg:address":"411 Calypso St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 327 1900",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jxEOCNNZslbAJMoH2sGxl_32.499310_-92.111797@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520640,
+    "wof:geomhash":"a8b8436f63a88265e9e3960595f96089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840078033
+        }
+    ],
+    "wof:id":840078033,
+    "wof:lastmodified":1463520640,
+    "wof:name":"Northeast Louisiana Cancer",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.111797,
+    32.49931,
+    -92.111797,
+    32.49931
+],
+  "geometry": {"coordinates":[-92.111797,32.49931],"type":"Point"}
+}

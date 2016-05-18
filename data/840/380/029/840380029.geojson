@@ -1,0 +1,71 @@
+{
+  "id": 840380029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249196,30.176725,-93.249196,30.176725",
+    "geom:latitude":30.176725,
+    "geom:longitude":-93.249196,
+    "iso:country":"US",
+    "sg:address":"4451 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 1186",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_516fRV7An9aTX3NrSUq3qT_30.176725_-93.249196@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530349,
+    "wof:geomhash":"58014a4503a1164091fbbbe39c6fbe49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840380029
+        }
+    ],
+    "wof:id":840380029,
+    "wof:lastmodified":1463530349,
+    "wof:name":"Plaza Treatment Ctr",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.249196,
+    30.176725,
+    -93.249196,
+    30.176725
+],
+  "geometry": {"coordinates":[-93.249196,30.176725],"type":"Point"}
+}

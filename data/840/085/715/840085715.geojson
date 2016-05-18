@@ -1,0 +1,75 @@
+{
+  "id": 840085715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.180227,30.007205,-90.180227,30.007205",
+    "geom:latitude":30.007205,
+    "geom:longitude":-90.180227,
+    "iso:country":"US",
+    "sg:address":"3640 Houma Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 454 1885",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DiIXUbbHG3HSHOi1Izva8_30.007205_-90.180227@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520928,
+    "wof:geomhash":"50c1973237a1c704b0c8746348f9c8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840085715
+        }
+    ],
+    "wof:id":840085715,
+    "wof:lastmodified":1463520928,
+    "wof:name":"Kopple Dermatology",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.180227,
+    30.007205,
+    -90.180227,
+    30.007205
+],
+  "geometry": {"coordinates":[-90.180227,30.007205],"type":"Point"}
+}

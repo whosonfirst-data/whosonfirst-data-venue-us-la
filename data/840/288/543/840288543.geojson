@@ -1,0 +1,73 @@
+{
+  "id": 840288543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.008067,30.314,-92.008067,30.314",
+    "geom:latitude":30.314,
+    "geom:longitude":-92.008067,
+    "iso:country":"US",
+    "sg:address":"5500 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 9193",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zjHEbOx097z5fikK1UHBT_30.314000_-92.008067@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526005,
+    "wof:geomhash":"48b78d00dc65512868ab680652a0b235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840288543
+        }
+    ],
+    "wof:id":840288543,
+    "wof:lastmodified":1463526005,
+    "wof:name":"IDIM Construction",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.008067,
+    30.314,
+    -92.008067,
+    30.314
+],
+  "geometry": {"coordinates":[-92.008067,30.314],"type":"Point"}
+}

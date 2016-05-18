@@ -1,0 +1,73 @@
+{
+  "id": 840087523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.472277,31.557155,-93.472277,31.557155",
+    "geom:latitude":31.557155,
+    "geom:longitude":-93.472277,
+    "iso:country":"US",
+    "sg:address":"340 Fisher Rd",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 5994",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d6PjaygRcC5gUmof7zOa0_31.557155_-93.472277@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520975,
+    "wof:geomhash":"8dea67fa4de70f8ac51321e83b503ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840087523
+        }
+    ],
+    "wof:id":840087523,
+    "wof:lastmodified":1463520975,
+    "wof:name":"C & S Oil Shop",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.472277,
+    31.557155,
+    -93.472277,
+    31.557155
+],
+  "geometry": {"coordinates":[-93.47227700000001,31.557155],"type":"Point"}
+}

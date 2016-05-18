@@ -1,0 +1,71 @@
+{
+  "id": 840445301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.377303,30.235995,-93.377303,30.235995",
+    "geom:latitude":30.235995,
+    "geom:longitude":-93.377303,
+    "iso:country":"US",
+    "sg:address":"112 E Thomas St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 9030",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0exVwJL0xqfpksqObZI3P4_30.235995_-93.377303@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533101,
+    "wof:geomhash":"b2c95b5b00ac91df92a5e680b7b57847",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840445301
+        }
+    ],
+    "wof:id":840445301,
+    "wof:lastmodified":1463533101,
+    "wof:name":"Charles Broussard Law Office",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -93.377303,
+    30.235995,
+    -93.377303,
+    30.235995
+],
+  "geometry": {"coordinates":[-93.377303,30.235995],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840352303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.527737,30.609934,-90.527737,30.609934",
+    "geom:latitude":30.609934,
+    "geom:longitude":-90.527737,
+    "iso:country":"US",
+    "sg:address":"12297 W Blackcat Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 878 6673",
+    "sg:postcode":"70443",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_775d3zpVt8ZOqKzIJn2vck_30.609934_-90.527737@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529029,
+    "wof:geomhash":"d66203c50d89fd0ca00d900f7773ea2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840352303
+        }
+    ],
+    "wof:id":840352303,
+    "wof:lastmodified":1463529029,
+    "wof:name":"Pecoraro Repair Service",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -90.527737,
+    30.609934,
+    -90.527737,
+    30.609934
+],
+  "geometry": {"coordinates":[-90.527737,30.609934],"type":"Point"}
+}

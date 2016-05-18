@@ -1,0 +1,75 @@
+{
+  "id": 840033525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.284271,30.956076,-93.284271,30.956076",
+    "geom:latitude":30.956076,
+    "geom:longitude":-93.284271,
+    "iso:country":"US",
+    "sg:address":"166 Bass Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 462 5292",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56phSXDVZ2VZ6d8PgeiqPI_30.956076_-93.284271@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519705,
+    "wof:geomhash":"360494036a54798f2144fcd4020e5f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840033525
+        }
+    ],
+    "wof:id":840033525,
+    "wof:lastmodified":1463519705,
+    "wof:name":"Jamf Trucking",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.284271,
+    30.956076,
+    -93.284271,
+    30.956076
+],
+  "geometry": {"coordinates":[-93.284271,30.956076],"type":"Point"}
+}

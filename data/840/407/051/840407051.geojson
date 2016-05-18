@@ -1,0 +1,75 @@
+{
+  "id": 840407051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.12087,32.508359,-92.12087,32.508359",
+    "geom:latitude":32.508359,
+    "geom:longitude":-92.12087,
+    "iso:country":"US",
+    "sg:address":"410 Louisville Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 387 1133",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3il1IZtjUn479Rl23t2SRv_32.508359_-92.120870@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531499,
+    "wof:geomhash":"aaa3f0460643187b83e61f54bd8fb91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840407051
+        }
+    ],
+    "wof:id":840407051,
+    "wof:lastmodified":1463531499,
+    "wof:name":"Euro Car",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.12087,
+    32.508359,
+    -92.12087,
+    32.508359
+],
+  "geometry": {"coordinates":[-92.12087,32.508359],"type":"Point"}
+}

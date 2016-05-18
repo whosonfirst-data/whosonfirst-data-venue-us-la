@@ -1,0 +1,77 @@
+{
+  "id": 840042903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.070642,29.953193,-90.070642,29.953193",
+    "geom:latitude":29.953193,
+    "geom:longitude":-90.070642,
+    "iso:country":"US",
+    "sg:address":"139 Carondelet St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 587 7139",
+    "sg:postcode":"70113",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AtC745TzQQIUwWjDXYNFL_29.953193_-90.070642@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519908,
+    "wof:geomhash":"50daf5dfb4597046082c0f2334681b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840042903
+        }
+    ],
+    "wof:id":840042903,
+    "wof:lastmodified":1463519908,
+    "wof:name":"Star Atm",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -90.070642,
+    29.953193,
+    -90.070642,
+    29.953193
+],
+  "geometry": {"coordinates":[-90.07064200000001,29.953193],"type":"Point"}
+}

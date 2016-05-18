@@ -1,0 +1,74 @@
+{
+  "id": 840138511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.464186,31.282958,-92.464186,31.282958",
+    "geom:latitude":31.282958,
+    "geom:longitude":-92.464186,
+    "iso:country":"US",
+    "sg:address":"3311 Prescott Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 7222",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.alexwomenscenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GFFlLZodFXYpCGhoahMC8_31.282958_-92.464186@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522019,
+    "wof:geomhash":"b4ee1e2ed6eb5d250f75fceb28d28ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840138511
+        }
+    ],
+    "wof:id":840138511,
+    "wof:lastmodified":1463522019,
+    "wof:name":"Alexandria Women's Ctr",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.464186,
+    31.282958,
+    -92.464186,
+    31.282958
+],
+  "geometry": {"coordinates":[-92.464186,31.282958],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840340327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.201901,30.203482,-93.201901,30.203482",
+    "geom:latitude":30.203482,
+    "geom:longitude":-93.201901,
+    "iso:country":"US",
+    "sg:address":"1333 Oak Park Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 2960",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bx0BeJ5IAr3EYtbjMEGHA_30.203482_-93.201901@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528427,
+    "wof:geomhash":"140a859a8f8ac9509b16c2ab3c2c8fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840340327
+        }
+    ],
+    "wof:id":840340327,
+    "wof:lastmodified":1463528427,
+    "wof:name":"Charles S Mackey DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.201901,
+    30.203482,
+    -93.201901,
+    30.203482
+],
+  "geometry": {"coordinates":[-93.20190100000001,30.203482],"type":"Point"}
+}

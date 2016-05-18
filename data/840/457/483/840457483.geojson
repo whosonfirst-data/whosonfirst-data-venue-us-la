@@ -1,0 +1,76 @@
+{
+  "id": 840457483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.021049,30.215252,-92.021049,30.215252",
+    "geom:latitude":30.215252,
+    "geom:longitude":-92.021049,
+    "iso:country":"US",
+    "sg:address":"1418 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/81552-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 7272",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PjKbg9ikLYuuLZ14X3vw8_30.214706_-92.021655@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533596,
+    "wof:geomhash":"fd30acbb7717d5f4b961b6593dd8376b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840457483
+        }
+    ],
+    "wof:id":840457483,
+    "wof:lastmodified":1463533596,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.021049,
+    30.215252,
+    -92.021049,
+    30.215252
+],
+  "geometry": {"coordinates":[-92.021049,30.215252],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840329191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.190172,30.230974,-93.190172,30.230974",
+    "geom:latitude":30.230974,
+    "geom:longitude":-93.190172,
+    "iso:country":"US",
+    "sg:address":"705 S Cherry St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 1775",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nVi798Amb40Fisj1w2PWy_30.230974_-93.190172@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527903,
+    "wof:geomhash":"98ab15d4800e8123f25d49ab9f2f1355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840329191
+        }
+    ],
+    "wof:id":840329191,
+    "wof:lastmodified":1463527903,
+    "wof:name":"Lee's Transmission Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.190172,
+    30.230974,
+    -93.190172,
+    30.230974
+],
+  "geometry": {"coordinates":[-93.190172,30.230974],"type":"Point"}
+}

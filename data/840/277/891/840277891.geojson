@@ -1,0 +1,69 @@
+{
+  "id": 840277891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.746026,32.676901,-93.746026,32.676901",
+    "geom:latitude":32.676901,
+    "geom:longitude":-93.746026,
+    "iso:country":"US",
+    "sg:address":"6280 Hwy 3",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 965 3667",
+    "sg:postcode":"71006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85808045,
+        102084883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0umbNYrYiJCyUhaqMFFXFQ_32.676901_-93.746026@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525522,
+    "wof:geomhash":"500dd3344747b1e39a58104ff7535a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "neighbourhood_id":85808045,
+            "region_id":85688735,
+            "venue_id":840277891
+        }
+    ],
+    "wof:id":840277891,
+    "wof:lastmodified":1463525522,
+    "wof:name":"Brookshire's",
+    "wof:parent_id":85808045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.746026,
+    32.676901,
+    -93.746026,
+    32.676901
+],
+  "geometry": {"coordinates":[-93.746026,32.676901],"type":"Point"}
+}

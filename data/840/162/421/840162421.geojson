@@ -1,0 +1,73 @@
+{
+  "id": 840162421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.080181,30.625701,-91.080181,30.625701",
+    "geom:latitude":30.625701,
+    "geom:longitude":-91.080181,
+    "iso:country":"US",
+    "sg:address":"9726 Arleen Ave",
+    "sg:city":"Zachary",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 654 9289",
+    "sg:postcode":"70791",
+    "sg:province":"LA",
+    "sg:tags":[
+        "farm",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qk7lT5Sa6g6q4A24kuGqZ_30.625701_-91.080181@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522491,
+    "wof:geomhash":"d02094dd6b624c44d28062486d4f658c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840162421
+        }
+    ],
+    "wof:id":840162421,
+    "wof:lastmodified":1463522491,
+    "wof:name":"McKey Mechanical",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -91.080181,
+    30.625701,
+    -91.080181,
+    30.625701
+],
+  "geometry": {"coordinates":[-91.080181,30.625701],"type":"Point"}
+}

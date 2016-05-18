@@ -1,0 +1,71 @@
+{
+  "id": 840438129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.373533,30.231174,-93.373533,30.231174",
+    "geom:latitude":30.231174,
+    "geom:longitude":-93.373533,
+    "iso:country":"US",
+    "sg:address":"420 Cypress St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 2215",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30kCdZaAs5yioavBFrG3KS_30.231174_-93.373533@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532811,
+    "wof:geomhash":"6bd06a1c544108c5b93933808d171455",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840438129
+        }
+    ],
+    "wof:id":840438129,
+    "wof:lastmodified":1463532811,
+    "wof:name":"Emma M Di Carlo DDS",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.373533,
+    30.231174,
+    -93.373533,
+    30.231174
+],
+  "geometry": {"coordinates":[-93.37353299999999,30.231174],"type":"Point"}
+}

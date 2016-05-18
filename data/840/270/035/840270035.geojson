@@ -1,0 +1,73 @@
+{
+  "id": 840270035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.736128,32.418304,-93.736128,32.418304",
+    "geom:latitude":32.418304,
+    "geom:longitude":-93.736128,
+    "iso:country":"US",
+    "sg:address":"445 Ashley Ridge Blvd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 869 1130",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kMs5TVElceffpBEChpart_32.418304_-93.736128@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525184,
+    "wof:geomhash":"65dd141b4f70dea4834bbb29fb39fed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840270035
+        }
+    ],
+    "wof:id":840270035,
+    "wof:lastmodified":1463525184,
+    "wof:name":"Eye Surgery Ctr",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -93.736128,
+    32.418304,
+    -93.736128,
+    32.418304
+],
+  "geometry": {"coordinates":[-93.73612799999999,32.418304],"type":"Point"}
+}

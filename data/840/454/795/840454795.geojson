@@ -1,0 +1,74 @@
+{
+  "id": 840454795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.438028,30.451796,-93.438028,30.451796",
+    "geom:latitude":30.451796,
+    "geom:longitude":-93.438028,
+    "iso:country":"US",
+    "sg:address":"312 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/big-woods/132086-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 3808",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27ephGze5LQfeafhzvw3id_30.451796_-93.438028@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533497,
+    "wof:geomhash":"4a898d7106bd058da75ed9c7f56ef7b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454795
+        }
+    ],
+    "wof:id":840454795,
+    "wof:lastmodified":1463533497,
+    "wof:name":"Subway",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.438028,
+    30.451796,
+    -93.438028,
+    30.451796
+],
+  "geometry": {"coordinates":[-93.438028,30.451796],"type":"Point"}
+}

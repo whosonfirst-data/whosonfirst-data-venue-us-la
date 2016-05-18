@@ -1,0 +1,75 @@
+{
+  "id": 840175211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.018734,30.230614,-92.018734,30.230614",
+    "geom:latitude":30.230614,
+    "geom:longitude":-92.018734,
+    "iso:country":"US",
+    "sg:address":"207 W Simcoe St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 3531",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70yFBEUJeuq5miVbc1uZ9Q_30.230614_-92.018734@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522808,
+    "wof:geomhash":"49a4daafc4019628914f38dc5354fd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840175211
+        }
+    ],
+    "wof:id":840175211,
+    "wof:lastmodified":1463522808,
+    "wof:name":"Allied Electromotive Ctr",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -92.018734,
+    30.230614,
+    -92.018734,
+    30.230614
+],
+  "geometry": {"coordinates":[-92.01873399999999,30.230614],"type":"Point"}
+}

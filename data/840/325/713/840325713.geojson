@@ -1,0 +1,75 @@
+{
+  "id": 840325713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.106113,30.240122,-92.106113,30.240122",
+    "geom:latitude":30.240122,
+    "geom:longitude":-92.106113,
+    "iso:country":"US",
+    "sg:address":"108 Pellerin Rd",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 7780",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mqF6MWTORzTtJ4Rx4aYuc_30.240122_-92.106113@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527755,
+    "wof:geomhash":"c1b1483fe26cbddf751e3c394c47fe34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840325713
+        }
+    ],
+    "wof:id":840325713,
+    "wof:lastmodified":1463527755,
+    "wof:name":"Pellerin Water Well",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -92.106113,
+    30.240122,
+    -92.106113,
+    30.240122
+],
+  "geometry": {"coordinates":[-92.10611299999999,30.240122],"type":"Point"}
+}

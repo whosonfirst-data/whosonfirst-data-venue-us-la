@@ -1,0 +1,73 @@
+{
+  "id": 840119093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.055078,30.200234,-92.055078,30.200234",
+    "geom:latitude":30.200234,
+    "geom:longitude":-92.055078,
+    "iso:country":"US",
+    "sg:address":"3804 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 3104",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ga6wTWkFO4YUKsTRhBNm9_30.200234_-92.055078@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521620,
+    "wof:geomhash":"9a55cb2950fceeac7414f21f959a07de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840119093
+        }
+    ],
+    "wof:id":840119093,
+    "wof:lastmodified":1463521620,
+    "wof:name":"Health Care Options",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -92.055078,
+    30.200234,
+    -92.055078,
+    30.200234
+],
+  "geometry": {"coordinates":[-92.05507799999999,30.200234],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840457327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.068584,29.954339,-90.068584,29.954339",
+    "geom:latitude":29.954339,
+    "geom:longitude":-90.068584,
+    "iso:country":"US",
+    "sg:address":"739 Iberville St ",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/274294-felixs-restaurant-and-oyster-bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 4440",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D0r8nyJEKiJ5btU6c2jIQ_29.954493_-90.068730@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533590,
+    "wof:geomhash":"d7f1d20d3dec158e807a7faad244133c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840457327
+        }
+    ],
+    "wof:id":840457327,
+    "wof:lastmodified":1463533590,
+    "wof:name":"Felix's Restaurant and Oyster Bar",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.068584,
+    29.954339,
+    -90.068584,
+    29.954339
+],
+  "geometry": {"coordinates":[-90.068584,29.954339],"type":"Point"}
+}

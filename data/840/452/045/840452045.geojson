@@ -1,0 +1,71 @@
+{
+  "id": 840452045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.827904,30.007401,-91.827904,30.007401",
+    "geom:latitude":30.007401,
+    "geom:longitude":-91.827904,
+    "iso:country":"US",
+    "sg:address":"528 Robertson St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 2564",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6txBRknsf1Kte7872MtcJL_30.006922_-91.827879@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533385,
+    "wof:geomhash":"27dcbea5e0f3177dfcb4295928329779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840452045
+        }
+    ],
+    "wof:id":840452045,
+    "wof:lastmodified":1463533385,
+    "wof:name":"Bill's Hair Fashions",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barber"
+    ]
+},
+  "bbox": [
+    -91.827904,
+    30.007401,
+    -91.827904,
+    30.007401
+],
+  "geometry": {"coordinates":[-91.827904,30.007401],"type":"Point"}
+}

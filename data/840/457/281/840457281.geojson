@@ -1,0 +1,76 @@
+{
+  "id": 840457281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.082841,29.970853,-90.082841,29.970853",
+    "geom:latitude":29.970853,
+    "geom:longitude":-90.082841,
+    "iso:country":"US",
+    "sg:address":"711 N Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/14346-ruths-chris-steak-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 486 0810",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WQD3pxuB60ESUfL3F9Z2A_29.970463_-90.083211@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533589,
+    "wof:geomhash":"faf1aeec39a670b1079bac0582aed3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840457281
+        }
+    ],
+    "wof:id":840457281,
+    "wof:lastmodified":1463533589,
+    "wof:name":"Ruth's Chris Steak House",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -90.082841,
+    29.970853,
+    -90.082841,
+    29.970853
+],
+  "geometry": {"coordinates":[-90.082841,29.970853],"type":"Point"}
+}

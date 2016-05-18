@@ -1,0 +1,72 @@
+{
+  "id": 840362605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.217047,30.19241,-93.217047,30.19241",
+    "geom:latitude":30.19241,
+    "geom:longitude":-93.217047,
+    "iso:country":"US",
+    "sg:address":"3519 Patrick St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 0005",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.urscorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hZ29sSpfW2kq9TtMbnXTb_30.192410_-93.217047@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529506,
+    "wof:geomhash":"1a6e1a911bf4ae89ad4532319d1923f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840362605
+        }
+    ],
+    "wof:id":840362605,
+    "wof:lastmodified":1463529506,
+    "wof:name":"URS Corp",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -93.217047,
+    30.19241,
+    -93.217047,
+    30.19241
+],
+  "geometry": {"coordinates":[-93.21704699999999,30.19241],"type":"Point"}
+}

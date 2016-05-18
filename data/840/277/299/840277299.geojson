@@ -1,0 +1,73 @@
+{
+  "id": 840277299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204298,30.196341,-93.204298,30.196341",
+    "geom:latitude":30.196341,
+    "geom:longitude":-93.204298,
+    "iso:country":"US",
+    "sg:address":"1102 E College St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 9581",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wYoxuCnsWfTJ9vvbuDvUp_30.196341_-93.204298@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525495,
+    "wof:geomhash":"c4673611911b63caf64f0193a0df3424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840277299
+        }
+    ],
+    "wof:id":840277299,
+    "wof:lastmodified":1463525495,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.204298,
+    30.196341,
+    -93.204298,
+    30.196341
+],
+  "geometry": {"coordinates":[-93.20429799999999,30.196341],"type":"Point"}
+}

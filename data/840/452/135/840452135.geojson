@@ -1,0 +1,74 @@
+{
+  "id": 840452135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.039321,30.003579,-90.039321,30.003579",
+    "geom:latitude":30.003579,
+    "geom:longitude":-90.039321,
+    "iso:country":"US",
+    "sg:address":"4200 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 945 5506",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_702fwjKIq9hK5LJjJW3daI_30.003852_-90.039966@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533389,
+    "wof:geomhash":"d3fd0284e9d42e103ebd0fab85e91647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":840452135
+        }
+    ],
+    "wof:id":840452135,
+    "wof:lastmodified":1463533389,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85821299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -90.039321,
+    30.003579,
+    -90.039321,
+    30.003579
+],
+  "geometry": {"coordinates":[-90.039321,30.003579],"type":"Point"}
+}

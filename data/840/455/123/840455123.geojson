@@ -1,0 +1,78 @@
+{
+  "id": 840455123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.188081,30.45162,-91.188081,30.45162",
+    "geom:latitude":30.45162,
+    "geom:longitude":-91.188081,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/136638-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 336 6560",
+    "sg:postcode":"70801",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85876067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NJmQIBAGrKQTUdBwTNQyA_30.451620_-91.188081@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533508,
+    "wof:geomhash":"0b3aebe6ae49af5cd34c88543c35bbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85876067,
+            "region_id":85688735,
+            "venue_id":840455123
+        }
+    ],
+    "wof:id":840455123,
+    "wof:lastmodified":1463533508,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85876067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.188081,
+    30.45162,
+    -91.188081,
+    30.45162
+],
+  "geometry": {"coordinates":[-91.188081,30.45162],"type":"Point"}
+}

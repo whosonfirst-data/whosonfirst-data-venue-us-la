@@ -1,0 +1,73 @@
+{
+  "id": 840050621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.179061,29.69096,-91.179061,29.69096",
+    "geom:latitude":29.69096,
+    "geom:longitude":-91.179061,
+    "iso:country":"US",
+    "sg:address":"2937 Railroad Ave",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 2009",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qxr3RkCFsvUZF6urNIT4M_29.690960_-91.179061@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520061,
+    "wof:geomhash":"a229d28081e6d0bb908a16a42632ebb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840050621
+        }
+    ],
+    "wof:id":840050621,
+    "wof:lastmodified":1463520061,
+    "wof:name":"M R Pumps & Marine Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.179061,
+    29.69096,
+    -91.179061,
+    29.69096
+],
+  "geometry": {"coordinates":[-91.179061,29.69096],"type":"Point"}
+}

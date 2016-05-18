@@ -1,0 +1,81 @@
+{
+  "id": 840457083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.154942,30.014915,-90.154942,30.014915",
+    "geom:latitude":30.014915,
+    "geom:longitude":-90.154942,
+    "iso:country":"US",
+    "sg:address":"3616 N Causeway Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/metairie/31292-joes-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 834 6001",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DSsCsEnHVr5dBK95M6S13_30.014519_-90.154495@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533582,
+    "wof:geomhash":"732089ce21e4e5b61feda2de4461b193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840457083
+        }
+    ],
+    "wof:id":840457083,
+    "wof:lastmodified":1463533582,
+    "wof:name":"Joe's Cafe",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -90.154942,
+    30.014915,
+    -90.154942,
+    30.014915
+],
+  "geometry": {"coordinates":[-90.15494200000001,30.014915],"type":"Point"}
+}

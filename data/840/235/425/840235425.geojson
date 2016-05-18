@@ -1,0 +1,73 @@
+{
+  "id": 840235425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.186508,30.236636,-93.186508,30.236636",
+    "geom:latitude":30.236636,
+    "geom:longitude":-93.186508,
+    "iso:country":"US",
+    "sg:address":"128 Kingsley St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 4601",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AwclgIIIxmmBW5v8tChPS_30.236636_-93.186508@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524258,
+    "wof:geomhash":"65cf6bf67e5bae92e541ce03210d6040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840235425
+        }
+    ],
+    "wof:id":840235425,
+    "wof:lastmodified":1463524258,
+    "wof:name":"Royalty Limousine LLC",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -93.186508,
+    30.236636,
+    -93.186508,
+    30.236636
+],
+  "geometry": {"coordinates":[-93.186508,30.236636],"type":"Point"}
+}

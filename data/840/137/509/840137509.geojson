@@ -1,0 +1,71 @@
+{
+  "id": 840137509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213887,30.1665,-93.213887,30.1665",
+    "geom:latitude":30.1665,
+    "geom:longitude":-93.213887,
+    "iso:country":"US",
+    "sg:address":"4901 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 1079",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JfSh1pErRqs9dUg5dgWyk_30.166500_-93.213887@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521999,
+    "wof:geomhash":"ce3facb261882cd6b3d080df30c4bd13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840137509
+        }
+    ],
+    "wof:id":840137509,
+    "wof:lastmodified":1463521999,
+    "wof:name":"Taylor Home Health Supply",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -93.213887,
+    30.1665,
+    -93.213887,
+    30.1665
+],
+  "geometry": {"coordinates":[-93.213887,30.1665],"type":"Point"}
+}

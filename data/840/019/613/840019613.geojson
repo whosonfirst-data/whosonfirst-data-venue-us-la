@@ -1,0 +1,73 @@
+{
+  "id": 840019613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.25807,30.265055,-93.25807,30.265055",
+    "geom:latitude":30.265055,
+    "geom:longitude":-93.25807,
+    "iso:country":"US",
+    "sg:address":"2435 Westwood Rd",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 8353",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3llwIzrhBRS6voFoFvMImp_30.265055_-93.258070@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519396,
+    "wof:geomhash":"3f44b914a2566b60122ec00ff7d71db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840019613
+        }
+    ],
+    "wof:id":840019613,
+    "wof:lastmodified":1463519396,
+    "wof:name":"Water Works District 4",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -93.25807,
+    30.265055,
+    -93.25807,
+    30.265055
+],
+  "geometry": {"coordinates":[-93.25807,30.265055],"type":"Point"}
+}

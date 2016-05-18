@@ -1,0 +1,75 @@
+{
+  "id": 840000769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.186992,29.985519,-90.186992,29.985519",
+    "geom:latitude":29.985519,
+    "geom:longitude":-90.186992,
+    "iso:country":"US",
+    "sg:address":"4817 Garden St",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 455 1166",
+    "sg:postcode":"70001",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V6dYfJVjcmOM8IzuvKOKY_29.985519_-90.186992@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519010,
+    "wof:geomhash":"14f343c78a20b8bc4d58b89825e1f709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840000769
+        }
+    ],
+    "wof:id":840000769,
+    "wof:lastmodified":1463519010,
+    "wof:name":"Champion Locksmith",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.186992,
+    29.985519,
+    -90.186992,
+    29.985519
+],
+  "geometry": {"coordinates":[-90.186992,29.985519],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840303519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.058478,32.467115,-92.058478,32.467115",
+    "geom:latitude":32.467115,
+    "geom:longitude":-92.058478,
+    "iso:country":"US",
+    "sg:address":"3270 Garrett Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 324 1600",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_613rqB56DKLgxi7dlQwCAa_32.467115_-92.058478@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526700,
+    "wof:geomhash":"58763eddbb073c4c1f661bc9daa1eb28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840303519
+        }
+    ],
+    "wof:id":840303519,
+    "wof:lastmodified":1463526700,
+    "wof:name":"Durbyn Transmission Shop",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -92.058478,
+    32.467115,
+    -92.058478,
+    32.467115
+],
+  "geometry": {"coordinates":[-92.05847799999999,32.467115],"type":"Point"}
+}

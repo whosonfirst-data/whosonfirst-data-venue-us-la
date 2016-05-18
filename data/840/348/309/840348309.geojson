@@ -1,0 +1,73 @@
+{
+  "id": 840348309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.006131,30.360789,-91.006131,30.360789",
+    "geom:latitude":30.360789,
+    "geom:longitude":-91.006131,
+    "iso:country":"US",
+    "sg:address":"20013 Highland Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 753 0596",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PTDpuxGN8OmxirZ3q5BYR_30.360789_-91.006131@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528821,
+    "wof:geomhash":"98db436a489746f03da895c5dbf4584a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840348309
+        }
+    ],
+    "wof:id":840348309,
+    "wof:lastmodified":1463528821,
+    "wof:name":"Todd Electric Inc",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.006131,
+    30.360789,
+    -91.006131,
+    30.360789
+],
+  "geometry": {"coordinates":[-91.006131,30.360789],"type":"Point"}
+}

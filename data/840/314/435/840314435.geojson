@@ -1,0 +1,73 @@
+{
+  "id": 840314435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.876479,30.051692,-91.876479,30.051692",
+    "geom:latitude":30.051692,
+    "geom:longitude":-91.876479,
+    "iso:country":"US",
+    "sg:address":"4400 W Admiral Doyle Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 2322",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "oil",
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V5CqeV5EZ0uH2guACi1EU_30.051692_-91.876479@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527196,
+    "wof:geomhash":"acf326448719a8eb892b0addaef158eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840314435
+        }
+    ],
+    "wof:id":840314435,
+    "wof:lastmodified":1463527196,
+    "wof:name":"Epoch Well Logging",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "well"
+    ]
+},
+  "bbox": [
+    -91.876479,
+    30.051692,
+    -91.876479,
+    30.051692
+],
+  "geometry": {"coordinates":[-91.876479,30.051692],"type":"Point"}
+}

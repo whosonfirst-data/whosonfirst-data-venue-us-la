@@ -1,0 +1,73 @@
+{
+  "id": 840385663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971406,29.948353,-89.971406,29.948353",
+    "geom:latitude":29.948353,
+    "geom:longitude":-89.971406,
+    "iso:country":"US",
+    "sg:address":"9027 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 8125",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z4pzxzNAkw46qf5c8EjU1_29.948353_-89.971406@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530623,
+    "wof:geomhash":"d44077a4b4d5b3c21bd75d4790698e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840385663
+        }
+    ],
+    "wof:id":840385663,
+    "wof:lastmodified":1463530623,
+    "wof:name":"Lucas A Di Leo MD",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.971406,
+    29.948353,
+    -89.971406,
+    29.948353
+],
+  "geometry": {"coordinates":[-89.971406,29.948353],"type":"Point"}
+}

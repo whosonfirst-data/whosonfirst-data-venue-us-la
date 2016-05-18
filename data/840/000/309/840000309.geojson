@@ -1,0 +1,75 @@
+{
+  "id": 840000309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.275148,29.980766,-90.275148,29.980766",
+    "geom:latitude":29.980766,
+    "geom:longitude":-90.275148,
+    "iso:country":"US",
+    "sg:address":"30 E Airline Hwy",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 712 3475",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TW8OtCHFStIx84odTWwG3_29.980766_-90.275148@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519002,
+    "wof:geomhash":"63f206000865cd23c9523a4b19c6fada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840000309
+        }
+    ],
+    "wof:id":840000309,
+    "wof:lastmodified":1463519002,
+    "wof:name":"RHM Warehousing",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -90.275148,
+    29.980766,
+    -90.275148,
+    29.980766
+],
+  "geometry": {"coordinates":[-90.275148,29.980766],"type":"Point"}
+}

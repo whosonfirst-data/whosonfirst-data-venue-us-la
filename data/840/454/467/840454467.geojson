@@ -1,0 +1,73 @@
+{
+  "id": 840454467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.037496,30.32181,-92.037496,30.32181",
+    "geom:latitude":30.32181,
+    "geom:longitude":-92.037496,
+    "iso:country":"US",
+    "sg:address":"925 Veterans Dr",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/188290-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZfLaoOpcYehRbyKy9ofEB_30.321810_-92.037496@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533485,
+    "wof:geomhash":"433a9e6046d5faed5a48750d5f7aa169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840454467
+        }
+    ],
+    "wof:id":840454467,
+    "wof:lastmodified":1463533485,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.037496,
+    30.32181,
+    -92.037496,
+    30.32181
+],
+  "geometry": {"coordinates":[-92.037496,30.32181],"type":"Point"}
+}

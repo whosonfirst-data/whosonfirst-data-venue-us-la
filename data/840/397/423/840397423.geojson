@@ -1,0 +1,74 @@
+{
+  "id": 840397423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.969336,29.944805,-89.969336,29.944805",
+    "geom:latitude":29.944805,
+    "geom:longitude":-89.969336,
+    "iso:country":"US",
+    "sg:address":"801 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 2212",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ip5dgVPXAZTxHeCzYZwGd_29.944805_-89.969336@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531109,
+    "wof:geomhash":"4b13e523ed6bf30398e7ab4a2be5f0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840397423
+        }
+    ],
+    "wof:id":840397423,
+    "wof:lastmodified":1463531109,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.969336,
+    29.944805,
+    -89.969336,
+    29.944805
+],
+  "geometry": {"coordinates":[-89.969336,29.944805],"type":"Point"}
+}

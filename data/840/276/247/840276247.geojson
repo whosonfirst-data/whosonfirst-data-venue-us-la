@@ -1,0 +1,73 @@
+{
+  "id": 840276247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.823759,29.997505,-91.823759,29.997505",
+    "geom:latitude":29.997505,
+    "geom:longitude":-91.823759,
+    "iso:country":"US",
+    "sg:address":"803 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3474",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72IuFHzecuFUS6tHIH2yok_29.997505_-91.823759@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525454,
+    "wof:geomhash":"7b7c7324ff862d5392ea9117109e8dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840276247
+        }
+    ],
+    "wof:id":840276247,
+    "wof:lastmodified":1463525454,
+    "wof:name":"Gerald J Elias Jr MD",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.823759,
+    29.997505,
+    -91.823759,
+    29.997505
+],
+  "geometry": {"coordinates":[-91.823759,29.997505],"type":"Point"}
+}

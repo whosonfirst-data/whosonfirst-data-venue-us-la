@@ -1,0 +1,73 @@
+{
+  "id": 840345715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.989583,30.233099,-91.989583,30.233099",
+    "geom:latitude":30.233099,
+    "geom:longitude":-91.989583,
+    "iso:country":"US",
+    "sg:address":"1225 Carmel Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 4221",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OY039fvctOZyws3NAGW6k_30.233099_-91.989583@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528690,
+    "wof:geomhash":"1ad541a4681282c179bd0c8b9547936d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840345715
+        }
+    ],
+    "wof:id":840345715,
+    "wof:lastmodified":1463528690,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.989583,
+    30.233099,
+    -91.989583,
+    30.233099
+],
+  "geometry": {"coordinates":[-91.989583,30.233099],"type":"Point"}
+}

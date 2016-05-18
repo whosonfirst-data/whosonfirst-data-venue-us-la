@@ -1,0 +1,72 @@
+{
+  "id": 840454199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.014436,30.252815,-92.014436,30.252815",
+    "geom:latitude":30.252815,
+    "geom:longitude":-92.014436,
+    "iso:country":"US",
+    "sg:address":"2208 NW Evangeline Trwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/91679-shoneys-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 7196",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SjW4ovugdvzp2bRixjx0r_30.252815_-92.014436@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533475,
+    "wof:geomhash":"39d02abd4420550da32f5d88f8d601e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840454199
+        }
+    ],
+    "wof:id":840454199,
+    "wof:lastmodified":1463533475,
+    "wof:name":"Shoney's Restaurant",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -92.014436,
+    30.252815,
+    -92.014436,
+    30.252815
+],
+  "geometry": {"coordinates":[-92.014436,30.252815],"type":"Point"}
+}

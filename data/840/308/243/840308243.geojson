@@ -1,0 +1,75 @@
+{
+  "id": 840308243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.193457,29.938395,-90.193457,29.938395",
+    "geom:latitude":29.938395,
+    "geom:longitude":-90.193457,
+    "iso:country":"US",
+    "sg:address":"6368 Jefferson Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 738 3942",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D0oPRllDtLiivOTw7FJ4E_29.938395_-90.193457@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526909,
+    "wof:geomhash":"41ba799d488119b57615c5f6b3d44421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840308243
+        }
+    ],
+    "wof:id":840308243,
+    "wof:lastmodified":1463526909,
+    "wof:name":"Advanced Automotive",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.193457,
+    29.938395,
+    -90.193457,
+    29.938395
+],
+  "geometry": {"coordinates":[-90.193457,29.938395],"type":"Point"}
+}

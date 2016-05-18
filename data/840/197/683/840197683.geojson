@@ -1,0 +1,75 @@
+{
+  "id": 840197683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.142425,30.123243,-92.142425,30.123243",
+    "geom:latitude":30.123243,
+    "geom:longitude":-92.142425,
+    "iso:country":"US",
+    "sg:address":"800 Leblanc Rd",
+    "sg:city":"Duson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 1718",
+    "sg:postcode":"70529",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bkbemyMtNd6e2Ds23YmMk_30.123243_-92.142425@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523274,
+    "wof:geomhash":"45018f86e2373cacc933e1b60c06bcb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840197683
+        }
+    ],
+    "wof:id":840197683,
+    "wof:lastmodified":1463523274,
+    "wof:name":"Bonin Boarding Kennels",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -92.142425,
+    30.123243,
+    -92.142425,
+    30.123243
+],
+  "geometry": {"coordinates":[-92.142425,30.123243],"type":"Point"}
+}

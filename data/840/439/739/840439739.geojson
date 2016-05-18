@@ -1,0 +1,84 @@
+{
+  "id": 840439739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.182615,30.005306,-90.182615,30.005306",
+    "geom:latitude":30.005306,
+    "geom:longitude":-90.182615,
+    "iso:country":"US",
+    "sg:address":"4441 Veterans Memorial Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 456 3090",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "vacuum",
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zDbUzqrZb8htImbas2TDh_30.005306_-90.182615@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532882,
+    "wof:geomhash":"491c266b8db094e7f7950eb308332fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840439739
+        }
+    ],
+    "wof:id":840439739,
+    "wof:lastmodified":1463532882,
+    "wof:name":"Ace Sewing & Vacuum Svc",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "vacuum",
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.182615,
+    30.005306,
+    -90.182615,
+    30.005306
+],
+  "geometry": {"coordinates":[-90.182615,30.005306],"type":"Point"}
+}

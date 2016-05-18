@@ -1,0 +1,75 @@
+{
+  "id": 840009795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.028302,30.215946,-92.028302,30.215946",
+    "geom:latitude":30.215946,
+    "geom:longitude":-92.028302,
+    "iso:country":"US",
+    "sg:address":"602 Saint Landry St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 1200",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rrtdbh6Jl5wsIU86zDLPK_30.215946_-92.028302@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519205,
+    "wof:geomhash":"9c499927a80c6983c185274211efeefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840009795
+        }
+    ],
+    "wof:id":840009795,
+    "wof:lastmodified":1463519205,
+    "wof:name":"Frank R Bacque MD",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.028302,
+    30.215946,
+    -92.028302,
+    30.215946
+],
+  "geometry": {"coordinates":[-92.028302,30.215946],"type":"Point"}
+}

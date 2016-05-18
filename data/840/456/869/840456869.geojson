@@ -1,0 +1,74 @@
+{
+  "id": 840456869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.47622,31.288715,-92.47622,31.288715",
+    "geom:latitude":31.288715,
+    "geom:longitude":-92.47622,
+    "iso:country":"US",
+    "sg:address":"1200 Macarthur Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/210609-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 7666",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YOuR8A6h0fB4zRZlHTtQN_31.288715_-92.476220@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533569,
+    "wof:geomhash":"effa08cdf5232095b6393c8440ffab0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840456869
+        }
+    ],
+    "wof:id":840456869,
+    "wof:lastmodified":1463533569,
+    "wof:name":"Arby's",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.47622,
+    31.288715,
+    -92.47622,
+    31.288715
+],
+  "geometry": {"coordinates":[-92.47622,31.288715],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840236957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.000478,30.23279,-93.000478,30.23279",
+    "geom:latitude":30.23279,
+    "geom:longitude":-93.000478,
+    "iso:country":"US",
+    "sg:address":"510 Barclay St",
+    "sg:city":"Iowa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 582 3000",
+    "sg:postcode":"70647",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bHlW5at1PNqG5lC7FFRjn_30.232790_-93.000478@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524293,
+    "wof:geomhash":"a9c0f6b05a3692f9c3a5d9f228530646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840236957
+        }
+    ],
+    "wof:id":840236957,
+    "wof:lastmodified":1463524293,
+    "wof:name":"Landry's Wrecker Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.000478,
+    30.23279,
+    -93.000478,
+    30.23279
+],
+  "geometry": {"coordinates":[-93.000478,30.23279],"type":"Point"}
+}

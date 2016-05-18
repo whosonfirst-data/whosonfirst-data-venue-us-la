@@ -1,0 +1,71 @@
+{
+  "id": 840120301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.871476,30.034299,-91.871476,30.034299",
+    "geom:latitude":30.034299,
+    "geom:longitude":-91.871476,
+    "iso:country":"US",
+    "sg:address":"908 Ember Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 3733",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cebR6EA0DotYaMd3QJlUB_30.034299_-91.871476@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521644,
+    "wof:geomhash":"9f7516c3976cafc63c4ad64f52787974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840120301
+        }
+    ],
+    "wof:id":840120301,
+    "wof:lastmodified":1463521644,
+    "wof:name":"Folletts Book Store",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.871476,
+    30.034299,
+    -91.871476,
+    30.034299
+],
+  "geometry": {"coordinates":[-91.871476,30.034299],"type":"Point"}
+}

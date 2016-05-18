@@ -1,0 +1,73 @@
+{
+  "id": 840428869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.784447,30.273974,-89.784447,30.273974",
+    "geom:latitude":30.273974,
+    "geom:longitude":-89.784447,
+    "iso:country":"US",
+    "sg:address":"133 Cousin St",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 646 1611",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vtfuiacp6h8MDjpylV0xt_30.273974_-89.784447@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532393,
+    "wof:geomhash":"c4798d3cbb89e528588e2605bc9c3498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":840428869
+        }
+    ],
+    "wof:id":840428869,
+    "wof:lastmodified":1463532393,
+    "wof:name":"Trauma Clinic",
+    "wof:parent_id":85810351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.784447,
+    30.273974,
+    -89.784447,
+    30.273974
+],
+  "geometry": {"coordinates":[-89.784447,30.273974],"type":"Point"}
+}

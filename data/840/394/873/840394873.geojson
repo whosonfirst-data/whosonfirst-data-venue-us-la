@@ -1,0 +1,71 @@
+{
+  "id": 840394873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.463725,30.377611,-93.463725,30.377611",
+    "geom:latitude":30.377611,
+    "geom:longitude":-93.463725,
+    "iso:country":"US",
+    "sg:address":"4336 Edgerly Rd",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 2234",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zRrTP6m6oRzRvaek0CMUn_30.377611_-93.463725@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531011,
+    "wof:geomhash":"4ce48f997feada2fa30a87c0754b742e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840394873
+        }
+    ],
+    "wof:id":840394873,
+    "wof:lastmodified":1463531011,
+    "wof:name":"Gordon Fire Tower",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.463725,
+    30.377611,
+    -93.463725,
+    30.377611
+],
+  "geometry": {"coordinates":[-93.463725,30.377611],"type":"Point"}
+}

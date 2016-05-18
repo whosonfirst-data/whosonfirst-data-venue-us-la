@@ -1,0 +1,73 @@
+{
+  "id": 840191763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.754215,32.498232,-93.754215,32.498232",
+    "geom:latitude":32.498232,
+    "geom:longitude":-93.754215,
+    "iso:country":"US",
+    "sg:address":"1050 Jordan St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 221 7923",
+    "sg:postcode":"71101",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85881001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AUicLoop7AcIGvxTVSsEw_32.498232_-93.754215@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523144,
+    "wof:geomhash":"b7efe74dc872f739eb90c7b2315b74a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85881001,
+            "region_id":85688735,
+            "venue_id":840191763
+        }
+    ],
+    "wof:id":840191763,
+    "wof:lastmodified":1463523144,
+    "wof:name":"Shreveport Transmission Inc",
+    "wof:parent_id":85881001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.754215,
+    32.498232,
+    -93.754215,
+    32.498232
+],
+  "geometry": {"coordinates":[-93.754215,32.498232],"type":"Point"}
+}

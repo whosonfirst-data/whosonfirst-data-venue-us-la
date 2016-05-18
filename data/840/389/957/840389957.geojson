@@ -1,0 +1,75 @@
+{
+  "id": 840389957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.993028,30.219773,-91.993028,30.219773",
+    "geom:latitude":30.219773,
+    "geom:longitude":-91.993028,
+    "iso:country":"US",
+    "sg:address":"1507 Surrey St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 4811",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lqFs1dAwb7xWkx5Q4cdBF_30.219773_-91.993028@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530801,
+    "wof:geomhash":"290454c3486fd0ff09f1cdc10db05e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840389957
+        }
+    ],
+    "wof:id":840389957,
+    "wof:lastmodified":1463530801,
+    "wof:name":"Wertman Automotive",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.993028,
+    30.219773,
+    -91.993028,
+    30.219773
+],
+  "geometry": {"coordinates":[-91.993028,30.219773],"type":"Point"}
+}

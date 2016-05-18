@@ -1,0 +1,77 @@
+{
+  "id": 840441719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.027922,30.1758,-92.027922,30.1758",
+    "geom:latitude":30.1758,
+    "geom:longitude":-92.027922,
+    "iso:country":"US",
+    "sg:address":"1507 Kaliste Saloom Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 9433",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pNFcQOenPBAH34XyweStf_30.175800_-92.027922@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532967,
+    "wof:geomhash":"07cafad5e1355785b19d398d1cb9f043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":840441719
+        }
+    ],
+    "wof:id":840441719,
+    "wof:lastmodified":1463532967,
+    "wof:name":"EMSI",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -92.027922,
+    30.1758,
+    -92.027922,
+    30.1758
+],
+  "geometry": {"coordinates":[-92.027922,30.1758],"type":"Point"}
+}

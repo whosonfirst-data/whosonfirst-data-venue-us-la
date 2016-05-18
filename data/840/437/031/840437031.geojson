@@ -1,0 +1,73 @@
+{
+  "id": 840437031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.272657,31.137536,-93.272657,31.137536",
+    "geom:latitude":31.137536,
+    "geom:longitude":-93.272657,
+    "iso:country":"US",
+    "sg:address":"1112 Port Arthur Ter",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 5189",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SYuu7MD0M9euIOFVXN9PA_31.137536_-93.272657@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532770,
+    "wof:geomhash":"1764e6b6ad4ea4241ad2dd0d7dfb2941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840437031
+        }
+    ],
+    "wof:id":840437031,
+    "wof:lastmodified":1463532770,
+    "wof:name":"Chest & Medical Clinic",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.272657,
+    31.137536,
+    -93.272657,
+    31.137536
+],
+  "geometry": {"coordinates":[-93.272657,31.137536],"type":"Point"}
+}

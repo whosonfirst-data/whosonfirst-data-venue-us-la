@@ -1,0 +1,73 @@
+{
+  "id": 840403273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.447929,31.593591,-93.447929,31.593591",
+    "geom:latitude":31.593591,
+    "geom:longitude":-93.447929,
+    "iso:country":"US",
+    "sg:address":"1674 Natchitoches Hwy",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 9282",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E5i1GoGuB4eeGm3OmR9py_31.593591_-93.447929@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531353,
+    "wof:geomhash":"56d21234e1582cec48323854c2f3186a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840403273
+        }
+    ],
+    "wof:id":840403273,
+    "wof:lastmodified":1463531353,
+    "wof:name":"Sabine Veterinary Hospital",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -93.447929,
+    31.593591,
+    -93.447929,
+    31.593591
+],
+  "geometry": {"coordinates":[-93.447929,31.593591],"type":"Point"}
+}

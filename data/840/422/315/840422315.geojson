@@ -1,0 +1,71 @@
+{
+  "id": 840422315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.434153,30.450935,-93.434153,30.450935",
+    "geom:latitude":30.450935,
+    "geom:longitude":-93.434153,
+    "iso:country":"US",
+    "sg:address":"218 E 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 2163",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QZL2453AKw4YVSguXb5gM_30.450935_-93.434153@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532127,
+    "wof:geomhash":"1251fcbb69249ee62e9bf579e52fba77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840422315
+        }
+    ],
+    "wof:id":840422315,
+    "wof:lastmodified":1463532127,
+    "wof:name":"Calcasieu Parish Sheriff Dept",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -93.434153,
+    30.450935,
+    -93.434153,
+    30.450935
+],
+  "geometry": {"coordinates":[-93.43415299999999,30.450935],"type":"Point"}
+}

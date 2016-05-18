@@ -1,0 +1,73 @@
+{
+  "id": 840041547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.804778,29.993089,-91.804778,29.993089",
+    "geom:latitude":29.993089,
+    "geom:longitude":-91.804778,
+    "iso:country":"US",
+    "sg:address":"1305 Lemaire St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 6977",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nzzwcRvbKZfKcqwVDO7GB_29.993089_-91.804778@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519883,
+    "wof:geomhash":"99a04c502820d97778f97063a9314a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840041547
+        }
+    ],
+    "wof:id":840041547,
+    "wof:lastmodified":1463519883,
+    "wof:name":"Master Mechanics",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.804778,
+    29.993089,
+    -91.804778,
+    29.993089
+],
+  "geometry": {"coordinates":[-91.804778,29.993089],"type":"Point"}
+}

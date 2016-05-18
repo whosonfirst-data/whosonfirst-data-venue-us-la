@@ -1,0 +1,73 @@
+{
+  "id": 840454791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.440759,30.451806,-93.440759,30.451806",
+    "geom:latitude":30.451806,
+    "geom:longitude":-93.440759,
+    "iso:country":"US",
+    "sg:address":"601 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/big-woods/188306-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39oCGgDzRzB1JebBmGDjVk_30.451806_-93.440759@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533497,
+    "wof:geomhash":"8a67fd6e2606274cca4241671820b646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454791
+        }
+    ],
+    "wof:id":840454791,
+    "wof:lastmodified":1463533497,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.440759,
+    30.451806,
+    -93.440759,
+    30.451806
+],
+  "geometry": {"coordinates":[-93.440759,30.451806],"type":"Point"}
+}

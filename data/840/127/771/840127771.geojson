@@ -1,0 +1,71 @@
+{
+  "id": 840127771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.104872,30.402788,-91.104872,30.402788",
+    "geom:latitude":30.402788,
+    "geom:longitude":-91.104872,
+    "iso:country":"US",
+    "sg:address":"4950 Essen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 767 1311",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DOx2esrYPYKAPlbzvXaJp_30.402788_-91.104872@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521807,
+    "wof:geomhash":"c806f1eaa1dd805b54ad9620a0d3e2ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840127771
+        }
+    ],
+    "wof:id":840127771,
+    "wof:lastmodified":1463521807,
+    "wof:name":"Louisiana Hematology-Oncology",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.104872,
+    30.402788,
+    -91.104872,
+    30.402788
+],
+  "geometry": {"coordinates":[-91.104872,30.402788],"type":"Point"}
+}

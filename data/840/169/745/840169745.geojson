@@ -1,0 +1,73 @@
+{
+  "id": 840169745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.954761,29.953361,-89.954761,29.953361",
+    "geom:latitude":29.953361,
+    "geom:longitude":-89.954761,
+    "iso:country":"US",
+    "sg:address":"3908 Laplace St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 6222",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YVVEEq9QoLULeIDISlsTA_29.953361_-89.954761@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522665,
+    "wof:geomhash":"d8df20050a6ad772a320a36da26d7f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840169745
+        }
+    ],
+    "wof:id":840169745,
+    "wof:lastmodified":1463522665,
+    "wof:name":"Ideal Plumbing Svc",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.954761,
+    29.953361,
+    -89.954761,
+    29.953361
+],
+  "geometry": {"coordinates":[-89.954761,29.953361],"type":"Point"}
+}

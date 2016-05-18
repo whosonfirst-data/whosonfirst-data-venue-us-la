@@ -1,0 +1,73 @@
+{
+  "id": 840204715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.690287,32.54397,-93.690287,32.54397",
+    "geom:latitude":32.54397,
+    "geom:longitude":-93.690287,
+    "iso:country":"US",
+    "sg:address":"3806 McCoy Dr",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 752 9104",
+    "sg:postcode":"71111",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85811501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KkCNyRD6HbM4T1jrI7h1E_32.543970_-93.690287@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523508,
+    "wof:geomhash":"35265323d4235562a3111b1ecd3342b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85811501,
+            "region_id":85688735,
+            "venue_id":840204715
+        }
+    ],
+    "wof:id":840204715,
+    "wof:lastmodified":1463523508,
+    "wof:name":"City Auto Repair",
+    "wof:parent_id":85811501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.690287,
+    32.54397,
+    -93.690287,
+    32.54397
+],
+  "geometry": {"coordinates":[-93.690287,32.54397],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840442337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.064704,30.217304,-92.064704,30.217304",
+    "geom:latitude":30.217304,
+    "geom:longitude":-92.064704,
+    "iso:country":"US",
+    "sg:address":"1113 Foreman Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 0805",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YnWafaGAKSTMoPGzmEsFB_30.217304_-92.064704@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532991,
+    "wof:geomhash":"5fc163488177ac4c3b57db846154cdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840442337
+        }
+    ],
+    "wof:id":840442337,
+    "wof:lastmodified":1463532991,
+    "wof:name":"Randy Gauthreaux DDS",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.064704,
+    30.217304,
+    -92.064704,
+    30.217304
+],
+  "geometry": {"coordinates":[-92.06470400000001,30.217304],"type":"Point"}
+}

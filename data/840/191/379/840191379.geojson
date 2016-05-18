@@ -1,0 +1,73 @@
+{
+  "id": 840191379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.199829,29.70927,-91.199829,29.70927",
+    "geom:latitude":29.70927,
+    "geom:longitude":-91.199829,
+    "iso:country":"US",
+    "sg:address":"1210 David Dr",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 4170",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LEcfEe4HTtzz13UcpXhjs_29.709270_-91.199829@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523137,
+    "wof:geomhash":"8fd4be977dd2ee28c7ed938248afc9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840191379
+        }
+    ],
+    "wof:id":840191379,
+    "wof:lastmodified":1463523137,
+    "wof:name":"Theiring & Lin",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.199829,
+    29.70927,
+    -91.199829,
+    29.70927
+],
+  "geometry": {"coordinates":[-91.19982899999999,29.70927],"type":"Point"}
+}

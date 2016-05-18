@@ -1,0 +1,69 @@
+{
+  "id": 840103503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.815435,30.292511,-89.815435,30.292511",
+    "geom:latitude":30.292511,
+    "geom:longitude":-89.815435,
+    "iso:country":"US",
+    "sg:address":"523 Queen Anne Dr",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 781 3556",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85819983,
+        102082453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ldLgHE3fgdgoKYD6LCyiy_30.292511_-89.815435@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521292,
+    "wof:geomhash":"4748415e028cb99e5bb42e53b70661d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85819983,
+            "region_id":85688735,
+            "venue_id":840103503
+        }
+    ],
+    "wof:id":840103503,
+    "wof:lastmodified":1463521292,
+    "wof:name":"Taylor Works Maintenance Inc",
+    "wof:parent_id":85819983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.815435,
+    30.292511,
+    -89.815435,
+    30.292511
+],
+  "geometry": {"coordinates":[-89.81543499999999,30.292511],"type":"Point"}
+}

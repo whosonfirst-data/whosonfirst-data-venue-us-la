@@ -1,0 +1,73 @@
+{
+  "id": 840336803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.063636,30.208166,-92.063636,30.208166",
+    "geom:latitude":30.208166,
+    "geom:longitude":-92.063636,
+    "iso:country":"US",
+    "sg:address":"102 Paris St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 406 1078",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MgQXstDd1YUhpWV6IcMO1_30.208166_-92.063636@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528252,
+    "wof:geomhash":"ead9cf9ede43967746b5f4bf2666c58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840336803
+        }
+    ],
+    "wof:id":840336803,
+    "wof:lastmodified":1463528252,
+    "wof:name":"Nice Glass",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -92.063636,
+    30.208166,
+    -92.063636,
+    30.208166
+],
+  "geometry": {"coordinates":[-92.063636,30.208166],"type":"Point"}
+}

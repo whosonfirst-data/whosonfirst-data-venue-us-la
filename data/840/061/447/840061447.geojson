@@ -1,0 +1,71 @@
+{
+  "id": 840061447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.348933,30.227452,-93.348933,30.227452",
+    "geom:latitude":30.227452,
+    "geom:longitude":-93.348933,
+    "iso:country":"US",
+    "sg:address":"2227 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 7578",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IpAWWYmPhQL7XIyl5uk9S_30.227452_-93.348933@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520307,
+    "wof:geomhash":"f7e2a64b559f6a5c86b259d11cae52ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840061447
+        }
+    ],
+    "wof:id":840061447,
+    "wof:lastmodified":1463520307,
+    "wof:name":"Market Basket",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.348933,
+    30.227452,
+    -93.348933,
+    30.227452
+],
+  "geometry": {"coordinates":[-93.348933,30.227452],"type":"Point"}
+}

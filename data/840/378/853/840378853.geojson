@@ -1,0 +1,71 @@
+{
+  "id": 840378853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.179697,30.15452,-93.179697,30.15452",
+    "geom:latitude":30.15452,
+    "geom:longitude":-93.179697,
+    "iso:country":"US",
+    "sg:address":"6035 Tom Hebert Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 8452",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x0vXKENRC4qHbuGkx6HHR_30.154520_-93.179697@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530299,
+    "wof:geomhash":"74e841b6797671b3c00d7aea8ddd4c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840378853
+        }
+    ],
+    "wof:id":840378853,
+    "wof:lastmodified":1463530299,
+    "wof:name":"Bayou Fleet Svc Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -93.179697,
+    30.15452,
+    -93.179697,
+    30.15452
+],
+  "geometry": {"coordinates":[-93.179697,30.15452],"type":"Point"}
+}

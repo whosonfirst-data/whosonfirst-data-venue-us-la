@@ -1,0 +1,73 @@
+{
+  "id": 840358133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.070358,29.990142,-90.070358,29.990142",
+    "geom:latitude":29.990142,
+    "geom:longitude":-90.070358,
+    "iso:country":"US",
+    "sg:address":"1732 Benefit St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 949 8667",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74ePDl77Lmb19L07sAzUZD_29.990142_-90.070358@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529300,
+    "wof:geomhash":"a6ace6749b3ffa1e12f6391b331d6d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866081,
+            "region_id":85688735,
+            "venue_id":840358133
+        }
+    ],
+    "wof:id":840358133,
+    "wof:lastmodified":1463529300,
+    "wof:name":"Kingsmill's Auto Svc",
+    "wof:parent_id":85866081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.070358,
+    29.990142,
+    -90.070358,
+    29.990142
+],
+  "geometry": {"coordinates":[-90.070358,29.990142],"type":"Point"}
+}

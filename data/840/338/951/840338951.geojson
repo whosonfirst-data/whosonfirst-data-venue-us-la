@@ -1,0 +1,73 @@
+{
+  "id": 840338951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.216008,30.221443,-93.216008,30.221443",
+    "geom:latitude":30.221443,
+    "geom:longitude":-93.216008,
+    "iso:country":"US",
+    "sg:address":"1322 Hodges St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 8003",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tool",
+        "provides"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IN4QbzXT71TWbK120RPzJ_30.221443_-93.216008@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528361,
+    "wof:geomhash":"d563a7c5f6b003900b50b97de504f327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840338951
+        }
+    ],
+    "wof:id":840338951,
+    "wof:lastmodified":1463528361,
+    "wof:name":"Mechanical Arts",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "provides"
+    ]
+},
+  "bbox": [
+    -93.216008,
+    30.221443,
+    -93.216008,
+    30.221443
+],
+  "geometry": {"coordinates":[-93.216008,30.221443],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840280683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.166441,30.550569,-91.166441,30.550569",
+    "geom:latitude":30.550569,
+    "geom:longitude":-91.166441,
+    "iso:country":"US",
+    "sg:address":"2455 Gore Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 774 2930",
+    "sg:postcode":"70807",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948207,
+        102087229,
+        85840811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GeYBPhS6MiBQZhGbOsJMI_30.550569_-91.166441@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525650,
+    "wof:geomhash":"ec5be5d1879a2c1223d28c72b77e1a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840811,
+            "region_id":85688735,
+            "venue_id":840280683
+        }
+    ],
+    "wof:id":840280683,
+    "wof:lastmodified":1463525650,
+    "wof:name":"Mr Fix It Auto Repair",
+    "wof:parent_id":85840811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.166441,
+    30.550569,
+    -91.166441,
+    30.550569
+],
+  "geometry": {"coordinates":[-91.16644100000001,30.550569],"type":"Point"}
+}

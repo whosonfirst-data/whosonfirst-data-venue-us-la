@@ -1,0 +1,80 @@
+{
+  "id": 840274503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.048129,30.199528,-92.048129,30.199528",
+    "geom:latitude":30.199528,
+    "geom:longitude":-92.048129,
+    "iso:country":"US",
+    "sg:address":"137 Donald Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 8566",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_469yFiQnDD6AXTSQsfukGg_30.199528_-92.048129@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525370,
+    "wof:geomhash":"a65dcd74fdb23ba0880ad131d1bf4fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840274503
+        }
+    ],
+    "wof:id":840274503,
+    "wof:lastmodified":1463525370,
+    "wof:name":"Advocare Independent Distr",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -92.048129,
+    30.199528,
+    -92.048129,
+    30.199528
+],
+  "geometry": {"coordinates":[-92.048129,30.199528],"type":"Point"}
+}

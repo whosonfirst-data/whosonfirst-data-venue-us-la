@@ -1,0 +1,71 @@
+{
+  "id": 840198169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.100026,30.1812,-92.100026,30.1812",
+    "geom:latitude":30.1812,
+    "geom:longitude":-92.100026,
+    "iso:country":"US",
+    "sg:address":"601 Ridge Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 8866",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pIY3PNkQ7oemteppsK5zL_30.181200_-92.100026@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523283,
+    "wof:geomhash":"ebcd1d5a97f3719819f2dc8f8c9f0a90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840198169
+        }
+    ],
+    "wof:id":840198169,
+    "wof:lastmodified":1463523283,
+    "wof:name":"Pepin's",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -92.100026,
+    30.1812,
+    -92.100026,
+    30.1812
+],
+  "geometry": {"coordinates":[-92.100026,30.1812],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840457375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.6911,29.579539,-90.6911,29.579539",
+    "geom:latitude":29.579539,
+    "geom:longitude":-90.6911,
+    "iso:country":"US",
+    "sg:address":"1107 Grand Caillou Rd",
+    "sg:city":"Houma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/8/208611-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 851 4334",
+    "sg:postcode":"70363",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948799,
+        102081923,
+        85803459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_024tEhkWrpwcJ9FAfnMVqx_29.579733_-90.691158@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533592,
+    "wof:geomhash":"9e33e03a54ec96217e7646ddea7f87dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081923,
+            "locality_id":85948799,
+            "neighbourhood_id":85803459,
+            "region_id":85688735,
+            "venue_id":840457375
+        }
+    ],
+    "wof:id":840457375,
+    "wof:lastmodified":1463533592,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85803459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.6911,
+    29.579539,
+    -90.6911,
+    29.579539
+],
+  "geometry": {"coordinates":[-90.69110000000001,29.579539],"type":"Point"}
+}

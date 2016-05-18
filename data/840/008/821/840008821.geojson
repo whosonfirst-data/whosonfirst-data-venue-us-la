@@ -1,0 +1,71 @@
+{
+  "id": 840008821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.333465,30.159013,-91.333465,30.159013",
+    "geom:latitude":30.159013,
+    "geom:longitude":-91.333465,
+    "iso:country":"US",
+    "sg:address":"33175 State Rte 75",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 659 1004",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z2F6SslyIfPGfCmDbH9RE_30.159013_-91.333465@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519184,
+    "wof:geomhash":"123d35b3b6f38e10ab2a08d0ccf1b0e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840008821
+        }
+    ],
+    "wof:id":840008821,
+    "wof:lastmodified":1463519184,
+    "wof:name":"Bayou Sorrel Volunteer Fire",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.333465,
+    30.159013,
+    -91.333465,
+    30.159013
+],
+  "geometry": {"coordinates":[-91.333465,30.159013],"type":"Point"}
+}

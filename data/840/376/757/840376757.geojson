@@ -1,0 +1,73 @@
+{
+  "id": 840376757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123069,30.019126,-90.123069,30.019126",
+    "geom:latitude":30.019126,
+    "geom:longitude":-90.123069,
+    "iso:country":"US",
+    "sg:address":"1701 Lake Ave",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 835 2652",
+    "sg:postcode":"70005",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948743,
+        102083179,
+        85855393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WPFM20tX7lawb36LL1WUV_30.019126_-90.123069@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530207,
+    "wof:geomhash":"e751e908913e37be5aa6da752812dee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":85855393,
+            "region_id":85688735,
+            "venue_id":840376757
+        }
+    ],
+    "wof:id":840376757,
+    "wof:lastmodified":1463530207,
+    "wof:name":"Lake Avenue Animal Clinic",
+    "wof:parent_id":85855393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.123069,
+    30.019126,
+    -90.123069,
+    30.019126
+],
+  "geometry": {"coordinates":[-90.123069,30.019126],"type":"Point"}
+}

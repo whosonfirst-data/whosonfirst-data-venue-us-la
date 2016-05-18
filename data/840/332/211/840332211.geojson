@@ -1,0 +1,73 @@
+{
+  "id": 840332211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.45481,30.489919,-90.45481,30.489919",
+    "geom:latitude":30.489919,
+    "geom:longitude":-90.45481,
+    "iso:country":"US",
+    "sg:address":"1700 S Holly St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 543 4150",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "national",
+        "guard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f3FNZn8osu5rgo5zjczu4_30.489919_-90.454810@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528044,
+    "wof:geomhash":"2603a96eba689fb4862b5247ea6b0ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840332211
+        }
+    ],
+    "wof:id":840332211,
+    "wof:lastmodified":1463528044,
+    "wof:name":"La National Guard",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "guard"
+    ]
+},
+  "bbox": [
+    -90.45481,
+    30.489919,
+    -90.45481,
+    30.489919
+],
+  "geometry": {"coordinates":[-90.45480999999999,30.489919],"type":"Point"}
+}

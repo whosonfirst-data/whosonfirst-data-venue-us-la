@@ -1,0 +1,75 @@
+{
+  "id": 840020105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.06791,30.172622,-92.06791,30.172622",
+    "geom:latitude":30.172622,
+    "geom:longitude":-92.06791,
+    "iso:country":"US",
+    "sg:address":"3700 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 9898",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ymuzI5hK6Z8XM7PXQGHnu_30.172622_-92.067910@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519410,
+    "wof:geomhash":"da9c05fc73e59dc678ed3fb7f8761056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840020105
+        }
+    ],
+    "wof:id":840020105,
+    "wof:lastmodified":1463519410,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -92.06791,
+    30.172622,
+    -92.06791,
+    30.172622
+],
+  "geometry": {"coordinates":[-92.06791,30.172622],"type":"Point"}
+}

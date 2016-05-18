@@ -1,0 +1,71 @@
+{
+  "id": 840280425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.195622,30.380832,-91.195622,30.380832",
+    "geom:latitude":30.380832,
+    "geom:longitude":-91.195622,
+    "iso:country":"US",
+    "sg:address":"2810 Calanne Ave",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 767 8247",
+    "sg:postcode":"70820",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85844825,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mi86vDJ4ti9u0wDpmrzBz_30.380832_-91.195622@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525632,
+    "wof:geomhash":"2fd3515c0d91b3bceef420e331cda03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85844825,
+            "region_id":85688735,
+            "venue_id":840280425
+        }
+    ],
+    "wof:id":840280425,
+    "wof:lastmodified":1463525632,
+    "wof:name":"Shaffers Electric",
+    "wof:parent_id":85844825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.195622,
+    30.380832,
+    -91.195622,
+    30.380832
+],
+  "geometry": {"coordinates":[-91.195622,30.380832],"type":"Point"}
+}

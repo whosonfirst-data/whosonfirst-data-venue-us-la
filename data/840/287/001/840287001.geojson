@@ -1,0 +1,73 @@
+{
+  "id": 840287001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.012356,30.245962,-93.012356,30.245962",
+    "geom:latitude":30.245962,
+    "geom:longitude":-93.012356,
+    "iso:country":"US",
+    "sg:address":"203 E Miller St",
+    "sg:city":"Iowa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 582 7632",
+    "sg:postcode":"70647",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q3AY3r3VlxGqAz8Bb77dP_30.245962_-93.012356@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525931,
+    "wof:geomhash":"b91c00a96a14584bda6ebb7269ffad71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840287001
+        }
+    ],
+    "wof:id":840287001,
+    "wof:lastmodified":1463525931,
+    "wof:name":"Iowa Health Ctr",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.012356,
+    30.245962,
+    -93.012356,
+    30.245962
+],
+  "geometry": {"coordinates":[-93.012356,30.245962],"type":"Point"}
+}

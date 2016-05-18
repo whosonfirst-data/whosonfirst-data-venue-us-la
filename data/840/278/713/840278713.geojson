@@ -1,0 +1,73 @@
+{
+  "id": 840278713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.827675,29.994595,-91.827675,29.994595",
+    "geom:latitude":29.994595,
+    "geom:longitude":-91.827675,
+    "iso:country":"US",
+    "sg:address":"1111 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 7973",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u6rHxkpejgQJn8DFfH3Ri_29.994595_-91.827675@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525558,
+    "wof:geomhash":"61fecc361144bc2f0c2d6c73454c8a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840278713
+        }
+    ],
+    "wof:id":840278713,
+    "wof:lastmodified":1463525558,
+    "wof:name":"Control Devices Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.827675,
+    29.994595,
+    -91.827675,
+    29.994595
+],
+  "geometry": {"coordinates":[-91.827675,29.994595],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840059319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.109583,32.484395,-92.109583,32.484395",
+    "geom:latitude":32.484395,
+    "geom:longitude":-92.109583,
+    "iso:country":"US",
+    "sg:address":"2010 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 1180",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07kMupADXxRjbe41V6kI3O_32.484395_-92.109583@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520257,
+    "wof:geomhash":"dce5200b5025c6dc37d7879996e849f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840059319
+        }
+    ],
+    "wof:id":840059319,
+    "wof:lastmodified":1463520257,
+    "wof:name":"Twin City Carburetor",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.109583,
+    32.484395,
+    -92.109583,
+    32.484395
+],
+  "geometry": {"coordinates":[-92.109583,32.484395],"type":"Point"}
+}

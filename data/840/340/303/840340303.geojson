@@ -1,0 +1,75 @@
+{
+  "id": 840340303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.521389,31.298503,-92.521389,31.298503",
+    "geom:latitude":31.298503,
+    "geom:longitude":-92.521389,
+    "iso:country":"US",
+    "sg:address":"520 Westwind Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 1922",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P2Q2W0FOvdGkeMtoCoZ7s_31.298503_-92.521389@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528426,
+    "wof:geomhash":"76bd38ec0cf3b45823663f9577970969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840340303
+        }
+    ],
+    "wof:id":840340303,
+    "wof:lastmodified":1463528426,
+    "wof:name":"Rapid Scan Lls",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -92.521389,
+    31.298503,
+    -92.521389,
+    31.298503
+],
+  "geometry": {"coordinates":[-92.521389,31.298503],"type":"Point"}
+}

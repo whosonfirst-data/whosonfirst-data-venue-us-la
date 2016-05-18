@@ -1,0 +1,83 @@
+{
+  "id": 840424187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.103701,29.944053,-90.103701,29.944053",
+    "geom:latitude":29.944053,
+    "geom:longitude":-90.103701,
+    "iso:country":"US",
+    "sg:address":"3301 Napoleon Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 821 2159",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866139,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M3cDTPdaO8q9cymSbY8Zv_29.944053_-90.103701@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532203,
+    "wof:geomhash":"011bf492bb262b721d8e2bbab18bbcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866139,
+            "region_id":85688735,
+            "venue_id":840424187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840424187
+        }
+    ],
+    "wof:id":840424187,
+    "wof:lastmodified":1463532203,
+    "wof:name":"New Orleans Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.103701,
+    29.944053,
+    -90.103701,
+    29.944053
+],
+  "geometry": {"coordinates":[-90.103701,29.944053],"type":"Point"}
+}

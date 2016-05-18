@@ -1,0 +1,73 @@
+{
+  "id": 840290735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.762772,32.442144,-93.762772,32.442144",
+    "geom:latitude":32.442144,
+    "geom:longitude":-93.762772,
+    "iso:country":"US",
+    "sg:address":"314 W 70th St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 861 3024",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nlEmZEl1vE7C2349fkyQt_32.442144_-93.762772@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526096,
+    "wof:geomhash":"50361e4dbafb8409749ab4946fbbbba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880995,
+            "region_id":85688735,
+            "venue_id":840290735
+        }
+    ],
+    "wof:id":840290735,
+    "wof:lastmodified":1463526096,
+    "wof:name":"70th Street Radiator Shop",
+    "wof:parent_id":85880995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.762772,
+    32.442144,
+    -93.762772,
+    32.442144
+],
+  "geometry": {"coordinates":[-93.762772,32.442144],"type":"Point"}
+}

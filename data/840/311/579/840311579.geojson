@@ -1,0 +1,75 @@
+{
+  "id": 840311579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.043066,29.946312,-90.043066,29.946312",
+    "geom:latitude":29.946312,
+    "geom:longitude":-90.043066,
+    "iso:country":"US",
+    "sg:address":"801 Thayer St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 363 2151",
+    "sg:postcode":"70114",
+    "sg:province":"LA",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CxSnnIH2OGnZzSDt5L75Q_29.946312_-90.043066@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527071,
+    "wof:geomhash":"38f34962c3592c96de71f1309e6d9f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866159,
+            "region_id":85688735,
+            "venue_id":840311579
+        }
+    ],
+    "wof:id":840311579,
+    "wof:lastmodified":1463527071,
+    "wof:name":"Port Cargo Svc Inc",
+    "wof:parent_id":85866159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -90.043066,
+    29.946312,
+    -90.043066,
+    29.946312
+],
+  "geometry": {"coordinates":[-90.043066,29.946312],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840451487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0364,30.005501,-90.0364,30.005501",
+    "geom:latitude":30.005501,
+    "geom:longitude":-90.0364,
+    "iso:country":"US",
+    "sg:address":"4601 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 6328",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QlsfKzR3c4MQe7Oau59Qy_30.005636_-90.035750@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533363,
+    "wof:geomhash":"86a4202bc8bc3f3b5c1828c6c51f83e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":840451487
+        }
+    ],
+    "wof:id":840451487,
+    "wof:lastmodified":1463533363,
+    "wof:name":"Wagner's Chef",
+    "wof:parent_id":85821299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.0364,
+    30.005501,
+    -90.0364,
+    30.005501
+],
+  "geometry": {"coordinates":[-90.0364,30.005501],"type":"Point"}
+}

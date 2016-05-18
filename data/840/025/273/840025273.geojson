@@ -1,0 +1,71 @@
+{
+  "id": 840025273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213045,30.216526,-93.213045,30.216526",
+    "geom:latitude":30.216526,
+    "geom:longitude":-93.213045,
+    "iso:country":"US",
+    "sg:address":"610 9th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 2217",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DmgftWcOyjbg3CXYzWKuf_30.216526_-93.213045@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519509,
+    "wof:geomhash":"d39e38c74c883a1dc9af40b72f87b1e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840025273
+        }
+    ],
+    "wof:id":840025273,
+    "wof:lastmodified":1463519509,
+    "wof:name":"Doc U Serv",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -93.213045,
+    30.216526,
+    -93.213045,
+    30.216526
+],
+  "geometry": {"coordinates":[-93.21304499999999,30.216526],"type":"Point"}
+}

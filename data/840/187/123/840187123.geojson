@@ -1,0 +1,71 @@
+{
+  "id": 840187123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.73825,30.067812,-91.73825,30.067812",
+    "geom:latitude":30.067812,
+    "geom:longitude":-91.73825,
+    "iso:country":"US",
+    "sg:address":"1001 N Main St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 3033",
+    "sg:postcode":"70552",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zpWzHO1sTUiMplDbsTAmN_30.067812_-91.738250@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523056,
+    "wof:geomhash":"0707ddea4e73d6c699571c0bccdaee80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840187123
+        }
+    ],
+    "wof:id":840187123,
+    "wof:lastmodified":1463523056,
+    "wof:name":"Piggy Wiggly Of Loreauville",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.73825,
+    30.067812,
+    -91.73825,
+    30.067812
+],
+  "geometry": {"coordinates":[-91.73824999999999,30.067812],"type":"Point"}
+}

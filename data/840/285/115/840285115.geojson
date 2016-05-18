@@ -1,0 +1,71 @@
+{
+  "id": 840285115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.044625,30.319353,-92.044625,30.319353",
+    "geom:latitude":30.319353,
+    "geom:longitude":-92.044625,
+    "iso:country":"US",
+    "sg:address":"121 Andre St",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 6132",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pscv5dsnfu5a3UVhyTXn8_30.319353_-92.044625@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525854,
+    "wof:geomhash":"9dbec19ff7cebcdec75d12d0c059e1a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840285115
+        }
+    ],
+    "wof:id":840285115,
+    "wof:lastmodified":1463525854,
+    "wof:name":"Carencro Police Dept",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.044625,
+    30.319353,
+    -92.044625,
+    30.319353
+],
+  "geometry": {"coordinates":[-92.044625,30.319353],"type":"Point"}
+}

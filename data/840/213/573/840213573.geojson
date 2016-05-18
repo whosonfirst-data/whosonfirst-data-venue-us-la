@@ -1,0 +1,71 @@
+{
+  "id": 840213573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.062981,30.195637,-92.062981,30.195637",
+    "geom:latitude":30.195637,
+    "geom:longitude":-92.062981,
+    "iso:country":"US",
+    "sg:address":"210 Guilbeau Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 3006",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Nf0oe9WJNhyTjitWwRmn_30.195637_-92.062981@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523698,
+    "wof:geomhash":"ebb768f661984fa28eab2e436cef7d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840213573
+        }
+    ],
+    "wof:id":840213573,
+    "wof:lastmodified":1463523698,
+    "wof:name":"Cottman Transmission Ctr",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -92.062981,
+    30.195637,
+    -92.062981,
+    30.195637
+],
+  "geometry": {"coordinates":[-92.06298099999999,30.195637],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840297785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.262507,31.139414,-93.262507,31.139414",
+    "geom:latitude":31.139414,
+    "geom:longitude":-93.262507,
+    "iso:country":"US",
+    "sg:address":"109 E South St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 239 7950",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28x1XeBn7E8IV9b6LnpIWT_31.139414_-93.262507@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526394,
+    "wof:geomhash":"b83fd28242655021145b88815247ce2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840297785
+        }
+    ],
+    "wof:id":840297785,
+    "wof:lastmodified":1463526394,
+    "wof:name":"Leesville Fire Dept",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.262507,
+    31.139414,
+    -93.262507,
+    31.139414
+],
+  "geometry": {"coordinates":[-93.262507,31.139414],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840250239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.10359,32.487679,-92.10359,32.487679",
+    "geom:latitude":32.487679,
+    "geom:longitude":-92.10359,
+    "iso:country":"US",
+    "sg:address":"1001 S 2nd St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 323 6555",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_491PZ7OitXzytMBHJZ9WFF_32.487679_-92.103590@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524615,
+    "wof:geomhash":"88bab9ccda1f93739098ae996d5f111a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840250239
+        }
+    ],
+    "wof:id":840250239,
+    "wof:lastmodified":1463524615,
+    "wof:name":"Ballard's Detail Plus",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -92.10359,
+    32.487679,
+    -92.10359,
+    32.487679
+],
+  "geometry": {"coordinates":[-92.10359,32.487679],"type":"Point"}
+}

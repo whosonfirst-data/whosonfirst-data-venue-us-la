@@ -1,0 +1,73 @@
+{
+  "id": 840265277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213943,30.178451,-93.213943,30.178451",
+    "geom:latitude":30.178451,
+    "geom:longitude":-93.213943,
+    "iso:country":"US",
+    "sg:address":"4321 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 9245",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "federal",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G8h7x26WRRryjMrHJNvig_30.178451_-93.213943@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524945,
+    "wof:geomhash":"e188ea9f54692f6d605533271d2ad23f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840265277
+        }
+    ],
+    "wof:id":840265277,
+    "wof:lastmodified":1463524945,
+    "wof:name":"US Border Patrol",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "affairs"
+    ]
+},
+  "bbox": [
+    -93.213943,
+    30.178451,
+    -93.213943,
+    30.178451
+],
+  "geometry": {"coordinates":[-93.213943,30.178451],"type":"Point"}
+}

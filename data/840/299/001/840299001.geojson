@@ -1,0 +1,75 @@
+{
+  "id": 840299001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.752617,32.521135,-93.752617,32.521135",
+    "geom:latitude":32.521135,
+    "geom:longitude":-93.752617,
+    "iso:country":"US",
+    "sg:address":"208 Airport Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 424 4496",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ckt5yBTKGDj0WBE759I77_32.521135_-93.752617@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526445,
+    "wof:geomhash":"40ee905dca8ca308dc89dd145235e06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880993,
+            "region_id":85688735,
+            "venue_id":840299001
+        }
+    ],
+    "wof:id":840299001,
+    "wof:lastmodified":1463526445,
+    "wof:name":"Tri-State Magneto & Generator",
+    "wof:parent_id":85880993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -93.752617,
+    32.521135,
+    -93.752617,
+    32.521135
+],
+  "geometry": {"coordinates":[-93.752617,32.521135],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840180643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.711716,32.43179,-93.711716,32.43179",
+    "geom:latitude":32.43179,
+    "geom:longitude":-93.711716,
+    "iso:country":"US",
+    "sg:address":"8001 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 212 3952",
+    "sg:postcode":"71115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hQoV42z60U2tsRmJaApod_32.431790_-93.711716@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522922,
+    "wof:geomhash":"f2562510c8468bbb5ead3e5cb33a3f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840180643
+        }
+    ],
+    "wof:id":840180643,
+    "wof:lastmodified":1463522922,
+    "wof:name":"Pierremont Internal Med Assoc",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.711716,
+    32.43179,
+    -93.711716,
+    32.43179
+],
+  "geometry": {"coordinates":[-93.711716,32.43179],"type":"Point"}
+}

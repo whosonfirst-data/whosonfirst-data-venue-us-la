@@ -1,0 +1,75 @@
+{
+  "id": 840043095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.093899,29.924267,-90.093899,29.924267",
+    "geom:latitude":29.924267,
+    "geom:longitude":-90.093899,
+    "iso:country":"US",
+    "sg:address":"1325 Amelia St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 891 8503",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mhDMzyeVH8RljzPFYASGG_29.924267_-90.093899@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519911,
+    "wof:geomhash":"255317103fa240ebd7deef14e76e792d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840043095
+        }
+    ],
+    "wof:id":840043095,
+    "wof:lastmodified":1463519911,
+    "wof:name":"Robert Ancira MD",
+    "wof:parent_id":85866115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.093899,
+    29.924267,
+    -90.093899,
+    29.924267
+],
+  "geometry": {"coordinates":[-90.09389899999999,29.924267],"type":"Point"}
+}

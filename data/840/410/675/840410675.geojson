@@ -1,0 +1,75 @@
+{
+  "id": 840410675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.696844,32.037822,-93.696844,32.037822",
+    "geom:latitude":32.037822,
+    "geom:longitude":-93.696844,
+    "iso:country":"US",
+    "sg:address":"407 Polk St",
+    "sg:city":"Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 872 5555",
+    "sg:postcode":"71052",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948189,
+        102084887,
+        85813793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qtoobk2ncAkYdDdNbGq7v_32.037822_-93.696844@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531646,
+    "wof:geomhash":"10a74d916ac9647ff249fd99747e64a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084887,
+            "locality_id":85948189,
+            "neighbourhood_id":85813793,
+            "region_id":85688735,
+            "venue_id":840410675
+        }
+    ],
+    "wof:id":840410675,
+    "wof:lastmodified":1463531646,
+    "wof:name":"Telephone Place",
+    "wof:parent_id":85813793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -93.696844,
+    32.037822,
+    -93.696844,
+    32.037822
+],
+  "geometry": {"coordinates":[-93.696844,32.037822],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840453357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.217056,29.956277,-90.217056,29.956277",
+    "geom:latitude":29.956277,
+    "geom:longitude":-90.217056,
+    "iso:country":"US",
+    "sg:address":"9601 Jefferson Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bridge-city/185283-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tnpYpVGMykPXiUAzTm3jr_29.956277_-90.217056@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533438,
+    "wof:geomhash":"e5c9a2e6c074f0e8f392f595301e9de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840453357
+        }
+    ],
+    "wof:id":840453357,
+    "wof:lastmodified":1463533438,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.217056,
+    29.956277,
+    -90.217056,
+    29.956277
+],
+  "geometry": {"coordinates":[-90.217056,29.956277],"type":"Point"}
+}

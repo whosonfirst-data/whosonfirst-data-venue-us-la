@@ -1,0 +1,78 @@
+{
+  "id": 840405341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.06003,29.959898,-90.06003,29.959898",
+    "geom:latitude":29.959898,
+    "geom:longitude":-90.06003,
+    "iso:country":"US",
+    "sg:address":"1007 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 558 0606",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853777,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05eUf9uVy9a96aD6L9zXGY_29.959898_-90.060030@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531436,
+    "wof:geomhash":"82a9037d8ecb6495dd3a2f3d08484b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840405341
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840405341
+        }
+    ],
+    "wof:id":840405341,
+    "wof:lastmodified":1463531436,
+    "wof:name":"Bayou Spirits",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.06003,
+    29.959898,
+    -90.06003,
+    29.959898
+],
+  "geometry": {"coordinates":[-90.06003,29.959898],"type":"Point"}
+}

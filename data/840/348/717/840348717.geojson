@@ -1,0 +1,73 @@
+{
+  "id": 840348717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.305469,29.71476,-91.305469,29.71476",
+    "geom:latitude":29.71476,
+    "geom:longitude":-91.305469,
+    "iso:country":"US",
+    "sg:address":"100 Becky Dr",
+    "sg:city":"Patterson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 2001",
+    "sg:postcode":"70392",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gLNrhoKNLHLbCXn4ANTQD_29.714760_-91.305469@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528845,
+    "wof:geomhash":"f961de261946a14b31edfe649e15ece2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840348717
+        }
+    ],
+    "wof:id":840348717,
+    "wof:lastmodified":1463528845,
+    "wof:name":"Petrovic Electric Contractors",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.305469,
+    29.71476,
+    -91.305469,
+    29.71476
+],
+  "geometry": {"coordinates":[-91.305469,29.71476],"type":"Point"}
+}

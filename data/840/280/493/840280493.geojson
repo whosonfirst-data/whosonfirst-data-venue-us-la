@@ -1,0 +1,73 @@
+{
+  "id": 840280493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.739427,32.430892,-93.739427,32.430892",
+    "geom:latitude":32.430892,
+    "geom:longitude":-93.739427,
+    "iso:country":"US",
+    "sg:address":"8201 Tennis Court Ln",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 869 3303",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JTh7Yp7KEVPAoTQUVJicE_32.430892_-93.739427@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525639,
+    "wof:geomhash":"fa1955e7e5f658b677658321c65e76cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840280493
+        }
+    ],
+    "wof:id":840280493,
+    "wof:lastmodified":1463525639,
+    "wof:name":"Racket Club Indoors",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -93.739427,
+    32.430892,
+    -93.739427,
+    32.430892
+],
+  "geometry": {"coordinates":[-93.73942700000001,32.430892],"type":"Point"}
+}

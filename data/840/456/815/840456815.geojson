@@ -1,0 +1,76 @@
+{
+  "id": 840456815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.457091,31.278168,-92.457091,31.278168",
+    "geom:latitude":31.278168,
+    "geom:longitude":-92.457091,
+    "iso:country":"US",
+    "sg:address":"3500 North Blvd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/173715-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 448 0790",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BfP9yPFhCBRgG9TuAq76S_31.278168_-92.457091@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533567,
+    "wof:geomhash":"93790f6a07a0dec916136913bf0d067b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840456815
+        }
+    ],
+    "wof:id":840456815,
+    "wof:lastmodified":1463533567,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -92.457091,
+    31.278168,
+    -92.457091,
+    31.278168
+],
+  "geometry": {"coordinates":[-92.45709100000001,31.278168],"type":"Point"}
+}

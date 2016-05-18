@@ -1,0 +1,69 @@
+{
+  "id": 840190223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.024954,30.451538,-91.024954,30.451538",
+    "geom:latitude":30.451538,
+    "geom:longitude":-91.024954,
+    "iso:country":"US",
+    "sg:address":"14471 Old Hammond Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 272 7015",
+    "sg:postcode":"70816",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85844741,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nupCDu798QskpsvYE0o21_30.451538_-91.024954@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523116,
+    "wof:geomhash":"27352883223bc69d9ff8be748154e32e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85844741,
+            "region_id":85688735,
+            "venue_id":840190223
+        }
+    ],
+    "wof:id":840190223,
+    "wof:lastmodified":1463523116,
+    "wof:name":"River Oaks Animal Hospital",
+    "wof:parent_id":85844741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.024954,
+    30.451538,
+    -91.024954,
+    30.451538
+],
+  "geometry": {"coordinates":[-91.02495399999999,30.451538],"type":"Point"}
+}

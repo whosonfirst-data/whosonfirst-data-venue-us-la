@@ -1,0 +1,75 @@
+{
+  "id": 840100243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.023633,30.379314,-91.023633,30.379314",
+    "geom:latitude":30.379314,
+    "geom:longitude":-91.023633,
+    "iso:country":"US",
+    "sg:address":"14425 Jefferson Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 929 6538",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U2Nvq4f1rLjNCJjz2kByt_30.379314_-91.023633@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521214,
+    "wof:geomhash":"15ca148399fc8a2e5518809176a35ae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840100243
+        }
+    ],
+    "wof:id":840100243,
+    "wof:lastmodified":1463521214,
+    "wof:name":"Auto Radiator Outlet",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -91.023633,
+    30.379314,
+    -91.023633,
+    30.379314
+],
+  "geometry": {"coordinates":[-91.023633,30.379314],"type":"Point"}
+}

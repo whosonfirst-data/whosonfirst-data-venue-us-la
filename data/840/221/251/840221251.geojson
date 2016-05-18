@@ -1,0 +1,71 @@
+{
+  "id": 840221251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.227744,30.190887,-93.227744,30.190887",
+    "geom:latitude":30.190887,
+    "geom:longitude":-93.227744,
+    "iso:country":"US",
+    "sg:address":"404 W School St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 8163",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71urh5RZM5T8l9d0gvw0In_30.190887_-93.227744@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523859,
+    "wof:geomhash":"eeb94d414931299557eab4d45478febc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840221251
+        }
+    ],
+    "wof:id":840221251,
+    "wof:lastmodified":1463523859,
+    "wof:name":"Jess Feist Dr",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -93.227744,
+    30.190887,
+    -93.227744,
+    30.190887
+],
+  "geometry": {"coordinates":[-93.227744,30.190887],"type":"Point"}
+}

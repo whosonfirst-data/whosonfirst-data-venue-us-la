@@ -1,0 +1,73 @@
+{
+  "id": 840316619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209767,30.199786,-93.209767,30.199786",
+    "geom:latitude":30.199786,
+    "geom:longitude":-93.209767,
+    "iso:country":"US",
+    "sg:address":"3101 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 6652",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_772vEvSt66qSF03tvkINWR_30.199786_-93.209767@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527288,
+    "wof:geomhash":"99f303d55ec65c9f46413068b1db697b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840316619
+        }
+    ],
+    "wof:id":840316619,
+    "wof:lastmodified":1463527288,
+    "wof:name":"Pronia's Food Alley",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -93.209767,
+    30.199786,
+    -93.209767,
+    30.199786
+],
+  "geometry": {"coordinates":[-93.209767,30.199786],"type":"Point"}
+}

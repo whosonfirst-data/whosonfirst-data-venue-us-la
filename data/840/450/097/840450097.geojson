@@ -1,0 +1,87 @@
+{
+  "id": 840450097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.035797,29.917801,-90.035797,29.917801",
+    "geom:latitude":29.917801,
+    "geom:longitude":-90.035797,
+    "iso:country":"US",
+    "sg:address":"128 Wright Ave",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 349 1610",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948739,
+        102083179,
+        85869723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_301bKuCKGb83gL10CRnboD_29.917997_-90.035699@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533305,
+    "wof:geomhash":"8cf2ea5ea9f43e7f05526eda34d08c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":840450097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948739,
+            "neighbourhood_id":85869723,
+            "region_id":85688735,
+            "venue_id":840450097
+        }
+    ],
+    "wof:id":840450097,
+    "wof:lastmodified":1463533305,
+    "wof:name":"West Jefferson Home Health and Hospice",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -90.035797,
+    29.917801,
+    -90.035797,
+    29.917801
+],
+  "geometry": {"coordinates":[-90.035797,29.917801],"type":"Point"}
+}

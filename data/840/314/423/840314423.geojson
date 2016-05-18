@@ -1,0 +1,71 @@
+{
+  "id": 840314423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.448674,30.451295,-93.448674,30.451295",
+    "geom:latitude":30.451295,
+    "geom:longitude":-93.448674,
+    "iso:country":"US",
+    "sg:address":"1577 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 5562",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jvaV31cONgkhEEjSEiRAd_30.451295_-93.448674@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527195,
+    "wof:geomhash":"d8030a372dca4009233302e92da68f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840314423
+        }
+    ],
+    "wof:id":840314423,
+    "wof:lastmodified":1463527195,
+    "wof:name":"Kenny's Katfish Depot",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -93.448674,
+    30.451295,
+    -93.448674,
+    30.451295
+],
+  "geometry": {"coordinates":[-93.448674,30.451295],"type":"Point"}
+}

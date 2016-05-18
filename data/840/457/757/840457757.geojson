@@ -1,0 +1,74 @@
+{
+  "id": 840457757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.01574,30.40765,-91.01574,30.40765",
+    "geom:latitude":30.40765,
+    "geom:longitude":-91.01574,
+    "iso:country":"US",
+    "sg:address":"5119 Jones Creek Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/197529-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 755 6178",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cFuMmYDgb68ze033T007p_30.407631_-91.016056@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533604,
+    "wof:geomhash":"c9d5ac3b229f98ca8d05bf695ed6f601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840457757
+        }
+    ],
+    "wof:id":840457757,
+    "wof:lastmodified":1463533604,
+    "wof:name":"Burger King",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.01574,
+    30.40765,
+    -91.01574,
+    30.40765
+],
+  "geometry": {"coordinates":[-91.01573999999999,30.40765],"type":"Point"}
+}

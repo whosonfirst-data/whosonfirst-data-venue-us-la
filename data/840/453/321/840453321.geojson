@@ -1,0 +1,78 @@
+{
+  "id": 840453321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.052243,30.026369,-90.052243,30.026369",
+    "geom:latitude":30.026369,
+    "geom:longitude":-90.052243,
+    "iso:country":"US",
+    "sg:address":"6600 Franklin Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/136680-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 288 5863",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BOrmK7jXpT6P5zyeJuP5v_30.026369_-90.052243@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533437,
+    "wof:geomhash":"9cefc3ba1feaefe8065d8d010eac92c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829167,
+            "region_id":85688735,
+            "venue_id":840453321
+        }
+    ],
+    "wof:id":840453321,
+    "wof:lastmodified":1463533437,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85829167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.052243,
+    30.026369,
+    -90.052243,
+    30.026369
+],
+  "geometry": {"coordinates":[-90.052243,30.026369],"type":"Point"}
+}

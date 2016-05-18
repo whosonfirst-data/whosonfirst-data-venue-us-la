@@ -1,0 +1,71 @@
+{
+  "id": 840383585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.265033,31.143939,-93.265033,31.143939",
+    "geom:latitude":31.143939,
+    "geom:longitude":-93.265033,
+    "iso:country":"US",
+    "sg:address":"101 W Lee St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 0332",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dod0bkCjqo7GOGoOHaORk_31.143939_-93.265033@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530516,
+    "wof:geomhash":"8ea56cb0779fdac5f707b0ad7cef11f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840383585
+        }
+    ],
+    "wof:id":840383585,
+    "wof:lastmodified":1463530516,
+    "wof:name":"Leesville Police-Civil Defense",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.265033,
+    31.143939,
+    -93.265033,
+    31.143939
+],
+  "geometry": {"coordinates":[-93.265033,31.143939],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840092921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.177697,30.234972,-93.177697,30.234972",
+    "geom:latitude":30.234972,
+    "geom:longitude":-93.177697,
+    "iso:country":"US",
+    "sg:address":"2715 Fruge St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 4321",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GfcCLUhwq0e4lN2qIOvAr_30.234972_-93.177697@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521077,
+    "wof:geomhash":"3ea3825fdae2b7055fc3eac70eaa4a52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840092921
+        }
+    ],
+    "wof:id":840092921,
+    "wof:lastmodified":1463521077,
+    "wof:name":"Rex Matte Trucking",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.177697,
+    30.234972,
+    -93.177697,
+    30.234972
+],
+  "geometry": {"coordinates":[-93.17769699999999,30.234972],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 840449839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.060898,29.959,-90.060898,29.959",
+    "geom:latitude":29.959,
+    "geom:longitude":-90.060898,
+    "iso:country":"US",
+    "sg:address":"933 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 1602",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"www.franksrestaurantneworleans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853777,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L61R7CKkStlylHgIcRMmX_29.959085_-90.060800@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533295,
+    "wof:geomhash":"948e3f7cd7d9f50ac8bfad0cdc8aee45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840449839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840449839
+        }
+    ],
+    "wof:id":840449839,
+    "wof:lastmodified":1463533295,
+    "wof:name":"Franks Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -90.060898,
+    29.959,
+    -90.060898,
+    29.959
+],
+  "geometry": {"coordinates":[-90.06089799999999,29.959],"type":"Point"}
+}

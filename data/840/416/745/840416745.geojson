@@ -1,0 +1,73 @@
+{
+  "id": 840416745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.428624,30.439042,-90.428624,30.439042",
+    "geom:latitude":30.439042,
+    "geom:longitude":-90.428624,
+    "iso:country":"US",
+    "sg:address":"1005 Pelican Dr",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 3257",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q63DviGJviCnOnvpWV1Vn_30.439042_-90.428624@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531893,
+    "wof:geomhash":"8cf2d7d48eb61376618b75a9adff999b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840416745
+        }
+    ],
+    "wof:id":840416745,
+    "wof:lastmodified":1463531893,
+    "wof:name":"Housing Authority Of Town",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -90.428624,
+    30.439042,
+    -90.428624,
+    30.439042
+],
+  "geometry": {"coordinates":[-90.428624,30.439042],"type":"Point"}
+}

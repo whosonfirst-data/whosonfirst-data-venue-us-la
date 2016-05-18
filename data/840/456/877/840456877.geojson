@@ -1,0 +1,73 @@
+{
+  "id": 840456877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.478984,31.297457,-92.478984,31.297457",
+    "geom:latitude":31.297457,
+    "geom:longitude":-92.478984,
+    "iso:country":"US",
+    "sg:address":"507 Macarthur Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/188242-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DkUXigJGgigPc75nz5K7H_31.297457_-92.478984@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533569,
+    "wof:geomhash":"c70d395e57d194ea5f3c8d7f9cbac265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840456877
+        }
+    ],
+    "wof:id":840456877,
+    "wof:lastmodified":1463533569,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.478984,
+    31.297457,
+    -92.478984,
+    31.297457
+],
+  "geometry": {"coordinates":[-92.478984,31.297457],"type":"Point"}
+}

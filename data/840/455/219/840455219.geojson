@@ -1,0 +1,76 @@
+{
+  "id": 840455219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.104163,30.451416,-91.104163,30.451416",
+    "geom:latitude":30.451416,
+    "geom:longitude":-91.104163,
+    "iso:country":"US",
+    "sg:address":"8110 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/180393-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 925 0004",
+    "sg:postcode":"70806",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85802347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YwF2furq5ruqGsbcQ5D5k_30.451416_-91.104163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533512,
+    "wof:geomhash":"6e5b4fa7d1c98d7f25d0e3dec6fc61c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85802347,
+            "region_id":85688735,
+            "venue_id":840455219
+        }
+    ],
+    "wof:id":840455219,
+    "wof:lastmodified":1463533512,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85802347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.104163,
+    30.451416,
+    -91.104163,
+    30.451416
+],
+  "geometry": {"coordinates":[-91.104163,30.451416],"type":"Point"}
+}

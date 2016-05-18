@@ -1,0 +1,75 @@
+{
+  "id": 840066205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.957328,29.948057,-89.957328,29.948057",
+    "geom:latitude":29.948057,
+    "geom:longitude":-89.957328,
+    "iso:country":"US",
+    "sg:address":"3212 Laplace St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 8711",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70FGw8bkMumWR6mlUGmq2N_29.948057_-89.957328@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520397,
+    "wof:geomhash":"e561633ba4d7d07e9d9eab5ccadbd26e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840066205
+        }
+    ],
+    "wof:id":840066205,
+    "wof:lastmodified":1463520397,
+    "wof:name":"Ron Sporl Racing Ents",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.957328,
+    29.948057,
+    -89.957328,
+    29.948057
+],
+  "geometry": {"coordinates":[-89.957328,29.948057],"type":"Point"}
+}

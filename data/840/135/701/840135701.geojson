@@ -1,0 +1,76 @@
+{
+  "id": 840135701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.11165,32.496739,-92.11165,32.496739",
+    "geom:latitude":32.496739,
+    "geom:longitude":-92.11165,
+    "iso:country":"US",
+    "sg:address":"100 S 2nd St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 7836",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KqhSPYWKatvz10U6lRKxT_32.496739_-92.111650@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521966,
+    "wof:geomhash":"4e6055b980f933711cbe77fc66637328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840135701
+        }
+    ],
+    "wof:id":840135701,
+    "wof:lastmodified":1463521966,
+    "wof:name":"Monroe Medical Clinic Pharmacy",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.11165,
+    32.496739,
+    -92.11165,
+    32.496739
+],
+  "geometry": {"coordinates":[-92.11165,32.496739],"type":"Point"}
+}

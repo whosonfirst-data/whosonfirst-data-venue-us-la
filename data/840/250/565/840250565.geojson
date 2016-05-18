@@ -1,0 +1,75 @@
+{
+  "id": 840250565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.998493,30.184954,-91.998493,30.184954",
+    "geom:latitude":30.184954,
+    "geom:longitude":-91.998493,
+    "iso:country":"US",
+    "sg:address":"304 Mecca St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 9661",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fkR5hwLpgENDDB8SqJFgQ_30.184954_-91.998493@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524623,
+    "wof:geomhash":"4bf9e59b5853d3a76b034339668af241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":840250565
+        }
+    ],
+    "wof:id":840250565,
+    "wof:lastmodified":1463524623,
+    "wof:name":"Total Rebuild Inc",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.998493,
+    30.184954,
+    -91.998493,
+    30.184954
+],
+  "geometry": {"coordinates":[-91.998493,30.184954],"type":"Point"}
+}

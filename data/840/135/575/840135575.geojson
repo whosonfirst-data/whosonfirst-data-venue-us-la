@@ -1,0 +1,73 @@
+{
+  "id": 840135575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.062944,30.195627,-92.062944,30.195627",
+    "geom:latitude":30.195627,
+    "geom:longitude":-92.062944,
+    "iso:country":"US",
+    "sg:address":"214 Guilbeau Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 4200",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u7NJzaHq48bte9vrBcOfQ_30.195627_-92.062944@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521964,
+    "wof:geomhash":"7ca7dd2ce2fb577ccda3f784f15b801d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840135575
+        }
+    ],
+    "wof:id":840135575,
+    "wof:lastmodified":1463521964,
+    "wof:name":"Bill's Garage",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.062944,
+    30.195627,
+    -92.062944,
+    30.195627
+],
+  "geometry": {"coordinates":[-92.062944,30.195627],"type":"Point"}
+}

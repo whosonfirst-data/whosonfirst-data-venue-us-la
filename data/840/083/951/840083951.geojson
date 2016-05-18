@@ -1,0 +1,73 @@
+{
+  "id": 840083951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.523095,31.301879,-92.523095,31.301879",
+    "geom:latitude":31.301879,
+    "geom:longitude":-92.523095,
+    "iso:country":"US",
+    "sg:address":"409 John Allison Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 0676",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "consultant",
+        "forensic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uu7ggcKi8f2GIBTtLd4Jd_31.301879_-92.523095@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520886,
+    "wof:geomhash":"351d9c8de7ce7ad45880e165d60020e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840083951
+        }
+    ],
+    "wof:id":840083951,
+    "wof:lastmodified":1463520886,
+    "wof:name":"North LA Crime Laboratory",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "forensic"
+    ]
+},
+  "bbox": [
+    -92.523095,
+    31.301879,
+    -92.523095,
+    31.301879
+],
+  "geometry": {"coordinates":[-92.523095,31.301879],"type":"Point"}
+}

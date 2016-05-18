@@ -1,0 +1,76 @@
+{
+  "id": 840456773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.154805,32.48808,-92.154805,32.48808",
+    "geom:latitude":32.48808,
+    "geom:longitude":-92.154805,
+    "iso:country":"US",
+    "sg:address":"1602 Thomas Rd",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/mt-pleasant/132171-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 998 1250",
+    "sg:postcode":"71292",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QwNcIxDddbt2Tu5Fzc6k0_32.488080_-92.154805@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533565,
+    "wof:geomhash":"1cb1edac7655fa9f200e32ce140f2b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840456773
+        }
+    ],
+    "wof:id":840456773,
+    "wof:lastmodified":1463533565,
+    "wof:name":"Subway",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.154805,
+    32.48808,
+    -92.154805,
+    32.48808
+],
+  "geometry": {"coordinates":[-92.154805,32.48808],"type":"Point"}
+}

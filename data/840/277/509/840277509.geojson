@@ -1,0 +1,73 @@
+{
+  "id": 840277509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.367865,30.229482,-93.367865,30.229482",
+    "geom:latitude":30.229482,
+    "geom:longitude":-93.367865,
+    "iso:country":"US",
+    "sg:address":"1327 Stelly Ln",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 6416",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lj2GvElbpc5fxWZM8Z5hC_30.229482_-93.367865@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525503,
+    "wof:geomhash":"ce6f0c097d427a1f82155329370fdeab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840277509
+        }
+    ],
+    "wof:id":840277509,
+    "wof:lastmodified":1463525503,
+    "wof:name":"Sulphur Prenatal Clinic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.367865,
+    30.229482,
+    -93.367865,
+    30.229482
+],
+  "geometry": {"coordinates":[-93.36786499999999,30.229482],"type":"Point"}
+}

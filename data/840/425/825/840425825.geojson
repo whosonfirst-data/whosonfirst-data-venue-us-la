@@ -1,0 +1,71 @@
+{
+  "id": 840425825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.056981,30.196362,-92.056981,30.196362",
+    "geom:latitude":30.196362,
+    "geom:longitude":-92.056981,
+    "iso:country":"US",
+    "sg:address":"4100 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1216",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BvXtXbPqkQUaWctXZCScH_30.196362_-92.056981@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532269,
+    "wof:geomhash":"a5d230ff2e257052320ca9d0b7caacf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840425825
+        }
+    ],
+    "wof:id":840425825,
+    "wof:lastmodified":1463532269,
+    "wof:name":"Al's Barber Shop",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.056981,
+    30.196362,
+    -92.056981,
+    30.196362
+],
+  "geometry": {"coordinates":[-92.05698099999999,30.196362],"type":"Point"}
+}

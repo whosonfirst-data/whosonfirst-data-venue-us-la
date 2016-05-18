@@ -1,0 +1,75 @@
+{
+  "id": 840100699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.016708,30.170866,-92.016708,30.170866",
+    "geom:latitude":30.170866,
+    "geom:longitude":-92.016708,
+    "iso:country":"US",
+    "sg:address":"101 Chastant Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 7002",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46wS9nWfAPkCFV9p1KKrNU_30.170866_-92.016708@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521231,
+    "wof:geomhash":"8c82ec93dfcd92169a66615f0926b213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":840100699
+        }
+    ],
+    "wof:id":840100699,
+    "wof:lastmodified":1463521231,
+    "wof:name":"Residential Rental Properties",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -92.016708,
+    30.170866,
+    -92.016708,
+    30.170866
+],
+  "geometry": {"coordinates":[-92.01670799999999,30.170866],"type":"Point"}
+}

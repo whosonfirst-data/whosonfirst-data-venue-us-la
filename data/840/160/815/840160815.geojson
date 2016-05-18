@@ -1,0 +1,77 @@
+{
+  "id": 840160815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.995465,30.209702,-91.995465,30.209702",
+    "geom:latitude":30.209702,
+    "geom:longitude":-91.995465,
+    "iso:country":"US",
+    "sg:address":"114 Borman Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 3242",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526097,
+        85803337,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y8Nbj2FWAYEEhIyT2S05K_30.209702_-91.995465@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522462,
+    "wof:geomhash":"8c1c8994f2aaf62902736a6ac250d470",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526097,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840160815
+        }
+    ],
+    "wof:id":840160815,
+    "wof:lastmodified":1463522462,
+    "wof:name":"Lafayette Aero",
+    "wof:parent_id":102526097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.995465,
+    30.209702,
+    -91.995465,
+    30.209702
+],
+  "geometry": {"coordinates":[-91.995465,30.209702],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840418567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.21783,30.225749,-93.21783,30.225749",
+    "geom:latitude":30.225749,
+    "geom:longitude":-93.21783,
+    "iso:country":"US",
+    "sg:address":"1000 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 437 3550",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lFpnpdoEv3kJNhXtdGLEm_30.225749_-93.217830@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531967,
+    "wof:geomhash":"202ff16beb31351f27580c8f550c62d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840418567
+        }
+    ],
+    "wof:id":840418567,
+    "wof:lastmodified":1463531967,
+    "wof:name":"Calcasieu Clerk Of Court",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -93.21783,
+    30.225749,
+    -93.21783,
+    30.225749
+],
+  "geometry": {"coordinates":[-93.21783000000001,30.225749],"type":"Point"}
+}

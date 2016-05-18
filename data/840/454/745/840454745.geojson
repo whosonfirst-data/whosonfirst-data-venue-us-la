@@ -1,0 +1,72 @@
+{
+  "id": 840454745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249208,30.178446,-93.249208,30.178446",
+    "geom:latitude":30.178446,
+    "geom:longitude":-93.249208,
+    "iso:country":"US",
+    "sg:address":"4305 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/208625-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 1111",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zT9ntY1965LqJJgWoxbsn_30.178446_-93.249208@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533495,
+    "wof:geomhash":"3327e7b6d979b006933bda0f6c57733f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840454745
+        }
+    ],
+    "wof:id":840454745,
+    "wof:lastmodified":1463533495,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.249208,
+    30.178446,
+    -93.249208,
+    30.178446
+],
+  "geometry": {"coordinates":[-93.249208,30.178446],"type":"Point"}
+}

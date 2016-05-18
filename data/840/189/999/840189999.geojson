@@ -1,0 +1,71 @@
+{
+  "id": 840189999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.488836,30.606539,-90.488836,30.606539",
+    "geom:latitude":30.606539,
+    "geom:longitude":-90.488836,
+    "iso:country":"US",
+    "sg:address":"14156 E Black Cat Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 878 6211",
+    "sg:postcode":"70443",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VwyCbvn2WsUkSU032nb4e_30.606539_-90.488836@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523113,
+    "wof:geomhash":"ca0470fb8c10ecb72cbc261b169f619d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840189999
+        }
+    ],
+    "wof:id":840189999,
+    "wof:lastmodified":1463523113,
+    "wof:name":"Ronnies Machine Shop",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.488836,
+    30.606539,
+    -90.488836,
+    30.606539
+],
+  "geometry": {"coordinates":[-90.48883600000001,30.606539],"type":"Point"}
+}

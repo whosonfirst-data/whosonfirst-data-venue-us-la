@@ -1,0 +1,75 @@
+{
+  "id": 840322545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.615002,31.294524,-92.615002,31.294524",
+    "geom:latitude":31.294524,
+    "geom:longitude":-92.615002,
+    "iso:country":"US",
+    "sg:address":"9365 State Rte 28",
+    "sg:city":"Boyce",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 1234",
+    "sg:postcode":"71409",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79YRD1kzVnsp7OuMuhyYvM_31.294524_-92.615002@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527578,
+    "wof:geomhash":"52615999b2193233c484bc066d4168aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840322545
+        }
+    ],
+    "wof:id":840322545,
+    "wof:lastmodified":1463527578,
+    "wof:name":"Pauls Paint & Body Shop",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -92.615002,
+    31.294524,
+    -92.615002,
+    31.294524
+],
+  "geometry": {"coordinates":[-92.615002,31.294524],"type":"Point"}
+}

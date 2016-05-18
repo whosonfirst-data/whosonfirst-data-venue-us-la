@@ -1,0 +1,71 @@
+{
+  "id": 840377451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.890454,32.583181,-93.890454,32.583181",
+    "geom:latitude":32.583181,
+    "geom:longitude":-93.890454,
+    "iso:country":"US",
+    "sg:address":"314 Alexander Ave",
+    "sg:city":"Blanchard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 3700",
+    "sg:postcode":"71009",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G1JKw1959R3zUpqLgzAw3_32.583181_-93.890454@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530243,
+    "wof:geomhash":"82a3032fe91298eeec956259fd3f6ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840377451
+        }
+    ],
+    "wof:id":840377451,
+    "wof:lastmodified":1463530243,
+    "wof:name":"Blanchard Town Police Chief",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.890454,
+    32.583181,
+    -93.890454,
+    32.583181
+],
+  "geometry": {"coordinates":[-93.89045400000001,32.583181],"type":"Point"}
+}

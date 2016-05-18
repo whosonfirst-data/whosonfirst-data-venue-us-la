@@ -1,0 +1,73 @@
+{
+  "id": 840341299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.089342,29.962821,-90.089342,29.962821",
+    "geom:latitude":29.962821,
+    "geom:longitude":-90.089342,
+    "iso:country":"US",
+    "sg:address":"2615 Banks St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 371 8697",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ype6AqPG85VcE6yxCmEYj_29.962821_-90.089342@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528474,
+    "wof:geomhash":"c27e7b78b8de1d9eebe632dcf250e183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840341299
+        }
+    ],
+    "wof:id":840341299,
+    "wof:lastmodified":1463528474,
+    "wof:name":"TDF Towing Co",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.089342,
+    29.962821,
+    -90.089342,
+    29.962821
+],
+  "geometry": {"coordinates":[-90.089342,29.962821],"type":"Point"}
+}

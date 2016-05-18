@@ -1,0 +1,71 @@
+{
+  "id": 840304843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.018479,30.27365,-92.018479,30.27365",
+    "geom:latitude":30.27365,
+    "geom:longitude":-92.018479,
+    "iso:country":"US",
+    "sg:address":"121 E Pont Des Mouton Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 262 5880",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L2pcVrhpeX6CPvrnTePer_30.273650_-92.018479@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526757,
+    "wof:geomhash":"8cd4bf4799587f05f24dce7cfce4339c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840304843
+        }
+    ],
+    "wof:id":840304843,
+    "wof:lastmodified":1463526757,
+    "wof:name":"Police Dept",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -92.018479,
+    30.27365,
+    -92.018479,
+    30.27365
+],
+  "geometry": {"coordinates":[-92.018479,30.27365],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840264959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.477814,31.282331,-92.477814,31.282331",
+    "geom:latitude":31.282331,
+    "geom:longitude":-92.477814,
+    "iso:country":"US",
+    "sg:address":"3916 Jackson St Exd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 9860",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SFFUKKPS56do9eeq9hspP_31.282331_-92.477814@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524927,
+    "wof:geomhash":"716a53366c9765fe086b00ed1e74a171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840264959
+        }
+    ],
+    "wof:id":840264959,
+    "wof:lastmodified":1463524927,
+    "wof:name":"Pediatric Clinic",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.477814,
+    31.282331,
+    -92.477814,
+    31.282331
+],
+  "geometry": {"coordinates":[-92.477814,31.282331],"type":"Point"}
+}

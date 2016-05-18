@@ -1,0 +1,79 @@
+{
+  "id": 840316853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.800405,30.286469,-89.800405,30.286469",
+    "geom:latitude":30.286469,
+    "geom:longitude":-89.800405,
+    "iso:country":"US",
+    "sg:address":"1619 E West Dr",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 639 0002",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85819983,
+        102082453,
+        85948031,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HBCp95zOpnuf6FKN6NLTL_30.286469_-89.800405@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527298,
+    "wof:geomhash":"461c46f22c668045f369465869a0751c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "neighbourhood_id":85819983,
+            "region_id":85688735,
+            "venue_id":840316853
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":840316853
+        }
+    ],
+    "wof:id":840316853,
+    "wof:lastmodified":1463527298,
+    "wof:name":"Sons Of Italy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -89.800405,
+    30.286469,
+    -89.800405,
+    30.286469
+],
+  "geometry": {"coordinates":[-89.800405,30.286469],"type":"Point"}
+}

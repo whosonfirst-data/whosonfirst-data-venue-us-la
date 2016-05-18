@@ -1,0 +1,73 @@
+{
+  "id": 840302329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.809268,29.993916,-91.809268,29.993916",
+    "geom:latitude":29.993916,
+    "geom:longitude":-91.809268,
+    "iso:country":"US",
+    "sg:address":"701 S Lewis St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 5558",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jyY3OsdJ6mhaImPEkZDXW_29.993916_-91.809268@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526640,
+    "wof:geomhash":"bc479f1d1bbabf952447fe74c750b1fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840302329
+        }
+    ],
+    "wof:id":840302329,
+    "wof:lastmodified":1463526640,
+    "wof:name":"Hoan Vu Coffee Shop",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -91.809268,
+    29.993916,
+    -91.809268,
+    29.993916
+],
+  "geometry": {"coordinates":[-91.809268,29.993916],"type":"Point"}
+}

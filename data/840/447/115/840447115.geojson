@@ -1,0 +1,68 @@
+{
+  "id": 840447115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.7632,32.515583,-93.7632,32.515583",
+    "geom:latitude":32.515583,
+    "geom:longitude":-93.7632,
+    "iso:country":"US",
+    "sg:address":"515 N Pierre Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 221 4471",
+    "sg:postcode":"71101",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7epx67bOGFoGexvrB8kZBu_32.515583_-93.763200@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533167,
+    "wof:geomhash":"adcee0ba76a4787ef118cf9de2536eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880993,
+            "region_id":85688735,
+            "venue_id":840447115
+        }
+    ],
+    "wof:id":840447115,
+    "wof:lastmodified":1463533167,
+    "wof:name":"Powell Medical Ctr",
+    "wof:parent_id":85880993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.7632,
+    32.515583,
+    -93.7632,
+    32.515583
+],
+  "geometry": {"coordinates":[-93.7632,32.515583],"type":"Point"}
+}

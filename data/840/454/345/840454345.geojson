@@ -1,0 +1,74 @@
+{
+  "id": 840454345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.036842,30.252093,-92.036842,30.252093",
+    "geom:latitude":30.252093,
+    "geom:longitude":-92.036842,
+    "iso:country":"US",
+    "sg:address":"1701 N University Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/carencro/210590-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 0176",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eiRA2ak3pDcmKNz39Kv70_30.252093_-92.036842@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533481,
+    "wof:geomhash":"93ab9c7b4816ca569924494048b72a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840454345
+        }
+    ],
+    "wof:id":840454345,
+    "wof:lastmodified":1463533481,
+    "wof:name":"Arby's",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.036842,
+    30.252093,
+    -92.036842,
+    30.252093
+],
+  "geometry": {"coordinates":[-92.03684199999999,30.252093],"type":"Point"}
+}

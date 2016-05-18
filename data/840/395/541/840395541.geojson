@@ -1,0 +1,71 @@
+{
+  "id": 840395541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.267731,29.694312,-91.267731,29.694312",
+    "geom:latitude":29.694312,
+    "geom:longitude":-91.267731,
+    "iso:country":"US",
+    "sg:address":"212 Southeast Blvd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 9720",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zwBjl8MITEFKzt0FCtvqm_29.694312_-91.267731@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531037,
+    "wof:geomhash":"ca8110b6ba241ce8c78fc17baefb3e05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840395541
+        }
+    ],
+    "wof:id":840395541,
+    "wof:lastmodified":1463531037,
+    "wof:name":"Adams' Cleaning Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.267731,
+    29.694312,
+    -91.267731,
+    29.694312
+],
+  "geometry": {"coordinates":[-91.267731,29.694312],"type":"Point"}
+}

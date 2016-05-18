@@ -1,0 +1,73 @@
+{
+  "id": 840454675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213693,30.198265,-93.213693,30.198265",
+    "geom:latitude":30.198265,
+    "geom:longitude":-93.213693,
+    "iso:country":"US",
+    "sg:address":"625 E Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/188364-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gIJeSxQTRFITktJog1nj0_30.198265_-93.213693@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533492,
+    "wof:geomhash":"a8cb1548c374887a0d5da946094771c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840454675
+        }
+    ],
+    "wof:id":840454675,
+    "wof:lastmodified":1463533492,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.213693,
+    30.198265,
+    -93.213693,
+    30.198265
+],
+  "geometry": {"coordinates":[-93.21369300000001,30.198265],"type":"Point"}
+}

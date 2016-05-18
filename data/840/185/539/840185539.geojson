@@ -1,0 +1,71 @@
+{
+  "id": 840185539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.82906,32.553417,-93.82906,32.553417",
+    "geom:latitude":32.553417,
+    "geom:longitude":-93.82906,
+    "iso:country":"US",
+    "sg:address":"3010 Pouncey Ln",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 222 8569",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zddIXe4tvP68AEoBTvdtZ_32.553417_-93.829060@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523026,
+    "wof:geomhash":"98bff44717e046419c7dd87cf3beba0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840185539
+        }
+    ],
+    "wof:id":840185539,
+    "wof:lastmodified":1463523026,
+    "wof:name":"Tutorial Center",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -93.82906,
+    32.553417,
+    -93.82906,
+    32.553417
+],
+  "geometry": {"coordinates":[-93.82906,32.553417],"type":"Point"}
+}

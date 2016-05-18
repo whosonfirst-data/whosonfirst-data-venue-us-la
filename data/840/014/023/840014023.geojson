@@ -1,0 +1,72 @@
+{
+  "id": 840014023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.033552,30.375503,-91.033552,30.375503",
+    "geom:latitude":30.375503,
+    "geom:longitude":-91.033552,
+    "iso:country":"US",
+    "sg:address":"12537 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 756 4141",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "sg:website":"www.ferrellgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KukOiWTqVM3yPYOjqM46J_30.375503_-91.033552@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519291,
+    "wof:geomhash":"48235eafd46f7aab2676c9417dca514a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840014023
+        }
+    ],
+    "wof:id":840014023,
+    "wof:lastmodified":1463519291,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [
+    -91.033552,
+    30.375503,
+    -91.033552,
+    30.375503
+],
+  "geometry": {"coordinates":[-91.033552,30.375503],"type":"Point"}
+}

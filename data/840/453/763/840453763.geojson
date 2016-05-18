@@ -1,0 +1,73 @@
+{
+  "id": 840453763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.524652,30.726458,-90.524652,30.726458",
+    "geom:latitude":30.726458,
+    "geom:longitude":-90.524652,
+    "iso:country":"US",
+    "sg:address":"1015 W Oak St",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/amite/188245-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aw5hiD3igvKGZxqisgLcw_30.726458_-90.524652@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533459,
+    "wof:geomhash":"ebf60c0d5005aef0e2cf372fa2b89bda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840453763
+        }
+    ],
+    "wof:id":840453763,
+    "wof:lastmodified":1463533459,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.524652,
+    30.726458,
+    -90.524652,
+    30.726458
+],
+  "geometry": {"coordinates":[-90.524652,30.726458],"type":"Point"}
+}

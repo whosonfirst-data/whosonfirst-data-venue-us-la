@@ -1,0 +1,75 @@
+{
+  "id": 840288601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.141867,29.973507,-90.141867,29.973507",
+    "geom:latitude":29.973507,
+    "geom:longitude":-90.141867,
+    "iso:country":"US",
+    "sg:address":"1525 Airline Dr",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 835 3232",
+    "sg:postcode":"70001",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "vending"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r2YWrlc2bijUFdVrn0JcS_29.973507_-90.141867@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526007,
+    "wof:geomhash":"8b751ae13b7fc6ae14ad789488f55c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840288601
+        }
+    ],
+    "wof:id":840288601,
+    "wof:lastmodified":1463526007,
+    "wof:name":"Lucky Coin Machine Co",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "vending"
+    ]
+},
+  "bbox": [
+    -90.141867,
+    29.973507,
+    -90.141867,
+    29.973507
+],
+  "geometry": {"coordinates":[-90.141867,29.973507],"type":"Point"}
+}

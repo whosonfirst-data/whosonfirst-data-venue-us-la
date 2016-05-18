@@ -1,0 +1,75 @@
+{
+  "id": 840339831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.076086,30.000905,-90.076086,30.000905",
+    "geom:latitude":30.000905,
+    "geom:longitude":-90.076086,
+    "iso:country":"US",
+    "sg:address":"1488 Mandolin St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 8288",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qnbkUJrZKOwPwfNim326i_30.000905_-90.076086@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528405,
+    "wof:geomhash":"cbf86020646614433b81a506579c469c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866079,
+            "region_id":85688735,
+            "venue_id":840339831
+        }
+    ],
+    "wof:id":840339831,
+    "wof:lastmodified":1463528405,
+    "wof:name":"Kenneth Johnson's Auto Repair",
+    "wof:parent_id":85866079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.076086,
+    30.000905,
+    -90.076086,
+    30.000905
+],
+  "geometry": {"coordinates":[-90.076086,30.000905],"type":"Point"}
+}

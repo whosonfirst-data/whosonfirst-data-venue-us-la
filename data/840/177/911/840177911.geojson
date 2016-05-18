@@ -1,0 +1,74 @@
+{
+  "id": 840177911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.043975,30.259253,-92.043975,30.259253",
+    "geom:latitude":30.259253,
+    "geom:longitude":-92.043975,
+    "iso:country":"US",
+    "sg:address":"109 Marcon Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 1335",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.m-e-s-i.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z15xTVCKGTZilF4IwN9kY_30.259253_-92.043975@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522864,
+    "wof:geomhash":"96ebf0b8a6ce9a43b5827ba797f6659f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840177911
+        }
+    ],
+    "wof:id":840177911,
+    "wof:lastmodified":1463522864,
+    "wof:name":"Montgomery Electrical Svc Inc",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.043975,
+    30.259253,
+    -92.043975,
+    30.259253
+],
+  "geometry": {"coordinates":[-92.043975,30.259253],"type":"Point"}
+}

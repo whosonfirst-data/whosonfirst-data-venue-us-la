@@ -1,0 +1,73 @@
+{
+  "id": 840230297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.841104,29.999169,-91.841104,29.999169",
+    "geom:latitude":29.999169,
+    "geom:longitude":-91.841104,
+    "iso:country":"US",
+    "sg:address":"603 W Admiral Doyle Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 7335",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iiq96pEZiM0gAfnjC4aQa_29.999169_-91.841104@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524120,
+    "wof:geomhash":"728912cd9bed19b3d9b83cb915d74d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840230297
+        }
+    ],
+    "wof:id":840230297,
+    "wof:lastmodified":1463524120,
+    "wof:name":"Express Driving School",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -91.841104,
+    29.999169,
+    -91.841104,
+    29.999169
+],
+  "geometry": {"coordinates":[-91.841104,29.999169],"type":"Point"}
+}

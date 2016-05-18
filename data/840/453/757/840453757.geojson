@@ -1,0 +1,74 @@
+{
+  "id": 840453757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.516622,30.726588,-90.516622,30.726588",
+    "geom:latitude":30.726588,
+    "geom:longitude":-90.516622,
+    "iso:country":"US",
+    "sg:address":"631 W Oak St",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/amite/201425-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 9863",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uZiTz5XRFQUSd831guWah_30.726588_-90.516622@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533459,
+    "wof:geomhash":"43268eacdd295bafbc169bd3f0129f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840453757
+        }
+    ],
+    "wof:id":840453757,
+    "wof:lastmodified":1463533459,
+    "wof:name":"Sonic",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.516622,
+    30.726588,
+    -90.516622,
+    30.726588
+],
+  "geometry": {"coordinates":[-90.516622,30.726588],"type":"Point"}
+}

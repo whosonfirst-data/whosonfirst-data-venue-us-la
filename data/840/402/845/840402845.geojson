@@ -1,0 +1,73 @@
+{
+  "id": 840402845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.542905,29.827124,-91.542905,29.827124",
+    "geom:latitude":29.827124,
+    "geom:longitude":-91.542905,
+    "iso:country":"US",
+    "sg:address":"110 Newman St",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 0555",
+    "sg:postcode":"70514",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G7wuwYIWw3h5f0j16z2I3_29.827124_-91.542905@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531336,
+    "wof:geomhash":"c505c258eb8231a2692fc291037bbb57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840402845
+        }
+    ],
+    "wof:id":840402845,
+    "wof:lastmodified":1463531336,
+    "wof:name":"Robert's Used Autos",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.542905,
+    29.827124,
+    -91.542905,
+    29.827124
+],
+  "geometry": {"coordinates":[-91.542905,29.827124],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840435829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.058118,30.19434,-92.058118,30.19434",
+    "geom:latitude":30.19434,
+    "geom:longitude":-92.058118,
+    "iso:country":"US",
+    "sg:address":"4300 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 8903",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PxJS2zH0wpl1H66y24USD_30.194340_-92.058118@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532720,
+    "wof:geomhash":"c28d47472dd54a10b9384c5d21301913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840435829
+        }
+    ],
+    "wof:id":840435829,
+    "wof:lastmodified":1463532720,
+    "wof:name":"Autozone",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -92.058118,
+    30.19434,
+    -92.058118,
+    30.19434
+],
+  "geometry": {"coordinates":[-92.05811799999999,30.19434],"type":"Point"}
+}

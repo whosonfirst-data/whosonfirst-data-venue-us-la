@@ -1,0 +1,73 @@
+{
+  "id": 840345365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.110356,29.965607,-90.110356,29.965607",
+    "geom:latitude":29.965607,
+    "geom:longitude":-90.110356,
+    "iso:country":"US",
+    "sg:address":"3725 S Carrollton Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 486 6256",
+    "sg:postcode":"70118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55m3gwKW06NPnYufTMgWxL_29.965607_-90.110356@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528674,
+    "wof:geomhash":"6527c650c98bdc4f26c079ad2a0168a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840345365
+        }
+    ],
+    "wof:id":840345365,
+    "wof:lastmodified":1463528674,
+    "wof:name":"Carrollton Exxon",
+    "wof:parent_id":85866077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -90.110356,
+    29.965607,
+    -90.110356,
+    29.965607
+],
+  "geometry": {"coordinates":[-90.110356,29.965607],"type":"Point"}
+}

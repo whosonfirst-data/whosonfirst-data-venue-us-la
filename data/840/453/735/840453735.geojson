@@ -1,0 +1,73 @@
+{
+  "id": 840453735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.456895,30.485299,-90.456895,30.485299",
+    "geom:latitude":30.485299,
+    "geom:longitude":-90.456895,
+    "iso:country":"US",
+    "sg:address":"1750 SW Railroad Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hammond/188322-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KmL2ch1wdDFpS5tbFLLiP_30.485299_-90.456895@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533458,
+    "wof:geomhash":"f638c4d86fdb4e279135678b908ed411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840453735
+        }
+    ],
+    "wof:id":840453735,
+    "wof:lastmodified":1463533458,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.456895,
+    30.485299,
+    -90.456895,
+    30.485299
+],
+  "geometry": {"coordinates":[-90.456895,30.485299],"type":"Point"}
+}

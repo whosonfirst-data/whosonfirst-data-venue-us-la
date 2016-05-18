@@ -1,0 +1,73 @@
+{
+  "id": 840189479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.742669,32.442188,-93.742669,32.442188",
+    "geom:latitude":32.442188,
+    "geom:longitude":-93.742669,
+    "iso:country":"US",
+    "sg:address":"850 E 70th St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 868 4963",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s3HAAZrHG1cecqN5FaIjD_32.442188_-93.742669@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523103,
+    "wof:geomhash":"256d0f31511adea0b26dd04e0871a881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840189479
+        }
+    ],
+    "wof:id":840189479,
+    "wof:lastmodified":1463523103,
+    "wof:name":"Denny E Gamble MD",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.742669,
+    32.442188,
+    -93.742669,
+    32.442188
+],
+  "geometry": {"coordinates":[-93.74266900000001,32.442188],"type":"Point"}
+}

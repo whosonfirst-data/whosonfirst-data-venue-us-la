@@ -1,0 +1,73 @@
+{
+  "id": 840241007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.990535,30.209903,-91.990535,30.209903",
+    "geom:latitude":30.209903,
+    "geom:longitude":-91.990535,
+    "iso:country":"US",
+    "sg:address":"210 John Glenn Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 291 2884",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BsVEy2xWP6oavKarmgFx6_30.209903_-91.990535@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524386,
+    "wof:geomhash":"a5e2e6aa63c7ea0bb252c6106f3b730c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840241007
+        }
+    ],
+    "wof:id":840241007,
+    "wof:lastmodified":1463524386,
+    "wof:name":"Talton Testing Ctr",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing"
+    ]
+},
+  "bbox": [
+    -91.990535,
+    30.209903,
+    -91.990535,
+    30.209903
+],
+  "geometry": {"coordinates":[-91.99053499999999,30.209903],"type":"Point"}
+}

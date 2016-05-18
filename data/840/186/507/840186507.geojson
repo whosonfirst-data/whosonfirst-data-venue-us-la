@@ -1,0 +1,71 @@
+{
+  "id": 840186507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.194106,30.227458,-93.194106,30.227458",
+    "geom:latitude":30.227458,
+    "geom:longitude":-93.194106,
+    "iso:country":"US",
+    "sg:address":"1926 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 5323",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GCZz5MRowbQzYZyxxKuiA_30.227458_-93.194106@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523045,
+    "wof:geomhash":"3b287de362351e69379db920cece958a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840186507
+        }
+    ],
+    "wof:id":840186507,
+    "wof:lastmodified":1463523045,
+    "wof:name":"Lake City Dry Cleaners",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.194106,
+    30.227458,
+    -93.194106,
+    30.227458
+],
+  "geometry": {"coordinates":[-93.194106,30.227458],"type":"Point"}
+}

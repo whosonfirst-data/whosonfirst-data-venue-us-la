@@ -1,0 +1,73 @@
+{
+  "id": 840085671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.163104,32.500582,-92.163104,32.500582",
+    "geom:latitude":32.500582,
+    "geom:longitude":-92.163104,
+    "iso:country":"US",
+    "sg:address":"273 Industrial St",
+    "sg:city":"Oak Grove",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 428 2616",
+    "sg:postcode":"71292",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fL4OXQ05Ir8gyfi3fhC5A_32.500582_-92.163104@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520926,
+    "wof:geomhash":"788f8318a3cf8ad6cd53b7553ce1ed22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840085671
+        }
+    ],
+    "wof:id":840085671,
+    "wof:lastmodified":1463520926,
+    "wof:name":"Oak Grove Fire Station",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.163104,
+    32.500582,
+    -92.163104,
+    32.500582
+],
+  "geometry": {"coordinates":[-92.163104,32.500582],"type":"Point"}
+}

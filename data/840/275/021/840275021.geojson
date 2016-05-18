@@ -1,0 +1,75 @@
+{
+  "id": 840275021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.279095,31.131522,-93.279095,31.131522",
+    "geom:latitude":31.131522,
+    "geom:longitude":-93.279095,
+    "iso:country":"US",
+    "sg:address":"1000 Abe Allen Memorial Dr",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 9024",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eURhHiEMwPNfdBKpFPJjY_31.131522_-93.279095@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525391,
+    "wof:geomhash":"05941bfe5527836339db1196426a5f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840275021
+        }
+    ],
+    "wof:id":840275021,
+    "wof:lastmodified":1463525391,
+    "wof:name":"Nash Body Shop",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.279095,
+    31.131522,
+    -93.279095,
+    31.131522
+],
+  "geometry": {"coordinates":[-93.279095,31.131522],"type":"Point"}
+}

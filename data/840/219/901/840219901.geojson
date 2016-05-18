@@ -1,0 +1,71 @@
+{
+  "id": 840219901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.029508,30.370351,-91.029508,30.370351",
+    "geom:latitude":30.370351,
+    "geom:longitude":-91.029508,
+    "iso:country":"US",
+    "sg:address":"13318 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 927 0022",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cargo",
+        "containerized"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17aK29IHiFPKIrCOdRBgCR_30.370351_-91.029508@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523831,
+    "wof:geomhash":"1a3d1242668ec699fd0e66e800893147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840219901
+        }
+    ],
+    "wof:id":840219901,
+    "wof:lastmodified":1463523831,
+    "wof:name":"Jade Container Svc LTD",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "containerized"
+    ]
+},
+  "bbox": [
+    -91.029508,
+    30.370351,
+    -91.029508,
+    30.370351
+],
+  "geometry": {"coordinates":[-91.02950800000001,30.370351],"type":"Point"}
+}

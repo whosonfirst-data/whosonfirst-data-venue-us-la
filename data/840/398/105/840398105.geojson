@@ -1,0 +1,73 @@
+{
+  "id": 840398105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.972205,29.949708,-89.972205,29.949708",
+    "geom:latitude":29.949708,
+    "geom:longitude":-89.972205,
+    "iso:country":"US",
+    "sg:address":"9020 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 5966",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C39WUEIH1ovGgZpp7XwOt_29.949708_-89.972205@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531133,
+    "wof:geomhash":"0da9055bbe7d504d74c2d64539ddbdb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840398105
+        }
+    ],
+    "wof:id":840398105,
+    "wof:lastmodified":1463531133,
+    "wof:name":"Methodist Ob/Gyn Group",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.972205,
+    29.949708,
+    -89.972205,
+    29.949708
+],
+  "geometry": {"coordinates":[-89.972205,29.949708],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840188933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.022051,30.249229,-92.022051,30.249229",
+    "geom:latitude":30.249229,
+    "geom:longitude":-92.022051,
+    "iso:country":"US",
+    "sg:address":"809 Martin Luther King Jr Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 6855",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZKDk2vbzAfzS0mjPqq8vT_30.249229_-92.022051@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523090,
+    "wof:geomhash":"11cd18402ae3a404281014399c91fc47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840188933
+        }
+    ],
+    "wof:id":840188933,
+    "wof:lastmodified":1463523090,
+    "wof:name":"Lafayette Nursing & Rehab",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -92.022051,
+    30.249229,
+    -92.022051,
+    30.249229
+],
+  "geometry": {"coordinates":[-92.022051,30.249229],"type":"Point"}
+}

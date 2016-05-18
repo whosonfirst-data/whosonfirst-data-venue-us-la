@@ -1,0 +1,75 @@
+{
+  "id": 840371343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.076188,29.95777,-90.076188,29.95777",
+    "geom:latitude":29.95777,
+    "geom:longitude":-90.076188,
+    "iso:country":"US",
+    "sg:address":"1501 Canal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 585 7193",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wqkA5VdMsIfH1EUyV41ct_29.957770_-90.076188@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529957,
+    "wof:geomhash":"d05904dd0974ced1c8e510931b69fbba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840371343
+        }
+    ],
+    "wof:id":840371343,
+    "wof:lastmodified":1463529957,
+    "wof:name":"Tulane Ctr-Cardiovascular",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.076188,
+    29.95777,
+    -90.076188,
+    29.95777
+],
+  "geometry": {"coordinates":[-90.076188,29.95777],"type":"Point"}
+}

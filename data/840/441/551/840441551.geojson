@@ -1,0 +1,73 @@
+{
+  "id": 840441551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.111733,30.020077,-90.111733,30.020077",
+    "geom:latitude":30.020077,
+    "geom:longitude":-90.111733,
+    "iso:country":"US",
+    "sg:address":"135 Robert E Lee Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 3428",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ATgLjdjqzbFpqn0bZvG3_30.020077_-90.111733@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532961,
+    "wof:geomhash":"80f44a607973dae9ea2df2e89abb74b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829329,
+            "region_id":85688735,
+            "venue_id":840441551
+        }
+    ],
+    "wof:id":840441551,
+    "wof:lastmodified":1463532961,
+    "wof:name":"Robert Fresh Market",
+    "wof:parent_id":85829329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.111733,
+    30.020077,
+    -90.111733,
+    30.020077
+],
+  "geometry": {"coordinates":[-90.111733,30.020077],"type":"Point"}
+}

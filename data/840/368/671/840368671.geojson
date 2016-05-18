@@ -1,0 +1,71 @@
+{
+  "id": 840368671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.352568,30.693167,-90.352568,30.693167",
+    "geom:latitude":30.693167,
+    "geom:longitude":-90.352568,
+    "iso:country":"US",
+    "sg:address":"56292 Hwy 445",
+    "sg:city":"Husser",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 4914",
+    "sg:postcode":"70442",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jj6ed1AG7vA2X94dvGhtW_30.693167_-90.352568@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529815,
+    "wof:geomhash":"c3695e51babe0b3ef1fa494f2b82ab5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840368671
+        }
+    ],
+    "wof:id":840368671,
+    "wof:lastmodified":1463529815,
+    "wof:name":"Husser Fire Dept",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.352568,
+    30.693167,
+    -90.352568,
+    30.693167
+],
+  "geometry": {"coordinates":[-90.35256800000001,30.693167],"type":"Point"}
+}

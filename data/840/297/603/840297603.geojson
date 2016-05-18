@@ -1,0 +1,68 @@
+{
+  "id": 840297603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.050828,29.980023,-90.050828,29.980023",
+    "geom:latitude":29.980023,
+    "geom:longitude":-90.050828,
+    "iso:country":"US",
+    "sg:address":"2440 N Miro St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 943 5210",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hx4t3m88XFK6tidj4w8HO_29.980023_-90.050828@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526387,
+    "wof:geomhash":"81d4bb215f39856dc8c99d01e8ec9d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866099,
+            "region_id":85688735,
+            "venue_id":840297603
+        }
+    ],
+    "wof:id":840297603,
+    "wof:lastmodified":1463526387,
+    "wof:name":"Miro Discount Market",
+    "wof:parent_id":85866099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.050828,
+    29.980023,
+    -90.050828,
+    29.980023
+],
+  "geometry": {"coordinates":[-90.050828,29.980023],"type":"Point"}
+}

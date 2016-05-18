@@ -1,0 +1,71 @@
+{
+  "id": 840432893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.782369,32.390813,-93.782369,32.390813",
+    "geom:latitude":32.390813,
+    "geom:longitude":-93.782369,
+    "iso:country":"US",
+    "sg:address":"903 Crabapple Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 6035",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_289nWcyoRgY37yHQUt07AV_32.390813_-93.782369@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532598,
+    "wof:geomhash":"90d55e0a41d04a877b5a6dac2aacc1b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840432893
+        }
+    ],
+    "wof:id":840432893,
+    "wof:lastmodified":1463532598,
+    "wof:name":"Construction Testing Lab Inc",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.782369,
+    32.390813,
+    -93.782369,
+    32.390813
+],
+  "geometry": {"coordinates":[-93.782369,32.390813],"type":"Point"}
+}

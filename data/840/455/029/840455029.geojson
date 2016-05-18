@@ -1,0 +1,74 @@
+{
+  "id": 840455029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.210447,30.455501,-91.210447,30.455501",
+    "geom:latitude":30.455501,
+    "geom:longitude":-91.210447,
+    "iso:country":"US",
+    "sg:address":"470 N Alexander Ave",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/cinclare/201479-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 336 4525",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M4CgCCfCs2RlHJOOyXO14_30.455501_-91.210447@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533505,
+    "wof:geomhash":"8e8b629aef0799ba65c371c212941f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840455029
+        }
+    ],
+    "wof:id":840455029,
+    "wof:lastmodified":1463533505,
+    "wof:name":"Sonic",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.210447,
+    30.455501,
+    -91.210447,
+    30.455501
+],
+  "geometry": {"coordinates":[-91.210447,30.455501],"type":"Point"}
+}

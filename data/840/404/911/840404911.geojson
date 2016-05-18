@@ -1,0 +1,73 @@
+{
+  "id": 840404911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.099544,29.965913,-90.099544,29.965913",
+    "geom:latitude":29.965913,
+    "geom:longitude":-90.099544,
+    "iso:country":"US",
+    "sg:address":"3401 Tulane Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 482 3153",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AxvhVyDHZL04Bm5znTxsO_29.965913_-90.099544@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531421,
+    "wof:geomhash":"8c7e0707f1382ffff1955ccee6eea9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840404911
+        }
+    ],
+    "wof:id":840404911,
+    "wof:lastmodified":1463531421,
+    "wof:name":"Russell's Cleaners Inc",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.099544,
+    29.965913,
+    -90.099544,
+    29.965913
+],
+  "geometry": {"coordinates":[-90.09954399999999,29.965913],"type":"Point"}
+}

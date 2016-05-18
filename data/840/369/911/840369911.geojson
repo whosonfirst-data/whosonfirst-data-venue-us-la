@@ -1,0 +1,71 @@
+{
+  "id": 840369911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.163358,30.227299,-93.163358,30.227299",
+    "geom:latitude":30.227299,
+    "geom:longitude":-93.163358,
+    "iso:country":"US",
+    "sg:address":"1121 Main St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7237",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ptSp9PlRjTC1LmhSsOSge_30.227299_-93.163358@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529896,
+    "wof:geomhash":"d69bd14813e3cbe7e474a2294c8f0044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840369911
+        }
+    ],
+    "wof:id":840369911,
+    "wof:lastmodified":1463529896,
+    "wof:name":"Towaways",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.163358,
+    30.227299,
+    -93.163358,
+    30.227299
+],
+  "geometry": {"coordinates":[-93.163358,30.227299],"type":"Point"}
+}

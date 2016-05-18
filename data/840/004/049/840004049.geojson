@@ -1,0 +1,73 @@
+{
+  "id": 840004049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.193218,30.24618,-93.193218,30.24618",
+    "geom:latitude":30.24618,
+    "geom:longitude":-93.193218,
+    "iso:country":"US",
+    "sg:address":"709 N Prater St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6363",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "organization",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zy5UH4ugXJ5yGjGFAKaSH_30.246180_-93.193218@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519076,
+    "wof:geomhash":"8e284651f76af908b28eb645c67a7007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840004049
+        }
+    ],
+    "wof:id":840004049,
+    "wof:lastmodified":1463519076,
+    "wof:name":"International Inc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -93.193218,
+    30.24618,
+    -93.193218,
+    30.24618
+],
+  "geometry": {"coordinates":[-93.193218,30.24618],"type":"Point"}
+}

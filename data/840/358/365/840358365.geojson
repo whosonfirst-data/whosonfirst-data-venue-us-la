@@ -1,0 +1,71 @@
+{
+  "id": 840358365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.070152,30.182515,-92.070152,30.182515",
+    "geom:latitude":30.182515,
+    "geom:longitude":-92.070152,
+    "iso:country":"US",
+    "sg:address":"102 Westmark Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 295 7011",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VlMYch3RP8xudFU6sqs6n_30.182515_-92.070152@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529310,
+    "wof:geomhash":"39e47623a47d14f6b7d9002bb5af11e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840358365
+        }
+    ],
+    "wof:id":840358365,
+    "wof:lastmodified":1463529310,
+    "wof:name":"Lab Express",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -92.070152,
+    30.182515,
+    -92.070152,
+    30.182515
+],
+  "geometry": {"coordinates":[-92.07015199999999,30.182515],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840452889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.24037,30.006871,-90.24037,30.006871",
+    "geom:latitude":30.006871,
+    "geom:longitude":-90.24037,
+    "iso:country":"US",
+    "sg:address":"2810 Williams Blvd",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/kenner/11400-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 469 4670",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102530009,
+        85842683,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lP3IYpVwUtxKOiv1q5B1k_30.006871_-90.240370@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533419,
+    "wof:geomhash":"da354a12d356604ef386ed4c0bec2b93",
+    "wof:hierarchy":[
+        {
+            "campus_id":102530009,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840452889
+        }
+    ],
+    "wof:id":840452889,
+    "wof:lastmodified":1463533419,
+    "wof:name":"Denny's",
+    "wof:parent_id":102530009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -90.24037,
+    30.006871,
+    -90.24037,
+    30.006871
+],
+  "geometry": {"coordinates":[-90.24037,30.006871],"type":"Point"}
+}

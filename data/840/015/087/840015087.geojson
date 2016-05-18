@@ -1,0 +1,73 @@
+{
+  "id": 840015087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213871,30.177319,-93.213871,30.177319",
+    "geom:latitude":30.177319,
+    "geom:longitude":-93.213871,
+    "iso:country":"US",
+    "sg:address":"4341 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 8350",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54EWfr6d1iyAHAIAPwAG7x_30.177319_-93.213871@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519314,
+    "wof:geomhash":"782c05a4c6bfb8a626ba3944239eb6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840015087
+        }
+    ],
+    "wof:id":840015087,
+    "wof:lastmodified":1463519314,
+    "wof:name":"Shakey Ground Coffee House",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -93.213871,
+    30.177319,
+    -93.213871,
+    30.177319
+],
+  "geometry": {"coordinates":[-93.213871,30.177319],"type":"Point"}
+}

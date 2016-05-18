@@ -1,0 +1,73 @@
+{
+  "id": 840409153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.975782,30.355434,-90.975782,30.355434",
+    "geom:latitude":30.355434,
+    "geom:longitude":-90.975782,
+    "iso:country":"US",
+    "sg:address":"10322 Ginger Place Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 752 2895",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60bIAMRhWlAKWalTPzp0Pt_30.355434_-90.975782@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531590,
+    "wof:geomhash":"723929ece6ac20e716dc5a34be3b61be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840409153
+        }
+    ],
+    "wof:id":840409153,
+    "wof:lastmodified":1463531590,
+    "wof:name":"Michael R Robichaux MD",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.975782,
+    30.355434,
+    -90.975782,
+    30.355434
+],
+  "geometry": {"coordinates":[-90.975782,30.355434],"type":"Point"}
+}

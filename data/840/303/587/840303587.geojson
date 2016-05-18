@@ -1,0 +1,71 @@
+{
+  "id": 840303587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.510392,30.71578,-90.510392,30.71578",
+    "geom:latitude":30.71578,
+    "geom:longitude":-90.510392,
+    "iso:country":"US",
+    "sg:address":"807 S 1st St",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 4974",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1smx43p8Cw2n2evOoj49b4_30.715780_-90.510392@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526703,
+    "wof:geomhash":"9eed05a3569a20a630cf76648990102f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840303587
+        }
+    ],
+    "wof:id":840303587,
+    "wof:lastmodified":1463526703,
+    "wof:name":"Acorn Transmission Repair Inc",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.510392,
+    30.71578,
+    -90.510392,
+    30.71578
+],
+  "geometry": {"coordinates":[-90.510392,30.71578],"type":"Point"}
+}

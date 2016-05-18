@@ -1,0 +1,73 @@
+{
+  "id": 840033849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.763639,32.530268,-93.763639,32.530268",
+    "geom:latitude":32.530268,
+    "geom:longitude":-93.763639,
+    "iso:country":"US",
+    "sg:address":"1134 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 222 9455",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aW8FpWuWvVrG1akRJ6f3a_32.530268_-93.763639@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519711,
+    "wof:geomhash":"ed2dc0d30b87d171b61fe6a526195302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880993,
+            "region_id":85688735,
+            "venue_id":840033849
+        }
+    ],
+    "wof:id":840033849,
+    "wof:lastmodified":1463519711,
+    "wof:name":"Shreveport Cleaners",
+    "wof:parent_id":85880993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.763639,
+    32.530268,
+    -93.763639,
+    32.530268
+],
+  "geometry": {"coordinates":[-93.763639,32.530268],"type":"Point"}
+}

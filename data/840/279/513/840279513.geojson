@@ -1,0 +1,71 @@
+{
+  "id": 840279513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.039877,30.171145,-92.039877,30.171145",
+    "geom:latitude":30.171145,
+    "geom:longitude":-92.039877,
+    "iso:country":"US",
+    "sg:address":"1216 Camellia Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 769 0888",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4inNb7mSs1XDEntc6wg22p_30.171145_-92.039877@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525596,
+    "wof:geomhash":"2b99b7c75cfcbad0fef75fdca15d1b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840279513
+        }
+    ],
+    "wof:id":840279513,
+    "wof:lastmodified":1463525596,
+    "wof:name":"Family Medical Plaza",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.039877,
+    30.171145,
+    -92.039877,
+    30.171145
+],
+  "geometry": {"coordinates":[-92.039877,30.171145],"type":"Point"}
+}

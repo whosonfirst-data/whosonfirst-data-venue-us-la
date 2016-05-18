@@ -1,0 +1,84 @@
+{
+  "id": 840343295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.004414,30.245108,-92.004414,30.245108",
+    "geom:latitude":30.245108,
+    "geom:longitude":-92.004414,
+    "iso:country":"US",
+    "sg:address":"323 E Evergreen St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 3411",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop",
+        "automobile",
+        "general",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UJT0Bs4MkHL5b4LZIqvgs_30.245108_-92.004414@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528568,
+    "wof:geomhash":"aaff47389335fb8198a82440cd0ee240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840343295
+        }
+    ],
+    "wof:id":840343295,
+    "wof:lastmodified":1463528568,
+    "wof:name":"W D's Auto Repair",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automobile",
+        "general",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -92.004414,
+    30.245108,
+    -92.004414,
+    30.245108
+],
+  "geometry": {"coordinates":[-92.004414,30.245108],"type":"Point"}
+}

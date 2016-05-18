@@ -1,0 +1,73 @@
+{
+  "id": 840236379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.188091,29.976259,-90.188091,29.976259",
+    "geom:latitude":29.976259,
+    "geom:longitude":-90.188091,
+    "iso:country":"US",
+    "sg:address":"5105 Airline Dr",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 834 4422",
+    "sg:postcode":"70001",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oSBTU5s6ff0m2NftCtlG0_29.976259_-90.188091@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524282,
+    "wof:geomhash":"81b926cd79cc29fce5de2eeb20e4182f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840236379
+        }
+    ],
+    "wof:id":840236379,
+    "wof:lastmodified":1463524282,
+    "wof:name":"Airline Animal Hospital Inc",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.188091,
+    29.976259,
+    -90.188091,
+    29.976259
+],
+  "geometry": {"coordinates":[-90.188091,29.976259],"type":"Point"}
+}

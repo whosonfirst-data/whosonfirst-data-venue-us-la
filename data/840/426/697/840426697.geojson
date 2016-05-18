@@ -1,0 +1,71 @@
+{
+  "id": 840426697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.369856,30.218422,-93.369856,30.218422",
+    "geom:latitude":30.218422,
+    "geom:longitude":-93.369856,
+    "iso:country":"US",
+    "sg:address":"1107 Henning Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 2300",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tygldypUjgXxMx6gLvRAX_30.218422_-93.369856@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532300,
+    "wof:geomhash":"cbd78eaff5bff21e7536ff37deb0988a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840426697
+        }
+    ],
+    "wof:id":840426697,
+    "wof:lastmodified":1463532300,
+    "wof:name":"AAA Muffler Service Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -93.369856,
+    30.218422,
+    -93.369856,
+    30.218422
+],
+  "geometry": {"coordinates":[-93.369856,30.218422],"type":"Point"}
+}

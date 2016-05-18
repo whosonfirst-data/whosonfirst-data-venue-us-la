@@ -1,0 +1,73 @@
+{
+  "id": 840291007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.200507,30.240908,-93.200507,30.240908",
+    "geom:latitude":30.240908,
+    "geom:longitude":-93.200507,
+    "iso:country":"US",
+    "sg:address":"1432 Fournet St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 4220",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yq2kGC4OX3RATae7hUm3j_30.240908_-93.200507@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526106,
+    "wof:geomhash":"afc672b1ae9a8a2ae1030d136864fd34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840291007
+        }
+    ],
+    "wof:id":840291007,
+    "wof:lastmodified":1463526106,
+    "wof:name":"M & M Family Center",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.200507,
+    30.240908,
+    -93.200507,
+    30.240908
+],
+  "geometry": {"coordinates":[-93.200507,30.240908],"type":"Point"}
+}

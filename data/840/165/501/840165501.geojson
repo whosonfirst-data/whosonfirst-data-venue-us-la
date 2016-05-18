@@ -1,0 +1,73 @@
+{
+  "id": 840165501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.082891,29.939876,-90.082891,29.939876",
+    "geom:latitude":29.939876,
+    "geom:longitude":-90.082891,
+    "iso:country":"US",
+    "sg:address":"2134 Saint Andrew St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 4448",
+    "sg:postcode":"70113",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UWh8k6vYktd1YIBaqxvqF_29.939876_-90.082891@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522554,
+    "wof:geomhash":"5ff234fc47ca3cbc7583835dc08361c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840165501
+        }
+    ],
+    "wof:id":840165501,
+    "wof:lastmodified":1463522554,
+    "wof:name":"Aida's Grocery Store",
+    "wof:parent_id":85866121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.082891,
+    29.939876,
+    -90.082891,
+    29.939876
+],
+  "geometry": {"coordinates":[-90.082891,29.939876],"type":"Point"}
+}

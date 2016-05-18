@@ -1,0 +1,71 @@
+{
+  "id": 840070481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.295273,30.237025,-93.295273,30.237025",
+    "geom:latitude":30.237025,
+    "geom:longitude":-93.295273,
+    "iso:country":"US",
+    "sg:address":"3228 US Hwy 90",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 2217",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pnHsxXkGGPoKOufkT19wA_30.237025_-93.295273@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520487,
+    "wof:geomhash":"783db12737d752292f575290be81d5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840070481
+        }
+    ],
+    "wof:id":840070481,
+    "wof:lastmodified":1463520487,
+    "wof:name":"K & K Bottled Water",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -93.295273,
+    30.237025,
+    -93.295273,
+    30.237025
+],
+  "geometry": {"coordinates":[-93.29527299999999,30.237025],"type":"Point"}
+}

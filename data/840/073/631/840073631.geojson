@@ -1,0 +1,71 @@
+{
+  "id": 840073631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.113435,32.493475,-92.113435,32.493475",
+    "geom:latitude":32.493475,
+    "geom:longitude":-92.113435,
+    "iso:country":"US",
+    "sg:address":"912 Saint John St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 5972",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IkHw8K6j99ApizLv7Mbsr_32.493475_-92.113435@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520553,
+    "wof:geomhash":"f2b383eca5c7bfa127a933b07a53f65d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840073631
+        }
+    ],
+    "wof:id":840073631,
+    "wof:lastmodified":1463520553,
+    "wof:name":"Monroe Resource Ctr",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -92.113435,
+    32.493475,
+    -92.113435,
+    32.493475
+],
+  "geometry": {"coordinates":[-92.113435,32.493475],"type":"Point"}
+}

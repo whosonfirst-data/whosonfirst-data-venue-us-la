@@ -1,0 +1,71 @@
+{
+  "id": 840069753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.336803,31.055147,-93.336803,31.055147",
+    "geom:latitude":31.055147,
+    "geom:longitude":-93.336803,
+    "iso:country":"US",
+    "sg:address":"4078 Savage Forks Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 239 4826",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I5aDvVVgUzr621b0s5Fur_31.055147_-93.336803@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520473,
+    "wof:geomhash":"4dea6e6c00444d2fb650e7e6aabb4953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840069753
+        }
+    ],
+    "wof:id":840069753,
+    "wof:lastmodified":1463520473,
+    "wof:name":"Savage Fork Fire Station",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.336803,
+    31.055147,
+    -93.336803,
+    31.055147
+],
+  "geometry": {"coordinates":[-93.336803,31.055147],"type":"Point"}
+}

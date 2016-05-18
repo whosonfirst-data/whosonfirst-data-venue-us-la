@@ -1,0 +1,73 @@
+{
+  "id": 840113915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.533328,29.824352,-91.533328,29.824352",
+    "geom:latitude":29.824352,
+    "geom:longitude":-91.533328,
+    "iso:country":"US",
+    "sg:address":"111 Hebert Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 967 2219",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P13NmyMPEXwwUb70Pjerr_29.824352_-91.533328@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521505,
+    "wof:geomhash":"2eb975f382e59e7275bb240e001a49fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840113915
+        }
+    ],
+    "wof:id":840113915,
+    "wof:lastmodified":1463521505,
+    "wof:name":"T P D Trucking",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.533328,
+    29.824352,
+    -91.533328,
+    29.824352
+],
+  "geometry": {"coordinates":[-91.533328,29.824352],"type":"Point"}
+}

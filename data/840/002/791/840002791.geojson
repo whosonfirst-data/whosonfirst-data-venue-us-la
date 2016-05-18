@@ -1,0 +1,83 @@
+{
+  "id": 840002791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.058178,30.462298,-91.058178,30.462298",
+    "geom:latitude":30.462298,
+    "geom:longitude":-91.058178,
+    "iso:country":"US",
+    "sg:address":"1295 N Sherwood Forest Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 275 7876",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85838033,
+        85819973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fX5hjjBT9AYMLbxPx3ebk_30.462298_-91.058178@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519052,
+    "wof:geomhash":"d34a37236e692271383d00d7a4511961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85838033,
+            "region_id":85688735,
+            "venue_id":840002791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85819973,
+            "region_id":85688735,
+            "venue_id":840002791
+        }
+    ],
+    "wof:id":840002791,
+    "wof:lastmodified":1463519052,
+    "wof:name":"Cash Tyme",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -91.058178,
+    30.462298,
+    -91.058178,
+    30.462298
+],
+  "geometry": {"coordinates":[-91.058178,30.462298],"type":"Point"}
+}

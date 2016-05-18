@@ -1,0 +1,72 @@
+{
+  "id": 840454829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325271,30.213158,-93.325271,30.213158",
+    "geom:latitude":30.213158,
+    "geom:longitude":-93.325271,
+    "iso:country":"US",
+    "sg:address":"2488 S Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hollywood/136411-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 8111",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50a5wGOY26OLZJHXhsLzvF_30.213158_-93.325271@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533498,
+    "wof:geomhash":"6e7578e8ec1d2d7f4bc6779e4ed150a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454829
+        }
+    ],
+    "wof:id":840454829,
+    "wof:lastmodified":1463533498,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -93.325271,
+    30.213158,
+    -93.325271,
+    30.213158
+],
+  "geometry": {"coordinates":[-93.325271,30.213158],"type":"Point"}
+}

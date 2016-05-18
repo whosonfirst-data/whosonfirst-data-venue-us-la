@@ -1,0 +1,71 @@
+{
+  "id": 840215695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.108586,30.399898,-91.108586,30.399898",
+    "geom:latitude":30.399898,
+    "geom:longitude":-91.108586,
+    "iso:country":"US",
+    "sg:address":"5220 Flanders Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 766 3437",
+    "sg:postcode":"70808",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KWFJPe4EScWHyfqzgd2Lo_30.399898_-91.108586@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523744,
+    "wof:geomhash":"cdd65279e8c4b1c5b63f885c2c4b6cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840215695
+        }
+    ],
+    "wof:id":840215695,
+    "wof:lastmodified":1463523744,
+    "wof:name":"Pediatric Eye Care Ctr",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.108586,
+    30.399898,
+    -91.108586,
+    30.399898
+],
+  "geometry": {"coordinates":[-91.108586,30.399898],"type":"Point"}
+}

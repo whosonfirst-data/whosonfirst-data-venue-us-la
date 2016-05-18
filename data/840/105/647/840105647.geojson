@@ -1,0 +1,71 @@
+{
+  "id": 840105647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.030998,30.367446,-91.030998,30.367446",
+    "geom:latitude":30.367446,
+    "geom:longitude":-91.030998,
+    "iso:country":"US",
+    "sg:address":"8967 Castille Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 753 4450",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UFuSqqZwIoX1GV1I9xM6B_30.367446_-91.030998@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521347,
+    "wof:geomhash":"7a2d0962b725923ea458050120c6a54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840105647
+        }
+    ],
+    "wof:id":840105647,
+    "wof:lastmodified":1463521347,
+    "wof:name":"Neil's Automotive",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.030998,
+    30.367446,
+    -91.030998,
+    30.367446
+],
+  "geometry": {"coordinates":[-91.030998,30.367446],"type":"Point"}
+}

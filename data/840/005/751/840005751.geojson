@@ -1,0 +1,73 @@
+{
+  "id": 840005751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.744146,29.520604,-90.744146,29.520604",
+    "geom:latitude":29.520604,
+    "geom:longitude":-90.744146,
+    "iso:country":"US",
+    "sg:address":"631 Bayou Dularge Rd",
+    "sg:city":"Houma",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 872 2322",
+    "sg:postcode":"70363",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948799,
+        102081923,
+        85803459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FDS9inzgy0FbpcBqnITsg_29.520604_-90.744146@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519116,
+    "wof:geomhash":"d65bb0aa7c3106d2cbfad1a4cfb7037a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081923,
+            "locality_id":85948799,
+            "neighbourhood_id":85803459,
+            "region_id":85688735,
+            "venue_id":840005751
+        }
+    ],
+    "wof:id":840005751,
+    "wof:lastmodified":1463519116,
+    "wof:name":"Dularge Volunteer Fire Dept",
+    "wof:parent_id":85803459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.744146,
+    29.520604,
+    -90.744146,
+    29.520604
+],
+  "geometry": {"coordinates":[-90.744146,29.520604],"type":"Point"}
+}

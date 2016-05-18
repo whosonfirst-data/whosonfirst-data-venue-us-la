@@ -1,0 +1,85 @@
+{
+  "id": 840338983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061841,29.957856,-90.061841,29.957856",
+    "geom:latitude":29.957856,
+    "geom:longitude":-90.061841,
+    "iso:country":"US",
+    "sg:address":"809 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 529 2974",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853777,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wq6xZ4puLpYYE7p9JRqQR_29.957856_-90.061841@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528363,
+    "wof:geomhash":"795a21a30a1ee7b01c4089d92cd7821a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840338983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840338983
+        }
+    ],
+    "wof:id":840338983,
+    "wof:lastmodified":1463528363,
+    "wof:name":"French Quarter Camera & Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -90.061841,
+    29.957856,
+    -90.061841,
+    29.957856
+],
+  "geometry": {"coordinates":[-90.061841,29.957856],"type":"Point"}
+}

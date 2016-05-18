@@ -1,0 +1,69 @@
+{
+  "id": 840290703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.08779,32.469989,-92.08779,32.469989",
+    "geom:latitude":32.469989,
+    "geom:longitude":-92.08779,
+    "iso:country":"US",
+    "sg:address":"2005 Short Thomas St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 2818",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85822879,
+        102081027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nsVneCAZnei5cnq0p6D1E_32.469989_-92.087790@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526095,
+    "wof:geomhash":"0c3c0735f4873e2a1d87da3ab5667574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "neighbourhood_id":85822879,
+            "region_id":85688735,
+            "venue_id":840290703
+        }
+    ],
+    "wof:id":840290703,
+    "wof:lastmodified":1463526095,
+    "wof:name":"James Cleaners",
+    "wof:parent_id":85822879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -92.08779,
+    32.469989,
+    -92.08779,
+    32.469989
+],
+  "geometry": {"coordinates":[-92.08779,32.469989],"type":"Point"}
+}

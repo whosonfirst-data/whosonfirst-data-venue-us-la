@@ -1,0 +1,73 @@
+{
+  "id": 840279001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061855,30.000845,-90.061855,30.000845",
+    "geom:latitude":30.000845,
+    "geom:longitude":-90.061855,
+    "iso:country":"US",
+    "sg:address":"4100 Touro St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 670 3300",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09n91niZf3N5p23zP21U86_30.000845_-90.061855@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525575,
+    "wof:geomhash":"a4ddfd64180643d20c8cdf9c2128d18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":840279001
+        }
+    ],
+    "wof:id":840279001,
+    "wof:lastmodified":1463525575,
+    "wof:name":"House Authority Of New Orleans",
+    "wof:parent_id":85866059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -90.061855,
+    30.000845,
+    -90.061855,
+    30.000845
+],
+  "geometry": {"coordinates":[-90.06185499999999,30.000845],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840415429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.789762,32.569634,-93.789762,32.569634",
+    "geom:latitude":32.569634,
+    "geom:longitude":-93.789762,
+    "iso:country":"US",
+    "sg:address":"3600 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 424 6405",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FJbcvaP39hyywVwU7pUrW_32.569634_-93.789762@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531847,
+    "wof:geomhash":"7d585d70448a55f92d60a6af71da58a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840415429
+        }
+    ],
+    "wof:id":840415429,
+    "wof:lastmodified":1463531847,
+    "wof:name":"North Highland Dental Clinic",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.789762,
+    32.569634,
+    -93.789762,
+    32.569634
+],
+  "geometry": {"coordinates":[-93.789762,32.569634],"type":"Point"}
+}

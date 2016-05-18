@@ -1,0 +1,73 @@
+{
+  "id": 840454825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376335,30.225546,-93.376335,30.225546",
+    "geom:latitude":30.225546,
+    "geom:longitude":-93.376335,
+    "iso:country":"US",
+    "sg:address":"1609 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/sulphur/188465-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43nGPrm2RioUuUKAcLRGm8_30.225546_-93.376335@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533498,
+    "wof:geomhash":"59c71c66a89fc834d2bb1602cb87ff82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454825
+        }
+    ],
+    "wof:id":840454825,
+    "wof:lastmodified":1463533498,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.376335,
+    30.225546,
+    -93.376335,
+    30.225546
+],
+  "geometry": {"coordinates":[-93.376335,30.225546],"type":"Point"}
+}

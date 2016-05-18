@@ -1,0 +1,74 @@
+{
+  "id": 840455823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.016253,30.405975,-91.016253,30.405975",
+    "geom:latitude":30.405975,
+    "geom:longitude":-91.016253,
+    "iso:country":"US",
+    "sg:address":"5380 Jones Creek Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/210599-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 755 1431",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m3XlswhY4gZy1n1Ci3bqL_30.405975_-91.016253@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533532,
+    "wof:geomhash":"3d272503eb64425e190c9e4a02e44a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840455823
+        }
+    ],
+    "wof:id":840455823,
+    "wof:lastmodified":1463533532,
+    "wof:name":"Arby's",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.016253,
+    30.405975,
+    -91.016253,
+    30.405975
+],
+  "geometry": {"coordinates":[-91.01625300000001,30.405975],"type":"Point"}
+}

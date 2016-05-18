@@ -1,0 +1,72 @@
+{
+  "id": 840454001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.786521,30.223628,-89.786521,30.223628",
+    "geom:latitude":30.223628,
+    "geom:longitude":-89.786521,
+    "iso:country":"US",
+    "sg:address":"111 Oak Ct",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/mcclane-city/136405-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 639 9526",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948593,
+        102082453,
+        85838725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39Kjkaf6oVy9OOXZBrTEWk_30.223628_-89.786521@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533468,
+    "wof:geomhash":"b2aedd0121d3b6f741c37d067146ea42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948593,
+            "neighbourhood_id":85838725,
+            "region_id":85688735,
+            "venue_id":840454001
+        }
+    ],
+    "wof:id":840454001,
+    "wof:lastmodified":1463533468,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85838725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -89.786521,
+    30.223628,
+    -89.786521,
+    30.223628
+],
+  "geometry": {"coordinates":[-89.78652099999999,30.223628],"type":"Point"}
+}

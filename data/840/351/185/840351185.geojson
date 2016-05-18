@@ -1,0 +1,75 @@
+{
+  "id": 840351185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.286899,31.138443,-93.286899,31.138443",
+    "geom:latitude":31.138443,
+    "geom:longitude":-93.286899,
+    "iso:country":"US",
+    "sg:address":"1117 Anderson Dr",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 1018",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tq73OxLF9bKvPdQ0pRsCs_31.138443_-93.286899@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528966,
+    "wof:geomhash":"da67123ff49979b6ff66b8390bce8626",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840351185
+        }
+    ],
+    "wof:id":840351185,
+    "wof:lastmodified":1463528966,
+    "wof:name":"Millies Pet Grooming",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.286899,
+    31.138443,
+    -93.286899,
+    31.138443
+],
+  "geometry": {"coordinates":[-93.28689900000001,31.138443],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840080345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.300251,30.080463,-91.300251,30.080463",
+    "geom:latitude":30.080463,
+    "geom:longitude":-91.300251,
+    "iso:country":"US",
+    "sg:address":"38305 State Rte 75",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 545 3808",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N8KxoyxVEcj2ZgrPuE9PK_30.080463_-91.300251@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520690,
+    "wof:geomhash":"bcf22debe59275843567ab28737ff3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840080345
+        }
+    ],
+    "wof:id":840080345,
+    "wof:lastmodified":1463520690,
+    "wof:name":"Bayou Pigeon Fire Dept",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.300251,
+    30.080463,
+    -91.300251,
+    30.080463
+],
+  "geometry": {"coordinates":[-91.300251,30.080463],"type":"Point"}
+}

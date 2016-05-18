@@ -1,0 +1,75 @@
+{
+  "id": 840221503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.312731,31.07518,-93.312731,31.07518",
+    "geom:latitude":31.07518,
+    "geom:longitude":-93.312731,
+    "iso:country":"US",
+    "sg:address":"119 Section Line Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 537 7212",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AMaDNr9Cs9FkiXxb5W2ng_31.075180_-93.312731@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523864,
+    "wof:geomhash":"a7c10d3e878cda8890339fc5da2b5a52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840221503
+        }
+    ],
+    "wof:id":840221503,
+    "wof:lastmodified":1463523864,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.312731,
+    31.07518,
+    -93.312731,
+    31.07518
+],
+  "geometry": {"coordinates":[-93.312731,31.07518],"type":"Point"}
+}

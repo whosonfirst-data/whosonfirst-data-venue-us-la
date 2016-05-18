@@ -1,0 +1,75 @@
+{
+  "id": 840404525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.011198,30.226187,-92.011198,30.226187",
+    "geom:latitude":30.226187,
+    "geom:longitude":-92.011198,
+    "iso:country":"US",
+    "sg:address":"200 7th St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 3887",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EVgx9pxTqs5BLrOeix1kk_30.226187_-92.011198@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531404,
+    "wof:geomhash":"5920a9dc579ce2b055a422a8713f754d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840404525
+        }
+    ],
+    "wof:id":840404525,
+    "wof:lastmodified":1463531404,
+    "wof:name":"Hebert's Auto Repair",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.011198,
+    30.226187,
+    -92.011198,
+    30.226187
+],
+  "geometry": {"coordinates":[-92.01119799999999,30.226187],"type":"Point"}
+}

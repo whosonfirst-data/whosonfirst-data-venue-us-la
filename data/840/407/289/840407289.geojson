@@ -1,0 +1,73 @@
+{
+  "id": 840407289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.54611,29.839744,-91.54611,29.839744",
+    "geom:latitude":29.839744,
+    "geom:longitude":-91.54611,
+    "iso:country":"US",
+    "sg:address":"900 Main St",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 6000",
+    "sg:postcode":"70514",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RLwEdAjN79ieWrKTabHs8_29.839744_-91.546110@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531509,
+    "wof:geomhash":"10f94340118fb05bef4676393c4a079f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840407289
+        }
+    ],
+    "wof:id":840407289,
+    "wof:lastmodified":1463531509,
+    "wof:name":"Check Cashers Inc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -91.54611,
+    29.839744,
+    -91.54611,
+    29.839744
+],
+  "geometry": {"coordinates":[-91.54611,29.839744],"type":"Point"}
+}

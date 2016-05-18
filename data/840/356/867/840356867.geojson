@@ -1,0 +1,71 @@
+{
+  "id": 840356867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.965177,29.955683,-89.965177,29.955683",
+    "geom:latitude":29.955683,
+    "geom:longitude":-89.965177,
+    "iso:country":"US",
+    "sg:address":"3605 Jackson Blvd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 0955",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rqRUNbG3lCDzam4ugcx88_29.955683_-89.965177@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529248,
+    "wof:geomhash":"1d7ef3a040bb70e1037e3663245e4808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840356867
+        }
+    ],
+    "wof:id":840356867,
+    "wof:lastmodified":1463529248,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.965177,
+    29.955683,
+    -89.965177,
+    29.955683
+],
+  "geometry": {"coordinates":[-89.965177,29.955683],"type":"Point"}
+}

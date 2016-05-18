@@ -1,0 +1,87 @@
+{
+  "id": 840339019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063486,29.959478,-90.063486,29.959478",
+    "geom:latitude":29.959478,
+    "geom:longitude":-90.063486,
+    "iso:country":"US",
+    "sg:address":"827 Royal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 2253",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KK50dICTbiPrgknQSOxFU_29.959478_-90.063486@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528364,
+    "wof:geomhash":"80f40a9009362ddda49bcdc4eb1b6196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840339019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840339019
+        }
+    ],
+    "wof:id":840339019,
+    "wof:lastmodified":1463528364,
+    "wof:name":"Three Dog Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.063486,
+    29.959478,
+    -90.063486,
+    29.959478
+],
+  "geometry": {"coordinates":[-90.063486,29.959478],"type":"Point"}
+}

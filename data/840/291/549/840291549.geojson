@@ -1,0 +1,71 @@
+{
+  "id": 840291549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.810328,29.993116,-91.810328,29.993116",
+    "geom:latitude":29.993116,
+    "geom:longitude":-91.810328,
+    "iso:country":"US",
+    "sg:address":"813 S Lewis St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 1521",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wF6mRGc8rttscZnkQqOtS_29.993116_-91.810328@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526133,
+    "wof:geomhash":"166166aebd9d7f8d288df8e195c46e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840291549
+        }
+    ],
+    "wof:id":840291549,
+    "wof:lastmodified":1463526133,
+    "wof:name":"All Pro Transmission Spec",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -91.810328,
+    29.993116,
+    -91.810328,
+    29.993116
+],
+  "geometry": {"coordinates":[-91.810328,29.993116],"type":"Point"}
+}

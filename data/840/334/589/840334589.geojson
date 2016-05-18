@@ -1,0 +1,73 @@
+{
+  "id": 840334589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.055914,30.192946,-92.055914,30.192946",
+    "geom:latitude":30.192946,
+    "geom:longitude":-92.055914,
+    "iso:country":"US",
+    "sg:address":"103 Rena Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 4663",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A9KI1MjVKDuWa9KU5uBmA_30.192946_-92.055914@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528159,
+    "wof:geomhash":"591725dffe90a243c112d42ce46bc41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840334589
+        }
+    ],
+    "wof:id":840334589,
+    "wof:lastmodified":1463528159,
+    "wof:name":"Mike's Car Care Ctr",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.055914,
+    30.192946,
+    -92.055914,
+    30.192946
+],
+  "geometry": {"coordinates":[-92.055914,30.192946],"type":"Point"}
+}

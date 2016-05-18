@@ -1,0 +1,83 @@
+{
+  "id": 840378607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063059,29.959381,-90.063059,29.959381",
+    "geom:latitude":29.959381,
+    "geom:longitude":-90.063059,
+    "iso:country":"US",
+    "sg:address":"632 Dumaine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 599 1147",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853777,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zZuu0wA6FW2jw1NSEcuSF_29.959381_-90.063059@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530289,
+    "wof:geomhash":"cd69ceff292afc9cc50ae269d204b43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840378607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840378607
+        }
+    ],
+    "wof:id":840378607,
+    "wof:lastmodified":1463530289,
+    "wof:name":"Lieutenant Governor Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -90.063059,
+    29.959381,
+    -90.063059,
+    29.959381
+],
+  "geometry": {"coordinates":[-90.063059,29.959381],"type":"Point"}
+}

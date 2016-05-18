@@ -1,0 +1,82 @@
+{
+  "id": 840117769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.052101,30.156115,-92.052101,30.156115",
+    "geom:latitude":30.156115,
+    "geom:longitude":-92.052101,
+    "iso:country":"US",
+    "sg:address":"215 W Farrel Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1420",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZEeulgFPq8rNYWhWiaDOB_30.156115_-92.052101@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521589,
+    "wof:geomhash":"b0e67dbd933306b233905531f676e55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840117769
+        }
+    ],
+    "wof:id":840117769,
+    "wof:lastmodified":1463521589,
+    "wof:name":"Kingsley Place",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community",
+        "residential"
+    ]
+},
+  "bbox": [
+    -92.052101,
+    30.156115,
+    -92.052101,
+    30.156115
+],
+  "geometry": {"coordinates":[-92.05210099999999,30.156115],"type":"Point"}
+}

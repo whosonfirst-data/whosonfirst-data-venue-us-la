@@ -1,0 +1,77 @@
+{
+  "id": 840314859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.097573,29.953041,-90.097573,29.953041",
+    "geom:latitude":29.953041,
+    "geom:longitude":-90.097573,
+    "iso:country":"US",
+    "sg:address":"1300 S Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 822 4088",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85891209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LksME5G9wrcYfknFnZPL9_29.953041_-90.097573@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527213,
+    "wof:geomhash":"99b60fec98cf872bed32d9360429a33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891209,
+            "region_id":85688735,
+            "venue_id":840314859
+        }
+    ],
+    "wof:id":840314859,
+    "wof:lastmodified":1463527213,
+    "wof:name":"Woods Collision Ctr",
+    "wof:parent_id":85891209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.097573,
+    29.953041,
+    -90.097573,
+    29.953041
+],
+  "geometry": {"coordinates":[-90.097573,29.953041],"type":"Point"}
+}

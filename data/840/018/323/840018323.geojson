@@ -1,0 +1,75 @@
+{
+  "id": 840018323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.019455,30.278053,-92.019455,30.278053",
+    "geom:latitude":30.278053,
+    "geom:longitude":-92.019455,
+    "iso:country":"US",
+    "sg:address":"2860 NE Evangeline Throughway",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 5233",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74RiEuC9gtO1IM2oHgcuuB_30.278053_-92.019455@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519372,
+    "wof:geomhash":"17c78dc21a6104f56d19d13c43c7a0b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840018323
+        }
+    ],
+    "wof:id":840018323,
+    "wof:lastmodified":1463519372,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -92.019455,
+    30.278053,
+    -92.019455,
+    30.278053
+],
+  "geometry": {"coordinates":[-92.01945499999999,30.278053],"type":"Point"}
+}

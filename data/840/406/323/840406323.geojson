@@ -1,0 +1,71 @@
+{
+  "id": 840406323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.215571,30.183346,-93.215571,30.183346",
+    "geom:latitude":30.183346,
+    "geom:longitude":-93.215571,
+    "iso:country":"US",
+    "sg:address":"550 E Sale Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 8650",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24gZdtnwUil0VawDj6PL3C_30.183346_-93.215571@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531472,
+    "wof:geomhash":"85bf9c9a9aa97e582ae37cc1b9802eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840406323
+        }
+    ],
+    "wof:id":840406323,
+    "wof:lastmodified":1463531472,
+    "wof:name":"Calcasieu Community Clinic",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.215571,
+    30.183346,
+    -93.215571,
+    30.183346
+],
+  "geometry": {"coordinates":[-93.215571,30.183346],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840454725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249198,30.175994,-93.249198,30.175994",
+    "geom:latitude":30.175994,
+    "geom:longitude":-93.249198,
+    "iso:country":"US",
+    "sg:address":"4505 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/188363-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DARNhCgyWi918ApqaimBJ_30.175994_-93.249198@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533494,
+    "wof:geomhash":"587638e2a0ed577935eeb8634753b502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840454725
+        }
+    ],
+    "wof:id":840454725,
+    "wof:lastmodified":1463533494,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.249198,
+    30.175994,
+    -93.249198,
+    30.175994
+],
+  "geometry": {"coordinates":[-93.24919800000001,30.175994],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840440113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.016322,30.404939,-91.016322,30.404939",
+    "geom:latitude":30.404939,
+    "geom:longitude":-91.016322,
+    "iso:country":"US",
+    "sg:address":"5245 Jones Creek Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 751 6965",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XAttwXCL74sZoQA2BFGdP_30.404939_-91.016322@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532907,
+    "wof:geomhash":"1a05aadefae6f9e6d69bf4ca106fd0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840440113
+        }
+    ],
+    "wof:id":840440113,
+    "wof:lastmodified":1463532907,
+    "wof:name":"Tiger Steam Cleaning",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.016322,
+    30.404939,
+    -91.016322,
+    30.404939
+],
+  "geometry": {"coordinates":[-91.016322,30.404939],"type":"Point"}
+}

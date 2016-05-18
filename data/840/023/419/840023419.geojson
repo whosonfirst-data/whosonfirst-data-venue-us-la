@@ -1,0 +1,73 @@
+{
+  "id": 840023419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.062595,30.195466,-92.062595,30.195466",
+    "geom:latitude":30.195466,
+    "geom:longitude":-92.062595,
+    "iso:country":"US",
+    "sg:address":"100 Sycamore Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 0594",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09qUYqVMFXpnpk9swhs6g3_30.195466_-92.062595@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519475,
+    "wof:geomhash":"09f328d8df429cc755412a234f9e7b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840023419
+        }
+    ],
+    "wof:id":840023419,
+    "wof:lastmodified":1463519475,
+    "wof:name":"Delarue Dance Ctr",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -92.062595,
+    30.195466,
+    -92.062595,
+    30.195466
+],
+  "geometry": {"coordinates":[-92.062595,30.195466],"type":"Point"}
+}

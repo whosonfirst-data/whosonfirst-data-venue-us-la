@@ -1,0 +1,73 @@
+{
+  "id": 840325839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.270255,29.689527,-91.270255,29.689527",
+    "geom:latitude":29.689527,
+    "geom:longitude":-91.270255,
+    "iso:country":"US",
+    "sg:address":"140 Neptune St",
+    "sg:city":"Grand Isle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 787 2280",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X1OKebzjVFkcuD4WeXWIb_29.689527_-91.270255@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527760,
+    "wof:geomhash":"4b287752f80ce2e6fdb29d92bba5dbf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840325839
+        }
+    ],
+    "wof:id":840325839,
+    "wof:lastmodified":1463527760,
+    "wof:name":"Grand Isle Locksmith & Fix It",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -91.270255,
+    29.689527,
+    -91.270255,
+    29.689527
+],
+  "geometry": {"coordinates":[-91.27025500000001,29.689527],"type":"Point"}
+}

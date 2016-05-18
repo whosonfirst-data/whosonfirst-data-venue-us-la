@@ -1,0 +1,73 @@
+{
+  "id": 840130843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.071975,29.940317,-90.071975,29.940317",
+    "geom:latitude":29.940317,
+    "geom:longitude":-90.071975,
+    "iso:country":"US",
+    "sg:address":"1172 Camp St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 6304",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16iC91BsSAqehWc9hNEbGn_29.940317_-90.071975@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521863,
+    "wof:geomhash":"336623a2211c36df2898917e9fba2db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840130843
+        }
+    ],
+    "wof:id":840130843,
+    "wof:lastmodified":1463521863,
+    "wof:name":"American Land & Marine",
+    "wof:parent_id":85831571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -90.071975,
+    29.940317,
+    -90.071975,
+    29.940317
+],
+  "geometry": {"coordinates":[-90.07197499999999,29.940317],"type":"Point"}
+}

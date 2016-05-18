@@ -1,0 +1,73 @@
+{
+  "id": 840428411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.016481,30.231486,-93.016481,30.231486",
+    "geom:latitude":30.231486,
+    "geom:longitude":-93.016481,
+    "iso:country":"US",
+    "sg:address":"308 US Hwy 90",
+    "sg:city":"Iowa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 582 2822",
+    "sg:postcode":"70647",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LdG45YTPlmmCuyto0ZKav_30.231486_-93.016481@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532373,
+    "wof:geomhash":"81aa0f00031c2479949fe2fcec9607d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840428411
+        }
+    ],
+    "wof:id":840428411,
+    "wof:lastmodified":1463532373,
+    "wof:name":"Boudreaux's Auto Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.016481,
+    30.231486,
+    -93.016481,
+    30.231486
+],
+  "geometry": {"coordinates":[-93.016481,30.231486],"type":"Point"}
+}

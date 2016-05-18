@@ -1,0 +1,74 @@
+{
+  "id": 840454567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.829313,29.989539,-91.829313,29.989539",
+    "geom:latitude":29.989539,
+    "geom:longitude":-91.829313,
+    "iso:country":"US",
+    "sg:address":"635 E Admiral Doyle Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-iberia/72969-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 1176",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I5KOhdr97FaoQr6jDaIqc_29.989539_-91.829313@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533489,
+    "wof:geomhash":"da67e8bfa443430958484b2c944c3e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840454567
+        }
+    ],
+    "wof:id":840454567,
+    "wof:lastmodified":1463533489,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.829313,
+    29.989539,
+    -91.829313,
+    29.989539
+],
+  "geometry": {"coordinates":[-91.829313,29.989539],"type":"Point"}
+}

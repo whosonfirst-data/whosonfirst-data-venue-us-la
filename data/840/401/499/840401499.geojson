@@ -1,0 +1,71 @@
+{
+  "id": 840401499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.488037,31.566487,-93.488037,31.566487",
+    "geom:latitude":31.566487,
+    "geom:longitude":-93.488037,
+    "iso:country":"US",
+    "sg:address":"223 Elizabeth St",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 2045",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gS7kgVFS54qs6tGYqbC43_31.566487_-93.488037@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531268,
+    "wof:geomhash":"dd08949c8e99295187648d31904edff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840401499
+        }
+    ],
+    "wof:id":840401499,
+    "wof:lastmodified":1463531268,
+    "wof:name":"Brookshire Brothers",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.488037,
+    31.566487,
+    -93.488037,
+    31.566487
+],
+  "geometry": {"coordinates":[-93.48803700000001,31.566487],"type":"Point"}
+}

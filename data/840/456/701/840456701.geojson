@@ -1,0 +1,76 @@
+{
+  "id": 840456701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.147578,32.528008,-92.147578,32.528008",
+    "geom:latitude":32.528008,
+    "geom:longitude":-92.147578,
+    "iso:country":"US",
+    "sg:address":"2710 N 7th St",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/claiborne/132165-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 329 8396",
+    "sg:postcode":"71291",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TzBiP11MCKbvHhZFijKyh_32.528008_-92.147578@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533563,
+    "wof:geomhash":"db35d31465ffd99897fd628a0da0a914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840456701
+        }
+    ],
+    "wof:id":840456701,
+    "wof:lastmodified":1463533563,
+    "wof:name":"Subway",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.147578,
+    32.528008,
+    -92.147578,
+    32.528008
+],
+  "geometry": {"coordinates":[-92.147578,32.528008],"type":"Point"}
+}

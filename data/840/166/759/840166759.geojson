@@ -1,0 +1,71 @@
+{
+  "id": 840166759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.097622,30.416652,-91.097622,30.416652",
+    "geom:latitude":30.416652,
+    "geom:longitude":-91.097622,
+    "iso:country":"US",
+    "sg:address":"8768 Quarters Lake Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 922 7885",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HgoLTNVKMQoZHHaYC9ze1_30.416652_-91.097622@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522582,
+    "wof:geomhash":"95dab260ab978fa3b49a184b3bc3a8ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840166759
+        }
+    ],
+    "wof:id":840166759,
+    "wof:lastmodified":1463522582,
+    "wof:name":"William N Bergeron MD",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.097622,
+    30.416652,
+    -91.097622,
+    30.416652
+],
+  "geometry": {"coordinates":[-91.097622,30.416652],"type":"Point"}
+}

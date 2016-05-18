@@ -1,0 +1,74 @@
+{
+  "id": 840454259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.069688,30.174051,-92.069688,30.174051",
+    "geom:latitude":30.174051,
+    "geom:longitude":-92.069688,
+    "iso:country":"US",
+    "sg:address":"3621 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/broadmoor/132068-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 3735",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mfxnCYvcItNAPPj5TcjK5_30.174051_-92.069688@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533478,
+    "wof:geomhash":"25f9e31f69e6230a86d462f691135a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840454259
+        }
+    ],
+    "wof:id":840454259,
+    "wof:lastmodified":1463533478,
+    "wof:name":"Subway",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.069688,
+    30.174051,
+    -92.069688,
+    30.174051
+],
+  "geometry": {"coordinates":[-92.069688,30.174051],"type":"Point"}
+}

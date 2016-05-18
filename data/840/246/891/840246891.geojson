@@ -1,0 +1,73 @@
+{
+  "id": 840246891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08233,29.974703,-90.08233,29.974703",
+    "geom:latitude":29.974703,
+    "geom:longitude":-90.08233,
+    "iso:country":"US",
+    "sg:address":"2851 Belle Chasse St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 433 4489",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BpW5ui8QIeXjh8e4BCHbp_29.974703_-90.082330@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524532,
+    "wof:geomhash":"b5880384f84574207decf53d68109333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840246891
+        }
+    ],
+    "wof:id":840246891,
+    "wof:lastmodified":1463524532,
+    "wof:name":"Albertsons",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.08233,
+    29.974703,
+    -90.08233,
+    29.974703
+],
+  "geometry": {"coordinates":[-90.08233,29.974703],"type":"Point"}
+}

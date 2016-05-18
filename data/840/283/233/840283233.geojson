@@ -1,0 +1,69 @@
+{
+  "id": 840283233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.960885,32.44264,-93.960885,32.44264",
+    "geom:latitude":32.44264,
+    "geom:longitude":-93.960885,
+    "iso:country":"US",
+    "sg:address":"9195 Greenwood Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 938 4100",
+    "sg:postcode":"71033",
+    "sg:province":"LA",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85880975,
+        102087235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fod0JEBC6t3dX5fzko9uy_32.442640_-93.960885@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525766,
+    "wof:geomhash":"ab1d39cc91293b412de1d596bad706c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "neighbourhood_id":85880975,
+            "region_id":85688735,
+            "venue_id":840283233
+        }
+    ],
+    "wof:id":840283233,
+    "wof:lastmodified":1463525766,
+    "wof:name":"Bob Massey Auction Svc",
+    "wof:parent_id":85880975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -93.960885,
+    32.44264,
+    -93.960885,
+    32.44264
+],
+  "geometry": {"coordinates":[-93.960885,32.44264],"type":"Point"}
+}

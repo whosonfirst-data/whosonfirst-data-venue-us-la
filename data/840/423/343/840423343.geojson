@@ -1,0 +1,71 @@
+{
+  "id": 840423343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.478876,29.769525,-91.478876,29.769525",
+    "geom:latitude":29.769525,
+    "geom:longitude":-91.478876,
+    "iso:country":"US",
+    "sg:address":"10905 State Rte 182",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4646",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75RBc9gn90BTIAmyao25yW_29.769525_-91.478876@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532163,
+    "wof:geomhash":"86db5aa0a42adc1bf0fe0a4862630103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840423343
+        }
+    ],
+    "wof:id":840423343,
+    "wof:lastmodified":1463532163,
+    "wof:name":"St Mary Parish Rabies Control",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -91.478876,
+    29.769525,
+    -91.478876,
+    29.769525
+],
+  "geometry": {"coordinates":[-91.478876,29.769525],"type":"Point"}
+}

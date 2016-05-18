@@ -1,0 +1,74 @@
+{
+  "id": 840455339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.141665,30.418788,-91.141665,30.418788",
+    "geom:latitude":30.418788,
+    "geom:longitude":-91.141665,
+    "iso:country":"US",
+    "sg:address":"3125 College Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/208590-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 216 1861",
+    "sg:postcode":"70808",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85850249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5byL65obd44MKn60v8x3kB_30.418788_-91.141665@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533516,
+    "wof:geomhash":"e34982fba756e6d63d325829e8984053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85850249,
+            "region_id":85688735,
+            "venue_id":840455339
+        }
+    ],
+    "wof:id":840455339,
+    "wof:lastmodified":1463533516,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85850249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.141665,
+    30.418788,
+    -91.141665,
+    30.418788
+],
+  "geometry": {"coordinates":[-91.141665,30.418788],"type":"Point"}
+}

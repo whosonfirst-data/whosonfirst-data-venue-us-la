@@ -1,0 +1,71 @@
+{
+  "id": 840228621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.197168,30.248212,-93.197168,30.248212",
+    "geom:latitude":30.248212,
+    "geom:longitude":-93.197168,
+    "iso:country":"US",
+    "sg:address":"810 N Shattuck St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 9927",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58kzCXbIvi8mM0qtJVGN69_30.248212_-93.197168@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524075,
+    "wof:geomhash":"f02d26be231fb7bfc44fd151f535f5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840228621
+        }
+    ],
+    "wof:id":840228621,
+    "wof:lastmodified":1463524075,
+    "wof:name":"St Matthew Lutheran Church",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.197168,
+    30.248212,
+    -93.197168,
+    30.248212
+],
+  "geometry": {"coordinates":[-93.197168,30.248212],"type":"Point"}
+}

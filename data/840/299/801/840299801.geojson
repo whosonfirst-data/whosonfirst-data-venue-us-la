@@ -1,0 +1,73 @@
+{
+  "id": 840299801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249434,30.184244,-93.249434,30.184244",
+    "geom:latitude":30.184244,
+    "geom:longitude":-93.249434,
+    "iso:country":"US",
+    "sg:address":"4050 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 480 1188",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HjFBmESVXvvY0pDZeJoXu_30.184244_-93.249434@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526481,
+    "wof:geomhash":"26dc6720d7a532fd9e4e7ed81d1f2507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840299801
+        }
+    ],
+    "wof:id":840299801,
+    "wof:lastmodified":1463526481,
+    "wof:name":"Don's Express Carwash & Quick",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.249434,
+    30.184244,
+    -93.249434,
+    30.184244
+],
+  "geometry": {"coordinates":[-93.24943399999999,30.184244],"type":"Point"}
+}

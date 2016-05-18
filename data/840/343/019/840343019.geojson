@@ -1,0 +1,73 @@
+{
+  "id": 840343019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.010092,30.01124,-90.010092,30.01124",
+    "geom:latitude":30.01124,
+    "geom:longitude":-90.010092,
+    "iso:country":"US",
+    "sg:address":"6723 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 242 9126",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6leCZGfpVRX4UUaptUN0OK_30.011240_-90.010092@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528552,
+    "wof:geomhash":"a145d2febc6dde3623a75fc604af5161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840343019
+        }
+    ],
+    "wof:id":840343019,
+    "wof:lastmodified":1463528552,
+    "wof:name":"Owl Food Mart",
+    "wof:parent_id":85866169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.010092,
+    30.01124,
+    -90.010092,
+    30.01124
+],
+  "geometry": {"coordinates":[-90.010092,30.01124],"type":"Point"}
+}

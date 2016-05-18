@@ -1,0 +1,73 @@
+{
+  "id": 840365719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.394496,30.455706,-90.394496,30.455706",
+    "geom:latitude":30.455706,
+    "geom:longitude":-90.394496,
+    "iso:country":"US",
+    "sg:address":"20102 Raborn Ln",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 0780",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k4l5BCEKoMwrIRRJHR64o_30.455706_-90.394496@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529670,
+    "wof:geomhash":"0d6cce216fff625e6018757083d5b074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840365719
+        }
+    ],
+    "wof:id":840365719,
+    "wof:lastmodified":1463529670,
+    "wof:name":"B & B Machine Shop",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.394496,
+    30.455706,
+    -90.394496,
+    30.455706
+],
+  "geometry": {"coordinates":[-90.394496,30.455706],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840368561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.07007,30.198255,-92.07007,30.198255",
+    "geom:latitude":30.198255,
+    "geom:longitude":-92.07007,
+    "iso:country":"US",
+    "sg:address":"315 Guilbeau Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 2400",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_313IxhDAptCJlz2i6qHePj_30.198255_-92.070070@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529810,
+    "wof:geomhash":"843da29a5a230cfeeaa2363f860256be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840368561
+        }
+    ],
+    "wof:id":840368561,
+    "wof:lastmodified":1463529810,
+    "wof:name":"Gallery Apartments",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -92.07007,
+    30.198255,
+    -92.07007,
+    30.198255
+],
+  "geometry": {"coordinates":[-92.07007,30.198255],"type":"Point"}
+}

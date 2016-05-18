@@ -1,0 +1,71 @@
+{
+  "id": 840129301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.058901,30.193351,-92.058901,30.193351",
+    "geom:latitude":30.193351,
+    "geom:longitude":-92.058901,
+    "iso:country":"US",
+    "sg:address":"4551 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 0123",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HbrEEYvaalxnTimmpGDln_30.193351_-92.058901@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521834,
+    "wof:geomhash":"ec80b06cfa32bfd1485755a1c9737436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840129301
+        }
+    ],
+    "wof:id":840129301,
+    "wof:lastmodified":1463521834,
+    "wof:name":"Dynamic Care Home Medical Eqpt",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -92.058901,
+    30.193351,
+    -92.058901,
+    30.193351
+],
+  "geometry": {"coordinates":[-92.05890100000001,30.193351],"type":"Point"}
+}

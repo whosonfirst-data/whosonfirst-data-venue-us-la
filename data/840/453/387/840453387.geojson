@@ -1,0 +1,76 @@
+{
+  "id": 840453387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.113724,29.946128,-90.113724,29.946128",
+    "geom:latitude":29.946128,
+    "geom:longitude":-90.113724,
+    "iso:country":"US",
+    "sg:address":"6227 S Claiborne Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/89248-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 866 1629",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WAsKkVfMpEG9Zw0RKp1lv_29.946128_-90.113724@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533439,
+    "wof:geomhash":"1742ec6a30e1a0f1e2f9d3c0f6de1795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866177,
+            "region_id":85688735,
+            "venue_id":840453387
+        }
+    ],
+    "wof:id":840453387,
+    "wof:lastmodified":1463533439,
+    "wof:name":"Subway",
+    "wof:parent_id":85866177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.113724,
+    29.946128,
+    -90.113724,
+    29.946128
+],
+  "geometry": {"coordinates":[-90.113724,29.946128],"type":"Point"}
+}

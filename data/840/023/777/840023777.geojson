@@ -1,0 +1,69 @@
+{
+  "id": 840023777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608113,30.593387,-91.608113,30.593387",
+    "geom:latitude":30.593387,
+    "geom:longitude":-91.608113,
+    "iso:country":"US",
+    "sg:address":"5390 State Rte 77",
+    "sg:city":"Fordoche",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 637 3038",
+    "sg:postcode":"70732",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85868903,
+        102083185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W4pTLpCBC8UL54NfJD9yC_30.593387_-91.608113@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519480,
+    "wof:geomhash":"9402790c4a1e0e0b2aa85e3b229fe364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083185,
+            "neighbourhood_id":85868903,
+            "region_id":85688735,
+            "venue_id":840023777
+        }
+    ],
+    "wof:id":840023777,
+    "wof:lastmodified":1463519480,
+    "wof:name":"Fordoche Police Dept",
+    "wof:parent_id":85868903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.608113,
+    30.593387,
+    -91.608113,
+    30.593387
+],
+  "geometry": {"coordinates":[-91.608113,30.593387],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840372199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.497811,29.80452,-91.497811,29.80452",
+    "geom:latitude":29.80452,
+    "geom:longitude":-91.497811,
+    "iso:country":"US",
+    "sg:address":"1600 Hospital Ave",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 3600",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IUDvgW3pY9V62vj1XLPBZ_29.804520_-91.497811@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529995,
+    "wof:geomhash":"0a8a4b5ace0a3817eda3d69aeb36296c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840372199
+        }
+    ],
+    "wof:id":840372199,
+    "wof:lastmodified":1463529995,
+    "wof:name":"Physical Therapy Clinic",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -91.497811,
+    29.80452,
+    -91.497811,
+    29.80452
+],
+  "geometry": {"coordinates":[-91.497811,29.80452],"type":"Point"}
+}

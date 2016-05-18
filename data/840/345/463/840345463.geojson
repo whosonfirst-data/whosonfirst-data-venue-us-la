@@ -1,0 +1,77 @@
+{
+  "id": 840345463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.093268,29.963058,-90.093268,29.963058",
+    "geom:latitude":29.963058,
+    "geom:longitude":-90.093268,
+    "iso:country":"US",
+    "sg:address":"2801 Tulane Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 821 3300",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p2RS5f9FFQnLGUtJYousU_29.963058_-90.093268@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528677,
+    "wof:geomhash":"630f61f47dbef9cb261c76cf31499886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840345463
+        }
+    ],
+    "wof:id":840345463,
+    "wof:lastmodified":1463528677,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.093268,
+    29.963058,
+    -90.093268,
+    29.963058
+],
+  "geometry": {"coordinates":[-90.09326799999999,29.963058],"type":"Point"}
+}

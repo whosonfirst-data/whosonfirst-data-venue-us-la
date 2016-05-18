@@ -1,0 +1,71 @@
+{
+  "id": 840355969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.782732,30.272902,-89.782732,30.272902",
+    "geom:latitude":30.272902,
+    "geom:longitude":-89.782732,
+    "iso:country":"US",
+    "sg:address":"300 Robert St",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 643 3056",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z3aoGGYzNAs2mDWOL0Qe5_30.272902_-89.782732@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529209,
+    "wof:geomhash":"c144c3f1460729a1ebd3b7a262f764ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":840355969
+        }
+    ],
+    "wof:id":840355969,
+    "wof:lastmodified":1463529209,
+    "wof:name":"Slidell Cleaners",
+    "wof:parent_id":85810351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.782732,
+    30.272902,
+    -89.782732,
+    30.272902
+],
+  "geometry": {"coordinates":[-89.782732,30.272902],"type":"Point"}
+}

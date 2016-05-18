@@ -1,0 +1,73 @@
+{
+  "id": 840427439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.965159,29.937373,-89.965159,29.937373",
+    "geom:latitude":29.937373,
+    "geom:longitude":-89.965159,
+    "iso:country":"US",
+    "sg:address":"130 E Moreau St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 5473",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lfmKVyjqKKmickl6RcgyJ_29.937373_-89.965159@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532332,
+    "wof:geomhash":"4ebdf077ce5d8897318f9144294f7b2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840427439
+        }
+    ],
+    "wof:id":840427439,
+    "wof:lastmodified":1463532332,
+    "wof:name":"All Star Collision",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.965159,
+    29.937373,
+    -89.965159,
+    29.937373
+],
+  "geometry": {"coordinates":[-89.965159,29.937373],"type":"Point"}
+}

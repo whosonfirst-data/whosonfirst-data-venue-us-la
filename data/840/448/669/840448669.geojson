@@ -1,0 +1,73 @@
+{
+  "id": 840448669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971001,29.9569,-89.971001,29.9569",
+    "geom:latitude":29.9569,
+    "geom:longitude":-89.971001,
+    "iso:country":"US",
+    "sg:address":"9001 Patricia St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 620 6000",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09vTCMVoKaG4EfiSpe37cc_29.957032_-89.971408@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533235,
+    "wof:geomhash":"cd9745fcd6f9c712a13e109754173c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840448669
+        }
+    ],
+    "wof:id":840448669,
+    "wof:lastmodified":1463533235,
+    "wof:name":"Chalmette Medical Center",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -89.971001,
+    29.9569,
+    -89.971001,
+    29.9569
+],
+  "geometry": {"coordinates":[-89.971001,29.9569],"type":"Point"}
+}

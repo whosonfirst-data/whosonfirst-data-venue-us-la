@@ -1,0 +1,73 @@
+{
+  "id": 840336589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.712121,32.432303,-93.712121,32.432303",
+    "geom:latitude":32.432303,
+    "geom:longitude":-93.712121,
+    "iso:country":"US",
+    "sg:address":"7941 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 797 7941",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VsrDr51CkiFsujgNYNH6K_32.432303_-93.712121@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528243,
+    "wof:geomhash":"bd5ec9b8aca1b8318db191a85fe30ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840336589
+        }
+    ],
+    "wof:id":840336589,
+    "wof:lastmodified":1463528243,
+    "wof:name":"Ob/Gyn Assoc Of Shreveport",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.712121,
+    32.432303,
+    -93.712121,
+    32.432303
+],
+  "geometry": {"coordinates":[-93.712121,32.432303],"type":"Point"}
+}

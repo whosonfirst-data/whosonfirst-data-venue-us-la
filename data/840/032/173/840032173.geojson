@@ -1,0 +1,73 @@
+{
+  "id": 840032173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.81498,30.039733,-91.81498,30.039733",
+    "geom:latitude":30.039733,
+    "geom:longitude":-91.81498,
+    "iso:country":"US",
+    "sg:address":"2302 Jane St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 0999",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lijt7ku4LQvAOoVME9yhu_30.039733_-91.814980@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519675,
+    "wof:geomhash":"cad3c2d970aa2cf1533d332afd38b8b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840032173
+        }
+    ],
+    "wof:id":840032173,
+    "wof:lastmodified":1463519675,
+    "wof:name":"Electrotech Services",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.81498,
+    30.039733,
+    -91.81498,
+    30.039733
+],
+  "geometry": {"coordinates":[-91.81498000000001,30.039733],"type":"Point"}
+}

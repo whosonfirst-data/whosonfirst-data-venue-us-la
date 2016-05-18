@@ -1,0 +1,73 @@
+{
+  "id": 840014107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.89333,32.582915,-93.89333,32.582915",
+    "geom:latitude":32.582915,
+    "geom:longitude":-93.89333,
+    "iso:country":"US",
+    "sg:address":"109 N Main St",
+    "sg:city":"Blanchard",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 4123",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_344QS5YN5yPVqrxOkoZrWo_32.582915_-93.893330@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519293,
+    "wof:geomhash":"87a638df6eb98be6ae670a1ab9cff4b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840014107
+        }
+    ],
+    "wof:id":840014107,
+    "wof:lastmodified":1463519293,
+    "wof:name":"Edwin D Mc Kay MD",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.89333,
+    32.582915,
+    -93.89333,
+    32.582915
+],
+  "geometry": {"coordinates":[-93.89333000000001,32.582915],"type":"Point"}
+}

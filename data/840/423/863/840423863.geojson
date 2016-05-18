@@ -1,0 +1,73 @@
+{
+  "id": 840423863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.221295,30.223638,-93.221295,30.223638",
+    "geom:latitude":30.223638,
+    "geom:longitude":-93.221295,
+    "iso:country":"US",
+    "sg:address":"1204 Lake Shore Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 1160",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drainage",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RiZo83cJVFTaZ7TIARyyP_30.223638_-93.221295@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532187,
+    "wof:geomhash":"820d237b00afc5076924c73bd7a0b8b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840423863
+        }
+    ],
+    "wof:id":840423863,
+    "wof:lastmodified":1463532187,
+    "wof:name":"Gravity Drainage District",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drainage",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.221295,
+    30.223638,
+    -93.221295,
+    30.223638
+],
+  "geometry": {"coordinates":[-93.221295,30.223638],"type":"Point"}
+}

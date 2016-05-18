@@ -1,0 +1,73 @@
+{
+  "id": 840323009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.813509,32.391413,-93.813509,32.391413",
+    "geom:latitude":32.391413,
+    "geom:longitude":-93.813509,
+    "iso:country":"US",
+    "sg:address":"3050 Baird Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 688 1010",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BVDOOE2avZIUQ5yrbCpSV_32.391413_-93.813509@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527615,
+    "wof:geomhash":"949736d8ebb6ed2aef07276cf7d3280c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840323009
+        }
+    ],
+    "wof:id":840323009,
+    "wof:lastmodified":1463527615,
+    "wof:name":"Bradford",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "institution"
+    ]
+},
+  "bbox": [
+    -93.813509,
+    32.391413,
+    -93.813509,
+    32.391413
+],
+  "geometry": {"coordinates":[-93.813509,32.391413],"type":"Point"}
+}

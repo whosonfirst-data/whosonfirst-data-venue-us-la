@@ -1,0 +1,73 @@
+{
+  "id": 840411611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.870974,29.985442,-91.870974,29.985442",
+    "geom:latitude":29.985442,
+    "geom:longitude":-91.870974,
+    "iso:country":"US",
+    "sg:address":"3708 State Rte 14",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 2006",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q3IScK1wDSrs3bjANqBOx_29.985442_-91.870974@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531678,
+    "wof:geomhash":"353255804c6d33ddf4a27ec525058a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840411611
+        }
+    ],
+    "wof:id":840411611,
+    "wof:lastmodified":1463531678,
+    "wof:name":"Any Transmission",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.870974,
+    29.985442,
+    -91.870974,
+    29.985442
+],
+  "geometry": {"coordinates":[-91.870974,29.985442],"type":"Point"}
+}

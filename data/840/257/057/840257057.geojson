@@ -1,0 +1,71 @@
+{
+  "id": 840257057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.396508,30.637578,-90.396508,30.637578",
+    "geom:latitude":30.637578,
+    "geom:longitude":-90.396508,
+    "iso:country":"US",
+    "sg:address":"20032 Firehouse Rd",
+    "sg:city":"Loranger",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 878 6911",
+    "sg:postcode":"70446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HszrzTmW3tCpBplTvrDJ5_30.637578_-90.396508@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524759,
+    "wof:geomhash":"a8f0941effd3cb7f7d4e5c2d594e9eee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840257057
+        }
+    ],
+    "wof:id":840257057,
+    "wof:lastmodified":1463524759,
+    "wof:name":"Loranger Volunteer Fire Dept",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.396508,
+    30.637578,
+    -90.396508,
+    30.637578
+],
+  "geometry": {"coordinates":[-90.396508,30.637578],"type":"Point"}
+}

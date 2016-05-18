@@ -1,0 +1,73 @@
+{
+  "id": 840049495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.212369,29.701306,-91.212369,29.701306",
+    "geom:latitude":29.701306,
+    "geom:longitude":-91.212369,
+    "iso:country":"US",
+    "sg:address":"1024 1st St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 6003",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6grt3gvExBz1jpB9nmiLOM_29.701306_-91.212369@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520026,
+    "wof:geomhash":"7e501b427d09946f7ba3b0b96a81d5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840049495
+        }
+    ],
+    "wof:id":840049495,
+    "wof:lastmodified":1463520026,
+    "wof:name":"A-C Electric Co",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.212369,
+    29.701306,
+    -91.212369,
+    29.701306
+],
+  "geometry": {"coordinates":[-91.212369,29.701306],"type":"Point"}
+}

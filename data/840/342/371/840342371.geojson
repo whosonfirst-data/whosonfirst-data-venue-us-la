@@ -1,0 +1,75 @@
+{
+  "id": 840342371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.056761,30.233713,-92.056761,30.233713",
+    "geom:latitude":30.233713,
+    "geom:longitude":-92.056761,
+    "iso:country":"US",
+    "sg:address":"104 Sunbeam Ln",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 9946",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bH5Vze9cSOeN6p0hOPktj_30.233713_-92.056761@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528526,
+    "wof:geomhash":"f28cfde3dc5e67cddac4694859f98e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840342371
+        }
+    ],
+    "wof:id":840342371,
+    "wof:lastmodified":1463528526,
+    "wof:name":"Union Pacific Railroad Company",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -92.056761,
+    30.233713,
+    -92.056761,
+    30.233713
+],
+  "geometry": {"coordinates":[-92.05676099999999,30.233713],"type":"Point"}
+}

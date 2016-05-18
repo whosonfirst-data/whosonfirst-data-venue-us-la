@@ -1,0 +1,73 @@
+{
+  "id": 840430093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.252967,30.187124,-93.252967,30.187124",
+    "geom:latitude":30.187124,
+    "geom:longitude":-93.252967,
+    "iso:country":"US",
+    "sg:address":"2005 Thorn Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 8181",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VoGkZnuc0Vs5DvZedHBg7_30.187124_-93.252967@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532453,
+    "wof:geomhash":"4528c6c49422a9bdd0435351ab61c05e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840430093
+        }
+    ],
+    "wof:id":840430093,
+    "wof:lastmodified":1463532453,
+    "wof:name":"Seven-O-Electric",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.252967,
+    30.187124,
+    -93.252967,
+    30.187124
+],
+  "geometry": {"coordinates":[-93.252967,30.187124],"type":"Point"}
+}

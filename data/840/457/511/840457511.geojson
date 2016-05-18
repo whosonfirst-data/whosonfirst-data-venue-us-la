@@ -1,0 +1,74 @@
+{
+  "id": 840457511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.01363,30.188136,-92.01363,30.188136",
+    "geom:latitude":30.188136,
+    "geom:longitude":-92.01363,
+    "iso:country":"US",
+    "sg:address":"1935 W Pinhook Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/208620-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 266 5857",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YRLN0lEHZBiPTuADfl33m_30.187865_-92.012996@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533597,
+    "wof:geomhash":"2af1b2f0770f57c18dfd38c0e709f089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840457511
+        }
+    ],
+    "wof:id":840457511,
+    "wof:lastmodified":1463533597,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -92.01363,
+    30.188136,
+    -92.01363,
+    30.188136
+],
+  "geometry": {"coordinates":[-92.01363000000001,30.188136],"type":"Point"}
+}

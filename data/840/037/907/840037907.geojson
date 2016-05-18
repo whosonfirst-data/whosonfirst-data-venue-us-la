@@ -1,0 +1,73 @@
+{
+  "id": 840037907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.179228,29.953097,-90.179228,29.953097",
+    "geom:latitude":29.953097,
+    "geom:longitude":-90.179228,
+    "iso:country":"US",
+    "sg:address":"5100 Jefferson Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 733 9372",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S9PRFna2rPu6pdLuIm8ac_29.953097_-90.179228@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519792,
+    "wof:geomhash":"ffecc8d3ef8d59e5872e53fd24279725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840037907
+        }
+    ],
+    "wof:id":840037907,
+    "wof:lastmodified":1463519792,
+    "wof:name":"Cause Way Police",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.179228,
+    29.953097,
+    -90.179228,
+    29.953097
+],
+  "geometry": {"coordinates":[-90.17922799999999,29.953097],"type":"Point"}
+}

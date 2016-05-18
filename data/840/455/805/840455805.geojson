@@ -1,0 +1,72 @@
+{
+  "id": 840455805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.014615,30.408642,-91.014615,30.408642",
+    "geom:latitude":30.408642,
+    "geom:longitude":-91.014615,
+    "iso:country":"US",
+    "sg:address":"15295 George Oneal Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/208587-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 752 0709",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J8cdj3y6FaiPzpK3asJi5_30.408642_-91.014615@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533531,
+    "wof:geomhash":"7cd0600d9f0e263713396a2016949d70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840455805
+        }
+    ],
+    "wof:id":840455805,
+    "wof:lastmodified":1463533531,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.014615,
+    30.408642,
+    -91.014615,
+    30.408642
+],
+  "geometry": {"coordinates":[-91.01461500000001,30.408642],"type":"Point"}
+}

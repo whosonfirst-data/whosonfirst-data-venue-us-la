@@ -1,0 +1,77 @@
+{
+  "id": 840236329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0771,29.955595,-90.0771,29.955595",
+    "geom:latitude":29.955595,
+    "geom:longitude":-90.0771,
+    "iso:country":"US",
+    "sg:address":"1550 Tulane Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 568 8839",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73YIMs2SXyZT2Pj06LKfZP_29.955595_-90.077100@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524282,
+    "wof:geomhash":"694b143d039d3a21a062508459eb14eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840236329
+        }
+    ],
+    "wof:id":840236329,
+    "wof:lastmodified":1463524282,
+    "wof:name":"Public Health Clinic",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -90.0771,
+    29.955595,
+    -90.0771,
+    29.955595
+],
+  "geometry": {"coordinates":[-90.0771,29.955595],"type":"Point"}
+}

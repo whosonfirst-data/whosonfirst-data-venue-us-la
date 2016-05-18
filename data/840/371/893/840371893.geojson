@@ -1,0 +1,73 @@
+{
+  "id": 840371893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.962988,29.953739,-89.962988,29.953739",
+    "geom:latitude":29.953739,
+    "geom:longitude":-89.962988,
+    "iso:country":"US",
+    "sg:address":"401 W Genie St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 276 5200",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iMjEi4KPNWIF0yCXZuzSR_29.953739_-89.962988@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529982,
+    "wof:geomhash":"4f30b6f6a440777b6771bf80d7440c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840371893
+        }
+    ],
+    "wof:id":840371893,
+    "wof:lastmodified":1463529982,
+    "wof:name":"Frederick L Keppel MD",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.962988,
+    29.953739,
+    -89.962988,
+    29.953739
+],
+  "geometry": {"coordinates":[-89.962988,29.953739],"type":"Point"}
+}

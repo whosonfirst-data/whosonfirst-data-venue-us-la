@@ -1,0 +1,73 @@
+{
+  "id": 840371669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08273,29.934027,-90.08273,29.934027",
+    "geom:latitude":29.934027,
+    "geom:longitude":-90.08273,
+    "iso:country":"US",
+    "sg:address":"1733 Philip St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 827 0502",
+    "sg:postcode":"70113",
+    "sg:province":"LA",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AB6cRlIGqAuLgjZ8kcheX_29.934027_-90.082730@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529973,
+    "wof:geomhash":"3e045269da6bf6706fb913b9d16d3d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821037,
+            "region_id":85688735,
+            "venue_id":840371669
+        }
+    ],
+    "wof:id":840371669,
+    "wof:lastmodified":1463529973,
+    "wof:name":"C & W Laundromat",
+    "wof:parent_id":85821037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -90.08273,
+    29.934027,
+    -90.08273,
+    29.934027
+],
+  "geometry": {"coordinates":[-90.08273,29.934027],"type":"Point"}
+}

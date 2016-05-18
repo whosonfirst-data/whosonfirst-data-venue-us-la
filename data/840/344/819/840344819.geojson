@@ -1,0 +1,71 @@
+{
+  "id": 840344819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.90553,29.92122,-89.90553,29.92122",
+    "geom:latitude":29.92122,
+    "geom:longitude":-89.90553,
+    "iso:country":"US",
+    "sg:address":"4808 E Judge Perez Dr",
+    "sg:city":"Violet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 276 2440",
+    "sg:postcode":"70092",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948813,
+        102082447,
+        85850917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13UKpzgbgYrrsAEF2ky5CL_29.921220_-89.905530@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528645,
+    "wof:geomhash":"bd9e4b8592ed5e0cf1320cc03f4499da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948813,
+            "neighbourhood_id":85850917,
+            "region_id":85688735,
+            "venue_id":840344819
+        }
+    ],
+    "wof:id":840344819,
+    "wof:lastmodified":1463528645,
+    "wof:name":"Meraux Animal Care Clinic",
+    "wof:parent_id":85850917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.90553,
+    29.92122,
+    -89.90553,
+    29.92122
+],
+  "geometry": {"coordinates":[-89.90553,29.92122],"type":"Point"}
+}

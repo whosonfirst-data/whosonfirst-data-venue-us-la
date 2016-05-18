@@ -1,0 +1,73 @@
+{
+  "id": 840314013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.987167,29.953564,-91.987167,29.953564",
+    "geom:latitude":29.953564,
+    "geom:longitude":-91.987167,
+    "iso:country":"US",
+    "sg:address":"507 N Desire St",
+    "sg:city":"Delcambre",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 685 5555",
+    "sg:postcode":"70528",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k2SEFRWACcPeUtoFueZtz_29.953564_-91.987167@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527172,
+    "wof:geomhash":"625bb681addc31afd74b1e11e13643b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840314013
+        }
+    ],
+    "wof:id":840314013,
+    "wof:lastmodified":1463527172,
+    "wof:name":"Jamies' Academie Of Dance",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -91.987167,
+    29.953564,
+    -91.987167,
+    29.953564
+],
+  "geometry": {"coordinates":[-91.987167,29.953564],"type":"Point"}
+}

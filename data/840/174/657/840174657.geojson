@@ -1,0 +1,73 @@
+{
+  "id": 840174657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.177613,30.207087,-93.177613,30.207087",
+    "geom:latitude":30.207087,
+    "geom:longitude":-93.177613,
+    "iso:country":"US",
+    "sg:address":"2550 Industrial Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 0435",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O74nr87JbIyul3wtj3L1F_30.207087_-93.177613@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522787,
+    "wof:geomhash":"9a1152de10dd4522b00815d0f771ce89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840174657
+        }
+    ],
+    "wof:id":840174657,
+    "wof:lastmodified":1463522787,
+    "wof:name":"Quality Transmission Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.177613,
+    30.207087,
+    -93.177613,
+    30.207087
+],
+  "geometry": {"coordinates":[-93.17761299999999,30.207087],"type":"Point"}
+}

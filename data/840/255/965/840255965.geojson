@@ -1,0 +1,73 @@
+{
+  "id": 840255965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.111486,30.464845,-91.111486,30.464845",
+    "geom:latitude":30.464845,
+    "geom:longitude":-91.111486,
+    "iso:country":"US",
+    "sg:address":"1885 Wooddale Ct",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 924 7334",
+    "sg:postcode":"70806",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85876071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34bXkAktNO48VpmsIwmp9N_30.464845_-91.111486@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524737,
+    "wof:geomhash":"e6d197ffbe110c6506f96a1c535a0053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85876071,
+            "region_id":85688735,
+            "venue_id":840255965
+        }
+    ],
+    "wof:id":840255965,
+    "wof:lastmodified":1463524737,
+    "wof:name":"Allison's Wrecker Svc",
+    "wof:parent_id":85876071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -91.111486,
+    30.464845,
+    -91.111486,
+    30.464845
+],
+  "geometry": {"coordinates":[-91.111486,30.464845],"type":"Point"}
+}

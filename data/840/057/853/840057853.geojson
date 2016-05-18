@@ -1,0 +1,71 @@
+{
+  "id": 840057853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.213315,30.079238,-93.213315,30.079238",
+    "geom:latitude":30.079238,
+    "geom:longitude":-93.213315,
+    "iso:country":"US",
+    "sg:address":"9248 Gulf Hwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 598 2665",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kdvKY33gFoj80PCqRO295_30.079238_-93.213315@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520218,
+    "wof:geomhash":"1286bae488373c9c9b08439a37b71efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840057853
+        }
+    ],
+    "wof:id":840057853,
+    "wof:lastmodified":1463520218,
+    "wof:name":"Cal-Cam Volunteer Fire Dept",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.213315,
+    30.079238,
+    -93.213315,
+    30.079238
+],
+  "geometry": {"coordinates":[-93.21331499999999,30.079238],"type":"Point"}
+}

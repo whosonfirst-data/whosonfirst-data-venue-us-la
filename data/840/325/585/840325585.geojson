@@ -1,0 +1,71 @@
+{
+  "id": 840325585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.805015,32.40095,-93.805015,32.40095",
+    "geom:latitude":32.40095,
+    "geom:longitude":-93.805015,
+    "iso:country":"US",
+    "sg:address":"9227 Mansfield Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 2661",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ja6k2FRSlUILoaVooWm1_32.400950_-93.805015@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527749,
+    "wof:geomhash":"55bef7a2e7ac90524f2c1b4783d2e415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840325585
+        }
+    ],
+    "wof:id":840325585,
+    "wof:lastmodified":1463527749,
+    "wof:name":"Azalea Cleaners",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.805015,
+    32.40095,
+    -93.805015,
+    32.40095
+],
+  "geometry": {"coordinates":[-93.805015,32.40095],"type":"Point"}
+}

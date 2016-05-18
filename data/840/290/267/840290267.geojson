@@ -1,0 +1,73 @@
+{
+  "id": 840290267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.466076,31.279537,-92.466076,31.279537",
+    "geom:latitude":31.279537,
+    "geom:longitude":-92.466076,
+    "iso:country":"US",
+    "sg:address":"2132 Shirley Park Pl",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 3046",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HhhWKOzZcwFzE8SFWleGo_31.279537_-92.466076@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526079,
+    "wof:geomhash":"101d1b0cf683b13340e33667d307c151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840290267
+        }
+    ],
+    "wof:id":840290267,
+    "wof:lastmodified":1463526079,
+    "wof:name":"Allens",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -92.466076,
+    31.279537,
+    -92.466076,
+    31.279537
+],
+  "geometry": {"coordinates":[-92.466076,31.279537],"type":"Point"}
+}

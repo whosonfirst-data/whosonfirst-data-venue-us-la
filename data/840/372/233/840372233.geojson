@@ -1,0 +1,71 @@
+{
+  "id": 840372233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209882,30.210133,-93.209882,30.210133",
+    "geom:latitude":30.210133,
+    "geom:longitude":-93.209882,
+    "iso:country":"US",
+    "sg:address":"2204 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 5619",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dziP0tfvB76IMhf1L3dnG_30.210133_-93.209882@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529997,
+    "wof:geomhash":"ada9867dc16d69ebe6db9b94f0c13681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840372233
+        }
+    ],
+    "wof:id":840372233,
+    "wof:lastmodified":1463529997,
+    "wof:name":"Earl's Super Svc Grocery",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.209882,
+    30.210133,
+    -93.209882,
+    30.210133
+],
+  "geometry": {"coordinates":[-93.20988199999999,30.210133],"type":"Point"}
+}

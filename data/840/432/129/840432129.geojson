@@ -1,0 +1,68 @@
+{
+  "id": 840432129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.093691,29.932786,-90.093691,29.932786",
+    "geom:latitude":29.932786,
+    "geom:longitude":-90.093691,
+    "iso:country":"US",
+    "sg:address":"2000 Louisiana Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 000 1111",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qR6Fb0wQ7l26IFO2woZoP_29.932786_-90.093691@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532550,
+    "wof:geomhash":"80cf2ed2c31f0b868f4ad3e56091a6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866119,
+            "region_id":85688735,
+            "venue_id":840432129
+        }
+    ],
+    "wof:id":840432129,
+    "wof:lastmodified":1463532550,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85866119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.093691,
+    29.932786,
+    -90.093691,
+    29.932786
+],
+  "geometry": {"coordinates":[-90.09369100000001,29.932786],"type":"Point"}
+}

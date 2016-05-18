@@ -1,0 +1,73 @@
+{
+  "id": 840121969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.835226,29.989197,-91.835226,29.989197",
+    "geom:latitude":29.989197,
+    "geom:longitude":-91.835226,
+    "iso:country":"US",
+    "sg:address":"1617 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 9933",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rAEPUwi7hSImbnpPsndeJ_29.989197_-91.835226@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521684,
+    "wof:geomhash":"2b727dc5238e32e7cc2863dc2f196f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840121969
+        }
+    ],
+    "wof:id":840121969,
+    "wof:lastmodified":1463521684,
+    "wof:name":"Rugged's Automotive",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.835226,
+    29.989197,
+    -91.835226,
+    29.989197
+],
+  "geometry": {"coordinates":[-91.83522600000001,29.989197],"type":"Point"}
+}

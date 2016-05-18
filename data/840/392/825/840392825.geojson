@@ -1,0 +1,73 @@
+{
+  "id": 840392825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.797148,32.403696,-93.797148,32.403696",
+    "geom:latitude":32.403696,
+    "geom:longitude":-93.797148,
+    "iso:country":"US",
+    "sg:address":"9111 Susan Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 212 5060",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xrj2lwIpQspB3l4OAx7z5_32.403696_-93.797148@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530915,
+    "wof:geomhash":"ae4641c61787b9e73e044da89f97f780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840392825
+        }
+    ],
+    "wof:id":840392825,
+    "wof:lastmodified":1463530915,
+    "wof:name":"Willis-Knighton Health System",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.797148,
+    32.403696,
+    -93.797148,
+    32.403696
+],
+  "geometry": {"coordinates":[-93.79714800000001,32.403696],"type":"Point"}
+}

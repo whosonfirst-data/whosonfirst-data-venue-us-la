@@ -1,0 +1,73 @@
+{
+  "id": 840412635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123534,29.981244,-90.123534,29.981244",
+    "geom:latitude":29.981244,
+    "geom:longitude":-90.123534,
+    "iso:country":"US",
+    "sg:address":"108 Bellaire Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 482 0304",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7THPM4t8SgYcvGFvm5IvsX_29.981244_-90.123534@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531724,
+    "wof:geomhash":"bffb3c37b7d7974cc496d112473bf8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866145,
+            "region_id":85688735,
+            "venue_id":840412635
+        }
+    ],
+    "wof:id":840412635,
+    "wof:lastmodified":1463531724,
+    "wof:name":"Stewart Construction Co",
+    "wof:parent_id":85866145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.123534,
+    29.981244,
+    -90.123534,
+    29.981244
+],
+  "geometry": {"coordinates":[-90.12353400000001,29.981244],"type":"Point"}
+}

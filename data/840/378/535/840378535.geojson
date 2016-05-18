@@ -1,0 +1,75 @@
+{
+  "id": 840378535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.12936,30.236315,-93.12936,30.236315",
+    "geom:latitude":30.236315,
+    "geom:longitude":-93.12936,
+    "iso:country":"US",
+    "sg:address":"108 State Rte 397",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 9293",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XiNQa6chFoySGgVsdPyMK_30.236315_-93.129360@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530286,
+    "wof:geomhash":"9451a968fc1c9792f990fc63ed7cd1b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840378535
+        }
+    ],
+    "wof:id":840378535,
+    "wof:lastmodified":1463530286,
+    "wof:name":"Fuel Stop",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -93.12936,
+    30.236315,
+    -93.12936,
+    30.236315
+],
+  "geometry": {"coordinates":[-93.12936000000001,30.236315],"type":"Point"}
+}

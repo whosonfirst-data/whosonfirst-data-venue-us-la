@@ -1,0 +1,71 @@
+{
+  "id": 840396475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.201222,29.710638,-91.201222,29.710638",
+    "geom:latitude":29.710638,
+    "geom:longitude":-91.201222,
+    "iso:country":"US",
+    "sg:address":"1201 Spruce St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 5678",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11PnmLOOi8ebeEHj6eML4a_29.710638_-91.201222@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531076,
+    "wof:geomhash":"061cfaa642c7d2186d426740197d1046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840396475
+        }
+    ],
+    "wof:id":840396475,
+    "wof:lastmodified":1463531076,
+    "wof:name":"Marine Royale Apartments",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.201222,
+    29.710638,
+    -91.201222,
+    29.710638
+],
+  "geometry": {"coordinates":[-91.201222,29.710638],"type":"Point"}
+}

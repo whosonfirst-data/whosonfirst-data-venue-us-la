@@ -1,0 +1,77 @@
+{
+  "id": 840209125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.414945,31.421011,-92.414945,31.421011",
+    "geom:latitude":31.421011,
+    "geom:longitude":-92.414945,
+    "iso:country":"US",
+    "sg:address":"143 Hansen Ct",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 628 5595",
+    "sg:postcode":"71405",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948321,
+        102081039,
+        85820213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_007ZtydpIuPePgLIjquxop_31.421011_-92.414945@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523609,
+    "wof:geomhash":"3ca9070ff0cfe41c1cb1342a2ee719f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948321,
+            "neighbourhood_id":85820213,
+            "region_id":85688735,
+            "venue_id":840209125
+        }
+    ],
+    "wof:id":840209125,
+    "wof:lastmodified":1463523609,
+    "wof:name":"Rob Hanson Trucking",
+    "wof:parent_id":85820213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.414945,
+    31.421011,
+    -92.414945,
+    31.421011
+],
+  "geometry": {"coordinates":[-92.414945,31.421011],"type":"Point"}
+}

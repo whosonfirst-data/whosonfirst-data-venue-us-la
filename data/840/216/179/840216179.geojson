@@ -1,0 +1,73 @@
+{
+  "id": 840216179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.060091,30.192284,-92.060091,30.192284",
+    "geom:latitude":30.192284,
+    "geom:longitude":-92.060091,
+    "iso:country":"US",
+    "sg:address":"4525 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 6080",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j2rWoR11K0Am7yessu3LB_30.192284_-92.060091@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523753,
+    "wof:geomhash":"1466690251b82c0651d8842775560520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840216179
+        }
+    ],
+    "wof:id":840216179,
+    "wof:lastmodified":1463523753,
+    "wof:name":"Hot Stamped Cups",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.060091,
+    30.192284,
+    -92.060091,
+    30.192284
+],
+  "geometry": {"coordinates":[-92.060091,30.192284],"type":"Point"}
+}

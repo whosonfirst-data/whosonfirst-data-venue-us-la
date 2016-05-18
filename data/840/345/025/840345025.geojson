@@ -1,0 +1,71 @@
+{
+  "id": 840345025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.082349,32.466779,-92.082349,32.466779",
+    "geom:latitude":32.466779,
+    "geom:longitude":-92.082349,
+    "iso:country":"US",
+    "sg:address":"2201 Ticheli Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 323 7799",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PcfLTqdW16IvMUsAlTzOW_32.466779_-92.082349@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528656,
+    "wof:geomhash":"717d849ac83e909942f56542401492b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840345025
+        }
+    ],
+    "wof:id":840345025,
+    "wof:lastmodified":1463528656,
+    "wof:name":"Louisiana Rents",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.082349,
+    32.466779,
+    -92.082349,
+    32.466779
+],
+  "geometry": {"coordinates":[-92.08234899999999,32.466779],"type":"Point"}
+}

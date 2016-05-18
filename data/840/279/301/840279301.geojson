@@ -1,0 +1,71 @@
+{
+  "id": 840279301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209719,30.204381,-93.209719,30.204381",
+    "geom:latitude":30.204381,
+    "geom:longitude":-93.209719,
+    "iso:country":"US",
+    "sg:address":"2719 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 7981",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7geqQJgFZbAa1As2F5UTec_30.204381_-93.209719@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525588,
+    "wof:geomhash":"43b9830f76de5c25a3de17e46dd40b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840279301
+        }
+    ],
+    "wof:id":840279301,
+    "wof:lastmodified":1463525588,
+    "wof:name":"Marshland Taxidermy",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -93.209719,
+    30.204381,
+    -93.209719,
+    30.204381
+],
+  "geometry": {"coordinates":[-93.20971900000001,30.204381],"type":"Point"}
+}

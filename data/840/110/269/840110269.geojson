@@ -1,0 +1,75 @@
+{
+  "id": 840110269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.070382,29.988099,-90.070382,29.988099",
+    "geom:latitude":29.988099,
+    "geom:longitude":-90.070382,
+    "iso:country":"US",
+    "sg:address":"1740 Abundance St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 944 2353",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05aHSM1RucDICHvy3D74U8_29.988099_-90.070382@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521434,
+    "wof:geomhash":"1b563c537155abec511974d4403babe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866081,
+            "region_id":85688735,
+            "venue_id":840110269
+        }
+    ],
+    "wof:id":840110269,
+    "wof:lastmodified":1463521434,
+    "wof:name":"RAC Electric Inc",
+    "wof:parent_id":85866081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.070382,
+    29.988099,
+    -90.070382,
+    29.988099
+],
+  "geometry": {"coordinates":[-90.070382,29.988099],"type":"Point"}
+}

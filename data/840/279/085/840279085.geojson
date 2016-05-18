@@ -1,0 +1,71 @@
+{
+  "id": 840279085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.221252,30.223571,-93.221252,30.223571",
+    "geom:latitude":30.223571,
+    "geom:longitude":-93.221252,
+    "iso:country":"US",
+    "sg:address":"1201 Lake Shore Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 2011",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UUYiBgDsQ4AWBygHnVu6U_30.223571_-93.221252@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525578,
+    "wof:geomhash":"c6c299d79198034e35770a4c8ba22c91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840279085
+        }
+    ],
+    "wof:id":840279085,
+    "wof:lastmodified":1463525578,
+    "wof:name":"State Police Safety Enfrcmnt",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -93.221252,
+    30.223571,
+    -93.221252,
+    30.223571
+],
+  "geometry": {"coordinates":[-93.22125200000001,30.223571],"type":"Point"}
+}

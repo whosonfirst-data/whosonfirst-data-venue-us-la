@@ -1,0 +1,71 @@
+{
+  "id": 840246539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.246136,30.139327,-93.246136,30.139327",
+    "geom:latitude":30.139327,
+    "geom:longitude":-93.246136,
+    "iso:country":"US",
+    "sg:address":"1890 W Gauthier Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 7974",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5haDv6L1eRqLfP8nqCGpyf_30.139327_-93.246136@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524523,
+    "wof:geomhash":"f6f1e6f1a3378a037af52336a3c3db28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840246539
+        }
+    ],
+    "wof:id":840246539,
+    "wof:lastmodified":1463524523,
+    "wof:name":"Children's Clinic",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.246136,
+    30.139327,
+    -93.246136,
+    30.139327
+],
+  "geometry": {"coordinates":[-93.24613600000001,30.139327],"type":"Point"}
+}

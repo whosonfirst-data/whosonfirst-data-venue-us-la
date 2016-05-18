@@ -1,0 +1,75 @@
+{
+  "id": 840401697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.057814,30.193063,-92.057814,30.193063",
+    "geom:latitude":30.193063,
+    "geom:longitude":-92.057814,
+    "iso:country":"US",
+    "sg:address":"101 Camellia Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 1966",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hD5WUv3sHax0Yj2dqDkDV_30.193063_-92.057814@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531275,
+    "wof:geomhash":"48792d13cda97599a04b56963ec88a80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840401697
+        }
+    ],
+    "wof:id":840401697,
+    "wof:lastmodified":1463531275,
+    "wof:name":"Service Depot",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -92.057814,
+    30.193063,
+    -92.057814,
+    30.193063
+],
+  "geometry": {"coordinates":[-92.05781399999999,30.193063],"type":"Point"}
+}

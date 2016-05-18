@@ -1,0 +1,73 @@
+{
+  "id": 840059023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.457118,31.278887,-92.457118,31.278887",
+    "geom:latitude":31.278887,
+    "geom:longitude":-92.457118,
+    "iso:country":"US",
+    "sg:address":"3425 North Blvd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 473 1921",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bLARE1y95HdX8ASqdDCji_31.278887_-92.457118@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520249,
+    "wof:geomhash":"1228fef99b448d52018825f12074b4b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840059023
+        }
+    ],
+    "wof:id":840059023,
+    "wof:lastmodified":1463520249,
+    "wof:name":"R S Brar MD",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.457118,
+    31.278887,
+    -92.457118,
+    31.278887
+],
+  "geometry": {"coordinates":[-92.45711799999999,31.278887],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840279329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.016335,30.202605,-92.016335,30.202605",
+    "geom:latitude":30.202605,
+    "geom:longitude":-92.016335,
+    "iso:country":"US",
+    "sg:address":"437 Heymann Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 289 8989",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rZaKKc5KsyEQlI5dSOXNQ_30.202605_-92.016335@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525589,
+    "wof:geomhash":"f06b42af49a63a5c24f613cf234decc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840279329
+        }
+    ],
+    "wof:id":840279329,
+    "wof:lastmodified":1463525589,
+    "wof:name":"Pediatric Associates-Lafayette",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.016335,
+    30.202605,
+    -92.016335,
+    30.202605
+],
+  "geometry": {"coordinates":[-92.016335,30.202605],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840024983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.023171,29.910261,-90.023171,29.910261",
+    "geom:latitude":29.910261,
+    "geom:longitude":-90.023171,
+    "iso:country":"US",
+    "sg:address":"584 Holmes Blvd",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 367 5400",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948739,
+        102083179,
+        85866161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_324fuUBYtZaBwGaQY4NDxo_29.910261_-90.023171@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519504,
+    "wof:geomhash":"556b523ee783e1d63e42799310945cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948739,
+            "neighbourhood_id":85866161,
+            "region_id":85688735,
+            "venue_id":840024983
+        }
+    ],
+    "wof:id":840024983,
+    "wof:lastmodified":1463519504,
+    "wof:name":"Johnson's Auto Repair",
+    "wof:parent_id":85866161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.023171,
+    29.910261,
+    -90.023171,
+    29.910261
+],
+  "geometry": {"coordinates":[-90.023171,29.910261],"type":"Point"}
+}

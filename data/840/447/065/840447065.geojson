@@ -1,0 +1,72 @@
+{
+  "id": 840447065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.139324,30.227603,-93.139324,30.227603",
+    "geom:latitude":30.227603,
+    "geom:longitude":-93.139324,
+    "iso:country":"US",
+    "sg:address":"5428 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 494 1166",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.sefl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cuBJrWvOwmXZqk7MDUIfN_30.227603_-93.139324@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533165,
+    "wof:geomhash":"5885b611db04790c25634f1b68835d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840447065
+        }
+    ],
+    "wof:id":840447065,
+    "wof:lastmodified":1463533165,
+    "wof:name":"Southeastern Freight Lines",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.139324,
+    30.227603,
+    -93.139324,
+    30.227603
+],
+  "geometry": {"coordinates":[-93.139324,30.227603],"type":"Point"}
+}

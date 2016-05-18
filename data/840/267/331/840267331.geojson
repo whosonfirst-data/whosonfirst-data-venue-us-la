@@ -1,0 +1,71 @@
+{
+  "id": 840267331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.062529,30.388068,-91.062529,30.388068",
+    "geom:latitude":30.388068,
+    "geom:longitude":-91.062529,
+    "iso:country":"US",
+    "sg:address":"6857 Siegen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 297 5997",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W0kQwf8ocxyBfHaLGX5HH_30.388068_-91.062529@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525042,
+    "wof:geomhash":"a71bfa05f060257e064c817d67af077c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840267331
+        }
+    ],
+    "wof:id":840267331,
+    "wof:lastmodified":1463525042,
+    "wof:name":"PETCO",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.062529,
+    30.388068,
+    -91.062529,
+    30.388068
+],
+  "geometry": {"coordinates":[-91.062529,30.388068],"type":"Point"}
+}

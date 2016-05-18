@@ -1,0 +1,75 @@
+{
+  "id": 840291981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.45971,30.504176,-90.45971,30.504176",
+    "geom:latitude":30.504176,
+    "geom:longitude":-90.45971,
+    "iso:country":"US",
+    "sg:address":"120 S Cypress St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 5133",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55my5wwBbRY7lzotbWfefV_30.504176_-90.459710@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526150,
+    "wof:geomhash":"2f9fc1b3d9c178fe2fa0e638d46da541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840291981
+        }
+    ],
+    "wof:id":840291981,
+    "wof:lastmodified":1463526150,
+    "wof:name":"Himel Machine Shop",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.45971,
+    30.504176,
+    -90.45971,
+    30.504176
+],
+  "geometry": {"coordinates":[-90.45971,30.504176],"type":"Point"}
+}

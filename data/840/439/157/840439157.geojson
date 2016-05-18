@@ -1,0 +1,73 @@
+{
+  "id": 840439157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061479,30.029608,-90.061479,30.029608",
+    "geom:latitude":30.029608,
+    "geom:longitude":-90.061479,
+    "iso:country":"US",
+    "sg:address":"6799 Elysian Fields Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 283 9800",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85842679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40pJevyPf35GIkZ8sKamSa_30.029608_-90.061479@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532853,
+    "wof:geomhash":"7bfeff39acfd253ca3b3f18085c28c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85842679,
+            "region_id":85688735,
+            "venue_id":840439157
+        }
+    ],
+    "wof:id":840439157,
+    "wof:lastmodified":1463532853,
+    "wof:name":"Orleans Levee Board Police",
+    "wof:parent_id":85842679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.061479,
+    30.029608,
+    -90.061479,
+    30.029608
+],
+  "geometry": {"coordinates":[-90.06147900000001,30.029608],"type":"Point"}
+}

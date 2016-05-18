@@ -1,0 +1,71 @@
+{
+  "id": 840249453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.02653,30.292043,-92.02653,30.292043",
+    "geom:latitude":30.292043,
+    "geom:longitude":-92.02653,
+    "iso:country":"US",
+    "sg:address":"600 Loire Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 7749",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nT51WsigCTogKoLq7g9m3_30.292043_-92.026530@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524597,
+    "wof:geomhash":"c83a123363da3a51685bdc7918b687da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840249453
+        }
+    ],
+    "wof:id":840249453,
+    "wof:lastmodified":1463524597,
+    "wof:name":"Labs",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -92.02653,
+    30.292043,
+    -92.02653,
+    30.292043
+],
+  "geometry": {"coordinates":[-92.02652999999999,30.292043],"type":"Point"}
+}

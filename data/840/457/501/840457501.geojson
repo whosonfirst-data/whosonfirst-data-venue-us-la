@@ -1,0 +1,74 @@
+{
+  "id": 840457501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.064592,30.201912,-92.064592,30.201912",
+    "geom:latitude":30.201912,
+    "geom:longitude":-92.064592,
+    "iso:country":"US",
+    "sg:address":"3816 W Congress St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/81553-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 8484",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3An9YCPgE7MlteEUy6b2ZX_30.201745_-92.064995@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533596,
+    "wof:geomhash":"346adcf4886cbfb95a677d327e2c3b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840457501
+        }
+    ],
+    "wof:id":840457501,
+    "wof:lastmodified":1463533596,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.064592,
+    30.201912,
+    -92.064592,
+    30.201912
+],
+  "geometry": {"coordinates":[-92.064592,30.201912],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 840456337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.67912,32.5263,-93.67912,32.5263",
+    "geom:latitude":32.5263,
+    "geom:longitude":-93.67912,
+    "iso:country":"US",
+    "sg:address":"3900 Industrial Dr",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bossier-city/173702-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 746 7840",
+    "sg:postcode":"71112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529577,
+        85811501,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VRZwUtSbaBgGXv3KSCbYm_32.526300_-93.679120@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533550,
+    "wof:geomhash":"36ac23caccb58231461408a2d6600d4b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529577,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85811501,
+            "region_id":85688735,
+            "venue_id":840456337
+        }
+    ],
+    "wof:id":840456337,
+    "wof:lastmodified":1463533550,
+    "wof:name":"Wendy's",
+    "wof:parent_id":102529577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -93.67912,
+    32.5263,
+    -93.67912,
+    32.5263
+],
+  "geometry": {"coordinates":[-93.67912,32.5263],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840374375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.246136,30.139327,-93.246136,30.139327",
+    "geom:latitude":30.139327,
+    "geom:longitude":-93.246136,
+    "iso:country":"US",
+    "sg:address":"1890 W Gauthier Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 6061",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O34RzTbnQuIONssySTZhG_30.139327_-93.246136@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530106,
+    "wof:geomhash":"f6f1e6f1a3378a037af52336a3c3db28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840374375
+        }
+    ],
+    "wof:id":840374375,
+    "wof:lastmodified":1463530106,
+    "wof:name":"Ob/Gy & Assoc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.246136,
+    30.139327,
+    -93.246136,
+    30.139327
+],
+  "geometry": {"coordinates":[-93.24613600000001,30.139327],"type":"Point"}
+}

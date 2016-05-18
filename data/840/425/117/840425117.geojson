@@ -1,0 +1,71 @@
+{
+  "id": 840425117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.058523,30.181156,-92.058523,30.181156",
+    "geom:latitude":30.181156,
+    "geom:longitude":-92.058523,
+    "iso:country":"US",
+    "sg:address":"143 Grand Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 4300",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fke1o7udfqH3X00L3JV3d_30.181156_-92.058523@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532238,
+    "wof:geomhash":"b7f8c71ffc27d17be407010ee104e3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840425117
+        }
+    ],
+    "wof:id":840425117,
+    "wof:lastmodified":1463532238,
+    "wof:name":"Affordable Refrigeration",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -92.058523,
+    30.181156,
+    -92.058523,
+    30.181156
+],
+  "geometry": {"coordinates":[-92.05852299999999,30.181156],"type":"Point"}
+}

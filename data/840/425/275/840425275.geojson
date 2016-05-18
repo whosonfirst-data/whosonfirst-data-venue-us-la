@@ -1,0 +1,73 @@
+{
+  "id": 840425275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.11211,32.5002,-92.11211,32.5002",
+    "geom:latitude":32.5002,
+    "geom:longitude":-92.11211,
+    "iso:country":"US",
+    "sg:address":"401 Hall St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 324 9113",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jnFdBzPOhlgwG49I8ZZi1_32.500200_-92.112110@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532246,
+    "wof:geomhash":"3cb26a331e144e97ee4b063fdd85642c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840425275
+        }
+    ],
+    "wof:id":840425275,
+    "wof:lastmodified":1463532246,
+    "wof:name":"K C Wade MD",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.11211,
+    32.5002,
+    -92.11211,
+    32.5002
+],
+  "geometry": {"coordinates":[-92.11211,32.5002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840055891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.511216,31.02056,-92.511216,31.02056",
+    "geom:latitude":31.02056,
+    "geom:longitude":-92.511216,
+    "iso:country":"US",
+    "sg:address":"118 Brady Rd",
+    "sg:city":"Simpson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 383 6008",
+    "sg:postcode":"71430",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24cNi9QzT42CAmyzkbqJHT_31.020560_-92.511216@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520173,
+    "wof:geomhash":"b663f3e476390fbde067022ad86664a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840055891
+        }
+    ],
+    "wof:id":840055891,
+    "wof:lastmodified":1463520173,
+    "wof:name":"Alco Hutton Volunteer Fire",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.511216,
+    31.02056,
+    -92.511216,
+    31.02056
+],
+  "geometry": {"coordinates":[-92.511216,31.02056],"type":"Point"}
+}

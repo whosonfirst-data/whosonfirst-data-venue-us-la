@@ -1,0 +1,75 @@
+{
+  "id": 840428699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.251337,31.070616,-93.251337,31.070616",
+    "geom:latitude":31.070616,
+    "geom:longitude":-93.251337,
+    "iso:country":"US",
+    "sg:address":"1231 Jeane Chapel Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 239 0587",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yx5kKLW8M4Q2W19eLPwIp_31.070616_-93.251337@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532384,
+    "wof:geomhash":"35feee08ef0a6b33746a873a25a22260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840428699
+        }
+    ],
+    "wof:id":840428699,
+    "wof:lastmodified":1463532384,
+    "wof:name":"Chapel Rentals",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.251337,
+    31.070616,
+    -93.251337,
+    31.070616
+],
+  "geometry": {"coordinates":[-93.25133700000001,31.070616],"type":"Point"}
+}

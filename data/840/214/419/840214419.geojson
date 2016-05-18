@@ -1,0 +1,71 @@
+{
+  "id": 840214419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498408,29.805809,-91.498408,29.805809",
+    "geom:latitude":29.805809,
+    "geom:longitude":-91.498408,
+    "iso:country":"US",
+    "sg:address":"1604 Cynthia St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4747",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43v7HkX3LwXmsNlaWLopqP_29.805809_-91.498408@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523714,
+    "wof:geomhash":"3f9828029d5ceb1192349642be38226a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840214419
+        }
+    ],
+    "wof:id":840214419,
+    "wof:lastmodified":1463523714,
+    "wof:name":"BMA Of Franklin",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.498408,
+    29.805809,
+    -91.498408,
+    29.805809
+],
+  "geometry": {"coordinates":[-91.498408,29.805809],"type":"Point"}
+}

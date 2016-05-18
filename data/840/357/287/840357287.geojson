@@ -1,0 +1,77 @@
+{
+  "id": 840357287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.015089,30.220403,-92.015089,30.220403",
+    "geom:latitude":30.220403,
+    "geom:longitude":-92.015089,
+    "iso:country":"US",
+    "sg:address":"516 Gordon St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 8293",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FDcnHpw5ZXeBxGLrgwhpe_30.220403_-92.015089@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529265,
+    "wof:geomhash":"e30be0a00cf74a8dacd76fca1f412832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840357287
+        }
+    ],
+    "wof:id":840357287,
+    "wof:lastmodified":1463529265,
+    "wof:name":"Menard's Body & Paint Shop",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -92.015089,
+    30.220403,
+    -92.015089,
+    30.220403
+],
+  "geometry": {"coordinates":[-92.015089,30.220403],"type":"Point"}
+}

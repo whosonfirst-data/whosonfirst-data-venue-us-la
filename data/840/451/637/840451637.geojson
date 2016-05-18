@@ -1,0 +1,71 @@
+{
+  "id": 840451637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.828102,30.009399,-91.828102,30.009399",
+    "geom:latitude":30.009399,
+    "geom:longitude":-91.828102,
+    "iso:country":"US",
+    "sg:address":"614 Field St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 7478",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Ta9CaiyD7c2FwZNv2QL6_30.009250_-91.828104@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533368,
+    "wof:geomhash":"25c915009dfa827dccb931de597c5eec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840451637
+        }
+    ],
+    "wof:id":840451637,
+    "wof:lastmodified":1463533368,
+    "wof:name":"Alexander's Cab",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -91.828102,
+    30.009399,
+    -91.828102,
+    30.009399
+],
+  "geometry": {"coordinates":[-91.828102,30.009399],"type":"Point"}
+}

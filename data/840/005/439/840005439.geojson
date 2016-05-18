@@ -1,0 +1,73 @@
+{
+  "id": 840005439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.790323,30.22375,-89.790323,30.22375",
+    "geom:latitude":30.22375,
+    "geom:longitude":-89.790323,
+    "iso:country":"US",
+    "sg:address":"114 Darcy Ln",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 726 6010",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "marine",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948593,
+        102082453,
+        85838725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_336FHlEu6EdJt1CCglV1pv_30.223750_-89.790323@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519110,
+    "wof:geomhash":"15d9c5f6d1c0bb7eaaba973586f48d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948593,
+            "neighbourhood_id":85838725,
+            "region_id":85688735,
+            "venue_id":840005439
+        }
+    ],
+    "wof:id":840005439,
+    "wof:lastmodified":1463519110,
+    "wof:name":"Marine Electrical Specialist",
+    "wof:parent_id":85838725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "electric"
+    ]
+},
+  "bbox": [
+    -89.790323,
+    30.22375,
+    -89.790323,
+    30.22375
+],
+  "geometry": {"coordinates":[-89.790323,30.22375],"type":"Point"}
+}

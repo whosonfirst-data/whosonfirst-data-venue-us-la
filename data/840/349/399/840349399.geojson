@@ -1,0 +1,73 @@
+{
+  "id": 840349399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.180138,30.220318,-93.180138,30.220318",
+    "geom:latitude":30.220318,
+    "geom:longitude":-93.180138,
+    "iso:country":"US",
+    "sg:address":"1201 State Rte 14",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6680",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zp6lwjSLsihWN4KoAWXZL_30.220318_-93.180138@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528872,
+    "wof:geomhash":"164499cef36eb018fc650918fc42403a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840349399
+        }
+    ],
+    "wof:id":840349399,
+    "wof:lastmodified":1463528872,
+    "wof:name":"Insta-Lube",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -93.180138,
+    30.220318,
+    -93.180138,
+    30.220318
+],
+  "geometry": {"coordinates":[-93.180138,30.220318],"type":"Point"}
+}

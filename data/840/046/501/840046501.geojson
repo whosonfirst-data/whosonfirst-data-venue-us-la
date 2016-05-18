@@ -1,0 +1,71 @@
+{
+  "id": 840046501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.469842,30.939939,-90.469842,30.939939",
+    "geom:latitude":30.939939,
+    "geom:longitude":-90.469842,
+    "iso:country":"US",
+    "sg:address":"74458 N River Rd",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 747 8587",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ayQJVhvyJ8XuVKk0s0w9U_30.939939_-90.469842@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519973,
+    "wof:geomhash":"27795fec7a6439f368c12a8fcbc91650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840046501
+        }
+    ],
+    "wof:id":840046501,
+    "wof:lastmodified":1463519973,
+    "wof:name":"Grand Prix Car Wash",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -90.469842,
+    30.939939,
+    -90.469842,
+    30.939939
+],
+  "geometry": {"coordinates":[-90.469842,30.939939],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840343061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.512717,29.797326,-91.512717,29.797326",
+    "geom:latitude":29.797326,
+    "geom:longitude":-91.512717,
+    "iso:country":"US",
+    "sg:address":"1010 Barrow St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 5302",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RRxxGdzYVZJU5ubQlBW8v_29.797326_-91.512717@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528553,
+    "wof:geomhash":"2bcf2b6708eee92c67f7a2e190403ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840343061
+        }
+    ],
+    "wof:id":840343061,
+    "wof:lastmodified":1463528553,
+    "wof:name":"Polito's Auto Repairs Paint",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.512717,
+    29.797326,
+    -91.512717,
+    29.797326
+],
+  "geometry": {"coordinates":[-91.51271699999999,29.797326],"type":"Point"}
+}

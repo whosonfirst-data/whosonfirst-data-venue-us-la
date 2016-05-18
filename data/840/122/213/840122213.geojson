@@ -1,0 +1,71 @@
+{
+  "id": 840122213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.509006,30.941701,-90.509006,30.941701",
+    "geom:latitude":30.941701,
+    "geom:longitude":-90.509006,
+    "iso:country":"US",
+    "sg:address":"301 3rd St",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 5310",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LGRCZJDA3BmcXViNof9a2_30.941701_-90.509006@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521688,
+    "wof:geomhash":"85641d473b5c5cd59547cc78c7370f3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840122213
+        }
+    ],
+    "wof:id":840122213,
+    "wof:lastmodified":1463521688,
+    "wof:name":"Gulf States Beverage",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -90.509006,
+    30.941701,
+    -90.509006,
+    30.941701
+],
+  "geometry": {"coordinates":[-90.509006,30.941701],"type":"Point"}
+}

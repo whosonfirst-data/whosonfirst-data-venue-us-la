@@ -1,0 +1,71 @@
+{
+  "id": 840424261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.538855,31.282068,-92.538855,31.282068",
+    "geom:latitude":31.282068,
+    "geom:longitude":-92.538855,
+    "iso:country":"US",
+    "sg:address":"850 McKeithen Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 1411",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MTWQ2GKdCJrinTStRlIjF_31.282068_-92.538855@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532205,
+    "wof:geomhash":"d899c2e9ae47bb73e74397e4843ca802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840424261
+        }
+    ],
+    "wof:id":840424261,
+    "wof:lastmodified":1463532205,
+    "wof:name":"Boutte Veterinary Clinic",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -92.538855,
+    31.282068,
+    -92.538855,
+    31.282068
+],
+  "geometry": {"coordinates":[-92.538855,31.282068],"type":"Point"}
+}

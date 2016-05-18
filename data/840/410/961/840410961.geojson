@@ -1,0 +1,75 @@
+{
+  "id": 840410961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.449428,31.31339,-92.449428,31.31339",
+    "geom:latitude":31.31339,
+    "geom:longitude":-92.449428,
+    "iso:country":"US",
+    "sg:address":"425 Scott St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 445 7355",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948321,
+        102081039,
+        85820213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oc7XTyI5OoPGL67tmioiV_31.313390_-92.449428@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531655,
+    "wof:geomhash":"48a3f90b048a3249c6e61f3998fb2b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948321,
+            "neighbourhood_id":85820213,
+            "region_id":85688735,
+            "venue_id":840410961
+        }
+    ],
+    "wof:id":840410961,
+    "wof:lastmodified":1463531655,
+    "wof:name":"Brian Clinic",
+    "wof:parent_id":85820213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.449428,
+    31.31339,
+    -92.449428,
+    31.31339
+],
+  "geometry": {"coordinates":[-92.449428,31.31339],"type":"Point"}
+}

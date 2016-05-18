@@ -1,0 +1,71 @@
+{
+  "id": 840069731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.103782,32.50775,-92.103782,32.50775",
+    "geom:latitude":32.50775,
+    "geom:longitude":-92.103782,
+    "iso:country":"US",
+    "sg:address":"1350 Grammont St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 329 2392",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Htue7rUTzUAMFgu00Ii4D_32.507750_-92.103782@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520473,
+    "wof:geomhash":"3399b50afe5424024344a5f433f16fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840069731
+        }
+    ],
+    "wof:id":840069731,
+    "wof:lastmodified":1463520473,
+    "wof:name":"Monroe City Sewer",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -92.103782,
+    32.50775,
+    -92.103782,
+    32.50775
+],
+  "geometry": {"coordinates":[-92.103782,32.50775],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840121431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.735909,32.398065,-93.735909,32.398065",
+    "geom:latitude":32.398065,
+    "geom:longitude":-93.735909,
+    "iso:country":"US",
+    "sg:address":"128 Dalton St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 683 1171",
+    "sg:postcode":"71106",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PAke76BQlce4XkUXSaM2A_32.398065_-93.735909@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521673,
+    "wof:geomhash":"e5c418cce8951c862bb6df8278f30f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840121431
+        }
+    ],
+    "wof:id":840121431,
+    "wof:lastmodified":1463521673,
+    "wof:name":"Grace Electric",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.735909,
+    32.398065,
+    -93.735909,
+    32.398065
+],
+  "geometry": {"coordinates":[-93.73590900000001,32.398065],"type":"Point"}
+}

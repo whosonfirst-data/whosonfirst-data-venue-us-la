@@ -1,0 +1,75 @@
+{
+  "id": 840301395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209549,30.183666,-93.209549,30.183666",
+    "geom:latitude":30.183666,
+    "geom:longitude":-93.209549,
+    "iso:country":"US",
+    "sg:address":"4105 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 475 8022",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HYKUKmpRw8AGbFgzwnwn3_30.183666_-93.209549@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526578,
+    "wof:geomhash":"ca0fb10b2e0a1a10a8c9507891e8603d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840301395
+        }
+    ],
+    "wof:id":840301395,
+    "wof:lastmodified":1463526578,
+    "wof:name":"Lake Charles Mental Health Ctr",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -93.209549,
+    30.183666,
+    -93.209549,
+    30.183666
+],
+  "geometry": {"coordinates":[-93.209549,30.183666],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840293441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.811628,30.004606,-91.811628,30.004606",
+    "geom:latitude":30.004606,
+    "geom:longitude":-91.811628,
+    "iso:country":"US",
+    "sg:address":"500 Marie St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 9156",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lS11AOm140OKvbc70uGwd_30.004606_-91.811628@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526214,
+    "wof:geomhash":"edbe627161ebde0a9533007bcb1eab22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840293441
+        }
+    ],
+    "wof:id":840293441,
+    "wof:lastmodified":1463526214,
+    "wof:name":"Veteran Memorial Building",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.811628,
+    30.004606,
+    -91.811628,
+    30.004606
+],
+  "geometry": {"coordinates":[-91.811628,30.004606],"type":"Point"}
+}

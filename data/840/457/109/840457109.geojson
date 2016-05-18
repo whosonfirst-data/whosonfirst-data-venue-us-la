@@ -1,0 +1,83 @@
+{
+  "id": 840457109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.15694,30.003643,-90.15694,30.003643",
+    "geom:latitude":30.003643,
+    "geom:longitude":-90.15694,
+    "iso:country":"US",
+    "sg:address":"3301 Veterans Memorial Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/metairie/26313-puccinos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 835 3151",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55FD5WnCof5LhWvZZQEMP7_30.003683_-90.156296@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533583,
+    "wof:geomhash":"2eedc03720ddaa030931c41aec060184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840457109
+        }
+    ],
+    "wof:id":840457109,
+    "wof:lastmodified":1463533583,
+    "wof:name":"Puccino's",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.15694,
+    30.003643,
+    -90.15694,
+    30.003643
+],
+  "geometry": {"coordinates":[-90.15694000000001,30.003643],"type":"Point"}
+}

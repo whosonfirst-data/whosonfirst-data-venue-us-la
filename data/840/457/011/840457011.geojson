@@ -1,0 +1,72 @@
+{
+  "id": 840457011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.247647,31.055636,-93.247647,31.055636",
+    "geom:latitude":31.055636,
+    "geom:longitude":-93.247647,
+    "iso:country":"US",
+    "sg:address":"1145 Entrance Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/fort-polk/208627-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 537 3291",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SrF5maIYE7xkQzLHs1Cuk_31.055636_-93.247647@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533574,
+    "wof:geomhash":"005eb5f41d7b3f808956110bca4735a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840457011
+        }
+    ],
+    "wof:id":840457011,
+    "wof:lastmodified":1463533574,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.247647,
+    31.055636,
+    -93.247647,
+    31.055636
+],
+  "geometry": {"coordinates":[-93.247647,31.055636],"type":"Point"}
+}

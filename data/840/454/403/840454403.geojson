@@ -1,0 +1,74 @@
+{
+  "id": 840454403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.031306,30.171341,-92.031306,30.171341",
+    "geom:latitude":30.171341,
+    "geom:longitude":-92.031306,
+    "iso:country":"US",
+    "sg:address":"1507 Kaliste Saloom Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/broadmoor/72952-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 4741",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bj093zEEe2ekq4xSf8ypP_30.171341_-92.031306@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533483,
+    "wof:geomhash":"7ec55efa02792ef813e6b6d139f42bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840454403
+        }
+    ],
+    "wof:id":840454403,
+    "wof:lastmodified":1463533483,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.031306,
+    30.171341,
+    -92.031306,
+    30.171341
+],
+  "geometry": {"coordinates":[-92.031306,30.171341],"type":"Point"}
+}

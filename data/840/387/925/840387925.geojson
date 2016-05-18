@@ -1,0 +1,73 @@
+{
+  "id": 840387925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.835699,30.003454,-91.835699,30.003454",
+    "geom:latitude":30.003454,
+    "geom:longitude":-91.835699,
+    "iso:country":"US",
+    "sg:address":"1312 Jordan St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3959",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ftbmCbzumAk03trbRv1wR_30.003454_-91.835699@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530716,
+    "wof:geomhash":"168f51077448b97528baf21f896185f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840387925
+        }
+    ],
+    "wof:id":840387925,
+    "wof:lastmodified":1463530716,
+    "wof:name":"Romero's Plumbing",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.835699,
+    30.003454,
+    -91.835699,
+    30.003454
+],
+  "geometry": {"coordinates":[-91.83569900000001,30.003454],"type":"Point"}
+}

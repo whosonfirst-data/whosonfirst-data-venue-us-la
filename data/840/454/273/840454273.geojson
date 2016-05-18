@@ -1,0 +1,76 @@
+{
+  "id": 840454273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.021774,30.214445,-92.021774,30.214445",
+    "geom:latitude":30.214445,
+    "geom:longitude":-92.021774,
+    "iso:country":"US",
+    "sg:address":"1500 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/197471-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 5944",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gAtNl16LXQXO8raIMBaqC_30.214445_-92.021774@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533478,
+    "wof:geomhash":"0b75fa3a033e131c023f4701a7dc8d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840454273
+        }
+    ],
+    "wof:id":840454273,
+    "wof:lastmodified":1463533478,
+    "wof:name":"Burger King",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.021774,
+    30.214445,
+    -92.021774,
+    30.214445
+],
+  "geometry": {"coordinates":[-92.02177399999999,30.214445],"type":"Point"}
+}

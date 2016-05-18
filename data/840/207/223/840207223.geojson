@@ -1,0 +1,69 @@
+{
+  "id": 840207223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.350279,30.57318,-91.350279,30.57318",
+    "geom:latitude":30.57318,
+    "geom:longitude":-91.350279,
+    "iso:country":"US",
+    "sg:address":"7159 Bueche Rd",
+    "sg:city":"Bueche",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 627 9576",
+    "sg:postcode":"70729",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85853173,
+        102086695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SewH7FxavBCYKBN66FZjT_30.573180_-91.350279@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523573,
+    "wof:geomhash":"28a0b53c0fe88f16c14140e0218f335c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "neighbourhood_id":85853173,
+            "region_id":85688735,
+            "venue_id":840207223
+        }
+    ],
+    "wof:id":840207223,
+    "wof:lastmodified":1463523573,
+    "wof:name":"Warwick's Towing",
+    "wof:parent_id":85853173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -91.350279,
+    30.57318,
+    -91.350279,
+    30.57318
+],
+  "geometry": {"coordinates":[-91.350279,30.57318],"type":"Point"}
+}

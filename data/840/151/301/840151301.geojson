@@ -1,0 +1,73 @@
+{
+  "id": 840151301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.030971,30.299826,-92.030971,30.299826",
+    "geom:latitude":30.299826,
+    "geom:longitude":-92.030971,
+    "iso:country":"US",
+    "sg:address":"311 Smalley Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 0008",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZUKoSkIB55XuG7sjooLte_30.299826_-92.030971@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522273,
+    "wof:geomhash":"b3c85980949fca4c1e6fe60a640191ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840151301
+        }
+    ],
+    "wof:id":840151301,
+    "wof:lastmodified":1463522273,
+    "wof:name":"Security Self Storage Inc",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -92.030971,
+    30.299826,
+    -92.030971,
+    30.299826
+],
+  "geometry": {"coordinates":[-92.03097099999999,30.299826],"type":"Point"}
+}

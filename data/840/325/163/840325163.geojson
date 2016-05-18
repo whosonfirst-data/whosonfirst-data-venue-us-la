@@ -1,0 +1,73 @@
+{
+  "id": 840325163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.99737,30.3609,-90.99737,30.3609",
+    "geom:latitude":30.3609,
+    "geom:longitude":-90.99737,
+    "iso:country":"US",
+    "sg:address":"17301 Jefferson Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 751 8512",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yn9m38uiAfTd2o0KPBJp4_30.360900_-90.997370@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527731,
+    "wof:geomhash":"52c9b7ac40bc5ecbb3268f2ee771ad97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840325163
+        }
+    ],
+    "wof:id":840325163,
+    "wof:lastmodified":1463527731,
+    "wof:name":"Moreau Physical Therapy",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -90.99737,
+    30.3609,
+    -90.99737,
+    30.3609
+],
+  "geometry": {"coordinates":[-90.99737,30.3609],"type":"Point"}
+}

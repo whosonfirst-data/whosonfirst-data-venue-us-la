@@ -1,0 +1,71 @@
+{
+  "id": 840120483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.383949,30.442206,-90.383949,30.442206",
+    "geom:latitude":30.442206,
+    "geom:longitude":-90.383949,
+    "iso:country":"US",
+    "sg:address":"40222 Babin Rd",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 9820",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CqP0ZQ0bsWiUX1hkX7KUK_30.442206_-90.383949@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521648,
+    "wof:geomhash":"55ece628058d0a1d18631bc017aed3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840120483
+        }
+    ],
+    "wof:id":840120483,
+    "wof:lastmodified":1463521648,
+    "wof:name":"Dorman Electronics",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -90.383949,
+    30.442206,
+    -90.383949,
+    30.442206
+],
+  "geometry": {"coordinates":[-90.383949,30.442206],"type":"Point"}
+}

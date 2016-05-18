@@ -1,0 +1,78 @@
+{
+  "id": 840453157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.078005,29.951489,-90.078005,29.951489",
+    "geom:latitude":29.951489,
+    "geom:longitude":-90.078005,
+    "iso:country":"US",
+    "sg:address":"1400 Poydras St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/136674-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 2122",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4emlBf3TCqMzqY8SQ3uY1q_29.951489_-90.078005@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533431,
+    "wof:geomhash":"bf69d54c8944c247c7da846eca02e112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866107,
+            "region_id":85688735,
+            "venue_id":840453157
+        }
+    ],
+    "wof:id":840453157,
+    "wof:lastmodified":1463533431,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85866107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.078005,
+    29.951489,
+    -90.078005,
+    29.951489
+],
+  "geometry": {"coordinates":[-90.078005,29.951489],"type":"Point"}
+}

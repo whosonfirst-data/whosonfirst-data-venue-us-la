@@ -1,0 +1,73 @@
+{
+  "id": 840305113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.102514,30.234747,-92.102514,30.234747",
+    "geom:latitude":30.234747,
+    "geom:longitude":-92.102514,
+    "iso:country":"US",
+    "sg:address":"6305 Cameron St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 5532",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yqg2gNaGdbKAEhBmpPqyi_30.234747_-92.102514@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526768,
+    "wof:geomhash":"5160204fc271e7c0c991d180fb7fafa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840305113
+        }
+    ],
+    "wof:id":840305113,
+    "wof:lastmodified":1463526768,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [
+    -92.102514,
+    30.234747,
+    -92.102514,
+    30.234747
+],
+  "geometry": {"coordinates":[-92.102514,30.234747],"type":"Point"}
+}

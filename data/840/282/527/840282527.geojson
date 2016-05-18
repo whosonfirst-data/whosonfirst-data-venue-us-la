@@ -1,0 +1,71 @@
+{
+  "id": 840282527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218731,30.204492,-93.218731,30.204492",
+    "geom:latitude":30.204492,
+    "geom:longitude":-93.218731,
+    "iso:country":"US",
+    "sg:address":"2810 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 497 1599",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sGfj9RnTSd0Y6BnCVKY5x_30.204492_-93.218731@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525738,
+    "wof:geomhash":"80e2523f1d8c114983650931595c15f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840282527
+        }
+    ],
+    "wof:id":840282527,
+    "wof:lastmodified":1463525738,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -93.218731,
+    30.204492,
+    -93.218731,
+    30.204492
+],
+  "geometry": {"coordinates":[-93.21873100000001,30.204492],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840108741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.195421,30.236591,-93.195421,30.236591",
+    "geom:latitude":30.236591,
+    "geom:longitude":-93.195421,
+    "iso:country":"US",
+    "sg:address":"1831 I- 10",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 4578",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0myBMTFiaBm6dAx5VuzfiL_30.236591_-93.195421@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521405,
+    "wof:geomhash":"c1af2157a4fe85bbcdc5b54acf21008b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840108741
+        }
+    ],
+    "wof:id":840108741,
+    "wof:lastmodified":1463521405,
+    "wof:name":"Greyhound Package Express",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -93.195421,
+    30.236591,
+    -93.195421,
+    30.236591
+],
+  "geometry": {"coordinates":[-93.195421,30.236591],"type":"Point"}
+}

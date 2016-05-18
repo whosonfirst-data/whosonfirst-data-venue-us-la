@@ -1,0 +1,76 @@
+{
+  "id": 840456043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.71739,32.44161,-93.71739,32.44161",
+    "geom:latitude":32.44161,
+    "geom:longitude":-93.71739,
+    "iso:country":"US",
+    "sg:address":"7141 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/cedar-grove/169067-fatburger/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 795 0710",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GExBud2g84nbdX8N7SahQ_32.441610_-93.717390@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533539,
+    "wof:geomhash":"902655e29817ee0fade25fd7f2b43cba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840456043
+        }
+    ],
+    "wof:id":840456043,
+    "wof:lastmodified":1463533539,
+    "wof:name":"Fatburger",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.71739,
+    32.44161,
+    -93.71739,
+    32.44161
+],
+  "geometry": {"coordinates":[-93.71738999999999,32.44161],"type":"Point"}
+}

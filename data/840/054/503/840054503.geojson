@@ -1,0 +1,83 @@
+{
+  "id": 840054503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.075206,29.93055,-90.075206,29.93055",
+    "geom:latitude":29.93055,
+    "geom:longitude":-90.075206,
+    "iso:country":"US",
+    "sg:address":"2050 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 568 9944",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BSoijYnw26RGhboTTF59P_29.930550_-90.075206@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520136,
+    "wof:geomhash":"0a904664749a27d732738ba5c01b1b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840054503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840054503
+        }
+    ],
+    "wof:id":840054503,
+    "wof:lastmodified":1463520136,
+    "wof:name":"Mire Antiques",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -90.075206,
+    29.93055,
+    -90.075206,
+    29.93055
+],
+  "geometry": {"coordinates":[-90.07520599999999,29.93055],"type":"Point"}
+}

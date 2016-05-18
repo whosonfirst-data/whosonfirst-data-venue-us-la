@@ -1,0 +1,71 @@
+{
+  "id": 840203887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.247292,30.310596,-91.247292,30.310596",
+    "geom:latitude":30.310596,
+    "geom:longitude":-91.247292,
+    "iso:country":"US",
+    "sg:address":"22115 State Rte 1",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 687 7387",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59vt8ma35HxBKgyxWJUux4_30.310596_-91.247292@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523485,
+    "wof:geomhash":"7c04e5f78f6cf1e2c056a0584552c491",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840203887
+        }
+    ],
+    "wof:id":840203887,
+    "wof:lastmodified":1463523485,
+    "wof:name":"Carville Veterinary Clinic",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.247292,
+    30.310596,
+    -91.247292,
+    30.310596
+],
+  "geometry": {"coordinates":[-91.247292,30.310596],"type":"Point"}
+}

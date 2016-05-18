@@ -1,0 +1,73 @@
+{
+  "id": 840292423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.437799,30.45191,-93.437799,30.45191",
+    "geom:latitude":30.45191,
+    "geom:longitude":-93.437799,
+    "iso:country":"US",
+    "sg:address":"128 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 1262",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19qzRlX1vWizMgaloTfrJw_30.451910_-93.437799@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526167,
+    "wof:geomhash":"28a58c736f26a37fb62aa41dfa67e884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840292423
+        }
+    ],
+    "wof:id":840292423,
+    "wof:lastmodified":1463526167,
+    "wof:name":"Clinic 2000 Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.437799,
+    30.45191,
+    -93.437799,
+    30.45191
+],
+  "geometry": {"coordinates":[-93.437799,30.45191],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840044181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.224271,30.217577,-93.224271,30.217577",
+    "geom:latitude":30.217577,
+    "geom:longitude":-93.224271,
+    "iso:country":"US",
+    "sg:address":"1603 Alvin St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 493 7269",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dwelling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QEFvCRGkhK427Q026MhME_30.217577_-93.224271@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519931,
+    "wof:geomhash":"30174a89934aca30941c52df9f48b467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840044181
+        }
+    ],
+    "wof:id":840044181,
+    "wof:lastmodified":1463519931,
+    "wof:name":"Alvin Street Properties LLC",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling"
+    ]
+},
+  "bbox": [
+    -93.224271,
+    30.217577,
+    -93.224271,
+    30.217577
+],
+  "geometry": {"coordinates":[-93.224271,30.217577],"type":"Point"}
+}

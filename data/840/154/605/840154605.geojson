@@ -1,0 +1,75 @@
+{
+  "id": 840154605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498043,29.804526,-91.498043,29.804526",
+    "geom:latitude":29.804526,
+    "geom:longitude":-91.498043,
+    "iso:country":"US",
+    "sg:address":"1603 Hospital Ave",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 413 1888",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SkUijxSo0oZrfzH4Gpar3_29.804526_-91.498043@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522341,
+    "wof:geomhash":"1f5edb070bd01066d864169c3c32c4d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840154605
+        }
+    ],
+    "wof:id":840154605,
+    "wof:lastmodified":1463522341,
+    "wof:name":"Professional Substance Abuse",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -91.498043,
+    29.804526,
+    -91.498043,
+    29.804526
+],
+  "geometry": {"coordinates":[-91.498043,29.804526],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840452901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.255418,29.981955,-90.255418,29.981955",
+    "geom:latitude":29.981955,
+    "geom:longitude":-90.255418,
+    "iso:country":"US",
+    "sg:address":"1205 Airline Dr",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/avondale/132011-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 441 6153",
+    "sg:postcode":"70062",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MnAANDQ0jTuSOxuyfAfvk_29.981955_-90.255418@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533419,
+    "wof:geomhash":"c6db53fdd922291aca90cf07d068904f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840452901
+        }
+    ],
+    "wof:id":840452901,
+    "wof:lastmodified":1463533419,
+    "wof:name":"Subway",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.255418,
+    29.981955,
+    -90.255418,
+    29.981955
+],
+  "geometry": {"coordinates":[-90.25541800000001,29.981955],"type":"Point"}
+}

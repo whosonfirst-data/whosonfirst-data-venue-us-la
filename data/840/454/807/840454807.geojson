@@ -1,0 +1,76 @@
+{
+  "id": 840454807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.350815,30.227535,-93.350815,30.227535",
+    "geom:latitude":30.227535,
+    "geom:longitude":-93.350815,
+    "iso:country":"US",
+    "sg:address":"2300 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hollywood/80255-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 2070",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j6EILuu94BETYJ8kRim1N_30.227535_-93.350815@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533497,
+    "wof:geomhash":"c593a24fc165956d393da5b8e4f709e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454807
+        }
+    ],
+    "wof:id":840454807,
+    "wof:lastmodified":1463533497,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.350815,
+    30.227535,
+    -93.350815,
+    30.227535
+],
+  "geometry": {"coordinates":[-93.350815,30.227535],"type":"Point"}
+}

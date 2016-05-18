@@ -1,0 +1,73 @@
+{
+  "id": 840451821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.048698,29.973,-90.048698,29.973",
+    "geom:latitude":29.973,
+    "geom:longitude":-90.048698,
+    "iso:country":"US",
+    "sg:address":"2611 N Robertson St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 945 5631",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hKnb3omP44gsGSJVc1Aok_29.972817_-90.048059@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533377,
+    "wof:geomhash":"7fe89530f0ca9f2f480c7487c0e32f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866095,
+            "region_id":85688735,
+            "venue_id":840451821
+        }
+    ],
+    "wof:id":840451821,
+    "wof:lastmodified":1463533377,
+    "wof:name":"Smith's Auto Sales & Body Shop",
+    "wof:parent_id":85866095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -90.048698,
+    29.973,
+    -90.048698,
+    29.973
+],
+  "geometry": {"coordinates":[-90.048698,29.973],"type":"Point"}
+}

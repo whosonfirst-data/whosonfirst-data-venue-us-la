@@ -1,0 +1,71 @@
+{
+  "id": 840258443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.179434,30.207778,-93.179434,30.207778",
+    "geom:latitude":30.207778,
+    "geom:longitude":-93.179434,
+    "iso:country":"US",
+    "sg:address":"3001 Industrial Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 6211",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IGo8CxRE0h94BUY4pwr6e_30.207778_-93.179434@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524783,
+    "wof:geomhash":"8b486ad24324435a7fa80f17c727d99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840258443
+        }
+    ],
+    "wof:id":840258443,
+    "wof:lastmodified":1463524783,
+    "wof:name":"Southwest Beverage Co",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -93.179434,
+    30.207778,
+    -93.179434,
+    30.207778
+],
+  "geometry": {"coordinates":[-93.179434,30.207778],"type":"Point"}
+}

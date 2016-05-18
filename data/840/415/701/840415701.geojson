@@ -1,0 +1,73 @@
+{
+  "id": 840415701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.378031,30.21729,-93.378031,30.21729",
+    "geom:latitude":30.21729,
+    "geom:longitude":-93.378031,
+    "iso:country":"US",
+    "sg:address":"120 Benoit Ln",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 0073",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19CxW79eFWUS611fYyA1ri_30.217290_-93.378031@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531856,
+    "wof:geomhash":"490781a2a0f7c764543b483246ea3f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840415701
+        }
+    ],
+    "wof:id":840415701,
+    "wof:lastmodified":1463531856,
+    "wof:name":"Greg Blanchard Electric Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.378031,
+    30.21729,
+    -93.378031,
+    30.21729
+],
+  "geometry": {"coordinates":[-93.37803099999999,30.21729],"type":"Point"}
+}

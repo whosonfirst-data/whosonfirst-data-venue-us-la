@@ -1,0 +1,71 @@
+{
+  "id": 840198225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.424004,30.451113,-93.424004,30.451113",
+    "geom:latitude":30.451113,
+    "geom:longitude":-93.424004,
+    "iso:country":"US",
+    "sg:address":"1008 E 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 6251",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oz5XHLawabzU4mm7n05ik_30.451113_-93.424004@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523284,
+    "wof:geomhash":"185b07bff7df11903caf97a8ed508e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840198225
+        }
+    ],
+    "wof:id":840198225,
+    "wof:lastmodified":1463523284,
+    "wof:name":"D & H Gas",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -93.424004,
+    30.451113,
+    -93.424004,
+    30.451113
+],
+  "geometry": {"coordinates":[-93.424004,30.451113],"type":"Point"}
+}

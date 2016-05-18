@@ -1,0 +1,68 @@
+{
+  "id": 840209037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.018059,30.233341,-92.018059,30.233341",
+    "geom:latitude":30.233341,
+    "geom:longitude":-92.018059,
+    "iso:country":"US",
+    "sg:address":"100 Cameron St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 8833",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b6zu4o4aLhqekSJDBYjCL_30.233341_-92.018059@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523608,
+    "wof:geomhash":"55786a841acaf872b51143f83a5346ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840209037
+        }
+    ],
+    "wof:id":840209037,
+    "wof:lastmodified":1463523608,
+    "wof:name":"Safeway Regulator Repair Svc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.018059,
+    30.233341,
+    -92.018059,
+    30.233341
+],
+  "geometry": {"coordinates":[-92.01805899999999,30.233341],"type":"Point"}
+}

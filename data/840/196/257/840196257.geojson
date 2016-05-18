@@ -1,0 +1,73 @@
+{
+  "id": 840196257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.246192,31.04823,-93.246192,31.04823",
+    "geom:latitude":31.04823,
+    "geom:longitude":-93.246192,
+    "iso:country":"US",
+    "sg:address":"191 Hebert Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 535 9522",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_224035fqCPbcNn68ADxbJT_31.048230_-93.246192@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523246,
+    "wof:geomhash":"f32473665dc27132018eeb20c67a67a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840196257
+        }
+    ],
+    "wof:id":840196257,
+    "wof:lastmodified":1463523246,
+    "wof:name":"IESI",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -93.246192,
+    31.04823,
+    -93.246192,
+    31.04823
+],
+  "geometry": {"coordinates":[-93.24619199999999,31.04823],"type":"Point"}
+}

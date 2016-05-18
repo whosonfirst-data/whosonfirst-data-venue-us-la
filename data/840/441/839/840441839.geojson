@@ -1,0 +1,73 @@
+{
+  "id": 840441839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.348675,30.233028,-93.348675,30.233028",
+    "geom:latitude":30.233028,
+    "geom:longitude":-93.348675,
+    "iso:country":"US",
+    "sg:address":"2302 Fasske St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 9617",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DyuYfeC0JAi0ZFoVek6Li_30.233028_-93.348675@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532971,
+    "wof:geomhash":"1f991a70f2ebc27dfad4524c50a65575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840441839
+        }
+    ],
+    "wof:id":840441839,
+    "wof:lastmodified":1463532971,
+    "wof:name":"R Bergeron Plumbing Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.348675,
+    30.233028,
+    -93.348675,
+    30.233028
+],
+  "geometry": {"coordinates":[-93.348675,30.233028],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840000921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.257617,30.398763,-91.257617,30.398763",
+    "geom:latitude":30.398763,
+    "geom:longitude":-91.257617,
+    "iso:country":"US",
+    "sg:address":"3210 Allene St",
+    "sg:city":"Brusly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 749 2751",
+    "sg:postcode":"70719",
+    "sg:province":"LA",
+    "sg:tags":[
+        "exporter",
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948409,
+        102086695,
+        85808211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EfPu1kXjTWsG0SnPpMKWP_30.398763_-91.257617@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519012,
+    "wof:geomhash":"0cf960f6ba0ddbbaad184f895950a3df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948409,
+            "neighbourhood_id":85808211,
+            "region_id":85688735,
+            "venue_id":840000921
+        }
+    ],
+    "wof:id":840000921,
+    "wof:lastmodified":1463519012,
+    "wof:name":"Westside Refrigeration Service",
+    "wof:parent_id":85808211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exporter",
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -91.257617,
+    30.398763,
+    -91.257617,
+    30.398763
+],
+  "geometry": {"coordinates":[-91.257617,30.398763],"type":"Point"}
+}

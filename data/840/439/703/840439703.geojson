@@ -1,0 +1,71 @@
+{
+  "id": 840439703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.480016,30.544758,-90.480016,30.544758",
+    "geom:latitude":30.544758,
+    "geom:longitude":-90.480016,
+    "iso:country":"US",
+    "sg:address":"15146 Fire Station Rd",
+    "sg:city":"Natalbany",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 6610",
+    "sg:postcode":"70451",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BdplUeruLe24OO1V7AFKK_30.544758_-90.480016@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532880,
+    "wof:geomhash":"550106e7058fed768e58103257bf1c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840439703
+        }
+    ],
+    "wof:id":840439703,
+    "wof:lastmodified":1463532880,
+    "wof:name":"Natalbany Volunteer Fire Dept",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.480016,
+    30.544758,
+    -90.480016,
+    30.544758
+],
+  "geometry": {"coordinates":[-90.48001600000001,30.544758],"type":"Point"}
+}

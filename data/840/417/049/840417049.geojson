@@ -1,0 +1,75 @@
+{
+  "id": 840417049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.093436,30.288347,-92.093436,30.288347",
+    "geom:latitude":30.288347,
+    "geom:longitude":-92.093436,
+    "iso:country":"US",
+    "sg:address":"206 Eucharist Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 3350",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54s4BNPTOkrlE3EZXI1Vs6_30.288347_-92.093436@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531907,
+    "wof:geomhash":"045ee7556ff4c024fe554b33a9b92030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840417049
+        }
+    ],
+    "wof:id":840417049,
+    "wof:lastmodified":1463531907,
+    "wof:name":"Stoute Trucking",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.093436,
+    30.288347,
+    -92.093436,
+    30.288347
+],
+  "geometry": {"coordinates":[-92.093436,30.288347],"type":"Point"}
+}

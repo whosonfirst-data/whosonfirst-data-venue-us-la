@@ -1,0 +1,71 @@
+{
+  "id": 840267911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.222495,30.198179,-93.222495,30.198179",
+    "geom:latitude":30.198179,
+    "geom:longitude":-93.222495,
+    "iso:country":"US",
+    "sg:address":"150 W Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 1700",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ek9K3gPAzyK1PwAKKMgTv_30.198179_-93.222495@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525080,
+    "wof:geomhash":"39ae7a23c870ebda4c64576642db7d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840267911
+        }
+    ],
+    "wof:id":840267911,
+    "wof:lastmodified":1463525080,
+    "wof:name":"James R Churchman DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.222495,
+    30.198179,
+    -93.222495,
+    30.198179
+],
+  "geometry": {"coordinates":[-93.222495,30.198179],"type":"Point"}
+}

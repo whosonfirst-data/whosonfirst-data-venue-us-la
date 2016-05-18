@@ -1,0 +1,71 @@
+{
+  "id": 840009301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359441,30.240917,-93.359441,30.240917",
+    "geom:latitude":30.240917,
+    "geom:longitude":-93.359441,
+    "iso:country":"US",
+    "sg:address":"425 N Beglis Pkwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 1300",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JI0PxBA71BgigvAEbBJIW_30.240917_-93.359441@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519196,
+    "wof:geomhash":"ee97c8b1c1af3fa9700915401375d071",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840009301
+        }
+    ],
+    "wof:id":840009301,
+    "wof:lastmodified":1463519196,
+    "wof:name":"Harvey's Wrecker",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.359441,
+    30.240917,
+    -93.359441,
+    30.240917
+],
+  "geometry": {"coordinates":[-93.359441,30.240917],"type":"Point"}
+}

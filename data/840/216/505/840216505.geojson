@@ -1,0 +1,73 @@
+{
+  "id": 840216505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.003143,30.245934,-93.003143,30.245934",
+    "geom:latitude":30.245934,
+    "geom:longitude":-93.003143,
+    "iso:country":"US",
+    "sg:address":"600 E Miller St",
+    "sg:city":"Iowa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 582 7460",
+    "sg:postcode":"70647",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FT2YVegLseCD4oUHmKV2q_30.245934_-93.003143@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523760,
+    "wof:geomhash":"cb0ed749aa732ab88453b1b9c68c23f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840216505
+        }
+    ],
+    "wof:id":840216505,
+    "wof:lastmodified":1463523760,
+    "wof:name":"Alexander Waymon",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.003143,
+    30.245934,
+    -93.003143,
+    30.245934
+],
+  "geometry": {"coordinates":[-93.00314299999999,30.245934],"type":"Point"}
+}

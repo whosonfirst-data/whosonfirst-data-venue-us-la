@@ -1,0 +1,71 @@
+{
+  "id": 840307479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.200155,30.203411,-93.200155,30.203411",
+    "geom:latitude":30.203411,
+    "geom:longitude":-93.200155,
+    "iso:country":"US",
+    "sg:address":"1400 Oak Park Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 2111",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jh8fveM8tgOxZPRUas1bP_30.203411_-93.200155@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526869,
+    "wof:geomhash":"d8e799c903954ab8da2c4d9ab4271ea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840307479
+        }
+    ],
+    "wof:id":840307479,
+    "wof:lastmodified":1463526869,
+    "wof:name":"R Thomas Cates DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.200155,
+    30.203411,
+    -93.200155,
+    30.203411
+],
+  "geometry": {"coordinates":[-93.200155,30.203411],"type":"Point"}
+}

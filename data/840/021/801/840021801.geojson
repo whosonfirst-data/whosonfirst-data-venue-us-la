@@ -1,0 +1,73 @@
+{
+  "id": 840021801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.082755,32.469677,-92.082755,32.469677",
+    "geom:latitude":32.469677,
+    "geom:longitude":-92.082755,
+    "iso:country":"US",
+    "sg:address":"3501 Hwy 165 Byp",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 323 2168",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tapWwtEtaKx3DUoG3Mro8_32.469677_-92.082755@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519445,
+    "wof:geomhash":"88a90a34c15642de03930ea19a50a05b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840021801
+        }
+    ],
+    "wof:id":840021801,
+    "wof:lastmodified":1463519445,
+    "wof:name":"Brownfield's General Auto Rpr",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.082755,
+    32.469677,
+    -92.082755,
+    32.469677
+],
+  "geometry": {"coordinates":[-92.08275500000001,32.469677],"type":"Point"}
+}

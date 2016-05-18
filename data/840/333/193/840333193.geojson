@@ -1,0 +1,73 @@
+{
+  "id": 840333193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.115955,32.511486,-92.115955,32.511486",
+    "geom:latitude":32.511486,
+    "geom:longitude":-92.115955,
+    "iso:country":"US",
+    "sg:address":"830 US Hwy 165 Bus",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 323 9441",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_500HPXqvw95jWykRV8b0cm_32.511486_-92.115955@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528082,
+    "wof:geomhash":"e924dfc8d63313d0c1b8ccb6f4e77519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840333193
+        }
+    ],
+    "wof:id":840333193,
+    "wof:lastmodified":1463528082,
+    "wof:name":"Greyhound Package Xpress",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -92.115955,
+    32.511486,
+    -92.115955,
+    32.511486
+],
+  "geometry": {"coordinates":[-92.115955,32.511486],"type":"Point"}
+}

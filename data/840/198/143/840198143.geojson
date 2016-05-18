@@ -1,0 +1,71 @@
+{
+  "id": 840198143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.262256,29.685411,-91.262256,29.685411",
+    "geom:latitude":29.685411,
+    "geom:longitude":-91.262256,
+    "iso:country":"US",
+    "sg:address":"1211 Southeast Blvd",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 9331",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lvlM1GpV5gO4GDNbjYuaj_29.685411_-91.262256@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523282,
+    "wof:geomhash":"51094b58d4b12d54f7b0c7a0a09e9588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840198143
+        }
+    ],
+    "wof:id":840198143,
+    "wof:lastmodified":1463523282,
+    "wof:name":"Melancon Chiropractic",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.262256,
+    29.685411,
+    -91.262256,
+    29.685411
+],
+  "geometry": {"coordinates":[-91.26225599999999,29.685411],"type":"Point"}
+}

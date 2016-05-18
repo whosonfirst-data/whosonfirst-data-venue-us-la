@@ -1,0 +1,73 @@
+{
+  "id": 840344735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.123119,29.901024,-90.123119,29.901024",
+    "geom:latitude":29.901024,
+    "geom:longitude":-90.123119,
+    "iso:country":"US",
+    "sg:address":"6913 4th St",
+    "sg:city":"Marrero",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 341 2622",
+    "sg:postcode":"70072",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948745,
+        102083179,
+        85866123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D0LpdKukE2kv0Ix3OVL8q_29.901024_-90.123119@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528640,
+    "wof:geomhash":"97d44185463e33be64e6ab710b35e85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866123,
+            "region_id":85688735,
+            "venue_id":840344735
+        }
+    ],
+    "wof:id":840344735,
+    "wof:lastmodified":1463528640,
+    "wof:name":"Anthony's Food Store",
+    "wof:parent_id":85866123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.123119,
+    29.901024,
+    -90.123119,
+    29.901024
+],
+  "geometry": {"coordinates":[-90.123119,29.901024],"type":"Point"}
+}

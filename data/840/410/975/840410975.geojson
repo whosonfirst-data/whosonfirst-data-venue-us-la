@@ -1,0 +1,73 @@
+{
+  "id": 840410975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218573,30.19953,-93.218573,30.19953",
+    "geom:latitude":30.19953,
+    "geom:longitude":-93.218573,
+    "iso:country":"US",
+    "sg:address":"3221 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 3344",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dAO7CMLP8GdXfoHlWB4XA_30.199530_-93.218573@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531656,
+    "wof:geomhash":"841564efcdd9749c5818c8bc75f09c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840410975
+        }
+    ],
+    "wof:id":840410975,
+    "wof:lastmodified":1463531656,
+    "wof:name":"Partners In Physical Therapy",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -93.218573,
+    30.19953,
+    -93.218573,
+    30.19953
+],
+  "geometry": {"coordinates":[-93.21857300000001,30.19953],"type":"Point"}
+}

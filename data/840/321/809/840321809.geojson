@@ -1,0 +1,69 @@
+{
+  "id": 840321809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.975738,32.443493,-93.975738,32.443493",
+    "geom:latitude":32.443493,
+    "geom:longitude":-93.975738,
+    "iso:country":"US",
+    "sg:address":"9385 Greenwood Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 938 5554",
+    "sg:postcode":"71033",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85880975,
+        102087235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YpscpgsxuNRfaZyoJzJmW_32.443493_-93.975738@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527540,
+    "wof:geomhash":"567944b5bf0c5de1399842c632aa558c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "neighbourhood_id":85880975,
+            "region_id":85688735,
+            "venue_id":840321809
+        }
+    ],
+    "wof:id":840321809,
+    "wof:lastmodified":1463527540,
+    "wof:name":"Greenwood Police Dept",
+    "wof:parent_id":85880975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.975738,
+    32.443493,
+    -93.975738,
+    32.443493
+],
+  "geometry": {"coordinates":[-93.97573800000001,32.443493],"type":"Point"}
+}

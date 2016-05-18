@@ -1,0 +1,71 @@
+{
+  "id": 840304221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.385065,29.697664,-91.385065,29.697664",
+    "geom:latitude":29.697664,
+    "geom:longitude":-91.385065,
+    "iso:country":"US",
+    "sg:address":"101 Joseph Ln",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 7376",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45RZ4ECdpKoNsFeb0s8cIn_29.697664_-91.385065@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526729,
+    "wof:geomhash":"e68ca581cb59c16c629a3a654a295283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840304221
+        }
+    ],
+    "wof:id":840304221,
+    "wof:lastmodified":1463526729,
+    "wof:name":"Mikes Car Wash",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.385065,
+    29.697664,
+    -91.385065,
+    29.697664
+],
+  "geometry": {"coordinates":[-91.385065,29.697664],"type":"Point"}
+}

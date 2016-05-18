@@ -1,0 +1,74 @@
+{
+  "id": 840457459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.070312,30.174565,-92.070312,30.174565",
+    "geom:latitude":30.174565,
+    "geom:longitude":-92.070312,
+    "iso:country":"US",
+    "sg:address":"3601 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/broadmoor/197472-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 8026",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oloEqhi7RnuyvN931Ry5E_30.174213_-92.069833@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533595,
+    "wof:geomhash":"11bc7b457a60ede8da3af29320d2b246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840457459
+        }
+    ],
+    "wof:id":840457459,
+    "wof:lastmodified":1463533595,
+    "wof:name":"Burger King",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.070312,
+    30.174565,
+    -92.070312,
+    30.174565
+],
+  "geometry": {"coordinates":[-92.070312,30.174565],"type":"Point"}
+}

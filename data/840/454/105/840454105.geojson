@@ -1,0 +1,75 @@
+{
+  "id": 840454105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.761554,30.251146,-89.761554,30.251146",
+    "geom:latitude":30.251146,
+    "geom:longitude":-89.761554,
+    "iso:country":"US",
+    "sg:address":"370 Voters Rd",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/mcclane-city/188459-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70461",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85850405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LyZrmJ04GA0dbe6eytOhB_30.251146_-89.761554@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533472,
+    "wof:geomhash":"85aef38f06aacad14cbc683c8fc7b0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85850405,
+            "region_id":85688735,
+            "venue_id":840454105
+        }
+    ],
+    "wof:id":840454105,
+    "wof:lastmodified":1463533472,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85850405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.761554,
+    30.251146,
+    -89.761554,
+    30.251146
+],
+  "geometry": {"coordinates":[-89.761554,30.251146],"type":"Point"}
+}

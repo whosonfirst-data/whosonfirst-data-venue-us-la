@@ -1,0 +1,75 @@
+{
+  "id": 840334435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.077632,30.3692,-91.077632,30.3692",
+    "geom:latitude":30.3692,
+    "geom:longitude":-91.077632,
+    "iso:country":"US",
+    "sg:address":"12860 Perkins Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 769 2052",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dZ89piN2TLanscV5dUsTr_30.369200_-91.077632@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528152,
+    "wof:geomhash":"e123124562ea97348096b27379c1e933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840334435
+        }
+    ],
+    "wof:id":840334435,
+    "wof:lastmodified":1463528152,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -91.077632,
+    30.3692,
+    -91.077632,
+    30.3692
+],
+  "geometry": {"coordinates":[-91.07763199999999,30.3692],"type":"Point"}
+}

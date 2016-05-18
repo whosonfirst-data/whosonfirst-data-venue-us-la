@@ -1,0 +1,75 @@
+{
+  "id": 840221815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.108325,29.935023,-90.108325,29.935023",
+    "geom:latitude":29.935023,
+    "geom:longitude":-90.108325,
+    "iso:country":"US",
+    "sg:address":"4905 Freret St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 897 3772",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LdgaCdBynFYRo4RvpkJKJ_29.935023_-90.108325@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523870,
+    "wof:geomhash":"614e7fe589fee44ff0bd73a9de75217a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840221815
+        }
+    ],
+    "wof:id":840221815,
+    "wof:lastmodified":1463523870,
+    "wof:name":"Chester Electric Inc",
+    "wof:parent_id":85866127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.108325,
+    29.935023,
+    -90.108325,
+    29.935023
+],
+  "geometry": {"coordinates":[-90.10832499999999,29.935023],"type":"Point"}
+}

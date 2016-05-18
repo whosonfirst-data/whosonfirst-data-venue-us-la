@@ -1,0 +1,75 @@
+{
+  "id": 840404449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.101533,29.973451,-90.101533,29.973451",
+    "geom:latitude":29.973451,
+    "geom:longitude":-90.101533,
+    "iso:country":"US",
+    "sg:address":"4616 S Carrollton Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 837 8375",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Map18WE2btYjjoongQzTq_29.973451_-90.101533@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531401,
+    "wof:geomhash":"de171bb662ccde82fa7af9d9b488a0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840404449
+        }
+    ],
+    "wof:id":840404449,
+    "wof:lastmodified":1463531401,
+    "wof:name":"Automotive Consultant Group",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -90.101533,
+    29.973451,
+    -90.101533,
+    29.973451
+],
+  "geometry": {"coordinates":[-90.101533,29.973451],"type":"Point"}
+}

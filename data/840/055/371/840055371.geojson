@@ -1,0 +1,73 @@
+{
+  "id": 840055371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.735253,30.053244,-91.735253,30.053244",
+    "geom:latitude":30.053244,
+    "geom:longitude":-91.735253,
+    "iso:country":"US",
+    "sg:address":"143 Granger St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 4769",
+    "sg:postcode":"70552",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31lVundl6tFA1wSUCRvFMT_30.053244_-91.735253@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520160,
+    "wof:geomhash":"3d7e7d0187f109c697bff5cc2a2d127a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840055371
+        }
+    ],
+    "wof:id":840055371,
+    "wof:lastmodified":1463520160,
+    "wof:name":"Corey's Auto Repair",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.735253,
+    30.053244,
+    -91.735253,
+    30.053244
+],
+  "geometry": {"coordinates":[-91.735253,30.053244],"type":"Point"}
+}

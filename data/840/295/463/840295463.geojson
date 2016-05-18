@@ -1,0 +1,73 @@
+{
+  "id": 840295463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.01886,30.224865,-92.01886,30.224865",
+    "geom:latitude":30.224865,
+    "geom:longitude":-92.01886,
+    "iso:country":"US",
+    "sg:address":"544 Jefferson St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 1070",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GjmsHuczErf386ZeJbiv6_30.224865_-92.018860@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526293,
+    "wof:geomhash":"00cef3fdc2d40530ddaae9ea351e5520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840295463
+        }
+    ],
+    "wof:id":840295463,
+    "wof:lastmodified":1463526293,
+    "wof:name":"Michael D Barry DDS",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.01886,
+    30.224865,
+    -92.01886,
+    30.224865
+],
+  "geometry": {"coordinates":[-92.01886,30.224865],"type":"Point"}
+}

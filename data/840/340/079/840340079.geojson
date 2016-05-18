@@ -1,0 +1,71 @@
+{
+  "id": 840340079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.283052,30.322414,-93.283052,30.322414",
+    "geom:latitude":30.322414,
+    "geom:longitude":-93.283052,
+    "iso:country":"US",
+    "sg:address":"3989 Cypress Lake Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 3498",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31OB7NXjjGLke4KNkVHC2y_30.322414_-93.283052@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528416,
+    "wof:geomhash":"9650e71171de4bbbd7206903d658f26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840340079
+        }
+    ],
+    "wof:id":840340079,
+    "wof:lastmodified":1463528416,
+    "wof:name":"Florida Gas Transmission Co",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.283052,
+    30.322414,
+    -93.283052,
+    30.322414
+],
+  "geometry": {"coordinates":[-93.283052,30.322414],"type":"Point"}
+}

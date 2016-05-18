@@ -1,0 +1,73 @@
+{
+  "id": 840068771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.223236,30.205626,-93.223236,30.205626",
+    "geom:latitude":30.205626,
+    "geom:longitude":-93.223236,
+    "iso:country":"US",
+    "sg:address":"2859 Ernest St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 8427",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XIaI5gmMXXcminH19rHPx_30.205626_-93.223236@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520456,
+    "wof:geomhash":"887fb755e057ac50473dd3b9e8d10736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840068771
+        }
+    ],
+    "wof:id":840068771,
+    "wof:lastmodified":1463520456,
+    "wof:name":"Southgate Mini-Storage Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.223236,
+    30.205626,
+    -93.223236,
+    30.205626
+],
+  "geometry": {"coordinates":[-93.223236,30.205626],"type":"Point"}
+}

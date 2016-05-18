@@ -1,0 +1,74 @@
+{
+  "id": 840454575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.807417,29.997181,-91.807417,29.997181",
+    "geom:latitude":29.997181,
+    "geom:longitude":-91.807417,
+    "iso:country":"US",
+    "sg:address":"905 E Saint Peter St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-iberia/72968-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 3757",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t1efezYJiI9XTwoTaPKF6_29.997181_-91.807417@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533489,
+    "wof:geomhash":"c23a665362661668744262cdde28e040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840454575
+        }
+    ],
+    "wof:id":840454575,
+    "wof:lastmodified":1463533489,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.807417,
+    29.997181,
+    -91.807417,
+    29.997181
+],
+  "geometry": {"coordinates":[-91.807417,29.997181],"type":"Point"}
+}

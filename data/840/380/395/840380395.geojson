@@ -1,0 +1,73 @@
+{
+  "id": 840380395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.253936,30.167206,-93.253936,30.167206",
+    "geom:latitude":30.167206,
+    "geom:longitude":-93.253936,
+    "iso:country":"US",
+    "sg:address":"4949 Jensen Ln",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 9999",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1edLoS2XluuGEpOd4QSGdH_30.167206_-93.253936@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530366,
+    "wof:geomhash":"9596f1f750a768548eebe889aa51d134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840380395
+        }
+    ],
+    "wof:id":840380395,
+    "wof:lastmodified":1463530366,
+    "wof:name":"Country Club Mini Storage",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.253936,
+    30.167206,
+    -93.253936,
+    30.167206
+],
+  "geometry": {"coordinates":[-93.253936,30.167206],"type":"Point"}
+}

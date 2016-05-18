@@ -1,0 +1,71 @@
+{
+  "id": 840332955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.553223,30.787814,-90.553223,30.787814",
+    "geom:latitude":30.787814,
+    "geom:longitude":-90.553223,
+    "iso:country":"US",
+    "sg:address":"64206 McCoy Rd",
+    "sg:city":"Roseland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 6142",
+    "sg:postcode":"70456",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29RXWSMFFjjwbL1yn6lsqZ_30.787814_-90.553223@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528073,
+    "wof:geomhash":"7342176d09f7578a801ec6dbbdf5e2c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840332955
+        }
+    ],
+    "wof:id":840332955,
+    "wof:lastmodified":1463528073,
+    "wof:name":"Mccoy Trucking",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.553223,
+    30.787814,
+    -90.553223,
+    30.787814
+],
+  "geometry": {"coordinates":[-90.553223,30.787814],"type":"Point"}
+}

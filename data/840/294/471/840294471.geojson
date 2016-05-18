@@ -1,0 +1,75 @@
+{
+  "id": 840294471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.237618,30.403928,-91.237618,30.403928",
+    "geom:latitude":30.403928,
+    "geom:longitude":-91.237618,
+    "iso:country":"US",
+    "sg:address":"2450 Emily Dr",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 749 2442",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948409,
+        102086695,
+        85808211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pftogy3ORhAkZe6muO4lJ_30.403928_-91.237618@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526255,
+    "wof:geomhash":"0f405371feaf6f5dd093acfb5a357a3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948409,
+            "neighbourhood_id":85808211,
+            "region_id":85688735,
+            "venue_id":840294471
+        }
+    ],
+    "wof:id":840294471,
+    "wof:lastmodified":1463526255,
+    "wof:name":"Port Allen Radiator Svc",
+    "wof:parent_id":85808211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -91.237618,
+    30.403928,
+    -91.237618,
+    30.403928
+],
+  "geometry": {"coordinates":[-91.237618,30.403928],"type":"Point"}
+}

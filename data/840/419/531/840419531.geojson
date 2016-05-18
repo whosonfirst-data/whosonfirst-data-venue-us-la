@@ -1,0 +1,73 @@
+{
+  "id": 840419531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.457178,30.470756,-90.457178,30.470756",
+    "geom:latitude":30.470756,
+    "geom:longitude":-90.457178,
+    "iso:country":"US",
+    "sg:address":"42046 Veterans Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 892 3456",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KMxhGRwcQCGv1Q6Pkngb1_30.470756_-90.457178@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532006,
+    "wof:geomhash":"b4b322641f07513b66c16e28455e58bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840419531
+        }
+    ],
+    "wof:id":840419531,
+    "wof:lastmodified":1463532006,
+    "wof:name":"Urologic Surgery Associates",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.457178,
+    30.470756,
+    -90.457178,
+    30.470756
+],
+  "geometry": {"coordinates":[-90.457178,30.470756],"type":"Point"}
+}

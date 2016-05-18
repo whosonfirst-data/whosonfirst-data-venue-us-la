@@ -1,0 +1,75 @@
+{
+  "id": 840309889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.052561,29.911479,-90.052561,29.911479",
+    "geom:latitude":29.911479,
+    "geom:longitude":-90.052561,
+    "iso:country":"US",
+    "sg:address":"113 Westbank Expy",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 361 8826",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nvtGz7RtEcvzjlP3EjEZA_29.911479_-90.052561@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526998,
+    "wof:geomhash":"5e0c835a8545eb4e57e8f73b0f897b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840309889
+        }
+    ],
+    "wof:id":840309889,
+    "wof:lastmodified":1463526998,
+    "wof:name":"Lock Clinic",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.052561,
+    29.911479,
+    -90.052561,
+    29.911479
+],
+  "geometry": {"coordinates":[-90.052561,29.911479],"type":"Point"}
+}

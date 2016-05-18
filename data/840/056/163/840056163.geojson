@@ -1,0 +1,73 @@
+{
+  "id": 840056163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.23175,30.176217,-93.23175,30.176217",
+    "geom:latitude":30.176217,
+    "geom:longitude":-93.23175,
+    "iso:country":"US",
+    "sg:address":"720 W McNeese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 1201",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05lMTxhQIzj79ISGa8HNXy_30.176217_-93.231750@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520182,
+    "wof:geomhash":"265b4ee3f5c60807933fc039bc340534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840056163
+        }
+    ],
+    "wof:id":840056163,
+    "wof:lastmodified":1463520182,
+    "wof:name":"KWIK Kar Lube Tune & Brakes",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.23175,
+    30.176217,
+    -93.23175,
+    30.176217
+],
+  "geometry": {"coordinates":[-93.23175000000001,30.176217],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840142327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.080377,29.960587,-90.080377,29.960587",
+    "geom:latitude":29.960587,
+    "geom:longitude":-90.080377,
+    "iso:country":"US",
+    "sg:address":"1930 Canal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 266 1930",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "house",
+        "guest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lT6XdvJeyMcSsmKGQBJl4_29.960587_-90.080377@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522094,
+    "wof:geomhash":"ec3f391c031d90c1a2a583f138c52ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866071,
+            "region_id":85688735,
+            "venue_id":840142327
+        }
+    ],
+    "wof:id":840142327,
+    "wof:lastmodified":1463522094,
+    "wof:name":"Canal Street Guest House",
+    "wof:parent_id":85866071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "guest"
+    ]
+},
+  "bbox": [
+    -90.080377,
+    29.960587,
+    -90.080377,
+    29.960587
+],
+  "geometry": {"coordinates":[-90.080377,29.960587],"type":"Point"}
+}

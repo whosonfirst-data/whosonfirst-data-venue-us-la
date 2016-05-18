@@ -1,0 +1,75 @@
+{
+  "id": 840437893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.105239,29.935015,-90.105239,29.935015",
+    "geom:latitude":29.935015,
+    "geom:longitude":-90.105239,
+    "iso:country":"US",
+    "sg:address":"4508 Freret St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 895 0908",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45EQnOpUUedK8ey1NbkW1b_29.935015_-90.105239@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532801,
+    "wof:geomhash":"f03d9c86fd54d3095ef8bb1b16b17133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840437893
+        }
+    ],
+    "wof:id":840437893,
+    "wof:lastmodified":1463532801,
+    "wof:name":"Nursing Assistants Network",
+    "wof:parent_id":85866127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -90.105239,
+    29.935015,
+    -90.105239,
+    29.935015
+],
+  "geometry": {"coordinates":[-90.105239,29.935015],"type":"Point"}
+}

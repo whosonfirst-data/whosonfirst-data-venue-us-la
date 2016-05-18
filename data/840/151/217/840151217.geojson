@@ -1,0 +1,73 @@
+{
+  "id": 840151217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218693,30.193308,-93.218693,30.193308",
+    "geom:latitude":30.193308,
+    "geom:longitude":-93.218693,
+    "iso:country":"US",
+    "sg:address":"3512 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 0333",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uL34VjYKRHzYfKGYoURUk_30.193308_-93.218693@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522271,
+    "wof:geomhash":"3e9a03d6329f170b011d776236a2f524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840151217
+        }
+    ],
+    "wof:id":840151217,
+    "wof:lastmodified":1463522271,
+    "wof:name":"Alamo Rent-A-Car LLC",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -93.218693,
+    30.193308,
+    -93.218693,
+    30.193308
+],
+  "geometry": {"coordinates":[-93.218693,30.193308],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 840457479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.069731,30.174086,-92.069731,30.174086",
+    "geom:latitude":30.174086,
+    "geom:longitude":-92.069731,
+    "iso:country":"US",
+    "sg:address":"3619 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/broadmoor/136655-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 8187",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hb7OPelHAy5OpCFOWo8iY_30.174410_-92.069930@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533595,
+    "wof:geomhash":"79d3820b3ac4017e7a09815c09cdd655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840457479
+        }
+    ],
+    "wof:id":840457479,
+    "wof:lastmodified":1463533595,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.069731,
+    30.174086,
+    -92.069731,
+    30.174086
+],
+  "geometry": {"coordinates":[-92.069731,30.174086],"type":"Point"}
+}

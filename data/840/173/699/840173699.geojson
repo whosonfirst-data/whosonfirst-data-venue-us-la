@@ -1,0 +1,75 @@
+{
+  "id": 840173699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.275054,30.278955,-93.275054,30.278955",
+    "geom:latitude":30.278955,
+    "geom:longitude":-93.275054,
+    "iso:country":"US",
+    "sg:address":"3110 Myrtle Springs Rd",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 2985",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wB9IPrYaPF4NUfG5T03Ge_30.278955_-93.275054@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522766,
+    "wof:geomhash":"999b9df042677a097357f26b37b34915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840173699
+        }
+    ],
+    "wof:id":840173699,
+    "wof:lastmodified":1463522766,
+    "wof:name":"Glen Carlock Trucking",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.275054,
+    30.278955,
+    -93.275054,
+    30.278955
+],
+  "geometry": {"coordinates":[-93.275054,30.278955],"type":"Point"}
+}

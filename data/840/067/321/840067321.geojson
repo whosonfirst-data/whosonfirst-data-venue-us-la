@@ -1,0 +1,75 @@
+{
+  "id": 840067321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.080655,29.963694,-90.080655,29.963694",
+    "geom:latitude":29.963694,
+    "geom:longitude":-90.080655,
+    "iso:country":"US",
+    "sg:address":"200 N Galvez St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 5474",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SUz92oVL71VeOBaNU3n6X_29.963694_-90.080655@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520423,
+    "wof:geomhash":"0c31d721a31002310c4cd83678279e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866071,
+            "region_id":85688735,
+            "venue_id":840067321
+        }
+    ],
+    "wof:id":840067321,
+    "wof:lastmodified":1463520423,
+    "wof:name":"Star Lock & Key Co",
+    "wof:parent_id":85866071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.080655,
+    29.963694,
+    -90.080655,
+    29.963694
+],
+  "geometry": {"coordinates":[-90.08065499999999,29.963694],"type":"Point"}
+}

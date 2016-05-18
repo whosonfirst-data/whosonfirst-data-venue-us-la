@@ -1,0 +1,73 @@
+{
+  "id": 840407037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.073995,30.107125,-92.073995,30.107125",
+    "geom:latitude":30.107125,
+    "geom:longitude":-92.073995,
+    "iso:country":"US",
+    "sg:address":"202 Picard Rd",
+    "sg:city":"Youngsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 856 1896",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67OxjMt1Z7yZUBo6gZ8I2q_30.107125_-92.073995@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531498,
+    "wof:geomhash":"d2dcb2a396a58d9845d1d792a8c6f02a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840407037
+        }
+    ],
+    "wof:id":840407037,
+    "wof:lastmodified":1463531498,
+    "wof:name":"Howard's Locksmith",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -92.073995,
+    30.107125,
+    -92.073995,
+    30.107125
+],
+  "geometry": {"coordinates":[-92.073995,30.107125],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840151139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.998724,30.223963,-91.998724,30.223963",
+    "geom:latitude":30.223963,
+    "geom:longitude":-91.998724,
+    "iso:country":"US",
+    "sg:address":"1108 Surrey St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 332 1540",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64VuvmmGiAarUoqCWHFQre_30.223963_-91.998724@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522267,
+    "wof:geomhash":"0f0c86bad3e58dd86834e72662cb60e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840151139
+        }
+    ],
+    "wof:id":840151139,
+    "wof:lastmodified":1463522267,
+    "wof:name":"Hertz Local Edition",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.998724,
+    30.223963,
+    -91.998724,
+    30.223963
+],
+  "geometry": {"coordinates":[-91.998724,30.223963],"type":"Point"}
+}

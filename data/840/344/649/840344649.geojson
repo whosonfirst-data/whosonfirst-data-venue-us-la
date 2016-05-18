@@ -1,0 +1,73 @@
+{
+  "id": 840344649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.20979,30.203384,-93.20979,30.203384",
+    "geom:latitude":30.203384,
+    "geom:longitude":-93.20979,
+    "iso:country":"US",
+    "sg:address":"2801 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 430 0330",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rUoKD4CO96AIBxcnJdCwR_30.203384_-93.209790@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528636,
+    "wof:geomhash":"bd6aaf432eb2fcbba29d3eab03090f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840344649
+        }
+    ],
+    "wof:id":840344649,
+    "wof:lastmodified":1463528636,
+    "wof:name":"Old Town Tavern",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -93.20979,
+    30.203384,
+    -93.20979,
+    30.203384
+],
+  "geometry": {"coordinates":[-93.20979,30.203384],"type":"Point"}
+}

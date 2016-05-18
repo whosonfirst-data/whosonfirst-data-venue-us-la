@@ -1,0 +1,75 @@
+{
+  "id": 840308701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.088496,29.964126,-90.088496,29.964126",
+    "geom:latitude":29.964126,
+    "geom:longitude":-90.088496,
+    "iso:country":"US",
+    "sg:address":"200 S Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 821 4222",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JvfAKAF70zBoe5ixB3HVa_29.964126_-90.088496@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526927,
+    "wof:geomhash":"de3407d744b0f20093d7017bc26c8b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840308701
+        }
+    ],
+    "wof:id":840308701,
+    "wof:lastmodified":1463526927,
+    "wof:name":"Medley Mc Kenna Eye Clinic",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.088496,
+    29.964126,
+    -90.088496,
+    29.964126
+],
+  "geometry": {"coordinates":[-90.08849600000001,29.964126],"type":"Point"}
+}

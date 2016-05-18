@@ -1,0 +1,72 @@
+{
+  "id": 840453721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.456843,30.482917,-90.456843,30.482917",
+    "geom:latitude":30.482917,
+    "geom:longitude":-90.456843,
+    "iso:country":"US",
+    "sg:address":"1977 SW Railroad Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hammond/208609-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 549 0034",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kIfSE4ZYC6Ive6NUBK5wO_30.482917_-90.456843@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533458,
+    "wof:geomhash":"1ed3ccce96a2dce8699b19710a7aa31c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840453721
+        }
+    ],
+    "wof:id":840453721,
+    "wof:lastmodified":1463533458,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.456843,
+    30.482917,
+    -90.456843,
+    30.482917
+],
+  "geometry": {"coordinates":[-90.45684300000001,30.482917],"type":"Point"}
+}

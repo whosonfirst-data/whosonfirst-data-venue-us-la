@@ -1,0 +1,71 @@
+{
+  "id": 840342197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.101082,30.203252,-92.101082,30.203252",
+    "geom:latitude":30.203252,
+    "geom:longitude":-92.101082,
+    "iso:country":"US",
+    "sg:address":"307 Scotsdale St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 4004",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lws1lgKny2Nc7rfrE33sW_30.203252_-92.101082@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528516,
+    "wof:geomhash":"92fb035b52c32a24332fdfcc35166859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840342197
+        }
+    ],
+    "wof:id":840342197,
+    "wof:lastmodified":1463528516,
+    "wof:name":"Stephen's Cleaning Svc",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -92.101082,
+    30.203252,
+    -92.101082,
+    30.203252
+],
+  "geometry": {"coordinates":[-92.10108200000001,30.203252],"type":"Point"}
+}

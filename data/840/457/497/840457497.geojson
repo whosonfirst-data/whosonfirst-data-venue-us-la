@@ -1,0 +1,74 @@
+{
+  "id": 840457497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.074997,30.183122,-92.074997,30.183122",
+    "geom:latitude":30.183122,
+    "geom:longitude":-92.074997,
+    "iso:country":"US",
+    "sg:address":"3226 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/carencro/156931-whataburger/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 2265",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wVLtL13bNlHxYDIpJ7DOG_30.182880_-92.075040@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533596,
+    "wof:geomhash":"861119b4e5770c690db7e18ee6685755",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840457497
+        }
+    ],
+    "wof:id":840457497,
+    "wof:lastmodified":1463533596,
+    "wof:name":"Whataburger",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.074997,
+    30.183122,
+    -92.074997,
+    30.183122
+],
+  "geometry": {"coordinates":[-92.074997,30.183122],"type":"Point"}
+}

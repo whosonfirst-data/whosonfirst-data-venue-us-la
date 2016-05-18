@@ -1,0 +1,73 @@
+{
+  "id": 840351009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.035777,30.008219,-90.035777,30.008219",
+    "geom:latitude":30.008219,
+    "geom:longitude":-90.035777,
+    "iso:country":"US",
+    "sg:address":"4724 Mark Twain Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 283 3338",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33MMEUETZMnl22lVv5EY9F_30.008219_-90.035777@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528958,
+    "wof:geomhash":"c90a2bec5bd13574c50aace321a06fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":840351009
+        }
+    ],
+    "wof:id":840351009,
+    "wof:lastmodified":1463528958,
+    "wof:name":"A & A Upholstery",
+    "wof:parent_id":85821299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -90.035777,
+    30.008219,
+    -90.035777,
+    30.008219
+],
+  "geometry": {"coordinates":[-90.035777,30.008219],"type":"Point"}
+}

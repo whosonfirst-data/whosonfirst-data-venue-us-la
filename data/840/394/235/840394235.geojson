@@ -1,0 +1,71 @@
+{
+  "id": 840394235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.262029,31.142709,-93.262029,31.142709",
+    "geom:latitude":31.142709,
+    "geom:longitude":-93.262029,
+    "iso:country":"US",
+    "sg:address":"100 E Courthouse St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 1311",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PB1kWJ6J8Mzun81AVlOTD_31.142709_-93.262029@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530989,
+    "wof:geomhash":"994a8835a77bd1be738983982a3c19be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840394235
+        }
+    ],
+    "wof:id":840394235,
+    "wof:lastmodified":1463530989,
+    "wof:name":"Sheriff's Office",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -93.262029,
+    31.142709,
+    -93.262029,
+    31.142709
+],
+  "geometry": {"coordinates":[-93.262029,31.142709],"type":"Point"}
+}

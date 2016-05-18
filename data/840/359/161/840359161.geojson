@@ -1,0 +1,78 @@
+{
+  "id": 840359161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.075315,29.930471,-90.075315,29.930471",
+    "geom:latitude":29.930471,
+    "geom:longitude":-90.075315,
+    "iso:country":"US",
+    "sg:address":"2038 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 568 1020",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51Ut0ykVuq84Dm0q1XZGzm_29.930471_-90.075315@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529347,
+    "wof:geomhash":"e814ec8647b9a64df4cfe3def90a9226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840359161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840359161
+        }
+    ],
+    "wof:id":840359161,
+    "wof:lastmodified":1463529347,
+    "wof:name":"Winky's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.075315,
+    29.930471,
+    -90.075315,
+    29.930471
+],
+  "geometry": {"coordinates":[-90.075315,29.930471],"type":"Point"}
+}

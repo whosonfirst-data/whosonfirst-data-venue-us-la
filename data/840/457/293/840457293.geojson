@@ -1,0 +1,76 @@
+{
+  "id": 840457293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.05854,30.000273,-90.05854,30.000273",
+    "geom:latitude":30.000273,
+    "geom:longitude":-90.05854,
+    "iso:country":"US",
+    "sg:address":"3221 Gentilly Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/96894-wing-zone/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 3131",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52LkJbY790o5YTY1TFkFoK_30.000145_-90.058818@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533589,
+    "wof:geomhash":"c46a1b0376dd2f228d6c1752e81c6ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821297,
+            "region_id":85688735,
+            "venue_id":840457293
+        }
+    ],
+    "wof:id":840457293,
+    "wof:lastmodified":1463533589,
+    "wof:name":"Wing Zone",
+    "wof:parent_id":85821297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -90.05854,
+    30.000273,
+    -90.05854,
+    30.000273
+],
+  "geometry": {"coordinates":[-90.05853999999999,30.000273],"type":"Point"}
+}

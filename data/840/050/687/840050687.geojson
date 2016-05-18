@@ -1,0 +1,73 @@
+{
+  "id": 840050687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.230353,30.215074,-93.230353,30.215074",
+    "geom:latitude":30.215074,
+    "geom:longitude":-93.230353,
+    "iso:country":"US",
+    "sg:address":"643 S Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 0262",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_060XiL0dmWPSdYbs84z5oB_30.215074_-93.230353@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520062,
+    "wof:geomhash":"056b3da89c55c7c90668c5b50fcfedff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840050687
+        }
+    ],
+    "wof:id":840050687,
+    "wof:lastmodified":1463520062,
+    "wof:name":"Paul E Mayes MD",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.230353,
+    30.215074,
+    -93.230353,
+    30.215074
+],
+  "geometry": {"coordinates":[-93.23035299999999,30.215074],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840269995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.077475,29.962581,-90.077475,29.962581",
+    "geom:latitude":29.962581,
+    "geom:longitude":-90.077475,
+    "iso:country":"US",
+    "sg:address":"326 N Roman St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 299 9709",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02SkImT9KtaYEkkDJJqWkh_29.962581_-90.077475@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525182,
+    "wof:geomhash":"7bc074d8a00627e4674ac2eb786d238b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866071,
+            "region_id":85688735,
+            "venue_id":840269995
+        }
+    ],
+    "wof:id":840269995,
+    "wof:lastmodified":1463525182,
+    "wof:name":"Summer Store",
+    "wof:parent_id":85866071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.077475,
+    29.962581,
+    -90.077475,
+    29.962581
+],
+  "geometry": {"coordinates":[-90.07747500000001,29.962581],"type":"Point"}
+}

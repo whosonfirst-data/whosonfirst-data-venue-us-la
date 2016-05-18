@@ -1,0 +1,71 @@
+{
+  "id": 840304567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.805319,30.004875,-91.805319,30.004875",
+    "geom:latitude":30.004875,
+    "geom:longitude":-91.805319,
+    "iso:country":"US",
+    "sg:address":"307 Ernest St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 8474",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47VEcNF0m092WsvWxk8Fwz_30.004875_-91.805319@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526745,
+    "wof:geomhash":"d039d1f059cd46d4fab63b6b8bda0094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840304567
+        }
+    ],
+    "wof:id":840304567,
+    "wof:lastmodified":1463526745,
+    "wof:name":"Pats Auto Repair",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.805319,
+    30.004875,
+    -91.805319,
+    30.004875
+],
+  "geometry": {"coordinates":[-91.805319,30.004875],"type":"Point"}
+}

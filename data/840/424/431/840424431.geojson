@@ -1,0 +1,71 @@
+{
+  "id": 840424431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.450281,31.285759,-92.450281,31.285759",
+    "geom:latitude":31.285759,
+    "geom:longitude":-92.450281,
+    "iso:country":"US",
+    "sg:address":"1617 Branch St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 561 2271",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34ieF0n2sEC5GvldDBG6IB_31.285759_-92.450281@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532211,
+    "wof:geomhash":"0456715092cfc900e5c4c856527b9cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840424431
+        }
+    ],
+    "wof:id":840424431,
+    "wof:lastmodified":1463532211,
+    "wof:name":"A Limo 4U",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -92.450281,
+    31.285759,
+    -92.450281,
+    31.285759
+],
+  "geometry": {"coordinates":[-92.450281,31.285759],"type":"Point"}
+}

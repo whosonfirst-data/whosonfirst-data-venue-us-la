@@ -1,0 +1,71 @@
+{
+  "id": 840115889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.501752,29.791044,-91.501752,29.791044",
+    "geom:latitude":29.791044,
+    "geom:longitude":-91.501752,
+    "iso:country":"US",
+    "sg:address":"319 Willow St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 6303",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6seoi0cyI9kKvLKWK6vv7d_29.791044_-91.501752@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521552,
+    "wof:geomhash":"a079f4f767def09a6c3ea8df670896d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840115889
+        }
+    ],
+    "wof:id":840115889,
+    "wof:lastmodified":1463521552,
+    "wof:name":"Franklin City Clerk",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.501752,
+    29.791044,
+    -91.501752,
+    29.791044
+],
+  "geometry": {"coordinates":[-91.501752,29.791044],"type":"Point"}
+}

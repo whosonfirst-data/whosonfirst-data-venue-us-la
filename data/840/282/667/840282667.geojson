@@ -1,0 +1,72 @@
+{
+  "id": 840282667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.072979,30.179793,-92.072979,30.179793",
+    "geom:latitude":30.179793,
+    "geom:longitude":-92.072979,
+    "iso:country":"US",
+    "sg:address":"5530 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 4400",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fHlGoNyHZ4krKUeAaH3Bk_30.179793_-92.072979@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525743,
+    "wof:geomhash":"dc49c8b44e77640eb9aae467928f6b86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840282667
+        }
+    ],
+    "wof:id":840282667,
+    "wof:lastmodified":1463525743,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.072979,
+    30.179793,
+    -92.072979,
+    30.179793
+],
+  "geometry": {"coordinates":[-92.072979,30.179793],"type":"Point"}
+}

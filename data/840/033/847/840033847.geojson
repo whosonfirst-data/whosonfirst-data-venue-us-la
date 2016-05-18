@@ -1,0 +1,75 @@
+{
+  "id": 840033847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.002567,30.213333,-92.002567,30.213333",
+    "geom:latitude":30.213333,
+    "geom:longitude":-92.002567,
+    "iso:country":"US",
+    "sg:address":"500 Guidry St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 0066",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OOumDt7aQRlw1lCCpimyF_30.213333_-92.002567@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519711,
+    "wof:geomhash":"174d7015e33bd3c51a4bf77e87a3d363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840033847
+        }
+    ],
+    "wof:id":840033847,
+    "wof:lastmodified":1463519711,
+    "wof:name":"Recycling Foundation",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -92.002567,
+    30.213333,
+    -92.002567,
+    30.213333
+],
+  "geometry": {"coordinates":[-92.002567,30.213333],"type":"Point"}
+}

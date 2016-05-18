@@ -1,0 +1,71 @@
+{
+  "id": 840059369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.814591,30.045759,-91.814591,30.045759",
+    "geom:latitude":30.045759,
+    "geom:longitude":-91.814591,
+    "iso:country":"US",
+    "sg:address":"2714 Jane St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 560 9165",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aWZ9lWRNTw0KT27RHisyZ_30.045759_-91.814591@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520258,
+    "wof:geomhash":"1dfa17d00def598c71d3823e86c51a59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840059369
+        }
+    ],
+    "wof:id":840059369,
+    "wof:lastmodified":1463520258,
+    "wof:name":"Blanchard Custom Upholstery",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.814591,
+    30.045759,
+    -91.814591,
+    30.045759
+],
+  "geometry": {"coordinates":[-91.81459099999999,30.045759],"type":"Point"}
+}

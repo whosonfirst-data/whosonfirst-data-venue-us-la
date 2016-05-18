@@ -1,0 +1,73 @@
+{
+  "id": 840098631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.510517,30.723886,-90.510517,30.723886",
+    "geom:latitude":30.723886,
+    "geom:longitude":-90.510517,
+    "iso:country":"US",
+    "sg:address":"301 S 1st St",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 747 8587",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yveAIwzpC9nv4SqQEVqPR_30.723886_-90.510517@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521184,
+    "wof:geomhash":"14c456b1526519b6ffdaf7c4ecd09740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840098631
+        }
+    ],
+    "wof:id":840098631,
+    "wof:lastmodified":1463521184,
+    "wof:name":"Grand Prix Car Wash",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.510517,
+    30.723886,
+    -90.510517,
+    30.723886
+],
+  "geometry": {"coordinates":[-90.51051699999999,30.723886],"type":"Point"}
+}

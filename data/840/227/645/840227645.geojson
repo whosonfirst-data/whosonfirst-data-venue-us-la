@@ -1,0 +1,83 @@
+{
+  "id": 840227645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.058032,30.464701,-91.058032,30.464701",
+    "geom:latitude":30.464701,
+    "geom:longitude":-91.058032,
+    "iso:country":"US",
+    "sg:address":"1710 N Sherwood Forest Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 275 0483",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85838033,
+        85819973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fTwbYgU5SOyCUrfSlI4OL_30.464701_-91.058032@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524031,
+    "wof:geomhash":"e0d8f47ad39e6fc7487a1498e7f1b146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85838033,
+            "region_id":85688735,
+            "venue_id":840227645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85819973,
+            "region_id":85688735,
+            "venue_id":840227645
+        }
+    ],
+    "wof:id":840227645,
+    "wof:lastmodified":1463524031,
+    "wof:name":"Jasmine Food Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.058032,
+    30.464701,
+    -91.058032,
+    30.464701
+],
+  "geometry": {"coordinates":[-91.058032,30.464701],"type":"Point"}
+}

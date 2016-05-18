@@ -1,0 +1,73 @@
+{
+  "id": 840390173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.011117,30.24195,-93.011117,30.24195",
+    "geom:latitude":30.24195,
+    "geom:longitude":-93.011117,
+    "iso:country":"US",
+    "sg:address":"309 N Lightner Ave",
+    "sg:city":"Iowa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 582 7423",
+    "sg:postcode":"70647",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KU5dxIqMCSeKk8EBQhtkz_30.241950_-93.011117@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530814,
+    "wof:geomhash":"c02447bd905a2e8097feaa12abd28868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840390173
+        }
+    ],
+    "wof:id":840390173,
+    "wof:lastmodified":1463530814,
+    "wof:name":"Quality Plumbing",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.011117,
+    30.24195,
+    -93.011117,
+    30.24195
+],
+  "geometry": {"coordinates":[-93.011117,30.24195],"type":"Point"}
+}

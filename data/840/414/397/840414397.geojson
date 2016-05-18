@@ -1,0 +1,73 @@
+{
+  "id": 840414397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.458186,31.279583,-92.458186,31.279583",
+    "geom:latitude":31.279583,
+    "geom:longitude":-92.458186,
+    "iso:country":"US",
+    "sg:address":"2200 Memorial Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 445 4300",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cro5XE3XD5QyPoUXTWUup_31.279583_-92.458186@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531796,
+    "wof:geomhash":"34a1fb6a67eb32ed0bd7b2e55ad75b28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840414397
+        }
+    ],
+    "wof:id":840414397,
+    "wof:lastmodified":1463531796,
+    "wof:name":"Summit Retirement Ctr",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -92.458186,
+    31.279583,
+    -92.458186,
+    31.279583
+],
+  "geometry": {"coordinates":[-92.458186,31.279583],"type":"Point"}
+}

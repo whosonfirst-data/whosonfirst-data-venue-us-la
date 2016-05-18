@@ -1,0 +1,71 @@
+{
+  "id": 840421871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.304194,29.673105,-91.304194,29.673105",
+    "geom:latitude":29.673105,
+    "geom:longitude":-91.304194,
+    "iso:country":"US",
+    "sg:address":"502 Henry St",
+    "sg:city":"Patterson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 9851",
+    "sg:postcode":"70392",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11lhgXNW0n5JIfrwuZTgvE_29.673105_-91.304194@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532111,
+    "wof:geomhash":"229344557dd7a1786d935bb10e1cb62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840421871
+        }
+    ],
+    "wof:id":840421871,
+    "wof:lastmodified":1463532111,
+    "wof:name":"Crews Construction",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.304194,
+    29.673105,
+    -91.304194,
+    29.673105
+],
+  "geometry": {"coordinates":[-91.304194,29.673105],"type":"Point"}
+}

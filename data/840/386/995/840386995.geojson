@@ -1,0 +1,73 @@
+{
+  "id": 840386995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.439873,30.451756,-93.439873,30.451756",
+    "geom:latitude":30.451756,
+    "geom:longitude":-93.439873,
+    "iso:country":"US",
+    "sg:address":"215 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 8798",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FyL4HOHstlKPYNGddPA9O_30.451756_-93.439873@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530670,
+    "wof:geomhash":"b0ea7593d8e7808e8294ddaab72f13c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840386995
+        }
+    ],
+    "wof:id":840386995,
+    "wof:lastmodified":1463530670,
+    "wof:name":"Quick Lube",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -93.439873,
+    30.451756,
+    -93.439873,
+    30.451756
+],
+  "geometry": {"coordinates":[-93.43987300000001,30.451756],"type":"Point"}
+}

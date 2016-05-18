@@ -1,0 +1,71 @@
+{
+  "id": 840380007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.48098,29.805408,-91.48098,29.805408",
+    "geom:latitude":29.805408,
+    "geom:longitude":-91.48098,
+    "iso:country":"US",
+    "sg:address":"1234 Irish Bend Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 7477",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fan5WMJ8keICUyWUOPDCc_29.805408_-91.480980@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530348,
+    "wof:geomhash":"132d610bd077143516d520128e132081",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840380007
+        }
+    ],
+    "wof:id":840380007,
+    "wof:lastmodified":1463530348,
+    "wof:name":"St Jospeh Baptist Church",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.48098,
+    29.805408,
+    -91.48098,
+    29.805408
+],
+  "geometry": {"coordinates":[-91.48098,29.805408],"type":"Point"}
+}

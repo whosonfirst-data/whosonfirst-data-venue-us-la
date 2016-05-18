@@ -1,0 +1,72 @@
+{
+  "id": 840457013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.267711,31.125483,-93.267711,31.125483",
+    "geom:latitude":31.125483,
+    "geom:longitude":-93.267711,
+    "iso:country":"US",
+    "sg:address":"1802 S 5th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/north-fort-polk/208628-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 0097",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BY5tsFUsZlKwrC9SlEA3o_31.125483_-93.267711@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533574,
+    "wof:geomhash":"92a3cc7a1871938575f93d79beb78cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840457013
+        }
+    ],
+    "wof:id":840457013,
+    "wof:lastmodified":1463533574,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.267711,
+    31.125483,
+    -93.267711,
+    31.125483
+],
+  "geometry": {"coordinates":[-93.26771100000001,31.125483],"type":"Point"}
+}

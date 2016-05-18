@@ -1,0 +1,75 @@
+{
+  "id": 840195815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.995399,30.221645,-91.995399,30.221645",
+    "geom:latitude":30.221645,
+    "geom:longitude":-91.995399,
+    "iso:country":"US",
+    "sg:address":"1319 Surrey St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 1503",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2puYGBqTRmp25LyNmqw5I3_30.221645_-91.995399@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523238,
+    "wof:geomhash":"72e24652ec375bfb33b12ed50cfbe2d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840195815
+        }
+    ],
+    "wof:id":840195815,
+    "wof:lastmodified":1463523238,
+    "wof:name":"Keller's Auto Svc Ctr",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.995399,
+    30.221645,
+    -91.995399,
+    30.221645
+],
+  "geometry": {"coordinates":[-91.99539900000001,30.221645],"type":"Point"}
+}

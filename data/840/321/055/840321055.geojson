@@ -1,0 +1,71 @@
+{
+  "id": 840321055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.819466,29.974242,-91.819466,29.974242",
+    "geom:latitude":29.974242,
+    "geom:longitude":-91.819466,
+    "iso:country":"US",
+    "sg:address":"1303 J Allen Daigre Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 2340",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38qp2fb79GZG2ApvnU89Yt_29.974242_-91.819466@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527503,
+    "wof:geomhash":"5d0eddc748cf33e0fb228420915b2485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840321055
+        }
+    ],
+    "wof:id":840321055,
+    "wof:lastmodified":1463527503,
+    "wof:name":"Police Maintenance Shop",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.819466,
+    29.974242,
+    -91.819466,
+    29.974242
+],
+  "geometry": {"coordinates":[-91.81946600000001,29.974242],"type":"Point"}
+}

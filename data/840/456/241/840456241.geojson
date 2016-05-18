@@ -1,0 +1,75 @@
+{
+  "id": 840456241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.719719,32.555164,-93.719719,32.555164",
+    "geom:latitude":32.555164,
+    "geom:longitude":-93.719719,
+    "iso:country":"US",
+    "sg:address":"2571 Viking Dr",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/vanceville/188282-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71111",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85822769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FudHcl0QfDIxCMCyR0PWT_32.555164_-93.719719@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533547,
+    "wof:geomhash":"78fd98e15b635c3b14eb1cb125ae6872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85822769,
+            "region_id":85688735,
+            "venue_id":840456241
+        }
+    ],
+    "wof:id":840456241,
+    "wof:lastmodified":1463533547,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85822769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.719719,
+    32.555164,
+    -93.719719,
+    32.555164
+],
+  "geometry": {"coordinates":[-93.719719,32.555164],"type":"Point"}
+}

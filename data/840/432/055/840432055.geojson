@@ -1,0 +1,71 @@
+{
+  "id": 840432055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.508182,31.550579,-93.508182,31.550579",
+    "geom:latitude":31.550579,
+    "geom:longitude":-93.508182,
+    "iso:country":"US",
+    "sg:address":"1725 Texas Hwy",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 9683",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qMBBvrZUFhODO34WP6FqB_31.550579_-93.508182@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532542,
+    "wof:geomhash":"18affdfb553ac02cb46987110e4d2b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840432055
+        }
+    ],
+    "wof:id":840432055,
+    "wof:lastmodified":1463532542,
+    "wof:name":"Many Gear & Axle",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -93.508182,
+    31.550579,
+    -93.508182,
+    31.550579
+],
+  "geometry": {"coordinates":[-93.50818200000001,31.550579],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840451685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.970901,29.9454,-89.970901,29.9454",
+    "geom:latitude":29.9454,
+    "geom:longitude":-89.970901,
+    "iso:country":"US",
+    "sg:address":"1021 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 6312",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65vogpH54cURkWGxlC9Vq4_29.945417_-89.970657@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533371,
+    "wof:geomhash":"b97646af5aeb0dbabf1125881b0e37e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840451685
+        }
+    ],
+    "wof:id":840451685,
+    "wof:lastmodified":1463533371,
+    "wof:name":"Mumfrey's Pharmacy",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -89.970901,
+    29.9454,
+    -89.970901,
+    29.9454
+],
+  "geometry": {"coordinates":[-89.970901,29.9454],"type":"Point"}
+}

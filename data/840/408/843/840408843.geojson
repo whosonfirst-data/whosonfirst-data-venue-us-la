@@ -1,0 +1,73 @@
+{
+  "id": 840408843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.782494,32.415022,-93.782494,32.415022",
+    "geom:latitude":32.415022,
+    "geom:longitude":-93.782494,
+    "iso:country":"US",
+    "sg:address":"1874 Shady Ln",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 688 2333",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tYf0pch0x6yOdjGxI8yHK_32.415022_-93.782494@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531579,
+    "wof:geomhash":"92e9623ba465fae42f9fa0fbffbe5be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840408843
+        }
+    ],
+    "wof:id":840408843,
+    "wof:lastmodified":1463531579,
+    "wof:name":"AM Coffee Svc",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -93.782494,
+    32.415022,
+    -93.782494,
+    32.415022
+],
+  "geometry": {"coordinates":[-93.782494,32.415022],"type":"Point"}
+}

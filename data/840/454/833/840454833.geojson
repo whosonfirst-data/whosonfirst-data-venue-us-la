@@ -1,0 +1,74 @@
+{
+  "id": 840454833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376157,30.210611,-93.376157,30.210611",
+    "geom:latitude":30.210611,
+    "geom:longitude":-93.376157,
+    "iso:country":"US",
+    "sg:address":"2720 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/sulphur/201469-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 5370",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L7fBQXonYNcnnRi7aVtdE_30.210611_-93.376157@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533498,
+    "wof:geomhash":"261aecd3f3f96cffe00b1c59abfce0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454833
+        }
+    ],
+    "wof:id":840454833,
+    "wof:lastmodified":1463533498,
+    "wof:name":"Sonic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.376157,
+    30.210611,
+    -93.376157,
+    30.210611
+],
+  "geometry": {"coordinates":[-93.37615700000001,30.210611],"type":"Point"}
+}

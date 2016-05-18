@@ -1,0 +1,73 @@
+{
+  "id": 840397079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.826748,29.995526,-91.826748,29.995526",
+    "geom:latitude":29.995526,
+    "geom:longitude":-91.826748,
+    "iso:country":"US",
+    "sg:address":"1006 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 4823",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rI7XrKjgSmg1StQWnAbIb_29.995526_-91.826748@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531097,
+    "wof:geomhash":"ba76ba890208dfa9a271dcdb6bd73447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840397079
+        }
+    ],
+    "wof:id":840397079,
+    "wof:lastmodified":1463531097,
+    "wof:name":"Iberia Animal Clinic",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -91.826748,
+    29.995526,
+    -91.826748,
+    29.995526
+],
+  "geometry": {"coordinates":[-91.82674799999999,29.995526],"type":"Point"}
+}

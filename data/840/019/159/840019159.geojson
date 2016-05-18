@@ -1,0 +1,73 @@
+{
+  "id": 840019159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249307,30.180761,-93.249307,30.180761",
+    "geom:latitude":30.180761,
+    "geom:longitude":-93.249307,
+    "iso:country":"US",
+    "sg:address":"4150 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 0653",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oBGjDcMkWZoB5Qt0yqPOT_30.180761_-93.249307@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519386,
+    "wof:geomhash":"09b6c0f507abb0fc3ce228c0867661fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840019159
+        }
+    ],
+    "wof:id":840019159,
+    "wof:lastmodified":1463519386,
+    "wof:name":"Stanley R Kordisch MD",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.249307,
+    30.180761,
+    -93.249307,
+    30.180761
+],
+  "geometry": {"coordinates":[-93.249307,30.180761],"type":"Point"}
+}

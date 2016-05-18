@@ -1,0 +1,71 @@
+{
+  "id": 840390803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.326494,30.227698,-93.326494,30.227698",
+    "geom:latitude":30.227698,
+    "geom:longitude":-93.326494,
+    "iso:country":"US",
+    "sg:address":"4042 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 4441",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UVlqA7Gv6ClP6ly6hzXyb_30.227698_-93.326494@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530838,
+    "wof:geomhash":"53c1c882e67b3eeb163f0a6cf4a25069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840390803
+        }
+    ],
+    "wof:id":840390803,
+    "wof:lastmodified":1463530838,
+    "wof:name":"Perfect Nails",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -93.326494,
+    30.227698,
+    -93.326494,
+    30.227698
+],
+  "geometry": {"coordinates":[-93.326494,30.227698],"type":"Point"}
+}

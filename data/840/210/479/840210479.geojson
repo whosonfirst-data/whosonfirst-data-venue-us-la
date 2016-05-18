@@ -1,0 +1,71 @@
+{
+  "id": 840210479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.968178,29.955648,-89.968178,29.955648",
+    "geom:latitude":29.955648,
+    "geom:longitude":-89.968178,
+    "iso:country":"US",
+    "sg:address":"9011 Patricia St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 278 2323",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30RxnlttqxxyvVHKqUsHtW_29.955648_-89.968178@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523634,
+    "wof:geomhash":"0f1565c63fd09225888d0a0dafc760ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840210479
+        }
+    ],
+    "wof:id":840210479,
+    "wof:lastmodified":1463523634,
+    "wof:name":"RTC Providers Inc",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -89.968178,
+    29.955648,
+    -89.968178,
+    29.955648
+],
+  "geometry": {"coordinates":[-89.96817799999999,29.955648],"type":"Point"}
+}

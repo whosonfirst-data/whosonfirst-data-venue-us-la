@@ -1,0 +1,74 @@
+{
+  "id": 840184491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.067084,30.183927,-92.067084,30.183927",
+    "geom:latitude":30.183927,
+    "geom:longitude":-92.067084,
+    "iso:country":"US",
+    "sg:address":"104 Genevieve Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 0110",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.manuelallergycenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PsyEOLpA0NOkfyQ3uHHx4_30.183927_-92.067084@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523006,
+    "wof:geomhash":"dadd5be13f14f41e60e2eeb014a86a16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840184491
+        }
+    ],
+    "wof:id":840184491,
+    "wof:lastmodified":1463523006,
+    "wof:name":"Manuel Allergy Clinic",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.067084,
+    30.183927,
+    -92.067084,
+    30.183927
+],
+  "geometry": {"coordinates":[-92.06708399999999,30.183927],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 840278863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.07144,29.933904,-90.07144,29.933904",
+    "geom:latitude":29.933904,
+    "geom:longitude":-90.07144,
+    "iso:country":"US",
+    "sg:address":"1523 Constance St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 2179",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DsEmMZTyT7s2nR9znNqYB_29.933904_-90.071440@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525570,
+    "wof:geomhash":"a166e8f52bf069913f0b462db8bd4d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840278863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840278863
+        }
+    ],
+    "wof:id":840278863,
+    "wof:lastmodified":1463525570,
+    "wof:name":"Volunteers Of America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.07144,
+    29.933904,
+    -90.07144,
+    29.933904
+],
+  "geometry": {"coordinates":[-90.07144,29.933904],"type":"Point"}
+}

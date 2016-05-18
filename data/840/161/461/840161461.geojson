@@ -1,0 +1,73 @@
+{
+  "id": 840161461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.860329,32.477559,-93.860329,32.477559",
+    "geom:latitude":32.477559,
+    "geom:longitude":-93.860329,
+    "iso:country":"US",
+    "sg:address":"5800 Jefferson Paige Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 631 7417",
+    "sg:postcode":"71119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85857989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vjffx85F2UFYeIinghkBP_32.477559_-93.860329@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522474,
+    "wof:geomhash":"f2717b01362d13f17299566cc9fe1158",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85857989,
+            "region_id":85688735,
+            "venue_id":840161461
+        }
+    ],
+    "wof:id":840161461,
+    "wof:lastmodified":1463522474,
+    "wof:name":"Shreveport Electric",
+    "wof:parent_id":85857989,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.860329,
+    32.477559,
+    -93.860329,
+    32.477559
+],
+  "geometry": {"coordinates":[-93.86032899999999,32.477559],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840172741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.571262,30.192097,-93.571262,30.192097",
+    "geom:latitude":30.192097,
+    "geom:longitude":-93.571262,
+    "iso:country":"US",
+    "sg:address":"1214 Mc Cormick St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 7373",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IShmAWeTRIwedEFFotUsC_30.192097_-93.571262@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522745,
+    "wof:geomhash":"54cd317c71bd25446b3ceddaadb73caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840172741
+        }
+    ],
+    "wof:id":840172741,
+    "wof:lastmodified":1463522745,
+    "wof:name":"Prestwood's Garage",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.571262,
+    30.192097,
+    -93.571262,
+    30.192097
+],
+  "geometry": {"coordinates":[-93.571262,30.192097],"type":"Point"}
+}

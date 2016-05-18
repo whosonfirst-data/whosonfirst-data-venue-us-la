@@ -1,0 +1,71 @@
+{
+  "id": 840386235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.109627,32.486398,-92.109627,32.486398",
+    "geom:latitude":32.486398,
+    "geom:longitude":-92.109627,
+    "iso:country":"US",
+    "sg:address":"1805 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 651 0041",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mAv3MV6Jx9JFwZGNMlZEm_32.486398_-92.109627@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530644,
+    "wof:geomhash":"960a26d8215577a062103f14a29773f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840386235
+        }
+    ],
+    "wof:id":840386235,
+    "wof:lastmodified":1463530644,
+    "wof:name":"Primary Health Svc Ctr",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.109627,
+    32.486398,
+    -92.109627,
+    32.486398
+],
+  "geometry": {"coordinates":[-92.109627,32.486398],"type":"Point"}
+}

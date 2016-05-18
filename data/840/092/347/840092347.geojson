@@ -1,0 +1,73 @@
+{
+  "id": 840092347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.271175,31.140544,-93.271175,31.140544",
+    "geom:latitude":31.140544,
+    "geom:longitude":-93.271175,
+    "iso:country":"US",
+    "sg:address":"931 Verone Ter",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 392 1994",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dvRURdogrjHPcTyeBpAN4_31.140544_-93.271175@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521066,
+    "wof:geomhash":"d5ddff21370609e8a39bab46066a387f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840092347
+        }
+    ],
+    "wof:id":840092347,
+    "wof:lastmodified":1463521066,
+    "wof:name":"Alexandria Eye & Laser Ctr",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.271175,
+    31.140544,
+    -93.271175,
+    31.140544
+],
+  "geometry": {"coordinates":[-93.271175,31.140544],"type":"Point"}
+}

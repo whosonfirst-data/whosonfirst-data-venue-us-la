@@ -1,0 +1,71 @@
+{
+  "id": 840328205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.333834,30.227638,-93.333834,30.227638",
+    "geom:latitude":30.227638,
+    "geom:longitude":-93.333834,
+    "iso:country":"US",
+    "sg:address":"3704 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 1444",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pfKuiAjsdosUGQ6AysEOi_30.227638_-93.333834@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527866,
+    "wof:geomhash":"a25ff83e00ba5c6c9760861a5cabff42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840328205
+        }
+    ],
+    "wof:id":840328205,
+    "wof:lastmodified":1463527866,
+    "wof:name":"James E Pollard DDS",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.333834,
+    30.227638,
+    -93.333834,
+    30.227638
+],
+  "geometry": {"coordinates":[-93.333834,30.227638],"type":"Point"}
+}

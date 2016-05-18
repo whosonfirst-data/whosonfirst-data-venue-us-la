@@ -1,0 +1,70 @@
+{
+  "id": 840291627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.026928,30.367459,-91.026928,30.367459",
+    "geom:latitude":30.367459,
+    "geom:longitude":-91.026928,
+    "iso:country":"US",
+    "sg:address":"14431 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 389 5114",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "sg:website":"www.ebrso.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IdQXgzQbdos5vaLk2w0NH_30.367459_-91.026928@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526136,
+    "wof:geomhash":"5e4fb91453a5c787586fdeea047149cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840291627
+        }
+    ],
+    "wof:id":840291627,
+    "wof:lastmodified":1463526136,
+    "wof:name":"East Baton Rouge Sheriff's Ofc",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -91.026928,
+    30.367459,
+    -91.026928,
+    30.367459
+],
+  "geometry": {"coordinates":[-91.026928,30.367459],"type":"Point"}
+}

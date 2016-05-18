@@ -1,0 +1,73 @@
+{
+  "id": 840331289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.956301,29.956979,-89.956301,29.956979",
+    "geom:latitude":29.956979,
+    "geom:longitude":-89.956301,
+    "iso:country":"US",
+    "sg:address":"3909 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 6621",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zdkg6JEA4i5HHNnppZcFc_29.956979_-89.956301@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528004,
+    "wof:geomhash":"26945e20f38c1b98bb6a1f01e6762703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840331289
+        }
+    ],
+    "wof:id":840331289,
+    "wof:lastmodified":1463528004,
+    "wof:name":"D & J Automotive & Heavy Truck",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.956301,
+    29.956979,
+    -89.956301,
+    29.956979
+],
+  "geometry": {"coordinates":[-89.956301,29.956979],"type":"Point"}
+}

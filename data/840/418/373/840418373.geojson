@@ -1,0 +1,73 @@
+{
+  "id": 840418373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.101568,32.4819,-92.101568,32.4819",
+    "geom:latitude":32.4819,
+    "geom:longitude":-92.101568,
+    "iso:country":"US",
+    "sg:address":"306 Winnsboro Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 329 1386",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pBnbw1jzp7fBTxBkG8OMN_32.481900_-92.101568@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531960,
+    "wof:geomhash":"2b4d0f96a123d163950017a9b626ddcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840418373
+        }
+    ],
+    "wof:id":840418373,
+    "wof:lastmodified":1463531960,
+    "wof:name":"Monroe Housing Authority",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -92.101568,
+    32.4819,
+    -92.101568,
+    32.4819
+],
+  "geometry": {"coordinates":[-92.101568,32.4819],"type":"Point"}
+}

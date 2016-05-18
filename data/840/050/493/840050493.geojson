@@ -1,0 +1,73 @@
+{
+  "id": 840050493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.500148,29.792721,-91.500148,29.792721",
+    "geom:latitude":29.792721,
+    "geom:longitude":-91.500148,
+    "iso:country":"US",
+    "sg:address":"106 Commercial St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 0921",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KzLOBXfDP9JsivBIDtQXC_29.792721_-91.500148@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520059,
+    "wof:geomhash":"223788d4d76c6d49820ec08fcd1c9c00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840050493
+        }
+    ],
+    "wof:id":840050493,
+    "wof:lastmodified":1463520059,
+    "wof:name":"Emergency Aid Ctr",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -91.500148,
+    29.792721,
+    -91.500148,
+    29.792721
+],
+  "geometry": {"coordinates":[-91.500148,29.792721],"type":"Point"}
+}

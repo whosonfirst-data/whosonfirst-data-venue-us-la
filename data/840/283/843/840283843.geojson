@@ -1,0 +1,71 @@
+{
+  "id": 840283843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.056662,30.205664,-92.056662,30.205664",
+    "geom:latitude":30.205664,
+    "geom:longitude":-92.056662,
+    "iso:country":"US",
+    "sg:address":"304 Arnould Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 2568",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dt6dxjLBOKPN2FdSFH6sl_30.205664_-92.056662@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525794,
+    "wof:geomhash":"22691ea4e77e31f36450f95b8f443d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840283843
+        }
+    ],
+    "wof:id":840283843,
+    "wof:lastmodified":1463525794,
+    "wof:name":"Helen's Limousines",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -92.056662,
+    30.205664,
+    -92.056662,
+    30.205664
+],
+  "geometry": {"coordinates":[-92.056662,30.205664],"type":"Point"}
+}

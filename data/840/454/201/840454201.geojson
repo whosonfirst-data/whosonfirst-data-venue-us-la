@@ -1,0 +1,76 @@
+{
+  "id": 840454201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.012036,30.227695,-92.012036,30.227695",
+    "geom:latitude":30.227695,
+    "geom:longitude":-92.012036,
+    "iso:country":"US",
+    "sg:address":"212 SW Evangeline Trwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/13199-churchs-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 4003",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s8qQH59dVrPNlDrxkluOJ_30.227695_-92.012036@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533476,
+    "wof:geomhash":"7e94591854d16e0d9f33c30c2979bd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840454201
+        }
+    ],
+    "wof:id":840454201,
+    "wof:lastmodified":1463533476,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -92.012036,
+    30.227695,
+    -92.012036,
+    30.227695
+],
+  "geometry": {"coordinates":[-92.01203599999999,30.227695],"type":"Point"}
+}

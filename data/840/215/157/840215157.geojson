@@ -1,0 +1,71 @@
+{
+  "id": 840215157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.363531,30.179916,-93.363531,30.179916",
+    "geom:latitude":30.179916,
+    "geom:longitude":-93.363531,
+    "iso:country":"US",
+    "sg:address":"4646 S Boudoin Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 583 4740",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zk9owuLa0k2ekS8tf43R5_30.179916_-93.363531@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523732,
+    "wof:geomhash":"ebb2277e5153be16d06b16bf9131086e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840215157
+        }
+    ],
+    "wof:id":840215157,
+    "wof:lastmodified":1463523732,
+    "wof:name":"Autoworks Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.363531,
+    30.179916,
+    -93.363531,
+    30.179916
+],
+  "geometry": {"coordinates":[-93.36353099999999,30.179916],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840252295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.18415,30.23496,-93.18415,30.23496",
+    "geom:latitude":30.23496,
+    "geom:longitude":-93.18415,
+    "iso:country":"US",
+    "sg:address":"2400 Fruge St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6500",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wOkkRJhhvvwxF6fMzDBMC_30.234960_-93.184150@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524657,
+    "wof:geomhash":"27d49cda6b48fa0fbdb243cea05e7a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840252295
+        }
+    ],
+    "wof:id":840252295,
+    "wof:lastmodified":1463524657,
+    "wof:name":"Festival Apartments",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.18415,
+    30.23496,
+    -93.18415,
+    30.23496
+],
+  "geometry": {"coordinates":[-93.18415,30.23496],"type":"Point"}
+}

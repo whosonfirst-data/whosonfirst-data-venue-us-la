@@ -1,0 +1,71 @@
+{
+  "id": 840417373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.785193,32.560625,-93.785193,32.560625",
+    "geom:latitude":32.560625,
+    "geom:longitude":-93.785193,
+    "iso:country":"US",
+    "sg:address":"3141 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 222 8811",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QLHqXIagLDoQ6qzNDFscI_32.560625_-93.785193@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531919,
+    "wof:geomhash":"7fe5eaad32081f874d8181300439ceb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840417373
+        }
+    ],
+    "wof:id":840417373,
+    "wof:lastmodified":1463531919,
+    "wof:name":"Tri-State Battery Supply",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -93.785193,
+    32.560625,
+    -93.785193,
+    32.560625
+],
+  "geometry": {"coordinates":[-93.78519300000001,32.560625],"type":"Point"}
+}

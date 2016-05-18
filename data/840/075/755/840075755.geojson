@@ -1,0 +1,75 @@
+{
+  "id": 840075755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.091089,29.926745,-90.091089,29.926745",
+    "geom:latitude":29.926745,
+    "geom:longitude":-90.091089,
+    "iso:country":"US",
+    "sg:address":"3434 Prytania St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 899 6391",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KgFhxWSh6JMzdOqSOOrgq_29.926745_-90.091089@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520597,
+    "wof:geomhash":"68d64400ed2d0173fbec9f1ae32ca03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840075755
+        }
+    ],
+    "wof:id":840075755,
+    "wof:lastmodified":1463520597,
+    "wof:name":"Orthopaedic Associates",
+    "wof:parent_id":85866115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.091089,
+    29.926745,
+    -90.091089,
+    29.926745
+],
+  "geometry": {"coordinates":[-90.091089,29.926745],"type":"Point"}
+}

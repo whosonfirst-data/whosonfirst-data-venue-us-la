@@ -1,0 +1,72 @@
+{
+  "id": 840457723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.062239,30.387803,-91.062239,30.387803",
+    "geom:latitude":30.387803,
+    "geom:longitude":-91.062239,
+    "iso:country":"US",
+    "sg:address":"6745 Siegen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/156928-whataburger/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 291 1279",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y5MqS3QUq4Y0MK1hTrMD0_30.387400_-91.062873@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533603,
+    "wof:geomhash":"ac53943fd075e485ab9098f0f6fd4660",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840457723
+        }
+    ],
+    "wof:id":840457723,
+    "wof:lastmodified":1463533603,
+    "wof:name":"Whataburger",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.062239,
+    30.387803,
+    -91.062239,
+    30.387803
+],
+  "geometry": {"coordinates":[-91.06223900000001,30.387803],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840009749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.210128,30.451415,-91.210128,30.451415",
+    "geom:latitude":30.451415,
+    "geom:longitude":-91.210128,
+    "iso:country":"US",
+    "sg:address":"110 S Alexander Ave",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 381 9675",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EOudHMWozQni9I5Cc2f8a_30.451415_-91.210128@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519204,
+    "wof:geomhash":"be1822d3498a1d2658f8b6204aad1729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840009749
+        }
+    ],
+    "wof:id":840009749,
+    "wof:lastmodified":1463519204,
+    "wof:name":"S & S Car Care Ctr",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.210128,
+    30.451415,
+    -91.210128,
+    30.451415
+],
+  "geometry": {"coordinates":[-91.210128,30.451415],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840279745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.960054,29.949121,-89.960054,29.949121",
+    "geom:latitude":29.949121,
+    "geom:longitude":-89.960054,
+    "iso:country":"US",
+    "sg:address":"120 E Solidelle St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 281 0561",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JfF65fmguE5Wa7hcaUVn3_29.949121_-89.960054@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525604,
+    "wof:geomhash":"9b3c63736285b199404f18f7abaa638d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840279745
+        }
+    ],
+    "wof:id":840279745,
+    "wof:lastmodified":1463525604,
+    "wof:name":"Fmc Dialysis Svc-Chalmette",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -89.960054,
+    29.949121,
+    -89.960054,
+    29.949121
+],
+  "geometry": {"coordinates":[-89.960054,29.949121],"type":"Point"}
+}

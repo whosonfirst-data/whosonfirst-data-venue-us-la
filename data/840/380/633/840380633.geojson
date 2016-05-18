@@ -1,0 +1,73 @@
+{
+  "id": 840380633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.535279,29.831329,-91.535279,29.831329",
+    "geom:latitude":29.831329,
+    "geom:longitude":-91.535279,
+    "iso:country":"US",
+    "sg:address":"5039 State Rte 87",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 924 7100",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NoA3TTcJc8nNdgm7xmOlK_29.831329_-91.535279@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530376,
+    "wof:geomhash":"d18983ee0830836fa7f191b8d967e1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840380633
+        }
+    ],
+    "wof:id":840380633,
+    "wof:lastmodified":1463530376,
+    "wof:name":"KFMV",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -91.535279,
+    29.831329,
+    -91.535279,
+    29.831329
+],
+  "geometry": {"coordinates":[-91.535279,29.831329],"type":"Point"}
+}

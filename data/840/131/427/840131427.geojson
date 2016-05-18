@@ -1,0 +1,73 @@
+{
+  "id": 840131427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.26211,31.131512,-93.26211,31.131512",
+    "geom:latitude":31.131512,
+    "geom:longitude":-93.26211,
+    "iso:country":"US",
+    "sg:address":"1604 University Pkwy",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 392 2959",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "product",
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ESTYhEhNXCxkGrkg2Nxuh_31.131512_-93.262110@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521874,
+    "wof:geomhash":"a4668837def17aefbd112bf157f03637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840131427
+        }
+    ],
+    "wof:id":840131427,
+    "wof:lastmodified":1463521874,
+    "wof:name":"Tom's Snacks",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "snack"
+    ]
+},
+  "bbox": [
+    -93.26211,
+    31.131512,
+    -93.26211,
+    31.131512
+],
+  "geometry": {"coordinates":[-93.26211000000001,31.131512],"type":"Point"}
+}

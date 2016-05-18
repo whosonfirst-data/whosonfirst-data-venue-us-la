@@ -1,0 +1,73 @@
+{
+  "id": 840151441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.305829,30.248111,-93.305829,30.248111",
+    "geom:latitude":30.248111,
+    "geom:longitude":-93.305829,
+    "iso:country":"US",
+    "sg:address":"1141 Water Tower Rd",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 882 0585",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QG92TrFzdEn26K89Z4LUb_30.248111_-93.305829@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522277,
+    "wof:geomhash":"0775f035d48e79ea9d0d2e0cee6276d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840151441
+        }
+    ],
+    "wof:id":840151441,
+    "wof:lastmodified":1463522277,
+    "wof:name":"Mossville Water Works",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -93.305829,
+    30.248111,
+    -93.305829,
+    30.248111
+],
+  "geometry": {"coordinates":[-93.305829,30.248111],"type":"Point"}
+}

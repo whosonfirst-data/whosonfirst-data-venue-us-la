@@ -1,0 +1,76 @@
+{
+  "id": 840456847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.447295,31.26395,-92.447295,31.26395",
+    "geom:latitude":31.26395,
+    "geom:longitude":-92.447295,
+    "iso:country":"US",
+    "sg:address":"4812 Lee St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/201540-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 6198",
+    "sg:postcode":"71302",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948343,
+        102081039,
+        85846871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qLuDQQEfCc4cVuvcxsdvG_31.263950_-92.447295@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533568,
+    "wof:geomhash":"1ea5236e92cd826764f1ff91a13902c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85846871,
+            "region_id":85688735,
+            "venue_id":840456847
+        }
+    ],
+    "wof:id":840456847,
+    "wof:lastmodified":1463533568,
+    "wof:name":"Sonic",
+    "wof:parent_id":85846871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.447295,
+    31.26395,
+    -92.447295,
+    31.26395
+],
+  "geometry": {"coordinates":[-92.447295,31.26395],"type":"Point"}
+}

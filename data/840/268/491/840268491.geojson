@@ -1,0 +1,73 @@
+{
+  "id": 840268491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.104706,30.158975,-92.104706,30.158975",
+    "geom:latitude":30.158975,
+    "geom:longitude":-92.104706,
+    "iso:country":"US",
+    "sg:address":"116 Pellerin Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 4446",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5enux0Agx7NU3kRR8di0ve_30.158975_-92.104706@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525104,
+    "wof:geomhash":"443f2e4c684b3664b9601c9b8e210b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840268491
+        }
+    ],
+    "wof:id":840268491,
+    "wof:lastmodified":1463525104,
+    "wof:name":"Carroll Meaux Water Well Svc",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -92.104706,
+    30.158975,
+    -92.104706,
+    30.158975
+],
+  "geometry": {"coordinates":[-92.10470599999999,30.158975],"type":"Point"}
+}

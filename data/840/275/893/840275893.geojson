@@ -1,0 +1,75 @@
+{
+  "id": 840275893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.101797,29.898778,-90.101797,29.898778",
+    "geom:latitude":29.898778,
+    "geom:longitude":-90.101797,
+    "iso:country":"US",
+    "sg:address":"5011 4th St",
+    "sg:city":"Marrero",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 348 8645",
+    "sg:postcode":"70072",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948745,
+        102083179,
+        85866117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DNnJ8daFsZ9VPd80hGTI8_29.898778_-90.101797@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525439,
+    "wof:geomhash":"c2d80fd0510e5e1eb6b933fa5abf39d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866117,
+            "region_id":85688735,
+            "venue_id":840275893
+        }
+    ],
+    "wof:id":840275893,
+    "wof:lastmodified":1463525439,
+    "wof:name":"Andrew Body Shop & Auto Repair",
+    "wof:parent_id":85866117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.101797,
+    29.898778,
+    -90.101797,
+    29.898778
+],
+  "geometry": {"coordinates":[-90.101797,29.898778],"type":"Point"}
+}

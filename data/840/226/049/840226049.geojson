@@ -1,0 +1,71 @@
+{
+  "id": 840226049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.17123,29.691034,-91.17123,29.691034",
+    "geom:latitude":29.691034,
+    "geom:longitude":-91.17123,
+    "iso:country":"US",
+    "sg:address":"201 Pecos St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 6001",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AmvQrKJzCHnEF5Smh2UwI_29.691034_-91.171230@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523980,
+    "wof:geomhash":"35674d574ea8c2654207463fe014bada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840226049
+        }
+    ],
+    "wof:id":840226049,
+    "wof:lastmodified":1463523980,
+    "wof:name":"Pat's Cab",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -91.17123,
+    29.691034,
+    -91.17123,
+    29.691034
+],
+  "geometry": {"coordinates":[-91.17122999999999,29.691034],"type":"Point"}
+}

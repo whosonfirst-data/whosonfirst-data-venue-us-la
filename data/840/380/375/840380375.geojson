@@ -1,0 +1,75 @@
+{
+  "id": 840380375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.181925,30.222142,-93.181925,30.222142",
+    "geom:latitude":30.222142,
+    "geom:longitude":-93.181925,
+    "iso:country":"US",
+    "sg:address":"1433 Rosteet St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 9565",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OcnZGY49VBmZE8SM2Q4yB_30.222142_-93.181925@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530365,
+    "wof:geomhash":"bc78613f0c3ef011812abf3ad5d4e7c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840380375
+        }
+    ],
+    "wof:id":840380375,
+    "wof:lastmodified":1463530365,
+    "wof:name":"Automotive Machine Shop",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.181925,
+    30.222142,
+    -93.181925,
+    30.222142
+],
+  "geometry": {"coordinates":[-93.18192500000001,30.222142],"type":"Point"}
+}

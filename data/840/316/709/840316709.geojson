@@ -1,0 +1,71 @@
+{
+  "id": 840316709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.21399,30.191554,-93.21399,30.191554",
+    "geom:latitude":30.191554,
+    "geom:longitude":-93.21399,
+    "iso:country":"US",
+    "sg:address":"3632 Common St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 4022",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jyn46SG2ZVBLCsJI89kFc_30.191554_-93.213990@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527291,
+    "wof:geomhash":"110b76aca68ab00a4233068c082ab3b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840316709
+        }
+    ],
+    "wof:id":840316709,
+    "wof:lastmodified":1463527291,
+    "wof:name":"Kevin Hamilton DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.21399,
+    30.191554,
+    -93.21399,
+    30.191554
+],
+  "geometry": {"coordinates":[-93.21399,30.191554],"type":"Point"}
+}

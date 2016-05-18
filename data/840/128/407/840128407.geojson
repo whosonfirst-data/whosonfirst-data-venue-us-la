@@ -1,0 +1,75 @@
+{
+  "id": 840128407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.016192,30.202888,-92.016192,30.202888",
+    "geom:latitude":30.202888,
+    "geom:longitude":-92.016192,
+    "iso:country":"US",
+    "sg:address":"449 Heymann Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 3201",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GvN0uub21jOGA36hFAqBN_30.202888_-92.016192@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521819,
+    "wof:geomhash":"603c44f7a2425226e87f2311be0be0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840128407
+        }
+    ],
+    "wof:id":840128407,
+    "wof:lastmodified":1463521819,
+    "wof:name":"Peter Vizzi MD",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.016192,
+    30.202888,
+    -92.016192,
+    30.202888
+],
+  "geometry": {"coordinates":[-92.016192,30.202888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840416181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.380747,30.231601,-93.380747,30.231601",
+    "geom:latitude":30.231601,
+    "geom:longitude":-93.380747,
+    "iso:country":"US",
+    "sg:address":"823 S Crocker St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 0045",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g5uNjyMSRz0cFqPnzfzmY_30.231601_-93.380747@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531873,
+    "wof:geomhash":"3b79d3c2d8b6318e0e1fcc562ee00331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840416181
+        }
+    ],
+    "wof:id":840416181,
+    "wof:lastmodified":1463531873,
+    "wof:name":"Boyles Dental Lab",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.380747,
+    30.231601,
+    -93.380747,
+    30.231601
+],
+  "geometry": {"coordinates":[-93.380747,30.231601],"type":"Point"}
+}

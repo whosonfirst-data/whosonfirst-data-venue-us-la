@@ -1,0 +1,71 @@
+{
+  "id": 840075649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.248785,30.112015,-93.248785,30.112015",
+    "geom:latitude":30.112015,
+    "geom:longitude":-93.248785,
+    "iso:country":"US",
+    "sg:address":"7997 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 5111",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A5OiaRAjSOwAGDyUPnDt7_30.112015_-93.248785@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520595,
+    "wof:geomhash":"b569848594183c98d9e87b41857dc17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840075649
+        }
+    ],
+    "wof:id":840075649,
+    "wof:lastmodified":1463520595,
+    "wof:name":"Georges Truck Repair",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.248785,
+    30.112015,
+    -93.248785,
+    30.112015
+],
+  "geometry": {"coordinates":[-93.248785,30.112015],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840409669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.2549,30.257976,-93.2549,30.257976",
+    "geom:latitude":30.257976,
+    "geom:longitude":-93.2549,
+    "iso:country":"US",
+    "sg:address":"826 Bee Tree St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 494 1999",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eyn8GPLwAECT6x8amJqBa_30.257976_-93.254900@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531610,
+    "wof:geomhash":"1d9c03882076d277555a094bcac1ddd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840409669
+        }
+    ],
+    "wof:id":840409669,
+    "wof:lastmodified":1463531610,
+    "wof:name":"B & B Svc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.2549,
+    30.257976,
+    -93.2549,
+    30.257976
+],
+  "geometry": {"coordinates":[-93.25490000000001,30.257976],"type":"Point"}
+}

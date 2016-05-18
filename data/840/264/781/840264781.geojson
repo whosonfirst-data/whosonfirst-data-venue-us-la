@@ -1,0 +1,73 @@
+{
+  "id": 840264781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.209037,29.694709,-91.209037,29.694709",
+    "geom:latitude":29.694709,
+    "geom:longitude":-91.209037,
+    "iso:country":"US",
+    "sg:address":"511 1st St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 0031",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mn0ASEYB8LqoDF3UD2oiV_29.694709_-91.209037@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524915,
+    "wof:geomhash":"2bb1929afd148008b459654dc574393e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840264781
+        }
+    ],
+    "wof:id":840264781,
+    "wof:lastmodified":1463524915,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -91.209037,
+    29.694709,
+    -91.209037,
+    29.694709
+],
+  "geometry": {"coordinates":[-91.209037,29.694709],"type":"Point"}
+}

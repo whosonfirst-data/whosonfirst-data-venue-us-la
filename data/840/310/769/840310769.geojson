@@ -1,0 +1,71 @@
+{
+  "id": 840310769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.180331,30.233515,-93.180331,30.233515",
+    "geom:latitude":30.233515,
+    "geom:longitude":-93.180331,
+    "iso:country":"US",
+    "sg:address":"300 S Martin Luther King Hwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 3222",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JhAOjkuUI7U8MUiPCSS8s_30.233515_-93.180331@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527035,
+    "wof:geomhash":"b0a62db4a463877442abd224fc22e40f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840310769
+        }
+    ],
+    "wof:id":840310769,
+    "wof:lastmodified":1463527035,
+    "wof:name":"123 Wrecker & Towing",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.180331,
+    30.233515,
+    -93.180331,
+    30.233515
+],
+  "geometry": {"coordinates":[-93.180331,30.233515],"type":"Point"}
+}

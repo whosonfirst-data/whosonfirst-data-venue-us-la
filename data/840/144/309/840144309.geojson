@@ -1,0 +1,75 @@
+{
+  "id": 840144309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.006443,30.210249,-92.006443,30.210249",
+    "geom:latitude":30.210249,
+    "geom:longitude":-92.006443,
+    "iso:country":"US",
+    "sg:address":"1326 General Mouton Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 266 9549",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VlbMcvN1KD5pmlRlcO3wy_30.210249_-92.006443@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522131,
+    "wof:geomhash":"3cbcc0ba274b9102587981e4794b301a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840144309
+        }
+    ],
+    "wof:id":840144309,
+    "wof:lastmodified":1463522131,
+    "wof:name":"V Plus",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.006443,
+    30.210249,
+    -92.006443,
+    30.210249
+],
+  "geometry": {"coordinates":[-92.006443,30.210249],"type":"Point"}
+}

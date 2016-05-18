@@ -1,0 +1,71 @@
+{
+  "id": 840010945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.211747,30.190811,-93.211747,30.190811",
+    "geom:latitude":30.190811,
+    "geom:longitude":-93.211747,
+    "iso:country":"US",
+    "sg:address":"630 E School St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 1199",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bhUq249q8VflabKoVTUId_30.190811_-93.211747@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519229,
+    "wof:geomhash":"00ad63a74416066c599d1ac8e655af73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840010945
+        }
+    ],
+    "wof:id":840010945,
+    "wof:lastmodified":1463519229,
+    "wof:name":"Lake Area Animal Hospital",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.211747,
+    30.190811,
+    -93.211747,
+    30.190811
+],
+  "geometry": {"coordinates":[-93.211747,30.190811],"type":"Point"}
+}

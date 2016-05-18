@@ -1,0 +1,73 @@
+{
+  "id": 840271819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.049575,30.316455,-92.049575,30.316455",
+    "geom:latitude":30.316455,
+    "geom:longitude":-92.049575,
+    "iso:country":"US",
+    "sg:address":"4317 N University Ave",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 9509",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bMP5Hy8hEHZaKR09nqTxY_30.316455_-92.049575@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525258,
+    "wof:geomhash":"1849ee39b979211c16a2573f863bd20a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840271819
+        }
+    ],
+    "wof:id":840271819,
+    "wof:lastmodified":1463525258,
+    "wof:name":"Carencro Automotive Ctr",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.049575,
+    30.316455,
+    -92.049575,
+    30.316455
+],
+  "geometry": {"coordinates":[-92.049575,30.316455],"type":"Point"}
+}

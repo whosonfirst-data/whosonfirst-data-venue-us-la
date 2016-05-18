@@ -1,0 +1,71 @@
+{
+  "id": 840384085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.110576,30.401643,-91.110576,30.401643",
+    "geom:latitude":30.401643,
+    "geom:longitude":-91.110576,
+    "iso:country":"US",
+    "sg:address":"5339 Didesse Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 761 5414",
+    "sg:postcode":"70808",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yoKmxg3grANX5LAdCtG3F_30.401643_-91.110576@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530547,
+    "wof:geomhash":"ac60b2b586a288a250adbbb78835e0c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840384085
+        }
+    ],
+    "wof:id":840384085,
+    "wof:lastmodified":1463530547,
+    "wof:name":"Ochsner Clinic Geriatrics Ctr",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.110576,
+    30.401643,
+    -91.110576,
+    30.401643
+],
+  "geometry": {"coordinates":[-91.11057599999999,30.401643],"type":"Point"}
+}

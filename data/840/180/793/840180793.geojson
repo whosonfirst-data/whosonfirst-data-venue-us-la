@@ -1,0 +1,71 @@
+{
+  "id": 840180793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.513082,30.876199,-90.513082,30.876199",
+    "geom:latitude":30.876199,
+    "geom:longitude":-90.513082,
+    "iso:country":"US",
+    "sg:address":"101 Jackson St",
+    "sg:city":"Tangipahoa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 8300",
+    "sg:postcode":"70465",
+    "sg:province":"LA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00TmbUnnSarzlhmpnc4nUZ_30.876199_-90.513082@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522927,
+    "wof:geomhash":"cd45753c7b1ae05270cf9dbb4e8ad93c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840180793
+        }
+    ],
+    "wof:id":840180793,
+    "wof:lastmodified":1463522927,
+    "wof:name":"City Hall",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -90.513082,
+    30.876199,
+    -90.513082,
+    30.876199
+],
+  "geometry": {"coordinates":[-90.513082,30.876199],"type":"Point"}
+}

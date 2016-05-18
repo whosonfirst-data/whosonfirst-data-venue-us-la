@@ -1,0 +1,73 @@
+{
+  "id": 840431845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.955506,29.958474,-89.955506,29.958474",
+    "geom:latitude":29.958474,
+    "geom:longitude":-89.955506,
+    "iso:country":"US",
+    "sg:address":"5008 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 270 0030",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28rVsbGiiEkRwexMtzjt0l_29.958474_-89.955506@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532531,
+    "wof:geomhash":"c8ddce5a139ba4f5a6638a4c0fb15904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840431845
+        }
+    ],
+    "wof:id":840431845,
+    "wof:lastmodified":1463532531,
+    "wof:name":"George's Auto Sales",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -89.955506,
+    29.958474,
+    -89.955506,
+    29.958474
+],
+  "geometry": {"coordinates":[-89.955506,29.958474],"type":"Point"}
+}

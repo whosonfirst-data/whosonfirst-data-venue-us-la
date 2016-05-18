@@ -1,0 +1,71 @@
+{
+  "id": 840267383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.200977,30.300604,-93.200977,30.300604",
+    "geom:latitude":30.300604,
+    "geom:longitude":-93.200977,
+    "iso:country":"US",
+    "sg:address":"362 Sam Houston Jones Pkwy",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 7739",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ygWzuW8syeigFYOuhmuba_30.300604_-93.200977@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525044,
+    "wof:geomhash":"c77e4a0902fa916b8bd0f1ce9ef9cdac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840267383
+        }
+    ],
+    "wof:id":840267383,
+    "wof:lastmodified":1463525044,
+    "wof:name":"Market Basket Food Stores",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.200977,
+    30.300604,
+    -93.200977,
+    30.300604
+],
+  "geometry": {"coordinates":[-93.20097699999999,30.300604],"type":"Point"}
+}

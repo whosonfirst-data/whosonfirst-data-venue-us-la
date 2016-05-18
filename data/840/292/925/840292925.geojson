@@ -1,0 +1,73 @@
+{
+  "id": 840292925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.2014,29.706566,-91.2014,29.706566",
+    "geom:latitude":29.706566,
+    "geom:longitude":-91.2014,
+    "iso:country":"US",
+    "sg:address":"1125 Marguerite St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 6990",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jfyhVy4xOHHGFmFIpPbS3_29.706566_-91.201400@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526191,
+    "wof:geomhash":"d4423de5bd151e7dd30308ac0d61506f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840292925
+        }
+    ],
+    "wof:id":840292925,
+    "wof:lastmodified":1463526191,
+    "wof:name":"Radiology Associates",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.2014,
+    29.706566,
+    -91.2014,
+    29.706566
+],
+  "geometry": {"coordinates":[-91.20140000000001,29.706566],"type":"Point"}
+}

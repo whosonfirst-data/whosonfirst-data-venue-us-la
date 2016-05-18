@@ -1,0 +1,78 @@
+{
+  "id": 840454109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.762331,30.24657,-89.762331,30.24657",
+    "geom:latitude":30.24657,
+    "geom:longitude":-89.762331,
+    "iso:country":"US",
+    "sg:address":"2501 Old Spanish Trl",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/mcclane-city/173649-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 643 8544",
+    "sg:postcode":"70461",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85850405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ThBuj9DXI1wF2XJEjfv4s_30.246570_-89.762331@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533472,
+    "wof:geomhash":"fc6eb0582cf38f83e2a78b058bddcb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85850405,
+            "region_id":85688735,
+            "venue_id":840454109
+        }
+    ],
+    "wof:id":840454109,
+    "wof:lastmodified":1463533472,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85850405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.762331,
+    30.24657,
+    -89.762331,
+    30.24657
+],
+  "geometry": {"coordinates":[-89.762331,30.24657],"type":"Point"}
+}

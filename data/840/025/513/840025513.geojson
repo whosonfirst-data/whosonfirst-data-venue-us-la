@@ -1,0 +1,77 @@
+{
+  "id": 840025513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.137775,32.515009,-92.137775,32.515009",
+    "geom:latitude":32.515009,
+    "geom:longitude":-92.137775,
+    "iso:country":"US",
+    "sg:address":"1810 Cypress St",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 5659",
+    "sg:postcode":"71291",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vkGMKqx27nHlzrqdBEBVE_32.515009_-92.137775@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519513,
+    "wof:geomhash":"f08616415d846daa9fe1f92e298f4c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840025513
+        }
+    ],
+    "wof:id":840025513,
+    "wof:lastmodified":1463519513,
+    "wof:name":"Johnston's Radiator & Repair",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -92.137775,
+    32.515009,
+    -92.137775,
+    32.515009
+],
+  "geometry": {"coordinates":[-92.137775,32.515009],"type":"Point"}
+}

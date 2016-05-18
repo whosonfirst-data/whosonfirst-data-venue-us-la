@@ -1,0 +1,73 @@
+{
+  "id": 840000101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376257,30.225941,-93.376257,30.225941",
+    "geom:latitude":30.225941,
+    "geom:longitude":-93.376257,
+    "iso:country":"US",
+    "sg:address":"1420 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 9200",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26d2J69Y13j1DFObvZstrz_30.225941_-93.376257@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463518997,
+    "wof:geomhash":"9906c60870b7b611a3ef1750fd64ef47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840000101
+        }
+    ],
+    "wof:id":840000101,
+    "wof:lastmodified":1463518997,
+    "wof:name":"Auto Plex 2000",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.376257,
+    30.225941,
+    -93.376257,
+    30.225941
+],
+  "geometry": {"coordinates":[-93.376257,30.225941],"type":"Point"}
+}

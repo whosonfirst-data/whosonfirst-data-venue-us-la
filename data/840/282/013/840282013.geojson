@@ -1,0 +1,73 @@
+{
+  "id": 840282013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.219516,30.218879,-93.219516,30.218879",
+    "geom:latitude":30.218879,
+    "geom:longitude":-93.219516,
+    "iso:country":"US",
+    "sg:address":"105 S Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 497 0366",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KqRlck1u9xpSssdU3xlXd_30.218879_-93.219516@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525715,
+    "wof:geomhash":"1fdfc3fd4e454bebeb14c9f905c9133c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840282013
+        }
+    ],
+    "wof:id":840282013,
+    "wof:lastmodified":1463525715,
+    "wof:name":"Tony W Leung MD",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.219516,
+    30.218879,
+    -93.219516,
+    30.218879
+],
+  "geometry": {"coordinates":[-93.219516,30.218879],"type":"Point"}
+}

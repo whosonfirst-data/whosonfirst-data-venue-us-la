@@ -1,0 +1,73 @@
+{
+  "id": 840155579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.71247,32.433018,-93.71247,32.433018",
+    "geom:latitude":32.433018,
+    "geom:longitude":-93.71247,
+    "iso:country":"US",
+    "sg:address":"7829 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 212 3890",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z1KgrINLUTCe6IGNGI3Tf_32.433018_-93.712470@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522360,
+    "wof:geomhash":"5b868f215bd2dcca76e8ec304622f1b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840155579
+        }
+    ],
+    "wof:id":840155579,
+    "wof:lastmodified":1463522360,
+    "wof:name":"Pierremont OBGYN Spclsts",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.71247,
+    32.433018,
+    -93.71247,
+    32.433018
+],
+  "geometry": {"coordinates":[-93.71247,32.433018],"type":"Point"}
+}

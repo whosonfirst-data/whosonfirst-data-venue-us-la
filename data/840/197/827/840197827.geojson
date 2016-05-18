@@ -1,0 +1,71 @@
+{
+  "id": 840197827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258101,30.253185,-93.258101,30.253185",
+    "geom:latitude":30.253185,
+    "geom:longitude":-93.258101,
+    "iso:country":"US",
+    "sg:address":"1600 Sampson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 5343",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A9jWtssHFvNEnsiEalqXK_30.253185_-93.258101@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523277,
+    "wof:geomhash":"87623a1a531f04ad21b00a9412580ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840197827
+        }
+    ],
+    "wof:id":840197827,
+    "wof:lastmodified":1463523277,
+    "wof:name":"Classic Tan",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -93.258101,
+    30.253185,
+    -93.258101,
+    30.253185
+],
+  "geometry": {"coordinates":[-93.258101,30.253185],"type":"Point"}
+}

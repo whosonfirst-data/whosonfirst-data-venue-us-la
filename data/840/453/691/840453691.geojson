@@ -1,0 +1,72 @@
+{
+  "id": 840453691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.500973,30.517456,-90.500973,30.517456",
+    "geom:latitude":30.517456,
+    "geom:longitude":-90.500973,
+    "iso:country":"US",
+    "sg:address":"46020 N Puma Dr",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hammond/197453-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 345 1343",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85856811,
+        102083809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p7EhKmYQBk59dWrWbm9yn_30.517456_-90.500973@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533457,
+    "wof:geomhash":"c7cdd78464db2c72227e648cef963584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "neighbourhood_id":85856811,
+            "region_id":85688735,
+            "venue_id":840453691
+        }
+    ],
+    "wof:id":840453691,
+    "wof:lastmodified":1463533457,
+    "wof:name":"Burger King",
+    "wof:parent_id":85856811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.500973,
+    30.517456,
+    -90.500973,
+    30.517456
+],
+  "geometry": {"coordinates":[-90.500973,30.517456],"type":"Point"}
+}

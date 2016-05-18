@@ -1,0 +1,76 @@
+{
+  "id": 840026639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.104152,30.396439,-91.104152,30.396439",
+    "geom:latitude":30.396439,
+    "geom:longitude":-91.104152,
+    "iso:country":"US",
+    "sg:address":"8585 Picardy Ave",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 763 4000",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85818233,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69s9OmePi2E0T3MGmjRoLX_30.396439_-91.104152@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519536,
+    "wof:geomhash":"fc077501ba0f8142cd59034f099543b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85818233,
+            "region_id":85688735,
+            "venue_id":840026639
+        }
+    ],
+    "wof:id":840026639,
+    "wof:lastmodified":1463519536,
+    "wof:name":"Baton Rouge General Med Ctr",
+    "wof:parent_id":85818233,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.104152,
+    30.396439,
+    -91.104152,
+    30.396439
+],
+  "geometry": {"coordinates":[-91.104152,30.396439],"type":"Point"}
+}

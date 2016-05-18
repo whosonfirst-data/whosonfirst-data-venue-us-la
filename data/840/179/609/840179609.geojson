@@ -1,0 +1,73 @@
+{
+  "id": 840179609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.127594,30.57843,-91.127594,30.57843",
+    "geom:latitude":30.57843,
+    "geom:longitude":-91.127594,
+    "iso:country":"US",
+    "sg:address":"6516 E Myrtle Ave",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 769 2500",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WefSdN36yuF6BOB1aVCwN_30.578430_-91.127594@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522900,
+    "wof:geomhash":"631aa3c67e50d26fe828c78f0cbbf2c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840179609
+        }
+    ],
+    "wof:id":840179609,
+    "wof:lastmodified":1463522900,
+    "wof:name":"Baton Rouge Urology Group",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.127594,
+    30.57843,
+    -91.127594,
+    30.57843
+],
+  "geometry": {"coordinates":[-91.127594,30.57843],"type":"Point"}
+}

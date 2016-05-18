@@ -1,0 +1,66 @@
+{
+  "id": 840109259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376472,30.227347,-93.376472,30.227347",
+    "geom:latitude":30.227347,
+    "geom:longitude":-93.376472,
+    "iso:country":"US",
+    "sg:address":"110 W Roddam St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 2102",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mxx8B9ru5OkFMA6Uw8pXN_30.227347_-93.376472@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521416,
+    "wof:geomhash":"f5bde1003ddee0cc0f30e39789a9ac10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840109259
+        }
+    ],
+    "wof:id":840109259,
+    "wof:lastmodified":1463521416,
+    "wof:name":"Laundromat",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.376472,
+    30.227347,
+    -93.376472,
+    30.227347
+],
+  "geometry": {"coordinates":[-93.37647200000001,30.227347],"type":"Point"}
+}

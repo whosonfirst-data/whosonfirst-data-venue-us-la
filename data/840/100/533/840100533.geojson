@@ -1,0 +1,73 @@
+{
+  "id": 840100533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.690126,32.370506,-93.690126,32.370506",
+    "geom:latitude":32.370506,
+    "geom:longitude":-93.690126,
+    "iso:country":"US",
+    "sg:address":"9785 Bayou Bend Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 8191",
+    "sg:postcode":"71115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10CEKY1nVInChwbCheY66D_32.370506_-93.690126@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521223,
+    "wof:geomhash":"da315458e4a74387eff7787885ef3a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840100533
+        }
+    ],
+    "wof:id":840100533,
+    "wof:lastmodified":1463521223,
+    "wof:name":"Baker Electric Company",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.690126,
+    32.370506,
+    -93.690126,
+    32.370506
+],
+  "geometry": {"coordinates":[-93.69012600000001,32.370506],"type":"Point"}
+}

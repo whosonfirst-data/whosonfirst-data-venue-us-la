@@ -1,0 +1,73 @@
+{
+  "id": 840313275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.163351,30.225511,-93.163351,30.225511",
+    "geom:latitude":30.225511,
+    "geom:longitude":-93.163351,
+    "iso:country":"US",
+    "sg:address":"951 Main St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 2533",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zp1KsDXZTxqpASf4j7xV9_30.225511_-93.163351@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527143,
+    "wof:geomhash":"b2caeeed936665feb542830885c41f65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840313275
+        }
+    ],
+    "wof:id":840313275,
+    "wof:lastmodified":1463527143,
+    "wof:name":"Motor Vehicle Dept",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -93.163351,
+    30.225511,
+    -93.163351,
+    30.225511
+],
+  "geometry": {"coordinates":[-93.16335100000001,30.225511],"type":"Point"}
+}

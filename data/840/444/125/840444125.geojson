@@ -1,0 +1,71 @@
+{
+  "id": 840444125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505129,29.800347,-91.505129,29.800347",
+    "geom:latitude":29.800347,
+    "geom:longitude":-91.505129,
+    "iso:country":"US",
+    "sg:address":"1111 Weber St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 5638",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "accident"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MhPXLkfb29CEEg8WtolQp_29.800347_-91.505129@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533056,
+    "wof:geomhash":"96f5c197c4b922f4df15b61661fc041a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840444125
+        }
+    ],
+    "wof:id":840444125,
+    "wof:lastmodified":1463533056,
+    "wof:name":"By Net",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accident"
+    ]
+},
+  "bbox": [
+    -91.505129,
+    29.800347,
+    -91.505129,
+    29.800347
+],
+  "geometry": {"coordinates":[-91.505129,29.800347],"type":"Point"}
+}

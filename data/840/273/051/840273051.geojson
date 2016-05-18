@@ -1,0 +1,73 @@
+{
+  "id": 840273051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204221,30.224198,-93.204221,30.224198",
+    "geom:latitude":30.224198,
+    "geom:longitude":-93.204221,
+    "iso:country":"US",
+    "sg:address":"1027 Enterprise Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 8112",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eKBZDNR8mmsUYw3wYbi2q_30.224198_-93.204221@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525314,
+    "wof:geomhash":"c631917fb813b6fc747060b2fd3f1b65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840273051
+        }
+    ],
+    "wof:id":840273051,
+    "wof:lastmodified":1463525314,
+    "wof:name":"Louis' Bug Shop",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.204221,
+    30.224198,
+    -93.204221,
+    30.224198
+],
+  "geometry": {"coordinates":[-93.204221,30.224198],"type":"Point"}
+}

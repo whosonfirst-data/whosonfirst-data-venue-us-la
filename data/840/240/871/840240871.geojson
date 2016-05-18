@@ -1,0 +1,69 @@
+{
+  "id": 840240871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.054253,30.390402,-91.054253,30.390402",
+    "geom:latitude":30.390402,
+    "geom:longitude":-91.054253,
+    "iso:country":"US",
+    "sg:address":"6323 Equity Dr",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 751 1778",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60M0dSTw8kcK9vlSTyabVh_30.390402_-91.054253@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524383,
+    "wof:geomhash":"48afd22c00cc56e43a50e186769741b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840240871
+        }
+    ],
+    "wof:id":840240871,
+    "wof:lastmodified":1463524383,
+    "wof:name":"C & I Cleaning Svc",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -91.054253,
+    30.390402,
+    -91.054253,
+    30.390402
+],
+  "geometry": {"coordinates":[-91.054253,30.390402],"type":"Point"}
+}

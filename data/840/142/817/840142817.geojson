@@ -1,0 +1,75 @@
+{
+  "id": 840142817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.261097,30.130637,-93.261097,30.130637",
+    "geom:latitude":30.130637,
+    "geom:longitude":-93.261097,
+    "iso:country":"US",
+    "sg:address":"2525 Salmon St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 3741",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79Gz7O1P6QrPrwoWfsMLim_30.130637_-93.261097@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522103,
+    "wof:geomhash":"ee269f6291e0a35cd3bac8c19bcfb26e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840142817
+        }
+    ],
+    "wof:id":840142817,
+    "wof:lastmodified":1463522103,
+    "wof:name":"Spirit Wind Trucking",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.261097,
+    30.130637,
+    -93.261097,
+    30.130637
+],
+  "geometry": {"coordinates":[-93.26109700000001,30.130637],"type":"Point"}
+}

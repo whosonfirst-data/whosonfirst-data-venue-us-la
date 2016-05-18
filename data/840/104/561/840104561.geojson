@@ -1,0 +1,75 @@
+{
+  "id": 840104561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.179351,29.693468,-91.179351,29.693468",
+    "geom:latitude":29.693468,
+    "geom:longitude":-91.179351,
+    "iso:country":"US",
+    "sg:address":"7561 State Rte 182",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 4560",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UJvV7PpvkKcVaiXIVH0DC_29.693468_-91.179351@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521319,
+    "wof:geomhash":"61c488a4990e3bf1082dd8b462afc23e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840104561
+        }
+    ],
+    "wof:id":840104561,
+    "wof:lastmodified":1463521319,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -91.179351,
+    29.693468,
+    -91.179351,
+    29.693468
+],
+  "geometry": {"coordinates":[-91.179351,29.693468],"type":"Point"}
+}

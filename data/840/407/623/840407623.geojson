@@ -1,0 +1,71 @@
+{
+  "id": 840407623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.294761,30.169106,-93.294761,30.169106",
+    "geom:latitude":30.169106,
+    "geom:longitude":-93.294761,
+    "iso:country":"US",
+    "sg:address":"32 Timberly Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 8471",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BtsSOIk5Y1REvjyB6MSre_30.169106_-93.294761@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531529,
+    "wof:geomhash":"8dc935836fc4514af18bbd4fcc43d654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840407623
+        }
+    ],
+    "wof:id":840407623,
+    "wof:lastmodified":1463531529,
+    "wof:name":"Klean N Kruise",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -93.294761,
+    30.169106,
+    -93.294761,
+    30.169106
+],
+  "geometry": {"coordinates":[-93.29476099999999,30.169106],"type":"Point"}
+}

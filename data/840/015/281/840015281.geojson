@@ -1,0 +1,73 @@
+{
+  "id": 840015281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.979209,29.955689,-89.979209,29.955689",
+    "geom:latitude":29.955689,
+    "geom:longitude":-89.979209,
+    "iso:country":"US",
+    "sg:address":"3301 Jean Lafitte Pkwy",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 281 9174",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FKzj14fQQtzhsADPgl3QY_29.955689_-89.979209@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519318,
+    "wof:geomhash":"9b79f639d3737a39b3c5a111b5802b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840015281
+        }
+    ],
+    "wof:id":840015281,
+    "wof:lastmodified":1463519318,
+    "wof:name":"A Storage Inn",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -89.979209,
+    29.955689,
+    -89.979209,
+    29.955689
+],
+  "geometry": {"coordinates":[-89.979209,29.955689],"type":"Point"}
+}

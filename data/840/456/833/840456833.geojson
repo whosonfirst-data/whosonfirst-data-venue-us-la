@@ -1,0 +1,74 @@
+{
+  "id": 840456833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.457516,31.276835,-92.457516,31.276835",
+    "geom:latitude":31.276835,
+    "geom:longitude":-92.457516,
+    "iso:country":"US",
+    "sg:address":"2154 N Mall Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/132196-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 2020",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ub9t9rtes8Huq8nEPYBmT_31.276835_-92.457516@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533568,
+    "wof:geomhash":"6bd69ef5f143e007fb70943a048f1637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840456833
+        }
+    ],
+    "wof:id":840456833,
+    "wof:lastmodified":1463533568,
+    "wof:name":"Subway",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.457516,
+    31.276835,
+    -92.457516,
+    31.276835
+],
+  "geometry": {"coordinates":[-92.457516,31.276835],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840060817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.825982,30.017901,-91.825982,30.017901",
+    "geom:latitude":30.017901,
+    "geom:longitude":-91.825982,
+    "iso:country":"US",
+    "sg:address":"409 N North St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 7802",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69G8kk4Bft6m8tIExgUP4Y_30.017901_-91.825982@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520292,
+    "wof:geomhash":"5f688daf5f5f7cbe9473ce671429344b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840060817
+        }
+    ],
+    "wof:id":840060817,
+    "wof:lastmodified":1463520292,
+    "wof:name":"Iberia Truck Repair",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.825982,
+    30.017901,
+    -91.825982,
+    30.017901
+],
+  "geometry": {"coordinates":[-91.825982,30.017901],"type":"Point"}
+}

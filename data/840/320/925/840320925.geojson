@@ -1,0 +1,71 @@
+{
+  "id": 840320925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.195291,30.241697,-93.195291,30.241697",
+    "geom:latitude":30.241697,
+    "geom:longitude":-93.195291,
+    "iso:country":"US",
+    "sg:address":"343 N Goos Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 8688",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MmAKCyLzvnq5JLS6V81ck_30.241697_-93.195291@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527497,
+    "wof:geomhash":"5e5f9a74ac85d12793bffd5c33afd2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840320925
+        }
+    ],
+    "wof:id":840320925,
+    "wof:lastmodified":1463527497,
+    "wof:name":"Lake Charles Police Svc Ctr",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.195291,
+    30.241697,
+    -93.195291,
+    30.241697
+],
+  "geometry": {"coordinates":[-93.195291,30.241697],"type":"Point"}
+}

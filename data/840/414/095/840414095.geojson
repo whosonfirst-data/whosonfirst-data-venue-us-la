@@ -1,0 +1,79 @@
+{
+  "id": 840414095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.005593,30.011695,-90.005593,30.011695",
+    "geom:latitude":30.011695,
+    "geom:longitude":-90.005593,
+    "iso:country":"US",
+    "sg:address":"7101 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 244 7788",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CvleTzr96RgOYOKTyEQi4_30.011695_-90.005593@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531785,
+    "wof:geomhash":"b869a7ae1447913de408ee3b940e3615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840414095
+        }
+    ],
+    "wof:id":840414095,
+    "wof:lastmodified":1463531785,
+    "wof:name":"Van Village",
+    "wof:parent_id":85866169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "van",
+        "conversion",
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -90.005593,
+    30.011695,
+    -90.005593,
+    30.011695
+],
+  "geometry": {"coordinates":[-90.005593,30.011695],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840297511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.377393,30.242901,-93.377393,30.242901",
+    "geom:latitude":30.242901,
+    "geom:longitude":-93.377393,
+    "iso:country":"US",
+    "sg:address":"602 N Huntington St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 4545",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zQYoVo1TnMIcnz1jxCLfI_30.242901_-93.377393@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526384,
+    "wof:geomhash":"4afbc77a6d0b396243f35aca2680a17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840297511
+        }
+    ],
+    "wof:id":840297511,
+    "wof:lastmodified":1463526384,
+    "wof:name":"Sulphur Fire Dept",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.377393,
+    30.242901,
+    -93.377393,
+    30.242901
+],
+  "geometry": {"coordinates":[-93.377393,30.242901],"type":"Point"}
+}

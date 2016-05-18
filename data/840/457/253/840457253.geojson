@@ -1,0 +1,83 @@
+{
+  "id": 840457253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.11121,29.964665,-90.11121,29.964665",
+    "geom:latitude":29.964665,
+    "geom:longitude":-90.11121,
+    "iso:country":"US",
+    "sg:address":"3622 S Carrollton Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/136678-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 488 3535",
+    "sg:postcode":"70118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DFG8cHgpI4QHhB4rxGPDY_29.964820_-90.111077@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533588,
+    "wof:geomhash":"4951507a7ba92df7f4347a5acf5e67c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840457253
+        }
+    ],
+    "wof:id":840457253,
+    "wof:lastmodified":1463533588,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85866077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.11121,
+    29.964665,
+    -90.11121,
+    29.964665
+],
+  "geometry": {"coordinates":[-90.11121,29.964665],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840446715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.545603,30.983889,-92.545603,30.983889",
+    "geom:latitude":30.983889,
+    "geom:longitude":-92.545603,
+    "iso:country":"US",
+    "sg:address":"187 Hester Landing Rd",
+    "sg:city":"Glenmora",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 748 4983",
+    "sg:postcode":"71433",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z1H38csf96kSurwN7XXpK_30.983889_-92.545603@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533153,
+    "wof:geomhash":"4dd61061d8be2385da74ec66057b46d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840446715
+        }
+    ],
+    "wof:id":840446715,
+    "wof:lastmodified":1463533153,
+    "wof:name":"Orr Automotive Electric",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -92.545603,
+    30.983889,
+    -92.545603,
+    30.983889
+],
+  "geometry": {"coordinates":[-92.545603,30.983889],"type":"Point"}
+}

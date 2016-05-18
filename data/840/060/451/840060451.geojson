@@ -1,0 +1,71 @@
+{
+  "id": 840060451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.550129,29.835887,-91.550129,29.835887",
+    "geom:latitude":29.835887,
+    "geom:longitude":-91.550129,
+    "iso:country":"US",
+    "sg:address":"501 Martin Luther King Jr St",
+    "sg:city":"Baldwin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 4941",
+    "sg:postcode":"70514",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iiWHapmWkRNqxN6OvzG9b_29.835887_-91.550129@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520286,
+    "wof:geomhash":"c60c0c5cb1372c6ade3923d92a17a048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840060451
+        }
+    ],
+    "wof:id":840060451,
+    "wof:lastmodified":1463520286,
+    "wof:name":"Forgey Superette",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.550129,
+    29.835887,
+    -91.550129,
+    29.835887
+],
+  "geometry": {"coordinates":[-91.550129,29.835887],"type":"Point"}
+}

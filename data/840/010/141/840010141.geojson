@@ -1,0 +1,75 @@
+{
+  "id": 840010141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.014799,30.172105,-92.014799,30.172105",
+    "geom:latitude":30.172105,
+    "geom:longitude":-92.014799,
+    "iso:country":"US",
+    "sg:address":"204 Lozes Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 7482",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SLjgzp0EWZqMxa1D1VTs6_30.172105_-92.014799@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519211,
+    "wof:geomhash":"5c12b30a1ce185c89f892acdb04ffe11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":840010141
+        }
+    ],
+    "wof:id":840010141,
+    "wof:lastmodified":1463519211,
+    "wof:name":"Hoover Painting",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.014799,
+    30.172105,
+    -92.014799,
+    30.172105
+],
+  "geometry": {"coordinates":[-92.014799,30.172105],"type":"Point"}
+}

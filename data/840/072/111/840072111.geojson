@@ -1,0 +1,71 @@
+{
+  "id": 840072111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.143098,30.58674,-91.143098,30.58674",
+    "geom:latitude":30.58674,
+    "geom:longitude":-91.143098,
+    "iso:country":"US",
+    "sg:address":"5100 Groom Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 771 1881",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07GRR1limIBogDNFxlpKOZ_30.586740_-91.143098@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520519,
+    "wof:geomhash":"28ca95ba398f066f912b99d26d8130bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840072111
+        }
+    ],
+    "wof:id":840072111,
+    "wof:lastmodified":1463520519,
+    "wof:name":"Genesis Hospice",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -91.143098,
+    30.58674,
+    -91.143098,
+    30.58674
+],
+  "geometry": {"coordinates":[-91.14309799999999,30.58674],"type":"Point"}
+}

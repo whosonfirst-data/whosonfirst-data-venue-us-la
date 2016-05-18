@@ -1,0 +1,73 @@
+{
+  "id": 840411295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376159,30.222379,-93.376159,30.222379",
+    "geom:latitude":30.222379,
+    "geom:longitude":-93.376159,
+    "iso:country":"US",
+    "sg:address":"132 Starlin Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 6803",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CwJQRIUxadj7Tc0Qam58p_30.222379_-93.376159@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531667,
+    "wof:geomhash":"5690bc549d0e410fd7a72c29e1f68bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840411295
+        }
+    ],
+    "wof:id":840411295,
+    "wof:lastmodified":1463531667,
+    "wof:name":"Savoie Alignment & Automotive",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.376159,
+    30.222379,
+    -93.376159,
+    30.222379
+],
+  "geometry": {"coordinates":[-93.376159,30.222379],"type":"Point"}
+}

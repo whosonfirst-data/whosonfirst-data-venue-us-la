@@ -1,0 +1,71 @@
+{
+  "id": 840226173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.253272,30.269213,-93.253272,30.269213",
+    "geom:latitude":30.269213,
+    "geom:longitude":-93.253272,
+    "iso:country":"US",
+    "sg:address":"2515 Anderson Rd",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7346",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fNfqtywt8OTK3i55nZ1at_30.269213_-93.253272@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523984,
+    "wof:geomhash":"cf2556292ec4a5e0461a49210da04ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840226173
+        }
+    ],
+    "wof:id":840226173,
+    "wof:lastmodified":1463523984,
+    "wof:name":"Runner's Delivery Svc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -93.253272,
+    30.269213,
+    -93.253272,
+    30.269213
+],
+  "geometry": {"coordinates":[-93.253272,30.269213],"type":"Point"}
+}

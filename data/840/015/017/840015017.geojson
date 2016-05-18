@@ -1,0 +1,71 @@
+{
+  "id": 840015017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.02175,30.453249,-91.02175,30.453249",
+    "geom:latitude":30.453249,
+    "geom:longitude":-91.02175,
+    "iso:country":"US",
+    "sg:address":"14523 Old Hammond Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 275 4991",
+    "sg:postcode":"70816",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85844741,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I7xa2pqArIIfpRdgcdCjZ_30.453249_-91.021750@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519313,
+    "wof:geomhash":"abe60a9b835dad47348eb1a7108fab4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85844741,
+            "region_id":85688735,
+            "venue_id":840015017
+        }
+    ],
+    "wof:id":840015017,
+    "wof:lastmodified":1463519313,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85844741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -91.02175,
+    30.453249,
+    -91.02175,
+    30.453249
+],
+  "geometry": {"coordinates":[-91.02175,30.453249],"type":"Point"}
+}

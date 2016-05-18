@@ -1,0 +1,75 @@
+{
+  "id": 840287577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.196491,31.149352,-93.196491,31.149352",
+    "geom:latitude":31.149352,
+    "geom:longitude":-93.196491,
+    "iso:country":"US",
+    "sg:address":"2294 Slagle Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 4522",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NFpgxRiPjI6wYmxoky5i1_31.149352_-93.196491@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525967,
+    "wof:geomhash":"72ba71b9cd113e197de2241ee0c15450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840287577
+        }
+    ],
+    "wof:id":840287577,
+    "wof:lastmodified":1463525967,
+    "wof:name":"Vernon Correctional Facility",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -93.196491,
+    31.149352,
+    -93.196491,
+    31.149352
+],
+  "geometry": {"coordinates":[-93.19649099999999,31.149352],"type":"Point"}
+}

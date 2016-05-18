@@ -1,0 +1,73 @@
+{
+  "id": 840237703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.444179,30.451808,-93.444179,30.451808",
+    "geom:latitude":30.451808,
+    "geom:longitude":-93.444179,
+    "iso:country":"US",
+    "sg:address":"601 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 6161",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yp8TZhz3cmnxXmcZmSAbs_30.451808_-93.444179@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524316,
+    "wof:geomhash":"9a3210b8b9aeee1f627789f88fe2dc17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840237703
+        }
+    ],
+    "wof:id":840237703,
+    "wof:lastmodified":1463524316,
+    "wof:name":"De Quincy Medical Clinic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.444179,
+    30.451808,
+    -93.444179,
+    30.451808
+],
+  "geometry": {"coordinates":[-93.44417900000001,30.451808],"type":"Point"}
+}

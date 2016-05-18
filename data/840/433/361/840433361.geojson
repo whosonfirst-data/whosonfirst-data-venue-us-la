@@ -1,0 +1,73 @@
+{
+  "id": 840433361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.176344,30.566648,-91.176344,30.566648",
+    "geom:latitude":30.566648,
+    "geom:longitude":-91.176344,
+    "iso:country":"US",
+    "sg:address":"1500 Rafe Meyer Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 774 5000",
+    "sg:postcode":"70807",
+    "sg:province":"LA",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948207,
+        102087229,
+        85840811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SlRCQhdU2ssskFB7qwmMr_30.566648_-91.176344@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532615,
+    "wof:geomhash":"d683bb252a63ae63ce7b3e1e7bc80488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840811,
+            "region_id":85688735,
+            "venue_id":840433361
+        }
+    ],
+    "wof:id":840433361,
+    "wof:lastmodified":1463532615,
+    "wof:name":"Ronaldson Field Landfill",
+    "wof:parent_id":85840811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -91.176344,
+    30.566648,
+    -91.176344,
+    30.566648
+],
+  "geometry": {"coordinates":[-91.176344,30.566648],"type":"Point"}
+}

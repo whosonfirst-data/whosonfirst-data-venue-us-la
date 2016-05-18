@@ -1,0 +1,71 @@
+{
+  "id": 840316287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.219067,30.451782,-91.219067,30.451782",
+    "geom:latitude":30.451782,
+    "geom:longitude":-91.219067,
+    "iso:country":"US",
+    "sg:address":"1635 Court St",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 383 5097",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nJjlUSC5fmyIoNxFHMfI1_30.451782_-91.219067@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527274,
+    "wof:geomhash":"211f75f369ba8958724180130b747004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840316287
+        }
+    ],
+    "wof:id":840316287,
+    "wof:lastmodified":1463527274,
+    "wof:name":"Westport Animal Clinic",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.219067,
+    30.451782,
+    -91.219067,
+    30.451782
+],
+  "geometry": {"coordinates":[-91.219067,30.451782],"type":"Point"}
+}

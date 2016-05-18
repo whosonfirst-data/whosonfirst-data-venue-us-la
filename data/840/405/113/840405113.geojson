@@ -1,0 +1,69 @@
+{
+  "id": 840405113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.099397,29.975754,-90.099397,29.975754",
+    "geom:latitude":29.975754,
+    "geom:longitude":-90.099397,
+    "iso:country":"US",
+    "sg:address":"201 N Carrollton Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 484 0525",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:website":"www.brewhousegrill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F5EixxnRIfWoo6F3VkXa8_29.975754_-90.099397@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531428,
+    "wof:geomhash":"068188497b29001c641cc4416af16d65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840405113
+        }
+    ],
+    "wof:id":840405113,
+    "wof:lastmodified":1463531428,
+    "wof:name":"Brewhouse Grill",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.099397,
+    29.975754,
+    -90.099397,
+    29.975754
+],
+  "geometry": {"coordinates":[-90.099397,29.975754],"type":"Point"}
+}

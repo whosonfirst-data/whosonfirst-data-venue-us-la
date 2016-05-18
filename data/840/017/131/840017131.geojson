@@ -1,0 +1,71 @@
+{
+  "id": 840017131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.236042,30.289091,-91.236042,30.289091",
+    "geom:latitude":30.289091,
+    "geom:longitude":-91.236042,
+    "iso:country":"US",
+    "sg:address":"23540 Railroad Ave",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 687 9273",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cK5asUEwm1ukBqGyLS8qG_30.289091_-91.236042@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519351,
+    "wof:geomhash":"209054049bad1b50d559d4e01ae4dd1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840017131
+        }
+    ],
+    "wof:id":840017131,
+    "wof:lastmodified":1463519351,
+    "wof:name":"Plaquemine Police Dept",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.236042,
+    30.289091,
+    -91.236042,
+    30.289091
+],
+  "geometry": {"coordinates":[-91.236042,30.289091],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840199911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.109735,32.487531,-92.109735,32.487531",
+    "geom:latitude":32.487531,
+    "geom:longitude":-92.109735,
+    "iso:country":"US",
+    "sg:address":"1715 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 387 3941",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oPrV0BKIuHGuk3C6Z32Af_32.487531_-92.109735@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523328,
+    "wof:geomhash":"5805204967bd62b7f47ce582ba108229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840199911
+        }
+    ],
+    "wof:id":840199911,
+    "wof:lastmodified":1463523328,
+    "wof:name":"Copes Towing Svc",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.109735,
+    32.487531,
+    -92.109735,
+    32.487531
+],
+  "geometry": {"coordinates":[-92.109735,32.487531],"type":"Point"}
+}

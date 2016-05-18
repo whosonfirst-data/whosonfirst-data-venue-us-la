@@ -1,0 +1,73 @@
+{
+  "id": 840449245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.024919,30.234719,-92.024919,30.234719",
+    "geom:latitude":30.234719,
+    "geom:longitude":-92.024919,
+    "iso:country":"US",
+    "sg:address":"111 S Saint Antoine St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 7812",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ESDLQAF4raLcP4txsooVW_30.234667_-92.024863@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533263,
+    "wof:geomhash":"cbda32b5a79e8b6f23582b07a091989c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840449245
+        }
+    ],
+    "wof:id":840449245,
+    "wof:lastmodified":1463533263,
+    "wof:name":"St Antoine Elementary School",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -92.024919,
+    30.234719,
+    -92.024919,
+    30.234719
+],
+  "geometry": {"coordinates":[-92.024919,30.234719],"type":"Point"}
+}

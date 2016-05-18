@@ -1,0 +1,73 @@
+{
+  "id": 840139619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.12468,30.225377,-92.12468,30.225377",
+    "geom:latitude":30.225377,
+    "geom:longitude":-92.12468,
+    "iso:country":"US",
+    "sg:address":"840 Jenkins Rd",
+    "sg:city":"Duson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 5075",
+    "sg:postcode":"70529",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n08WZYdbuCD3dQZAnH0tB_30.225377_-92.124680@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522041,
+    "wof:geomhash":"8d210654754d3f7cb85e3d273a3ac455",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840139619
+        }
+    ],
+    "wof:id":840139619,
+    "wof:lastmodified":1463522041,
+    "wof:name":"Arceneaux Electric",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.12468,
+    30.225377,
+    -92.12468,
+    30.225377
+],
+  "geometry": {"coordinates":[-92.12468,30.225377],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840025211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.353239,30.304745,-93.353239,30.304745",
+    "geom:latitude":30.304745,
+    "geom:longitude":-93.353239,
+    "iso:country":"US",
+    "sg:address":"3431 House Ln",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 3365",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e41JLDQPiaOre8U0tMvtc_30.304745_-93.353239@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519508,
+    "wof:geomhash":"51a0433c031f86c97adf430729f335dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840025211
+        }
+    ],
+    "wof:id":840025211,
+    "wof:lastmodified":1463519508,
+    "wof:name":"Mid Town Car Wash",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -93.353239,
+    30.304745,
+    -93.353239,
+    30.304745
+],
+  "geometry": {"coordinates":[-93.353239,30.304745],"type":"Point"}
+}

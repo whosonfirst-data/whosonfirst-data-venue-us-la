@@ -1,0 +1,71 @@
+{
+  "id": 840400339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.428345,30.436877,-93.428345,30.436877",
+    "geom:latitude":30.436877,
+    "geom:longitude":-93.428345,
+    "iso:country":"US",
+    "sg:address":"1020 State Rte 27",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 3160",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xltoizSAFdDDL4Llk6L3O_30.436877_-93.428345@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531223,
+    "wof:geomhash":"7fe710db938b937ed0646e0bacd90e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840400339
+        }
+    ],
+    "wof:id":840400339,
+    "wof:lastmodified":1463531223,
+    "wof:name":"Wingate Grocery",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.428345,
+    30.436877,
+    -93.428345,
+    30.436877
+],
+  "geometry": {"coordinates":[-93.42834499999999,30.436877],"type":"Point"}
+}

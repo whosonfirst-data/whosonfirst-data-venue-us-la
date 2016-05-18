@@ -1,0 +1,73 @@
+{
+  "id": 840222033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.816896,30.011026,-91.816896,30.011026",
+    "geom:latitude":30.011026,
+    "geom:longitude":-91.816896,
+    "iso:country":"US",
+    "sg:address":"300 Indest St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 0152",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XaEu564jNQoS2G8ti6npt_30.011026_-91.816896@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523876,
+    "wof:geomhash":"9982d33021ccdca29eb72213c502c765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840222033
+        }
+    ],
+    "wof:id":840222033,
+    "wof:lastmodified":1463523876,
+    "wof:name":"Theriot's Total Car Care",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.816896,
+    30.011026,
+    -91.816896,
+    30.011026
+],
+  "geometry": {"coordinates":[-91.816896,30.011026],"type":"Point"}
+}

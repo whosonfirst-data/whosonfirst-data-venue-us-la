@@ -1,0 +1,71 @@
+{
+  "id": 840113467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.478419,30.500936,-90.478419,30.500936",
+    "geom:latitude":30.500936,
+    "geom:longitude":-90.478419,
+    "iso:country":"US",
+    "sg:address":"1701 W Thomas St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 429 8036",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ANoqSFPWyrXnHrZ9nflgf_30.500936_-90.478419@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521495,
+    "wof:geomhash":"451497457ac7ae245f410f5fc5f1cfe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840113467
+        }
+    ],
+    "wof:id":840113467,
+    "wof:lastmodified":1463521495,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.478419,
+    30.500936,
+    -90.478419,
+    30.500936
+],
+  "geometry": {"coordinates":[-90.478419,30.500936],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840276793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.18,30.320802,-93.18,30.320802",
+    "geom:latitude":30.320802,
+    "geom:longitude":-93.18,
+    "iso:country":"US",
+    "sg:address":"1261 Walnut Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 8683",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qnGPEytLsBJyX5eDRKFjf_30.320802_-93.180000@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525476,
+    "wof:geomhash":"11b9e9a9e16949c04928181317e385c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840276793
+        }
+    ],
+    "wof:id":840276793,
+    "wof:lastmodified":1463525476,
+    "wof:name":"Wendys",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -93.18,
+    30.320802,
+    -93.18,
+    30.320802
+],
+  "geometry": {"coordinates":[-93.18000000000001,30.320802],"type":"Point"}
+}

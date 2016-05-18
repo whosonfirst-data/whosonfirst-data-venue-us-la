@@ -1,0 +1,71 @@
+{
+  "id": 840116063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528845,29.883647,-91.528845,29.883647",
+    "geom:latitude":29.883647,
+    "geom:longitude":-91.528845,
+    "iso:country":"US",
+    "sg:address":"213 Coushatta Dr",
+    "sg:city":"Charenton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 923 0514",
+    "sg:postcode":"70523",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZhMgbwTxj96ZZRdpoRsuq_29.883647_-91.528845@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521555,
+    "wof:geomhash":"a787b6ce367874c38906bd7a1fbc01ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840116063
+        }
+    ],
+    "wof:id":840116063,
+    "wof:lastmodified":1463521555,
+    "wof:name":"Chitimacha Tribe Police Dept",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.528845,
+    29.883647,
+    -91.528845,
+    29.883647
+],
+  "geometry": {"coordinates":[-91.528845,29.883647],"type":"Point"}
+}

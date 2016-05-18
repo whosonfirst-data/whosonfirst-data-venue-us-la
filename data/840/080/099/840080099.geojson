@@ -1,0 +1,73 @@
+{
+  "id": 840080099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.451551,31.298598,-92.451551,31.298598",
+    "geom:latitude":31.298598,
+    "geom:longitude":-92.451551,
+    "iso:country":"US",
+    "sg:address":"1919 Lee St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 449 9030",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bb2gjMR1gMBUXzbW2e9MM_31.298598_-92.451551@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520682,
+    "wof:geomhash":"8697b82155990e1ce77dd90964889fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840080099
+        }
+    ],
+    "wof:id":840080099,
+    "wof:lastmodified":1463520682,
+    "wof:name":"Kevin's Auto Sales",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.451551,
+    31.298598,
+    -92.451551,
+    31.298598
+],
+  "geometry": {"coordinates":[-92.45155099999999,31.298598],"type":"Point"}
+}

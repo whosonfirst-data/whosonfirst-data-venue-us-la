@@ -1,0 +1,71 @@
+{
+  "id": 840360299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.206665,30.183615,-93.206665,30.183615",
+    "geom:latitude":30.183615,
+    "geom:longitude":-93.206665,
+    "iso:country":"US",
+    "sg:address":"1045 Walters St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 2685",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_407h329Kta2FUKYBSenMyl_30.183615_-93.206665@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529397,
+    "wof:geomhash":"ca919d19c710f3f408da9256ad96b527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840360299
+        }
+    ],
+    "wof:id":840360299,
+    "wof:lastmodified":1463529397,
+    "wof:name":"Shadowood Apartments",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.206665,
+    30.183615,
+    -93.206665,
+    30.183615
+],
+  "geometry": {"coordinates":[-93.206665,30.183615],"type":"Point"}
+}

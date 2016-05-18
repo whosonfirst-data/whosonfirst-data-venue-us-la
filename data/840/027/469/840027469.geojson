@@ -1,0 +1,73 @@
+{
+  "id": 840027469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.010775,30.211174,-92.010775,30.211174",
+    "geom:latitude":30.211174,
+    "geom:longitude":-92.010775,
+    "iso:country":"US",
+    "sg:address":"900 E University Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 291 8619",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_128nXdo5VAPfAs6WQKjGC3_30.211174_-92.010775@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519563,
+    "wof:geomhash":"3f69dad668f4498788dab2b0ea2ab1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840027469
+        }
+    ],
+    "wof:id":840027469,
+    "wof:lastmodified":1463519563,
+    "wof:name":"Lafayette Police Accidents",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.010775,
+    30.211174,
+    -92.010775,
+    30.211174
+],
+  "geometry": {"coordinates":[-92.010775,30.211174],"type":"Point"}
+}

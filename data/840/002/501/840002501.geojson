@@ -1,0 +1,73 @@
+{
+  "id": 840002501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.128928,29.995288,-90.128928,29.995288",
+    "geom:latitude":29.995288,
+    "geom:longitude":-90.128928,
+    "iso:country":"US",
+    "sg:address":"402 Aris Ave",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 467 1826",
+    "sg:postcode":"70005",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948743,
+        102083179,
+        85866149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OYmrb8KqSwco6pQlEGoQl_29.995288_-90.128928@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519045,
+    "wof:geomhash":"b61dcfcfe196f1d9a0d7c45c58d9cfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":85866149,
+            "region_id":85688735,
+            "venue_id":840002501
+        }
+    ],
+    "wof:id":840002501,
+    "wof:lastmodified":1463519045,
+    "wof:name":"Scallan's Towing",
+    "wof:parent_id":85866149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.128928,
+    29.995288,
+    -90.128928,
+    29.995288
+],
+  "geometry": {"coordinates":[-90.128928,29.995288],"type":"Point"}
+}

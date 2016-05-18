@@ -1,0 +1,73 @@
+{
+  "id": 840271643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.051059,30.18796,-92.051059,30.18796",
+    "geom:latitude":30.18796,
+    "geom:longitude":-92.051059,
+    "iso:country":"US",
+    "sg:address":"235 Normandy Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 9897",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wRyWLGrG5P5FiJDcuiFpU_30.187960_-92.051059@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525246,
+    "wof:geomhash":"90302cd7e7e6f3b58f3a56a694f42890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840271643
+        }
+    ],
+    "wof:id":840271643,
+    "wof:lastmodified":1463525246,
+    "wof:name":"Hippity Hop Door Unlock",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -92.051059,
+    30.18796,
+    -92.051059,
+    30.18796
+],
+  "geometry": {"coordinates":[-92.051059,30.18796],"type":"Point"}
+}

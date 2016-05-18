@@ -1,0 +1,75 @@
+{
+  "id": 840114593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.009635,30.213199,-92.009635,30.213199",
+    "geom:latitude":30.213199,
+    "geom:longitude":-92.009635,
+    "iso:country":"US",
+    "sg:address":"917 General Mouton Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 2057",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e2sk2TQgO3qsaVNbZ12B0_30.213199_-92.009635@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521524,
+    "wof:geomhash":"4480e0fa0db87506196339baa9e1eb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840114593
+        }
+    ],
+    "wof:id":840114593,
+    "wof:lastmodified":1463521524,
+    "wof:name":"Oncologics Inc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.009635,
+    30.213199,
+    -92.009635,
+    30.213199
+],
+  "geometry": {"coordinates":[-92.009635,30.213199],"type":"Point"}
+}

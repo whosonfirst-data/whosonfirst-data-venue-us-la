@@ -1,0 +1,73 @@
+{
+  "id": 840153797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.749256,32.514554,-93.749256,32.514554",
+    "geom:latitude":32.514554,
+    "geom:longitude":-93.749256,
+    "iso:country":"US",
+    "sg:address":"333 Travis St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 425 4517",
+    "sg:postcode":"71101",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Na4WG8zpsZCTGPwYDvZj_32.514554_-93.749256@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522327,
+    "wof:geomhash":"3d07714df645a4332fd3b47f854f07ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880993,
+            "region_id":85688735,
+            "venue_id":840153797
+        }
+    ],
+    "wof:id":840153797,
+    "wof:lastmodified":1463522327,
+    "wof:name":"System Parking",
+    "wof:parent_id":85880993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -93.749256,
+    32.514554,
+    -93.749256,
+    32.514554
+],
+  "geometry": {"coordinates":[-93.749256,32.514554],"type":"Point"}
+}

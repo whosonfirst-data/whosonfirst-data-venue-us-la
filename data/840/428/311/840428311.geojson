@@ -1,0 +1,73 @@
+{
+  "id": 840428311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.223535,30.275528,-91.223535,30.275528",
+    "geom:latitude":30.275528,
+    "geom:longitude":-91.223535,
+    "iso:country":"US",
+    "sg:address":"25077 State Rte 1",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 687 1772",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3spQGQqyX9BzRZhIxyBI0f_30.275528_-91.223535@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532369,
+    "wof:geomhash":"a6a59fef7e6e7b4e375b619257fbc1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840428311
+        }
+    ],
+    "wof:id":840428311,
+    "wof:lastmodified":1463532369,
+    "wof:name":"Family First Medical Clinic",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.223535,
+    30.275528,
+    -91.223535,
+    30.275528
+],
+  "geometry": {"coordinates":[-91.223535,30.275528],"type":"Point"}
+}

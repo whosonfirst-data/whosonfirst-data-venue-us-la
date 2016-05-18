@@ -1,0 +1,71 @@
+{
+  "id": 840251477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.442207,30.51278,-90.442207,30.51278",
+    "geom:latitude":30.51278,
+    "geom:longitude":-90.442207,
+    "iso:country":"US",
+    "sg:address":"45230 Morris Rd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 5770",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tDKT6XN3DTzvQfzqHxV3S_30.512780_-90.442207@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524639,
+    "wof:geomhash":"00858fc112a0e76ec5f343f2481c6131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840251477
+        }
+    ],
+    "wof:id":840251477,
+    "wof:lastmodified":1463524639,
+    "wof:name":"Companion Animal Hospital",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.442207,
+    30.51278,
+    -90.442207,
+    30.51278
+],
+  "geometry": {"coordinates":[-90.442207,30.51278],"type":"Point"}
+}

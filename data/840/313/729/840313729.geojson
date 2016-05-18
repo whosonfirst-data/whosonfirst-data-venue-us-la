@@ -1,0 +1,71 @@
+{
+  "id": 840313729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.456332,31.30141,-92.456332,31.30141",
+    "geom:latitude":31.30141,
+    "geom:longitude":-92.456332,
+    "iso:country":"US",
+    "sg:address":"1909 Albert St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 445 1341",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75tqzfo8RABcAPaF1aJ4Yd_31.301410_-92.456332@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527160,
+    "wof:geomhash":"d7679909b4288121f5f03e47276147ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840313729
+        }
+    ],
+    "wof:id":840313729,
+    "wof:lastmodified":1463527160,
+    "wof:name":"David M Brewer & Assoc",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -92.456332,
+    31.30141,
+    -92.456332,
+    31.30141
+],
+  "geometry": {"coordinates":[-92.456332,31.30141],"type":"Point"}
+}

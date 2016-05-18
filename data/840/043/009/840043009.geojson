@@ -1,0 +1,73 @@
+{
+  "id": 840043009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.822754,30.004664,-91.822754,30.004664",
+    "geom:latitude":30.004664,
+    "geom:longitude":-91.822754,
+    "iso:country":"US",
+    "sg:address":"129 W Pershing St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 3896",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y3ET0BOqxaMzZDaB3WviW_30.004664_-91.822754@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519910,
+    "wof:geomhash":"93777d8318d8a71f47bb5c589da88f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840043009
+        }
+    ],
+    "wof:id":840043009,
+    "wof:lastmodified":1463519910,
+    "wof:name":"Saint Mary Water Works",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.822754,
+    30.004664,
+    -91.822754,
+    30.004664
+],
+  "geometry": {"coordinates":[-91.822754,30.004664],"type":"Point"}
+}

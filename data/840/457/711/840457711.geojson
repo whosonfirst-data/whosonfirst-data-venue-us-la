@@ -1,0 +1,87 @@
+{
+  "id": 840457711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.171074,30.402645,-91.171074,30.402645",
+    "geom:latitude":30.402645,
+    "geom:longitude":-91.171074,
+    "iso:country":"US",
+    "sg:address":"4410 Highland Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/209066-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 766 9935",
+    "sg:postcode":"70808",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85853209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dnuvuQ3LY2puD7sIyAdcr_30.402954_-91.171520@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533603,
+    "wof:geomhash":"7e81fc30ea9dff9a9ea056b5e1527553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85853209,
+            "region_id":85688735,
+            "venue_id":840457711
+        }
+    ],
+    "wof:id":840457711,
+    "wof:lastmodified":1463533603,
+    "wof:name":"TCBY",
+    "wof:parent_id":85853209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -91.171074,
+    30.402645,
+    -91.171074,
+    30.402645
+],
+  "geometry": {"coordinates":[-91.171074,30.402645],"type":"Point"}
+}

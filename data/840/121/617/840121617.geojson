@@ -1,0 +1,73 @@
+{
+  "id": 840121617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.330984,30.236929,-93.330984,30.236929",
+    "geom:latitude":30.236929,
+    "geom:longitude":-93.330984,
+    "iso:country":"US",
+    "sg:address":"3313 E Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 533 0001",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TBGnbkqdSyaWoe85dIcUQ_30.236929_-93.330984@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521677,
+    "wof:geomhash":"89b3a17377b56378613bf43b483e62a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840121617
+        }
+    ],
+    "wof:id":840121617,
+    "wof:lastmodified":1463521677,
+    "wof:name":"Allied Medical Equipment Rpr",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [
+    -93.330984,
+    30.236929,
+    -93.330984,
+    30.236929
+],
+  "geometry": {"coordinates":[-93.330984,30.236929],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840313543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.500721,30.960685,-90.500721,30.960685",
+    "geom:latitude":30.960685,
+    "geom:longitude":-90.500721,
+    "iso:country":"US",
+    "sg:address":"76393 US Hwy 51",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 7712",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70QzuEGBHedCyXrrYt4qfP_30.960685_-90.500721@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527153,
+    "wof:geomhash":"8d975ea547fcd249fc7aa878296fb2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840313543
+        }
+    ],
+    "wof:id":840313543,
+    "wof:lastmodified":1463527153,
+    "wof:name":"Kentwood Veterinary Clinic",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.500721,
+    30.960685,
+    -90.500721,
+    30.960685
+],
+  "geometry": {"coordinates":[-90.500721,30.960685],"type":"Point"}
+}

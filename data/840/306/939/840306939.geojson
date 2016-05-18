@@ -1,0 +1,73 @@
+{
+  "id": 840306939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.439581,30.439437,-90.439581,30.439437",
+    "geom:latitude":30.439437,
+    "geom:longitude":-90.439581,
+    "iso:country":"US",
+    "sg:address":"180 N 5th St",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 370 7546",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44r53alGPMbzh0Q9cluhig_30.439437_-90.439581@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526847,
+    "wof:geomhash":"113287a835651ed610ca926637bace11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840306939
+        }
+    ],
+    "wof:id":840306939,
+    "wof:lastmodified":1463526847,
+    "wof:name":"Benson Dermatology & Skin Cncr",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.439581,
+    30.439437,
+    -90.439581,
+    30.439437
+],
+  "geometry": {"coordinates":[-90.439581,30.439437],"type":"Point"}
+}

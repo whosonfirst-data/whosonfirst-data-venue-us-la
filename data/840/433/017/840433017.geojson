@@ -1,0 +1,75 @@
+{
+  "id": 840433017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.04993,30.203056,-92.04993,30.203056",
+    "geom:latitude":30.203056,
+    "geom:longitude":-92.04993,
+    "iso:country":"US",
+    "sg:address":"3203 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 8473",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J9lOJe8WLwOIgfZk8j913_30.203056_-92.049930@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532602,
+    "wof:geomhash":"d252b203ab16bf8a9b1d205bd9f3b8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840433017
+        }
+    ],
+    "wof:id":840433017,
+    "wof:lastmodified":1463532602,
+    "wof:name":"Lafayette's Tire & Svc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.04993,
+    30.203056,
+    -92.04993,
+    30.203056
+],
+  "geometry": {"coordinates":[-92.04993,30.203056],"type":"Point"}
+}

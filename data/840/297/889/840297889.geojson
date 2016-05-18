@@ -1,0 +1,71 @@
+{
+  "id": 840297889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249527,30.214603,-93.249527,30.214603",
+    "geom:latitude":30.214603,
+    "geom:longitude":-93.249527,
+    "iso:country":"US",
+    "sg:address":"150 Marine St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 3321",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rJOMDphETBizYyOhwnkM6_30.214603_-93.249527@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526398,
+    "wof:geomhash":"14c5214c3ca294d6a3d687b34be5f753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840297889
+        }
+    ],
+    "wof:id":840297889,
+    "wof:lastmodified":1463526398,
+    "wof:name":"Lake Charles Food Products",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -93.249527,
+    30.214603,
+    -93.249527,
+    30.214603
+],
+  "geometry": {"coordinates":[-93.249527,30.214603],"type":"Point"}
+}

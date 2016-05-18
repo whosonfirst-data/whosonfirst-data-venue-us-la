@@ -1,0 +1,75 @@
+{
+  "id": 840291499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.501462,31.564325,-93.501462,31.564325",
+    "geom:latitude":31.564325,
+    "geom:longitude":-93.501462,
+    "iso:country":"US",
+    "sg:address":"102 Shuteye Rd",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 9805",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CMDALlJVU56hD7BRtCgNt_31.564325_-93.501462@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526131,
+    "wof:geomhash":"0887217d4155ff6e423c54b19afa267a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840291499
+        }
+    ],
+    "wof:id":840291499,
+    "wof:lastmodified":1463526131,
+    "wof:name":"Davis Body Works",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.501462,
+    31.564325,
+    -93.501462,
+    31.564325
+],
+  "geometry": {"coordinates":[-93.501462,31.564325],"type":"Point"}
+}

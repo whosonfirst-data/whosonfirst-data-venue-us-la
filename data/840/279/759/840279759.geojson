@@ -1,0 +1,73 @@
+{
+  "id": 840279759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.110323,29.96106,-90.110323,29.96106",
+    "geom:latitude":29.96106,
+    "geom:longitude":-90.110323,
+    "iso:country":"US",
+    "sg:address":"3300 Lowerline St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 486 9167",
+    "sg:postcode":"70125",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U0fQMUckg3KOSrWTHztmv_29.961060_-90.110323@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525605,
+    "wof:geomhash":"f18fc38392b4e193f550aaaec82d8cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840279759
+        }
+    ],
+    "wof:id":840279759,
+    "wof:lastmodified":1463525605,
+    "wof:name":"Food King Market",
+    "wof:parent_id":85866077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.110323,
+    29.96106,
+    -90.110323,
+    29.96106
+],
+  "geometry": {"coordinates":[-90.11032299999999,29.96106],"type":"Point"}
+}

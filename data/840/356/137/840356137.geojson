@@ -1,0 +1,75 @@
+{
+  "id": 840356137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.766123,30.243806,-89.766123,30.243806",
+    "geom:latitude":30.243806,
+    "geom:longitude":-89.766123,
+    "iso:country":"US",
+    "sg:address":"38222 Cleveland St",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 847 0017",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85850405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47WqQRm0HzkgMnhIUOuM2W_30.243806_-89.766123@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529218,
+    "wof:geomhash":"1bd7910ef64b030061feb5a142cd847e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85850405,
+            "region_id":85688735,
+            "venue_id":840356137
+        }
+    ],
+    "wof:id":840356137,
+    "wof:lastmodified":1463529218,
+    "wof:name":"R & R Automotive",
+    "wof:parent_id":85850405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.766123,
+    30.243806,
+    -89.766123,
+    30.243806
+],
+  "geometry": {"coordinates":[-89.76612299999999,30.243806],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840454555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.832925,29.990929,-91.832925,29.990929",
+    "geom:latitude":29.990929,
+    "geom:longitude":-91.832925,
+    "iso:country":"US",
+    "sg:address":"1501 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-iberia/188400-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KVcbJU2aAYjmckfaREN3E_29.990929_-91.832925@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533488,
+    "wof:geomhash":"398cc9698766de2339769b3b7f093c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840454555
+        }
+    ],
+    "wof:id":840454555,
+    "wof:lastmodified":1463533488,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.832925,
+    29.990929,
+    -91.832925,
+    29.990929
+],
+  "geometry": {"coordinates":[-91.832925,29.990929],"type":"Point"}
+}

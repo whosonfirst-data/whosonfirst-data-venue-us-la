@@ -1,0 +1,73 @@
+{
+  "id": 840255603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.957854,29.954431,-89.957854,29.954431",
+    "geom:latitude":29.954431,
+    "geom:longitude":-89.957854,
+    "iso:country":"US",
+    "sg:address":"3803 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 1344",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DFnhOXl0PCx1vEqjoJ1ij_29.954431_-89.957854@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524729,
+    "wof:geomhash":"c724ec79690abab3fd53363440074986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840255603
+        }
+    ],
+    "wof:id":840255603,
+    "wof:lastmodified":1463524729,
+    "wof:name":"Chalmette Medical & Home Hlth",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.957854,
+    29.954431,
+    -89.957854,
+    29.954431
+],
+  "geometry": {"coordinates":[-89.957854,29.954431],"type":"Point"}
+}

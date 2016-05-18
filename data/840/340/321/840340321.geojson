@@ -1,0 +1,75 @@
+{
+  "id": 840340321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.082629,30.153711,-92.082629,30.153711",
+    "geom:latitude":30.153711,
+    "geom:longitude":-92.082629,
+    "iso:country":"US",
+    "sg:address":"302 Presbytere Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 255 5670",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vvaR8K0It9dLCiKfEjGcg_30.153711_-92.082629@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528427,
+    "wof:geomhash":"88979e5e61dd78bc1f5159b5e545f9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840340321
+        }
+    ],
+    "wof:id":840340321,
+    "wof:lastmodified":1463528427,
+    "wof:name":"Abukubie Trucking",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.082629,
+    30.153711,
+    -92.082629,
+    30.153711
+],
+  "geometry": {"coordinates":[-92.082629,30.153711],"type":"Point"}
+}

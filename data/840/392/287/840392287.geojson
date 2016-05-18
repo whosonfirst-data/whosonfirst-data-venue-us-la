@@ -1,0 +1,75 @@
+{
+  "id": 840392287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.08933,30.025527,-90.08933,30.025527",
+    "geom:latitude":30.025527,
+    "geom:longitude":-90.08933,
+    "iso:country":"US",
+    "sg:address":"31 Plover St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 283 3983",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D5Hs0DcGnHEz8smkPqR0V_30.025527_-90.089330@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530891,
+    "wof:geomhash":"01c8e9400f1e8ddf4a7fc63a8652bb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866053,
+            "region_id":85688735,
+            "venue_id":840392287
+        }
+    ],
+    "wof:id":840392287,
+    "wof:lastmodified":1463530891,
+    "wof:name":"Dr Robert G Weilbaecher",
+    "wof:parent_id":85866053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.08933,
+    30.025527,
+    -90.08933,
+    30.025527
+],
+  "geometry": {"coordinates":[-90.08933,30.025527],"type":"Point"}
+}

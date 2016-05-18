@@ -1,0 +1,77 @@
+{
+  "id": 840456267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.716768,32.517777,-93.716768,32.517777",
+    "geom:latitude":32.517777,
+    "geom:longitude":-93.716768,
+    "iso:country":"US",
+    "sg:address":"210 Benton Rd",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bossier-city/188281-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71111",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529577,
+        85811501,
+        102191575,
+        85633793,
+        85947997,
+        102084883,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ez2Yqw9ga2TfJmhxp2NIN_32.517777_-93.716768@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533547,
+    "wof:geomhash":"42e81fd0975056940080b592353377ea",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529577,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084883,
+            "locality_id":85947997,
+            "neighbourhood_id":85811501,
+            "region_id":85688735,
+            "venue_id":840456267
+        }
+    ],
+    "wof:id":840456267,
+    "wof:lastmodified":1463533547,
+    "wof:name":"McDonald's",
+    "wof:parent_id":102529577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.716768,
+    32.517777,
+    -93.716768,
+    32.517777
+],
+  "geometry": {"coordinates":[-93.716768,32.517777],"type":"Point"}
+}

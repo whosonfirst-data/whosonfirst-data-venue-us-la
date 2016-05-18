@@ -1,0 +1,71 @@
+{
+  "id": 840300627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.458813,30.501514,-90.458813,30.501514",
+    "geom:latitude":30.501514,
+    "geom:longitude":-90.458813,
+    "iso:country":"US",
+    "sg:address":"100 E Coleman Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 230 0700",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21UWejuBkaNxHOc6cRzlMx_30.501514_-90.458813@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526531,
+    "wof:geomhash":"c3067cde38f0955a6276bd5b2a23e229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840300627
+        }
+    ],
+    "wof:id":840300627,
+    "wof:lastmodified":1463526531,
+    "wof:name":"State Wide Transport",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -90.458813,
+    30.501514,
+    -90.458813,
+    30.501514
+],
+  "geometry": {"coordinates":[-90.45881300000001,30.501514],"type":"Point"}
+}

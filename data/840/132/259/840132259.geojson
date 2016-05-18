@@ -1,0 +1,71 @@
+{
+  "id": 840132259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.020259,30.377884,-91.020259,30.377884",
+    "geom:latitude":30.377884,
+    "geom:longitude":-91.020259,
+    "iso:country":"US",
+    "sg:address":"15225 Jefferson Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 755 3838",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EPeYNkcSvi0mSgZ4qCHrH_30.377884_-91.020259@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521891,
+    "wof:geomhash":"08db34d27aa3a4be7f24f12319321a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840132259
+        }
+    ],
+    "wof:id":840132259,
+    "wof:lastmodified":1463521891,
+    "wof:name":"Azalea Lake Veterinary Clinic",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.020259,
+    30.377884,
+    -91.020259,
+    30.377884
+],
+  "geometry": {"coordinates":[-91.020259,30.377884],"type":"Point"}
+}

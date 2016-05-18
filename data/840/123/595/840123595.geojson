@@ -1,0 +1,71 @@
+{
+  "id": 840123595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.238103,30.285696,-91.238103,30.285696",
+    "geom:latitude":30.285696,
+    "geom:longitude":-91.238103,
+    "iso:country":"US",
+    "sg:address":"58165 Meriam St",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 687 7335",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ol5uktezhRjF04rLDXoWa_30.285696_-91.238103@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521724,
+    "wof:geomhash":"84b173b8033b9fc84be27ba9502c692c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840123595
+        }
+    ],
+    "wof:id":840123595,
+    "wof:lastmodified":1463521724,
+    "wof:name":"Plaquemine Fire Dept",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.238103,
+    30.285696,
+    -91.238103,
+    30.285696
+],
+  "geometry": {"coordinates":[-91.238103,30.285696],"type":"Point"}
+}

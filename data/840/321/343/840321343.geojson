@@ -1,0 +1,73 @@
+{
+  "id": 840321343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.19326,29.963179,-90.19326,29.963179",
+    "geom:latitude":29.963179,
+    "geom:longitude":-90.19326,
+    "iso:country":"US",
+    "sg:address":"1501 Kuebel St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 736 0731",
+    "sg:postcode":"70123",
+    "sg:province":"LA",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6npEj002IMkJqXW6DOV6JC_29.963179_-90.193260@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527518,
+    "wof:geomhash":"7740e5bab75d65821fa6086dc5a05478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840321343
+        }
+    ],
+    "wof:id":840321343,
+    "wof:lastmodified":1463527518,
+    "wof:name":"Express Courier",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -90.19326,
+    29.963179,
+    -90.19326,
+    29.963179
+],
+  "geometry": {"coordinates":[-90.19326,29.963179],"type":"Point"}
+}

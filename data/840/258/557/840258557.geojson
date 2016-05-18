@@ -1,0 +1,73 @@
+{
+  "id": 840258557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.078705,30.21046,-92.078705,30.21046",
+    "geom:latitude":30.21046,
+    "geom:longitude":-92.078705,
+    "iso:country":"US",
+    "sg:address":"1505 Dulles Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 4442",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02qAvKmZPY2EAi6fnDhLqN_30.210460_-92.078705@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524784,
+    "wof:geomhash":"9bcb29f5a5e2c1bfc6c37f8c72c6d16c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840258557
+        }
+    ],
+    "wof:id":840258557,
+    "wof:lastmodified":1463524784,
+    "wof:name":"Errol's Car Care & Radiator",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.078705,
+    30.21046,
+    -92.078705,
+    30.21046
+],
+  "geometry": {"coordinates":[-92.078705,30.21046],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 840073877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325594,30.231631,-93.325594,30.231631",
+    "geom:latitude":30.231631,
+    "geom:longitude":-93.325594,
+    "iso:country":"US",
+    "sg:address":"535 N Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 7450",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GnSJ2lyXHpGGfNq5R0Gmy_30.231631_-93.325594@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520558,
+    "wof:geomhash":"f61bd0908809f6d81358acc06fd38178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840073877
+        }
+    ],
+    "wof:id":840073877,
+    "wof:lastmodified":1463520558,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -93.325594,
+    30.231631,
+    -93.325594,
+    30.231631
+],
+  "geometry": {"coordinates":[-93.325594,30.231631],"type":"Point"}
+}

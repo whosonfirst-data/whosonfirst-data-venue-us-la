@@ -1,0 +1,74 @@
+{
+  "id": 840365221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.084673,29.994703,-90.084673,29.994703",
+    "geom:latitude":29.994703,
+    "geom:longitude":-90.084673,
+    "iso:country":"US",
+    "sg:address":"53 Imperial Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 2667",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "sg:website":"www.hano.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lMFQoVfmPsZyTKaiZiBek_29.994703_-90.084673@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529648,
+    "wof:geomhash":"446127c6f00f6f49fdbc9a9d86c137d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866079,
+            "region_id":85688735,
+            "venue_id":840365221
+        }
+    ],
+    "wof:id":840365221,
+    "wof:lastmodified":1463529648,
+    "wof:name":"Imperial Court Maintenance",
+    "wof:parent_id":85866079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.084673,
+    29.994703,
+    -90.084673,
+    29.994703
+],
+  "geometry": {"coordinates":[-90.084673,29.994703],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840400719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.471067,31.560721,-93.471067,31.560721",
+    "geom:latitude":31.560721,
+    "geom:longitude":-93.471067,
+    "iso:country":"US",
+    "sg:address":"245 Highland Dr",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 6000",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EI2JbrUkcW34jPCDRuxyW_31.560721_-93.471067@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531239,
+    "wof:geomhash":"e3fe772a523d75e93779438495154538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840400719
+        }
+    ],
+    "wof:id":840400719,
+    "wof:lastmodified":1463531239,
+    "wof:name":"Diabetes & Endocrine Ctr",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.471067,
+    31.560721,
+    -93.471067,
+    31.560721
+],
+  "geometry": {"coordinates":[-93.47106700000001,31.560721],"type":"Point"}
+}

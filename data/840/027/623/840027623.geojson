@@ -1,0 +1,75 @@
+{
+  "id": 840027623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.587164,30.185281,-93.587164,30.185281",
+    "geom:latitude":30.185281,
+    "geom:longitude":-93.587164,
+    "iso:country":"US",
+    "sg:address":"1607 West St",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 3535",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ET1oyRjwambOtiyAGen9f_30.185281_-93.587164@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519568,
+    "wof:geomhash":"fb5caf27373fc761de8b4bdb513f840a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840027623
+        }
+    ],
+    "wof:id":840027623,
+    "wof:lastmodified":1463519568,
+    "wof:name":"Delta Fuel Stop",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -93.587164,
+    30.185281,
+    -93.587164,
+    30.185281
+],
+  "geometry": {"coordinates":[-93.587164,30.185281],"type":"Point"}
+}

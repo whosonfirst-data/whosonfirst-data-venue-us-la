@@ -1,0 +1,74 @@
+{
+  "id": 840450221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971935,30.017751,-89.971935,30.017751",
+    "geom:latitude":30.017751,
+    "geom:longitude":-89.971935,
+    "iso:country":"US",
+    "sg:address":"9711 Chef Menteur Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 246 9958",
+    "sg:postcode":"70127",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.familydollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85891213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C1k6kIctPIy6dpGahcRFZ_30.017828_-89.971367@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533309,
+    "wof:geomhash":"ce22b06334e8706f193835faad06cb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85891213,
+            "region_id":85688735,
+            "venue_id":840450221
+        }
+    ],
+    "wof:id":840450221,
+    "wof:lastmodified":1463533309,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85891213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.971935,
+    30.017751,
+    -89.971935,
+    30.017751
+],
+  "geometry": {"coordinates":[-89.971935,30.017751],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840449437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.063352,29.956584,-90.063352,29.956584",
+    "geom:latitude":29.956584,
+    "geom:longitude":-90.063352,
+    "iso:country":"US",
+    "sg:address":"619 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 7263",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.walgreens.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QtvmILh3ozt7fGNz5897G_29.956722_-90.062744@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533275,
+    "wof:geomhash":"670a4616023a2e021ac286d655d379ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840449437
+        }
+    ],
+    "wof:id":840449437,
+    "wof:lastmodified":1463533275,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -90.063352,
+    29.956584,
+    -90.063352,
+    29.956584
+],
+  "geometry": {"coordinates":[-90.06335199999999,29.956584],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840361819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.092247,29.927295,-90.092247,29.927295",
+    "geom:latitude":29.927295,
+    "geom:longitude":-90.092247,
+    "iso:country":"US",
+    "sg:address":"1539 Delachaise St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 895 3953",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18aOso0rB75l2A5dYfevpV_29.927295_-90.092247@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529467,
+    "wof:geomhash":"714a08467dd6fa6b7e7e87a466e1ddf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840361819
+        }
+    ],
+    "wof:id":840361819,
+    "wof:lastmodified":1463529467,
+    "wof:name":"St Charles Health Care",
+    "wof:parent_id":85866115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.092247,
+    29.927295,
+    -90.092247,
+    29.927295
+],
+  "geometry": {"coordinates":[-90.092247,29.927295],"type":"Point"}
+}

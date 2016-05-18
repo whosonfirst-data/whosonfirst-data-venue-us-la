@@ -1,0 +1,75 @@
+{
+  "id": 840301567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.103349,29.938081,-90.103349,29.938081",
+    "geom:latitude":29.938081,
+    "geom:longitude":-90.103349,
+    "iso:country":"US",
+    "sg:address":"2700 Napoleon Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 889 1055",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ROB5s8vfSW8cUbC6UtdyI_29.938081_-90.103349@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526593,
+    "wof:geomhash":"58e870d016649c63c6c3a3790036cf91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840301567
+        }
+    ],
+    "wof:id":840301567,
+    "wof:lastmodified":1463526593,
+    "wof:name":"Doctors' Advantage",
+    "wof:parent_id":85866127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.103349,
+    29.938081,
+    -90.103349,
+    29.938081
+],
+  "geometry": {"coordinates":[-90.10334899999999,29.938081],"type":"Point"}
+}

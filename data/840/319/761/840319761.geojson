@@ -1,0 +1,75 @@
+{
+  "id": 840319761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.191118,30.227469,-93.191118,30.227469",
+    "geom:latitude":30.227469,
+    "geom:longitude":-93.191118,
+    "iso:country":"US",
+    "sg:address":"2012 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 7731",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uAnGsNSHCfXvMQAbKNtFD_30.227469_-93.191118@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527451,
+    "wof:geomhash":"7c917a2104fc00437809f595ce4c689b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840319761
+        }
+    ],
+    "wof:id":840319761,
+    "wof:lastmodified":1463527451,
+    "wof:name":"Automotive Alignment & Brake",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -93.191118,
+    30.227469,
+    -93.191118,
+    30.227469
+],
+  "geometry": {"coordinates":[-93.191118,30.227469],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840387911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.883155,30.059346,-91.883155,30.059346",
+    "geom:latitude":30.059346,
+    "geom:longitude":-91.883155,
+    "iso:country":"US",
+    "sg:address":"4811 Industrial Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 560 9501",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67gG7RSrKKXmHiRfUls98S_30.059346_-91.883155@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530715,
+    "wof:geomhash":"9e20ab476d696b894670cea53856923d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840387911
+        }
+    ],
+    "wof:id":840387911,
+    "wof:lastmodified":1463530715,
+    "wof:name":"Helicopter Management",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -91.883155,
+    30.059346,
+    -91.883155,
+    30.059346
+],
+  "geometry": {"coordinates":[-91.883155,30.059346],"type":"Point"}
+}

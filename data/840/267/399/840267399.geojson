@@ -1,0 +1,71 @@
+{
+  "id": 840267399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.073717,32.489207,-92.073717,32.489207",
+    "geom:latitude":32.489207,
+    "geom:longitude":-92.073717,
+    "iso:country":"US",
+    "sg:address":"506 Oregon Trl",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 324 8771",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SYRda01oc98IhKkDrNPWS_32.489207_-92.073717@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525044,
+    "wof:geomhash":"0b267d15957d46de2a04bf3b9252c561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840267399
+        }
+    ],
+    "wof:id":840267399,
+    "wof:lastmodified":1463525044,
+    "wof:name":"Meredith Express Delivery Svc",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.073717,
+    32.489207,
+    -92.073717,
+    32.489207
+],
+  "geometry": {"coordinates":[-92.073717,32.489207],"type":"Point"}
+}

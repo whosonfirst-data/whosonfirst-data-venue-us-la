@@ -1,0 +1,73 @@
+{
+  "id": 840409323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.199131,29.697891,-91.199131,29.697891",
+    "geom:latitude":29.697891,
+    "geom:longitude":-91.199131,
+    "iso:country":"US",
+    "sg:address":"511 8th St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 4760",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y3E5uJpbUape4qyCBsQgh_29.697891_-91.199131@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531596,
+    "wof:geomhash":"5cf32ef02d0ecb4f31799de7343ae775",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840409323
+        }
+    ],
+    "wof:id":840409323,
+    "wof:lastmodified":1463531596,
+    "wof:name":"MGO Electric",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.199131,
+    29.697891,
+    -91.199131,
+    29.697891
+],
+  "geometry": {"coordinates":[-91.19913099999999,29.697891],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840454747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218535,30.18091,-93.218535,30.18091",
+    "geom:latitude":30.18091,
+    "geom:longitude":-93.218535,
+    "iso:country":"US",
+    "sg:address":"4212 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/188362-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pRXkQHPbxI8y2frsr4FET_30.180910_-93.218535@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533495,
+    "wof:geomhash":"5a8f7e6130f61392100f22f89e85dc20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840454747
+        }
+    ],
+    "wof:id":840454747,
+    "wof:lastmodified":1463533495,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.218535,
+    30.18091,
+    -93.218535,
+    30.18091
+],
+  "geometry": {"coordinates":[-93.218535,30.18091],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840045513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.076114,29.978818,-90.076114,29.978818",
+    "geom:latitude":29.978818,
+    "geom:longitude":-90.076114,
+    "iso:country":"US",
+    "sg:address":"1553 N Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 943 9222",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MSAU0Jc2pcy6lcBhnJ9cy_29.978818_-90.076114@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519956,
+    "wof:geomhash":"fa0c18b927b8c8dd18514287951c3b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840045513
+        }
+    ],
+    "wof:id":840045513,
+    "wof:lastmodified":1463519956,
+    "wof:name":"Family Medical Clinic",
+    "wof:parent_id":85866065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.076114,
+    29.978818,
+    -90.076114,
+    29.978818
+],
+  "geometry": {"coordinates":[-90.076114,29.978818],"type":"Point"}
+}

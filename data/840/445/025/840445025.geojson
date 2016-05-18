@@ -1,0 +1,71 @@
+{
+  "id": 840445025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.333027,30.544299,-91.333027,30.544299",
+    "geom:latitude":30.544299,
+    "geom:longitude":-91.333027,
+    "iso:country":"US",
+    "sg:address":"5229 Wilcox Dr",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 627 5260",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85853173,
+        102086695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y3a4K2hwwuP4TUZnAtspy_30.544299_-91.333027@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533090,
+    "wof:geomhash":"012d2fda8173186f66d18bb5a20f00d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "neighbourhood_id":85853173,
+            "region_id":85688735,
+            "venue_id":840445025
+        }
+    ],
+    "wof:id":840445025,
+    "wof:lastmodified":1463533090,
+    "wof:name":"Gulf Coast Plumbing Inc",
+    "wof:parent_id":85853173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.333027,
+    30.544299,
+    -91.333027,
+    30.544299
+],
+  "geometry": {"coordinates":[-91.333027,30.544299],"type":"Point"}
+}

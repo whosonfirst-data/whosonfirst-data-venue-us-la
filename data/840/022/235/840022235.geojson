@@ -1,0 +1,71 @@
+{
+  "id": 840022235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.105207,32.442321,-92.105207,32.442321",
+    "geom:latitude":32.442321,
+    "geom:longitude":-92.105207,
+    "iso:country":"US",
+    "sg:address":"5665 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 4708",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L3nqddYuq6qjwRm1yepwR_32.442321_-92.105207@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519453,
+    "wof:geomhash":"a0d905d32df76a443471ef951b574383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840022235
+        }
+    ],
+    "wof:id":840022235,
+    "wof:lastmodified":1463519453,
+    "wof:name":"Ace Automotive & Towing",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -92.105207,
+    32.442321,
+    -92.105207,
+    32.442321
+],
+  "geometry": {"coordinates":[-92.10520699999999,32.442321],"type":"Point"}
+}

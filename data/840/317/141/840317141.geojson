@@ -1,0 +1,71 @@
+{
+  "id": 840317141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.185125,30.198247,-93.185125,30.198247",
+    "geom:latitude":30.198247,
+    "geom:longitude":-93.185125,
+    "iso:country":"US",
+    "sg:address":"2501 E Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 0400",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V3IeGmzcXPRWqi3rA74k0_30.198247_-93.185125@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527315,
+    "wof:geomhash":"7d785856a967d76e4995dc841af4605f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840317141
+        }
+    ],
+    "wof:id":840317141,
+    "wof:lastmodified":1463527315,
+    "wof:name":"Visions Unlimited",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.185125,
+    30.198247,
+    -93.185125,
+    30.198247
+],
+  "geometry": {"coordinates":[-93.185125,30.198247],"type":"Point"}
+}

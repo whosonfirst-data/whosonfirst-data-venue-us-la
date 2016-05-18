@@ -1,0 +1,73 @@
+{
+  "id": 840109389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.068191,30.199471,-92.068191,30.199471",
+    "geom:latitude":30.199471,
+    "geom:longitude":-92.068191,
+    "iso:country":"US",
+    "sg:address":"3935 W Congress St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 7553",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6otD2i4NUFLsRYqq3AQ8Gb_30.199471_-92.068191@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521418,
+    "wof:geomhash":"3bc6f708a07e40e2b239c0c2c331651a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840109389
+        }
+    ],
+    "wof:id":840109389,
+    "wof:lastmodified":1463521418,
+    "wof:name":"West Congress Lube Express",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -92.068191,
+    30.199471,
+    -92.068191,
+    30.199471
+],
+  "geometry": {"coordinates":[-92.068191,30.199471],"type":"Point"}
+}

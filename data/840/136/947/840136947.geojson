@@ -1,0 +1,71 @@
+{
+  "id": 840136947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.264825,31.140428,-93.264825,31.140428",
+    "geom:latitude":31.140428,
+    "geom:longitude":-93.264825,
+    "iso:country":"US",
+    "sg:address":"506 S 6th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 239 2992",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KSmHuC6T4Ic4K3CUZn8AF_31.140428_-93.264825@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521990,
+    "wof:geomhash":"aa0ef6e6de2bbe4a9692e358f286ede8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840136947
+        }
+    ],
+    "wof:id":840136947,
+    "wof:lastmodified":1463521990,
+    "wof:name":"Leesville Diagnostic Ctr",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.264825,
+    31.140428,
+    -93.264825,
+    31.140428
+],
+  "geometry": {"coordinates":[-93.264825,31.140428],"type":"Point"}
+}

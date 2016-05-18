@@ -1,0 +1,73 @@
+{
+  "id": 840381601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.933543,29.93645,-89.933543,29.93645",
+    "geom:latitude":29.93645,
+    "geom:longitude":-89.933543,
+    "iso:country":"US",
+    "sg:address":"2524 Munster Blvd",
+    "sg:city":"Meraux",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 276 2500",
+    "sg:postcode":"70075",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948813,
+        102082447,
+        85850917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72xEaErXRLOe6jR8DLrLGi_29.936450_-89.933543@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530416,
+    "wof:geomhash":"c1c35cf73468073b51380fada13d2aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948813,
+            "neighbourhood_id":85850917,
+            "region_id":85688735,
+            "venue_id":840381601
+        }
+    ],
+    "wof:id":840381601,
+    "wof:lastmodified":1463530416,
+    "wof:name":"Ritchie's Auto Svc",
+    "wof:parent_id":85850917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.933543,
+    29.93645,
+    -89.933543,
+    29.93645
+],
+  "geometry": {"coordinates":[-89.933543,29.93645],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 840454823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376216,30.2193,-93.376216,30.2193",
+    "geom:latitude":30.2193,
+    "geom:longitude":-93.376216,
+    "iso:country":"US",
+    "sg:address":"2040 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/sulphur/208653-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 2265",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J6lG84i9g4mrHLFiiXGlH_30.219300_-93.376216@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533498,
+    "wof:geomhash":"2d1c85ae2321b34e42c5b416fa7fb587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454823
+        }
+    ],
+    "wof:id":840454823,
+    "wof:lastmodified":1463533498,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.376216,
+    30.2193,
+    -93.376216,
+    30.2193
+],
+  "geometry": {"coordinates":[-93.376216,30.2193],"type":"Point"}
+}

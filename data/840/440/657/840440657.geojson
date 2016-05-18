@@ -1,0 +1,75 @@
+{
+  "id": 840440657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.055437,29.968295,-90.055437,29.968295",
+    "geom:latitude":29.968295,
+    "geom:longitude":-90.055437,
+    "iso:country":"US",
+    "sg:address":"1035 Marigny St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 3964",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85819021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zTYw1hPhLjO2kFev6IxwO_29.968295_-90.055437@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532928,
+    "wof:geomhash":"846f780b36687bd438ca774e68ecc653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85819021,
+            "region_id":85688735,
+            "venue_id":840440657
+        }
+    ],
+    "wof:id":840440657,
+    "wof:lastmodified":1463532928,
+    "wof:name":"Mc Daniel Auto Repair Shop",
+    "wof:parent_id":85819021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.055437,
+    29.968295,
+    -90.055437,
+    29.968295
+],
+  "geometry": {"coordinates":[-90.055437,29.968295],"type":"Point"}
+}

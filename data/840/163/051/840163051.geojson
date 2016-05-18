@@ -1,0 +1,75 @@
+{
+  "id": 840163051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.018308,30.22584,-92.018308,30.22584",
+    "geom:latitude":30.22584,
+    "geom:longitude":-92.018308,
+    "iso:country":"US",
+    "sg:address":"410 Jefferson St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 4372",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28Rjub45NBLAz459khp3ih_30.225840_-92.018308@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522502,
+    "wof:geomhash":"fdb88b7199b68ada191e405236805d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840163051
+        }
+    ],
+    "wof:id":840163051,
+    "wof:lastmodified":1463522502,
+    "wof:name":"Automated Cash Svc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -92.018308,
+    30.22584,
+    -92.018308,
+    30.22584
+],
+  "geometry": {"coordinates":[-92.018308,30.22584],"type":"Point"}
+}

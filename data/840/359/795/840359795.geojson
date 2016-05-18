@@ -1,0 +1,73 @@
+{
+  "id": 840359795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.352441,30.238053,-93.352441,30.238053",
+    "geom:latitude":30.238053,
+    "geom:longitude":-93.352441,
+    "iso:country":"US",
+    "sg:address":"2310 Archie Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 9915",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "tank",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WavoZhxLNvgvbvEACXi3E_30.238053_-93.352441@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529372,
+    "wof:geomhash":"76b8fab7620d99e092c3e38323d60cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840359795
+        }
+    ],
+    "wof:id":840359795,
+    "wof:lastmodified":1463529372,
+    "wof:name":"Quala Systems",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -93.352441,
+    30.238053,
+    -93.352441,
+    30.238053
+],
+  "geometry": {"coordinates":[-93.352441,30.238053],"type":"Point"}
+}

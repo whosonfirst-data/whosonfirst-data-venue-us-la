@@ -1,0 +1,74 @@
+{
+  "id": 840454261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.060944,30.191503,-92.060944,30.191503",
+    "geom:latitude":30.191503,
+    "geom:longitude":-92.060944,
+    "iso:country":"US",
+    "sg:address":"4533 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/72949-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 8556",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I27oUPDaySPpkyK7bpcRn_30.191503_-92.060944@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533478,
+    "wof:geomhash":"2b39c8e6784f4d2a16cf65526ec55b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840454261
+        }
+    ],
+    "wof:id":840454261,
+    "wof:lastmodified":1463533478,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.060944,
+    30.191503,
+    -92.060944,
+    30.191503
+],
+  "geometry": {"coordinates":[-92.06094400000001,30.191503],"type":"Point"}
+}

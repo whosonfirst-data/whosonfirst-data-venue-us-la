@@ -1,0 +1,74 @@
+{
+  "id": 840454511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.507071,29.806545,-91.507071,29.806545",
+    "geom:latitude":29.806545,
+    "geom:longitude":-91.507071,
+    "iso:country":"US",
+    "sg:address":"1825 Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/franklin/197483-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 828 0220",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bpt9iuRmOmYRrPB012zCX_29.806545_-91.507071@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533487,
+    "wof:geomhash":"4b381cb95c213065d87d84a22418f9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840454511
+        }
+    ],
+    "wof:id":840454511,
+    "wof:lastmodified":1463533487,
+    "wof:name":"Burger King",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.507071,
+    29.806545,
+    -91.507071,
+    29.806545
+],
+  "geometry": {"coordinates":[-91.507071,29.806545],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840382007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.475982,31.563052,-93.475982,31.563052",
+    "geom:latitude":31.563052,
+    "geom:longitude":-93.475982,
+    "iso:country":"US",
+    "sg:address":"120 Fisher Rd",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 590 0336",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uExvTZUa3gzUPwKdxZofq_31.563052_-93.475982@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530449,
+    "wof:geomhash":"185f5fb0e568874dcbafe9aeaeb7bd7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840382007
+        }
+    ],
+    "wof:id":840382007,
+    "wof:lastmodified":1463530449,
+    "wof:name":"Med Express",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -93.475982,
+    31.563052,
+    -93.475982,
+    31.563052
+],
+  "geometry": {"coordinates":[-93.475982,31.563052],"type":"Point"}
+}

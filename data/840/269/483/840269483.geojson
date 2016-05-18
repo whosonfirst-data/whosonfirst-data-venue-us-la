@@ -1,0 +1,71 @@
+{
+  "id": 840269483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.350519,30.209155,-93.350519,30.209155",
+    "geom:latitude":30.209155,
+    "geom:longitude":-93.350519,
+    "iso:country":"US",
+    "sg:address":"1370 Swisco Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 1234",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iefjZW02YuJ7dnxSt2nym_30.209155_-93.350519@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525151,
+    "wof:geomhash":"06c9afd91b30c0592c6b8952f6729578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840269483
+        }
+    ],
+    "wof:id":840269483,
+    "wof:lastmodified":1463525151,
+    "wof:name":"Swisco Road Disposal",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -93.350519,
+    30.209155,
+    -93.350519,
+    30.209155
+],
+  "geometry": {"coordinates":[-93.35051900000001,30.209155],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 840457131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.180255,30.005763,-90.180255,30.005763",
+    "geom:latitude":30.005763,
+    "geom:longitude":-90.180255,
+    "iso:country":"US",
+    "sg:address":"3400 Houma Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/metairie/136669-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 887 5006",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VhoWkECKdJZFljAPja5bz_30.005780_-90.179987@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533584,
+    "wof:geomhash":"18a5a06632a5e42225a69e6672bf0437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840457131
+        }
+    ],
+    "wof:id":840457131,
+    "wof:lastmodified":1463533584,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.180255,
+    30.005763,
+    -90.180255,
+    30.005763
+],
+  "geometry": {"coordinates":[-90.180255,30.005763],"type":"Point"}
+}

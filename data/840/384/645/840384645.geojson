@@ -1,0 +1,71 @@
+{
+  "id": 840384645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.205454,30.194212,-93.205454,30.194212",
+    "geom:latitude":30.194212,
+    "geom:longitude":-93.205454,
+    "iso:country":"US",
+    "sg:address":"3425 Louisiana Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 5043",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iMj699nPzoZOJffvj5ekf_30.194212_-93.205454@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530576,
+    "wof:geomhash":"5e3b65b5c2439415a239e1587ccc74c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840384645
+        }
+    ],
+    "wof:id":840384645,
+    "wof:lastmodified":1463530576,
+    "wof:name":"Carl W Churchman DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.205454,
+    30.194212,
+    -93.205454,
+    30.194212
+],
+  "geometry": {"coordinates":[-93.205454,30.194212],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840453611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.682775,29.569108,-90.682775,29.569108",
+    "geom:latitude":29.569108,
+    "geom:longitude":-90.682775,
+    "iso:country":"US",
+    "sg:address":"1540 Grand Caillou Rd",
+    "sg:city":"Houma",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/dulac/188333-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70363",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948799,
+        102081923,
+        85803459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AKr1Zlt2uhPUR6dOyU7hw_29.569108_-90.682775@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533448,
+    "wof:geomhash":"5bbc65ceb153b0d5f2943ca603ca44c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081923,
+            "locality_id":85948799,
+            "neighbourhood_id":85803459,
+            "region_id":85688735,
+            "venue_id":840453611
+        }
+    ],
+    "wof:id":840453611,
+    "wof:lastmodified":1463533448,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85803459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.682775,
+    29.569108,
+    -90.682775,
+    29.569108
+],
+  "geometry": {"coordinates":[-90.68277500000001,29.569108],"type":"Point"}
+}

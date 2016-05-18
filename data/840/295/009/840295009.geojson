@@ -1,0 +1,71 @@
+{
+  "id": 840295009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325598,30.230973,-93.325598,30.230973",
+    "geom:latitude":30.230973,
+    "geom:longitude":-93.325598,
+    "iso:country":"US",
+    "sg:address":"213 N Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 1899",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n657ORKgq92ctWeRb1izQ_30.230973_-93.325598@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526275,
+    "wof:geomhash":"f7f3e37a82e7658ab1db096373b686b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840295009
+        }
+    ],
+    "wof:id":840295009,
+    "wof:lastmodified":1463526275,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.325598,
+    30.230973,
+    -93.325598,
+    30.230973
+],
+  "geometry": {"coordinates":[-93.325598,30.230973],"type":"Point"}
+}

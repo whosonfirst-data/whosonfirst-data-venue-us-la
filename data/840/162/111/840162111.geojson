@@ -1,0 +1,75 @@
+{
+  "id": 840162111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.255967,30.141879,-93.255967,30.141879",
+    "geom:latitude":30.141879,
+    "geom:longitude":-93.255967,
+    "iso:country":"US",
+    "sg:address":"6816 Sunmeadow Ln",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 4771",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yfLw27Q2VryR3R2cm8e3Z_30.141879_-93.255967@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522485,
+    "wof:geomhash":"98bdac455c2a5289677c37bbe6be3b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840162111
+        }
+    ],
+    "wof:id":840162111,
+    "wof:lastmodified":1463522485,
+    "wof:name":"Shrewsberry Dump Truck Service",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.255967,
+    30.141879,
+    -93.255967,
+    30.141879
+],
+  "geometry": {"coordinates":[-93.255967,30.141879],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840348553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.831101,29.97674,-91.831101,29.97674",
+    "geom:latitude":29.97674,
+    "geom:longitude":-91.831101,
+    "iso:country":"US",
+    "sg:address":"1203 David St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 7424",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13FXo0QxB6DbP2ccbfRAmQ_29.976740_-91.831101@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528839,
+    "wof:geomhash":"f69f8c005d686df9f1629a4dbe6c13dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840348553
+        }
+    ],
+    "wof:id":840348553,
+    "wof:lastmodified":1463528839,
+    "wof:name":"Brooks Industrial Tire Repair",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.831101,
+    29.97674,
+    -91.831101,
+    29.97674
+],
+  "geometry": {"coordinates":[-91.831101,29.97674],"type":"Point"}
+}

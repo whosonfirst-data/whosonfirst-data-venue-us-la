@@ -1,0 +1,71 @@
+{
+  "id": 840434083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.049633,30.384752,-91.049633,30.384752",
+    "geom:latitude":30.384752,
+    "geom:longitude":-91.049633,
+    "iso:country":"US",
+    "sg:address":"11940 Industriplex Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 755 0703",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XDba3BBlludLtuRUeSwEx_30.384752_-91.049633@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532641,
+    "wof:geomhash":"da128976b9ef4db4e39275deeac0c9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840434083
+        }
+    ],
+    "wof:id":840434083,
+    "wof:lastmodified":1463532641,
+    "wof:name":"Masters Medical",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.049633,
+    30.384752,
+    -91.049633,
+    30.384752
+],
+  "geometry": {"coordinates":[-91.049633,30.384752],"type":"Point"}
+}

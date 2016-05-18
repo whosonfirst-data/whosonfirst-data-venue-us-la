@@ -1,0 +1,73 @@
+{
+  "id": 840256271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.352535,30.236681,-93.352535,30.236681",
+    "geom:latitude":30.236681,
+    "geom:longitude":-93.352535,
+    "iso:country":"US",
+    "sg:address":"2239 E Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 0077",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NdAS4TS3eKgZHyPGBrkDF_30.236681_-93.352535@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524744,
+    "wof:geomhash":"f2b9137330d22436efd908c23d2a5246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840256271
+        }
+    ],
+    "wof:id":840256271,
+    "wof:lastmodified":1463524744,
+    "wof:name":"Bergeron Electric",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.352535,
+    30.236681,
+    -93.352535,
+    30.236681
+],
+  "geometry": {"coordinates":[-93.352535,30.236681],"type":"Point"}
+}

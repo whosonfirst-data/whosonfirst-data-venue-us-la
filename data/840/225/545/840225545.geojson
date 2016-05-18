@@ -1,0 +1,75 @@
+{
+  "id": 840225545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.111189,29.997986,-90.111189,29.997986",
+    "geom:latitude":29.997986,
+    "geom:longitude":-90.111189,
+    "iso:country":"US",
+    "sg:address":"5978 Louisville St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 488 3422",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fQy9VEYlpLKSPC4O7icQN_29.997986_-90.111189@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523965,
+    "wof:geomhash":"e6f1ef769e0be88eecdb1018a5b6de1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829431,
+            "region_id":85688735,
+            "venue_id":840225545
+        }
+    ],
+    "wof:id":840225545,
+    "wof:lastmodified":1463523965,
+    "wof:name":"Rosevally Electric",
+    "wof:parent_id":85829431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.111189,
+    29.997986,
+    -90.111189,
+    29.997986
+],
+  "geometry": {"coordinates":[-90.111189,29.997986],"type":"Point"}
+}

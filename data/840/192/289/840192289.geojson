@@ -1,0 +1,73 @@
+{
+  "id": 840192289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.824015,30.015887,-91.824015,30.015887",
+    "geom:latitude":30.015887,
+    "geom:longitude":-91.824015,
+    "iso:country":"US",
+    "sg:address":"707 Jane St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 7300",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IC4Or8H7n86EiZbvlN30J_30.015887_-91.824015@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523153,
+    "wof:geomhash":"ddc23c6e1a53cd2c666853f040708540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840192289
+        }
+    ],
+    "wof:id":840192289,
+    "wof:lastmodified":1463523153,
+    "wof:name":"Boudoin Electric",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.824015,
+    30.015887,
+    -91.824015,
+    30.015887
+],
+  "geometry": {"coordinates":[-91.824015,30.015887],"type":"Point"}
+}

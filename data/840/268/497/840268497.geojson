@@ -1,0 +1,71 @@
+{
+  "id": 840268497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.163203,30.226038,-93.163203,30.226038",
+    "geom:latitude":30.226038,
+    "geom:longitude":-93.163203,
+    "iso:country":"US",
+    "sg:address":"1000 Main St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 9403",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FXS7h0mrDXoSMT6vfjGbi_30.226038_-93.163203@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525104,
+    "wof:geomhash":"46bcae137fa61a233ca1cc06cccd2b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840268497
+        }
+    ],
+    "wof:id":840268497,
+    "wof:lastmodified":1463525104,
+    "wof:name":"Court Of Appeals",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -93.163203,
+    30.226038,
+    -93.163203,
+    30.226038
+],
+  "geometry": {"coordinates":[-93.163203,30.226038],"type":"Point"}
+}

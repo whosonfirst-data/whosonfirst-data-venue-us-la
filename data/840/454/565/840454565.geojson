@@ -1,0 +1,74 @@
+{
+  "id": 840454565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.832008,29.991594,-91.832008,29.991594",
+    "geom:latitude":29.991594,
+    "geom:longitude":-91.832008,
+    "iso:country":"US",
+    "sg:address":"1419 Center St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-iberia/197485-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 8673",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nWwqIk4J6Wrmy3J4mKvpG_29.991594_-91.832008@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533489,
+    "wof:geomhash":"e765e880049d60a5cd4186a3fab9117f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840454565
+        }
+    ],
+    "wof:id":840454565,
+    "wof:lastmodified":1463533489,
+    "wof:name":"Burger King",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.832008,
+    29.991594,
+    -91.832008,
+    29.991594
+],
+  "geometry": {"coordinates":[-91.832008,29.991594],"type":"Point"}
+}

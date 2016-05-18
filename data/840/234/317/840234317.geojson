@@ -1,0 +1,71 @@
+{
+  "id": 840234317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.825422,29.996887,-91.825422,29.996887",
+    "geom:latitude":29.996887,
+    "geom:longitude":-91.825422,
+    "iso:country":"US",
+    "sg:address":"302 E Dale St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 9631",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20QvvYXSk1zuri9zBECK9Y_29.996887_-91.825422@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524232,
+    "wof:geomhash":"f075db8f702e96157db4eb5ef895dbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840234317
+        }
+    ],
+    "wof:id":840234317,
+    "wof:lastmodified":1463524232,
+    "wof:name":"Robert's Superette",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.825422,
+    29.996887,
+    -91.825422,
+    29.996887
+],
+  "geometry": {"coordinates":[-91.825422,29.996887],"type":"Point"}
+}

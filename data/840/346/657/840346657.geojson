@@ -1,0 +1,73 @@
+{
+  "id": 840346657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.825581,30.015265,-91.825581,30.015265",
+    "geom:latitude":30.015265,
+    "geom:longitude":-91.825581,
+    "iso:country":"US",
+    "sg:address":"209 N Lasalle St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 0084",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QXp7l2qGYV9A8FswreXIy_30.015265_-91.825581@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528730,
+    "wof:geomhash":"704c85d66c97044829602d7553955fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840346657
+        }
+    ],
+    "wof:id":840346657,
+    "wof:lastmodified":1463528730,
+    "wof:name":"Westside Mini Storage",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -91.825581,
+    30.015265,
+    -91.825581,
+    30.015265
+],
+  "geometry": {"coordinates":[-91.825581,30.015265],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840366641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.220265,30.461394,-91.220265,30.461394",
+    "geom:latitude":30.461394,
+    "geom:longitude":-91.220265,
+    "iso:country":"US",
+    "sg:address":"1023 Soloman St",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 344 0121",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lib7iCC4FNOMPY9ukSFk1_30.461394_-91.220265@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529715,
+    "wof:geomhash":"93541350c2acde819f9051e0120978ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840366641
+        }
+    ],
+    "wof:id":840366641,
+    "wof:lastmodified":1463529715,
+    "wof:name":"Paynes Electric",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.220265,
+    30.461394,
+    -91.220265,
+    30.461394
+],
+  "geometry": {"coordinates":[-91.220265,30.461394],"type":"Point"}
+}

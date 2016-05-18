@@ -1,0 +1,71 @@
+{
+  "id": 840377513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.186815,30.258359,-93.186815,30.258359",
+    "geom:latitude":30.258359,
+    "geom:longitude":-93.186815,
+    "iso:country":"US",
+    "sg:address":"1620 Simmons St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6444",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oM5vEntNlEIcssliVMzZv_30.258359_-93.186815@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530246,
+    "wof:geomhash":"19f73d07830b6e60bfe6e4bb6d1801de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840377513
+        }
+    ],
+    "wof:id":840377513,
+    "wof:lastmodified":1463530246,
+    "wof:name":"John's Market",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.186815,
+    30.258359,
+    -93.186815,
+    30.258359
+],
+  "geometry": {"coordinates":[-93.186815,30.258359],"type":"Point"}
+}

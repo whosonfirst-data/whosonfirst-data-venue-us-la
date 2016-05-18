@@ -1,0 +1,83 @@
+{
+  "id": 840022951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.07553,29.930499,-90.07553,29.930499",
+    "geom:latitude":29.930499,
+    "geom:longitude":-90.07553,
+    "iso:country":"US",
+    "sg:address":"2025 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 581 5704",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6owEDAKhj2XHHAl8EooBPE_29.930499_-90.075530@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519466,
+    "wof:geomhash":"747d3aee56119b563a81995472485833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840022951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840022951
+        }
+    ],
+    "wof:id":840022951,
+    "wof:lastmodified":1463519466,
+    "wof:name":"Audubon Antiques",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -90.07553,
+    29.930499,
+    -90.07553,
+    29.930499
+],
+  "geometry": {"coordinates":[-90.07553,29.930499],"type":"Point"}
+}

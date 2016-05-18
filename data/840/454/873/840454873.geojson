@@ -1,0 +1,74 @@
+{
+  "id": 840454873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.127391,30.577956,-91.127391,30.577956",
+    "geom:latitude":30.577956,
+    "geom:longitude":-91.127391,
+    "iso:country":"US",
+    "sg:address":"14507 Plank Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/zachary/132115-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 775 9827",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H4zBCmVLaGJDaQsSz6wLr_30.577956_-91.127391@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533499,
+    "wof:geomhash":"3f65666bd691f844620e4239349f5ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840454873
+        }
+    ],
+    "wof:id":840454873,
+    "wof:lastmodified":1463533499,
+    "wof:name":"Subway",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.127391,
+    30.577956,
+    -91.127391,
+    30.577956
+],
+  "geometry": {"coordinates":[-91.127391,30.577956],"type":"Point"}
+}

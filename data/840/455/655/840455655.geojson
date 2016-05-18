@@ -1,0 +1,72 @@
+{
+  "id": 840455655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.034658,30.447015,-91.034658,30.447015",
+    "geom:latitude":30.447015,
+    "geom:longitude":-91.034658,
+    "iso:country":"US",
+    "sg:address":"1183 S Flannery Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/72962-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 272 4068",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85848349,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b7tWKLEJHy6rOpThqPWGJ_30.447015_-91.034658@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533526,
+    "wof:geomhash":"33fc53dbb323a336a8f6a2096072b3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85848349,
+            "region_id":85688735,
+            "venue_id":840455655
+        }
+    ],
+    "wof:id":840455655,
+    "wof:lastmodified":1463533526,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85848349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.034658,
+    30.447015,
+    -91.034658,
+    30.447015
+],
+  "geometry": {"coordinates":[-91.03465799999999,30.447015],"type":"Point"}
+}

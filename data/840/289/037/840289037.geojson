@@ -1,0 +1,75 @@
+{
+  "id": 840289037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.085418,32.487034,-92.085418,32.487034",
+    "geom:latitude":32.487034,
+    "geom:longitude":-92.085418,
+    "iso:country":"US",
+    "sg:address":"1900 Ruffin Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 387 1505",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EeayevnjJhREkyl8wyAEg_32.487034_-92.085418@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526025,
+    "wof:geomhash":"b36486bae369b4b9e17cb374f157b26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840289037
+        }
+    ],
+    "wof:id":840289037,
+    "wof:lastmodified":1463526025,
+    "wof:name":"Ryder Truck Rental",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -92.085418,
+    32.487034,
+    -92.085418,
+    32.487034
+],
+  "geometry": {"coordinates":[-92.085418,32.487034],"type":"Point"}
+}

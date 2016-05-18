@@ -1,0 +1,78 @@
+{
+  "id": 840264829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.127757,30.576348,-91.127757,30.576348",
+    "geom:latitude":30.576348,
+    "geom:longitude":-91.127757,
+    "iso:country":"US",
+    "sg:address":"14500 Plank Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 774 3483",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39WGivKFfqqHRyhHbZ2yZ3_30.576348_-91.127757@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524917,
+    "wof:geomhash":"663c6c97bd4ef0cffa7c7445a0fda7c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840264829
+        }
+    ],
+    "wof:id":840264829,
+    "wof:lastmodified":1463524917,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.127757,
+    30.576348,
+    -91.127757,
+    30.576348
+],
+  "geometry": {"coordinates":[-91.127757,30.576348],"type":"Point"}
+}

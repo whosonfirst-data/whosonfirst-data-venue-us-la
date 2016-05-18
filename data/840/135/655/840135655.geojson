@@ -1,0 +1,78 @@
+{
+  "id": 840135655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.110827,30.195849,-92.110827,30.195849",
+    "geom:latitude":30.195849,
+    "geom:longitude":-92.110827,
+    "iso:country":"US",
+    "sg:address":"705 Colorado Rd",
+    "sg:city":"Duson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 4551",
+    "sg:postcode":"70529",
+    "sg:province":"LA",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J49ZGjaoZ8KdP0WXcO424_30.195849_-92.110827@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521965,
+    "wof:geomhash":"da185dbac59b8d3d19fc4d6c39264b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840135655
+        }
+    ],
+    "wof:id":840135655,
+    "wof:lastmodified":1463521965,
+    "wof:name":"Bobby Bourque Trucking Ltd",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.110827,
+    30.195849,
+    -92.110827,
+    30.195849
+],
+  "geometry": {"coordinates":[-92.110827,30.195849],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840129503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.262821,31.126264,-93.262821,31.126264",
+    "geom:latitude":31.126264,
+    "geom:longitude":-93.262821,
+    "iso:country":"US",
+    "sg:address":"144 Red Town Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 5123",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tynM428leQYlc1VZW6udP_31.126264_-93.262821@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521837,
+    "wof:geomhash":"1604ecb480d5b2d365ee66b2e8f4a9c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840129503
+        }
+    ],
+    "wof:id":840129503,
+    "wof:lastmodified":1463521837,
+    "wof:name":"J & E Auto Svc",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.262821,
+    31.126264,
+    -93.262821,
+    31.126264
+],
+  "geometry": {"coordinates":[-93.262821,31.126264],"type":"Point"}
+}

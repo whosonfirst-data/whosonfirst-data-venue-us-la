@@ -1,0 +1,75 @@
+{
+  "id": 840353813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061293,30.021912,-90.061293,30.021912",
+    "geom:latitude":30.021912,
+    "geom:longitude":-90.061293,
+    "iso:country":"US",
+    "sg:address":"6100 Elysian Fields Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 282 3434",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yJ2zx0SfQuLtwXjzvsolH_30.021912_-90.061293@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529096,
+    "wof:geomhash":"976bf2b9ff48f8d8275ad60b24927865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":840353813
+        }
+    ],
+    "wof:id":840353813,
+    "wof:lastmodified":1463529096,
+    "wof:name":"Cresent City Physicians",
+    "wof:parent_id":85866063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.061293,
+    30.021912,
+    -90.061293,
+    30.021912
+],
+  "geometry": {"coordinates":[-90.06129300000001,30.021912],"type":"Point"}
+}

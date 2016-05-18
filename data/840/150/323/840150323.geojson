@@ -1,0 +1,73 @@
+{
+  "id": 840150323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.038233,30.145348,-92.038233,30.145348",
+    "geom:latitude":30.145348,
+    "geom:longitude":-92.038233,
+    "iso:country":"US",
+    "sg:address":"332 E Farrel Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 991 9163",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zw4gXFt34W21zV7JfCWQ4_30.145348_-92.038233@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522247,
+    "wof:geomhash":"f9646e0526c9ed7ca13e29f375b3a115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840150323
+        }
+    ],
+    "wof:id":840150323,
+    "wof:lastmodified":1463522247,
+    "wof:name":"Center For Pain Management",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.038233,
+    30.145348,
+    -92.038233,
+    30.145348
+],
+  "geometry": {"coordinates":[-92.03823300000001,30.145348],"type":"Point"}
+}

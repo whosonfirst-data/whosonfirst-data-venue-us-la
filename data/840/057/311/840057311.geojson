@@ -1,0 +1,71 @@
+{
+  "id": 840057311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.177553,30.235935,-92.177553,30.235935",
+    "geom:latitude":30.235935,
+    "geom:longitude":-92.177553,
+    "iso:country":"US",
+    "sg:address":"806 1st St",
+    "sg:city":"Duson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 873 6736",
+    "sg:postcode":"70529",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p5Ds6bAjPPD1UlsNi2boV_30.235935_-92.177553@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520207,
+    "wof:geomhash":"8223f340cd0d139d726f1a8061eb85cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840057311
+        }
+    ],
+    "wof:id":840057311,
+    "wof:lastmodified":1463520207,
+    "wof:name":"Duson Police Dept",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.177553,
+    30.235935,
+    -92.177553,
+    30.235935
+],
+  "geometry": {"coordinates":[-92.177553,30.235935],"type":"Point"}
+}

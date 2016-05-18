@@ -1,0 +1,73 @@
+{
+  "id": 840438205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.304542,29.696203,-91.304542,29.696203",
+    "geom:latitude":29.696203,
+    "geom:longitude":-91.304542,
+    "iso:country":"US",
+    "sg:address":"207 Park St",
+    "sg:city":"Patterson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 399 0649",
+    "sg:postcode":"70392",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e0qTNReuKnWmm5hgRNWvS_29.696203_-91.304542@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532815,
+    "wof:geomhash":"74043a91841f1cd447a650c94b196c1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840438205
+        }
+    ],
+    "wof:id":840438205,
+    "wof:lastmodified":1463532815,
+    "wof:name":"Russo Clinic",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.304542,
+    29.696203,
+    -91.304542,
+    29.696203
+],
+  "geometry": {"coordinates":[-91.304542,29.696203],"type":"Point"}
+}

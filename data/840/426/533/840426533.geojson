@@ -1,0 +1,76 @@
+{
+  "id": 840426533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.844747,29.973829,-91.844747,29.973829",
+    "geom:latitude":29.973829,
+    "geom:longitude":-91.844747,
+    "iso:country":"US",
+    "sg:address":"802 US Hwy 90",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 0060",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "sg:website":"www.fredsradiator.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Mk2ey19EPN80jEPQpN3w_29.973829_-91.844747@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532295,
+    "wof:geomhash":"2ad824698579917edf5506e2db639117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840426533
+        }
+    ],
+    "wof:id":840426533,
+    "wof:lastmodified":1463532295,
+    "wof:name":"Fred's Radiator Svc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -91.844747,
+    29.973829,
+    -91.844747,
+    29.973829
+],
+  "geometry": {"coordinates":[-91.844747,29.973829],"type":"Point"}
+}

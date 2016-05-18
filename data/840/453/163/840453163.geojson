@@ -1,0 +1,76 @@
+{
+  "id": 840453163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.03358,29.944857,-90.03358,29.944857",
+    "geom:latitude":29.944857,
+    "geom:longitude":-90.03358,
+    "iso:country":"US",
+    "sg:address":"2300 General Meyer Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/89255-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 263 0898",
+    "sg:postcode":"70114",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79AYgpuUvdkwvex2P0it3z_29.944857_-90.033580@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533432,
+    "wof:geomhash":"0df2cd1c454150dbe5a1426dcb586c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866159,
+            "region_id":85688735,
+            "venue_id":840453163
+        }
+    ],
+    "wof:id":840453163,
+    "wof:lastmodified":1463533432,
+    "wof:name":"Subway",
+    "wof:parent_id":85866159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.03358,
+    29.944857,
+    -90.03358,
+    29.944857
+],
+  "geometry": {"coordinates":[-90.03358,29.944857],"type":"Point"}
+}

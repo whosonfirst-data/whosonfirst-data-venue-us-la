@@ -1,0 +1,77 @@
+{
+  "id": 840192617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.99308,30.208496,-91.99308,30.208496",
+    "geom:latitude":30.208496,
+    "geom:longitude":-91.99308,
+    "iso:country":"US",
+    "sg:address":"200 Terminal Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 5493",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526097,
+        85803337,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85688735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tOmntQLivLxa1QP4vnU7s_30.208496_-91.993080@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523162,
+    "wof:geomhash":"4c723938c6c5875b6060fa1ff0ae0702",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526097,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840192617
+        }
+    ],
+    "wof:id":840192617,
+    "wof:lastmodified":1463523162,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":102526097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.99308,
+    30.208496,
+    -91.99308,
+    30.208496
+],
+  "geometry": {"coordinates":[-91.99308000000001,30.208496],"type":"Point"}
+}

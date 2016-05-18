@@ -1,0 +1,71 @@
+{
+  "id": 840113369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.19419,29.693283,-91.19419,29.693283",
+    "geom:latitude":29.693283,
+    "geom:longitude":-91.19419,
+    "iso:country":"US",
+    "sg:address":"1115 Railroad Ave",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 702 0058",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q8QKLViMkWdMwSR7n8yDj_29.693283_-91.194190@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521494,
+    "wof:geomhash":"d109de2a555cd06e1f1223bcc66c1069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840113369
+        }
+    ],
+    "wof:id":840113369,
+    "wof:lastmodified":1463521494,
+    "wof:name":"Music City Taxi",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -91.19419,
+    29.693283,
+    -91.19419,
+    29.693283
+],
+  "geometry": {"coordinates":[-91.19419000000001,29.693283],"type":"Point"}
+}

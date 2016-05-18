@@ -1,0 +1,71 @@
+{
+  "id": 840326185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.803697,30.27748,-89.803697,30.27748",
+    "geom:latitude":30.27748,
+    "geom:longitude":-89.803697,
+    "iso:country":"US",
+    "sg:address":"36126 Hwy 433",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 641 7408",
+    "sg:postcode":"70460",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948031,
+        102082453,
+        85810351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lIegP5paVs0CHJziaefuA_30.277480_-89.803697@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527774,
+    "wof:geomhash":"2dfa33e7aae555e45cfbcd638ba05ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85810351,
+            "region_id":85688735,
+            "venue_id":840326185
+        }
+    ],
+    "wof:id":840326185,
+    "wof:lastmodified":1463527774,
+    "wof:name":"Acadian Veterinary Clinic",
+    "wof:parent_id":85810351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.803697,
+    30.27748,
+    -89.803697,
+    30.27748
+],
+  "geometry": {"coordinates":[-89.803697,30.27748],"type":"Point"}
+}

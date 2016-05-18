@@ -1,0 +1,71 @@
+{
+  "id": 840319935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.499022,29.805918,-91.499022,29.805918",
+    "geom:latitude":29.805918,
+    "geom:longitude":-91.499022,
+    "iso:country":"US",
+    "sg:address":"603 Haifleigh St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 5099",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bxJwttHYsRWVGqTgI9MIl_29.805918_-91.499022@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527457,
+    "wof:geomhash":"d860b5558c362462f6cb3de1ac300039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840319935
+        }
+    ],
+    "wof:id":840319935,
+    "wof:lastmodified":1463527457,
+    "wof:name":"Foundation Medical Specialties",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.499022,
+    29.805918,
+    -91.499022,
+    29.805918
+],
+  "geometry": {"coordinates":[-91.499022,29.805918],"type":"Point"}
+}

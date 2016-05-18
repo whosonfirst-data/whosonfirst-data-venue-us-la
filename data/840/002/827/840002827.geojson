@@ -1,0 +1,71 @@
+{
+  "id": 840002827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.030574,30.254642,-92.030574,30.254642",
+    "geom:latitude":30.254642,
+    "geom:longitude":-92.030574,
+    "iso:country":"US",
+    "sg:address":"205 Stone Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 3960",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KHYMcHD1t8qMAcGtZl5qf_30.254642_-92.030574@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519053,
+    "wof:geomhash":"5ce986dfaaf945b115a856417c582297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840002827
+        }
+    ],
+    "wof:id":840002827,
+    "wof:lastmodified":1463519053,
+    "wof:name":"Nathan & Zydeco Cha Cha",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -92.030574,
+    30.254642,
+    -92.030574,
+    30.254642
+],
+  "geometry": {"coordinates":[-92.030574,30.254642],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840175193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.073785,29.997487,-90.073785,29.997487",
+    "geom:latitude":29.997487,
+    "geom:longitude":-90.073785,
+    "iso:country":"US",
+    "sg:address":"3940 Paris Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 286 2270",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fIUMVDyju1zQVDbSXMmbd_29.997487_-90.073785@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522808,
+    "wof:geomhash":"7ecdcc1e832c77834c22b437598ce009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866079,
+            "region_id":85688735,
+            "venue_id":840175193
+        }
+    ],
+    "wof:id":840175193,
+    "wof:lastmodified":1463522808,
+    "wof:name":"New Orleans Registrar-Voters",
+    "wof:parent_id":85866079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -90.073785,
+    29.997487,
+    -90.073785,
+    29.997487
+],
+  "geometry": {"coordinates":[-90.073785,29.997487],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840231941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.97769,29.960267,-89.97769,29.960267",
+    "geom:latitude":29.960267,
+    "geom:longitude":-89.97769,
+    "iso:country":"US",
+    "sg:address":"3716 Norwood Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 367 6518",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s0o3YxkxI9YOsDAxp9oku_29.960267_-89.977690@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524161,
+    "wof:geomhash":"f595e1cde3112906829ff61c6c5eed96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840231941
+        }
+    ],
+    "wof:id":840231941,
+    "wof:lastmodified":1463524161,
+    "wof:name":"ABC Washer Dryer",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -89.97769,
+    29.960267,
+    -89.97769,
+    29.960267
+],
+  "geometry": {"coordinates":[-89.97769,29.960267],"type":"Point"}
+}

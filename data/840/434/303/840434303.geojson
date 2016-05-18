@@ -1,0 +1,73 @@
+{
+  "id": 840434303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.827334,30.01559,-91.827334,30.01559",
+    "geom:latitude":30.01559,
+    "geom:longitude":-91.827334,
+    "iso:country":"US",
+    "sg:address":"920 W Main St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 0881",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FXRojqN2VgIIdNIWuzxML_30.015590_-91.827334@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532655,
+    "wof:geomhash":"b4c6b4af9f687df7dd45c816c579ee04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840434303
+        }
+    ],
+    "wof:id":840434303,
+    "wof:lastmodified":1463532655,
+    "wof:name":"West Main Auto Care",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.827334,
+    30.01559,
+    -91.827334,
+    30.01559
+],
+  "geometry": {"coordinates":[-91.82733399999999,30.01559],"type":"Point"}
+}

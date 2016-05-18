@@ -1,0 +1,73 @@
+{
+  "id": 840381329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.193466,30.203745,-93.193466,30.203745",
+    "geom:latitude":30.203745,
+    "geom:longitude":-93.193466,
+    "iso:country":"US",
+    "sg:address":"2829 4th Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 7091",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34itaphcgw1nzURrQGETC0_30.203745_-93.193466@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530403,
+    "wof:geomhash":"59309fa7eff54231916d3da3bad8888f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840381329
+        }
+    ],
+    "wof:id":840381329,
+    "wof:lastmodified":1463530403,
+    "wof:name":"Institute For Neuropsychiatry",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.193466,
+    30.203745,
+    -93.193466,
+    30.203745
+],
+  "geometry": {"coordinates":[-93.193466,30.203745],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 840276853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.04238,29.923302,-90.04238,29.923302",
+    "geom:latitude":29.923302,
+    "geom:longitude":-90.04238,
+    "iso:country":"US",
+    "sg:address":"1517 Whitney Ave",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 433 1818",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pa2NnbbgmSdFeDQhQ67CR_29.923302_-90.042380@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525479,
+    "wof:geomhash":"80bd0cd9e1425ad62b9ee954822f4e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":840276853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840276853
+        }
+    ],
+    "wof:id":840276853,
+    "wof:lastmodified":1463525479,
+    "wof:name":"Rob's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.04238,
+    29.923302,
+    -90.04238,
+    29.923302
+],
+  "geometry": {"coordinates":[-90.04237999999999,29.923302],"type":"Point"}
+}

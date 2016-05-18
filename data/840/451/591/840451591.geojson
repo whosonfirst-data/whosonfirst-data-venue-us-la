@@ -1,0 +1,78 @@
+{
+  "id": 840451591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.0606,29.959299,-90.0606,29.959299",
+    "geom:latitude":29.959299,
+    "geom:longitude":-90.0606,
+    "iso:country":"US",
+    "sg:address":"1001 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 7879",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853777,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YiUMLVI0rAzsZPsRPfX3A_29.959896_-90.059934@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533367,
+    "wof:geomhash":"46a377b7e56c453142469f8dba745e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840451591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840451591
+        }
+    ],
+    "wof:id":840451591,
+    "wof:lastmodified":1463533367,
+    "wof:name":"French Market Restaurant & Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.0606,
+    29.959299,
+    -90.0606,
+    29.959299
+],
+  "geometry": {"coordinates":[-90.06059999999999,29.959299],"type":"Point"}
+}

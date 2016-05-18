@@ -1,0 +1,71 @@
+{
+  "id": 840105295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.814856,29.987683,-91.814856,29.987683",
+    "geom:latitude":29.987683,
+    "geom:longitude":-91.814856,
+    "iso:country":"US",
+    "sg:address":"1001 E Dale St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 5486",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30HCBe2ia5RjUgQcCplCtu_29.987683_-91.814856@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521339,
+    "wof:geomhash":"c03a47d2c348e2a872750b3cc9d6a280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840105295
+        }
+    ],
+    "wof:id":840105295,
+    "wof:lastmodified":1463521339,
+    "wof:name":"Magnolia Place Apartments",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.814856,
+    29.987683,
+    -91.814856,
+    29.987683
+],
+  "geometry": {"coordinates":[-91.81485600000001,29.987683],"type":"Point"}
+}

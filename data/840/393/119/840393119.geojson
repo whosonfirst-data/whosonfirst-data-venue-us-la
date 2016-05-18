@@ -1,0 +1,73 @@
+{
+  "id": 840393119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.717614,32.427515,-93.717614,32.427515",
+    "geom:latitude":32.427515,
+    "geom:longitude":-93.717614,
+    "iso:country":"US",
+    "sg:address":"8383 Millicent Way",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 797 6661",
+    "sg:postcode":"71115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_694sY1vKPZ2hppqsDjqcNY_32.427515_-93.717614@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530927,
+    "wof:geomhash":"e72e987772e02335d7ec52bdaa75fb62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840393119
+        }
+    ],
+    "wof:id":840393119,
+    "wof:lastmodified":1463530927,
+    "wof:name":"Family Doctors",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.717614,
+    32.427515,
+    -93.717614,
+    32.427515
+],
+  "geometry": {"coordinates":[-93.717614,32.427515],"type":"Point"}
+}

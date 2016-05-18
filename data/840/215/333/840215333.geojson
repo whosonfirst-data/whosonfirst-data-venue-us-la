@@ -1,0 +1,73 @@
+{
+  "id": 840215333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.263677,29.685355,-91.263677,29.685355",
+    "geom:latitude":29.685355,
+    "geom:longitude":-91.263677,
+    "iso:country":"US",
+    "sg:address":"1325 Belleview St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 399 9866",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "county",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fOwvi3e5wYixfequdsegd_29.685355_-91.263677@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523737,
+    "wof:geomhash":"c18ab230febf5e7cba7782a8ed25a452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840215333
+        }
+    ],
+    "wof:id":840215333,
+    "wof:lastmodified":1463523737,
+    "wof:name":"St Mary Parish Library",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "government"
+    ]
+},
+  "bbox": [
+    -91.263677,
+    29.685355,
+    -91.263677,
+    29.685355
+],
+  "geometry": {"coordinates":[-91.263677,29.685355],"type":"Point"}
+}

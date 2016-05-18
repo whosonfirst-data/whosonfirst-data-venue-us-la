@@ -1,0 +1,74 @@
+{
+  "id": 840451519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.053299,29.905399,-90.053299,29.905399",
+    "geom:latitude":29.905399,
+    "geom:longitude":-90.053299,
+    "iso:country":"US",
+    "sg:address":"1900 Lafayette St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 361 8336",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.familydollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TSxv6f70kUnv8PngTeT9g_29.905285_-90.053185@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533365,
+    "wof:geomhash":"7e33e0f50c2574db6a62cb29bc364f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840451519
+        }
+    ],
+    "wof:id":840451519,
+    "wof:lastmodified":1463533365,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.053299,
+    29.905399,
+    -90.053299,
+    29.905399
+],
+  "geometry": {"coordinates":[-90.053299,29.905399],"type":"Point"}
+}

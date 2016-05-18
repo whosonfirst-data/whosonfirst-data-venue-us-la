@@ -1,0 +1,71 @@
+{
+  "id": 840358221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.215976,30.229325,-93.215976,30.229325",
+    "geom:latitude":30.229325,
+    "geom:longitude":-93.215976,
+    "iso:country":"US",
+    "sg:address":"329 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 3784",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WPEE5KgtBmNTom8lDF5El_30.229325_-93.215976@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529304,
+    "wof:geomhash":"748adf5aa9a5fdc580c11f907ecc5d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840358221
+        }
+    ],
+    "wof:id":840358221,
+    "wof:lastmodified":1463529304,
+    "wof:name":"Kraus Construction Co",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.215976,
+    30.229325,
+    -93.215976,
+    30.229325
+],
+  "geometry": {"coordinates":[-93.215976,30.229325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840128973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.171273,29.689778,-91.171273,29.689778",
+    "geom:latitude":29.689778,
+    "geom:longitude":-91.171273,
+    "iso:country":"US",
+    "sg:address":"6021 Railroad Ave",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 2760",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hGIxDxcQR0ODfPpzr8Gea_29.689778_-91.171273@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521828,
+    "wof:geomhash":"9c4787a6001a9655f2b0ecbd44e8fbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840128973
+        }
+    ],
+    "wof:id":840128973,
+    "wof:lastmodified":1463521828,
+    "wof:name":"Atchafalaya Animal Hospital",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.171273,
+    29.689778,
+    -91.171273,
+    29.689778
+],
+  "geometry": {"coordinates":[-91.171273,29.689778],"type":"Point"}
+}

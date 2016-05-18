@@ -1,0 +1,73 @@
+{
+  "id": 840235039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.13174,29.93968,-90.13174,29.93968",
+    "geom:latitude":29.93968,
+    "geom:longitude":-90.13174,
+    "iso:country":"US",
+    "sg:address":"401 Adams St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 865 7130",
+    "sg:postcode":"70118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85823083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nRd6ujrg48jw2BlzZ29vq_29.939680_-90.131740@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524247,
+    "wof:geomhash":"25a39d9c841f0961291f07485b670d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85823083,
+            "region_id":85688735,
+            "venue_id":840235039
+        }
+    ],
+    "wof:id":840235039,
+    "wof:lastmodified":1463524247,
+    "wof:name":"James Grocery",
+    "wof:parent_id":85823083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.13174,
+    29.93968,
+    -90.13174,
+    29.93968
+],
+  "geometry": {"coordinates":[-90.13173999999999,29.93968],"type":"Point"}
+}

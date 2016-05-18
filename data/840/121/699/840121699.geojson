@@ -1,0 +1,71 @@
+{
+  "id": 840121699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.133616,30.268975,-92.133616,30.268975",
+    "geom:latitude":30.268975,
+    "geom:longitude":-92.133616,
+    "iso:country":"US",
+    "sg:address":"1212 Janvier Rd",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 873 8382",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dPVunrnmqgTJb6Ul5SrRE_30.268975_-92.133616@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521679,
+    "wof:geomhash":"418d757f8f7d27c9205a27bfb5cb06ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840121699
+        }
+    ],
+    "wof:id":840121699,
+    "wof:lastmodified":1463521679,
+    "wof:name":"Cahanins Welding Svc",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -92.133616,
+    30.268975,
+    -92.133616,
+    30.268975
+],
+  "geometry": {"coordinates":[-92.133616,30.268975],"type":"Point"}
+}

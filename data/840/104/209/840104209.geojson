@@ -1,0 +1,73 @@
+{
+  "id": 840104209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.499946,31.265245,-92.499946,31.265245",
+    "geom:latitude":31.265245,
+    "geom:longitude":-92.499946,
+    "iso:country":"US",
+    "sg:address":"301 W Dem Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 473 9255",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vQnahugwsVR16vdeGQcu2_31.265245_-92.499946@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521308,
+    "wof:geomhash":"66dd95756c8948689e1847d90d482cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840104209
+        }
+    ],
+    "wof:id":840104209,
+    "wof:lastmodified":1463521308,
+    "wof:name":"Space Walk Of Alexandria",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -92.499946,
+    31.265245,
+    -92.499946,
+    31.265245
+],
+  "geometry": {"coordinates":[-92.49994599999999,31.265245],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840139807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325452,30.22888,-93.325452,30.22888",
+    "geom:latitude":30.22888,
+    "geom:longitude":-93.325452,
+    "iso:country":"US",
+    "sg:address":"192 N Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 4408",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SsQF5fy4W3ZPGHgRP94CJ_30.228880_-93.325452@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522045,
+    "wof:geomhash":"eaefb19a9fb316815e557abc12ffa235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840139807
+        }
+    ],
+    "wof:id":840139807,
+    "wof:lastmodified":1463522045,
+    "wof:name":"Vinton's Small Engine Repair",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -93.325452,
+    30.22888,
+    -93.325452,
+    30.22888
+],
+  "geometry": {"coordinates":[-93.325452,30.22888],"type":"Point"}
+}

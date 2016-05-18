@@ -1,0 +1,73 @@
+{
+  "id": 840385963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359467,30.246771,-93.359467,30.246771",
+    "geom:latitude":30.246771,
+    "geom:longitude":-93.359467,
+    "iso:country":"US",
+    "sg:address":"959 N Beglis Pkwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 2886",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_286Ldyxa5LxMSL2wdvAkU5_30.246771_-93.359467@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530634,
+    "wof:geomhash":"cd6b9b27f4835c4810dc0937737eff2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840385963
+        }
+    ],
+    "wof:id":840385963,
+    "wof:lastmodified":1463530634,
+    "wof:name":"B & K Auto Ctr",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.359467,
+    30.246771,
+    -93.359467,
+    30.246771
+],
+  "geometry": {"coordinates":[-93.359467,30.246771],"type":"Point"}
+}

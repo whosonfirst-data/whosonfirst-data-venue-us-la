@@ -1,0 +1,71 @@
+{
+  "id": 840414677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.048401,30.147836,-92.048401,30.147836",
+    "geom:latitude":30.147836,
+    "geom:longitude":-92.048401,
+    "iso:country":"US",
+    "sg:address":"110 Edinburgh Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 993 0385",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YZqiW4f9Qq0AgwTAnZLfZ_30.147836_-92.048401@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531807,
+    "wof:geomhash":"e27ab79f41ffb909714f9202864f7701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840414677
+        }
+    ],
+    "wof:id":840414677,
+    "wof:lastmodified":1463531807,
+    "wof:name":"Hanks Plumbing",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.048401,
+    30.147836,
+    -92.048401,
+    30.147836
+],
+  "geometry": {"coordinates":[-92.048401,30.147836],"type":"Point"}
+}

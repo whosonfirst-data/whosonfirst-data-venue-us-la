@@ -1,0 +1,71 @@
+{
+  "id": 840174473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.179831,30.161851,-93.179831,30.161851",
+    "geom:latitude":30.161851,
+    "geom:longitude":-93.179831,
+    "iso:country":"US",
+    "sg:address":"5700 State Rte 14",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 480 1500",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JALYzUv2u981e5Xxy6rYD_30.161851_-93.179831@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522781,
+    "wof:geomhash":"e09590723459db1cc8cca7e1a2f54d34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840174473
+        }
+    ],
+    "wof:id":840174473,
+    "wof:lastmodified":1463522781,
+    "wof:name":"Bayou South Animal Hospital",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.179831,
+    30.161851,
+    -93.179831,
+    30.161851
+],
+  "geometry": {"coordinates":[-93.17983099999999,30.161851],"type":"Point"}
+}

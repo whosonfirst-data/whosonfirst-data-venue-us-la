@@ -1,0 +1,75 @@
+{
+  "id": 840373751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.23245,30.18027,-93.23245,30.18027",
+    "geom:latitude":30.18027,
+    "geom:longitude":-93.23245,
+    "iso:country":"US",
+    "sg:address":"4444 Lake St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 7555",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JJFeZvjt4CS1VwuhCJPMK_30.180270_-93.232450@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530064,
+    "wof:geomhash":"fa85fa72f44a639b21a66c52725bbc34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840373751
+        }
+    ],
+    "wof:id":840373751,
+    "wof:lastmodified":1463530064,
+    "wof:name":"Center For Health Promotion",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -93.23245,
+    30.18027,
+    -93.23245,
+    30.18027
+],
+  "geometry": {"coordinates":[-93.23245,30.18027],"type":"Point"}
+}

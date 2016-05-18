@@ -1,0 +1,72 @@
+{
+  "id": 840415705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.045259,30.383614,-91.045259,30.383614",
+    "geom:latitude":30.383614,
+    "geom:longitude":-91.045259,
+    "iso:country":"US",
+    "sg:address":"12232 Industriplex Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 756 5302",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.southernmedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44S5s0J0Tz9yG8ubDaYhtR_30.383614_-91.045259@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531856,
+    "wof:geomhash":"909dd2b89fcedec2a617466c03ee1a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840415705
+        }
+    ],
+    "wof:id":840415705,
+    "wof:lastmodified":1463531856,
+    "wof:name":"Bio Medical Resources",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.045259,
+    30.383614,
+    -91.045259,
+    30.383614
+],
+  "geometry": {"coordinates":[-91.045259,30.383614],"type":"Point"}
+}

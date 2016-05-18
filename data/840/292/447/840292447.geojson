@@ -1,0 +1,75 @@
+{
+  "id": 840292447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.40719,30.241808,-93.40719,30.241808",
+    "geom:latitude":30.241808,
+    "geom:longitude":-93.40719,
+    "iso:country":"US",
+    "sg:address":"2200 W Burton St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 3010",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54MTQTgqh23mW9loDA0ATF_30.241808_-93.407190@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526168,
+    "wof:geomhash":"b06baf76f9f1873fe7b57602f7346331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840292447
+        }
+    ],
+    "wof:id":840292447,
+    "wof:lastmodified":1463526168,
+    "wof:name":"UCAR Pipeline Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -93.40719,
+    30.241808,
+    -93.40719,
+    30.241808
+],
+  "geometry": {"coordinates":[-93.40719,30.241808],"type":"Point"}
+}

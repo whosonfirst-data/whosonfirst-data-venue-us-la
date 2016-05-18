@@ -1,0 +1,71 @@
+{
+  "id": 840222203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.225407,30.203244,-93.225407,30.203244",
+    "geom:latitude":30.203244,
+    "geom:longitude":-93.225407,
+    "iso:country":"US",
+    "sg:address":"2707 Hazel St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 2846",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lhMUvCchUiZJudwahJccI_30.203244_-93.225407@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523880,
+    "wof:geomhash":"32660bd918e36205a7cd5b19a215bc63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840222203
+        }
+    ],
+    "wof:id":840222203,
+    "wof:lastmodified":1463523880,
+    "wof:name":"Shop-A-Lott",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.225407,
+    30.203244,
+    -93.225407,
+    30.203244
+],
+  "geometry": {"coordinates":[-93.225407,30.203244],"type":"Point"}
+}

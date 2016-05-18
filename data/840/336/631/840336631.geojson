@@ -1,0 +1,71 @@
+{
+  "id": 840336631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.439822,30.453386,-93.439822,30.453386",
+    "geom:latitude":30.453386,
+    "geom:longitude":-93.439822,
+    "iso:country":"US",
+    "sg:address":"119 Smith St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 598 4222",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s83fql3giSCE5JUyEogaX_30.453386_-93.439822@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528245,
+    "wof:geomhash":"4f196706a2c3594b3ab256ba713ada2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840336631
+        }
+    ],
+    "wof:id":840336631,
+    "wof:lastmodified":1463528245,
+    "wof:name":"Cameron Parish Sheriff Office",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.439822,
+    30.453386,
+    -93.439822,
+    30.453386
+],
+  "geometry": {"coordinates":[-93.43982200000001,30.453386],"type":"Point"}
+}

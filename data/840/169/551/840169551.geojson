@@ -1,0 +1,71 @@
+{
+  "id": 840169551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.185528,30.200169,-93.185528,30.200169",
+    "geom:latitude":30.200169,
+    "geom:longitude":-93.185528,
+    "iso:country":"US",
+    "sg:address":"2222 22nd St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 480 0102",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T2u6ql8qp4wy4v07ne2N3_30.200169_-93.185528@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522660,
+    "wof:geomhash":"6094fae2c26b46f7da973c1caf058f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840169551
+        }
+    ],
+    "wof:id":840169551,
+    "wof:lastmodified":1463522660,
+    "wof:name":"USS Limousines Ltd Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -93.185528,
+    30.200169,
+    -93.185528,
+    30.200169
+],
+  "geometry": {"coordinates":[-93.18552800000001,30.200169],"type":"Point"}
+}

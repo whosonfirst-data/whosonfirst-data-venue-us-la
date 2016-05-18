@@ -1,0 +1,73 @@
+{
+  "id": 840421373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258043,30.256896,-93.258043,30.256896",
+    "geom:latitude":30.256896,
+    "geom:longitude":-93.258043,
+    "iso:country":"US",
+    "sg:address":"2004 Sampson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 4509",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62bmHnBJl3Rw2lPVZX8xPw_30.256896_-93.258043@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532094,
+    "wof:geomhash":"814c534a8ae3cff9967a9a6ac9e93cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840421373
+        }
+    ],
+    "wof:id":840421373,
+    "wof:lastmodified":1463532094,
+    "wof:name":"Westlake/Moss Bluff Mini Stge",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.258043,
+    30.256896,
+    -93.258043,
+    30.256896
+],
+  "geometry": {"coordinates":[-93.258043,30.256896],"type":"Point"}
+}

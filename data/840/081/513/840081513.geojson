@@ -1,0 +1,73 @@
+{
+  "id": 840081513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.452012,31.294536,-92.452012,31.294536",
+    "geom:latitude":31.294536,
+    "geom:longitude":-92.452012,
+    "iso:country":"US",
+    "sg:address":"2204 Lee St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 8317",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ehIqoNSlzifbFD2FLqrTE_31.294536_-92.452012@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520718,
+    "wof:geomhash":"c32ca901f376ab0d835bdc3eb2250148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840081513
+        }
+    ],
+    "wof:id":840081513,
+    "wof:lastmodified":1463520718,
+    "wof:name":"Hub City Motors",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.452012,
+    31.294536,
+    -92.452012,
+    31.294536
+],
+  "geometry": {"coordinates":[-92.452012,31.294536],"type":"Point"}
+}

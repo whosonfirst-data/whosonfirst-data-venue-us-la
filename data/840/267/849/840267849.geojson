@@ -1,0 +1,75 @@
+{
+  "id": 840267849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.131871,30.003819,-90.131871,30.003819",
+    "geom:latitude":30.003819,
+    "geom:longitude":-90.131871,
+    "iso:country":"US",
+    "sg:address":"714 Rosa Ave",
+    "sg:city":"St Rose",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 463 0189",
+    "sg:postcode":"70005",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948743,
+        102083179,
+        85866149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XEvG1naPIdOfBhnrGV9If_30.003819_-90.131871@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525073,
+    "wof:geomhash":"1d825c291890a067f1a1d7ec4b1ef3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948743,
+            "neighbourhood_id":85866149,
+            "region_id":85688735,
+            "venue_id":840267849
+        }
+    ],
+    "wof:id":840267849,
+    "wof:lastmodified":1463525073,
+    "wof:name":"Tony's Auto Repair",
+    "wof:parent_id":85866149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.131871,
+    30.003819,
+    -90.131871,
+    30.003819
+],
+  "geometry": {"coordinates":[-90.131871,30.003819],"type":"Point"}
+}

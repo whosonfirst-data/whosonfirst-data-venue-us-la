@@ -1,0 +1,71 @@
+{
+  "id": 840390403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.382533,30.285847,-93.382533,30.285847",
+    "geom:latitude":30.285847,
+    "geom:longitude":-93.382533,
+    "iso:country":"US",
+    "sg:address":"789 W Houston River Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 0744",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V5rXIw6xHBxkFtjEHvwYc_30.285847_-93.382533@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530823,
+    "wof:geomhash":"f654948d1181636d17a4241553d47fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840390403
+        }
+    ],
+    "wof:id":840390403,
+    "wof:lastmodified":1463530823,
+    "wof:name":"Calcasieu Fire Dept",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.382533,
+    30.285847,
+    -93.382533,
+    30.285847
+],
+  "geometry": {"coordinates":[-93.382533,30.285847],"type":"Point"}
+}

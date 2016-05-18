@@ -1,0 +1,82 @@
+{
+  "id": 840060443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482531,30.507531,-90.482531,30.507531",
+    "geom:latitude":30.507531,
+    "geom:longitude":-90.482531,
+    "iso:country":"US",
+    "sg:address":"821 N Morrison Blvd",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 7182",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177,
+        102191575,
+        85857619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MtaplvqAiDyxuWHThWr9e_30.507531_-90.482531@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520286,
+    "wof:geomhash":"0ed700a2b7ef172be594c95a72e7ccfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840060443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85857619,
+            "region_id":85688735,
+            "venue_id":840060443
+        }
+    ],
+    "wof:id":840060443,
+    "wof:lastmodified":1463520286,
+    "wof:name":"Bayou Pawn & Jewelry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -90.482531,
+    30.507531,
+    -90.482531,
+    30.507531
+],
+  "geometry": {"coordinates":[-90.48253099999999,30.507531],"type":"Point"}
+}

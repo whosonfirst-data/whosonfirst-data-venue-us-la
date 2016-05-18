@@ -1,0 +1,69 @@
+{
+  "id": 840000007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.715683,32.575668,-93.715683,32.575668",
+    "geom:latitude":32.575668,
+    "geom:longitude":-93.715683,
+    "iso:country":"US",
+    "sg:address":"2621 Brownlee Rd",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 741 8329",
+    "sg:postcode":"71111",
+    "sg:province":"LA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85808045,
+        102084883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aalqfoozRyx6HIbOxEc6P_32.575668_-93.715683@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463518994,
+    "wof:geomhash":"c5cd2d1d976e803c9e93717cd828f39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "neighbourhood_id":85808045,
+            "region_id":85688735,
+            "venue_id":840000007
+        }
+    ],
+    "wof:id":840000007,
+    "wof:lastmodified":1463518994,
+    "wof:name":"Bossier Fire Dept 9",
+    "wof:parent_id":85808045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -93.715683,
+    32.575668,
+    -93.715683,
+    32.575668
+],
+  "geometry": {"coordinates":[-93.715683,32.575668],"type":"Point"}
+}

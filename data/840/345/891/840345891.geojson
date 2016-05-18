@@ -1,0 +1,73 @@
+{
+  "id": 840345891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.059238,30.17757,-92.059238,30.17757",
+    "geom:latitude":30.17757,
+    "geom:longitude":-92.059238,
+    "iso:country":"US",
+    "sg:address":"501 Genevieve Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 5258",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z0PEU7zyi8AysmjCGRrLJ_30.177570_-92.059238@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528696,
+    "wof:geomhash":"25d66d9e54d526fcf6bfca8ab5103560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840345891
+        }
+    ],
+    "wof:id":840345891,
+    "wof:lastmodified":1463528696,
+    "wof:name":"R T Electric",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.059238,
+    30.17757,
+    -92.059238,
+    30.17757
+],
+  "geometry": {"coordinates":[-92.05923799999999,30.17757],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 840455679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.045334,30.459969,-91.045334,30.459969",
+    "geom:latitude":30.459969,
+    "geom:longitude":-91.045334,
+    "iso:country":"US",
+    "sg:address":"12330 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/81563-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 272 7575",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85838033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_510u6dauAY7KtNEJ9oUYIU_30.459969_-91.045334@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533527,
+    "wof:geomhash":"ce2b252fa341296d41ca4171b615a2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85838033,
+            "region_id":85688735,
+            "venue_id":840455679
+        }
+    ],
+    "wof:id":840455679,
+    "wof:lastmodified":1463533527,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85838033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.045334,
+    30.459969,
+    -91.045334,
+    30.459969
+],
+  "geometry": {"coordinates":[-91.045334,30.459969],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840427325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.344598,30.15809,-93.344598,30.15809",
+    "geom:latitude":30.15809,
+    "geom:longitude":-93.344598,
+    "iso:country":"US",
+    "sg:address":"1399 Davison Rd",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 583 4642",
+    "sg:postcode":"70665",
+    "sg:province":"LA",
+    "sg:tags":[
+        "oil",
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z8cR6TrKCFOz3lRcONoDT_30.158090_-93.344598@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532328,
+    "wof:geomhash":"843d1e2a9e6a2143abb4551258f1065f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840427325
+        }
+    ],
+    "wof:id":840427325,
+    "wof:lastmodified":1463532328,
+    "wof:name":"Dynegy Midstream Svc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "refiner"
+    ]
+},
+  "bbox": [
+    -93.344598,
+    30.15809,
+    -93.344598,
+    30.15809
+],
+  "geometry": {"coordinates":[-93.344598,30.15809],"type":"Point"}
+}

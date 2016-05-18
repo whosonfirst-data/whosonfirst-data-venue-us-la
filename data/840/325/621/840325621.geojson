@@ -1,0 +1,73 @@
+{
+  "id": 840325621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.198586,30.199247,-93.198586,30.199247",
+    "geom:latitude":30.199247,
+    "geom:longitude":-93.198586,
+    "iso:country":"US",
+    "sg:address":"3201 2nd Ave",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 2705",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OZI730nD3GB1ML4fPPBLZ_30.199247_-93.198586@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527751,
+    "wof:geomhash":"4a6d0bd6412169f060f50970472f74c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840325621
+        }
+    ],
+    "wof:id":840325621,
+    "wof:lastmodified":1463527751,
+    "wof:name":"Madrid Apts Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.198586,
+    30.199247,
+    -93.198586,
+    30.199247
+],
+  "geometry": {"coordinates":[-93.19858600000001,30.199247],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840390929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.016455,30.202369,-92.016455,30.202369",
+    "geom:latitude":30.202369,
+    "geom:longitude":-92.016455,
+    "iso:country":"US",
+    "sg:address":"427 Heymann Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 1111",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RegzFJiZPF2KnozY9ZOeJ_30.202369_-92.016455@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530842,
+    "wof:geomhash":"c8b4726674cf99c871bfba0deb261d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840390929
+        }
+    ],
+    "wof:id":840390929,
+    "wof:lastmodified":1463530842,
+    "wof:name":"Acadiana Family Physicians",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.016455,
+    30.202369,
+    -92.016455,
+    30.202369
+],
+  "geometry": {"coordinates":[-92.01645499999999,30.202369],"type":"Point"}
+}

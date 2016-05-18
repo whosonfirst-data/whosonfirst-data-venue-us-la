@@ -1,0 +1,75 @@
+{
+  "id": 840393129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.107349,32.530212,-92.107349,32.530212",
+    "geom:latitude":32.530212,
+    "geom:longitude":-92.107349,
+    "iso:country":"US",
+    "sg:address":"2005 Richard Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 323 2400",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948231,
+        102081027,
+        85819355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GMNyl0xuWVbgKzgkErswF_32.530212_-92.107349@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530928,
+    "wof:geomhash":"3fc1572301203a524ae9d1a417147552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85819355,
+            "region_id":85688735,
+            "venue_id":840393129
+        }
+    ],
+    "wof:id":840393129,
+    "wof:lastmodified":1463530928,
+    "wof:name":"HVAC Svc",
+    "wof:parent_id":85819355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.107349,
+    32.530212,
+    -92.107349,
+    32.530212
+],
+  "geometry": {"coordinates":[-92.107349,32.530212],"type":"Point"}
+}

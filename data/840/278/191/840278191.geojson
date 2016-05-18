@@ -1,0 +1,73 @@
+{
+  "id": 840278191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.89469,32.580501,-93.89469,32.580501",
+    "geom:latitude":32.580501,
+    "geom:longitude":-93.89469,
+    "iso:country":"US",
+    "sg:address":"221 W Alexander Ave",
+    "sg:city":"Blanchard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 3994",
+    "sg:postcode":"71009",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e3oTn5ljIrfnaRFxLC9vb_32.580501_-93.894690@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525533,
+    "wof:geomhash":"1973fe39468c68cedf53fda0ecb9b80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840278191
+        }
+    ],
+    "wof:id":840278191,
+    "wof:lastmodified":1463525533,
+    "wof:name":"Free's Automotive",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.89469,
+    32.580501,
+    -93.89469,
+    32.580501
+],
+  "geometry": {"coordinates":[-93.89469,32.580501],"type":"Point"}
+}

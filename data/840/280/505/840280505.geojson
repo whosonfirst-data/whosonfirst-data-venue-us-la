@@ -1,0 +1,71 @@
+{
+  "id": 840280505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.274418,31.124247,-93.274418,31.124247",
+    "geom:latitude":31.124247,
+    "geom:longitude":-93.274418,
+    "iso:country":"US",
+    "sg:address":"1610 Oakwood St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 0393",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pFOqPWdiSi10CMTrgh0uN_31.124247_-93.274418@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525640,
+    "wof:geomhash":"c401bbd94b3798162a68e0e308fdfcf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840280505
+        }
+    ],
+    "wof:id":840280505,
+    "wof:lastmodified":1463525640,
+    "wof:name":"Oakwood Apartments",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.274418,
+    31.124247,
+    -93.274418,
+    31.124247
+],
+  "geometry": {"coordinates":[-93.274418,31.124247],"type":"Point"}
+}

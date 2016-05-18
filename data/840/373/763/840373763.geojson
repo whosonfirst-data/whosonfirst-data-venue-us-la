@@ -1,0 +1,75 @@
+{
+  "id": 840373763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.193114,30.253346,-93.193114,30.253346",
+    "geom:latitude":30.253346,
+    "geom:longitude":-93.193114,
+    "iso:country":"US",
+    "sg:address":"1222 N Prater St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 9936",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aSUELPLLs0E9eCF8i450d_30.253346_-93.193114@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530069,
+    "wof:geomhash":"b3389a52390b730c1ffb9408a73b33fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840373763
+        }
+    ],
+    "wof:id":840373763,
+    "wof:lastmodified":1463530069,
+    "wof:name":"Lawrence Paint & Body Shop",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.193114,
+    30.253346,
+    -93.193114,
+    30.253346
+],
+  "geometry": {"coordinates":[-93.19311399999999,30.253346],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840201331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.980053,29.95408,-89.980053,29.95408",
+    "geom:latitude":29.95408,
+    "geom:longitude":-89.980053,
+    "iso:country":"US",
+    "sg:address":"8331 W Judge Perez Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 1882",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65ySvukiBtaryBhbY5z4s7_29.954080_-89.980053@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523373,
+    "wof:geomhash":"eb584c1765ce19c58d04761695c262b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840201331
+        }
+    ],
+    "wof:id":840201331,
+    "wof:lastmodified":1463523373,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.980053,
+    29.95408,
+    -89.980053,
+    29.95408
+],
+  "geometry": {"coordinates":[-89.980053,29.95408],"type":"Point"}
+}

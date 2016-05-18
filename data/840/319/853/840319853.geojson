@@ -1,0 +1,73 @@
+{
+  "id": 840319853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.048833,30.157064,-92.048833,30.157064",
+    "geom:latitude":30.157064,
+    "geom:longitude":-92.048833,
+    "iso:country":"US",
+    "sg:address":"4415 Ambassador Caffery Pkwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 6442",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69s5rkGG445RJX5QHEKljH_30.157064_-92.048833@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527454,
+    "wof:geomhash":"e6953f3cfa0a44b0b7d714dc81ef6a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840319853
+        }
+    ],
+    "wof:id":840319853,
+    "wof:lastmodified":1463527454,
+    "wof:name":"Dr Joseph Atkins",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.048833,
+    30.157064,
+    -92.048833,
+    30.157064
+],
+  "geometry": {"coordinates":[-92.048833,30.157064],"type":"Point"}
+}

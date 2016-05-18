@@ -1,0 +1,73 @@
+{
+  "id": 840011309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.109818,32.488554,-92.109818,32.488554",
+    "geom:latitude":32.488554,
+    "geom:longitude":-92.109818,
+    "iso:country":"US",
+    "sg:address":"1615 Jackson St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 0399",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yzolx4IEYQUPBKO3agyF2_32.488554_-92.109818@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519236,
+    "wof:geomhash":"13dc65d0aa251e86179c10b838865f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840011309
+        }
+    ],
+    "wof:id":840011309,
+    "wof:lastmodified":1463519236,
+    "wof:name":"Chisley's Car Care Clinic",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.109818,
+    32.488554,
+    -92.109818,
+    32.488554
+],
+  "geometry": {"coordinates":[-92.109818,32.488554],"type":"Point"}
+}

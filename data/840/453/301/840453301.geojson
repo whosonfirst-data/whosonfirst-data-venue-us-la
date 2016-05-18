@@ -1,0 +1,78 @@
+{
+  "id": 840453301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.164153,29.963598,-90.164153,29.963598",
+    "geom:latitude":29.963598,
+    "geom:longitude":-90.164153,
+    "iso:country":"US",
+    "sg:address":"3705 Jefferson Hwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/bridge-city/173625-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 831 5099",
+    "sg:postcode":"70121",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v4e1PICVwLRmyRwEFsdPe_29.963598_-90.164153@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533436,
+    "wof:geomhash":"474866d709099036a42413ae57421be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840453301
+        }
+    ],
+    "wof:id":840453301,
+    "wof:lastmodified":1463533436,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.164153,
+    29.963598,
+    -90.164153,
+    29.963598
+],
+  "geometry": {"coordinates":[-90.164153,29.963598],"type":"Point"}
+}

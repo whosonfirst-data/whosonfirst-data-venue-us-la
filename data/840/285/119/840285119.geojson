@@ -1,0 +1,80 @@
+{
+  "id": 840285119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.762025,30.253111,-89.762025,30.253111",
+    "geom:latitude":30.253111,
+    "geom:longitude":-89.762025,
+    "iso:country":"US",
+    "sg:address":"56681 Garrett Rd",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 649 2628",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85850405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pdfejHaYlwZFDhDdlvFcH_30.253111_-89.762025@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525854,
+    "wof:geomhash":"f4bb3bc39a86a878503b2ba34aa0d7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85850405,
+            "region_id":85688735,
+            "venue_id":840285119
+        }
+    ],
+    "wof:id":840285119,
+    "wof:lastmodified":1463525854,
+    "wof:name":"Morgan's Marine",
+    "wof:parent_id":85850405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -89.762025,
+    30.253111,
+    -89.762025,
+    30.253111
+],
+  "geometry": {"coordinates":[-89.76202499999999,30.253111],"type":"Point"}
+}

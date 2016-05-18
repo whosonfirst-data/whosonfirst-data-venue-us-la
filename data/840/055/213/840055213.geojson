@@ -1,0 +1,75 @@
+{
+  "id": 840055213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.06809,30.345363,-92.06809,30.345363",
+    "geom:latitude":30.345363,
+    "geom:longitude":-92.06809,
+    "iso:country":"US",
+    "sg:address":"123 Kilchrist Rd",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 896 9842",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gIP2Z2ZEUAQQULZjVW378_30.345363_-92.068090@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520151,
+    "wof:geomhash":"b2bab30d84adf0ff7c8ac88c78d60292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840055213
+        }
+    ],
+    "wof:id":840055213,
+    "wof:lastmodified":1463520151,
+    "wof:name":"Montoucet's Auto Repair",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -92.06809,
+    30.345363,
+    -92.06809,
+    30.345363
+],
+  "geometry": {"coordinates":[-92.06809,30.345363],"type":"Point"}
+}

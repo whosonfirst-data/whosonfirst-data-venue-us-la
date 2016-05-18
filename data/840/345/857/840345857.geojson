@@ -1,0 +1,71 @@
+{
+  "id": 840345857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.960414,29.948927,-89.960414,29.948927",
+    "geom:latitude":29.948927,
+    "geom:longitude":-89.960414,
+    "iso:country":"US",
+    "sg:address":"3235 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 8342",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a9mggHIBlTVlFfauG1Tmu_29.948927_-89.960414@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528695,
+    "wof:geomhash":"dc11963efedac1787cfa15c7fc297cf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840345857
+        }
+    ],
+    "wof:id":840345857,
+    "wof:lastmodified":1463528695,
+    "wof:name":"Super Discounts",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.960414,
+    29.948927,
+    -89.960414,
+    29.948927
+],
+  "geometry": {"coordinates":[-89.960414,29.948927],"type":"Point"}
+}

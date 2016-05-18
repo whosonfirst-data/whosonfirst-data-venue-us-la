@@ -1,0 +1,76 @@
+{
+  "id": 840454291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.023545,30.220468,-92.023545,30.220468",
+    "geom:latitude":30.220468,
+    "geom:longitude":-92.023545,
+    "iso:country":"US",
+    "sg:address":"105 Saint Landry St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/72945-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 3335",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lj0IRK3af8im3efbxCVPL_30.220468_-92.023545@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533479,
+    "wof:geomhash":"0f049557ee5229ab433d389d22d935b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840454291
+        }
+    ],
+    "wof:id":840454291,
+    "wof:lastmodified":1463533479,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.023545,
+    30.220468,
+    -92.023545,
+    30.220468
+],
+  "geometry": {"coordinates":[-92.023545,30.220468],"type":"Point"}
+}

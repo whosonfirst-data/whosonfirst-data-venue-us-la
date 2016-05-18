@@ -1,0 +1,71 @@
+{
+  "id": 840330499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.011167,30.40749,-91.011167,30.40749",
+    "geom:latitude":30.40749,
+    "geom:longitude":-91.011167,
+    "iso:country":"US",
+    "sg:address":"15540 George Oneal Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 756 3145",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Llzi1yyVzS2uSC6WUj6rX_30.407490_-91.011167@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527968,
+    "wof:geomhash":"47987cf040757cdbaf4230ae040ae08b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840330499
+        }
+    ],
+    "wof:id":840330499,
+    "wof:lastmodified":1463527968,
+    "wof:name":"Eagle Cleaners",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.011167,
+    30.40749,
+    -91.011167,
+    30.40749
+],
+  "geometry": {"coordinates":[-91.011167,30.40749],"type":"Point"}
+}

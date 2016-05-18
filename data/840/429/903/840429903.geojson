@@ -1,0 +1,71 @@
+{
+  "id": 840429903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.273793,30.918519,-93.273793,30.918519",
+    "geom:latitude":30.918519,
+    "geom:longitude":-93.273793,
+    "iso:country":"US",
+    "sg:address":"5761 Fletcher Loop",
+    "sg:city":"Rosepine",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 537 8903",
+    "sg:postcode":"70634",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70AXsGR755PKp1zei6R53a_30.918519_-93.273793@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532441,
+    "wof:geomhash":"55b54f843b6f21e764c02ae6eeb522d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840429903
+        }
+    ],
+    "wof:id":840429903,
+    "wof:lastmodified":1463532441,
+    "wof:name":"Downing & Sons Appliance Repr",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -93.273793,
+    30.918519,
+    -93.273793,
+    30.918519
+],
+  "geometry": {"coordinates":[-93.273793,30.918519],"type":"Point"}
+}

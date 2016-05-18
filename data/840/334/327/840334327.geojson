@@ -1,0 +1,73 @@
+{
+  "id": 840334327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.50362,29.830583,-91.50362,29.830583",
+    "geom:latitude":29.830583,
+    "geom:longitude":-91.50362,
+    "iso:country":"US",
+    "sg:address":"4416 Irish Bend Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 1930",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rBlFGCtG9h9YimKGGGFk9_29.830583_-91.503620@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528148,
+    "wof:geomhash":"4054be1908d942b2eb8a6dd80a23f734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840334327
+        }
+    ],
+    "wof:id":840334327,
+    "wof:lastmodified":1463528148,
+    "wof:name":"Tom Denton Electrical Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.50362,
+    29.830583,
+    -91.50362,
+    29.830583
+],
+  "geometry": {"coordinates":[-91.50362,29.830583],"type":"Point"}
+}

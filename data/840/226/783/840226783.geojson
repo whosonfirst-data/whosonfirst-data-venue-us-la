@@ -1,0 +1,71 @@
+{
+  "id": 840226783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.162059,30.227709,-93.162059,30.227709",
+    "geom:latitude":30.227709,
+    "geom:longitude":-93.162059,
+    "iso:country":"US",
+    "sg:address":"3939 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 491 9481",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nJFb4lZyOHiUSsCTsy3da_30.227709_-93.162059@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524010,
+    "wof:geomhash":"ce59ba74937e009103ec0d2ec0cfb7c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840226783
+        }
+    ],
+    "wof:id":840226783,
+    "wof:lastmodified":1463524010,
+    "wof:name":"Brileys Wrecker & Towing",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.162059,
+    30.227709,
+    -93.162059,
+    30.227709
+],
+  "geometry": {"coordinates":[-93.162059,30.227709],"type":"Point"}
+}

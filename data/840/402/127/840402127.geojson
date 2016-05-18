@@ -1,0 +1,71 @@
+{
+  "id": 840402127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.174202,30.195804,-93.174202,30.195804",
+    "geom:latitude":30.195804,
+    "geom:longitude":-93.174202,
+    "iso:country":"US",
+    "sg:address":"2899 Derek Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 2367",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w4E6wLHO5OOu2RJmasjYn_30.195804_-93.174202@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531298,
+    "wof:geomhash":"5b212b59da9cdb96518507322bc85abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840402127
+        }
+    ],
+    "wof:id":840402127,
+    "wof:lastmodified":1463531298,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.174202,
+    30.195804,
+    -93.174202,
+    30.195804
+],
+  "geometry": {"coordinates":[-93.17420199999999,30.195804],"type":"Point"}
+}

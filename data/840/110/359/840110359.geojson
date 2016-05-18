@@ -1,0 +1,71 @@
+{
+  "id": 840110359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.128879,30.573212,-91.128879,30.573212",
+    "geom:latitude":30.573212,
+    "geom:longitude":-91.128879,
+    "iso:country":"US",
+    "sg:address":"14089 Plank Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 774 7016",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uUKbbPwnZJMEz9o8NoFtZ_30.573212_-91.128879@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521436,
+    "wof:geomhash":"bc902495729c9c15d199926310d764ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840110359
+        }
+    ],
+    "wof:id":840110359,
+    "wof:lastmodified":1463521436,
+    "wof:name":"Kean's The Cleaner",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.128879,
+    30.573212,
+    -91.128879,
+    30.573212
+],
+  "geometry": {"coordinates":[-91.128879,30.573212],"type":"Point"}
+}

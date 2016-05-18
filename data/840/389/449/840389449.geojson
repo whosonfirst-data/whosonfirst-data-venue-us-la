@@ -1,0 +1,73 @@
+{
+  "id": 840389449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.248965,30.17602,-93.248965,30.17602",
+    "geom:latitude":30.17602,
+    "geom:longitude":-93.248965,
+    "iso:country":"US",
+    "sg:address":"1525 W McNeese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 6000",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16oh3nEztrD3Mm0eoD1gex_30.176020_-93.248965@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530778,
+    "wof:geomhash":"48f86f3e2a0861a4a974bf91532b9ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840389449
+        }
+    ],
+    "wof:id":840389449,
+    "wof:lastmodified":1463530778,
+    "wof:name":"Grand Cove",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -93.248965,
+    30.17602,
+    -93.248965,
+    30.17602
+],
+  "geometry": {"coordinates":[-93.248965,30.17602],"type":"Point"}
+}

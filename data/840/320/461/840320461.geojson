@@ -1,0 +1,71 @@
+{
+  "id": 840320461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.303056,29.69858,-91.303056,29.69858",
+    "geom:latitude":29.69858,
+    "geom:longitude":-91.303056,
+    "iso:country":"US",
+    "sg:address":"1306 Main St",
+    "sg:city":"Patterson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 8312",
+    "sg:postcode":"70392",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qb948fSpCXDjlKql6y1ln_29.698580_-91.303056@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527479,
+    "wof:geomhash":"59b21c761ebcae6587797fd0b3b81bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840320461
+        }
+    ],
+    "wof:id":840320461,
+    "wof:lastmodified":1463527479,
+    "wof:name":"Patterson City Fire Meeting Rm",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.303056,
+    29.69858,
+    -91.303056,
+    29.69858
+],
+  "geometry": {"coordinates":[-91.303056,29.69858],"type":"Point"}
+}

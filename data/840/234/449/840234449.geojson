@@ -1,0 +1,71 @@
+{
+  "id": 840234449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.182535,30.259329,-93.182535,30.259329",
+    "geom:latitude":30.259329,
+    "geom:longitude":-93.182535,
+    "iso:country":"US",
+    "sg:address":"2509 Poe St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 3556",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cchv5KwYjTAMbvq5K7HH4_30.259329_-93.182535@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524235,
+    "wof:geomhash":"cd84bd4aed660b4eca94d91cd4c29877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840234449
+        }
+    ],
+    "wof:id":840234449,
+    "wof:lastmodified":1463524235,
+    "wof:name":"Nero's Barber Shop",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.182535,
+    30.259329,
+    -93.182535,
+    30.259329
+],
+  "geometry": {"coordinates":[-93.182535,30.259329],"type":"Point"}
+}

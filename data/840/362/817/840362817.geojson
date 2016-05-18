@@ -1,0 +1,75 @@
+{
+  "id": 840362817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.014862,30.173271,-92.014862,30.173271",
+    "geom:latitude":30.173271,
+    "geom:longitude":-92.014862,
+    "iso:country":"US",
+    "sg:address":"701 Verot School Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 269 1370",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85841585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rLNzU5FkvrWeX9xSdiKCm_30.173271_-92.014862@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529514,
+    "wof:geomhash":"61689b3774dcdc2400026e767fa17b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85841585,
+            "region_id":85688735,
+            "venue_id":840362817
+        }
+    ],
+    "wof:id":840362817,
+    "wof:lastmodified":1463529514,
+    "wof:name":"Tom's Automotive",
+    "wof:parent_id":85841585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.014862,
+    30.173271,
+    -92.014862,
+    30.173271
+],
+  "geometry": {"coordinates":[-92.01486199999999,30.173271],"type":"Point"}
+}

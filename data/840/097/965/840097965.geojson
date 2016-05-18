@@ -1,0 +1,71 @@
+{
+  "id": 840097965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.210061,30.449925,-91.210061,30.449925",
+    "geom:latitude":30.449925,
+    "geom:longitude":-91.210061,
+    "iso:country":"US",
+    "sg:address":"330 S Alexander Ave",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 346 4702",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jk3WZxMPgtotJ94UZmTcd_30.449925_-91.210061@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521172,
+    "wof:geomhash":"ad541eaba039cb2f713948b2598bef08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840097965
+        }
+    ],
+    "wof:id":840097965,
+    "wof:lastmodified":1463521172,
+    "wof:name":"Port Allen City Court",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.210061,
+    30.449925,
+    -91.210061,
+    30.449925
+],
+  "geometry": {"coordinates":[-91.210061,30.449925],"type":"Point"}
+}

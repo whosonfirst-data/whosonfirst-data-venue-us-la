@@ -1,0 +1,71 @@
+{
+  "id": 840233041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.171569,30.198327,-93.171569,30.198327",
+    "geom:latitude":30.198327,
+    "geom:longitude":-93.171569,
+    "iso:country":"US",
+    "sg:address":"3247 E Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 4679",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A4TnspAjjjjEEJsob0MWP_30.198327_-93.171569@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524192,
+    "wof:geomhash":"552a4da74752732c9aaa1dfd60d84820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840233041
+        }
+    ],
+    "wof:id":840233041,
+    "wof:lastmodified":1463524192,
+    "wof:name":"Hcs Infusion Network",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -93.171569,
+    30.198327,
+    -93.171569,
+    30.198327
+],
+  "geometry": {"coordinates":[-93.17156900000001,30.198327],"type":"Point"}
+}

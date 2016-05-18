@@ -1,0 +1,75 @@
+{
+  "id": 840409799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.928612,30.063121,-91.928612,30.063121",
+    "geom:latitude":30.063121,
+    "geom:longitude":-91.928612,
+    "iso:country":"US",
+    "sg:address":"7407 Touchet Ln",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3313",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TfxgE6rgwi2q9nE5B46f8_30.063121_-91.928612@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531615,
+    "wof:geomhash":"0cbb3e6b7581a88bc5e9f715798da196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840409799
+        }
+    ],
+    "wof:id":840409799,
+    "wof:lastmodified":1463531615,
+    "wof:name":"Teddys Trucking",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.928612,
+    30.063121,
+    -91.928612,
+    30.063121
+],
+  "geometry": {"coordinates":[-91.928612,30.063121],"type":"Point"}
+}

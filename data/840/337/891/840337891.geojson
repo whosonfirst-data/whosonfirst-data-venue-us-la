@@ -1,0 +1,75 @@
+{
+  "id": 840337891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.076921,29.955413,-90.076921,29.955413",
+    "geom:latitude":29.955413,
+    "geom:longitude":-90.076921,
+    "iso:country":"US",
+    "sg:address":"1430 Tulane Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 988 5001",
+    "sg:postcode":"70112",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C0U1nq5FVKBTbdjG3S8Ju_29.955413_-90.076921@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528307,
+    "wof:geomhash":"ba94ab217c4e71d9964b7d4e7cb8c6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840337891
+        }
+    ],
+    "wof:id":840337891,
+    "wof:lastmodified":1463528307,
+    "wof:name":"General Academic Pediatrics",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.076921,
+    29.955413,
+    -90.076921,
+    29.955413
+],
+  "geometry": {"coordinates":[-90.076921,29.955413],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840449947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.060402,30.0123,-90.060402,30.0123",
+    "geom:latitude":30.0123,
+    "geom:longitude":-90.060402,
+    "iso:country":"US",
+    "sg:address":"5242 Elysian Fields Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 288 4262",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.gambinos.com/shop/default.php",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rAhPxJbaRDvLlvwqeT5Hl_30.012366_-90.060450@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533299,
+    "wof:geomhash":"0e27da1ea6629f539631b379d27e7fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":840449947
+        }
+    ],
+    "wof:id":840449947,
+    "wof:lastmodified":1463533299,
+    "wof:name":"Gambino's Bakery",
+    "wof:parent_id":85866063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -90.060402,
+    30.0123,
+    -90.060402,
+    30.0123
+],
+  "geometry": {"coordinates":[-90.060402,30.0123],"type":"Point"}
+}

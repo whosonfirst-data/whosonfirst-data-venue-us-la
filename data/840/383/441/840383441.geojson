@@ -1,0 +1,75 @@
+{
+  "id": 840383441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.043128,29.961928,-90.043128,29.961928",
+    "geom:latitude":29.961928,
+    "geom:longitude":-90.043128,
+    "iso:country":"US",
+    "sg:address":"3200 Chartres St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 943 6869",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "satellite",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fFTRQfTtq7pr7eKlrlgAF_29.961928_-90.043128@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530510,
+    "wof:geomhash":"4603caa0921ef36b67d4d632b21d4ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866089,
+            "region_id":85688735,
+            "venue_id":840383441
+        }
+    ],
+    "wof:id":840383441,
+    "wof:lastmodified":1463530510,
+    "wof:name":"New Orleans Teleports",
+    "wof:parent_id":85866089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -90.043128,
+    29.961928,
+    -90.043128,
+    29.961928
+],
+  "geometry": {"coordinates":[-90.043128,29.961928],"type":"Point"}
+}

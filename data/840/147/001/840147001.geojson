@@ -1,0 +1,71 @@
+{
+  "id": 840147001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.028609,30.369603,-91.028609,30.369603",
+    "geom:latitude":30.369603,
+    "geom:longitude":-91.028609,
+    "iso:country":"US",
+    "sg:address":"13873 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 751 0911",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qiJ9tlsIyK78k2iQ1aqc1_30.369603_-91.028609@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522180,
+    "wof:geomhash":"cde6f95f2e2f95ec819b9685db63627d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840147001
+        }
+    ],
+    "wof:id":840147001,
+    "wof:lastmodified":1463522180,
+    "wof:name":"Airline Auto Svc",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.028609,
+    30.369603,
+    -91.028609,
+    30.369603
+],
+  "geometry": {"coordinates":[-91.028609,30.369603],"type":"Point"}
+}

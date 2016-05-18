@@ -1,0 +1,73 @@
+{
+  "id": 840042269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.072929,30.301386,-92.072929,30.301386",
+    "geom:latitude":30.301386,
+    "geom:longitude":-92.072929,
+    "iso:country":"US",
+    "sg:address":"206 Kelso Dr",
+    "sg:city":"Carencro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 886 3102",
+    "sg:postcode":"70520",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ev5PyyGkAT28HBxpjCYL_30.301386_-92.072929@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519896,
+    "wof:geomhash":"0325ecc0b6a445ee17497fce289d2793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840042269
+        }
+    ],
+    "wof:id":840042269,
+    "wof:lastmodified":1463519896,
+    "wof:name":"Nettos Trucking",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.072929,
+    30.301386,
+    -92.072929,
+    30.301386
+],
+  "geometry": {"coordinates":[-92.072929,30.301386],"type":"Point"}
+}

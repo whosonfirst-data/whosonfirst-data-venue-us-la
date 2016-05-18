@@ -1,0 +1,75 @@
+{
+  "id": 840456713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.127634,32.504209,-92.127634,32.504209",
+    "geom:latitude":32.504209,
+    "geom:longitude":-92.127634,
+    "iso:country":"US",
+    "sg:address":"201 Bridge St",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/brownsville-bawcomville/188474-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71291",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hC6tNFnFU5Ow2gW706aur_32.504209_-92.127634@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533563,
+    "wof:geomhash":"4cb440c1644b6fd01ca73f3fd2a44ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840456713
+        }
+    ],
+    "wof:id":840456713,
+    "wof:lastmodified":1463533563,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.127634,
+    32.504209,
+    -92.127634,
+    32.504209
+],
+  "geometry": {"coordinates":[-92.127634,32.504209],"type":"Point"}
+}

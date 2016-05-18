@@ -1,0 +1,73 @@
+{
+  "id": 840218835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258139,30.262117,-93.258139,30.262117",
+    "geom:latitude":30.262117,
+    "geom:longitude":-93.258139,
+    "iso:country":"US",
+    "sg:address":"2345 Sampson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 1484",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jHzoLHGU723zqcK14NZCf_30.262117_-93.258139@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523806,
+    "wof:geomhash":"4bcb96c82c6a90caef442c1dd9668143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840218835
+        }
+    ],
+    "wof:id":840218835,
+    "wof:lastmodified":1463523806,
+    "wof:name":"Westlake Medical Clinic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.258139,
+    30.262117,
+    -93.258139,
+    30.262117
+],
+  "geometry": {"coordinates":[-93.258139,30.262117],"type":"Point"}
+}

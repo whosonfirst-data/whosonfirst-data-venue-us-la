@@ -1,0 +1,75 @@
+{
+  "id": 840090533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.066312,29.957749,-90.066312,29.957749",
+    "geom:latitude":29.957749,
+    "geom:longitude":-90.066312,
+    "iso:country":"US",
+    "sg:address":"504 Bourbon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 565 5588",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GcfrXzk9W2IlIS6MP6p4i_29.957749_-90.066312@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521030,
+    "wof:geomhash":"7673181b1486053d431666ef49e95d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840090533
+        }
+    ],
+    "wof:id":840090533,
+    "wof:lastmodified":1463521030,
+    "wof:name":"Bourbon Street Visitor Ctr",
+    "wof:parent_id":85866105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -90.066312,
+    29.957749,
+    -90.066312,
+    29.957749
+],
+  "geometry": {"coordinates":[-90.066312,29.957749],"type":"Point"}
+}

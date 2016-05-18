@@ -1,0 +1,74 @@
+{
+  "id": 840453185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.087101,29.923703,-90.087101,29.923703",
+    "geom:latitude":29.923703,
+    "geom:longitude":-90.087101,
+    "iso:country":"US",
+    "sg:address":"3226 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/28791-semolinas-bistro-italia/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 895 4260",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V1DviOsRZZ0YQWZKAXxd0_29.923703_-90.087101@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533432,
+    "wof:geomhash":"036aa83a0bf5db8390c1377c8fac0182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821037,
+            "region_id":85688735,
+            "venue_id":840453185
+        }
+    ],
+    "wof:id":840453185,
+    "wof:lastmodified":1463533432,
+    "wof:name":"Semolina's Bistro Italia",
+    "wof:parent_id":85821037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -90.087101,
+    29.923703,
+    -90.087101,
+    29.923703
+],
+  "geometry": {"coordinates":[-90.087101,29.923703],"type":"Point"}
+}

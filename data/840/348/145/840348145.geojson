@@ -1,0 +1,73 @@
+{
+  "id": 840348145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.75573,30.299837,-89.75573,30.299837",
+    "geom:latitude":30.299837,
+    "geom:longitude":-89.75573,
+    "iso:country":"US",
+    "sg:address":"490 Robert Blvd",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 847 0591",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85803935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xjEfCpFvUz85alAmVNaNh_30.299837_-89.755730@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528815,
+    "wof:geomhash":"c216811165f3bede5e62463f5e4a6c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85803935,
+            "region_id":85688735,
+            "venue_id":840348145
+        }
+    ],
+    "wof:id":840348145,
+    "wof:lastmodified":1463528815,
+    "wof:name":"Veterinary Medical Ctr",
+    "wof:parent_id":85803935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.75573,
+    30.299837,
+    -89.75573,
+    30.299837
+],
+  "geometry": {"coordinates":[-89.75573,30.299837],"type":"Point"}
+}

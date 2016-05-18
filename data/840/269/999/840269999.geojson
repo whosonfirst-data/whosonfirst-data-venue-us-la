@@ -1,0 +1,73 @@
+{
+  "id": 840269999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.506802,30.726757,-90.506802,30.726757",
+    "geom:latitude":30.726757,
+    "geom:longitude":-90.506802,
+    "iso:country":"US",
+    "sg:address":"203 E Oak St",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 345 0050",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F5Q2EcCTSKPWc433x2v57_30.726757_-90.506802@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525183,
+    "wof:geomhash":"40c987ef7f4b26e76cc633614ecaf6e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840269999
+        }
+    ],
+    "wof:id":840269999,
+    "wof:lastmodified":1463525183,
+    "wof:name":"Eye Physicians & Surgeons Inc",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.506802,
+    30.726757,
+    -90.506802,
+    30.726757
+],
+  "geometry": {"coordinates":[-90.50680199999999,30.726757],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840158947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.376331,30.219769,-93.376331,30.219769",
+    "geom:latitude":30.219769,
+    "geom:longitude":-93.376331,
+    "iso:country":"US",
+    "sg:address":"2023 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 0109",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QtNFIRDMHJxbwmBl58PvG_30.219769_-93.376331@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522428,
+    "wof:geomhash":"6aa3058ae7fb04577643136239fcb570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840158947
+        }
+    ],
+    "wof:id":840158947,
+    "wof:lastmodified":1463522428,
+    "wof:name":"Truax Auto Plex",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.376331,
+    30.219769,
+    -93.376331,
+    30.219769
+],
+  "geometry": {"coordinates":[-93.37633099999999,30.219769],"type":"Point"}
+}

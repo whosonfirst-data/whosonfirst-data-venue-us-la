@@ -1,0 +1,73 @@
+{
+  "id": 840269329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.861995,29.991531,-91.861995,29.991531",
+    "geom:latitude":29.991531,
+    "geom:longitude":-91.861995,
+    "iso:country":"US",
+    "sg:address":"2800 Southwest Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 367 2378",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pl13EMVOMl1t8oKTyNn3w_29.991531_-91.861995@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525146,
+    "wof:geomhash":"5b0f1d8a8595bd5e5a9305b3944f162c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840269329
+        }
+    ],
+    "wof:id":840269329,
+    "wof:lastmodified":1463525146,
+    "wof:name":"Power Metering Svc Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.861995,
+    29.991531,
+    -91.861995,
+    29.991531
+],
+  "geometry": {"coordinates":[-91.86199499999999,29.991531],"type":"Point"}
+}

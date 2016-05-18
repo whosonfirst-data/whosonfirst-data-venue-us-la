@@ -1,0 +1,71 @@
+{
+  "id": 840105201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.456678,31.286808,-92.456678,31.286808",
+    "geom:latitude":31.286808,
+    "geom:longitude":-92.456678,
+    "iso:country":"US",
+    "sg:address":"1911 Bacon St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 8312",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hb4KhqmKcG7oNwsOXdphK_31.286808_-92.456678@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521338,
+    "wof:geomhash":"559b142a564f07354f042b567c052103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840105201
+        }
+    ],
+    "wof:id":840105201,
+    "wof:lastmodified":1463521338,
+    "wof:name":"Marilyn's Beauty Salon",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.456678,
+    31.286808,
+    -92.456678,
+    31.286808
+],
+  "geometry": {"coordinates":[-92.456678,31.286808],"type":"Point"}
+}

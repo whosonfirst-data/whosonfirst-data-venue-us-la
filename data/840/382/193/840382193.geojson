@@ -1,0 +1,75 @@
+{
+  "id": 840382193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.040166,29.981014,-90.040166,29.981014",
+    "geom:latitude":29.981014,
+    "geom:longitude":-90.040166,
+    "iso:country":"US",
+    "sg:address":"2301 Clouet St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 947 4208",
+    "sg:postcode":"70117",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QWJCpbIybBQDGRFLzSuhq_29.981014_-90.040166@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530458,
+    "wof:geomhash":"ee3dce5ae0e0f897a57648a25b71d083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866091,
+            "region_id":85688735,
+            "venue_id":840382193
+        }
+    ],
+    "wof:id":840382193,
+    "wof:lastmodified":1463530458,
+    "wof:name":"Beard Auto Repairs",
+    "wof:parent_id":85866091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.040166,
+    29.981014,
+    -90.040166,
+    29.981014
+],
+  "geometry": {"coordinates":[-90.040166,29.981014],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840352359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.456413,31.267253,-92.456413,31.267253",
+    "geom:latitude":31.267253,
+    "geom:longitude":-92.456413,
+    "iso:country":"US",
+    "sg:address":"2901 S Macarthur Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 448 3651",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p5ya2EutkAh8aQNpIVv3i_31.267253_-92.456413@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529032,
+    "wof:geomhash":"ab9cf10143a1e08c89bc3829655f25bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840352359
+        }
+    ],
+    "wof:id":840352359,
+    "wof:lastmodified":1463529032,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -92.456413,
+    31.267253,
+    -92.456413,
+    31.267253
+],
+  "geometry": {"coordinates":[-92.456413,31.267253],"type":"Point"}
+}

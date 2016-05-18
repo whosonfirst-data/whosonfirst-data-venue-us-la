@@ -1,0 +1,71 @@
+{
+  "id": 840268019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.447184,31.263948,-92.447184,31.263948",
+    "geom:latitude":31.263948,
+    "geom:longitude":-92.447184,
+    "iso:country":"US",
+    "sg:address":"4803 Lee St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 443 4475",
+    "sg:postcode":"71302",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29NJQ1iUgl1bdjOkyikuqj_31.263948_-92.447184@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525085,
+    "wof:geomhash":"3e4da1f0ec8424af5c639e4f6ca9a166",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840268019
+        }
+    ],
+    "wof:id":840268019,
+    "wof:lastmodified":1463525085,
+    "wof:name":"A A Transmission",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -92.447184,
+    31.263948,
+    -92.447184,
+    31.263948
+],
+  "geometry": {"coordinates":[-92.44718399999999,31.263948],"type":"Point"}
+}

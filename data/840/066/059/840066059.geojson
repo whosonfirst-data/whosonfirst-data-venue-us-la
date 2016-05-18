@@ -1,0 +1,73 @@
+{
+  "id": 840066059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.266072,30.194801,-93.266072,30.194801",
+    "geom:latitude":30.194801,
+    "geom:longitude":-93.266072,
+    "iso:country":"US",
+    "sg:address":"2626 W Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 3151",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XSqY8aXXgGr5a5IpV9z4s_30.194801_-93.266072@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520394,
+    "wof:geomhash":"cf954c27ab088928b9ef36f26757ead5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840066059
+        }
+    ],
+    "wof:id":840066059,
+    "wof:lastmodified":1463520394,
+    "wof:name":"IMR",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -93.266072,
+    30.194801,
+    -93.266072,
+    30.194801
+],
+  "geometry": {"coordinates":[-93.26607199999999,30.194801],"type":"Point"}
+}

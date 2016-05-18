@@ -1,0 +1,78 @@
+{
+  "id": 840223963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.088221,30.252923,-92.088221,30.252923",
+    "geom:latitude":30.252923,
+    "geom:longitude":-92.088221,
+    "iso:country":"US",
+    "sg:address":"121 Rye Cir",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 298 4525",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZrG57zdCB0mtqJY1neRPZ_30.252923_-92.088221@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523926,
+    "wof:geomhash":"a87f3d22339591970d25283b1e251879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840223963
+        }
+    ],
+    "wof:id":840223963,
+    "wof:lastmodified":1463523926,
+    "wof:name":"Professional Machine Svcs Co",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "field"
+    ]
+},
+  "bbox": [
+    -92.088221,
+    30.252923,
+    -92.088221,
+    30.252923
+],
+  "geometry": {"coordinates":[-92.088221,30.252923],"type":"Point"}
+}

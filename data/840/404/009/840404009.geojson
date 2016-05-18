@@ -1,0 +1,73 @@
+{
+  "id": 840404009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.04188,29.930979,-90.04188,29.930979",
+    "geom:latitude":29.930979,
+    "geom:longitude":-90.04188,
+    "iso:country":"US",
+    "sg:address":"2035 Whitney Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 362 3620",
+    "sg:postcode":"70114",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sV3agsYx0ssAFWennbad4_29.930979_-90.041880@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531385,
+    "wof:geomhash":"83d08a2a4d707e9f06748039a48633b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":840404009
+        }
+    ],
+    "wof:id":840404009,
+    "wof:lastmodified":1463531385,
+    "wof:name":"Fischer Residence Council",
+    "wof:parent_id":85866151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.04188,
+    29.930979,
+    -90.04188,
+    29.930979
+],
+  "geometry": {"coordinates":[-90.04188000000001,29.930979],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840410863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.058217,29.909916,-90.058217,29.909916",
+    "geom:latitude":29.909916,
+    "geom:longitude":-90.058217,
+    "iso:country":"US",
+    "sg:address":"1111 Newton St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 361 8989",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HTp3XygyPLcViRTpXvppq_29.909916_-90.058217@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531652,
+    "wof:geomhash":"d3dd2d5f96503edbd2aa55141a2d2148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840410863
+        }
+    ],
+    "wof:id":840410863,
+    "wof:lastmodified":1463531652,
+    "wof:name":"Kroll Laboratories Spec Inc",
+    "wof:parent_id":85885345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -90.058217,
+    29.909916,
+    -90.058217,
+    29.909916
+],
+  "geometry": {"coordinates":[-90.058217,29.909916],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 840452829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.041909,29.922184,-90.041909,29.922184",
+    "geom:latitude":29.922184,
+    "geom:longitude":-90.041909,
+    "iso:country":"US",
+    "sg:address":"197 Westbank Expy",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/golden-meadow/136648-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 362 7000",
+    "sg:postcode":"70053",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xsylyBRZ8gFa5VLJP2yzF_29.922184_-90.041909@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533417,
+    "wof:geomhash":"3755899b8add8492d844ffe63719450b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":840452829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840452829
+        }
+    ],
+    "wof:id":840452829,
+    "wof:lastmodified":1463533417,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.041909,
+    29.922184,
+    -90.041909,
+    29.922184
+],
+  "geometry": {"coordinates":[-90.041909,29.922184],"type":"Point"}
+}

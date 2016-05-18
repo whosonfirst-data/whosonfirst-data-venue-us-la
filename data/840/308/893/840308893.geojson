@@ -1,0 +1,75 @@
+{
+  "id": 840308893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.350179,30.329003,-93.350179,30.329003",
+    "geom:latitude":30.329003,
+    "geom:longitude":-93.350179,
+    "iso:country":"US",
+    "sg:address":"3767 Ruth St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 6076",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sn19QinshY2TpaKszyNPo_30.329003_-93.350179@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526940,
+    "wof:geomhash":"7dad7d7aad30340c0fdc6c3dd761679d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840308893
+        }
+    ],
+    "wof:id":840308893,
+    "wof:lastmodified":1463526940,
+    "wof:name":"Tom Shoemake Trucking Doz",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.350179,
+    30.329003,
+    -93.350179,
+    30.329003
+],
+  "geometry": {"coordinates":[-93.350179,30.329003],"type":"Point"}
+}

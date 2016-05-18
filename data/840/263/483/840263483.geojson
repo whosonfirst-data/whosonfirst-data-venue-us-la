@@ -1,0 +1,71 @@
+{
+  "id": 840263483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.47974,31.281646,-92.47974,31.281646",
+    "geom:latitude":31.281646,
+    "geom:longitude":-92.47974,
+    "iso:country":"US",
+    "sg:address":"4023 Parliament Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 448 0505",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_014dn203MfwFzijpA5tyU0_31.281646_-92.479740@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524886,
+    "wof:geomhash":"2ee530d5e4a505f3eca202bd48730a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840263483
+        }
+    ],
+    "wof:id":840263483,
+    "wof:lastmodified":1463524886,
+    "wof:name":"Bryant's Cleaners",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.47974,
+    31.281646,
+    -92.47974,
+    31.281646
+],
+  "geometry": {"coordinates":[-92.47974000000001,31.281646],"type":"Point"}
+}

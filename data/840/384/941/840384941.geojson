@@ -1,0 +1,75 @@
+{
+  "id": 840384941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.10426,29.938056,-90.10426,29.938056",
+    "geom:latitude":29.938056,
+    "geom:longitude":-90.10426,
+    "iso:country":"US",
+    "sg:address":"4429 Clara St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 897 4207",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ny5HGKpkelo3oU3MOAZmS_29.938056_-90.104260@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530592,
+    "wof:geomhash":"ff981f7a08652a68ebe8a49ac646496a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866127,
+            "region_id":85688735,
+            "venue_id":840384941
+        }
+    ],
+    "wof:id":840384941,
+    "wof:lastmodified":1463530592,
+    "wof:name":"Tenet Healthcare Corp",
+    "wof:parent_id":85866127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.10426,
+    29.938056,
+    -90.10426,
+    29.938056
+],
+  "geometry": {"coordinates":[-90.10426,29.938056],"type":"Point"}
+}

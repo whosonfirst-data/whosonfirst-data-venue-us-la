@@ -1,0 +1,71 @@
+{
+  "id": 840406541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.087643,32.48471,-92.087643,32.48471",
+    "geom:latitude":32.48471,
+    "geom:longitude":-92.087643,
+    "iso:country":"US",
+    "sg:address":"1427 Winnsboro Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 387 9899",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p93Sq4cc7BNv0nJqAJJEY_32.484710_-92.087643@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531480,
+    "wof:geomhash":"5ec77b6fadf21dbd10550fd30f23db73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840406541
+        }
+    ],
+    "wof:id":840406541,
+    "wof:lastmodified":1463531480,
+    "wof:name":"Mac's Fresh Market",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -92.087643,
+    32.48471,
+    -92.087643,
+    32.48471
+],
+  "geometry": {"coordinates":[-92.087643,32.48471],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840184451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.333783,30.227488,-93.333783,30.227488",
+    "geom:latitude":30.227488,
+    "geom:longitude":-93.333783,
+    "iso:country":"US",
+    "sg:address":"3709 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 4662",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v3ZqEfcsVdjKL7ebOfh9x_30.227488_-93.333783@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523005,
+    "wof:geomhash":"87bfb8e95bb054d5a5c086025d422e7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840184451
+        }
+    ],
+    "wof:id":840184451,
+    "wof:lastmodified":1463523005,
+    "wof:name":"Lake Area Driving School",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -93.333783,
+    30.227488,
+    -93.333783,
+    30.227488
+],
+  "geometry": {"coordinates":[-93.333783,30.227488],"type":"Point"}
+}

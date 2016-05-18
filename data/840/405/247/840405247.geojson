@@ -1,0 +1,73 @@
+{
+  "id": 840405247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.077307,32.487545,-92.077307,32.487545",
+    "geom:latitude":32.487545,
+    "geom:longitude":-92.077307,
+    "iso:country":"US",
+    "sg:address":"2305 Ruffin Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 388 2550",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33vf5e4hGO70HYKCU63e1s_32.487545_-92.077307@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531433,
+    "wof:geomhash":"4edcd377f52a5613cade62284af7efc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840405247
+        }
+    ],
+    "wof:id":840405247,
+    "wof:lastmodified":1463531433,
+    "wof:name":"M & M Mechanical Contractors",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.077307,
+    32.487545,
+    -92.077307,
+    32.487545
+],
+  "geometry": {"coordinates":[-92.077307,32.487545],"type":"Point"}
+}

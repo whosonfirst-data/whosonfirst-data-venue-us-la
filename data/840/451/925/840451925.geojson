@@ -1,0 +1,87 @@
+{
+  "id": 840451925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.061096,29.9587,-90.061096,29.9587",
+    "geom:latitude":29.9587,
+    "geom:longitude":-90.061096,
+    "iso:country":"US",
+    "sg:address":"917 Decatur St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 524 6872",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85853777,
+        85866105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NARjqTT9fZVjABeVL5yfl_29.959142_-90.060659@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533381,
+    "wof:geomhash":"4301d9a9289ca786521f668eb40be858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840451925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840451925
+        }
+    ],
+    "wof:id":840451925,
+    "wof:lastmodified":1463533381,
+    "wof:name":"Sidney's Wine Cellar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -90.061096,
+    29.9587,
+    -90.061096,
+    29.9587
+],
+  "geometry": {"coordinates":[-90.06109600000001,29.9587],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840331833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.049712,30.245494,-92.049712,30.245494",
+    "geom:latitude":30.245494,
+    "geom:longitude":-92.049712,
+    "iso:country":"US",
+    "sg:address":"425 Hebert Rd",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 237 8170",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u0H6mkaHRPej67A1kQ87D_30.245494_-92.049712@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528026,
+    "wof:geomhash":"76779a4f6c6a1fecf2860fa379259b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840331833
+        }
+    ],
+    "wof:id":840331833,
+    "wof:lastmodified":1463528026,
+    "wof:name":"Bruce's Alignment Svc",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.049712,
+    30.245494,
+    -92.049712,
+    30.245494
+],
+  "geometry": {"coordinates":[-92.049712,30.245494],"type":"Point"}
+}

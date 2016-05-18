@@ -1,0 +1,71 @@
+{
+  "id": 840108595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.680972,31.690552,-93.680972,31.690552",
+    "geom:latitude":31.690552,
+    "geom:longitude":-93.680972,
+    "iso:country":"US",
+    "sg:address":"462 Morning Glory Ln",
+    "sg:city":"Noble",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 645 6900",
+    "sg:postcode":"71462",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hLCJ8aP8prPNP3I4eZ6YJ_31.690552_-93.680972@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521402,
+    "wof:geomhash":"244b5a77a3343e8452d15c8850f84e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840108595
+        }
+    ],
+    "wof:id":840108595,
+    "wof:lastmodified":1463521402,
+    "wof:name":"Noble Police Dept",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.680972,
+    31.690552,
+    -93.680972,
+    31.690552
+],
+  "geometry": {"coordinates":[-93.680972,31.690552],"type":"Point"}
+}

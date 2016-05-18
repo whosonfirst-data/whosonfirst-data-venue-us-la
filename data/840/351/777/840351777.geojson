@@ -1,0 +1,73 @@
+{
+  "id": 840351777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.111842,30.020168,-90.111842,30.020168",
+    "geom:latitude":30.020168,
+    "geom:longitude":-90.111842,
+    "iso:country":"US",
+    "sg:address":"141 Robert E Lee Blvd",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 301 4545",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_623oHXw9qDxmPzQk6zLCK3_30.020168_-90.111842@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528994,
+    "wof:geomhash":"6a6c8c1ea451590b69c7ab7447419821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829329,
+            "region_id":85688735,
+            "venue_id":840351777
+        }
+    ],
+    "wof:id":840351777,
+    "wof:lastmodified":1463528994,
+    "wof:name":"Seatow New Orleans",
+    "wof:parent_id":85829329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -90.111842,
+    30.020168,
+    -90.111842,
+    30.020168
+],
+  "geometry": {"coordinates":[-90.111842,30.020168],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840443803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.43921,30.43778,-90.43921,30.43778",
+    "geom:latitude":30.43778,
+    "geom:longitude":-90.43921,
+    "iso:country":"US",
+    "sg:address":"105 E Oak St",
+    "sg:city":"Ponchatoula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 386 6198",
+    "sg:postcode":"70454",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71ukPO7UkBqEBEe7NdIvL4_30.437780_-90.439210@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533043,
+    "wof:geomhash":"e11acedd6254d84f105bb3ac4866d901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840443803
+        }
+    ],
+    "wof:id":840443803,
+    "wof:lastmodified":1463533043,
+    "wof:name":"Allen's Family Practice Clinic",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.43921,
+    30.43778,
+    -90.43921,
+    30.43778
+],
+  "geometry": {"coordinates":[-90.43921,30.43778],"type":"Point"}
+}

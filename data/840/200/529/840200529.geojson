@@ -1,0 +1,73 @@
+{
+  "id": 840200529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.517179,30.936839,-90.517179,30.936839",
+    "geom:latitude":30.936839,
+    "geom:longitude":-90.517179,
+    "iso:country":"US",
+    "sg:address":"721 Ave G",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 5501",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KKzipPibNP3HpX0Kw8lMl_30.936839_-90.517179@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523346,
+    "wof:geomhash":"cbfcf618bf96aae33d5744810b38398a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840200529
+        }
+    ],
+    "wof:id":840200529,
+    "wof:lastmodified":1463523346,
+    "wof:name":"Kentwood Medical Clinic",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.517179,
+    30.936839,
+    -90.517179,
+    30.936839
+],
+  "geometry": {"coordinates":[-90.517179,30.936839],"type":"Point"}
+}

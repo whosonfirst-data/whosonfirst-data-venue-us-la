@@ -1,0 +1,73 @@
+{
+  "id": 840350059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.95695,30.146534,-91.95695,30.146534",
+    "geom:latitude":30.146534,
+    "geom:longitude":-91.95695,
+    "iso:country":"US",
+    "sg:address":"611 E 2nd St",
+    "sg:city":"Broussard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 837 6800",
+    "sg:postcode":"70518",
+    "sg:province":"LA",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948381,
+        102081919,
+        85806101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XwH9LC6tfTlTlMfqU1ntn_30.146534_-91.956950@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528901,
+    "wof:geomhash":"a077b463c097f228f1550f39739c6cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948381,
+            "neighbourhood_id":85806101,
+            "region_id":85688735,
+            "venue_id":840350059
+        }
+    ],
+    "wof:id":840350059,
+    "wof:lastmodified":1463528901,
+    "wof:name":"A Plus Transmissions",
+    "wof:parent_id":85806101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -91.95695,
+    30.146534,
+    -91.95695,
+    30.146534
+],
+  "geometry": {"coordinates":[-91.95695000000001,30.146534],"type":"Point"}
+}

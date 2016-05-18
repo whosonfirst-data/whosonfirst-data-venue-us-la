@@ -1,0 +1,71 @@
+{
+  "id": 840314033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.211291,30.239705,-93.211291,30.239705",
+    "geom:latitude":30.239705,
+    "geom:longitude":-93.211291,
+    "iso:country":"US",
+    "sg:address":"123 N Ford St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 3511",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dxeF2PY3Bm5wRpZZSsLAS_30.239705_-93.211291@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527173,
+    "wof:geomhash":"11ac6cca2f40cf356f8db4af3a934b72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840314033
+        }
+    ],
+    "wof:id":840314033,
+    "wof:lastmodified":1463527173,
+    "wof:name":"Mt Tabor Baptist Church",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.211291,
+    30.239705,
+    -93.211291,
+    30.239705
+],
+  "geometry": {"coordinates":[-93.211291,30.239705],"type":"Point"}
+}

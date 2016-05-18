@@ -1,0 +1,74 @@
+{
+  "id": 840454707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218542,30.187353,-93.218542,30.187353",
+    "geom:latitude":30.187353,
+    "geom:longitude":-93.218542,
+    "iso:country":"US",
+    "sg:address":"3909 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/72981-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 2043",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O1feZtSLAhaCeTz5agFOs_30.187353_-93.218542@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533493,
+    "wof:geomhash":"bc750a9d093e508b18550663441d2752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840454707
+        }
+    ],
+    "wof:id":840454707,
+    "wof:lastmodified":1463533493,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.218542,
+    30.187353,
+    -93.218542,
+    30.187353
+],
+  "geometry": {"coordinates":[-93.218542,30.187353],"type":"Point"}
+}

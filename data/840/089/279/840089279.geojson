@@ -1,0 +1,75 @@
+{
+  "id": 840089279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.266076,31.132494,-93.266076,31.132494",
+    "geom:latitude":31.132494,
+    "geom:longitude":-93.266076,
+    "iso:country":"US",
+    "sg:address":"1307 S 5th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 1813",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22DwPxUCqJbEN3v5pQH6B6_31.132494_-93.266076@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521008,
+    "wof:geomhash":"ba3b0326df9a7884cef383357c5d7ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840089279
+        }
+    ],
+    "wof:id":840089279,
+    "wof:lastmodified":1463521008,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -93.266076,
+    31.132494,
+    -93.266076,
+    31.132494
+],
+  "geometry": {"coordinates":[-93.266076,31.132494],"type":"Point"}
+}

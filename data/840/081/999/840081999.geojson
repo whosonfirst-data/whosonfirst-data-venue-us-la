@@ -1,0 +1,75 @@
+{
+  "id": 840081999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.0814,30.148896,-92.0814,30.148896",
+    "geom:latitude":30.148896,
+    "geom:longitude":-92.0814,
+    "iso:country":"US",
+    "sg:address":"402 Wiggins Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 989 8299",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LSyBUFlAnc79FJgzOqnE1_30.148896_-92.081400@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520735,
+    "wof:geomhash":"9a3e490eb73c5df3f89fe6c112c29252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840081999
+        }
+    ],
+    "wof:id":840081999,
+    "wof:lastmodified":1463520735,
+    "wof:name":"Wiggins Trucking",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.0814,
+    30.148896,
+    -92.0814,
+    30.148896
+],
+  "geometry": {"coordinates":[-92.0814,30.148896],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840446511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.254033,30.241064,-93.254033,30.241064",
+    "geom:latitude":30.241064,
+    "geom:longitude":-93.254033,
+    "iso:country":"US",
+    "sg:address":"617 Gray St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 0634",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e9fen4np2nfu8kc5wjn5b_30.241064_-93.254033@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533146,
+    "wof:geomhash":"0d1f2448d5c8944804a443b91fa505ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840446511
+        }
+    ],
+    "wof:id":840446511,
+    "wof:lastmodified":1463533146,
+    "wof:name":"Lake Charles Electric Co",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.254033,
+    30.241064,
+    -93.254033,
+    30.241064
+],
+  "geometry": {"coordinates":[-93.25403300000001,30.241064],"type":"Point"}
+}

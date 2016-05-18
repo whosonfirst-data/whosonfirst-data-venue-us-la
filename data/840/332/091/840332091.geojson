@@ -1,0 +1,73 @@
+{
+  "id": 840332091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.079472,29.931067,-90.079472,29.931067",
+    "geom:latitude":29.931067,
+    "geom:longitude":-90.079472,
+    "iso:country":"US",
+    "sg:address":"1333 Philip St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 522 6033",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85821037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mgzi4BVmGNlh4daWxDLJR_29.931067_-90.079472@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528039,
+    "wof:geomhash":"c629d8d50bdbe1e2cebbb9079974d8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85821037,
+            "region_id":85688735,
+            "venue_id":840332091
+        }
+    ],
+    "wof:id":840332091,
+    "wof:lastmodified":1463528039,
+    "wof:name":"M & N Dry Cleaning & Laundry",
+    "wof:parent_id":85821037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.079472,
+    29.931067,
+    -90.079472,
+    29.931067
+],
+  "geometry": {"coordinates":[-90.079472,29.931067],"type":"Point"}
+}

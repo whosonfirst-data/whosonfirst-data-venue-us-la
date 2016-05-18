@@ -1,0 +1,73 @@
+{
+  "id": 840353213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325447,30.231209,-93.325447,30.231209",
+    "geom:latitude":30.231209,
+    "geom:longitude":-93.325447,
+    "iso:country":"US",
+    "sg:address":"202 N Cities Service Hwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 1806",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dD9eeQZxsrXKxFC5Od5ft_30.231209_-93.325447@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529072,
+    "wof:geomhash":"17e019c666d655d8ab844e014d015e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840353213
+        }
+    ],
+    "wof:id":840353213,
+    "wof:lastmodified":1463529072,
+    "wof:name":"Sulphur Dry Cleaners Annex",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -93.325447,
+    30.231209,
+    -93.325447,
+    30.231209
+],
+  "geometry": {"coordinates":[-93.325447,30.231209],"type":"Point"}
+}

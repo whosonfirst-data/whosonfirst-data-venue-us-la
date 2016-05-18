@@ -1,0 +1,73 @@
+{
+  "id": 840188485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.208084,30.322095,-93.208084,30.322095",
+    "geom:latitude":30.322095,
+    "geom:longitude":-93.208084,
+    "iso:country":"US",
+    "sg:address":"441 Longwood Dr",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 855 1112",
+    "sg:postcode":"70611",
+    "sg:province":"LA",
+    "sg:tags":[
+        "disposal",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hXV9uRyMN2ZO4q4U9WrKh_30.322095_-93.208084@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523082,
+    "wof:geomhash":"1fb6c35eefde20e0469c2c083e5a6a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840188485
+        }
+    ],
+    "wof:id":840188485,
+    "wof:lastmodified":1463523082,
+    "wof:name":"A-1 Mechanical Sewage Trtmnt",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "system"
+    ]
+},
+  "bbox": [
+    -93.208084,
+    30.322095,
+    -93.208084,
+    30.322095
+],
+  "geometry": {"coordinates":[-93.208084,30.322095],"type":"Point"}
+}

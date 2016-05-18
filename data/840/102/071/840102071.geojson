@@ -1,0 +1,77 @@
+{
+  "id": 840102071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.048179,29.949762,-90.048179,29.949762",
+    "geom:latitude":29.949762,
+    "geom:longitude":-90.048179,
+    "iso:country":"US",
+    "sg:address":"505 Belleville St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 362 9707",
+    "sg:postcode":"70114",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bHIkqCMGx1hWBXtsspU5m_29.949762_-90.048179@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521263,
+    "wof:geomhash":"f9cfe284d065890ab0ab988cb5754c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866153,
+            "region_id":85688735,
+            "venue_id":840102071
+        }
+    ],
+    "wof:id":840102071,
+    "wof:lastmodified":1463521263,
+    "wof:name":"Lafrance Trucking Inc",
+    "wof:parent_id":85866153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.048179,
+    29.949762,
+    -90.048179,
+    29.949762
+],
+  "geometry": {"coordinates":[-90.048179,29.949762],"type":"Point"}
+}

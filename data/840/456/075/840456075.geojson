@@ -1,0 +1,74 @@
+{
+  "id": 840456075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.719965,32.44559,-93.719965,32.44559",
+    "geom:latitude":32.44559,
+    "geom:longitude":-93.719965,
+    "iso:country":"US",
+    "sg:address":"6608 Youree Dr",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/cedar-grove/176159-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 795 9600",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C7MZFOtgUbVeJ8UfkJA2E_32.445590_-93.719965@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533541,
+    "wof:geomhash":"66c7abd21c6c5c43d30009d52ba2fe7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840456075
+        }
+    ],
+    "wof:id":840456075,
+    "wof:lastmodified":1463533541,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -93.719965,
+    32.44559,
+    -93.719965,
+    32.44559
+],
+  "geometry": {"coordinates":[-93.719965,32.44559],"type":"Point"}
+}

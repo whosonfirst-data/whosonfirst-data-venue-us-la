@@ -1,0 +1,77 @@
+{
+  "id": 840365715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.006119,30.24609,-92.006119,30.24609",
+    "geom:latitude":30.24609,
+    "geom:longitude":-92.006119,
+    "iso:country":"US",
+    "sg:address":"1510 Moss St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 2241",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DnHVL4dxNx76PqL5iUbUL_30.246090_-92.006119@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529669,
+    "wof:geomhash":"9a394c8cfeba49012ee0b56ddf140f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840365715
+        }
+    ],
+    "wof:id":840365715,
+    "wof:lastmodified":1463529669,
+    "wof:name":"Northside Engine Svc & Parts",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.006119,
+    30.24609,
+    -92.006119,
+    30.24609
+],
+  "geometry": {"coordinates":[-92.006119,30.24609],"type":"Point"}
+}

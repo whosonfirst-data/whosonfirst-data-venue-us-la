@@ -1,0 +1,73 @@
+{
+  "id": 840362155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498258,29.804308,-91.498258,29.804308",
+    "geom:latitude":29.804308,
+    "geom:longitude":-91.498258,
+    "iso:country":"US",
+    "sg:address":"1501 Hospital Ave",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 2929",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ggmwBeZk4MWAhD3yKoufJ_29.804308_-91.498258@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529485,
+    "wof:geomhash":"1fcc5b9523f0dd88ac5cc87aff943076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840362155
+        }
+    ],
+    "wof:id":840362155,
+    "wof:lastmodified":1463529485,
+    "wof:name":"Franklin Home Care",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -91.498258,
+    29.804308,
+    -91.498258,
+    29.804308
+],
+  "geometry": {"coordinates":[-91.49825800000001,29.804308],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840132663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.844873,29.969375,-91.844873,29.969375",
+    "geom:latitude":29.969375,
+    "geom:longitude":-91.844873,
+    "iso:country":"US",
+    "sg:address":"3318 Curtis Ln",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3333",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07axlDARAOQqTuPhV6yCbF_29.969375_-91.844873@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521903,
+    "wof:geomhash":"d8ad09be491878a708dc3c20923719be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840132663
+        }
+    ],
+    "wof:id":840132663,
+    "wof:lastmodified":1463521903,
+    "wof:name":"Moulin Rouge",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.844873,
+    29.969375,
+    -91.844873,
+    29.969375
+],
+  "geometry": {"coordinates":[-91.84487300000001,29.969375],"type":"Point"}
+}

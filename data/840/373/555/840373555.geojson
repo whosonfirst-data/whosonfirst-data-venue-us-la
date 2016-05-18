@@ -1,0 +1,71 @@
+{
+  "id": 840373555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.015908,30.465236,-91.015908,30.465236",
+    "geom:latitude":30.465236,
+    "geom:longitude":-91.015908,
+    "iso:country":"US",
+    "sg:address":"15150 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 272 3396",
+    "sg:postcode":"70819",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85844741,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HBWyZhx2TB8JXfXYq1uui_30.465236_-91.015908@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530051,
+    "wof:geomhash":"8b0700a0e5a9504f4af9ef0f74593605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85844741,
+            "region_id":85688735,
+            "venue_id":840373555
+        }
+    ],
+    "wof:id":840373555,
+    "wof:lastmodified":1463530051,
+    "wof:name":"Dukes Automotive",
+    "wof:parent_id":85844741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.015908,
+    30.465236,
+    -91.015908,
+    30.465236
+],
+  "geometry": {"coordinates":[-91.015908,30.465236],"type":"Point"}
+}

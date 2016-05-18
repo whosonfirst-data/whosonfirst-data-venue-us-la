@@ -1,0 +1,71 @@
+{
+  "id": 840321893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.232391,30.167315,-93.232391,30.167315",
+    "geom:latitude":30.167315,
+    "geom:longitude":-93.232391,
+    "iso:country":"US",
+    "sg:address":"4950 Lake St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 9806",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TnOUoSbQxxc9BrP6U50UX_30.167315_-93.232391@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527543,
+    "wof:geomhash":"0383d001cad20e09cacf5019fd921763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840321893
+        }
+    ],
+    "wof:id":840321893,
+    "wof:lastmodified":1463527543,
+    "wof:name":"Market Basket Food Stores",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.232391,
+    30.167315,
+    -93.232391,
+    30.167315
+],
+  "geometry": {"coordinates":[-93.23239100000001,30.167315],"type":"Point"}
+}

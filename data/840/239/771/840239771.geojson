@@ -1,0 +1,71 @@
+{
+  "id": 840239771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.737992,30.052571,-91.737992,30.052571",
+    "geom:latitude":30.052571,
+    "geom:longitude":-91.737992,
+    "iso:country":"US",
+    "sg:address":"411 S Main St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 8288",
+    "sg:postcode":"70552",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40hhmTP1diQ3K4iW8pCZzo_30.052571_-91.737992@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524360,
+    "wof:geomhash":"934cb744b384470bfd64cb22062924c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840239771
+        }
+    ],
+    "wof:id":840239771,
+    "wof:lastmodified":1463524360,
+    "wof:name":"Rural Health Clinic",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.737992,
+    30.052571,
+    -91.737992,
+    30.052571
+],
+  "geometry": {"coordinates":[-91.73799200000001,30.052571],"type":"Point"}
+}

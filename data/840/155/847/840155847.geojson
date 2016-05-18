@@ -1,0 +1,73 @@
+{
+  "id": 840155847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498891,29.805994,-91.498891,29.805994",
+    "geom:latitude":29.805994,
+    "geom:longitude":-91.498891,
+    "iso:country":"US",
+    "sg:address":"606 Haifleigh St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4440",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GLcGfLGGKGfMvntmiQeIr_29.805994_-91.498891@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522364,
+    "wof:geomhash":"d11ab69887d8d6d131c21031be5d874a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840155847
+        }
+    ],
+    "wof:id":840155847,
+    "wof:lastmodified":1463522364,
+    "wof:name":"Franklin Foundation Family Ctr",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.498891,
+    29.805994,
+    -91.498891,
+    29.805994
+],
+  "geometry": {"coordinates":[-91.498891,29.805994],"type":"Point"}
+}

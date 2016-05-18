@@ -1,0 +1,71 @@
+{
+  "id": 840264683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.057545,30.402702,-91.057545,30.402702",
+    "geom:latitude":30.402702,
+    "geom:longitude":-91.057545,
+    "iso:country":"US",
+    "sg:address":"10948 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 791 4772",
+    "sg:postcode":"70816",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85814143,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iVaROO2KGmhrda0QIoVb2_30.402702_-91.057545@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524911,
+    "wof:geomhash":"91efc34627b916f5ec91c1121653e7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85814143,
+            "region_id":85688735,
+            "venue_id":840264683
+        }
+    ],
+    "wof:id":840264683,
+    "wof:lastmodified":1463524911,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85814143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.057545,
+    30.402702,
+    -91.057545,
+    30.402702
+],
+  "geometry": {"coordinates":[-91.057545,30.402702],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840142825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.835164,29.99344,-91.835164,29.99344",
+    "geom:latitude":29.99344,
+    "geom:longitude":-91.835164,
+    "iso:country":"US",
+    "sg:address":"1425 Iberia St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 560 1211",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uKcqOxNoz3PMUm1sBCYa3_29.993440_-91.835164@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522103,
+    "wof:geomhash":"b3ff7576ac5e28e8214b326b87b7f92b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840142825
+        }
+    ],
+    "wof:id":840142825,
+    "wof:lastmodified":1463522103,
+    "wof:name":"Armentor Glass Works",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.835164,
+    29.99344,
+    -91.835164,
+    29.99344
+],
+  "geometry": {"coordinates":[-91.83516400000001,29.99344],"type":"Point"}
+}

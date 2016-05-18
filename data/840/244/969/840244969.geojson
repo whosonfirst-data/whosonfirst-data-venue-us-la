@@ -1,0 +1,85 @@
+{
+  "id": 840244969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.053878,30.459491,-91.053878,30.459491",
+    "geom:latitude":30.459491,
+    "geom:longitude":-91.053878,
+    "iso:country":"US",
+    "sg:address":"11546 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 275 0474",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85838033,
+        85819973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pGQ1WszBoEU1gxM9o5Ddf_30.459491_-91.053878@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524479,
+    "wof:geomhash":"99d348e00682615a3e74ca36bf60add6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85838033,
+            "region_id":85688735,
+            "venue_id":840244969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85819973,
+            "region_id":85688735,
+            "venue_id":840244969
+        }
+    ],
+    "wof:id":840244969,
+    "wof:lastmodified":1463524479,
+    "wof:name":"Capitol House Nursing & Rehab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -91.053878,
+    30.459491,
+    -91.053878,
+    30.459491
+],
+  "geometry": {"coordinates":[-91.053878,30.459491],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840294663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.960003,29.949829,-89.960003,29.949829",
+    "geom:latitude":29.949829,
+    "geom:longitude":-89.960003,
+    "iso:country":"US",
+    "sg:address":"3309 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 3104",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Or28bDpTQG7hqGBQ3Ab0_29.949829_-89.960003@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526262,
+    "wof:geomhash":"07eac7aadd3f147364dc74c8a6b04e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840294663
+        }
+    ],
+    "wof:id":840294663,
+    "wof:lastmodified":1463526262,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.960003,
+    29.949829,
+    -89.960003,
+    29.949829
+],
+  "geometry": {"coordinates":[-89.960003,29.949829],"type":"Point"}
+}

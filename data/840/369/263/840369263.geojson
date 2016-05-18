@@ -1,0 +1,73 @@
+{
+  "id": 840369263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.216027,30.20337,-93.216027,30.20337",
+    "geom:latitude":30.20337,
+    "geom:longitude":-93.216027,
+    "iso:country":"US",
+    "sg:address":"2701 Hodges St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 0119",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KtqAnTkq8zGMfMgQyuV77_30.203370_-93.216027@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529852,
+    "wof:geomhash":"b830f33d8296e6b569d7549c8ff0ba70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840369263
+        }
+    ],
+    "wof:id":840369263,
+    "wof:lastmodified":1463529852,
+    "wof:name":"Auto Marine Electric",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -93.216027,
+    30.20337,
+    -93.216027,
+    30.20337
+],
+  "geometry": {"coordinates":[-93.216027,30.20337],"type":"Point"}
+}

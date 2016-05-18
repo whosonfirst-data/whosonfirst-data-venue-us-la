@@ -1,0 +1,87 @@
+{
+  "id": 840457193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.257064,30.02128,-90.257064,30.02128",
+    "geom:latitude":30.02128,
+    "geom:longitude":-90.257064,
+    "iso:country":"US",
+    "sg:address":"819 W Esplanade Ave",
+    "sg:city":"Kenner",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/kenner/209070-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 464 9988",
+    "sg:postcode":"70065",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TQT0GgnpM0bHbSh8lwE8f_30.021400_-90.257715@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533586,
+    "wof:geomhash":"45c8b08c125c9f8f5a3feb0f01b47674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840457193
+        }
+    ],
+    "wof:id":840457193,
+    "wof:lastmodified":1463533586,
+    "wof:name":"TCBY",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -90.257064,
+    30.02128,
+    -90.257064,
+    30.02128
+],
+  "geometry": {"coordinates":[-90.257064,30.02128],"type":"Point"}
+}

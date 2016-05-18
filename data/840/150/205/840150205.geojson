@@ -1,0 +1,71 @@
+{
+  "id": 840150205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.780488,32.409785,-93.780488,32.409785",
+    "geom:latitude":32.409785,
+    "geom:longitude":-93.780488,
+    "iso:country":"US",
+    "sg:address":"8930 Kingston Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 686 9000",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85850255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GoT2lqQ02wqpzQ0ESrd2M_32.409785_-93.780488@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522244,
+    "wof:geomhash":"0a01ea3fdb9870c1d99c4419ae21b9b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85850255,
+            "region_id":85688735,
+            "venue_id":840150205
+        }
+    ],
+    "wof:id":840150205,
+    "wof:lastmodified":1463522244,
+    "wof:name":"Brymar Dental Laboratory",
+    "wof:parent_id":85850255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.780488,
+    32.409785,
+    -93.780488,
+    32.409785
+],
+  "geometry": {"coordinates":[-93.78048800000001,32.409785],"type":"Point"}
+}

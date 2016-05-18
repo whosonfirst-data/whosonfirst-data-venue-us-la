@@ -1,0 +1,71 @@
+{
+  "id": 840439487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.433442,30.479751,-93.433442,30.479751",
+    "geom:latitude":30.479751,
+    "geom:longitude":-93.433442,
+    "iso:country":"US",
+    "sg:address":"1292 Stephen St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 2589",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dFUnskNd0WVm9aKJD1K8u_30.479751_-93.433442@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532869,
+    "wof:geomhash":"7b67056cfa50948c06447aa0034faf6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840439487
+        }
+    ],
+    "wof:id":840439487,
+    "wof:lastmodified":1463532869,
+    "wof:name":"Bells Wrecker Service",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.433442,
+    30.479751,
+    -93.433442,
+    30.479751
+],
+  "geometry": {"coordinates":[-93.433442,30.479751],"type":"Point"}
+}

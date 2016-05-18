@@ -1,0 +1,73 @@
+{
+  "id": 840370075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.703831,31.168539,-92.703831,31.168539",
+    "geom:latitude":31.168539,
+    "geom:longitude":-92.703831,
+    "iso:country":"US",
+    "sg:address":"749 Hwy 1199",
+    "sg:city":"Elmer",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 793 5860",
+    "sg:postcode":"71424",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i9ZnflDfKLS4w90Pf1jLY_31.168539_-92.703831@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529902,
+    "wof:geomhash":"c1cd751a84091c40a7c3f53f405e1b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840370075
+        }
+    ],
+    "wof:id":840370075,
+    "wof:lastmodified":1463529902,
+    "wof:name":"Simpson Trash Svc",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -92.703831,
+    31.168539,
+    -92.703831,
+    31.168539
+],
+  "geometry": {"coordinates":[-92.70383099999999,31.168539],"type":"Point"}
+}

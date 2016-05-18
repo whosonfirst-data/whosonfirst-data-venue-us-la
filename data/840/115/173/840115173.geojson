@@ -1,0 +1,69 @@
+{
+  "id": 840115173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.104089,30.004165,-90.104089,30.004165",
+    "geom:latitude":30.004165,
+    "geom:longitude":-90.104089,
+    "iso:country":"US",
+    "sg:address":"888 Harrison Ave",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 488 8981",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:website":"www.thesteakknife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lVVohEJ6pNIH7IENVij67_30.004165_-90.104089@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521540,
+    "wof:geomhash":"26903d31f56e1314340aa62838090c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829431,
+            "region_id":85688735,
+            "venue_id":840115173
+        }
+    ],
+    "wof:id":840115173,
+    "wof:lastmodified":1463521540,
+    "wof:name":"Steak Knife Restaurant",
+    "wof:parent_id":85829431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.104089,
+    30.004165,
+    -90.104089,
+    30.004165
+],
+  "geometry": {"coordinates":[-90.104089,30.004165],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840388955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498901,29.806007,-91.498901,29.806007",
+    "geom:latitude":29.806007,
+    "geom:longitude":-91.498901,
+    "iso:country":"US",
+    "sg:address":"602 Haifleigh St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 413 8118",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WBrlVsXYlyUl1Dx9BeAMD_29.806007_-91.498901@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530761,
+    "wof:geomhash":"469fba24d91525b91f41d7eceb26e9ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840388955
+        }
+    ],
+    "wof:id":840388955,
+    "wof:lastmodified":1463530761,
+    "wof:name":"Eugene Curzon MD",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.498901,
+    29.806007,
+    -91.498901,
+    29.806007
+],
+  "geometry": {"coordinates":[-91.498901,29.806007],"type":"Point"}
+}

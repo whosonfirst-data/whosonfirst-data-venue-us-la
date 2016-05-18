@@ -1,0 +1,72 @@
+{
+  "id": 840416201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.059798,30.392465,-91.059798,30.392465",
+    "geom:latitude":30.392465,
+    "geom:longitude":-91.059798,
+    "iso:country":"US",
+    "sg:address":"6117 Siegen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 293 7403",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85814143,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AITpTsJ4RdhRHN4jqdEyk_30.392465_-91.059798@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531875,
+    "wof:geomhash":"5db51140858e2e50f40337488243434b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85814143,
+            "region_id":85688735,
+            "venue_id":840416201
+        }
+    ],
+    "wof:id":840416201,
+    "wof:lastmodified":1463531875,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85814143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.059798,
+    30.392465,
+    -91.059798,
+    30.392465
+],
+  "geometry": {"coordinates":[-91.059798,30.392465],"type":"Point"}
+}

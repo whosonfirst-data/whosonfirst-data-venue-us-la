@@ -1,0 +1,74 @@
+{
+  "id": 840060145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.216097,30.211391,-93.216097,30.211391",
+    "geom:latitude":30.211391,
+    "geom:longitude":-93.216097,
+    "iso:country":"US",
+    "sg:address":"409 Scott St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 6748",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "product",
+        "health"
+    ],
+    "sg:website":"www.soybean.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eAOsR1gYPDlOmTJn7KuTj_30.211391_-93.216097@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520274,
+    "wof:geomhash":"848e1cd4e6da371b2cd3042e915496cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840060145
+        }
+    ],
+    "wof:id":840060145,
+    "wof:lastmodified":1463520274,
+    "wof:name":"Lumen Foods",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "health"
+    ]
+},
+  "bbox": [
+    -93.216097,
+    30.211391,
+    -93.216097,
+    30.211391
+],
+  "geometry": {"coordinates":[-93.216097,30.211391],"type":"Point"}
+}

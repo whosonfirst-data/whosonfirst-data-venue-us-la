@@ -1,0 +1,75 @@
+{
+  "id": 840265229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.269458,31.020751,-93.269458,31.020751",
+    "geom:latitude":31.020751,
+    "geom:longitude":-93.269458,
+    "iso:country":"US",
+    "sg:address":"11780 Lake Charles Hwy",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 239 6598",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S5dys5hD8DO56VcLjL47h_31.020751_-93.269458@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524938,
+    "wof:geomhash":"05865cd6980f5c672c32d13cd36fbc18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840265229
+        }
+    ],
+    "wof:id":840265229,
+    "wof:lastmodified":1463524938,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.269458,
+    31.020751,
+    -93.269458,
+    31.020751
+],
+  "geometry": {"coordinates":[-93.269458,31.020751],"type":"Point"}
+}

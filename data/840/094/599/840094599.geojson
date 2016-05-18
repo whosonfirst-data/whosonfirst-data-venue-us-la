@@ -1,0 +1,71 @@
+{
+  "id": 840094599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.511011,30.876201,-90.511011,30.876201",
+    "geom:latitude":30.876201,
+    "geom:longitude":-90.511011,
+    "iso:country":"US",
+    "sg:address":"12616 Jackson St",
+    "sg:city":"Tangipahoa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 229 4423",
+    "sg:postcode":"70465",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vVajzYNzYZLRhhipgJEE2_30.876201_-90.511011@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521108,
+    "wof:geomhash":"cb487e00de37c4d47aa01dfc897584eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840094599
+        }
+    ],
+    "wof:id":840094599,
+    "wof:lastmodified":1463521108,
+    "wof:name":"Tangipahoa Police Dept",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.511011,
+    30.876201,
+    -90.511011,
+    30.876201
+],
+  "geometry": {"coordinates":[-90.511011,30.876201],"type":"Point"}
+}

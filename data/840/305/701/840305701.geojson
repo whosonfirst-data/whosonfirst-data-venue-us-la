@@ -1,0 +1,73 @@
+{
+  "id": 840305701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.532188,31.290458,-92.532188,31.290458",
+    "geom:latitude":31.290458,
+    "geom:longitude":-92.532188,
+    "iso:country":"US",
+    "sg:address":"408 Wilson Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 1553",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23sHZWm2J6GbXB7fFSNmKS_31.290458_-92.532188@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526793,
+    "wof:geomhash":"281894571c62910361444c541b6c7468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840305701
+        }
+    ],
+    "wof:id":840305701,
+    "wof:lastmodified":1463526793,
+    "wof:name":"Lighting Electric",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.532188,
+    31.290458,
+    -92.532188,
+    31.290458
+],
+  "geometry": {"coordinates":[-92.532188,31.290458],"type":"Point"}
+}

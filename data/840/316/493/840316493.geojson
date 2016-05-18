@@ -1,0 +1,73 @@
+{
+  "id": 840316493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.197978,29.707559,-91.197978,29.707559",
+    "geom:latitude":29.707559,
+    "geom:longitude":-91.197978,
+    "iso:country":"US",
+    "sg:address":"1201 David Dr",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 1533",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zn8QXa2NoP8X6vspB3CQA_29.707559_-91.197978@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527282,
+    "wof:geomhash":"5fb6a45944cb3719d724b94b3475fc5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840316493
+        }
+    ],
+    "wof:id":840316493,
+    "wof:lastmodified":1463527282,
+    "wof:name":"Oncologics Inc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.197978,
+    29.707559,
+    -91.197978,
+    29.707559
+],
+  "geometry": {"coordinates":[-91.19797800000001,29.707559],"type":"Point"}
+}

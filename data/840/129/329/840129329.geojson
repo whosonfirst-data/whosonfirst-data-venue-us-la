@@ -1,0 +1,71 @@
+{
+  "id": 840129329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.232862,30.274649,-93.232862,30.274649",
+    "geom:latitude":30.274649,
+    "geom:longitude":-93.232862,
+    "iso:country":"US",
+    "sg:address":"901 Baker Rd",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 5768",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n5fKZGrCY4aN3GP5JrMVw_30.274649_-93.232862@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521835,
+    "wof:geomhash":"cde5b1afd97e893e06ddd2d14c80ab46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840129329
+        }
+    ],
+    "wof:id":840129329,
+    "wof:lastmodified":1463521835,
+    "wof:name":"Westlake Memorial Park Cmtry",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -93.232862,
+    30.274649,
+    -93.232862,
+    30.274649
+],
+  "geometry": {"coordinates":[-93.232862,30.274649],"type":"Point"}
+}

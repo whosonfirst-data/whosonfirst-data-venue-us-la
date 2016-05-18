@@ -1,0 +1,71 @@
+{
+  "id": 840417109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.505781,29.805443,-91.505781,29.805443",
+    "geom:latitude":29.805443,
+    "geom:longitude":-91.505781,
+    "iso:country":"US",
+    "sg:address":"309 Highway Ave",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 1908",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kb6hP8pZAWqaC0hhUXxuT_29.805443_-91.505781@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531909,
+    "wof:geomhash":"8f3593786517db116f9a1654efce769d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840417109
+        }
+    ],
+    "wof:id":840417109,
+    "wof:lastmodified":1463531909,
+    "wof:name":"Friends",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.505781,
+    29.805443,
+    -91.505781,
+    29.805443
+],
+  "geometry": {"coordinates":[-91.505781,29.805443],"type":"Point"}
+}

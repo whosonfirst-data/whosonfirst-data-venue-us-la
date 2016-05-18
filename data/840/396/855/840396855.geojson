@@ -1,0 +1,71 @@
+{
+  "id": 840396855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.721284,32.424186,-93.721284,32.424186",
+    "geom:latitude":32.424186,
+    "geom:longitude":-93.721284,
+    "iso:country":"US",
+    "sg:address":"8535 Fern Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 3376",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07AqTsI4oktnvVjHQ6Yfqv_32.424186_-93.721284@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531089,
+    "wof:geomhash":"d8427b069f505fa182edee589e4ecb18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840396855
+        }
+    ],
+    "wof:id":840396855,
+    "wof:lastmodified":1463531089,
+    "wof:name":"Fern Avenue Dentistry",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.721284,
+    32.424186,
+    -93.721284,
+    32.424186
+],
+  "geometry": {"coordinates":[-93.721284,32.424186],"type":"Point"}
+}

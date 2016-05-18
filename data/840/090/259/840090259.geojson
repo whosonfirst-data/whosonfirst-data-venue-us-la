@@ -1,0 +1,73 @@
+{
+  "id": 840090259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.196144,30.235582,-93.196144,30.235582",
+    "geom:latitude":30.235582,
+    "geom:longitude":-93.196144,
+    "iso:country":"US",
+    "sg:address":"316 White St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 0427",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ee6UNIekn03wzUQd26dBo_30.235582_-93.196144@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521025,
+    "wof:geomhash":"521045fd45cb8fb38eca9c68ec75a469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840090259
+        }
+    ],
+    "wof:id":840090259,
+    "wof:lastmodified":1463521025,
+    "wof:name":"Bear's Auto Repair",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.196144,
+    30.235582,
+    -93.196144,
+    30.235582
+],
+  "geometry": {"coordinates":[-93.196144,30.235582],"type":"Point"}
+}

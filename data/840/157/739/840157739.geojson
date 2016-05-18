@@ -1,0 +1,73 @@
+{
+  "id": 840157739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.125888,30.214339,-92.125888,30.214339",
+    "geom:latitude":30.214339,
+    "geom:longitude":-92.125888,
+    "iso:country":"US",
+    "sg:address":"124 Dassas St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 873 6859",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e5ccFvkeWJDObovUf9PVE_30.214339_-92.125888@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522401,
+    "wof:geomhash":"05caf801d64e30197300cdf6ac51a3e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840157739
+        }
+    ],
+    "wof:id":840157739,
+    "wof:lastmodified":1463522401,
+    "wof:name":"Touchet's Tire Repair",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -92.125888,
+    30.214339,
+    -92.125888,
+    30.214339
+],
+  "geometry": {"coordinates":[-92.125888,30.214339],"type":"Point"}
+}

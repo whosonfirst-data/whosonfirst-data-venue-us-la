@@ -1,0 +1,74 @@
+{
+  "id": 840457883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.457015,31.274689,-92.457015,31.274689",
+    "geom:latitude":31.274689,
+    "geom:longitude":-92.457015,
+    "iso:country":"US",
+    "sg:address":"3638 North Blvd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/alexandria/66733-pizza-pro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 448 3938",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zTuVeFlCm8T5T9f7LHOMM_31.274745_-92.456738@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533609,
+    "wof:geomhash":"7537284dc063d4825f7948d4e55f9fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840457883
+        }
+    ],
+    "wof:id":840457883,
+    "wof:lastmodified":1463533609,
+    "wof:name":"Pizza Pro",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.457015,
+    31.274689,
+    -92.457015,
+    31.274689
+],
+  "geometry": {"coordinates":[-92.457015,31.274689],"type":"Point"}
+}

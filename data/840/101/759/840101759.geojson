@@ -1,0 +1,71 @@
+{
+  "id": 840101759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.727371,32.560506,-93.727371,32.560506",
+    "geom:latitude":32.560506,
+    "geom:longitude":-93.727371,
+    "iso:country":"US",
+    "sg:address":"3611 Benton Rd",
+    "sg:city":"Bossier City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 549 2919",
+    "sg:postcode":"71111",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85808045,
+        102084883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mXJ1yjUSpQRHydNHN9d41_32.560506_-93.727371@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521257,
+    "wof:geomhash":"0fc715d4000179e9244bce721133d448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "neighbourhood_id":85808045,
+            "region_id":85688735,
+            "venue_id":840101759
+        }
+    ],
+    "wof:id":840101759,
+    "wof:lastmodified":1463521257,
+    "wof:name":"K & D Automotive",
+    "wof:parent_id":85808045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.727371,
+    32.560506,
+    -93.727371,
+    32.560506
+],
+  "geometry": {"coordinates":[-93.72737100000001,32.560506],"type":"Point"}
+}

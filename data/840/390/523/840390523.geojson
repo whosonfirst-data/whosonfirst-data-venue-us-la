@@ -1,0 +1,71 @@
+{
+  "id": 840390523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.809339,32.396489,-93.809339,32.396489",
+    "geom:latitude":32.396489,
+    "geom:longitude":-93.809339,
+    "iso:country":"US",
+    "sg:address":"9361 Mansfield Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 687 6633",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wkEirV1g7jL563EgWojGS_32.396489_-93.809339@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530827,
+    "wof:geomhash":"7fc2ec11ad3e7aed71362b3a08c22703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840390523
+        }
+    ],
+    "wof:id":840390523,
+    "wof:lastmodified":1463530827,
+    "wof:name":"Porter's Fine Dry Cleaning",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.809339,
+    32.396489,
+    -93.809339,
+    32.396489
+],
+  "geometry": {"coordinates":[-93.80933899999999,32.396489],"type":"Point"}
+}

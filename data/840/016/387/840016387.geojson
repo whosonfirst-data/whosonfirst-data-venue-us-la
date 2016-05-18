@@ -1,0 +1,75 @@
+{
+  "id": 840016387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.159317,30.010863,-90.159317,30.010863",
+    "geom:latitude":30.010863,
+    "geom:longitude":-90.159317,
+    "iso:country":"US",
+    "sg:address":"3340 Severn Ave",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 889 1448",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gQeNdsn7Bwv2HNtCWPAWw_30.010863_-90.159317@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519338,
+    "wof:geomhash":"942279d8bbdd29dc460468fd4c40e7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840016387
+        }
+    ],
+    "wof:id":840016387,
+    "wof:lastmodified":1463519338,
+    "wof:name":"Jefferson Psychiatric Assoc",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.159317,
+    30.010863,
+    -90.159317,
+    30.010863
+],
+  "geometry": {"coordinates":[-90.159317,30.010863],"type":"Point"}
+}

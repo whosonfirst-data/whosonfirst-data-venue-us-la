@@ -1,0 +1,71 @@
+{
+  "id": 840225741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.010858,30.294897,-92.010858,30.294897",
+    "geom:latitude":30.294897,
+    "geom:longitude":-92.010858,
+    "iso:country":"US",
+    "sg:address":"600 E Gloria Switch Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 289 1247",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lDlk0azZRhUKYFEDEmEFJ_30.294897_-92.010858@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523969,
+    "wof:geomhash":"001e586bc2e873259e5ea478a86b5c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840225741
+        }
+    ],
+    "wof:id":840225741,
+    "wof:lastmodified":1463523969,
+    "wof:name":"Laboratory Corp Of America",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -92.010858,
+    30.294897,
+    -92.010858,
+    30.294897
+],
+  "geometry": {"coordinates":[-92.010858,30.294897],"type":"Point"}
+}

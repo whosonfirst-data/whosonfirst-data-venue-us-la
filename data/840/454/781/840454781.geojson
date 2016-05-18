@@ -1,0 +1,74 @@
+{
+  "id": 840454781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.176679,30.196929,-93.176679,30.196929",
+    "geom:latitude":30.196929,
+    "geom:longitude":-93.176679,
+    "iso:country":"US",
+    "sg:address":"3221 E Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lake-charles/64284-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 2189",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OfgGvCZGAgrrUWtA7pD2a_30.196929_-93.176679@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533496,
+    "wof:geomhash":"2c16fbc1113e2bc18e5f1f3be5af6ca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840454781
+        }
+    ],
+    "wof:id":840454781,
+    "wof:lastmodified":1463533496,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.176679,
+    30.196929,
+    -93.176679,
+    30.196929
+],
+  "geometry": {"coordinates":[-93.17667899999999,30.196929],"type":"Point"}
+}

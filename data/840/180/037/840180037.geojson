@@ -1,0 +1,74 @@
+{
+  "id": 840180037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.055558,30.400753,-91.055558,30.400753",
+    "geom:latitude":30.400753,
+    "geom:longitude":-91.055558,
+    "iso:country":"US",
+    "sg:address":"11165 Airline Hwy",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 293 9595",
+    "sg:postcode":"70816",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85814143,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s3Nfsz12QW1jjqmFGOwT7_30.400753_-91.055558@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522908,
+    "wof:geomhash":"49c79bdb87711e18f71d4e23e2ac24cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85814143,
+            "region_id":85688735,
+            "venue_id":840180037
+        }
+    ],
+    "wof:id":840180037,
+    "wof:lastmodified":1463522908,
+    "wof:name":"Enterprise Transportation",
+    "wof:parent_id":85814143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.055558,
+    30.400753,
+    -91.055558,
+    30.400753
+],
+  "geometry": {"coordinates":[-91.055558,30.400753],"type":"Point"}
+}

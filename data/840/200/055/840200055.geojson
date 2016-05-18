@@ -1,0 +1,71 @@
+{
+  "id": 840200055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.701474,32.917353,-93.701474,32.917353",
+    "geom:latitude":32.917353,
+    "geom:longitude":-93.701474,
+    "iso:country":"US",
+    "sg:address":"304 Crestview Dr",
+    "sg:city":"Plain Dealing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 326 4111",
+    "sg:postcode":"71064",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85808045,
+        102084883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FXJw8GfLMCxIwsNUBVLJ1_32.917353_-93.701474@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523332,
+    "wof:geomhash":"44580ce43a2888e01f6a95c344efaaf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "neighbourhood_id":85808045,
+            "region_id":85688735,
+            "venue_id":840200055
+        }
+    ],
+    "wof:id":840200055,
+    "wof:lastmodified":1463523332,
+    "wof:name":"Roscoe's Automotive Repair",
+    "wof:parent_id":85808045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.701474,
+    32.917353,
+    -93.701474,
+    32.917353
+],
+  "geometry": {"coordinates":[-93.701474,32.917353],"type":"Point"}
+}

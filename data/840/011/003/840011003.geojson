@@ -1,0 +1,71 @@
+{
+  "id": 840011003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.922907,32.422059,-93.922907,32.422059",
+    "geom:latitude":32.422059,
+    "geom:longitude":-93.922907,
+    "iso:country":"US",
+    "sg:address":"7602 General Motors Blvd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 688 7055",
+    "sg:postcode":"71129",
+    "sg:province":"LA",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85880975,
+        102087235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72Q67Wum8RnlJHoorzHKKU_32.422059_-93.922907@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519230,
+    "wof:geomhash":"22d76824b48fe9a271dd8c69b31f1941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "neighbourhood_id":85880975,
+            "region_id":85688735,
+            "venue_id":840011003
+        }
+    ],
+    "wof:id":840011003,
+    "wof:lastmodified":1463519230,
+    "wof:name":"Shreveport Red River Utilities",
+    "wof:parent_id":85880975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.922907,
+    32.422059,
+    -93.922907,
+    32.422059
+],
+  "geometry": {"coordinates":[-93.922907,32.422059],"type":"Point"}
+}

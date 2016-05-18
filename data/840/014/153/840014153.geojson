@@ -1,0 +1,75 @@
+{
+  "id": 840014153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.820194,32.380031,-93.820194,32.380031",
+    "geom:latitude":32.380031,
+    "geom:longitude":-93.820194,
+    "iso:country":"US",
+    "sg:address":"9830 Mansfield Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 688 7760",
+    "sg:postcode":"71118",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bZiepz5FahdeUnyZ0aVUy_32.380031_-93.820194@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519293,
+    "wof:geomhash":"59ebf7957b48e37e186fd4c5228da2d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880999,
+            "region_id":85688735,
+            "venue_id":840014153
+        }
+    ],
+    "wof:id":840014153,
+    "wof:lastmodified":1463519293,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85880999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.820194,
+    32.380031,
+    -93.820194,
+    32.380031
+],
+  "geometry": {"coordinates":[-93.820194,32.380031],"type":"Point"}
+}

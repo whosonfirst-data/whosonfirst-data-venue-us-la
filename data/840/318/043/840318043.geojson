@@ -1,0 +1,71 @@
+{
+  "id": 840318043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.08995,32.48439,-92.08995,32.48439",
+    "geom:latitude":32.48439,
+    "geom:longitude":-92.08995,
+    "iso:country":"US",
+    "sg:address":"1313 Winnsboro Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 0417",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_048vpFZShuUaEU59mqj8Gv_32.484390_-92.089950@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527364,
+    "wof:geomhash":"6c387bbad72cfd4a3fea4a06765223c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840318043
+        }
+    ],
+    "wof:id":840318043,
+    "wof:lastmodified":1463527364,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.08995,
+    32.48439,
+    -92.08995,
+    32.48439
+],
+  "geometry": {"coordinates":[-92.08995,32.48439],"type":"Point"}
+}

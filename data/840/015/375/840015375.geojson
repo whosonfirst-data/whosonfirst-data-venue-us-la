@@ -1,0 +1,73 @@
+{
+  "id": 840015375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.18924,30.203405,-93.18924,30.203405",
+    "geom:latitude":30.203405,
+    "geom:longitude":-93.18924,
+    "iso:country":"US",
+    "sg:address":"2000 Oak Park Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 6172",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16pCe8V7bHOwt5D7HyhVuZ_30.203405_-93.189240@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519319,
+    "wof:geomhash":"ea1abaf29d0c4143ceb237aece770ab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840015375
+        }
+    ],
+    "wof:id":840015375,
+    "wof:lastmodified":1463519319,
+    "wof:name":"Ear Nose & Throat Clinic",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.18924,
+    30.203405,
+    -93.18924,
+    30.203405
+],
+  "geometry": {"coordinates":[-93.18924,30.203405],"type":"Point"}
+}

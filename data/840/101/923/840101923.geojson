@@ -1,0 +1,73 @@
+{
+  "id": 840101923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.039121,30.138023,-92.039121,30.138023",
+    "geom:latitude":30.138023,
+    "geom:longitude":-92.039121,
+    "iso:country":"US",
+    "sg:address":"223 Vincent Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 856 9755",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KcJwSHTggc2BWysC3Nm0H_30.138023_-92.039121@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521260,
+    "wof:geomhash":"f780f146bb1beb39099399fe9e971ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840101923
+        }
+    ],
+    "wof:id":840101923,
+    "wof:lastmodified":1463521260,
+    "wof:name":"Old Coulee Lounge",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -92.039121,
+    30.138023,
+    -92.039121,
+    30.138023
+],
+  "geometry": {"coordinates":[-92.03912099999999,30.138023],"type":"Point"}
+}

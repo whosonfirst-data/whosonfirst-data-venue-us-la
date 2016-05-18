@@ -1,0 +1,75 @@
+{
+  "id": 840126149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.188997,30.001309,-90.188997,30.001309",
+    "geom:latitude":30.001309,
+    "geom:longitude":-90.188997,
+    "iso:country":"US",
+    "sg:address":"4712 Trenton St",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 456 2886",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UNMwEZvaTWl0IoQmYadP4_30.001309_-90.188997@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521772,
+    "wof:geomhash":"06848dd6e82359e65bafc48f7dcb19bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840126149
+        }
+    ],
+    "wof:id":840126149,
+    "wof:lastmodified":1463521772,
+    "wof:name":"Adams Automotive",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.188997,
+    30.001309,
+    -90.188997,
+    30.001309
+],
+  "geometry": {"coordinates":[-90.188997,30.001309],"type":"Point"}
+}

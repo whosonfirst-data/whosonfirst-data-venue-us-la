@@ -1,0 +1,81 @@
+{
+  "id": 840457151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.960093,29.949966,-89.960093,29.949966",
+    "geom:latitude":29.949966,
+    "geom:longitude":-89.960093,
+    "iso:country":"US",
+    "sg:address":"3366 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/chalmette/136642-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 6195",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R5IaT8mZz68upxrShnH1G_29.950274_-89.959886@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533584,
+    "wof:geomhash":"806c3c1b882b80809497da762545d5e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840457151
+        }
+    ],
+    "wof:id":840457151,
+    "wof:lastmodified":1463533584,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.960093,
+    29.949966,
+    -89.960093,
+    29.949966
+],
+  "geometry": {"coordinates":[-89.960093,29.949966],"type":"Point"}
+}

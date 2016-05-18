@@ -1,0 +1,71 @@
+{
+  "id": 840123591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.262187,29.684455,-91.262187,29.684455",
+    "geom:latitude":29.684455,
+    "geom:longitude":-91.262187,
+    "iso:country":"US",
+    "sg:address":"175 Arlington St",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 7161",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AtafWqQo0rViqVqCCp6fA_29.684455_-91.262187@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521724,
+    "wof:geomhash":"ffe828218ec5b54352ea0d35a71ed35d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840123591
+        }
+    ],
+    "wof:id":840123591,
+    "wof:lastmodified":1463521724,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.262187,
+    29.684455,
+    -91.262187,
+    29.684455
+],
+  "geometry": {"coordinates":[-91.262187,29.684455],"type":"Point"}
+}

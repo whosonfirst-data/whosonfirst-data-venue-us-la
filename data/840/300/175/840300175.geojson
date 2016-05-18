@@ -1,0 +1,71 @@
+{
+  "id": 840300175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258152,30.247622,-93.258152,30.247622",
+    "geom:latitude":30.247622,
+    "geom:longitude":-93.258152,
+    "iso:country":"US",
+    "sg:address":"905 Mc Kinley St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 6333",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fojqzYRdn7yfnmYvftkSU_30.247622_-93.258152@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526494,
+    "wof:geomhash":"976f65ca1b9fb775cdf877bb4a7d34da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840300175
+        }
+    ],
+    "wof:id":840300175,
+    "wof:lastmodified":1463526494,
+    "wof:name":"Lancon Engineers Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -93.258152,
+    30.247622,
+    -93.258152,
+    30.247622
+],
+  "geometry": {"coordinates":[-93.258152,30.247622],"type":"Point"}
+}

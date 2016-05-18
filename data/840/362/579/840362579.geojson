@@ -1,0 +1,71 @@
+{
+  "id": 840362579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.234373,30.414816,-91.234373,30.414816",
+    "geom:latitude":30.414816,
+    "geom:longitude":-91.234373,
+    "iso:country":"US",
+    "sg:address":"2535 Riverside Dr",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 749 4480",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948409,
+        102086695,
+        85808211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vhAxz0mBRwU93v8vbOs23_30.414816_-91.234373@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529505,
+    "wof:geomhash":"7eea86b401c70f9494e5e269b57bd6e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948409,
+            "neighbourhood_id":85808211,
+            "region_id":85688735,
+            "venue_id":840362579
+        }
+    ],
+    "wof:id":840362579,
+    "wof:lastmodified":1463529505,
+    "wof:name":"Jonah Freight Systems",
+    "wof:parent_id":85808211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.234373,
+    30.414816,
+    -91.234373,
+    30.414816
+],
+  "geometry": {"coordinates":[-91.23437300000001,30.414816],"type":"Point"}
+}

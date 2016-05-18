@@ -1,0 +1,71 @@
+{
+  "id": 840324561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.198932,30.203454,-93.198932,30.203454",
+    "geom:latitude":30.203454,
+    "geom:longitude":-93.198932,
+    "iso:country":"US",
+    "sg:address":"1525 Oak Park Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 494 6767",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CMB93I5Jdo67e5UWsCihA_30.203454_-93.198932@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527703,
+    "wof:geomhash":"8e89f5630b01c3967631fbe2c260e6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840324561
+        }
+    ],
+    "wof:id":840324561,
+    "wof:lastmodified":1463527703,
+    "wof:name":"Lsuhsc Family Practice",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.198932,
+    30.203454,
+    -93.198932,
+    30.203454
+],
+  "geometry": {"coordinates":[-93.198932,30.203454],"type":"Point"}
+}

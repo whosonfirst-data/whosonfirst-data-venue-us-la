@@ -1,0 +1,68 @@
+{
+  "id": 840257257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.089553,29.966822,-90.089553,29.966822",
+    "geom:latitude":29.966822,
+    "geom:longitude":-90.089553,
+    "iso:country":"US",
+    "sg:address":"2828 Canal St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 822 2011",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3dFEDTBekrwISkhKpopR_29.966822_-90.089553@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524762,
+    "wof:geomhash":"41177872fcd6f6d4e81ad6c23fba3a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840257257
+        }
+    ],
+    "wof:id":840257257,
+    "wof:lastmodified":1463524762,
+    "wof:name":"Canal Bus Stop",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.089553,
+    29.966822,
+    -90.089553,
+    29.966822
+],
+  "geometry": {"coordinates":[-90.089553,29.966822],"type":"Point"}
+}

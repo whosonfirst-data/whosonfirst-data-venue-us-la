@@ -1,0 +1,74 @@
+{
+  "id": 840454853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.252475,30.375999,-91.252475,30.375999",
+    "geom:latitude":30.375999,
+    "geom:longitude":-91.252475,
+    "iso:country":"US",
+    "sg:address":"6631 La Highway 1 S",
+    "sg:city":"Addis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/port-allen/132107-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 749 0340",
+    "sg:postcode":"70710",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948409,
+        102086695,
+        85808211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J3cUHCNdPCEtg50q5tVxq_30.375999_-91.252475@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533499,
+    "wof:geomhash":"67137aaf788a6f1d504ffac56e882c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948409,
+            "neighbourhood_id":85808211,
+            "region_id":85688735,
+            "venue_id":840454853
+        }
+    ],
+    "wof:id":840454853,
+    "wof:lastmodified":1463533499,
+    "wof:name":"Subway",
+    "wof:parent_id":85808211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.252475,
+    30.375999,
+    -91.252475,
+    30.375999
+],
+  "geometry": {"coordinates":[-91.252475,30.375999],"type":"Point"}
+}

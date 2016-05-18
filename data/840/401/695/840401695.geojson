@@ -1,0 +1,75 @@
+{
+  "id": 840401695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.086706,32.520744,-92.086706,32.520744",
+    "geom:latitude":32.520744,
+    "geom:longitude":-92.086706,
+    "iso:country":"US",
+    "sg:address":"111 N Stanley Ave",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 324 1144",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948231,
+        102081027,
+        85819355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qv0MkaNXb9UHrr8gsclJ1_32.520744_-92.086706@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531275,
+    "wof:geomhash":"462e9bbef175b6dd6856c7310446c3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85819355,
+            "region_id":85688735,
+            "venue_id":840401695
+        }
+    ],
+    "wof:id":840401695,
+    "wof:lastmodified":1463531275,
+    "wof:name":"Jordan's Automotive",
+    "wof:parent_id":85819355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.086706,
+    32.520744,
+    -92.086706,
+    32.520744
+],
+  "geometry": {"coordinates":[-92.08670600000001,32.520744],"type":"Point"}
+}

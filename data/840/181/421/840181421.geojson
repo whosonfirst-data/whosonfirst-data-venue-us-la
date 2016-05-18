@@ -1,0 +1,71 @@
+{
+  "id": 840181421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.072851,30.371455,-91.072851,30.371455",
+    "geom:latitude":30.371455,
+    "geom:longitude":-91.072851,
+    "iso:country":"US",
+    "sg:address":"8800 Siegen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 761 0019",
+    "sg:postcode":"70810",
+    "sg:province":"LA",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948693,
+        102087229,
+        85835247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RP3WVgPwY6UB2PsdUCGZ8_30.371455_-91.072851@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522939,
+    "wof:geomhash":"2c14a3c7806850f547e9bac76296b1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948693,
+            "neighbourhood_id":85835247,
+            "region_id":85688735,
+            "venue_id":840181421
+        }
+    ],
+    "wof:id":840181421,
+    "wof:lastmodified":1463522939,
+    "wof:name":"Brian's Appliance Repair",
+    "wof:parent_id":85835247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -91.072851,
+    30.371455,
+    -91.072851,
+    30.371455
+],
+  "geometry": {"coordinates":[-91.072851,30.371455],"type":"Point"}
+}

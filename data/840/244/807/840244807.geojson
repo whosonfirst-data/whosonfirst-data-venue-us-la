@@ -1,0 +1,71 @@
+{
+  "id": 840244807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.73849,30.056569,-91.73849,30.056569",
+    "geom:latitude":30.056569,
+    "geom:longitude":-91.73849,
+    "iso:country":"US",
+    "sg:address":"119 Bridge St",
+    "sg:city":"Loreauville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 6200",
+    "sg:postcode":"70552",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yOZIwok03JEAa8fIJgdpO_30.056569_-91.738490@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524476,
+    "wof:geomhash":"9a657492da00345f8e41d26d9d9aca13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840244807
+        }
+    ],
+    "wof:id":840244807,
+    "wof:lastmodified":1463524476,
+    "wof:name":"Loreauville Volunteer Fire",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.73849,
+    30.056569,
+    -91.73849,
+    30.056569
+],
+  "geometry": {"coordinates":[-91.73849,30.056569],"type":"Point"}
+}

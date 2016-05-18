@@ -1,0 +1,73 @@
+{
+  "id": 840054125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.368377,30.232049,-93.368377,30.232049",
+    "geom:latitude":30.232049,
+    "geom:longitude":-93.368377,
+    "iso:country":"US",
+    "sg:address":"921 1st Ave",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 2491",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rEqCzm2NDgKVaGhW5jbCY_30.232049_-93.368377@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520128,
+    "wof:geomhash":"775fb44c816da9d48fecabe3bbb4fd4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840054125
+        }
+    ],
+    "wof:id":840054125,
+    "wof:lastmodified":1463520128,
+    "wof:name":"Cypress Family Medical Clinic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.368377,
+    30.232049,
+    -93.368377,
+    30.232049
+],
+  "geometry": {"coordinates":[-93.368377,30.232049],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 840457093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.17523,30.005132,-90.17523,30.005132",
+    "geom:latitude":30.005132,
+    "geom:longitude":-90.17523,
+    "iso:country":"US",
+    "sg:address":"4015 Veterans Memorial Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/metairie/133258-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 887 3051",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mK7ElLSig4sQzS6WuWRiC_30.004775_-90.174648@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533582,
+    "wof:geomhash":"5e9109bdab263b450e5ea33ff90383f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840457093
+        }
+    ],
+    "wof:id":840457093,
+    "wof:lastmodified":1463533582,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -90.17523,
+    30.005132,
+    -90.17523,
+    30.005132
+],
+  "geometry": {"coordinates":[-90.17523,30.005132],"type":"Point"}
+}

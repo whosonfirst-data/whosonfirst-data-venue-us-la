@@ -1,0 +1,71 @@
+{
+  "id": 840224837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.440743,31.254569,-92.440743,31.254569",
+    "geom:latitude":31.254569,
+    "geom:longitude":-92.440743,
+    "iso:country":"US",
+    "sg:address":"5104 S Macarthur Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 7563",
+    "sg:postcode":"71302",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BKGcNhNvp4ONvVKXGkIVk_31.254569_-92.440743@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523946,
+    "wof:geomhash":"1a795519608c438a8109e39e28f3305f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840224837
+        }
+    ],
+    "wof:id":840224837,
+    "wof:lastmodified":1463523946,
+    "wof:name":"Rapides Parish Fire District",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.440743,
+    31.254569,
+    -92.440743,
+    31.254569
+],
+  "geometry": {"coordinates":[-92.440743,31.254569],"type":"Point"}
+}

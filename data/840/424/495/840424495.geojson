@@ -1,0 +1,73 @@
+{
+  "id": 840424495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.221503,29.697086,-91.221503,29.697086",
+    "geom:latitude":29.697086,
+    "geom:longitude":-91.221503,
+    "iso:country":"US",
+    "sg:address":"3760 5th St",
+    "sg:city":"Berwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 0283",
+    "sg:postcode":"70342",
+    "sg:province":"LA",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BBc9Nl51vMNiotasnO4Gw_29.697086_-91.221503@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532214,
+    "wof:geomhash":"e10ae2c248645a002ad2427ce72ee19c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840424495
+        }
+    ],
+    "wof:id":840424495,
+    "wof:lastmodified":1463532214,
+    "wof:name":"Bob's Heating & Air Cond Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.221503,
+    29.697086,
+    -91.221503,
+    29.697086
+],
+  "geometry": {"coordinates":[-91.221503,29.697086],"type":"Point"}
+}

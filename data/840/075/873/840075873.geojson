@@ -1,0 +1,75 @@
+{
+  "id": 840075873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.147198,30.478708,-91.147198,30.478708",
+    "geom:latitude":30.478708,
+    "geom:longitude":-91.147198,
+    "iso:country":"US",
+    "sg:address":"4245 Winbourne Ave",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 357 2248",
+    "sg:postcode":"70805",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85814223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KgN3wC1tlGjdHLGc1b4iv_30.478708_-91.147198@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520599,
+    "wof:geomhash":"d1cf8f3ebdd279983b3f624689f168f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85814223,
+            "region_id":85688735,
+            "venue_id":840075873
+        }
+    ],
+    "wof:id":840075873,
+    "wof:lastmodified":1463520599,
+    "wof:name":"Robert E Feldman MD",
+    "wof:parent_id":85814223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.147198,
+    30.478708,
+    -91.147198,
+    30.478708
+],
+  "geometry": {"coordinates":[-91.147198,30.478708],"type":"Point"}
+}

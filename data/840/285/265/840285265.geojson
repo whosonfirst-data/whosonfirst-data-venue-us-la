@@ -1,0 +1,73 @@
+{
+  "id": 840285265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.147532,30.586896,-91.147532,30.586896",
+    "geom:latitude":30.586896,
+    "geom:longitude":-91.147532,
+    "iso:country":"US",
+    "sg:address":"4971 Groom Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 775 7051",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40OUOVc0ZicanEyTCvpPtD_30.586896_-91.147532@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525859,
+    "wof:geomhash":"a09a551c4a324c99eea2ac0db364cca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840285265
+        }
+    ],
+    "wof:id":840285265,
+    "wof:lastmodified":1463525859,
+    "wof:name":"Baker Physical Therapy Clinic",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -91.147532,
+    30.586896,
+    -91.147532,
+    30.586896
+],
+  "geometry": {"coordinates":[-91.147532,30.586896],"type":"Point"}
+}

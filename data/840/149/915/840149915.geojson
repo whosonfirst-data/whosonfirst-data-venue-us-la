@@ -1,0 +1,71 @@
+{
+  "id": 840149915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.060306,30.19204,-92.060306,30.19204",
+    "geom:latitude":30.19204,
+    "geom:longitude":-92.060306,
+    "iso:country":"US",
+    "sg:address":"4519 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 1798",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NlkVOXFuXyd3TZjr39kBZ_30.192040_-92.060306@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522239,
+    "wof:geomhash":"29b828eefa0e037bc37d396dfd1d19c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840149915
+        }
+    ],
+    "wof:id":840149915,
+    "wof:lastmodified":1463522239,
+    "wof:name":"Enchanted Nails",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -92.060306,
+    30.19204,
+    -92.060306,
+    30.19204
+],
+  "geometry": {"coordinates":[-92.060306,30.19204],"type":"Point"}
+}

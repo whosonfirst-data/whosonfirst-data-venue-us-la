@@ -1,0 +1,73 @@
+{
+  "id": 840346963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204379,30.227416,-93.204379,30.227416",
+    "geom:latitude":30.227416,
+    "geom:longitude":-93.204379,
+    "iso:country":"US",
+    "sg:address":"1110 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 7114",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qfP3QUDkCzQeJZC48GIKo_30.227416_-93.204379@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528742,
+    "wof:geomhash":"4b6f2040ab6708b4433eb73e1739573b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840346963
+        }
+    ],
+    "wof:id":840346963,
+    "wof:lastmodified":1463528742,
+    "wof:name":"Chatman's Quick Lube & Auto",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.204379,
+    30.227416,
+    -93.204379,
+    30.227416
+],
+  "geometry": {"coordinates":[-93.204379,30.227416],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840295201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.154983,30.233477,-93.154983,30.233477",
+    "geom:latitude":30.233477,
+    "geom:longitude":-93.154983,
+    "iso:country":"US",
+    "sg:address":"441 S Goodman Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 4692",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HlvtIMEkRiqPuP4hHjziM_30.233477_-93.154983@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526282,
+    "wof:geomhash":"f8cc3a6431827a56ed490415674a094c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840295201
+        }
+    ],
+    "wof:id":840295201,
+    "wof:lastmodified":1463526282,
+    "wof:name":"Guy's Towing Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.154983,
+    30.233477,
+    -93.154983,
+    30.233477
+],
+  "geometry": {"coordinates":[-93.154983,30.233477],"type":"Point"}
+}

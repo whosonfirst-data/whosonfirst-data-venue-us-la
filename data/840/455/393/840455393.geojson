@@ -1,0 +1,82 @@
+{
+  "id": 840455393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.062403,30.387231,-91.062403,30.387231",
+    "geom:latitude":30.387231,
+    "geom:longitude":-91.062403,
+    "iso:country":"US",
+    "sg:address":"6875 Siegen Ln",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/baton-rouge/21776-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 291 5311",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85811509,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gmLTzumOrhUwiNu1yufW7_30.387231_-91.062403@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533517,
+    "wof:geomhash":"fa9c2cbb874a2165f55ec872a0147ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85811509,
+            "region_id":85688735,
+            "venue_id":840455393
+        }
+    ],
+    "wof:id":840455393,
+    "wof:lastmodified":1463533517,
+    "wof:name":"IHOP",
+    "wof:parent_id":85811509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -91.062403,
+    30.387231,
+    -91.062403,
+    30.387231
+],
+  "geometry": {"coordinates":[-91.062403,30.387231],"type":"Point"}
+}

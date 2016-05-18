@@ -1,0 +1,71 @@
+{
+  "id": 840083059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204336,30.199778,-93.204336,30.199778",
+    "geom:latitude":30.199778,
+    "geom:longitude":-93.204336,
+    "iso:country":"US",
+    "sg:address":"3216 Enterprise Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 1526",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25VzL4XFoAYXBKfemxwtRd_30.199778_-93.204336@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520866,
+    "wof:geomhash":"61ce84eec773c5d60a076afa36dc2123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840083059
+        }
+    ],
+    "wof:id":840083059,
+    "wof:lastmodified":1463520866,
+    "wof:name":"Farr Veterinary Hospital",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.204336,
+    30.199778,
+    -93.204336,
+    30.199778
+],
+  "geometry": {"coordinates":[-93.204336,30.199778],"type":"Point"}
+}

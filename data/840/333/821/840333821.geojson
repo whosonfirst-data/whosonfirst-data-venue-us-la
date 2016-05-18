@@ -1,0 +1,71 @@
+{
+  "id": 840333821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.269986,31.019156,-93.269986,31.019156",
+    "geom:latitude":31.019156,
+    "geom:longitude":-93.269986,
+    "iso:country":"US",
+    "sg:address":"12314 Lake Charles Hwy",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 9994",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vLrUkeIjzuaktkAWQxPQQ_31.019156_-93.269986@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528118,
+    "wof:geomhash":"bbb23d66f9b19c4e14889813e159b6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840333821
+        }
+    ],
+    "wof:id":840333821,
+    "wof:lastmodified":1463528118,
+    "wof:name":"Nails II",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -93.269986,
+    31.019156,
+    -93.269986,
+    31.019156
+],
+  "geometry": {"coordinates":[-93.269986,31.019156],"type":"Point"}
+}

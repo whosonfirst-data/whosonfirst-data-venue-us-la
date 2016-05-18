@@ -1,0 +1,71 @@
+{
+  "id": 840268709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.326959,30.227688,-93.326959,30.227688",
+    "geom:latitude":30.227688,
+    "geom:longitude":-93.326959,
+    "iso:country":"US",
+    "sg:address":"4008 Maplewood Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 625 5697",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SoL9hAMs6MUmTLuEwY0og_30.227688_-93.326959@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525116,
+    "wof:geomhash":"53dec0d6b2810b1a15de05c1efbdd873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840268709
+        }
+    ],
+    "wof:id":840268709,
+    "wof:lastmodified":1463525116,
+    "wof:name":"Mike Beasley DDS",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.326959,
+    30.227688,
+    -93.326959,
+    30.227688
+],
+  "geometry": {"coordinates":[-93.326959,30.227688],"type":"Point"}
+}

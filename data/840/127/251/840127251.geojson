@@ -1,0 +1,71 @@
+{
+  "id": 840127251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.161745,30.289146,-91.161745,30.289146",
+    "geom:latitude":30.289146,
+    "geom:longitude":-91.161745,
+    "iso:country":"US",
+    "sg:address":"1625 State Rte 75",
+    "sg:city":"Sunshine",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 319 2188",
+    "sg:postcode":"70780",
+    "sg:province":"LA",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KLaAQ3lovZzzoQYTRHe2G_30.289146_-91.161745@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521797,
+    "wof:geomhash":"20c6fffaefc83673d8c8e7c50dfe7e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840127251
+        }
+    ],
+    "wof:id":840127251,
+    "wof:lastmodified":1463521797,
+    "wof:name":"Demand Diagnostics",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -91.161745,
+    30.289146,
+    -91.161745,
+    30.289146
+],
+  "geometry": {"coordinates":[-91.161745,30.289146],"type":"Point"}
+}

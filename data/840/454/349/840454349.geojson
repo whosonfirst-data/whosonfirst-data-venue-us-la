@@ -1,0 +1,76 @@
+{
+  "id": 840454349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.025085,30.293344,-92.025085,30.293344",
+    "geom:latitude":30.293344,
+    "geom:longitude":-92.025085,
+    "iso:country":"US",
+    "sg:address":"3236 NW Evangeline Trwy",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/173654-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 264 1839",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948379,
+        102081919,
+        85822057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r3tuKoYz30jpprAL7D7s5_30.293344_-92.025085@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533481,
+    "wof:geomhash":"7288366c2d19ce4f8206a38c1c46f506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948379,
+            "neighbourhood_id":85822057,
+            "region_id":85688735,
+            "venue_id":840454349
+        }
+    ],
+    "wof:id":840454349,
+    "wof:lastmodified":1463533481,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85822057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -92.025085,
+    30.293344,
+    -92.025085,
+    30.293344
+],
+  "geometry": {"coordinates":[-92.025085,30.293344],"type":"Point"}
+}

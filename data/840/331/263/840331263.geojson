@@ -1,0 +1,71 @@
+{
+  "id": 840331263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.095756,30.230285,-92.095756,30.230285",
+    "geom:latitude":30.230285,
+    "geom:longitude":-92.095756,
+    "iso:country":"US",
+    "sg:address":"105 Chip St",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 8663",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_126DgWfRYOC8uVyFfkMIKK_30.230285_-92.095756@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528003,
+    "wof:geomhash":"2f8ec2905bacf6cb755a75091522ffc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840331263
+        }
+    ],
+    "wof:id":840331263,
+    "wof:lastmodified":1463528003,
+    "wof:name":"Callier Welding Service",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -92.095756,
+    30.230285,
+    -92.095756,
+    30.230285
+],
+  "geometry": {"coordinates":[-92.09575599999999,30.230285],"type":"Point"}
+}

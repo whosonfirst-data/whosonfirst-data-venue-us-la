@@ -1,0 +1,77 @@
+{
+  "id": 840288113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.163236,30.010954,-90.163236,30.010954",
+    "geom:latitude":30.010954,
+    "geom:longitude":-90.163236,
+    "iso:country":"US",
+    "sg:address":"4321 Hessmer Ave",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 456 3717",
+    "sg:postcode":"70002",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948757,
+        102083179,
+        85806017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o4X4BRgiAZagEEtYcv2xC_30.010954_-90.163236@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525988,
+    "wof:geomhash":"8996c26a360ba1db8a396d40207194a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948757,
+            "neighbourhood_id":85806017,
+            "region_id":85688735,
+            "venue_id":840288113
+        }
+    ],
+    "wof:id":840288113,
+    "wof:lastmodified":1463525988,
+    "wof:name":"Benson Motor Co Collision Ctr",
+    "wof:parent_id":85806017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.163236,
+    30.010954,
+    -90.163236,
+    30.010954
+],
+  "geometry": {"coordinates":[-90.163236,30.010954],"type":"Point"}
+}

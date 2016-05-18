@@ -1,0 +1,73 @@
+{
+  "id": 840440903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.370795,30.229693,-93.370795,30.229693",
+    "geom:latitude":30.229693,
+    "geom:longitude":-93.370795,
+    "iso:country":"US",
+    "sg:address":"913 E Kent Dr",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 1686",
+    "sg:postcode":"70664",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13e07P35wZygOfjpwMrdVi_30.229693_-93.370795@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532936,
+    "wof:geomhash":"e83e688f85b0ca26a442a39f55bea75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840440903
+        }
+    ],
+    "wof:id":840440903,
+    "wof:lastmodified":1463532936,
+    "wof:name":"Cardiovascular Specialists",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.370795,
+    30.229693,
+    -93.370795,
+    30.229693
+],
+  "geometry": {"coordinates":[-93.370795,30.229693],"type":"Point"}
+}

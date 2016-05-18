@@ -1,0 +1,73 @@
+{
+  "id": 840160105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.137509,30.236977,-92.137509,30.236977",
+    "geom:latitude":30.236977,
+    "geom:longitude":-92.137509,
+    "iso:country":"US",
+    "sg:address":"209 D Arceneaux Rd",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 873 2900",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "boxing",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09M7sbh2ICr9MHeXXCI9Be_30.236977_-92.137509@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522449,
+    "wof:geomhash":"8a733696df53b98626eced57712c00a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840160105
+        }
+    ],
+    "wof:id":840160105,
+    "wof:lastmodified":1463522449,
+    "wof:name":"Bobby's Boxing Gym",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boxing",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -92.137509,
+    30.236977,
+    -92.137509,
+    30.236977
+],
+  "geometry": {"coordinates":[-92.13750899999999,30.236977],"type":"Point"}
+}

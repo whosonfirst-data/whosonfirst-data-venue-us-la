@@ -1,0 +1,76 @@
+{
+  "id": 840457335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.069708,29.95403,-90.069708,29.95403",
+    "geom:latitude":29.95403,
+    "geom:longitude":-90.069708,
+    "iso:country":"US",
+    "sg:address":"115 Bourbon St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-orleans/40382-red-fish-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 598 1200",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85851209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Y5qCH9n75vQSRNEZbAjj_29.954611_-90.069236@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533591,
+    "wof:geomhash":"e80530444994808a965812479dc09c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85851209,
+            "region_id":85688735,
+            "venue_id":840457335
+        }
+    ],
+    "wof:id":840457335,
+    "wof:lastmodified":1463533591,
+    "wof:name":"Red Fish Grill",
+    "wof:parent_id":85851209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.069708,
+    29.95403,
+    -90.069708,
+    29.95403
+],
+  "geometry": {"coordinates":[-90.06970800000001,29.95403],"type":"Point"}
+}

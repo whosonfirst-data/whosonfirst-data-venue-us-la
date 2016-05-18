@@ -1,0 +1,73 @@
+{
+  "id": 840425043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.087007,30.231308,-92.087007,30.231308",
+    "geom:latitude":30.231308,
+    "geom:longitude":-92.087007,
+    "iso:country":"US",
+    "sg:address":"211 Westgate Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 6145",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y1sjlHXdIr0qvrEbuINuY_30.231308_-92.087007@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532234,
+    "wof:geomhash":"d0ad5d9d79d7fd23df1982be0d934014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840425043
+        }
+    ],
+    "wof:id":840425043,
+    "wof:lastmodified":1463532234,
+    "wof:name":"Don's Garage",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.087007,
+    30.231308,
+    -92.087007,
+    30.231308
+],
+  "geometry": {"coordinates":[-92.087007,30.231308],"type":"Point"}
+}

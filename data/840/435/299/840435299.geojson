@@ -1,0 +1,75 @@
+{
+  "id": 840435299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.962217,29.942881,-89.962217,29.942881",
+    "geom:latitude":29.942881,
+    "geom:longitude":-89.962217,
+    "iso:country":"US",
+    "sg:address":"2618 Buffon St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 278 4901",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dMN98omfOyOLX6QxzdFUT_29.942881_-89.962217@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532696,
+    "wof:geomhash":"589bb24d0ff259183e158a703e89a4a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840435299
+        }
+    ],
+    "wof:id":840435299,
+    "wof:lastmodified":1463532696,
+    "wof:name":"Precision Collision",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.962217,
+    29.942881,
+    -89.962217,
+    29.942881
+],
+  "geometry": {"coordinates":[-89.962217,29.942881],"type":"Point"}
+}

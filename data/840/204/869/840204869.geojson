@@ -1,0 +1,71 @@
+{
+  "id": 840204869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.197217,30.234876,-93.197217,30.234876",
+    "geom:latitude":30.234876,
+    "geom:longitude":-93.197217,
+    "iso:country":"US",
+    "sg:address":"300 S Shattuck St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 8934",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ESTOrQ6qAelb5sbtgTcLc_30.234876_-93.197217@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523512,
+    "wof:geomhash":"8c8949813ccd6f6fcbe73116b578547a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840204869
+        }
+    ],
+    "wof:id":840204869,
+    "wof:lastmodified":1463523512,
+    "wof:name":"Shattuck Street Gar Pnt & Bdy",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.197217,
+    30.234876,
+    -93.197217,
+    30.234876
+],
+  "geometry": {"coordinates":[-93.19721699999999,30.234876],"type":"Point"}
+}

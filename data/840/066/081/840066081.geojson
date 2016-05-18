@@ -1,0 +1,73 @@
+{
+  "id": 840066081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.534298,30.726248,-90.534298,30.726248",
+    "geom:latitude":30.726248,
+    "geom:longitude":-90.534298,
+    "iso:country":"US",
+    "sg:address":"11236 Hwy 16",
+    "sg:city":"Amite",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 3272",
+    "sg:postcode":"70422",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g60LSZNukFZ74m3Ym3pUP_30.726248_-90.534298@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520395,
+    "wof:geomhash":"ca050c338d4b86a61d15df48f239dcce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840066081
+        }
+    ],
+    "wof:id":840066081,
+    "wof:lastmodified":1463520395,
+    "wof:name":"Nicholas Cefalu Jr MD",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.534298,
+    30.726248,
+    -90.534298,
+    30.726248
+],
+  "geometry": {"coordinates":[-90.53429800000001,30.726248],"type":"Point"}
+}

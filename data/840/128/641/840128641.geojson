@@ -1,0 +1,83 @@
+{
+  "id": 840128641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.064056,30.45804,-91.064056,30.45804",
+    "geom:latitude":30.45804,
+    "geom:longitude":-91.064056,
+    "iso:country":"US",
+    "sg:address":"11271 Florida Blvd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 272 3037",
+    "sg:postcode":"70815",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948205,
+        102087229,
+        85838033,
+        85819973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17M95t1kGPzRe2cFjra1xk_30.458040_-91.064056@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521823,
+    "wof:geomhash":"8d212b3a5a91a2c932f2f74b51cc9f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85838033,
+            "region_id":85688735,
+            "venue_id":840128641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948205,
+            "neighbourhood_id":85819973,
+            "region_id":85688735,
+            "venue_id":840128641
+        }
+    ],
+    "wof:id":840128641,
+    "wof:lastmodified":1463521823,
+    "wof:name":"Chateau Jacques Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.064056,
+    30.45804,
+    -91.064056,
+    30.45804
+],
+  "geometry": {"coordinates":[-91.06405599999999,30.45804],"type":"Point"}
+}

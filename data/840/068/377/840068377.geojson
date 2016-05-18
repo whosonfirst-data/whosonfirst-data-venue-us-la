@@ -1,0 +1,71 @@
+{
+  "id": 840068377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.204278,30.206941,-93.204278,30.206941",
+    "geom:latitude":30.206941,
+    "geom:longitude":-93.204278,
+    "iso:country":"US",
+    "sg:address":"2500 Enterprise Blvd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 4585",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q2nYNhfCcNU6F8yayU1ft_30.206941_-93.204278@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520446,
+    "wof:geomhash":"39d9b2cf5f68cd378b43809d9956a22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840068377
+        }
+    ],
+    "wof:id":840068377,
+    "wof:lastmodified":1463520446,
+    "wof:name":"St Margaret's Catholic Church",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.204278,
+    30.206941,
+    -93.204278,
+    30.206941
+],
+  "geometry": {"coordinates":[-93.204278,30.206941],"type":"Point"}
+}

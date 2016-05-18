@@ -1,0 +1,73 @@
+{
+  "id": 840111945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.260003,30.14136,-93.260003,30.14136",
+    "geom:latitude":30.14136,
+    "geom:longitude":-93.260003,
+    "iso:country":"US",
+    "sg:address":"2504 Glenprairie St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 2400",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Adc4bFs5jJDK0gmMDH08_30.141360_-93.260003@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521467,
+    "wof:geomhash":"359bd0b1a37076d795d8357143255c4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840111945
+        }
+    ],
+    "wof:id":840111945,
+    "wof:lastmodified":1463521467,
+    "wof:name":"Urban Designs",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.260003,
+    30.14136,
+    -93.260003,
+    30.14136
+],
+  "geometry": {"coordinates":[-93.260003,30.14136],"type":"Point"}
+}

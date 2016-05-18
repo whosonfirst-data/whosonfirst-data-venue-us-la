@@ -1,0 +1,75 @@
+{
+  "id": 840206977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.092967,29.971781,-90.092967,29.971781",
+    "geom:latitude":29.971781,
+    "geom:longitude":-90.092967,
+    "iso:country":"US",
+    "sg:address":"225 N Jefferson Davis Pkwy",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 482 0600",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qn6pUY3LVDnBlpp6bFrKT_29.971781_-90.092967@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523568,
+    "wof:geomhash":"a162af85d31a8dbfa624af1c79ac0088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840206977
+        }
+    ],
+    "wof:id":840206977,
+    "wof:lastmodified":1463523568,
+    "wof:name":"Medical Advantage",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.092967,
+    29.971781,
+    -90.092967,
+    29.971781
+],
+  "geometry": {"coordinates":[-90.092967,29.971781],"type":"Point"}
+}

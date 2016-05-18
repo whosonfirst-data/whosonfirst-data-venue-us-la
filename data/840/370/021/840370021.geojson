@@ -1,0 +1,73 @@
+{
+  "id": 840370021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.012686,30.187361,-92.012686,30.187361",
+    "geom:latitude":30.187361,
+    "geom:longitude":-92.012686,
+    "iso:country":"US",
+    "sg:address":"1902 W Pinhook Rd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 7921",
+    "sg:postcode":"70508",
+    "sg:province":"LA",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jtKsWfMMvoRl6V0vq7jMP_30.187361_-92.012686@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529900,
+    "wof:geomhash":"9a569e0f4e381b604d41ec893e950613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840370021
+        }
+    ],
+    "wof:id":840370021,
+    "wof:lastmodified":1463529900,
+    "wof:name":"Poupart Bakery Inc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -92.012686,
+    30.187361,
+    -92.012686,
+    30.187361
+],
+  "geometry": {"coordinates":[-92.012686,30.187361],"type":"Point"}
+}

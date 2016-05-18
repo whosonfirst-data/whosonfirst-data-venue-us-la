@@ -1,0 +1,73 @@
+{
+  "id": 840030717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.531147,29.7976,-91.531147,29.7976",
+    "geom:latitude":29.7976,
+    "geom:longitude":-91.531147,
+    "iso:country":"US",
+    "sg:address":"1329 Northwest Blvd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 413 1090",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MvzBa55wWtPE8b3fBzb30_29.797600_-91.531147@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519636,
+    "wof:geomhash":"5fdf6938e52e473fc41e1c40ca753987",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840030717
+        }
+    ],
+    "wof:id":840030717,
+    "wof:lastmodified":1463519636,
+    "wof:name":"Chauvin's Auto Repair",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.531147,
+    29.7976,
+    -91.531147,
+    29.7976
+],
+  "geometry": {"coordinates":[-91.531147,29.7976],"type":"Point"}
+}

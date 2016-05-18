@@ -1,0 +1,75 @@
+{
+  "id": 840303249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.189674,30.005728,-90.189674,30.005728",
+    "geom:latitude":30.005728,
+    "geom:longitude":-90.189674,
+    "iso:country":"US",
+    "sg:address":"4734 Veterans Memorial Blvd",
+    "sg:city":"Metairie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 457 0180",
+    "sg:postcode":"70006",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948293,
+        102083179,
+        85842683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ftzSf5gkTAqpWQWalQVuE_30.005728_-90.189674@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526689,
+    "wof:geomhash":"f8c151a7f87479ac30f4993919c15f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948293,
+            "neighbourhood_id":85842683,
+            "region_id":85688735,
+            "venue_id":840303249
+        }
+    ],
+    "wof:id":840303249,
+    "wof:lastmodified":1463526689,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85842683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.189674,
+    30.005728,
+    -90.189674,
+    30.005728
+],
+  "geometry": {"coordinates":[-90.189674,30.005728],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840099227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.380808,30.235916,-93.380808,30.235916",
+    "geom:latitude":30.235916,
+    "geom:longitude":-93.380808,
+    "iso:country":"US",
+    "sg:address":"203 S Crocker St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 7201",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wi6fa1SOkHZTYKHutpbPf_30.235916_-93.380808@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521195,
+    "wof:geomhash":"d1183e3dd9226435f6b2ce6259f06a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840099227
+        }
+    ],
+    "wof:id":840099227,
+    "wof:lastmodified":1463521195,
+    "wof:name":"Picture This Photography",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -93.380808,
+    30.235916,
+    -93.380808,
+    30.235916
+],
+  "geometry": {"coordinates":[-93.380808,30.235916],"type":"Point"}
+}

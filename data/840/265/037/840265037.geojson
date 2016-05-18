@@ -1,0 +1,71 @@
+{
+  "id": 840265037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.11326,32.502349,-92.11326,32.502349",
+    "geom:latitude":32.502349,
+    "geom:longitude":-92.11326,
+    "iso:country":"US",
+    "sg:address":"201 Hall St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 329 8069",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nRG42e2cf6DpJnXgI1SA8_32.502349_-92.113260@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524930,
+    "wof:geomhash":"95837c8599dd7dd07f188236b426a856",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840265037
+        }
+    ],
+    "wof:id":840265037,
+    "wof:lastmodified":1463524930,
+    "wof:name":"Schindler Elevator Corp",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -92.11326,
+    32.502349,
+    -92.11326,
+    32.502349
+],
+  "geometry": {"coordinates":[-92.11326,32.502349],"type":"Point"}
+}

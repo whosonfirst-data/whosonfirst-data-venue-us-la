@@ -1,0 +1,73 @@
+{
+  "id": 840262367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.105724,32.500472,-92.105724,32.500472",
+    "geom:latitude":32.500472,
+    "geom:longitude":-92.105724,
+    "iso:country":"US",
+    "sg:address":"203 S 8th St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 9652",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "brick",
+        "common"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ntk6cAeIi7S0SU3Ioxdfn_32.500472_-92.105724@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524863,
+    "wof:geomhash":"2db4fa8ea00e724fb82d4e63302096e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840262367
+        }
+    ],
+    "wof:id":840262367,
+    "wof:lastmodified":1463524863,
+    "wof:name":"Acme Brick Co",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brick",
+        "common"
+    ]
+},
+  "bbox": [
+    -92.105724,
+    32.500472,
+    -92.105724,
+    32.500472
+],
+  "geometry": {"coordinates":[-92.105724,32.500472],"type":"Point"}
+}

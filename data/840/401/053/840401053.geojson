@@ -1,0 +1,71 @@
+{
+  "id": 840401053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.077939,30.17453,-92.077939,30.17453",
+    "geom:latitude":30.17453,
+    "geom:longitude":-92.077939,
+    "iso:country":"US",
+    "sg:address":"5725 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 1898",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pretzel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n2eAliWsuAyCI5VCQziRr_30.174530_-92.077939@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531252,
+    "wof:geomhash":"5ca091636d89e2f4e02cd9283003b165",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840401053
+        }
+    ],
+    "wof:id":840401053,
+    "wof:lastmodified":1463531252,
+    "wof:name":"Auntie Anne's Hand Rolled Soft",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pretzel"
+    ]
+},
+  "bbox": [
+    -92.077939,
+    30.17453,
+    -92.077939,
+    30.17453
+],
+  "geometry": {"coordinates":[-92.077939,30.17453],"type":"Point"}
+}

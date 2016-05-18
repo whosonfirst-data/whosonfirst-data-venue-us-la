@@ -1,0 +1,73 @@
+{
+  "id": 840412263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.202342,29.707855,-91.202342,29.707855",
+    "geom:latitude":29.707855,
+    "geom:longitude":-91.202342,
+    "iso:country":"US",
+    "sg:address":"1300 Lakewood Dr",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 385 2710",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MlWBdt9mnCHKoeht3AHlj_29.707855_-91.202342@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531709,
+    "wof:geomhash":"07249890a64a05da85d05dd3d7b10ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840412263
+        }
+    ],
+    "wof:id":840412263,
+    "wof:lastmodified":1463531709,
+    "wof:name":"Daniels & Bass Family Medical",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.202342,
+    29.707855,
+    -91.202342,
+    29.707855
+],
+  "geometry": {"coordinates":[-91.202342,29.707855],"type":"Point"}
+}

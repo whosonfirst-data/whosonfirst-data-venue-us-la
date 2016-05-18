@@ -1,0 +1,71 @@
+{
+  "id": 840118859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.063842,30.191025,-92.063842,30.191025",
+    "geom:latitude":30.191025,
+    "geom:longitude":-92.063842,
+    "iso:country":"US",
+    "sg:address":"101 Idlewood Blvd",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 981 8387",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hDtK7UD7EdkuOO2rU7A1S_30.191025_-92.063842@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521616,
+    "wof:geomhash":"152db849a5c76d74cc8946138ddd50fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840118859
+        }
+    ],
+    "wof:id":840118859,
+    "wof:lastmodified":1463521616,
+    "wof:name":"Acadiana Animal Veterinary",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -92.063842,
+    30.191025,
+    -92.063842,
+    30.191025
+],
+  "geometry": {"coordinates":[-92.06384199999999,30.191025],"type":"Point"}
+}

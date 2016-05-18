@@ -1,0 +1,71 @@
+{
+  "id": 840030861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.370481,30.236569,-93.370481,30.236569",
+    "geom:latitude":30.236569,
+    "geom:longitude":-93.370481,
+    "iso:country":"US",
+    "sg:address":"613 E Napoleon St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 7180",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zxM9iPZ3qf68XwM0BoqIH_30.236569_-93.370481@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519641,
+    "wof:geomhash":"9a803171ba46e0b3c77e1015f3aaba24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840030861
+        }
+    ],
+    "wof:id":840030861,
+    "wof:lastmodified":1463519641,
+    "wof:name":"Bob's Exxon Svc Station",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -93.370481,
+    30.236569,
+    -93.370481,
+    30.236569
+],
+  "geometry": {"coordinates":[-93.370481,30.236569],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840347185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.460788,30.504359,-90.460788,30.504359",
+    "geom:latitude":30.504359,
+    "geom:longitude":-90.460788,
+    "iso:country":"US",
+    "sg:address":"120 N Cate St",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 1364",
+    "sg:postcode":"70401",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0815yWoUXjI1Qs5fp0yPjD_30.504359_-90.460788@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528752,
+    "wof:geomhash":"b73c10bcf4a77ea6975e8262bc8e2f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840347185
+        }
+    ],
+    "wof:id":840347185,
+    "wof:lastmodified":1463528752,
+    "wof:name":"Surgical Associates",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.460788,
+    30.504359,
+    -90.460788,
+    30.504359
+],
+  "geometry": {"coordinates":[-90.46078799999999,30.504359],"type":"Point"}
+}

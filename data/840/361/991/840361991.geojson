@@ -1,0 +1,75 @@
+{
+  "id": 840361991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.422757,30.44229,-93.422757,30.44229",
+    "geom:latitude":30.44229,
+    "geom:longitude":-93.422757,
+    "iso:country":"US",
+    "sg:address":"814 William Still Rd",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 7138",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64wzFKwFBlIjlRDX8heiD0_30.442290_-93.422757@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529478,
+    "wof:geomhash":"006c5407b7f7e8eef152457f5d43330d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840361991
+        }
+    ],
+    "wof:id":840361991,
+    "wof:lastmodified":1463529478,
+    "wof:name":"Jones Paint & Body Shop",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.422757,
+    30.44229,
+    -93.422757,
+    30.44229
+],
+  "geometry": {"coordinates":[-93.422757,30.44229],"type":"Point"}
+}

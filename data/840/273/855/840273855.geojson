@@ -1,0 +1,75 @@
+{
+  "id": 840273855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.168437,32.485024,-92.168437,32.485024",
+    "geom:latitude":32.485024,
+    "geom:longitude":-92.168437,
+    "iso:country":"US",
+    "sg:address":"602 Smith St",
+    "sg:city":"West Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 325 9005",
+    "sg:postcode":"71292",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ytK9m9pIajx8G5c9aZ0qC_32.485024_-92.168437@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525345,
+    "wof:geomhash":"eefc2447f6fbbeaffa323aed64c135b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840273855
+        }
+    ],
+    "wof:id":840273855,
+    "wof:lastmodified":1463525345,
+    "wof:name":"Smith Street Lounge",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -92.168437,
+    32.485024,
+    -92.168437,
+    32.485024
+],
+  "geometry": {"coordinates":[-92.168437,32.485024],"type":"Point"}
+}

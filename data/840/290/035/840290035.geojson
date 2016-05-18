@@ -1,0 +1,71 @@
+{
+  "id": 840290035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.51399,29.79653,-91.51399,29.79653",
+    "geom:latitude":29.79653,
+    "geom:longitude":-91.51399,
+    "iso:country":"US",
+    "sg:address":"1100 Iberia St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 4546",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dr4le0QwC85ngqYBBfiJt_29.796530_-91.513990@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526070,
+    "wof:geomhash":"4f9c7763c87cb0ccca07e45834035cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840290035
+        }
+    ],
+    "wof:id":840290035,
+    "wof:lastmodified":1463526070,
+    "wof:name":"Boozer's Iberia St Self Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.51399,
+    29.79653,
+    -91.51399,
+    29.79653
+],
+  "geometry": {"coordinates":[-91.51399000000001,29.79653],"type":"Point"}
+}

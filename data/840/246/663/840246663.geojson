@@ -1,0 +1,73 @@
+{
+  "id": 840246663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.109434,29.984634,-90.109434,29.984634",
+    "geom:latitude":29.984634,
+    "geom:longitude":-90.109434,
+    "iso:country":"US",
+    "sg:address":"701 Rosedale Dr",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 483 2550",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wQrElVAeRENdhMoQgpSV7_29.984634_-90.109434@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524526,
+    "wof:geomhash":"2464229cba7960229c1b2ed0004c0897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866055,
+            "region_id":85688735,
+            "venue_id":840246663
+        }
+    ],
+    "wof:id":840246663,
+    "wof:lastmodified":1463524526,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85866055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.109434,
+    29.984634,
+    -90.109434,
+    29.984634
+],
+  "geometry": {"coordinates":[-90.10943399999999,29.984634],"type":"Point"}
+}

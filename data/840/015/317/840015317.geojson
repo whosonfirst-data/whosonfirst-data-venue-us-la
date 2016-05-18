@@ -1,0 +1,73 @@
+{
+  "id": 840015317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.831948,32.599791,-93.831948,32.599791",
+    "geom:latitude":32.599791,
+    "geom:longitude":-93.831948,
+    "iso:country":"US",
+    "sg:address":"5555 Old Mooringsport Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 221 4724",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mIESa76PuIy5cwQGANvkx_32.599791_-93.831948@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519318,
+    "wof:geomhash":"18620cf1502e0a746a77d7edf598aa75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840015317
+        }
+    ],
+    "wof:id":840015317,
+    "wof:lastmodified":1463519318,
+    "wof:name":"Bayou State Electric",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.831948,
+    32.599791,
+    -93.831948,
+    32.599791
+],
+  "geometry": {"coordinates":[-93.831948,32.599791],"type":"Point"}
+}

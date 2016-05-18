@@ -1,0 +1,73 @@
+{
+  "id": 840363141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.21003,30.452218,-91.21003,30.452218",
+    "geom:latitude":30.452218,
+    "geom:longitude":-91.21003,
+    "iso:country":"US",
+    "sg:address":"805 Court St",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 344 5384",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XSqcvnq5SXuajUIXArbIa_30.452218_-91.210030@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529526,
+    "wof:geomhash":"532f17546e68415394702d873071800c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840363141
+        }
+    ],
+    "wof:id":840363141,
+    "wof:lastmodified":1463529526,
+    "wof:name":"G & G Auto",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.21003,
+    30.452218,
+    -91.21003,
+    30.452218
+],
+  "geometry": {"coordinates":[-91.21003,30.452218],"type":"Point"}
+}

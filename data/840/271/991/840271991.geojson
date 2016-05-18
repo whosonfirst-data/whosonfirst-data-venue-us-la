@@ -1,0 +1,71 @@
+{
+  "id": 840271991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.198767,30.205626,-93.198767,30.205626",
+    "geom:latitude":30.205626,
+    "geom:longitude":-93.198767,
+    "iso:country":"US",
+    "sg:address":"1516 18th St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 9994",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29XNZhLlEgdYmTL9gOV3tJ_30.205626_-93.198767@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525264,
+    "wof:geomhash":"4263afcf5ab404e07ad48e38b499619d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840271991
+        }
+    ],
+    "wof:id":840271991,
+    "wof:lastmodified":1463525264,
+    "wof:name":"Mark M Miller DDS",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.198767,
+    30.205626,
+    -93.198767,
+    30.205626
+],
+  "geometry": {"coordinates":[-93.198767,30.205626],"type":"Point"}
+}

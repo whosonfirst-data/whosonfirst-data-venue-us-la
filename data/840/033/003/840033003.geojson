@@ -1,0 +1,71 @@
+{
+  "id": 840033003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.58438,30.189439,-93.58438,30.189439",
+    "geom:latitude":30.189439,
+    "geom:longitude":-93.58438,
+    "iso:country":"US",
+    "sg:address":"1603 US Hwy 90",
+    "sg:city":"Vinton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 589 3040",
+    "sg:postcode":"70668",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pDR2m4khPfg57HAkvHLgo_30.189439_-93.584380@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519695,
+    "wof:geomhash":"21f588421efa428d7ff27a4f5b1b430d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840033003
+        }
+    ],
+    "wof:id":840033003,
+    "wof:lastmodified":1463519695,
+    "wof:name":"Breaux's Wrecker & Towing Svc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.58438,
+    30.189439,
+    -93.58438,
+    30.189439
+],
+  "geometry": {"coordinates":[-93.58438,30.189439],"type":"Point"}
+}

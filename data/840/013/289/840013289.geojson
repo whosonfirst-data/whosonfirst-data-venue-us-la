@@ -1,0 +1,73 @@
+{
+  "id": 840013289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.749306,30.184682,-89.749306,30.184682",
+    "geom:latitude":30.184682,
+    "geom:longitude":-89.749306,
+    "iso:country":"US",
+    "sg:address":"109 Moray Dr",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 643 7832",
+    "sg:postcode":"70461",
+    "sg:province":"LA",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948593,
+        102082453,
+        85838725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oy9XnQpc2US3OqL6Lx2MH_30.184682_-89.749306@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519275,
+    "wof:geomhash":"ff195d6960194e206b0173e485bf3075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948593,
+            "neighbourhood_id":85838725,
+            "region_id":85688735,
+            "venue_id":840013289
+        }
+    ],
+    "wof:id":840013289,
+    "wof:lastmodified":1463519275,
+    "wof:name":"New Orleans Cold Storage",
+    "wof:parent_id":85838725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.749306,
+    30.184682,
+    -89.749306,
+    30.184682
+],
+  "geometry": {"coordinates":[-89.749306,30.184682],"type":"Point"}
+}

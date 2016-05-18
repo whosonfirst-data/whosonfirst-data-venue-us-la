@@ -1,0 +1,76 @@
+{
+  "id": 840454573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.82023,29.985326,-91.82023,29.985326",
+    "geom:latitude":29.985326,
+    "geom:longitude":-91.82023,
+    "iso:country":"US",
+    "sg:address":"1050 E Admiral Doyle Dr",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/new-iberia/80248-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 364 3944",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fN8fyAh9WvCrnjEtZLTm3_29.985326_-91.820230@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533489,
+    "wof:geomhash":"dd2be6ddc5810fc4e8b5bb5b5149a417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840454573
+        }
+    ],
+    "wof:id":840454573,
+    "wof:lastmodified":1463533489,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.82023,
+    29.985326,
+    -91.82023,
+    29.985326
+],
+  "geometry": {"coordinates":[-91.82023,29.985326],"type":"Point"}
+}

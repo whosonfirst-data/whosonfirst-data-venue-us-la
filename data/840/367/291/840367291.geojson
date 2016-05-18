@@ -1,0 +1,73 @@
+{
+  "id": 840367291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.976781,29.963955,-89.976781,29.963955",
+    "geom:latitude":29.963955,
+    "geom:longitude":-89.976781,
+    "iso:country":"US",
+    "sg:address":"3924 Norwood Dr",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 277 0876",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I9thjIsZeQBZ07LWjQMW9_29.963955_-89.976781@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529748,
+    "wof:geomhash":"88dd0edd64bb4bed7d8d272d53020e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840367291
+        }
+    ],
+    "wof:id":840367291,
+    "wof:lastmodified":1463529748,
+    "wof:name":"John Ducros Service",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.976781,
+    29.963955,
+    -89.976781,
+    29.963955
+],
+  "geometry": {"coordinates":[-89.976781,29.963955],"type":"Point"}
+}

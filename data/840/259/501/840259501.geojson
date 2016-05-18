@@ -1,0 +1,71 @@
+{
+  "id": 840259501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.437899,30.45191,-93.437899,30.45191",
+    "geom:latitude":30.45191,
+    "geom:longitude":-93.437899,
+    "iso:country":"US",
+    "sg:address":"120 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 3277",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wQwukWRiyKlFivqnJyEc1_30.451910_-93.437899@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524805,
+    "wof:geomhash":"8c94850cc675c76910fb54798b26fa17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840259501
+        }
+    ],
+    "wof:id":840259501,
+    "wof:lastmodified":1463524805,
+    "wof:name":"Snyder Clinic",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.437899,
+    30.45191,
+    -93.437899,
+    30.45191
+],
+  "geometry": {"coordinates":[-93.437899,30.45191],"type":"Point"}
+}

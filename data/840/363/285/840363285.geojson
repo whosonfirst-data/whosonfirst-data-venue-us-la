@@ -1,0 +1,71 @@
+{
+  "id": 840363285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.255292,30.241148,-93.255292,30.241148",
+    "geom:latitude":30.241148,
+    "geom:longitude":-93.255292,
+    "iso:country":"US",
+    "sg:address":"701 Johnson St",
+    "sg:city":"Westlake",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 9821",
+    "sg:postcode":"70669",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kdAuCwp0zzLVgeH0NFGUB_30.241148_-93.255292@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529533,
+    "wof:geomhash":"ab5eea9225205b9b7f2d168382a5af84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840363285
+        }
+    ],
+    "wof:id":840363285,
+    "wof:lastmodified":1463529533,
+    "wof:name":"Westlake Police Department",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.255292,
+    30.241148,
+    -93.255292,
+    30.241148
+],
+  "geometry": {"coordinates":[-93.255292,30.241148],"type":"Point"}
+}

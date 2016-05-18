@@ -1,0 +1,75 @@
+{
+  "id": 840077501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.019828,30.216583,-92.019828,30.216583",
+    "geom:latitude":30.216583,
+    "geom:longitude":-92.019828,
+    "iso:country":"US",
+    "sg:address":"1220 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 262 1067",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UHMGo9UT0TLC7XmkOUPou_30.216583_-92.019828@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520630,
+    "wof:geomhash":"58885a99a2c176da6bb1a0b64f7e49ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840077501
+        }
+    ],
+    "wof:id":840077501,
+    "wof:lastmodified":1463520630,
+    "wof:name":"University Of LA At Lafayette",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -92.019828,
+    30.216583,
+    -92.019828,
+    30.216583
+],
+  "geometry": {"coordinates":[-92.019828,30.216583],"type":"Point"}
+}

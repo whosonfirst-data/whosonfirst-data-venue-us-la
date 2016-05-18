@@ -1,0 +1,71 @@
+{
+  "id": 840178563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.221683,30.209991,-93.221683,30.209991",
+    "geom:latitude":30.209991,
+    "geom:longitude":-93.221683,
+    "iso:country":"US",
+    "sg:address":"211 Louie St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 433 8084",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NqyA5DJgnmDikR12S3K2b_30.209991_-93.221683@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522876,
+    "wof:geomhash":"cc7f216420f6dd931c91fe80818d68ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840178563
+        }
+    ],
+    "wof:id":840178563,
+    "wof:lastmodified":1463522876,
+    "wof:name":"Trace Apartments",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.221683,
+    30.209991,
+    -93.221683,
+    30.209991
+],
+  "geometry": {"coordinates":[-93.221683,30.209991],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840330039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.043995,30.210625,-92.043995,30.210625",
+    "geom:latitude":30.210625,
+    "geom:longitude":-92.043995,
+    "iso:country":"US",
+    "sg:address":"412 Bertrand Dr",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 232 9777",
+    "sg:postcode":"70506",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aFpRAC7uO2Je7jSxq8CzZ_30.210625_-92.043995@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527949,
+    "wof:geomhash":"12659707d18813341abf73fc53626a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840330039
+        }
+    ],
+    "wof:id":840330039,
+    "wof:lastmodified":1463527949,
+    "wof:name":"Elston Animal Hospital",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -92.043995,
+    30.210625,
+    -92.043995,
+    30.210625
+],
+  "geometry": {"coordinates":[-92.043995,30.210625],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840339053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.059745,30.020713,-90.059745,30.020713",
+    "geom:latitude":30.020713,
+    "geom:longitude":-90.059745,
+    "iso:country":"US",
+    "sg:address":"6026 Marigny St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 283 5445",
+    "sg:postcode":"70122",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eZ4uWmORXlPDxHmZLCAyF_30.020713_-90.059745@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528366,
+    "wof:geomhash":"91d8add60c7258af5c1bc9131ce33ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":840339053
+        }
+    ],
+    "wof:id":840339053,
+    "wof:lastmodified":1463528366,
+    "wof:name":"B's Cleaning & Detail Svc",
+    "wof:parent_id":85866063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.059745,
+    30.020713,
+    -90.059745,
+    30.020713
+],
+  "geometry": {"coordinates":[-90.05974500000001,30.020713],"type":"Point"}
+}

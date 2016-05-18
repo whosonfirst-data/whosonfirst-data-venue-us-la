@@ -1,0 +1,71 @@
+{
+  "id": 840111775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.223116,30.192969,-93.223116,30.192969",
+    "geom:latitude":30.192969,
+    "geom:longitude":-93.223116,
+    "iso:country":"US",
+    "sg:address":"3517 Ernest St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 1819",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37zpKf85Xxzm75CojLBdAA_30.192969_-93.223116@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521463,
+    "wof:geomhash":"ad631ddf52005a75442922d60fc22dfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840111775
+        }
+    ],
+    "wof:id":840111775,
+    "wof:lastmodified":1463521463,
+    "wof:name":"Lakeshore Citgo",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -93.223116,
+    30.192969,
+    -93.223116,
+    30.192969
+],
+  "geometry": {"coordinates":[-93.223116,30.192969],"type":"Point"}
+}

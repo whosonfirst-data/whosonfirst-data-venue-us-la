@@ -1,0 +1,71 @@
+{
+  "id": 840060609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.360877,30.231016,-93.360877,30.231016",
+    "geom:latitude":30.231016,
+    "geom:longitude":-93.360877,
+    "iso:country":"US",
+    "sg:address":"1533 Cypress St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 527 5559",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dnl8zsW19ck3sDIHwez3o_30.231016_-93.360877@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520288,
+    "wof:geomhash":"5b9c43ac63b850c068ed6aadb24a4b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840060609
+        }
+    ],
+    "wof:id":840060609,
+    "wof:lastmodified":1463520288,
+    "wof:name":"CYPRESS Veterinary Hospital",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.360877,
+    30.231016,
+    -93.360877,
+    30.231016
+],
+  "geometry": {"coordinates":[-93.360877,30.231016],"type":"Point"}
+}

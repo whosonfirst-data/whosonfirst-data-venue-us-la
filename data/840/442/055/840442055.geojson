@@ -1,0 +1,73 @@
+{
+  "id": 840442055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.726845,32.413777,-93.726845,32.413777",
+    "geom:latitude":32.413777,
+    "geom:longitude":-93.726845,
+    "iso:country":"US",
+    "sg:address":"1008 Professional Dr W",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 798 9540",
+    "sg:postcode":"71105",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85880981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XuSROWlkbFy2ayYp8A8nX_32.413777_-93.726845@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532979,
+    "wof:geomhash":"80ce272acee05020bf59a3e81f82745b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880981,
+            "region_id":85688735,
+            "venue_id":840442055
+        }
+    ],
+    "wof:id":840442055,
+    "wof:lastmodified":1463532979,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85880981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.726845,
+    32.413777,
+    -93.726845,
+    32.413777
+],
+  "geometry": {"coordinates":[-93.726845,32.413777],"type":"Point"}
+}

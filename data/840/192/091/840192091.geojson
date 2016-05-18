@@ -1,0 +1,80 @@
+{
+  "id": 840192091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.034417,29.92099,-90.034417,29.92099",
+    "geom:latitude":29.92099,
+    "geom:longitude":-90.034417,
+    "iso:country":"US",
+    "sg:address":"123 Terry Pkwy",
+    "sg:city":"Terrytown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 368 3800",
+    "sg:postcode":"70056",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866151,
+        85948301,
+        102083179,
+        85885345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EPACgCpEYl9XIEdOzm6yr_29.920990_-90.034417@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523150,
+    "wof:geomhash":"7f2c02b66c1c677fbebb38c0a02f17e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866151,
+            "region_id":85688735,
+            "venue_id":840192091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948301,
+            "neighbourhood_id":85885345,
+            "region_id":85688735,
+            "venue_id":840192091
+        }
+    ],
+    "wof:id":840192091,
+    "wof:lastmodified":1463523150,
+    "wof:name":"Brothers Food Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.034417,
+    29.92099,
+    -90.034417,
+    29.92099
+],
+  "geometry": {"coordinates":[-90.034417,29.92099],"type":"Point"}
+}

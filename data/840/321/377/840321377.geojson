@@ -1,0 +1,74 @@
+{
+  "id": 840321377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.170414,30.198198,-93.170414,30.198198",
+    "geom:latitude":30.198198,
+    "geom:longitude":-93.170414,
+    "iso:country":"US",
+    "sg:address":"3130 E Prien Lake Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 6459",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "sg:website":"www.petsmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LLFNssdI21FtKEzeHdtkX_30.198198_-93.170414@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527519,
+    "wof:geomhash":"cad2e72a7ac51b9d1df9fa69e29faa11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840321377
+        }
+    ],
+    "wof:id":840321377,
+    "wof:lastmodified":1463527519,
+    "wof:name":"Petsmart",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.170414,
+    30.198198,
+    -93.170414,
+    30.198198
+],
+  "geometry": {"coordinates":[-93.17041399999999,30.198198],"type":"Point"}
+}

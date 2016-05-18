@@ -1,0 +1,73 @@
+{
+  "id": 840456141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.84182,32.601097,-93.84182,32.601097",
+    "geom:latitude":32.601097,
+    "geom:longitude":-93.84182,
+    "iso:country":"US",
+    "sg:address":"5849 N Market St",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/shreveport/188447-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"71107",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36rSiAeU07Q3elWztD4gJZ_32.601097_-93.841820@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533543,
+    "wof:geomhash":"34dc7f2a09c7a60678cbbe23ea1b48fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840456141
+        }
+    ],
+    "wof:id":840456141,
+    "wof:lastmodified":1463533543,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.84182,
+    32.601097,
+    -93.84182,
+    32.601097
+],
+  "geometry": {"coordinates":[-93.84182,32.601097],"type":"Point"}
+}

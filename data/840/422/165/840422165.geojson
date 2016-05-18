@@ -1,0 +1,73 @@
+{
+  "id": 840422165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.176765,30.158137,-93.176765,30.158137",
+    "geom:latitude":30.158137,
+    "geom:longitude":-93.176765,
+    "iso:country":"US",
+    "sg:address":"2760 State Rte 14",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 479 2222",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kdhiv74X8kP98oPzF0Sgh_30.158137_-93.176765@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463532121,
+    "wof:geomhash":"18754b30d40d068a12f365ff34133eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840422165
+        }
+    ],
+    "wof:id":840422165,
+    "wof:lastmodified":1463532121,
+    "wof:name":"RTGO Mobile Oil Change",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -93.176765,
+    30.158137,
+    -93.176765,
+    30.158137
+],
+  "geometry": {"coordinates":[-93.176765,30.158137],"type":"Point"}
+}

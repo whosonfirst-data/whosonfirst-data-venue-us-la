@@ -1,0 +1,73 @@
+{
+  "id": 840040835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.190891,30.227545,-93.190891,30.227545",
+    "geom:latitude":30.227545,
+    "geom:longitude":-93.190891,
+    "iso:country":"US",
+    "sg:address":"2106 Broad St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 5318",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32LiqNsCRbJPuq2ubHwGEl_30.227545_-93.190891@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519870,
+    "wof:geomhash":"b089b234920a39e5d6bcf0692322fd7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840040835
+        }
+    ],
+    "wof:id":840040835,
+    "wof:lastmodified":1463519870,
+    "wof:name":"Lake Charles Auto Air & Elec",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.190891,
+    30.227545,
+    -93.190891,
+    30.227545
+],
+  "geometry": {"coordinates":[-93.19089099999999,30.227545],"type":"Point"}
+}

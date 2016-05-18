@@ -1,0 +1,71 @@
+{
+  "id": 840333523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.377352,30.238624,-93.377352,30.238624",
+    "geom:latitude":30.238624,
+    "geom:longitude":-93.377352,
+    "iso:country":"US",
+    "sg:address":"220 N Huntington St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 3148",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H2K7B4bo5KaQpizriupIo_30.238624_-93.377352@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528100,
+    "wof:geomhash":"ae751f15990083b0e7d947510106843a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840333523
+        }
+    ],
+    "wof:id":840333523,
+    "wof:lastmodified":1463528100,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.377352,
+    30.238624,
+    -93.377352,
+    30.238624
+],
+  "geometry": {"coordinates":[-93.377352,30.238624],"type":"Point"}
+}

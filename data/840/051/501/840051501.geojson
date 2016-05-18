@@ -1,0 +1,71 @@
+{
+  "id": 840051501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.24205,31.055054,-93.24205,31.055054",
+    "geom:latitude":31.055054,
+    "geom:longitude":-93.24205,
+    "iso:country":"US",
+    "sg:address":"1093 Entrance Rd",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 537 3040",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W8SOrNe3PBvgGSCMM0oSb_31.055054_-93.242050@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520077,
+    "wof:geomhash":"1f5cbbb5eaa89391cdc50149929f46a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840051501
+        }
+    ],
+    "wof:id":840051501,
+    "wof:lastmodified":1463520077,
+    "wof:name":"Perfecto Cleaners",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.24205,
+    31.055054,
+    -93.24205,
+    31.055054
+],
+  "geometry": {"coordinates":[-93.24205000000001,31.055054],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840374303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.004738,30.224382,-92.004738,30.224382",
+    "geom:latitude":30.224382,
+    "geom:longitude":-92.004738,
+    "iso:country":"US",
+    "sg:address":"502 12th St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 234 9600",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i0Z6f8GNiJseo3AAsKOpQ_30.224382_-92.004738@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530103,
+    "wof:geomhash":"5cab647987ab7e7cf44a9ebb6042ce56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840374303
+        }
+    ],
+    "wof:id":840374303,
+    "wof:lastmodified":1463530103,
+    "wof:name":"Fuselier's Janitorial Svc",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -92.004738,
+    30.224382,
+    -92.004738,
+    30.224382
+],
+  "geometry": {"coordinates":[-92.004738,30.224382],"type":"Point"}
+}

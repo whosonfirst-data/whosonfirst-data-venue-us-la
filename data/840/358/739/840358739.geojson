@@ -1,0 +1,73 @@
+{
+  "id": 840358739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.115189,32.505454,-92.115189,32.505454",
+    "geom:latitude":32.505454,
+    "geom:longitude":-92.115189,
+    "iso:country":"US",
+    "sg:address":"405 Washington St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 812 2000",
+    "sg:postcode":"71201",
+    "sg:province":"LA",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948223,
+        102081027,
+        85840783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rV87OCPAtskQLqU8DJr2m_32.505454_-92.115189@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529330,
+    "wof:geomhash":"76db2a6a92b5c454de54546073c3ccb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948223,
+            "neighbourhood_id":85840783,
+            "region_id":85688735,
+            "venue_id":840358739
+        }
+    ],
+    "wof:id":840358739,
+    "wof:lastmodified":1463529330,
+    "wof:name":"KMC Telecom",
+    "wof:parent_id":85840783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -92.115189,
+    32.505454,
+    -92.115189,
+    32.505454
+],
+  "geometry": {"coordinates":[-92.115189,32.505454],"type":"Point"}
+}

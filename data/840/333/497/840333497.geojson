@@ -1,0 +1,75 @@
+{
+  "id": 840333497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.049312,32.493568,-92.049312,32.493568",
+    "geom:latitude":32.493568,
+    "geom:longitude":-92.049312,
+    "iso:country":"US",
+    "sg:address":"5652 Frontage Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 345 3079",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U9opHV3ardrzy8BwZ5HEi_32.493568_-92.049312@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528099,
+    "wof:geomhash":"5fef9903a6c5ff2107864cac442d482d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840333497
+        }
+    ],
+    "wof:id":840333497,
+    "wof:lastmodified":1463528099,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -92.049312,
+    32.493568,
+    -92.049312,
+    32.493568
+],
+  "geometry": {"coordinates":[-92.049312,32.493568],"type":"Point"}
+}

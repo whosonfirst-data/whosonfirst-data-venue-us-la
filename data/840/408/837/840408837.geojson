@@ -1,0 +1,71 @@
+{
+  "id": 840408837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.252797,30.277929,-91.252797,30.277929",
+    "geom:latitude":30.277929,
+    "geom:longitude":-91.252797,
+    "iso:country":"US",
+    "sg:address":"59065 Bayou Rd",
+    "sg:city":"Plaquemine",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 625 2364",
+    "sg:postcode":"70764",
+    "sg:province":"LA",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948255,
+        102082457,
+        85852837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FtCvYoOsoejUIxgn2C639_30.277929_-91.252797@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531579,
+    "wof:geomhash":"0035af66aaeeebeb051895bed29003d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082457,
+            "locality_id":85948255,
+            "neighbourhood_id":85852837,
+            "region_id":85688735,
+            "venue_id":840408837
+        }
+    ],
+    "wof:id":840408837,
+    "wof:lastmodified":1463531579,
+    "wof:name":"Iberville Parish Sheriff's Ofc",
+    "wof:parent_id":85852837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -91.252797,
+    30.277929,
+    -91.252797,
+    30.277929
+],
+  "geometry": {"coordinates":[-91.252797,30.277929],"type":"Point"}
+}

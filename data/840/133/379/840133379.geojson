@@ -1,0 +1,73 @@
+{
+  "id": 840133379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.00505,30.276584,-92.00505,30.276584",
+    "geom:latitude":30.276584,
+    "geom:longitude":-92.00505,
+    "iso:country":"US",
+    "sg:address":"118 Kevin Dr",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 298 2838",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iPuZ0eZkmxlzSt7AK1loa_30.276584_-92.005050@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521918,
+    "wof:geomhash":"2199c982ff64d544eb2bc3156028a14a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840133379
+        }
+    ],
+    "wof:id":840133379,
+    "wof:lastmodified":1463521918,
+    "wof:name":"Ronnie Electric Service",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.00505,
+    30.276584,
+    -92.00505,
+    30.276584
+],
+  "geometry": {"coordinates":[-92.00505,30.276584],"type":"Point"}
+}

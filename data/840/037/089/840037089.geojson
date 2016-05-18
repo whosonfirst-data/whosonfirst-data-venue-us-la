@@ -1,0 +1,73 @@
+{
+  "id": 840037089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218723,30.199572,-93.218723,30.199572",
+    "geom:latitude":30.199572,
+    "geom:longitude":-93.218723,
+    "iso:country":"US",
+    "sg:address":"3224 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 2128",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_529nQSbtpQ8A9mSvMp1Hsk_30.199572_-93.218723@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519772,
+    "wof:geomhash":"1a5df48c27a71a297c5b2234d15d3e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840037089
+        }
+    ],
+    "wof:id":840037089,
+    "wof:lastmodified":1463519772,
+    "wof:name":"Precision Tune Auto Care",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.218723,
+    30.199572,
+    -93.218723,
+    30.199572
+],
+  "geometry": {"coordinates":[-93.218723,30.199572],"type":"Point"}
+}

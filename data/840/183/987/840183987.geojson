@@ -1,0 +1,75 @@
+{
+  "id": 840183987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.120198,29.893303,-90.120198,29.893303",
+    "geom:latitude":29.893303,
+    "geom:longitude":-90.120198,
+    "iso:country":"US",
+    "sg:address":"6621 Westbank Expy",
+    "sg:city":"Marrero",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 347 4688",
+    "sg:postcode":"70072",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948745,
+        102083179,
+        85866123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00D6lni8S0vuxcyi8bsD7P_29.893303_-90.120198@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522997,
+    "wof:geomhash":"e1d856c9864c2c159990389349bd7aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083179,
+            "locality_id":85948745,
+            "neighbourhood_id":85866123,
+            "region_id":85688735,
+            "venue_id":840183987
+        }
+    ],
+    "wof:id":840183987,
+    "wof:lastmodified":1463522997,
+    "wof:name":"Family Medicine Clinic",
+    "wof:parent_id":85866123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.120198,
+    29.893303,
+    -90.120198,
+    29.893303
+],
+  "geometry": {"coordinates":[-90.120198,29.893303],"type":"Point"}
+}

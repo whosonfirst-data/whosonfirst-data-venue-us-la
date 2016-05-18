@@ -1,0 +1,73 @@
+{
+  "id": 840329801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.209794,30.204226,-93.209794,30.204226",
+    "geom:latitude":30.204226,
+    "geom:longitude":-93.209794,
+    "iso:country":"US",
+    "sg:address":"2701 Kirkman St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 1489",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vveA9oteOd6hZP2dqWtNc_30.204226_-93.209794@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527939,
+    "wof:geomhash":"b13f49952ed22aac30861fb3c7d6dacd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840329801
+        }
+    ],
+    "wof:id":840329801,
+    "wof:lastmodified":1463527939,
+    "wof:name":"B & B Auto",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.209794,
+    30.204226,
+    -93.209794,
+    30.204226
+],
+  "geometry": {"coordinates":[-93.209794,30.204226],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 840275431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.746049,32.485478,-93.746049,32.485478",
+    "geom:latitude":32.485478,
+    "geom:longitude":-93.746049,
+    "iso:country":"US",
+    "sg:address":"2601 Line Ave",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 424 3291",
+    "sg:postcode":"71104",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85880983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ujFz0prBIU7sYhf7vrGfp_32.485478_-93.746049@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525407,
+    "wof:geomhash":"eae984a90e888d2bcfa8337e7860e474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85880983,
+            "region_id":85688735,
+            "venue_id":840275431
+        }
+    ],
+    "wof:id":840275431,
+    "wof:lastmodified":1463525407,
+    "wof:name":"Line Avenue Clinic",
+    "wof:parent_id":85880983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.746049,
+    32.485478,
+    -93.746049,
+    32.485478
+],
+  "geometry": {"coordinates":[-93.746049,32.485478],"type":"Point"}
+}

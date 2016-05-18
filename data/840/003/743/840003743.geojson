@@ -1,0 +1,75 @@
+{
+  "id": 840003743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.016585,30.403189,-91.016585,30.403189",
+    "geom:latitude":30.403189,
+    "geom:longitude":-91.016585,
+    "iso:country":"US",
+    "sg:address":"5441 Jones Creek Rd",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 755 8225",
+    "sg:postcode":"70817",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948697,
+        102087229,
+        85824817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3af7w6q3ZIDAR19pfFLRCj_30.403189_-91.016585@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519070,
+    "wof:geomhash":"1def33d6c4f62054fe056674a4378131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948697,
+            "neighbourhood_id":85824817,
+            "region_id":85688735,
+            "venue_id":840003743
+        }
+    ],
+    "wof:id":840003743,
+    "wof:lastmodified":1463519070,
+    "wof:name":"In The Doghouse",
+    "wof:parent_id":85824817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -91.016585,
+    30.403189,
+    -91.016585,
+    30.403189
+],
+  "geometry": {"coordinates":[-91.01658500000001,30.403189],"type":"Point"}
+}

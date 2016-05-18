@@ -1,0 +1,71 @@
+{
+  "id": 840340243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.205747,30.458919,-91.205747,30.458919",
+    "geom:latitude":30.458919,
+    "geom:longitude":-91.205747,
+    "iso:country":"US",
+    "sg:address":"740 N Jefferson Ave",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 343 5525",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948405,
+        102086695,
+        85809421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QoQCWVRU4sEjAYkDjrrs2_30.458919_-91.205747@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528424,
+    "wof:geomhash":"8f9630e10d9692efc5e7feaf699bec05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "locality_id":85948405,
+            "neighbourhood_id":85809421,
+            "region_id":85688735,
+            "venue_id":840340243
+        }
+    ],
+    "wof:id":840340243,
+    "wof:lastmodified":1463528424,
+    "wof:name":"Port Allen City Police Dept",
+    "wof:parent_id":85809421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.205747,
+    30.458919,
+    -91.205747,
+    30.458919
+],
+  "geometry": {"coordinates":[-91.205747,30.458919],"type":"Point"}
+}

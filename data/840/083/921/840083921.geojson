@@ -1,0 +1,73 @@
+{
+  "id": 840083921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.094826,29.971246,-90.094826,29.971246",
+    "geom:latitude":29.971246,
+    "geom:longitude":-90.094826,
+    "iso:country":"US",
+    "sg:address":"137 N Clark St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 488 8839",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NGDt08FFTXR57GPAn1h0f_29.971246_-90.094826@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520886,
+    "wof:geomhash":"efae96a290aed789e3c16a3281bab171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840083921
+        }
+    ],
+    "wof:id":840083921,
+    "wof:lastmodified":1463520886,
+    "wof:name":"Concerned Care Hospice",
+    "wof:parent_id":85869483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -90.094826,
+    29.971246,
+    -90.094826,
+    29.971246
+],
+  "geometry": {"coordinates":[-90.094826,29.971246],"type":"Point"}
+}

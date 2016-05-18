@@ -1,0 +1,71 @@
+{
+  "id": 840405061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.22319,30.192646,-93.22319,30.192646",
+    "geom:latitude":30.192646,
+    "geom:longitude":-93.22319,
+    "iso:country":"US",
+    "sg:address":"3501 Ernest St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 7077",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nC1A8WetUaDCSS3ldCBAL_30.192646_-93.223190@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531426,
+    "wof:geomhash":"b7c69ec0914646855fe6a6cb86647a0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840405061
+        }
+    ],
+    "wof:id":840405061,
+    "wof:lastmodified":1463531426,
+    "wof:name":"Heritage Baptist Church",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.22319,
+    30.192646,
+    -93.22319,
+    30.192646
+],
+  "geometry": {"coordinates":[-93.22319,30.192646],"type":"Point"}
+}

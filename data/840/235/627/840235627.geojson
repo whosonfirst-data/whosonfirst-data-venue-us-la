@@ -1,0 +1,71 @@
+{
+  "id": 840235627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.448853,30.451256,-93.448853,30.451256",
+    "geom:latitude":30.451256,
+    "geom:longitude":-93.448853,
+    "iso:country":"US",
+    "sg:address":"1601 W 4th St",
+    "sg:city":"Dequincy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 786 4373",
+    "sg:postcode":"70633",
+    "sg:province":"LA",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QAx4ZTOHLfrlxCbvA31pl_30.451256_-93.448853@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524262,
+    "wof:geomhash":"1a4fc009ec1047014ef6e1b0538ec50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840235627
+        }
+    ],
+    "wof:id":840235627,
+    "wof:lastmodified":1463524262,
+    "wof:name":"Western Garden Apartments",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.448853,
+    30.451256,
+    -93.448853,
+    30.451256
+],
+  "geometry": {"coordinates":[-93.448853,30.451256],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840215297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.060738,30.191553,-92.060738,30.191553",
+    "geom:latitude":30.191553,
+    "geom:longitude":-92.060738,
+    "iso:country":"US",
+    "sg:address":"4507 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 984 3812",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_038FgvTOigTjc8o60yHnpO_30.191553_-92.060738@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523735,
+    "wof:geomhash":"31cb7eab42db408b3445ab9773ca8063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840215297
+        }
+    ],
+    "wof:id":840215297,
+    "wof:lastmodified":1463523735,
+    "wof:name":"Hardy's One Hour Cleaners",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.060738,
+    30.191553,
+    -92.060738,
+    30.191553
+],
+  "geometry": {"coordinates":[-92.060738,30.191553],"type":"Point"}
+}

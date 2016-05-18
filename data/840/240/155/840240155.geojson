@@ -1,0 +1,73 @@
+{
+  "id": 840240155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.510121,31.549508,-93.510121,31.549508",
+    "geom:latitude":31.549508,
+    "geom:longitude":-93.510121,
+    "iso:country":"US",
+    "sg:address":"1837 Texas Hwy",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 2608",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVEft3WyOldGKFE5FhUbX_31.549508_-93.510121@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524368,
+    "wof:geomhash":"dfecef1e516a472214325ccdc51b9e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840240155
+        }
+    ],
+    "wof:id":840240155,
+    "wof:lastmodified":1463524368,
+    "wof:name":"Many Veterinary Hospital",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -93.510121,
+    31.549508,
+    -93.510121,
+    31.549508
+],
+  "geometry": {"coordinates":[-93.510121,31.549508],"type":"Point"}
+}

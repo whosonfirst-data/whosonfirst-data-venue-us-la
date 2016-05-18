@@ -1,0 +1,71 @@
+{
+  "id": 840053429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.255658,30.150814,-93.255658,30.150814",
+    "geom:latitude":30.150814,
+    "geom:longitude":-93.255658,
+    "iso:country":"US",
+    "sg:address":"5714 Larch St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 526 4828",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rFD4FApuQridF4DkcgTMK_30.150814_-93.255658@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520116,
+    "wof:geomhash":"20e0a76cfa7c570dae4979ec801efafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840053429
+        }
+    ],
+    "wof:id":840053429,
+    "wof:lastmodified":1463520116,
+    "wof:name":"Amy Custom Trim LLC",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -93.255658,
+    30.150814,
+    -93.255658,
+    30.150814
+],
+  "geometry": {"coordinates":[-93.255658,30.150814],"type":"Point"}
+}

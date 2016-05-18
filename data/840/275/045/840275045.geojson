@@ -1,0 +1,73 @@
+{
+  "id": 840275045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.451559,31.298507,-92.451559,31.298507",
+    "geom:latitude":31.298507,
+    "geom:longitude":-92.451559,
+    "iso:country":"US",
+    "sg:address":"1911 Lee St",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 442 1009",
+    "sg:postcode":"71301",
+    "sg:province":"LA",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51L0dOwx9e2vmgES9ejHFm_31.298507_-92.451559@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525392,
+    "wof:geomhash":"3fb0bd6d65fbf3a166fbbdbaf18e3e05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840275045
+        }
+    ],
+    "wof:id":840275045,
+    "wof:lastmodified":1463525392,
+    "wof:name":"Burrco Machine Works",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.451559,
+    31.298507,
+    -92.451559,
+    31.298507
+],
+  "geometry": {"coordinates":[-92.451559,31.298507],"type":"Point"}
+}

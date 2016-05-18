@@ -1,0 +1,73 @@
+{
+  "id": 840408103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.775323,32.465802,-93.775323,32.465802",
+    "geom:latitude":32.465802,
+    "geom:longitude":-93.775323,
+    "iso:country":"US",
+    "sg:address":"4730 Mansfield Rd",
+    "sg:city":"Shreveport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 631 1421",
+    "sg:postcode":"71108",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85947819,
+        102087235,
+        85881005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oFIXN3jJB7J2CpuVwhXhz_32.465802_-93.775323@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531548,
+    "wof:geomhash":"d1d646304f21dd65184b0ae44ea5a712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85881005,
+            "region_id":85688735,
+            "venue_id":840408103
+        }
+    ],
+    "wof:id":840408103,
+    "wof:lastmodified":1463531548,
+    "wof:name":"Werner Park Grocery",
+    "wof:parent_id":85881005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.775323,
+    32.465802,
+    -93.775323,
+    32.465802
+],
+  "geometry": {"coordinates":[-93.775323,32.465802],"type":"Point"}
+}

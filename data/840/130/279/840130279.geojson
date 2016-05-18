@@ -1,0 +1,73 @@
+{
+  "id": 840130279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.197282,30.264381,-93.197282,30.264381",
+    "geom:latitude":30.264381,
+    "geom:longitude":-93.197282,
+    "iso:country":"US",
+    "sg:address":"1725 Fitzenreiter Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 1999",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HO76KJEnIfwtfGchE3Sc2_30.264381_-93.197282@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521851,
+    "wof:geomhash":"fd1d653f83f482742e87ff75207bf388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840130279
+        }
+    ],
+    "wof:id":840130279,
+    "wof:lastmodified":1463521851,
+    "wof:name":"South Louisiana Cement",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.197282,
+    30.264381,
+    -93.197282,
+    30.264381
+],
+  "geometry": {"coordinates":[-93.197282,30.264381],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 840395567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.018806,30.217479,-92.018806,30.217479",
+    "geom:latitude":30.217479,
+    "geom:longitude":-92.018806,
+    "iso:country":"US",
+    "sg:address":"1119 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 235 9200",
+    "sg:postcode":"70501",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948377,
+        102081919,
+        85803337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XBjKWueXM1w25cvZxv40x_30.217479_-92.018806@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531038,
+    "wof:geomhash":"14f2d958bd3748cc32b5da06fef0def1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85803337,
+            "region_id":85688735,
+            "venue_id":840395567
+        }
+    ],
+    "wof:id":840395567,
+    "wof:lastmodified":1463531038,
+    "wof:name":"Tobacco Plant",
+    "wof:parent_id":85803337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.018806,
+    30.217479,
+    -92.018806,
+    30.217479
+],
+  "geometry": {"coordinates":[-92.018806,30.217479],"type":"Point"}
+}

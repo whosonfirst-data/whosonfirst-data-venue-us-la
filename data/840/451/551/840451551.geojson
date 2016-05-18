@@ -1,0 +1,73 @@
+{
+  "id": 840451551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.817497,29.998899,-91.817497,29.998899",
+    "geom:latitude":29.998899,
+    "geom:longitude":-91.817497,
+    "iso:country":"US",
+    "sg:address":"505 Bank Ave",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 369 3141",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WJ5bmIvUCf2Yb5Mg1UK49_29.998710_-91.817986@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533366,
+    "wof:geomhash":"5491b5c977e813f25bdf26129741716b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840451551
+        }
+    ],
+    "wof:id":840451551,
+    "wof:lastmodified":1463533366,
+    "wof:name":"C & B Auto Body Shop",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.817497,
+    29.998899,
+    -91.817497,
+    29.998899
+],
+  "geometry": {"coordinates":[-91.817497,29.998899],"type":"Point"}
+}

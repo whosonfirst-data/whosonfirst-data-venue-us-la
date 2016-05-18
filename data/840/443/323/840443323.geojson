@@ -1,0 +1,68 @@
+{
+  "id": 840443323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.109143,30.015721,-90.109143,30.015721",
+    "geom:latitude":30.015721,
+    "geom:longitude":-90.109143,
+    "iso:country":"US",
+    "sg:address":"6818 Louisville St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 288 2660",
+    "sg:postcode":"70124",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85829431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PDzkWyu2I4rSYhwUIq85g_30.015721_-90.109143@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463533027,
+    "wof:geomhash":"6d47fc50765c68434e83b794410387bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85829431,
+            "region_id":85688735,
+            "venue_id":840443323
+        }
+    ],
+    "wof:id":840443323,
+    "wof:lastmodified":1463533027,
+    "wof:name":"Metro Meats",
+    "wof:parent_id":85829431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.109143,
+    30.015721,
+    -90.109143,
+    30.015721
+],
+  "geometry": {"coordinates":[-90.109143,30.015721],"type":"Point"}
+}

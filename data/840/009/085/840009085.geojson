@@ -1,0 +1,71 @@
+{
+  "id": 840009085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.512423,29.803749,-91.512423,29.803749",
+    "geom:latitude":29.803749,
+    "geom:longitude":-91.512423,
+    "iso:country":"US",
+    "sg:address":"1411 Barrow St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 413 0200",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dOlWJAzXs4qC9RDhi0fjR_29.803749_-91.512423@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519189,
+    "wof:geomhash":"b25c72af67296d40f3f4be0d64ea3678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840009085
+        }
+    ],
+    "wof:id":840009085,
+    "wof:lastmodified":1463519189,
+    "wof:name":"Four D",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -91.512423,
+    29.803749,
+    -91.512423,
+    29.803749
+],
+  "geometry": {"coordinates":[-91.512423,29.803749],"type":"Point"}
+}

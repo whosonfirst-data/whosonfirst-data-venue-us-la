@@ -1,0 +1,78 @@
+{
+  "id": 840199929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.065122,29.960662,-90.065122,29.960662",
+    "geom:latitude":29.960662,
+    "geom:longitude":-90.065122,
+    "iso:country":"US",
+    "sg:address":"820 Dauphine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 525 3860",
+    "sg:postcode":"70116",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866105,
+        85853777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27xWjMU809EVAIDrVYFKOR_29.960662_-90.065122@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523329,
+    "wof:geomhash":"2fc9f29a4a26cbf0f18e8f9a5089dfde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866105,
+            "region_id":85688735,
+            "venue_id":840199929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85853777,
+            "region_id":85688735,
+            "venue_id":840199929
+        }
+    ],
+    "wof:id":840199929,
+    "wof:lastmodified":1463523329,
+    "wof:name":"St Louis Cathedral School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.065122,
+    29.960662,
+    -90.065122,
+    29.960662
+],
+  "geometry": {"coordinates":[-90.065122,29.960662],"type":"Point"}
+}

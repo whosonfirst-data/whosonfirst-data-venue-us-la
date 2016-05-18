@@ -1,0 +1,80 @@
+{
+  "id": 840060569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.912369,30.070152,-91.912369,30.070152",
+    "geom:latitude":30.070152,
+    "geom:longitude":-91.912369,
+    "iso:country":"US",
+    "sg:address":"7313 Boyance Rd",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 365 3400",
+    "sg:postcode":"70560",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v2XmxVWMIvMFvgLA50NTH_30.070152_-91.912369@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520288,
+    "wof:geomhash":"b2ba631429738841d07b8953ff51930e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840060569
+        }
+    ],
+    "wof:id":840060569,
+    "wof:lastmodified":1463520288,
+    "wof:name":"Auto Brokers Of Southwest LA",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.912369,
+    30.070152,
+    -91.912369,
+    30.070152
+],
+  "geometry": {"coordinates":[-91.912369,30.070152],"type":"Point"}
+}

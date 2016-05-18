@@ -1,0 +1,71 @@
+{
+  "id": 840060005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.687073,32.906479,-93.687073,32.906479",
+    "geom:latitude":32.906479,
+    "geom:longitude":-93.687073,
+    "iso:country":"US",
+    "sg:address":"2014 Hwy 2",
+    "sg:city":"Plain Dealing",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 326 7006",
+    "sg:postcode":"71064",
+    "sg:province":"LA",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85808045,
+        102084883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BC0u2JTtshUYrPSPrVawV_32.906479_-93.687073@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463520272,
+    "wof:geomhash":"5b58b0873aa20ba8f29142017104e3e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084883,
+            "neighbourhood_id":85808045,
+            "region_id":85688735,
+            "venue_id":840060005
+        }
+    ],
+    "wof:id":840060005,
+    "wof:lastmodified":1463520272,
+    "wof:name":"Bradford's Carwash",
+    "wof:parent_id":85808045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.687073,
+    32.906479,
+    -93.687073,
+    32.906479
+],
+  "geometry": {"coordinates":[-93.687073,32.906479],"type":"Point"}
+}

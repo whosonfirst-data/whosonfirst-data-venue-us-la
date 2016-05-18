@@ -1,0 +1,71 @@
+{
+  "id": 840279495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.893612,32.583019,-93.893612,32.583019",
+    "geom:latitude":32.583019,
+    "geom:longitude":-93.893612,
+    "iso:country":"US",
+    "sg:address":"110 N Main St",
+    "sg:city":"Blanchard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 929 7593",
+    "sg:postcode":"71009",
+    "sg:province":"LA",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947819,
+        102087235,
+        85825193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vh6pZNqPnLRDxbwx7w6hE_32.583019_-93.893612@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463525596,
+    "wof:geomhash":"8ddf8a175f2e56ac6c2c8d9e55905c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087235,
+            "locality_id":85947819,
+            "neighbourhood_id":85825193,
+            "region_id":85688735,
+            "venue_id":840279495
+        }
+    ],
+    "wof:id":840279495,
+    "wof:lastmodified":1463525596,
+    "wof:name":"Blanchard Mayor's Office",
+    "wof:parent_id":85825193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -93.893612,
+    32.583019,
+    -93.893612,
+    32.583019
+],
+  "geometry": {"coordinates":[-93.893612,32.583019],"type":"Point"}
+}

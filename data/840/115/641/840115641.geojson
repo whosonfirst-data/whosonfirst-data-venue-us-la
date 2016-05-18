@@ -1,0 +1,73 @@
+{
+  "id": 840115641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.269475,31.020623,-93.269475,31.020623",
+    "geom:latitude":31.020623,
+    "geom:longitude":-93.269475,
+    "iso:country":"US",
+    "sg:address":"11822 Lake Charles Hwy",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 9548",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HHvQB4GSdBNKHh1ZzBVvZ_31.020623_-93.269475@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521548,
+    "wof:geomhash":"9ff8ed6c0d9fc764e798c44415bd5e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840115641
+        }
+    ],
+    "wof:id":840115641,
+    "wof:lastmodified":1463521548,
+    "wof:name":"Classic Locksmith",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -93.269475,
+    31.020623,
+    -93.269475,
+    31.020623
+],
+  "geometry": {"coordinates":[-93.269475,31.020623],"type":"Point"}
+}

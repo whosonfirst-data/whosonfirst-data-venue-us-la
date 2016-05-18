@@ -1,0 +1,75 @@
+{
+  "id": 840016351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.211882,30.154805,-93.211882,30.154805",
+    "geom:latitude":30.154805,
+    "geom:longitude":-93.211882,
+    "iso:country":"US",
+    "sg:address":"747 Murbelle Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 4791",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Agb1GaxaqU70Rc6eJ2NH_30.154805_-93.211882@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519337,
+    "wof:geomhash":"f0909221a71fe867e334e4d98534831b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840016351
+        }
+    ],
+    "wof:id":840016351,
+    "wof:lastmodified":1463519337,
+    "wof:name":"Jerry's Body Shop",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.211882,
+    30.154805,
+    -93.211882,
+    30.154805
+],
+  "geometry": {"coordinates":[-93.211882,30.154805],"type":"Point"}
+}

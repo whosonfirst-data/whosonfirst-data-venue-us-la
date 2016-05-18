@@ -1,0 +1,73 @@
+{
+  "id": 840099067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.01022,30.016253,-90.01022,30.016253",
+    "geom:latitude":30.016253,
+    "geom:longitude":-90.01022,
+    "iso:country":"US",
+    "sg:address":"4563 Dale St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 244 7266",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I4jV8LbEqGw51HRdPhP4J_30.016253_-90.010220@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521192,
+    "wof:geomhash":"fffe30525e66161227b1fdeda1b623b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840099067
+        }
+    ],
+    "wof:id":840099067,
+    "wof:lastmodified":1463521192,
+    "wof:name":"Dale Street Grocery",
+    "wof:parent_id":85866169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.01022,
+    30.016253,
+    -90.01022,
+    30.016253
+],
+  "geometry": {"coordinates":[-90.01022,30.016253],"type":"Point"}
+}

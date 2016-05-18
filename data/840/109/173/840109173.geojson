@@ -1,0 +1,75 @@
+{
+  "id": 840109173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.085366,29.968081,-90.085366,29.968081",
+    "geom:latitude":29.968081,
+    "geom:longitude":-90.085366,
+    "iso:country":"US",
+    "sg:address":"315 N Broad St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 822 3363",
+    "sg:postcode":"70119",
+    "sg:province":"LA",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85869283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63kBRcyNzESKb3KAtpmmQG_29.968081_-90.085366@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521414,
+    "wof:geomhash":"45731e0b8d03c1c1a928dc0b67fc5b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85869283,
+            "region_id":85688735,
+            "venue_id":840109173
+        }
+    ],
+    "wof:id":840109173,
+    "wof:lastmodified":1463521414,
+    "wof:name":"City Cleaners",
+    "wof:parent_id":85869283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -90.085366,
+    29.968081,
+    -90.085366,
+    29.968081
+],
+  "geometry": {"coordinates":[-90.08536599999999,29.968081],"type":"Point"}
+}

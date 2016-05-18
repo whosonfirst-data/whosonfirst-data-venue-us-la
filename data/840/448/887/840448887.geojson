@@ -1,0 +1,71 @@
+{
+  "id": 840448887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.9599,29.950001,-89.9599,29.950001",
+    "geom:latitude":29.950001,
+    "geom:longitude":-89.9599,
+    "iso:country":"US",
+    "sg:address":"3358 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 270 0620",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nNeC1kG1Ewos9n6cJNZVz_29.949380_-89.960344@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533247,
+    "wof:geomhash":"f2b05b81e25afb69189260e598971042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840448887
+        }
+    ],
+    "wof:id":840448887,
+    "wof:lastmodified":1463533247,
+    "wof:name":"Cafe Roma",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.9599,
+    29.950001,
+    -89.9599,
+    29.950001
+],
+  "geometry": {"coordinates":[-89.9599,29.950001],"type":"Point"}
+}

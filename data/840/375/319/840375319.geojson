@@ -1,0 +1,71 @@
+{
+  "id": 840375319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.100285,30.398785,-91.100285,30.398785",
+    "geom:latitude":30.398785,
+    "geom:longitude":-91.100285,
+    "iso:country":"US",
+    "sg:address":"8212 Summa Ave",
+    "sg:city":"Baton Rouge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 769 4403",
+    "sg:postcode":"70809",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85807101,
+        102087229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rlpIX7qVZDj8RhW9Um2qT_30.398785_-91.100285@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530142,
+    "wof:geomhash":"71d11ed85191d1f64a981fdeb24d1977",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "neighbourhood_id":85807101,
+            "region_id":85688735,
+            "venue_id":840375319
+        }
+    ],
+    "wof:id":840375319,
+    "wof:lastmodified":1463530142,
+    "wof:name":"Anesthesiology Group Assoc",
+    "wof:parent_id":85807101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.100285,
+    30.398785,
+    -91.100285,
+    30.398785
+],
+  "geometry": {"coordinates":[-91.100285,30.398785],"type":"Point"}
+}

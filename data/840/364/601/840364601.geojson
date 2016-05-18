@@ -1,0 +1,71 @@
+{
+  "id": 840364601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.964367,29.941112,-89.964367,29.941112",
+    "geom:latitude":29.941112,
+    "geom:longitude":-89.964367,
+    "iso:country":"US",
+    "sg:address":"2432 Paris Rd",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 279 4344",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27LmOOqDGKPuWVVYEqlQNp_29.941112_-89.964367@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529620,
+    "wof:geomhash":"7887a30f8093bf66fd073c5e8fc859f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840364601
+        }
+    ],
+    "wof:id":840364601,
+    "wof:lastmodified":1463529620,
+    "wof:name":"Louis P Nogues III Inc",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.964367,
+    29.941112,
+    -89.964367,
+    29.941112
+],
+  "geometry": {"coordinates":[-89.964367,29.941112],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840100735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.178362,30.246015,-93.178362,30.246015",
+    "geom:latitude":30.246015,
+    "geom:longitude":-93.178362,
+    "iso:country":"US",
+    "sg:address":"530 N Grace St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 436 0028",
+    "sg:postcode":"70615",
+    "sg:province":"LA",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31kqnGBASVLDDqCiXOqIqB_30.246015_-93.178362@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463521232,
+    "wof:geomhash":"5dbb04b9ab88f185bd80039972142409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840100735
+        }
+    ],
+    "wof:id":840100735,
+    "wof:lastmodified":1463521232,
+    "wof:name":"Atomic Towing & Recovery",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -93.178362,
+    30.246015,
+    -93.178362,
+    30.246015
+],
+  "geometry": {"coordinates":[-93.17836200000001,30.246015],"type":"Point"}
+}

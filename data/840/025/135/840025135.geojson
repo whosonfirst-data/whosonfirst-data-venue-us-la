@@ -1,0 +1,71 @@
+{
+  "id": 840025135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.084236,30.162948,-92.084236,30.162948",
+    "geom:latitude":30.162948,
+    "geom:longitude":-92.084236,
+    "iso:country":"US",
+    "sg:address":"6185 Johnston St",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 988 5718",
+    "sg:postcode":"70503",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85865249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PhloaoeQ2u3x7F8cBOM5q_30.162948_-92.084236@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519507,
+    "wof:geomhash":"917c6117d0a17b736e9ac16f4bb60889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85865249,
+            "region_id":85688735,
+            "venue_id":840025135
+        }
+    ],
+    "wof:id":840025135,
+    "wof:lastmodified":1463519507,
+    "wof:name":"Camellia Cleaners",
+    "wof:parent_id":85865249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -92.084236,
+    30.162948,
+    -92.084236,
+    30.162948
+],
+  "geometry": {"coordinates":[-92.084236,30.162948],"type":"Point"}
+}

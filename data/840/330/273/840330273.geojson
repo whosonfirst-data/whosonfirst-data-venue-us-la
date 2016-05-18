@@ -1,0 +1,73 @@
+{
+  "id": 840330273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.075702,29.930279,-90.075702,29.930279",
+    "geom:latitude":29.930279,
+    "geom:longitude":-90.075702,
+    "iso:country":"US",
+    "sg:address":"2000 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 523 7446",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KrLWLs1Rb3mwJZMKbQbRy_29.930279_-90.075702@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527959,
+    "wof:geomhash":"0fde98335ce57a97f4b36da726395f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840330273
+        }
+    ],
+    "wof:id":840330273,
+    "wof:lastmodified":1463527959,
+    "wof:name":"Magazine Discount Market",
+    "wof:parent_id":85831571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.075702,
+    29.930279,
+    -90.075702,
+    29.930279
+],
+  "geometry": {"coordinates":[-90.07570200000001,29.930279],"type":"Point"}
+}

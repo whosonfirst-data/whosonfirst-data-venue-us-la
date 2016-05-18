@@ -1,0 +1,71 @@
+{
+  "id": 840294623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.735892,30.041534,-91.735892,30.041534",
+    "geom:latitude":30.041534,
+    "geom:longitude":-91.735892,
+    "iso:country":"US",
+    "sg:address":"2212 B St",
+    "sg:city":"New Iberia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 229 6015",
+    "sg:postcode":"70563",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948451,
+        102084881,
+        85851347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pMwOo8jejpHzXGcc60G46_30.041534_-91.735892@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526261,
+    "wof:geomhash":"787bb03c8d616e1d135f165c12f182bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084881,
+            "locality_id":85948451,
+            "neighbourhood_id":85851347,
+            "region_id":85688735,
+            "venue_id":840294623
+        }
+    ],
+    "wof:id":840294623,
+    "wof:lastmodified":1463526261,
+    "wof:name":"Broussard Trucking Inc",
+    "wof:parent_id":85851347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.735892,
+    30.041534,
+    -91.735892,
+    30.041534
+],
+  "geometry": {"coordinates":[-91.73589200000001,30.041534],"type":"Point"}
+}

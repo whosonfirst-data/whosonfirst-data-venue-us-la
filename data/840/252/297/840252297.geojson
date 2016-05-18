@@ -1,0 +1,71 @@
+{
+  "id": 840252297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.23245,30.18027,-93.23245,30.18027",
+    "geom:latitude":30.18027,
+    "geom:longitude":-93.23245,
+    "iso:country":"US",
+    "sg:address":"4444 Lake St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 430 5498",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mKC7NZ10k9o3zNr8ht5xN_30.180270_-93.232450@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524657,
+    "wof:geomhash":"fa85fa72f44a639b21a66c52725bbc34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840252297
+        }
+    ],
+    "wof:id":840252297,
+    "wof:lastmodified":1463524657,
+    "wof:name":"Christus St Patrick Home Care",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -93.23245,
+    30.18027,
+    -93.23245,
+    30.18027
+],
+  "geometry": {"coordinates":[-93.23245,30.18027],"type":"Point"}
+}

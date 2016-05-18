@@ -1,0 +1,66 @@
+{
+  "id": 840405403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.192995,30.233448,-93.192995,30.233448",
+    "geom:latitude":30.233448,
+    "geom:longitude":-93.192995,
+    "iso:country":"US",
+    "sg:address":"1925 Evans St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 437 9008",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K4EM9MUHb3RZgXz9WFfQJ_30.233448_-93.192995@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531438,
+    "wof:geomhash":"4b8bd1076ed5b501a8b27f52c88056ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840405403
+        }
+    ],
+    "wof:id":840405403,
+    "wof:lastmodified":1463531438,
+    "wof:name":"Evan's Street Grocery",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.192995,
+    30.233448,
+    -93.192995,
+    30.233448
+],
+  "geometry": {"coordinates":[-93.192995,30.233448],"type":"Point"}
+}

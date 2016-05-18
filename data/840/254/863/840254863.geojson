@@ -1,0 +1,73 @@
+{
+  "id": 840254863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218582,30.204388,-93.218582,30.204388",
+    "geom:latitude":30.204388,
+    "geom:longitude":-93.218582,
+    "iso:country":"US",
+    "sg:address":"2801 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 7464",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yRh1y80Gs5iyeUuJIJ5nX_30.204388_-93.218582@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524715,
+    "wof:geomhash":"d43b1d40e7401c9098378aa16962c240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840254863
+        }
+    ],
+    "wof:id":840254863,
+    "wof:lastmodified":1463524715,
+    "wof:name":"Carl's Rentals",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -93.218582,
+    30.204388,
+    -93.218582,
+    30.204388
+],
+  "geometry": {"coordinates":[-93.218582,30.204388],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840334379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.09692,32.497183,-92.09692,32.497183",
+    "geom:latitude":32.497183,
+    "geom:longitude":-92.09692,
+    "iso:country":"US",
+    "sg:address":"1511 Orange St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 322 9224",
+    "sg:postcode":"71202",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948231,
+        102081027,
+        85816661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EhAl9fMzKZFm8pTD6x09i_32.497183_-92.096920@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528149,
+    "wof:geomhash":"35818105bed86b5129c24d795edc7151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081027,
+            "locality_id":85948231,
+            "neighbourhood_id":85816661,
+            "region_id":85688735,
+            "venue_id":840334379
+        }
+    ],
+    "wof:id":840334379,
+    "wof:lastmodified":1463528149,
+    "wof:name":"Primary Health Svc Ctr",
+    "wof:parent_id":85816661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.09692,
+    32.497183,
+    -92.09692,
+    32.497183
+],
+  "geometry": {"coordinates":[-92.09692,32.497183],"type":"Point"}
+}

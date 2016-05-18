@@ -1,0 +1,73 @@
+{
+  "id": 840305801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.208875,30.176268,-93.208875,30.176268",
+    "geom:latitude":30.176268,
+    "geom:longitude":-93.208875,
+    "iso:country":"US",
+    "sg:address":"803 E McNeese St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 9211",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jWKbCBEhXsGM69jeKVc5r_30.176268_-93.208875@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526797,
+    "wof:geomhash":"d5f4d4f451280d81f71b0e90f9345199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840305801
+        }
+    ],
+    "wof:id":840305801,
+    "wof:lastmodified":1463526797,
+    "wof:name":"Mc Neese Auto Outlet",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -93.208875,
+    30.176268,
+    -93.208875,
+    30.176268
+],
+  "geometry": {"coordinates":[-93.20887500000001,30.176268],"type":"Point"}
+}

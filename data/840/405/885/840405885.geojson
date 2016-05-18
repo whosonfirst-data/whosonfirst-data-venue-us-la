@@ -1,0 +1,71 @@
+{
+  "id": 840405885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218579,30.205813,-93.218579,30.205813",
+    "geom:latitude":30.205813,
+    "geom:longitude":-93.218579,
+    "iso:country":"US",
+    "sg:address":"2605 Ryan St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 3834",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vfXLrKML5d2gwzROmYkC6_30.205813_-93.218579@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531457,
+    "wof:geomhash":"0b3d387dc0413eff260c1e6c449195b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840405885
+        }
+    ],
+    "wof:id":840405885,
+    "wof:lastmodified":1463531457,
+    "wof:name":"Runte Lake Cleaners",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -93.218579,
+    30.205813,
+    -93.218579,
+    30.205813
+],
+  "geometry": {"coordinates":[-93.21857900000001,30.205813],"type":"Point"}
+}

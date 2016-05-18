@@ -1,0 +1,72 @@
+{
+  "id": 840457505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.037497,30.253719,-92.037497,30.253719",
+    "geom:latitude":30.253719,
+    "geom:longitude":-92.037497,
+    "iso:country":"US",
+    "sg:address":"1800 N University Ave",
+    "sg:city":"Lafayette",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/lafayette/136386-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 269 0694",
+    "sg:postcode":"70507",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48hvVru0KvacTR3lj6aTTL_30.254248_-92.037821@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463533596,
+    "wof:geomhash":"ac55628f827cd93ce6898c07fc95d6e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840457505
+        }
+    ],
+    "wof:id":840457505,
+    "wof:lastmodified":1463533596,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -92.037497,
+    30.253719,
+    -92.037497,
+    30.253719
+],
+  "geometry": {"coordinates":[-92.037497,30.253719],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 840324173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.500214,31.26658,-92.500214,31.26658",
+    "geom:latitude":31.26658,
+    "geom:longitude":-92.500214,
+    "iso:country":"US",
+    "sg:address":"502 Twin Bridges Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 487 4545",
+    "sg:postcode":"71303",
+    "sg:province":"LA",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948343,
+        102081039,
+        85802677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kHTsDZnxumTz6eLn36sxD_31.266580_-92.500214@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463527684,
+    "wof:geomhash":"fb5ec30d1e932918ffb84991fc1fbcbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081039,
+            "locality_id":85948343,
+            "neighbourhood_id":85802677,
+            "region_id":85688735,
+            "venue_id":840324173
+        }
+    ],
+    "wof:id":840324173,
+    "wof:lastmodified":1463527684,
+    "wof:name":"Inner Space Storage",
+    "wof:parent_id":85802677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -92.500214,
+    31.26658,
+    -92.500214,
+    31.26658
+],
+  "geometry": {"coordinates":[-92.500214,31.26658],"type":"Point"}
+}

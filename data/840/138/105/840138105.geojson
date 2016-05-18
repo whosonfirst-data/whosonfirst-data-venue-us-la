@@ -1,0 +1,72 @@
+{
+  "id": 840138105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.192237,30.242224,-93.192237,30.242224",
+    "geom:latitude":30.242224,
+    "geom:longitude":-93.192237,
+    "iso:country":"US",
+    "sg:address":"2000 Opelousas St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 439 9983",
+    "sg:postcode":"70601",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.swlahealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85822313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yb9jTj3YD97HyHGMfQmAD_30.242224_-93.192237@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522011,
+    "wof:geomhash":"03bf89084e1c6d10976989dc93858122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85822313,
+            "region_id":85688735,
+            "venue_id":840138105
+        }
+    ],
+    "wof:id":840138105,
+    "wof:lastmodified":1463522011,
+    "wof:name":"Southwest LA Ctr For Hlth Svc",
+    "wof:parent_id":85822313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.192237,
+    30.242224,
+    -93.192237,
+    30.242224
+],
+  "geometry": {"coordinates":[-93.19223700000001,30.242224],"type":"Point"}
+}

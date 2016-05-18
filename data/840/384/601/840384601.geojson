@@ -1,0 +1,83 @@
+{
+  "id": 840384601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.075224,29.930537,-90.075224,29.930537",
+    "geom:latitude":29.930537,
+    "geom:longitude":-90.075224,
+    "iso:country":"US",
+    "sg:address":"2048 Magazine St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 299 8777",
+    "sg:postcode":"70130",
+    "sg:province":"LA",
+    "sg:tags":[
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866109,
+        85831571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zCReRMI4XmeYP8RMly8q4_29.930537_-90.075224@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530574,
+    "wof:geomhash":"5cc9c11b9d4c8920a6f503f7c74c4ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840384601
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840384601
+        }
+    ],
+    "wof:id":840384601,
+    "wof:lastmodified":1463530574,
+    "wof:name":"Trashy Diva",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -90.075224,
+    29.930537,
+    -90.075224,
+    29.930537
+],
+  "geometry": {"coordinates":[-90.07522400000001,29.930537],"type":"Point"}
+}

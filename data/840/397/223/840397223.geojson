@@ -1,0 +1,69 @@
+{
+  "id": 840397223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.247871,30.496649,-91.247871,30.496649",
+    "geom:latitude":30.496649,
+    "geom:longitude":-91.247871,
+    "iso:country":"US",
+    "sg:address":"2905 Hwy 190 W",
+    "sg:city":"Port Allen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 344 4600",
+    "sg:postcode":"70767",
+    "sg:province":"LA",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85853173,
+        102086695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QYSJO2E3oo95YCHkq4hNJ_30.496649_-91.247871@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463531102,
+    "wof:geomhash":"13678abf4aa16bf2f133b1b353f246cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086695,
+            "neighbourhood_id":85853173,
+            "region_id":85688735,
+            "venue_id":840397223
+        }
+    ],
+    "wof:id":840397223,
+    "wof:lastmodified":1463531102,
+    "wof:name":"Baton Rouge Truck Ctr",
+    "wof:parent_id":85853173,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.247871,
+    30.496649,
+    -91.247871,
+    30.496649
+],
+  "geometry": {"coordinates":[-91.247871,30.496649],"type":"Point"}
+}

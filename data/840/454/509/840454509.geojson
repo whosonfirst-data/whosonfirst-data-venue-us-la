@@ -1,0 +1,73 @@
+{
+  "id": 840454509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.509737,29.80887,-91.509737,29.80887",
+    "geom:latitude":29.80887,
+    "geom:longitude":-91.509737,
+    "iso:country":"US",
+    "sg:address":"1900 Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/franklin/188312-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WM2d4PHV2ytkfzPHa8X9J_29.808870_-91.509737@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533487,
+    "wof:geomhash":"bea830aae445d36aebcce0a5746f6527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840454509
+        }
+    ],
+    "wof:id":840454509,
+    "wof:lastmodified":1463533487,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.509737,
+    29.80887,
+    -91.509737,
+    29.80887
+],
+  "geometry": {"coordinates":[-91.509737,29.80887],"type":"Point"}
+}

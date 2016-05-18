@@ -1,0 +1,73 @@
+{
+  "id": 840008193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.247818,30.182197,-93.247818,30.182197",
+    "geom:latitude":30.182197,
+    "geom:longitude":-93.247818,
+    "iso:country":"US",
+    "sg:address":"1712 Melvin Ln",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 6447",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kgfiIGeUKIQza7iRdL4Yg_30.182197_-93.247818@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519170,
+    "wof:geomhash":"4caf6b683db16bae2bac818b4e63dfce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840008193
+        }
+    ],
+    "wof:id":840008193,
+    "wof:lastmodified":1463519170,
+    "wof:name":"Dollar Electric Inc",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.247818,
+    30.182197,
+    -93.247818,
+    30.182197
+],
+  "geometry": {"coordinates":[-93.247818,30.182197],"type":"Point"}
+}

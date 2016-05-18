@@ -1,0 +1,74 @@
+{
+  "id": 840454815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359389,30.22795,-93.359389,30.22795",
+    "geom:latitude":30.22795,
+    "geom:longitude":-93.359389,
+    "iso:country":"US",
+    "sg:address":"1415 Beglis Pkwy",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/sulphur/81556-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 528 7272",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QghXK96HgucNYSKNKsOzm_30.227950_-93.359389@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533497,
+    "wof:geomhash":"288a69ee2b08374a4e996925bfe9d8ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840454815
+        }
+    ],
+    "wof:id":840454815,
+    "wof:lastmodified":1463533497,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.359389,
+    30.22795,
+    -93.359389,
+    30.22795
+],
+  "geometry": {"coordinates":[-93.35938899999999,30.22795],"type":"Point"}
+}

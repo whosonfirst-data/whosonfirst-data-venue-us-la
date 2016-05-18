@@ -1,0 +1,71 @@
+{
+  "id": 840368833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.255199,30.168618,-93.255199,30.168618",
+    "geom:latitude":30.168618,
+    "geom:longitude":-93.255199,
+    "iso:country":"US",
+    "sg:address":"2313 Country Club Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 478 2060",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cyaImzW8U7SdUPm72dfWo_30.168618_-93.255199@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463529821,
+    "wof:geomhash":"557f828e2826898bd1f079b97f32846c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840368833
+        }
+    ],
+    "wof:id":840368833,
+    "wof:lastmodified":1463529821,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.255199,
+    30.168618,
+    -93.255199,
+    30.168618
+],
+  "geometry": {"coordinates":[-93.255199,30.168618],"type":"Point"}
+}

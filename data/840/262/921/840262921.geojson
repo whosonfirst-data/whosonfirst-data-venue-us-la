@@ -1,0 +1,73 @@
+{
+  "id": 840262921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.995917,30.018387,-89.995917,30.018387",
+    "geom:latitude":30.018387,
+    "geom:longitude":-89.995917,
+    "iso:country":"US",
+    "sg:address":"4661 Viola St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 382 4624",
+    "sg:postcode":"70126",
+    "sg:province":"LA",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_737da4gvidEcR6aElkDVuX_30.018387_-89.995917@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463524874,
+    "wof:geomhash":"48c5e08779994e5871340fb5e9aec0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840262921
+        }
+    ],
+    "wof:id":840262921,
+    "wof:lastmodified":1463524874,
+    "wof:name":"T & T Trucking",
+    "wof:parent_id":85866169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.995917,
+    30.018387,
+    -89.995917,
+    30.018387
+],
+  "geometry": {"coordinates":[-89.99591700000001,30.018387],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 840384087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.333725,30.230232,-93.333725,30.230232",
+    "geom:latitude":30.230232,
+    "geom:longitude":-93.333725,
+    "iso:country":"US",
+    "sg:address":"702 N Hazel St",
+    "sg:city":"Sulphur",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 626 6001",
+    "sg:postcode":"70663",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948163,
+        102081035,
+        85825987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TQsx5fyvlW2sE3YIG6VeA_30.230232_-93.333725@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530547,
+    "wof:geomhash":"868b7f0256f41a16a61659c2b0bb6eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948163,
+            "neighbourhood_id":85825987,
+            "region_id":85688735,
+            "venue_id":840384087
+        }
+    ],
+    "wof:id":840384087,
+    "wof:lastmodified":1463530547,
+    "wof:name":"ECP Tech Svc Inc",
+    "wof:parent_id":85825987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ]
+},
+  "bbox": [
+    -93.333725,
+    30.230232,
+    -93.333725,
+    30.230232
+],
+  "geometry": {"coordinates":[-93.333725,30.230232],"type":"Point"}
+}

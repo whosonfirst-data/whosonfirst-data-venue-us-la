@@ -1,0 +1,71 @@
+{
+  "id": 840347301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.249191,30.176247,-93.249191,30.176247",
+    "geom:latitude":30.176247,
+    "geom:longitude":-93.249191,
+    "iso:country":"US",
+    "sg:address":"4413 Nelson Rd",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 562 9080",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26opMSk8Ksj9wuHZnWct6R_30.176247_-93.249191@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528757,
+    "wof:geomhash":"240da1772df28be705f73fb7bc5ba8aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840347301
+        }
+    ],
+    "wof:id":840347301,
+    "wof:lastmodified":1463528757,
+    "wof:name":"Exotic Nails",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -93.249191,
+    30.176247,
+    -93.249191,
+    30.176247
+],
+  "geometry": {"coordinates":[-93.249191,30.176247],"type":"Point"}
+}

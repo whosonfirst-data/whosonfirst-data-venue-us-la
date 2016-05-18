@@ -1,0 +1,71 @@
+{
+  "id": 840393579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.158098,30.158147,-93.158098,30.158147",
+    "geom:latitude":30.158147,
+    "geom:longitude":-93.158098,
+    "iso:country":"US",
+    "sg:address":"3009 State Rte 14",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 474 3591",
+    "sg:postcode":"70607",
+    "sg:province":"LA",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S9Xl1mJmlacKMU56SKtqz_30.158147_-93.158098@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530951,
+    "wof:geomhash":"1164b67cc4cb7a9248c69cba35a7249e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840393579
+        }
+    ],
+    "wof:id":840393579,
+    "wof:lastmodified":1463530951,
+    "wof:name":"Kroger",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -93.158098,
+    30.158147,
+    -93.158098,
+    30.158147
+],
+  "geometry": {"coordinates":[-93.158098,30.158147],"type":"Point"}
+}

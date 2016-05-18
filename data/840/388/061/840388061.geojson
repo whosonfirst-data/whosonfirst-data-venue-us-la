@@ -1,0 +1,73 @@
+{
+  "id": 840388061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.264902,31.140492,-93.264902,31.140492",
+    "geom:latitude":31.140492,
+    "geom:longitude":-93.264902,
+    "iso:country":"US",
+    "sg:address":"500 S 6th St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 239 8000",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948063,
+        102086691,
+        85856367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cD7Mn31XzdQwNDKWVfdfx_31.140492_-93.264902@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530722,
+    "wof:geomhash":"718989319ef79370c01feec1f6dc966c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948063,
+            "neighbourhood_id":85856367,
+            "region_id":85688735,
+            "venue_id":840388061
+        }
+    ],
+    "wof:id":840388061,
+    "wof:lastmodified":1463530722,
+    "wof:name":"Orthopedic Center Of Louisiana",
+    "wof:parent_id":85856367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.264902,
+    31.140492,
+    -93.264902,
+    31.140492
+],
+  "geometry": {"coordinates":[-93.26490200000001,31.140492],"type":"Point"}
+}

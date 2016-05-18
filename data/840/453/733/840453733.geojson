@@ -1,0 +1,74 @@
+{
+  "id": 840453733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.456826,30.483389,-90.456826,30.483389",
+    "geom:latitude":30.483389,
+    "geom:longitude":-90.456826,
+    "iso:country":"US",
+    "sg:address":"1925 SW Railroad Ave",
+    "sg:city":"Hammond",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/hammond/72987-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 542 8596",
+    "sg:postcode":"70403",
+    "sg:province":"LA",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85839553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eaFDEiOsBMXOiKay2asWy_30.483389_-90.456826@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533458,
+    "wof:geomhash":"40fb3dda7917e770d504c32039038de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85839553,
+            "region_id":85688735,
+            "venue_id":840453733
+        }
+    ],
+    "wof:id":840453733,
+    "wof:lastmodified":1463533458,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85839553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.456826,
+    30.483389,
+    -90.456826,
+    30.483389
+],
+  "geometry": {"coordinates":[-90.45682600000001,30.483389],"type":"Point"}
+}

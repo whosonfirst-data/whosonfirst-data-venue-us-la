@@ -1,0 +1,73 @@
+{
+  "id": 840190799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.098764,29.928787,-90.098764,29.928787",
+    "geom:latitude":29.928787,
+    "geom:longitude":-90.098764,
+    "iso:country":"US",
+    "sg:address":"4000 Baronne St",
+    "sg:city":"New Orleans",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 899 2724",
+    "sg:postcode":"70115",
+    "sg:province":"LA",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vnpVsUfDQDIThrEAm9aU5_29.928787_-90.098764@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523127,
+    "wof:geomhash":"0897037612c493be25c9f381f2cd932c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840190799
+        }
+    ],
+    "wof:id":840190799,
+    "wof:lastmodified":1463523127,
+    "wof:name":"Dejoie Cabo Co",
+    "wof:parent_id":85866115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.098764,
+    29.928787,
+    -90.098764,
+    29.928787
+],
+  "geometry": {"coordinates":[-90.098764,29.928787],"type":"Point"}
+}

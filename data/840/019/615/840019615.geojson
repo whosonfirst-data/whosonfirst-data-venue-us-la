@@ -1,0 +1,71 @@
+{
+  "id": 840019615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.47333,31.573957,-93.47333,31.573957",
+    "geom:latitude":31.573957,
+    "geom:longitude":-93.47333,
+    "iso:country":"US",
+    "sg:address":"1710 San Antonio Ave",
+    "sg:city":"Many",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 318 256 3431",
+    "sg:postcode":"71449",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85947887,
+        102081409,
+        85806377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HMODOjTXx1ySWp2I8RbC5_31.573957_-93.473330@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519396,
+    "wof:geomhash":"6542fe9936110870f4e28e835b4d9e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081409,
+            "locality_id":85947887,
+            "neighbourhood_id":85806377,
+            "region_id":85688735,
+            "venue_id":840019615
+        }
+    ],
+    "wof:id":840019615,
+    "wof:lastmodified":1463519396,
+    "wof:name":"Many Fire Dept",
+    "wof:parent_id":85806377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -93.47333,
+    31.573957,
+    -93.47333,
+    31.573957
+],
+  "geometry": {"coordinates":[-93.47333,31.573957],"type":"Point"}
+}

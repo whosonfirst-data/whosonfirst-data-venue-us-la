@@ -1,0 +1,71 @@
+{
+  "id": 840179359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.12764,30.576786,-91.12764,30.576786",
+    "geom:latitude":30.576786,
+    "geom:longitude":-91.12764,
+    "iso:country":"US",
+    "sg:address":"14438 Plank Rd",
+    "sg:city":"Baker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 225 774 3602",
+    "sg:postcode":"70714",
+    "sg:province":"LA",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948207,
+        102087229,
+        85840685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13j6WMxJ3tNNitjR7lLn3m_30.576786_-91.127640@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522895,
+    "wof:geomhash":"fc1df7804bed23ef8a100480269bc076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087229,
+            "locality_id":85948207,
+            "neighbourhood_id":85840685,
+            "region_id":85688735,
+            "venue_id":840179359
+        }
+    ],
+    "wof:id":840179359,
+    "wof:lastmodified":1463522895,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85840685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.12764,
+    30.576786,
+    -91.12764,
+    30.576786
+],
+  "geometry": {"coordinates":[-91.12764,30.576786],"type":"Point"}
+}

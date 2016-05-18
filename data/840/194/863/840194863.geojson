@@ -1,0 +1,71 @@
+{
+  "id": 840194863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.361135,30.814257,-90.361135,30.814257",
+    "geom:latitude":30.814257,
+    "geom:longitude":-90.361135,
+    "iso:country":"US",
+    "sg:address":"22115 Hwy 10",
+    "sg:city":"Kentwood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 748 4787",
+    "sg:postcode":"70444",
+    "sg:province":"LA",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948469,
+        102083809,
+        85853177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12bxBHjPCedkG2ClyuCIqN_30.814257_-90.361135@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463523214,
+    "wof:geomhash":"95294a06953d3a9082c5a6d92f1605d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083809,
+            "locality_id":85948469,
+            "neighbourhood_id":85853177,
+            "region_id":85688735,
+            "venue_id":840194863
+        }
+    ],
+    "wof:id":840194863,
+    "wof:lastmodified":1463523214,
+    "wof:name":"Wilmer Fire Dept",
+    "wof:parent_id":85853177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.361135,
+    30.814257,
+    -90.361135,
+    30.814257
+],
+  "geometry": {"coordinates":[-90.361135,30.814257],"type":"Point"}
+}

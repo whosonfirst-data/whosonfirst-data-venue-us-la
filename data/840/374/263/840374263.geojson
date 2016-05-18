@@ -1,0 +1,71 @@
+{
+  "id": 840374263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.498906,29.806014,-91.498906,29.806014",
+    "geom:latitude":29.806014,
+    "geom:longitude":-91.498906,
+    "iso:country":"US",
+    "sg:address":"600 Haifleigh St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 828 1456",
+    "sg:postcode":"70538",
+    "sg:province":"LA",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BLTPfiYk8bhiXH0ZqdzxB_29.806014_-91.498906@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463530101,
+    "wof:geomhash":"d29a78b1e6d6577c05e2c045237fb1bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840374263
+        }
+    ],
+    "wof:id":840374263,
+    "wof:lastmodified":1463530101,
+    "wof:name":"C T Stirling MD",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.498906,
+    29.806014,
+    -91.498906,
+    29.806014
+],
+  "geometry": {"coordinates":[-91.49890600000001,29.806014],"type":"Point"}
+}

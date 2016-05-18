@@ -1,0 +1,71 @@
+{
+  "id": 840345947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.22489,30.164838,-93.22489,30.164838",
+    "geom:latitude":30.164838,
+    "geom:longitude":-93.22489,
+    "iso:country":"US",
+    "sg:address":"163 Heather St",
+    "sg:city":"Lake Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 477 8667",
+    "sg:postcode":"70605",
+    "sg:province":"LA",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948165,
+        102081035,
+        85853189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30eg4NU2LN31EcubRL5V67_30.164838_-93.224890@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528699,
+    "wof:geomhash":"232291ad66456a061087bb2c95b4245a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081035,
+            "locality_id":85948165,
+            "neighbourhood_id":85853189,
+            "region_id":85688735,
+            "venue_id":840345947
+        }
+    ],
+    "wof:id":840345947,
+    "wof:lastmodified":1463528699,
+    "wof:name":"Jds Repr Service",
+    "wof:parent_id":85853189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -93.22489,
+    30.164838,
+    -93.22489,
+    30.164838
+],
+  "geometry": {"coordinates":[-93.22489,30.164838],"type":"Point"}
+}

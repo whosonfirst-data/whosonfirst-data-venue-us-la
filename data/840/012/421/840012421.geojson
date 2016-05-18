@@ -1,0 +1,75 @@
+{
+  "id": 840012421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.178888,29.702562,-91.178888,29.702562",
+    "geom:latitude":29.702562,
+    "geom:longitude":-91.178888,
+    "iso:country":"US",
+    "sg:address":"3024 Lesley Dr",
+    "sg:city":"Morgan City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 384 2490",
+    "sg:postcode":"70380",
+    "sg:province":"LA",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SjgczbuvYgg5S8pWEimRw_29.702562_-91.178888@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463519257,
+    "wof:geomhash":"a663c03e37572cc6725244d2aa778da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840012421
+        }
+    ],
+    "wof:id":840012421,
+    "wof:lastmodified":1463519257,
+    "wof:name":"Eagle Trucking Inc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.178888,
+    29.702562,
+    -91.178888,
+    29.702562
+],
+  "geometry": {"coordinates":[-91.178888,29.702562],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 840454619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.066293,30.243547,-92.066293,30.243547",
+    "geom:latitude":30.243547,
+    "geom:longitude":-92.066293,
+    "iso:country":"US",
+    "sg:address":"116 Ambassador Caffery Pkwy",
+    "sg:city":"Scott",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/la/carencro/197490-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 233 0049",
+    "sg:postcode":"70583",
+    "sg:province":"LA",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948377,
+        102081919,
+        85835903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fJ0ZNhuLMgMO8kcilWuuG_30.243547_-92.066293@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463533490,
+    "wof:geomhash":"81a0d79419bedfc23a9cf2bfe3593376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081919,
+            "locality_id":85948377,
+            "neighbourhood_id":85835903,
+            "region_id":85688735,
+            "venue_id":840454619
+        }
+    ],
+    "wof:id":840454619,
+    "wof:lastmodified":1463533490,
+    "wof:name":"Burger King",
+    "wof:parent_id":85835903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.066293,
+    30.243547,
+    -92.066293,
+    30.243547
+],
+  "geometry": {"coordinates":[-92.066293,30.243547],"type":"Point"}
+}

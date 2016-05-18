@@ -1,0 +1,75 @@
+{
+  "id": 840345023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.78166,30.26295,-89.78166,30.26295",
+    "geom:latitude":30.26295,
+    "geom:longitude":-89.78166,
+    "iso:country":"US",
+    "sg:address":"659 Old Spanish Trl",
+    "sg:city":"Slidell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 847 9595",
+    "sg:postcode":"70458",
+    "sg:province":"LA",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948031,
+        102082453,
+        85840247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCOi7QuMmKhDRaisKT9Ee_30.262950_-89.781660@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528656,
+    "wof:geomhash":"28c7f8c3e4e55af18cd5680f658b1e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082453,
+            "locality_id":85948031,
+            "neighbourhood_id":85840247,
+            "region_id":85688735,
+            "venue_id":840345023
+        }
+    ],
+    "wof:id":840345023,
+    "wof:lastmodified":1463528656,
+    "wof:name":"Northshore Medical Clinic",
+    "wof:parent_id":85840247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.78166,
+    30.26295,
+    -89.78166,
+    30.26295
+],
+  "geometry": {"coordinates":[-89.78166,30.26295],"type":"Point"}
+}

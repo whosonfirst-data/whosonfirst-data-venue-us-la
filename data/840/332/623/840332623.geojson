@@ -1,0 +1,73 @@
+{
+  "id": 840332623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.271305,31.121318,-93.271305,31.121318",
+    "geom:latitude":31.121318,
+    "geom:longitude":-93.271305,
+    "iso:country":"US",
+    "sg:address":"1106 Boone St",
+    "sg:city":"Leesville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 337 238 0006",
+    "sg:postcode":"71446",
+    "sg:province":"LA",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948061,
+        102086691,
+        85810535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y1h0ixrrrkB5HUbqyT9j1_31.121318_-93.271305@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463528060,
+    "wof:geomhash":"4863a3d086a6f23c94dfaea5c383b64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086691,
+            "locality_id":85948061,
+            "neighbourhood_id":85810535,
+            "region_id":85688735,
+            "venue_id":840332623
+        }
+    ],
+    "wof:id":840332623,
+    "wof:lastmodified":1463528060,
+    "wof:name":"Cellular One",
+    "wof:parent_id":85810535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -93.271305,
+    31.121318,
+    -93.271305,
+    31.121318
+],
+  "geometry": {"coordinates":[-93.271305,31.121318],"type":"Point"}
+}

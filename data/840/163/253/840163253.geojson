@@ -1,0 +1,73 @@
+{
+  "id": 840163253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.315715,29.685212,-91.315715,29.685212",
+    "geom:latitude":29.685212,
+    "geom:longitude":-91.315715,
+    "iso:country":"US",
+    "sg:address":"1008 Leon St",
+    "sg:city":"Patterson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 985 395 5514",
+    "sg:postcode":"70392",
+    "sg:province":"LA",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948085,
+        102084873,
+        85851007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06jbrNNxg0VP6ZZtv8IYYz_29.685212_-91.315715@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463522505,
+    "wof:geomhash":"749a614d001b59168773f84f3b34a720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084873,
+            "locality_id":85948085,
+            "neighbourhood_id":85851007,
+            "region_id":85688735,
+            "venue_id":840163253
+        }
+    ],
+    "wof:id":840163253,
+    "wof:lastmodified":1463522505,
+    "wof:name":"West Tire Svc",
+    "wof:parent_id":85851007,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.315715,
+    29.685212,
+    -91.315715,
+    29.685212
+],
+  "geometry": {"coordinates":[-91.315715,29.685212],"type":"Point"}
+}

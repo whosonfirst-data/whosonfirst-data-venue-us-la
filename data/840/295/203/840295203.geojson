@@ -1,0 +1,75 @@
+{
+  "id": 840295203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.957528,29.955209,-89.957528,29.955209",
+    "geom:latitude":29.955209,
+    "geom:longitude":-89.957528,
+    "iso:country":"US",
+    "sg:address":"115 E Virtue St",
+    "sg:city":"Chalmette",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 504 271 1438",
+    "sg:postcode":"70043",
+    "sg:province":"LA",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688735,
+        85633793,
+        85948815,
+        102082447,
+        85853675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R0kImM4086zxP8fr6dQMs_29.955209_-89.957528@1294127638"
+    },
+    "wof:country":"US",
+    "wof:created":1463526282,
+    "wof:geomhash":"42fc2295fe6d074d4350eed0b1d054bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948815,
+            "neighbourhood_id":85853675,
+            "region_id":85688735,
+            "venue_id":840295203
+        }
+    ],
+    "wof:id":840295203,
+    "wof:lastmodified":1463526282,
+    "wof:name":"Pride Auto Body & Paint Repair",
+    "wof:parent_id":85853675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.957528,
+    29.955209,
+    -89.957528,
+    29.955209
+],
+  "geometry": {"coordinates":[-89.957528,29.955209],"type":"Point"}
+}
