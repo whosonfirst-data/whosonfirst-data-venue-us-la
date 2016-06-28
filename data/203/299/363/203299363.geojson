@@ -2,13 +2,14 @@
   "id": 203299363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.009144,29.923815,-90.009144,29.923815",
     "geom:latitude":29.923815,
     "geom:longitude":-90.009144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4545 MacArthur Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203299363,
-    "wof:lastmodified":1449025401,
+    "wof:lastmodified":1466539390,
     "wof:name":"Marsailles Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.009144,29.923815,-90.009144,29.923815],
-  "geometry": {"coordinates":[-90.009144,29.923815],"type":"Point"}
+  "bbox": [
+    -90.009144,
+    29.923815,
+    -90.009144,
+    29.923815
+],
+  "geometry": {"coordinates":[-90.00914400000001,29.923815],"type":"Point"}
 }

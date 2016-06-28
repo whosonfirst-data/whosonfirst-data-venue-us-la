@@ -2,13 +2,14 @@
   "id": 203317439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.033534,30.241854,-92.033534,30.241854",
     "geom:latitude":30.241854,
     "geom:longitude":-92.033534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Keeling Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203317439,
-    "wof:lastmodified":1449025775,
+    "wof:lastmodified":1466539421,
     "wof:name":"Les Petites Maisons Apts II",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-92.033534,30.241854,-92.033534,30.241854],
+  "bbox": [
+    -92.033534,
+    30.241854,
+    -92.033534,
+    30.241854
+],
   "geometry": {"coordinates":[-92.033534,30.241854],"type":"Point"}
 }

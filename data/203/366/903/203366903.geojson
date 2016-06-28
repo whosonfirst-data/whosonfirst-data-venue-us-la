@@ -2,13 +2,14 @@
   "id": 203366903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.886987,32.344177,-93.886987,32.344177",
     "geom:latitude":32.344177,
     "geom:longitude":-93.886987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6759 Colquitt Rd Apt 120",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203366903,
-    "wof:lastmodified":1449026348,
+    "wof:lastmodified":1466539488,
     "wof:name":"Spring Forest Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "finder"
     ]
 },
-  "bbox": [-93.886987,32.344177,-93.886987,32.344177],
+  "bbox": [
+    -93.886987,
+    32.344177,
+    -93.886987,
+    32.344177
+],
   "geometry": {"coordinates":[-93.886987,32.344177],"type":"Point"}
 }

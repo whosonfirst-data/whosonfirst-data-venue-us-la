@@ -2,13 +2,14 @@
   "id": 203383397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.783095,32.441906,-93.783095,32.441906",
     "geom:latitude":32.441906,
     "geom:longitude":-93.783095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 W 70th St",
     "sg:city":"Shreveport",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203383397,
-    "wof:lastmodified":1449025729,
+    "wof:lastmodified":1466539505,
     "wof:name":"Mosley's Movements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.783095,32.441906,-93.783095,32.441906],
+  "bbox": [
+    -93.783095,
+    32.441906,
+    -93.783095,
+    32.441906
+],
   "geometry": {"coordinates":[-93.783095,32.441906],"type":"Point"}
 }

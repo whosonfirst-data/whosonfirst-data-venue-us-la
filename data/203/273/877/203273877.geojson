@@ -2,13 +2,14 @@
   "id": 203273877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.018402,30.010401,-90.018402,30.010401",
     "geom:latitude":30.010401,
     "geom:longitude":-90.018402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5855 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203273877,
-    "wof:lastmodified":1449025915,
+    "wof:lastmodified":1466539353,
     "wof:name":"Downman Spur",
     "wof:parent_id":85866169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.018402,30.010401,-90.018402,30.010401],
-  "geometry": {"coordinates":[-90.018402,30.010401],"type":"Point"}
+  "bbox": [
+    -90.018402,
+    30.010401,
+    -90.018402,
+    30.010401
+],
+  "geometry": {"coordinates":[-90.01840199999999,30.010401],"type":"Point"}
 }

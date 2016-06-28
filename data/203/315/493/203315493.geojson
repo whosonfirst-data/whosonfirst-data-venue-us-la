@@ -2,13 +2,14 @@
   "id": 203315493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.039398,30.232201,-92.039398,30.232201",
     "geom:latitude":30.232201,
     "geom:longitude":-92.039398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 Cameron St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203315493,
-    "wof:lastmodified":1449026773,
+    "wof:lastmodified":1466539414,
     "wof:name":"Dimmick's Auto Paint Body & Equipment",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-92.039398,30.232201,-92.039398,30.232201],
-  "geometry": {"coordinates":[-92.039398,30.232201],"type":"Point"}
+  "bbox": [
+    -92.039398,
+    30.232201,
+    -92.039398,
+    30.232201
+],
+  "geometry": {"coordinates":[-92.03939800000001,30.232201],"type":"Point"}
 }

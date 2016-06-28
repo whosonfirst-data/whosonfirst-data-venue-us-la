@@ -2,13 +2,14 @@
   "id": 203219051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.044098,29.882,-90.044098,29.882",
     "geom:latitude":29.882,
     "geom:longitude":-90.044098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Whitney Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203219051,
-    "wof:lastmodified":1449026797,
+    "wof:lastmodified":1466539283,
     "wof:name":"Garrity Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.044098,29.882,-90.044098,29.882],
-  "geometry": {"coordinates":[-90.044098,29.882],"type":"Point"}
+  "bbox": [
+    -90.044098,
+    29.882,
+    -90.044098,
+    29.882
+],
+  "geometry": {"coordinates":[-90.04409800000001,29.882],"type":"Point"}
 }

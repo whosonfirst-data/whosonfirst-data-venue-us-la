@@ -2,13 +2,14 @@
   "id": 203400637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.655106,31.629233,-93.655106,31.629233",
     "geom:latitude":31.629233,
     "geom:longitude":-93.655106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"952 S Main St",
     "sg:city":"Zwolle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203400637,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466541060,
     "wof:name":"Chief Of Police",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.655106,31.629233,-93.655106,31.629233],
+  "bbox": [
+    -93.655106,
+    31.629233,
+    -93.655106,
+    31.629233
+],
   "geometry": {"coordinates":[-93.655106,31.629233],"type":"Point"}
 }

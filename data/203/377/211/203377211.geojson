@@ -2,13 +2,14 @@
   "id": 203377211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.46122,33.000834,-93.46122,33.000834",
     "geom:latitude":33.000834,
     "geom:longitude":-93.46122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 S Main St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203377211,
-    "wof:lastmodified":1449025629,
+    "wof:lastmodified":1466539497,
     "wof:name":"Bee Beautiful Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.46122,33.000834,-93.46122,33.000834],
+  "bbox": [
+    -93.46122,
+    33.000834,
+    -93.46122,
+    33.000834
+],
   "geometry": {"coordinates":[-93.46122,33.000834],"type":"Point"}
 }

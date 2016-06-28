@@ -2,13 +2,14 @@
   "id": 203309633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.012254,30.247473,-92.012254,30.247473",
     "geom:latitude":30.247473,
     "geom:longitude":-92.012254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 NE Evangeline Trwy Ste H7",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203309633,
-    "wof:lastmodified":1449025343,
+    "wof:lastmodified":1466539411,
     "wof:name":"Eyes North Optical",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"
     ]
 },
-  "bbox": [-92.012254,30.247473,-92.012254,30.247473],
+  "bbox": [
+    -92.012254,
+    30.247473,
+    -92.012254,
+    30.247473
+],
   "geometry": {"coordinates":[-92.012254,30.247473],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203281699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.927748,30.03088,-89.927748,30.03088",
     "geom:latitude":30.03088,
     "geom:longitude":-89.927748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13890 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203281699,
-    "wof:lastmodified":1449026556,
+    "wof:lastmodified":1466539365,
     "wof:name":"Carwash",
     "wof:parent_id":85833951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.927748,30.03088,-89.927748,30.03088],
-  "geometry": {"coordinates":[-89.927748,30.03088],"type":"Point"}
+  "bbox": [
+    -89.927748,
+    30.03088,
+    -89.927748,
+    30.03088
+],
+  "geometry": {"coordinates":[-89.92774799999999,30.03088],"type":"Point"}
 }

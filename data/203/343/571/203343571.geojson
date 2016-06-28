@@ -2,13 +2,14 @@
   "id": 203343571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.8274,30.1231,-91.8274,30.1231",
     "geom:latitude":30.1231,
     "geom:longitude":-91.8274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 S New Market St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203343571,
-    "wof:lastmodified":1449026313,
+    "wof:lastmodified":1466541050,
     "wof:name":"Pellerin Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-91.8274,30.1231,-91.8274,30.1231],
+  "bbox": [
+    -91.8274,
+    30.1231,
+    -91.8274,
+    30.1231
+],
   "geometry": {"coordinates":[-91.8274,30.1231],"type":"Point"}
 }

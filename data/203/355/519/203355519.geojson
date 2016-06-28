@@ -2,13 +2,14 @@
   "id": 203355519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.990605,30.098315,-91.990605,30.098315",
     "geom:latitude":30.098315,
     "geom:longitude":-91.990605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Church St",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203355519,
-    "wof:lastmodified":1449025437,
+    "wof:lastmodified":1466539479,
     "wof:name":"The Courtyard Salon & Spa",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-91.990605,30.098315,-91.990605,30.098315],
+  "bbox": [
+    -91.990605,
+    30.098315,
+    -91.990605,
+    30.098315
+],
   "geometry": {"coordinates":[-91.990605,30.098315],"type":"Point"}
 }

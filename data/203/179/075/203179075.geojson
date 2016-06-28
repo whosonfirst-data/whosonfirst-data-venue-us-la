@@ -2,13 +2,14 @@
   "id": 203179075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.974197,29.940901,-89.974197,29.940901",
     "geom:latitude":29.940901,
     "geom:longitude":-89.974197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2016 Pakenham Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203179075,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466540873,
     "wof:name":"Rowley John F Atty",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.974197,29.940901,-89.974197,29.940901],
+  "bbox": [
+    -89.974197,
+    29.940901,
+    -89.974197,
+    29.940901
+],
   "geometry": {"coordinates":[-89.974197,29.940901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203320397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.006599,30.2845,-92.006599,30.2845",
     "geom:latitude":30.2845,
     "geom:longitude":-92.006599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Moss St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203320397,
-    "wof:lastmodified":1449025393,
+    "wof:lastmodified":1466539424,
     "wof:name":"Middle Schools",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-92.006599,30.2845,-92.006599,30.2845],
-  "geometry": {"coordinates":[-92.006599,30.2845],"type":"Point"}
+  "bbox": [
+    -92.006599,
+    30.2845,
+    -92.006599,
+    30.2845
+],
+  "geometry": {"coordinates":[-92.00659899999999,30.2845],"type":"Point"}
 }

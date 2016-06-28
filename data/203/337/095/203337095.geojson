@@ -2,13 +2,14 @@
   "id": 203337095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.834952,30.011769,-91.834952,30.011769",
     "geom:latitude":30.011769,
     "geom:longitude":-91.834952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Anderson St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203337095,
-    "wof:lastmodified":1449025808,
+    "wof:lastmodified":1466539445,
     "wof:name":"Doing the Damm Thing",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.834952,30.011769,-91.834952,30.011769],
+  "bbox": [
+    -91.834952,
+    30.011769,
+    -91.834952,
+    30.011769
+],
   "geometry": {"coordinates":[-91.834952,30.011769],"type":"Point"}
 }

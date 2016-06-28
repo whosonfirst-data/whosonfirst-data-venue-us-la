@@ -2,13 +2,14 @@
   "id": 203325905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.961266,30.138254,-91.961266,30.138254",
     "geom:latitude":30.138254,
     "geom:longitude":-91.961266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"807 Albertson Pkwy",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203325905,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466539440,
     "wof:name":"Phillipe's Wine Cellar",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-91.961266,30.138254,-91.961266,30.138254],
-  "geometry": {"coordinates":[-91.961266,30.138254],"type":"Point"}
+  "bbox": [
+    -91.961266,
+    30.138254,
+    -91.961266,
+    30.138254
+],
+  "geometry": {"coordinates":[-91.96126599999999,30.138254],"type":"Point"}
 }

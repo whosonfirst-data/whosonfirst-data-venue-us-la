@@ -2,13 +2,14 @@
   "id": 203265929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.033432,29.965162,-90.033432,29.965162",
     "geom:latitude":29.965162,
     "geom:longitude":-90.033432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 St Claude Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203265929,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1466539348,
     "wof:name":"Shaolin-Do Kung Fu & Tai Chi",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "martial art"
     ]
 },
-  "bbox": [-90.033432,29.965162,-90.033432,29.965162],
+  "bbox": [
+    -90.033432,
+    29.965162,
+    -90.033432,
+    29.965162
+],
   "geometry": {"coordinates":[-90.033432,29.965162],"type":"Point"}
 }

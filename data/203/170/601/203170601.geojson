@@ -2,13 +2,14 @@
   "id": 203170601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.152637,29.99513,-90.152637,29.99513",
     "geom:latitude":29.99513,
     "geom:longitude":-90.152637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Galleria Blvd Ste 1818",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203170601,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466539527,
     "wof:name":"Apyxx Technologies Inc",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "copying"
     ]
 },
-  "bbox": [-90.152637,29.99513,-90.152637,29.99513],
+  "bbox": [
+    -90.152637,
+    29.99513,
+    -90.152637,
+    29.99513
+],
   "geometry": {"coordinates":[-90.152637,29.99513],"type":"Point"}
 }

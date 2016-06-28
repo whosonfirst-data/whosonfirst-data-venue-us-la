@@ -2,13 +2,14 @@
   "id": 203334871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.8424,30.001699,-91.8424,30.001699",
     "geom:latitude":30.001699,
     "geom:longitude":-91.8424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 W Admiral Doyle Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203334871,
-    "wof:lastmodified":1449025459,
+    "wof:lastmodified":1466539456,
     "wof:name":"Tampico Mexican Restaurant & Cantina",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-91.8424,30.001699,-91.8424,30.001699],
+  "bbox": [
+    -91.8424,
+    30.001699,
+    -91.8424,
+    30.001699
+],
   "geometry": {"coordinates":[-91.8424,30.001699],"type":"Point"}
 }

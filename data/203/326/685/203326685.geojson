@@ -2,13 +2,14 @@
   "id": 203326685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.950401,30.1402,-91.950401,30.1402",
     "geom:latitude":30.1402,
     "geom:longitude":-91.950401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Albertson Pkwy",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203326685,
-    "wof:lastmodified":1449025735,
+    "wof:lastmodified":1466539438,
     "wof:name":"Dollar General Store",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.950401,30.1402,-91.950401,30.1402],
+  "bbox": [
+    -91.950401,
+    30.1402,
+    -91.950401,
+    30.1402
+],
   "geometry": {"coordinates":[-91.950401,30.1402],"type":"Point"}
 }

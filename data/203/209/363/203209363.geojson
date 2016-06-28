@@ -2,13 +2,14 @@
   "id": 203209363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.034527,29.909276,-90.034527,29.909276",
     "geom:latitude":29.909276,
     "geom:longitude":-90.034527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 Heritage Ave",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203209363,
-    "wof:lastmodified":1449026669,
+    "wof:lastmodified":1466539273,
     "wof:name":"Geaux Jump Llc",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "event"
     ]
 },
-  "bbox": [-90.034527,29.909276,-90.034527,29.909276],
+  "bbox": [
+    -90.034527,
+    29.909276,
+    -90.034527,
+    29.909276
+],
   "geometry": {"coordinates":[-90.034527,29.909276],"type":"Point"}
 }

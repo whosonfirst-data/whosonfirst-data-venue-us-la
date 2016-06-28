@@ -2,13 +2,14 @@
   "id": 203334443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.816902,30.004101,-91.816902,30.004101",
     "geom:latitude":30.004101,
     "geom:longitude":-91.816902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Weeks St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203334443,
-    "wof:lastmodified":1449025459,
+    "wof:lastmodified":1466539447,
     "wof:name":"Paul's Flower & Plant Shop",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.816902,30.004101,-91.816902,30.004101],
+  "bbox": [
+    -91.816902,
+    30.004101,
+    -91.816902,
+    30.004101
+],
   "geometry": {"coordinates":[-91.816902,30.004101],"type":"Point"}
 }

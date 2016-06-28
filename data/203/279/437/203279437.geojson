@@ -2,13 +2,14 @@
   "id": 203279437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.979401,30.029699,-89.979401,30.029699",
     "geom:latitude":30.029699,
     "geom:longitude":-89.979401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Plaza Dr Ste 210",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203279437,
-    "wof:lastmodified":1449025782,
+    "wof:lastmodified":1466539359,
     "wof:name":"Barkan & Neff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.979401,30.029699,-89.979401,30.029699],
+  "bbox": [
+    -89.979401,
+    30.029699,
+    -89.979401,
+    30.029699
+],
   "geometry": {"coordinates":[-89.979401,30.029699],"type":"Point"}
 }

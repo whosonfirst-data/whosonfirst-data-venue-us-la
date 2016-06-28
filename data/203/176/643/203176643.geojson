@@ -2,13 +2,14 @@
   "id": 203176643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.985802,29.854099,-89.985802,29.854099",
     "geom:latitude":29.854099,
     "geom:longitude":-89.985802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8374 Highway 23",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203176643,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1466540772,
     "wof:name":"Belle Chasse High School Boys Athletic Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "elementary"
     ]
 },
-  "bbox": [-89.985802,29.854099,-89.985802,29.854099],
-  "geometry": {"coordinates":[-89.985802,29.854099],"type":"Point"}
+  "bbox": [
+    -89.985802,
+    29.854099,
+    -89.985802,
+    29.854099
+],
+  "geometry": {"coordinates":[-89.98580200000001,29.854099],"type":"Point"}
 }

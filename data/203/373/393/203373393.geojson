@@ -2,13 +2,14 @@
   "id": 203373393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.480299,33.009338,-93.480299,33.009338",
     "geom:latitude":33.009338,
     "geom:longitude":-93.480299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Plain Dealing Rd",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203373393,
-    "wof:lastmodified":1449025907,
+    "wof:lastmodified":1466539495,
     "wof:name":"Computer Repair Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.480299,33.009338,-93.480299,33.009338],
+  "bbox": [
+    -93.480299,
+    33.009338,
+    -93.480299,
+    33.009338
+],
   "geometry": {"coordinates":[-93.480299,33.009338],"type":"Point"}
 }

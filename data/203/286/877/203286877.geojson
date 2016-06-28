@@ -2,13 +2,14 @@
   "id": 203286877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.065875,29.944588,-90.065875,29.944588",
     "geom:latitude":29.944588,
     "geom:longitude":-90.065875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Julia St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203286877,
-    "wof:lastmodified":1449025412,
+    "wof:lastmodified":1466539382,
     "wof:name":"Courtyard New Orleans Convention Center",
     "wof:parent_id":85866969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.065875,29.944588,-90.065875,29.944588],
-  "geometry": {"coordinates":[-90.065875,29.944588],"type":"Point"}
+  "bbox": [
+    -90.065875,
+    29.944588,
+    -90.065875,
+    29.944588
+],
+  "geometry": {"coordinates":[-90.06587500000001,29.944588],"type":"Point"}
 }

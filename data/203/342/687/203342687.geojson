@@ -2,13 +2,14 @@
   "id": 203342687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.816157,30.155106,-91.816157,30.155106",
     "geom:latitude":30.155106,
     "geom:longitude":-91.816157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Levert Ave",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203342687,
-    "wof:lastmodified":1449026738,
+    "wof:lastmodified":1466539460,
     "wof:name":"St Martin Parish of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.816157,30.155106,-91.816157,30.155106],
+  "bbox": [
+    -91.816157,
+    30.155106,
+    -91.816157,
+    30.155106
+],
   "geometry": {"coordinates":[-91.816157,30.155106],"type":"Point"}
 }

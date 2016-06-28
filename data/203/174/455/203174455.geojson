@@ -2,13 +2,14 @@
   "id": 203174455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.999702,29.864901,-89.999702,29.864901",
     "geom:latitude":29.864901,
     "geom:longitude":-89.999702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7742 Highway 23",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203174455,
-    "wof:lastmodified":1449025198,
+    "wof:lastmodified":1466540752,
     "wof:name":"Salvo's Seafood & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "market"
     ]
 },
-  "bbox": [-89.999702,29.864901,-89.999702,29.864901],
+  "bbox": [
+    -89.999702,
+    29.864901,
+    -89.999702,
+    29.864901
+],
   "geometry": {"coordinates":[-89.999702,29.864901],"type":"Point"}
 }

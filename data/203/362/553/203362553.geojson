@@ -2,13 +2,14 @@
   "id": 203362553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.940641,32.442719,-93.940641,32.442719",
     "geom:latitude":32.442719,
     "geom:longitude":-93.940641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8096 W 70th St",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203362553,
-    "wof:lastmodified":1449026198,
+    "wof:lastmodified":1466539493,
     "wof:name":"Creative Hairlines Family Salon",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stylist"
     ]
 },
-  "bbox": [-93.940641,32.442719,-93.940641,32.442719],
+  "bbox": [
+    -93.940641,
+    32.442719,
+    -93.940641,
+    32.442719
+],
   "geometry": {"coordinates":[-93.940641,32.442719],"type":"Point"}
 }

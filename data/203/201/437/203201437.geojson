@@ -2,13 +2,14 @@
   "id": 203201437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042603,29.915501,-90.042603,29.915501",
     "geom:latitude":29.915501,
     "geom:longitude":-90.042603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Whitney Ave Apt 201",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":203201437,
-    "wof:lastmodified":1449026608,
+    "wof:lastmodified":1466539266,
     "wof:name":"Aladdin Castle Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.042603,29.915501,-90.042603,29.915501],
+  "bbox": [
+    -90.042603,
+    29.915501,
+    -90.042603,
+    29.915501
+],
   "geometry": {"coordinates":[-90.042603,29.915501],"type":"Point"}
 }

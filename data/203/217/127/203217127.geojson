@@ -2,13 +2,14 @@
   "id": 203217127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.019024,29.892908,-90.019024,29.892908",
     "geom:latitude":29.892908,
     "geom:longitude":-90.019024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"835 Behrman Hwy",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203217127,
-    "wof:lastmodified":1449026760,
+    "wof:lastmodified":1466539279,
     "wof:name":"Super Scrub Carwash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.019024,29.892908,-90.019024,29.892908],
+  "bbox": [
+    -90.019024,
+    29.892908,
+    -90.019024,
+    29.892908
+],
   "geometry": {"coordinates":[-90.019024,29.892908],"type":"Point"}
 }

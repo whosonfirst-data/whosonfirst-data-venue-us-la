@@ -2,13 +2,14 @@
   "id": 203391471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.870512,32.405044,-93.870512,32.405044",
     "geom:latitude":32.405044,
     "geom:longitude":-93.870512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6150 Bert Kouns Industrial Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203391471,
-    "wof:lastmodified":1449026184,
+    "wof:lastmodified":1466539518,
     "wof:name":"Dmr Mechanical, L.L.C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.870512,32.405044,-93.870512,32.405044],
-  "geometry": {"coordinates":[-93.870512,32.405044],"type":"Point"}
+  "bbox": [
+    -93.870512,
+    32.405044,
+    -93.870512,
+    32.405044
+],
+  "geometry": {"coordinates":[-93.87051200000001,32.405044],"type":"Point"}
 }

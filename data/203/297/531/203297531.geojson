@@ -2,13 +2,14 @@
   "id": 203297531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.001162,29.919222,-90.001162,29.919222",
     "geom:latitude":29.919222,
     "geom:longitude":-90.001162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3410 Plymouth Pl",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203297531,
-    "wof:lastmodified":1449026180,
+    "wof:lastmodified":1466539388,
     "wof:name":"Bond's Service & Contracting Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.001162,29.919222,-90.001162,29.919222],
-  "geometry": {"coordinates":[-90.001162,29.919222],"type":"Point"}
+  "bbox": [
+    -90.001162,
+    29.919222,
+    -90.001162,
+    29.919222
+],
+  "geometry": {"coordinates":[-90.00116199999999,29.919222],"type":"Point"}
 }

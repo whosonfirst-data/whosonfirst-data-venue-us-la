@@ -2,13 +2,14 @@
   "id": 203382049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.78319,32.442009,-93.78319,32.442009",
     "geom:latitude":32.442009,
     "geom:longitude":-93.78319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2746 W 70TH ST",
     "sg:city":"SHREVEPORT",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203382049,
-    "wof:lastmodified":1449025417,
+    "wof:lastmodified":1466541053,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "rental"
     ]
 },
-  "bbox": [-93.78319,32.442009,-93.78319,32.442009],
+  "bbox": [
+    -93.78319,
+    32.442009,
+    -93.78319,
+    32.442009
+],
   "geometry": {"coordinates":[-93.78319,32.442009],"type":"Point"}
 }

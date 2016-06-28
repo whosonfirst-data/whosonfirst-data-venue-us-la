@@ -2,13 +2,14 @@
   "id": 203350161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.088699,30.2334,-92.088699,30.2334",
     "geom:latitude":30.2334,
     "geom:longitude":-92.088699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5545C Cameron St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203350161,
-    "wof:lastmodified":1449025894,
+    "wof:lastmodified":1466539468,
     "wof:name":"X-Treme Tan",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.088699,30.2334,-92.088699,30.2334],
-  "geometry": {"coordinates":[-92.088699,30.2334],"type":"Point"}
+  "bbox": [
+    -92.088699,
+    30.2334,
+    -92.088699,
+    30.2334
+],
+  "geometry": {"coordinates":[-92.08869900000001,30.2334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203299511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984001,29.915001,-89.984001,29.915001",
     "geom:latitude":29.915001,
     "geom:longitude":-89.984001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3759 Preston Pl",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203299511,
-    "wof:lastmodified":1449025400,
+    "wof:lastmodified":1466539394,
     "wof:name":"Little Explorer Child Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-89.984001,29.915001,-89.984001,29.915001],
-  "geometry": {"coordinates":[-89.984001,29.915001],"type":"Point"}
+  "bbox": [
+    -89.984001,
+    29.915001,
+    -89.984001,
+    29.915001
+],
+  "geometry": {"coordinates":[-89.98400100000001,29.915001],"type":"Point"}
 }

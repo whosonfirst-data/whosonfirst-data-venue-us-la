@@ -2,13 +2,14 @@
   "id": 203334649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.817674,30.006221,-91.817674,30.006221",
     "geom:latitude":30.006221,
     "geom:longitude":-91.817674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Iberia St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203334649,
-    "wof:lastmodified":1449025460,
+    "wof:lastmodified":1466539451,
     "wof:name":"Mulligan's Old Irish Pub",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-91.817674,30.006221,-91.817674,30.006221],
+  "bbox": [
+    -91.817674,
+    30.006221,
+    -91.817674,
+    30.006221
+],
   "geometry": {"coordinates":[-91.817674,30.006221],"type":"Point"}
 }

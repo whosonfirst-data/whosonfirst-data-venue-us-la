@@ -2,13 +2,14 @@
   "id": 203203063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.041696,29.89683,-90.041696,29.89683",
     "geom:latitude":29.89683,
     "geom:longitude":-90.041696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Belle Chasse Hwy",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203203063,
-    "wof:lastmodified":1449025749,
+    "wof:lastmodified":1466539264,
     "wof:name":"La Tree Company Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gardening"
     ]
 },
-  "bbox": [-90.041696,29.89683,-90.041696,29.89683],
+  "bbox": [
+    -90.041696,
+    29.89683,
+    -90.041696,
+    29.89683
+],
   "geometry": {"coordinates":[-90.041696,29.89683],"type":"Point"}
 }

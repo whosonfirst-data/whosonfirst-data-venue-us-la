@@ -2,13 +2,14 @@
   "id": 203335697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.804604,29.998501,-91.804604,29.998501",
     "geom:latitude":29.998501,
     "geom:longitude":-91.804604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 E Main St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203335697,
-    "wof:lastmodified":1449026234,
+    "wof:lastmodified":1466539455,
     "wof:name":"McDonalds Restaurant",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.804604,29.998501,-91.804604,29.998501],
+  "bbox": [
+    -91.804604,
+    29.998501,
+    -91.804604,
+    29.998501
+],
   "geometry": {"coordinates":[-91.804604,29.998501],"type":"Point"}
 }

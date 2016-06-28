@@ -2,13 +2,14 @@
   "id": 203274011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.021461,30.013881,-90.021461,30.013881",
     "geom:latitude":30.013881,
     "geom:longitude":-90.021461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4326 Downman Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203274011,
-    "wof:lastmodified":1449025180,
+    "wof:lastmodified":1466541042,
     "wof:name":"Hummingbird Entertainment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.021461,30.013881,-90.021461,30.013881],
+  "bbox": [
+    -90.021461,
+    30.013881,
+    -90.021461,
+    30.013881
+],
   "geometry": {"coordinates":[-90.021461,30.013881],"type":"Point"}
 }

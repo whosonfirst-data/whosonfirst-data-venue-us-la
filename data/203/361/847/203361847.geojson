@@ -2,13 +2,14 @@
   "id": 203361847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.1502,30.160299,-91.1502,30.160299",
     "geom:latitude":30.160299,
     "geom:longitude":-91.1502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27800 Highway 405",
     "sg:city":"White Castle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203361847,
-    "wof:lastmodified":1449026344,
+    "wof:lastmodified":1466539492,
     "wof:name":"Point Pleasant Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.1502,30.160299,-91.1502,30.160299],
+  "bbox": [
+    -91.1502,
+    30.160299,
+    -91.1502,
+    30.160299
+],
   "geometry": {"coordinates":[-91.1502,30.160299],"type":"Point"}
 }

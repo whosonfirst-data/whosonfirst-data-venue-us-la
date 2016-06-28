@@ -2,13 +2,14 @@
   "id": 203350795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.101115,30.24377,-92.101115,30.24377",
     "geom:latitude":30.24377,
     "geom:longitude":-92.101115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Park W Dr",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203350795,
-    "wof:lastmodified":1449025894,
+    "wof:lastmodified":1466539481,
     "wof:name":"Law Offices of Richard C. Dalton, LLC",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.101115,30.24377,-92.101115,30.24377],
-  "geometry": {"coordinates":[-92.101115,30.24377],"type":"Point"}
+  "bbox": [
+    -92.101115,
+    30.24377,
+    -92.101115,
+    30.24377
+],
+  "geometry": {"coordinates":[-92.10111499999999,30.24377],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203207495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.035065,29.885645,-90.035065,29.885645",
     "geom:latitude":29.885645,
     "geom:longitude":-90.035065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Lynnmeade Rd",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203207495,
-    "wof:lastmodified":1449026295,
+    "wof:lastmodified":1466539273,
     "wof:name":"Micah Puzzles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "store"
     ]
 },
-  "bbox": [-90.035065,29.885645,-90.035065,29.885645],
+  "bbox": [
+    -90.035065,
+    29.885645,
+    -90.035065,
+    29.885645
+],
   "geometry": {"coordinates":[-90.035065,29.885645],"type":"Point"}
 }

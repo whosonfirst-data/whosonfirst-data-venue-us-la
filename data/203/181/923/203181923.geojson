@@ -2,13 +2,14 @@
   "id": 203181923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.962303,29.9424,-89.962303,29.9424",
     "geom:latitude":29.9424,
     "geom:longitude":-89.962303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203181923,
-    "wof:lastmodified":1449026100,
+    "wof:lastmodified":1466540924,
     "wof:name":"B & J Seafood No 2",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-89.962303,29.9424,-89.962303,29.9424],
-  "geometry": {"coordinates":[-89.962303,29.9424],"type":"Point"}
+  "bbox": [
+    -89.962303,
+    29.9424,
+    -89.962303,
+    29.9424
+],
+  "geometry": {"coordinates":[-89.96230300000001,29.9424],"type":"Point"}
 }

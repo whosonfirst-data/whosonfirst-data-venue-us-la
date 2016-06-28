@@ -2,13 +2,14 @@
   "id": 203193929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.045197,29.885,-90.045197,29.885",
     "geom:latitude":29.885,
     "geom:longitude":-90.045197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 Claire Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203193929,
-    "wof:lastmodified":1449025247,
+    "wof:lastmodified":1466539267,
     "wof:name":"St Cletus Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.045197,29.885,-90.045197,29.885],
+  "bbox": [
+    -90.045197,
+    29.885,
+    -90.045197,
+    29.885
+],
   "geometry": {"coordinates":[-90.045197,29.885],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203399455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.104436,32.701319,-92.104436,32.701319",
     "geom:latitude":32.701319,
     "geom:longitude":-92.104436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Highway 2",
     "sg:city":"Sterlington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203399455,
-    "wof:lastmodified":1449025281,
+    "wof:lastmodified":1466541059,
     "wof:name":"Cross Keys Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.104436,32.701319,-92.104436,32.701319],
-  "geometry": {"coordinates":[-92.104436,32.701319],"type":"Point"}
+  "bbox": [
+    -92.104436,
+    32.701319,
+    -92.104436,
+    32.701319
+],
+  "geometry": {"coordinates":[-92.10443600000001,32.701319],"type":"Point"}
 }

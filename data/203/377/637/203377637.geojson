@@ -2,13 +2,14 @@
   "id": 203377637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.991221,32.906621,-93.991221,32.906621",
     "geom:latitude":32.906621,
     "geom:longitude":-93.991221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9624 Kendrick Rd",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203377637,
-    "wof:lastmodified":1449025628,
+    "wof:lastmodified":1466539505,
     "wof:name":"Tree Toppers",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [-93.991221,32.906621,-93.991221,32.906621],
+  "bbox": [
+    -93.991221,
+    32.906621,
+    -93.991221,
+    32.906621
+],
   "geometry": {"coordinates":[-93.991221,32.906621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203189257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.060052,29.906986,-90.060052,29.906986",
     "geom:latitude":29.906986,
     "geom:longitude":-90.060052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"932 Westbank Expy Corner of Weyer St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203189257,
-    "wof:lastmodified":1449026301,
+    "wof:lastmodified":1466540996,
     "wof:name":"Pho Bang Restaurant",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "vietnamese"
     ]
 },
-  "bbox": [-90.060052,29.906986,-90.060052,29.906986],
+  "bbox": [
+    -90.060052,
+    29.906986,
+    -90.060052,
+    29.906986
+],
   "geometry": {"coordinates":[-90.060052,29.906986],"type":"Point"}
 }

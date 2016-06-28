@@ -2,13 +2,14 @@
   "id": 203368143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.864343,31.873311,-93.864343,31.873311",
     "geom:latitude":31.873311,
     "geom:longitude":-93.864343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Magnolia Ln",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203368143,
-    "wof:lastmodified":1449025375,
+    "wof:lastmodified":1466539490,
     "wof:name":"Magnolia Baptist Church",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "churches-baptist"
     ]
 },
-  "bbox": [-93.864343,31.873311,-93.864343,31.873311],
-  "geometry": {"coordinates":[-93.864343,31.873311],"type":"Point"}
+  "bbox": [
+    -93.864343,
+    31.873311,
+    -93.864343,
+    31.873311
+],
+  "geometry": {"coordinates":[-93.86434300000001,31.873311],"type":"Point"}
 }

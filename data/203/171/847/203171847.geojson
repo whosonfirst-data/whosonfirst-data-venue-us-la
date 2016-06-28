@@ -2,13 +2,14 @@
   "id": 203171847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.994797,29.9596,-89.994797,29.9596",
     "geom:latitude":29.9596,
     "geom:longitude":-89.994797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7408 W Judge Perez Dr",
     "sg:city":"Arabi",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203171847,
-    "wof:lastmodified":1449026870,
+    "wof:lastmodified":1466539532,
     "wof:name":"Carolyn Park Presbyterian Church",
     "wof:parent_id":85866103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.994797,29.9596,-89.994797,29.9596],
-  "geometry": {"coordinates":[-89.994797,29.9596],"type":"Point"}
+  "bbox": [
+    -89.994797,
+    29.9596,
+    -89.994797,
+    29.9596
+],
+  "geometry": {"coordinates":[-89.99479700000001,29.9596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387183845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.032142,29.902431,-94.032142,29.902431",
     "geom:latitude":29.902431,
     "geom:longitude":-94.032142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6379 Jade Ave",
     "sg:city":"Port Arthur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387183845,
-    "wof:lastmodified":1449058151,
+    "wof:lastmodified":1466541057,
     "wof:name":"Broussard Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [-94.032142,29.902431,-94.032142,29.902431],
-  "geometry": {"coordinates":[-94.032142,29.902431],"type":"Point"}
+  "bbox": [
+    -94.032142,
+    29.902431,
+    -94.032142,
+    29.902431
+],
+  "geometry": {"coordinates":[-94.03214199999999,29.902431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203344633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.823303,30.1448,-91.823303,30.1448",
     "geom:latitude":30.1448,
     "geom:longitude":-91.823303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2233 N Main St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203344633,
-    "wof:lastmodified":1449025050,
+    "wof:lastmodified":1466539461,
     "wof:name":"Kris's Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.823303,30.1448,-91.823303,30.1448],
+  "bbox": [
+    -91.823303,
+    30.1448,
+    -91.823303,
+    30.1448
+],
   "geometry": {"coordinates":[-91.823303,30.1448],"type":"Point"}
 }

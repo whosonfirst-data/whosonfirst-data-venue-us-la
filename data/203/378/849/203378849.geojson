@@ -2,13 +2,14 @@
   "id": 203378849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.723562,32.482925,-93.723562,32.482925",
     "geom:latitude":32.482925,
     "geom:longitude":-93.723562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 Youree Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203378849,
-    "wof:lastmodified":1449026253,
+    "wof:lastmodified":1466539514,
     "wof:name":"India's Restaurant",
     "wof:parent_id":85807711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.723562,32.482925,-93.723562,32.482925],
+  "bbox": [
+    -93.723562,
+    32.482925,
+    -93.723562,
+    32.482925
+],
   "geometry": {"coordinates":[-93.723562,32.482925],"type":"Point"}
 }

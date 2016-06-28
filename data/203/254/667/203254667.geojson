@@ -2,13 +2,14 @@
   "id": 203254667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.063202,29.9578,-90.063202,29.9578",
     "geom:latitude":29.9578,
     "geom:longitude":-90.063202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Pl John Paul Deaux",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203254667,
-    "wof:lastmodified":1449026283,
+    "wof:lastmodified":1466539325,
     "wof:name":"Friends of the Cabildo",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tour"
     ]
 },
-  "bbox": [-90.063202,29.9578,-90.063202,29.9578],
+  "bbox": [
+    -90.063202,
+    29.9578,
+    -90.063202,
+    29.9578
+],
   "geometry": {"coordinates":[-90.063202,29.9578],"type":"Point"}
 }

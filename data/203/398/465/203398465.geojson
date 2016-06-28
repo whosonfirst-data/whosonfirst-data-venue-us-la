@@ -2,13 +2,14 @@
   "id": 203398465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.093362,32.874591,-92.093362,32.874591",
     "geom:latitude":32.874591,
     "geom:longitude":-92.093362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3928 Alabama Lndg",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203398465,
-    "wof:lastmodified":1449025084,
+    "wof:lastmodified":1466539523,
     "wof:name":"Ouachita River Games Calls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.093362,32.874591,-92.093362,32.874591],
+  "bbox": [
+    -92.093362,
+    32.874591,
+    -92.093362,
+    32.874591
+],
   "geometry": {"coordinates":[-92.093362,32.874591],"type":"Point"}
 }

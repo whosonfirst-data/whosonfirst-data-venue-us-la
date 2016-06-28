@@ -2,13 +2,14 @@
   "id": 203320689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.024803,30.2924,-92.024803,30.2924",
     "geom:latitude":30.2924,
     "geom:longitude":-92.024803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3235 NW Evangeline Trwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203320689,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1466539429,
     "wof:name":"Picante Mexican Restaurant and Cantina",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-92.024803,30.2924,-92.024803,30.2924],
-  "geometry": {"coordinates":[-92.024803,30.2924],"type":"Point"}
+  "bbox": [
+    -92.024803,
+    30.2924,
+    -92.024803,
+    30.2924
+],
+  "geometry": {"coordinates":[-92.02480300000001,30.2924],"type":"Point"}
 }

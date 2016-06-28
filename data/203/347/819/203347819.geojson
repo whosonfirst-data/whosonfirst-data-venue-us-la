@@ -2,13 +2,14 @@
   "id": 203347819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.82867,30.12857,-91.82867,30.12857",
     "geom:latitude":30.12857,
     "geom:longitude":-91.82867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 Lewis St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203347819,
-    "wof:lastmodified":1449025829,
+    "wof:lastmodified":1466539471,
     "wof:name":"Schools Public",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.82867,30.12857,-91.82867,30.12857],
+  "bbox": [
+    -91.82867,
+    30.12857,
+    -91.82867,
+    30.12857
+],
   "geometry": {"coordinates":[-91.82867,30.12857],"type":"Point"}
 }

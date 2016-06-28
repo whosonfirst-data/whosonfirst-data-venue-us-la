@@ -2,13 +2,14 @@
   "id": 203329717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.958217,30.143809,-91.958217,30.143809",
     "geom:latitude":30.143809,
     "geom:longitude":-91.958217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Saint Deporres St",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203329717,
-    "wof:lastmodified":1449025428,
+    "wof:lastmodified":1466539447,
     "wof:name":"Rosa's Child Development",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-91.958217,30.143809,-91.958217,30.143809],
+  "bbox": [
+    -91.958217,
+    30.143809,
+    -91.958217,
+    30.143809
+],
   "geometry": {"coordinates":[-91.958217,30.143809],"type":"Point"}
 }

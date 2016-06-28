@@ -2,13 +2,14 @@
   "id": 203266487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.055994,29.964137,-90.055994,29.964137",
     "geom:latitude":29.964137,
     "geom:longitude":-90.055994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Elysian Fields Ave.",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203266487,
-    "wof:lastmodified":1449025011,
+    "wof:lastmodified":1466539345,
     "wof:name":"American Interior Plants & Aquatic Gardens Inc",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gardening"
     ]
 },
-  "bbox": [-90.055994,29.964137,-90.055994,29.964137],
+  "bbox": [
+    -90.055994,
+    29.964137,
+    -90.055994,
+    29.964137
+],
   "geometry": {"coordinates":[-90.055994,29.964137],"type":"Point"}
 }

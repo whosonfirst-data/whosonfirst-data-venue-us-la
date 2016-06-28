@@ -2,13 +2,14 @@
   "id": 203290437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064574,29.955425,-90.064574,29.955425",
     "geom:latitude":29.955425,
     "geom:longitude":-90.064574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 St. Louis St.",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203290437,
-    "wof:lastmodified":1449025740,
+    "wof:lastmodified":1466539377,
     "wof:name":"The Kupcake Factory",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.064574,29.955425,-90.064574,29.955425],
-  "geometry": {"coordinates":[-90.064574,29.955425],"type":"Point"}
+  "bbox": [
+    -90.064574,
+    29.955425,
+    -90.064574,
+    29.955425
+],
+  "geometry": {"coordinates":[-90.06457399999999,29.955425],"type":"Point"}
 }

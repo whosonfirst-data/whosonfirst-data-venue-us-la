@@ -2,13 +2,14 @@
   "id": 203329697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.963898,30.148399,-91.963898,30.148399",
     "geom:latitude":30.148399,
     "geom:longitude":-91.963898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 N Morgan Ave",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203329697,
-    "wof:lastmodified":1449025431,
+    "wof:lastmodified":1466539447,
     "wof:name":"Simon James E Attorney-At Law",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-91.963898,30.148399,-91.963898,30.148399],
+  "bbox": [
+    -91.963898,
+    30.148399,
+    -91.963898,
+    30.148399
+],
   "geometry": {"coordinates":[-91.963898,30.148399],"type":"Point"}
 }

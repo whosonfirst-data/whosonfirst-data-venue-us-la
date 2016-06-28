@@ -2,13 +2,14 @@
   "id": 203365901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.902475,32.987608,-93.902475,32.987608",
     "geom:latitude":32.987608,
     "geom:longitude":-93.902475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18316 Munnerlyn Chapel Rd",
     "sg:city":"Ida",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203365901,
-    "wof:lastmodified":1449025244,
+    "wof:lastmodified":1466539488,
     "wof:name":"Pearson Construction",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.902475,32.987608,-93.902475,32.987608],
+  "bbox": [
+    -93.902475,
+    32.987608,
+    -93.902475,
+    32.987608
+],
   "geometry": {"coordinates":[-93.902475,32.987608],"type":"Point"}
 }

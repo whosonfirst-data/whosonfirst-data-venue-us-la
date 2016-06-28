@@ -2,13 +2,14 @@
   "id": 203307085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.997468,30.248566,-91.997468,30.248566",
     "geom:latitude":30.248566,
     "geom:longitude":-91.997468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Martin Oaks Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203307085,
-    "wof:lastmodified":1449025405,
+    "wof:lastmodified":1466539397,
     "wof:name":"University Sports Publications",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-91.997468,30.248566,-91.997468,30.248566],
+  "bbox": [
+    -91.997468,
+    30.248566,
+    -91.997468,
+    30.248566
+],
   "geometry": {"coordinates":[-91.997468,30.248566],"type":"Point"}
 }

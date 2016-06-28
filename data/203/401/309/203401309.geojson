@@ -2,13 +2,14 @@
   "id": 203401309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.678118,31.535049,-93.678118,31.535049",
     "geom:latitude":31.535049,
     "geom:longitude":-93.678118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Tranquility Ln",
     "sg:city":"Zwolle",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203401309,
-    "wof:lastmodified":1449026565,
+    "wof:lastmodified":1466539527,
     "wof:name":"Yonkers Discount Batteries",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "vehicle"
     ]
 },
-  "bbox": [-93.678118,31.535049,-93.678118,31.535049],
+  "bbox": [
+    -93.678118,
+    31.535049,
+    -93.678118,
+    31.535049
+],
   "geometry": {"coordinates":[-93.678118,31.535049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203282425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.942703,29.991199,-89.942703,29.991199",
     "geom:latitude":29.991199,
     "geom:longitude":-89.942703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 Paris Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203282425,
-    "wof:lastmodified":1449026139,
+    "wof:lastmodified":1466539365,
     "wof:name":"Blue Dot Big Easy Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "boating"
     ]
 },
-  "bbox": [-89.942703,29.991199,-89.942703,29.991199],
-  "geometry": {"coordinates":[-89.942703,29.991199],"type":"Point"}
+  "bbox": [
+    -89.942703,
+    29.991199,
+    -89.942703,
+    29.991199
+],
+  "geometry": {"coordinates":[-89.94270299999999,29.991199],"type":"Point"}
 }

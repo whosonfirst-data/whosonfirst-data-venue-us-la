@@ -2,13 +2,14 @@
   "id": 203361623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.148604,30.170663,-91.148604,30.170663",
     "geom:latitude":30.170663,
     "geom:longitude":-91.148604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32495 Leona Ave",
     "sg:city":"White Castle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203361623,
-    "wof:lastmodified":1449026349,
+    "wof:lastmodified":1466539486,
     "wof:name":"Citizens Bank and Trust Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.148604,30.170663,-91.148604,30.170663],
-  "geometry": {"coordinates":[-91.148604,30.170663],"type":"Point"}
+  "bbox": [
+    -91.148604,
+    30.170663,
+    -91.148604,
+    30.170663
+],
+  "geometry": {"coordinates":[-91.14860400000001,30.170663],"type":"Point"}
 }

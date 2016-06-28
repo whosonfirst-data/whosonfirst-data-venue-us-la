@@ -2,13 +2,14 @@
   "id": 203243689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.016098,29.9223,-90.016098,29.9223",
     "geom:latitude":29.9223,
     "geom:longitude":-90.016098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 General Degaulle Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203243689,
-    "wof:lastmodified":1449025540,
+    "wof:lastmodified":1466539309,
     "wof:name":"Collins Ron Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.016098,29.9223,-90.016098,29.9223],
+  "bbox": [
+    -90.016098,
+    29.9223,
+    -90.016098,
+    29.9223
+],
   "geometry": {"coordinates":[-90.016098,29.9223],"type":"Point"}
 }

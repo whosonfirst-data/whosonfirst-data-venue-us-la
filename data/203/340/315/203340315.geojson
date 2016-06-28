@@ -2,13 +2,14 @@
   "id": 203340315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.822502,30.017,-91.822502,30.017",
     "geom:latitude":30.017,
     "geom:longitude":-91.822502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Camelia St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203340315,
-    "wof:lastmodified":1449026405,
+    "wof:lastmodified":1466539460,
     "wof:name":"Compressor Service Inc",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.822502,30.017,-91.822502,30.017],
+  "bbox": [
+    -91.822502,
+    30.017,
+    -91.822502,
+    30.017
+],
   "geometry": {"coordinates":[-91.822502,30.017],"type":"Point"}
 }

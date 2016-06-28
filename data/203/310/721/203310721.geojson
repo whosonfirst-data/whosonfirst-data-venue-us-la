@@ -2,13 +2,14 @@
   "id": 203310721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.028022,30.239212,-92.028022,30.239212",
     "geom:latitude":30.239212,
     "geom:longitude":-92.028022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Edison St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203310721,
-    "wof:lastmodified":1449026108,
+    "wof:lastmodified":1466539408,
     "wof:name":"St Anthony's Church",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.028022,30.239212,-92.028022,30.239212],
-  "geometry": {"coordinates":[-92.028022,30.239212],"type":"Point"}
+  "bbox": [
+    -92.028022,
+    30.239212,
+    -92.028022,
+    30.239212
+],
+  "geometry": {"coordinates":[-92.02802200000001,30.239212],"type":"Point"}
 }

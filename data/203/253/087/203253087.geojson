@@ -2,13 +2,14 @@
   "id": 203253087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.020322,29.924189,-90.020322,29.924189",
     "geom:latitude":29.924189,
     "geom:longitude":-90.020322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 General Degaulle Dr Ste B",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203253087,
-    "wof:lastmodified":1449026628,
+    "wof:lastmodified":1466539313,
     "wof:name":"Urgent Chiropractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.020322,29.924189,-90.020322,29.924189],
-  "geometry": {"coordinates":[-90.020322,29.924189],"type":"Point"}
+  "bbox": [
+    -90.020322,
+    29.924189,
+    -90.020322,
+    29.924189
+],
+  "geometry": {"coordinates":[-90.02032199999999,29.924189],"type":"Point"}
 }

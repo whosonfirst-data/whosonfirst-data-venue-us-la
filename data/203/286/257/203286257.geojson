@@ -2,13 +2,14 @@
   "id": 203286257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064672,29.957861,-90.064672,29.957861",
     "geom:latitude":29.957861,
     "geom:longitude":-90.064672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"618 Royal St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203286257,
-    "wof:lastmodified":1449025411,
+    "wof:lastmodified":1466539367,
     "wof:name":"Steve Jarrett Gallery",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.064672,29.957861,-90.064672,29.957861],
+  "bbox": [
+    -90.064672,
+    29.957861,
+    -90.064672,
+    29.957861
+],
   "geometry": {"coordinates":[-90.064672,29.957861],"type":"Point"}
 }

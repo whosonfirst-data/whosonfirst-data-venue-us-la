@@ -2,13 +2,14 @@
   "id": 203174465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.995921,29.864001,-89.995921,29.864001",
     "geom:latitude":29.864001,
     "geom:longitude":-89.995921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Woodland Hwy",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203174465,
-    "wof:lastmodified":1449025197,
+    "wof:lastmodified":1466540752,
     "wof:name":"New Living Way Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.995921,29.864001,-89.995921,29.864001],
+  "bbox": [
+    -89.995921,
+    29.864001,
+    -89.995921,
+    29.864001
+],
   "geometry": {"coordinates":[-89.995921,29.864001],"type":"Point"}
 }

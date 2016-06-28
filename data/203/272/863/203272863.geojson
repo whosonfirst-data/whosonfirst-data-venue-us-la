@@ -2,13 +2,14 @@
   "id": 203272863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.032449,30.015897,-90.032449,30.015897",
     "geom:latitude":30.015897,
     "geom:longitude":-90.032449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5501 France Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203272863,
-    "wof:lastmodified":1449026751,
+    "wof:lastmodified":1466539361,
     "wof:name":"Nola Carpet Cleaning",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-90.032449,30.015897,-90.032449,30.015897],
+  "bbox": [
+    -90.032449,
+    30.015897,
+    -90.032449,
+    30.015897
+],
   "geometry": {"coordinates":[-90.032449,30.015897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203346713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.816415,30.152313,-91.816415,30.152313",
     "geom:latitude":30.152313,
     "geom:longitude":-91.816415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1004 Industrial Prk Rd",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203346713,
-    "wof:lastmodified":1449024934,
+    "wof:lastmodified":1466539465,
     "wof:name":"St Martin Parish Animal Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.816415,30.152313,-91.816415,30.152313],
-  "geometry": {"coordinates":[-91.816415,30.152313],"type":"Point"}
+  "bbox": [
+    -91.816415,
+    30.152313,
+    -91.816415,
+    30.152313
+],
+  "geometry": {"coordinates":[-91.81641500000001,30.152313],"type":"Point"}
 }

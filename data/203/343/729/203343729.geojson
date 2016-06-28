@@ -2,13 +2,14 @@
   "id": 203343729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.824097,30.142,-91.824097,30.142",
     "geom:latitude":30.142,
     "geom:longitude":-91.824097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 N Main St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203343729,
-    "wof:lastmodified":1449026312,
+    "wof:lastmodified":1466539461,
     "wof:name":"Country Place Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-91.824097,30.142,-91.824097,30.142],
-  "geometry": {"coordinates":[-91.824097,30.142],"type":"Point"}
+  "bbox": [
+    -91.824097,
+    30.142,
+    -91.824097,
+    30.142
+],
+  "geometry": {"coordinates":[-91.82409699999999,30.142],"type":"Point"}
 }

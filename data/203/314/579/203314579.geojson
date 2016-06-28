@@ -2,13 +2,14 @@
   "id": 203314579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.006401,30.245701,-92.006401,30.245701",
     "geom:latitude":30.245701,
     "geom:longitude":-92.006401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 Moss St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203314579,
-    "wof:lastmodified":1449026793,
+    "wof:lastmodified":1466539414,
     "wof:name":"Ace 24 Hour Tire Service",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-92.006401,30.245701,-92.006401,30.245701],
+  "bbox": [
+    -92.006401,
+    30.245701,
+    -92.006401,
+    30.245701
+],
   "geometry": {"coordinates":[-92.006401,30.245701],"type":"Point"}
 }

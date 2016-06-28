@@ -2,13 +2,14 @@
   "id": 203367417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.876427,32.361434,-93.876427,32.361434",
     "geom:latitude":32.361434,
     "geom:longitude":-93.876427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10306 Pheasant Trl",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203367417,
-    "wof:lastmodified":1449026068,
+    "wof:lastmodified":1466539490,
     "wof:name":"Gm Colorado Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "car"
     ]
 },
-  "bbox": [-93.876427,32.361434,-93.876427,32.361434],
-  "geometry": {"coordinates":[-93.876427,32.361434],"type":"Point"}
+  "bbox": [
+    -93.876427,
+    32.361434,
+    -93.876427,
+    32.361434
+],
+  "geometry": {"coordinates":[-93.87642700000001,32.361434],"type":"Point"}
 }

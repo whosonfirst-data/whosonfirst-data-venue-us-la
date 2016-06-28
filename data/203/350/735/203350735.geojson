@@ -2,13 +2,14 @@
   "id": 203350735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.05802,30.240351,-92.05802,30.240351",
     "geom:latitude":30.240351,
     "geom:longitude":-92.05802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 N Pat St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203350735,
-    "wof:lastmodified":1449025895,
+    "wof:lastmodified":1466539478,
     "wof:name":"Lrj Lebeouf Llc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-92.05802,30.240351,-92.05802,30.240351],
+  "bbox": [
+    -92.05802,
+    30.240351,
+    -92.05802,
+    30.240351
+],
   "geometry": {"coordinates":[-92.05802,30.240351],"type":"Point"}
 }

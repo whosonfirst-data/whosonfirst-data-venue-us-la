@@ -2,13 +2,14 @@
   "id": 203379717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.837849,32.543598,-93.837849,32.543598",
     "geom:latitude":32.543598,
     "geom:longitude":-93.837849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 W Dr Martin Luther King Dr Mrtn Lther King",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203379717,
-    "wof:lastmodified":1449026041,
+    "wof:lastmodified":1466539510,
     "wof:name":"Hearnes Roofing",
     "wof:parent_id":85880989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.837849,32.543598,-93.837849,32.543598],
-  "geometry": {"coordinates":[-93.837849,32.543598],"type":"Point"}
+  "bbox": [
+    -93.837849,
+    32.543598,
+    -93.837849,
+    32.543598
+],
+  "geometry": {"coordinates":[-93.83784900000001,32.543598],"type":"Point"}
 }

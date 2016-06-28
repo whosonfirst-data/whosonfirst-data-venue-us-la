@@ -2,13 +2,14 @@
   "id": 203321135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.005302,30.2868,-92.005302,30.2868",
     "geom:latitude":30.2868,
     "geom:longitude":-92.005302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 E Butcher Switch Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203321135,
-    "wof:lastmodified":1449024988,
+    "wof:lastmodified":1466539421,
     "wof:name":"Carencro High School French Department",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-92.005302,30.2868,-92.005302,30.2868],
+  "bbox": [
+    -92.005302,
+    30.2868,
+    -92.005302,
+    30.2868
+],
   "geometry": {"coordinates":[-92.005302,30.2868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203187045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.065002,29.9167,-90.065002,29.9167",
     "geom:latitude":29.9167,
     "geom:longitude":-90.065002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"718 3rd St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203187045,
-    "wof:lastmodified":1449025221,
+    "wof:lastmodified":1466540985,
     "wof:name":"The Law Office of J Hunter Bienvenu",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "injury"
     ]
 },
-  "bbox": [-90.065002,29.9167,-90.065002,29.9167],
-  "geometry": {"coordinates":[-90.065002,29.9167],"type":"Point"}
+  "bbox": [
+    -90.065002,
+    29.9167,
+    -90.065002,
+    29.9167
+],
+  "geometry": {"coordinates":[-90.06500200000001,29.9167],"type":"Point"}
 }

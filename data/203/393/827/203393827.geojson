@@ -2,13 +2,14 @@
   "id": 203393827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.915649,32.777212,-91.915649,32.777212",
     "geom:latitude":32.777212,
     "geom:longitude":-91.915649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 S Vine St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203393827,
-    "wof:lastmodified":1449025513,
+    "wof:lastmodified":1466539522,
     "wof:name":"Carter & Cox Inc Drs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.915649,32.777212,-91.915649,32.777212],
+  "bbox": [
+    -91.915649,
+    32.777212,
+    -91.915649,
+    32.777212
+],
   "geometry": {"coordinates":[-91.915649,32.777212],"type":"Point"}
 }

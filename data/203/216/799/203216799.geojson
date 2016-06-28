@@ -2,13 +2,14 @@
   "id": 203216799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042397,29.917601,-90.042397,29.917601",
     "geom:latitude":29.917601,
     "geom:longitude":-90.042397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Whitney Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":203216799,
-    "wof:lastmodified":1449026657,
+    "wof:lastmodified":1466539286,
     "wof:name":"Gaubert Jimmie J Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.042397,29.917601,-90.042397,29.917601],
-  "geometry": {"coordinates":[-90.042397,29.917601],"type":"Point"}
+  "bbox": [
+    -90.042397,
+    29.917601,
+    -90.042397,
+    29.917601
+],
+  "geometry": {"coordinates":[-90.04239699999999,29.917601],"type":"Point"}
 }

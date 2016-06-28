@@ -2,13 +2,14 @@
   "id": 203309777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.019096,30.231001,-92.019096,30.231001",
     "geom:latitude":30.231001,
     "geom:longitude":-92.019096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 S Pierce St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203309777,
-    "wof:lastmodified":1449025340,
+    "wof:lastmodified":1466539412,
     "wof:name":"Food World",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.019096,30.231001,-92.019096,30.231001],
+  "bbox": [
+    -92.019096,
+    30.231001,
+    -92.019096,
+    30.231001
+],
   "geometry": {"coordinates":[-92.019096,30.231001],"type":"Point"}
 }

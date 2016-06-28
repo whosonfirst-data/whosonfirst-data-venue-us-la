@@ -2,13 +2,14 @@
   "id": 203352629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.063004,30.238899,-92.063004,30.238899",
     "geom:latitude":30.238899,
     "geom:longitude":-92.063004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Savonne Dr",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203352629,
-    "wof:lastmodified":1449026102,
+    "wof:lastmodified":1466539479,
     "wof:name":"Cajun Off-Road",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-92.063004,30.238899,-92.063004,30.238899],
-  "geometry": {"coordinates":[-92.063004,30.238899],"type":"Point"}
+  "bbox": [
+    -92.063004,
+    30.238899,
+    -92.063004,
+    30.238899
+],
+  "geometry": {"coordinates":[-92.06300400000001,30.238899],"type":"Point"}
 }

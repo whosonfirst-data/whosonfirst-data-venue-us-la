@@ -2,13 +2,14 @@
   "id": 203397945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.203126,32.84546,-92.203126,32.84546",
     "geom:latitude":32.84546,
     "geom:longitude":-92.203126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Defee Lankford Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203397945,
-    "wof:lastmodified":1449025672,
+    "wof:lastmodified":1466539528,
     "wof:name":"Judys Hair Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "stylist"
     ]
 },
-  "bbox": [-92.203126,32.84546,-92.203126,32.84546],
+  "bbox": [
+    -92.203126,
+    32.84546,
+    -92.203126,
+    32.84546
+],
   "geometry": {"coordinates":[-92.203126,32.84546],"type":"Point"}
 }

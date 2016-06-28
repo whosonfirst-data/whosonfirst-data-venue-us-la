@@ -2,13 +2,14 @@
   "id": 203286493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.059784,29.960071,-90.059784,29.960071",
     "geom:latitude":29.960071,
     "geom:longitude":-90.059784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Rue Decatur",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":203286493,
-    "wof:lastmodified":1449025413,
+    "wof:lastmodified":1466539374,
     "wof:name":"Magnolia Grill of New Orleans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "brunch"
     ]
 },
-  "bbox": [-90.059784,29.960071,-90.059784,29.960071],
-  "geometry": {"coordinates":[-90.059784,29.960071],"type":"Point"}
+  "bbox": [
+    -90.059784,
+    29.960071,
+    -90.059784,
+    29.960071
+],
+  "geometry": {"coordinates":[-90.05978399999999,29.960071],"type":"Point"}
 }

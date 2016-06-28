@@ -2,13 +2,14 @@
   "id": 337288385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06558,29.957484,-90.06558,29.957484",
     "geom:latitude":29.957484,
     "geom:longitude":-90.06558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 Toulouse St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":337288385,
-    "wof:lastmodified":1449027025,
+    "wof:lastmodified":1466541061,
     "wof:name":"Hertz New Orleans",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.06558,29.957484,-90.06558,29.957484],
+  "bbox": [
+    -90.06558,
+    29.957484,
+    -90.06558,
+    29.957484
+],
   "geometry": {"coordinates":[-90.06558,29.957484],"type":"Point"}
 }

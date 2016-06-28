@@ -2,13 +2,14 @@
   "id": 203335991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.842499,30.001301,-91.842499,30.001301",
     "geom:latitude":30.001301,
     "geom:longitude":-91.842499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Jefferson Island Rd",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203335991,
-    "wof:lastmodified":1449026231,
+    "wof:lastmodified":1466539460,
     "wof:name":"Mark's Mobile Home Movers",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-91.842499,30.001301,-91.842499,30.001301],
+  "bbox": [
+    -91.842499,
+    30.001301,
+    -91.842499,
+    30.001301
+],
   "geometry": {"coordinates":[-91.842499,30.001301],"type":"Point"}
 }

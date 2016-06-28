@@ -2,13 +2,14 @@
   "id": 203342759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.823478,30.143348,-91.823478,30.143348",
     "geom:latitude":30.143348,
     "geom:longitude":-91.823478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Elizabeth Dr",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203342759,
-    "wof:lastmodified":1449026742,
+    "wof:lastmodified":1466539461,
     "wof:name":"Castille's Auto and Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.823478,30.143348,-91.823478,30.143348],
-  "geometry": {"coordinates":[-91.823478,30.143348],"type":"Point"}
+  "bbox": [
+    -91.823478,
+    30.143348,
+    -91.823478,
+    30.143348
+],
+  "geometry": {"coordinates":[-91.82347799999999,30.143348],"type":"Point"}
 }

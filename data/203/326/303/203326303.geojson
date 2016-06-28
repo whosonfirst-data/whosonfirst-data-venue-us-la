@@ -2,13 +2,14 @@
   "id": 203326303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.945702,30.141701,-91.945702,30.141701",
     "geom:latitude":30.141701,
     "geom:longitude":-91.945702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4604 Highway 90 E",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203326303,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466539429,
     "wof:name":"Circle K Stores Inc",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.945702,30.141701,-91.945702,30.141701],
+  "bbox": [
+    -91.945702,
+    30.141701,
+    -91.945702,
+    30.141701
+],
   "geometry": {"coordinates":[-91.945702,30.141701],"type":"Point"}
 }

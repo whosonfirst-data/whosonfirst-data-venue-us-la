@@ -2,13 +2,14 @@
   "id": 203257063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.057726,29.962909,-90.057726,29.962909",
     "geom:latitude":29.962909,
     "geom:longitude":-90.057726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Frenchmen St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203257063,
-    "wof:lastmodified":1449025464,
+    "wof:lastmodified":1466541039,
     "wof:name":"13 Monaghan",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "diner"
     ]
 },
-  "bbox": [-90.057726,29.962909,-90.057726,29.962909],
+  "bbox": [
+    -90.057726,
+    29.962909,
+    -90.057726,
+    29.962909
+],
   "geometry": {"coordinates":[-90.057726,29.962909],"type":"Point"}
 }

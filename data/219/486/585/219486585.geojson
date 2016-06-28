@@ -2,13 +2,14 @@
   "id": 219486585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.996351,32.36883,-93.996351,32.36883",
     "geom:latitude":32.36883,
     "geom:longitude":-93.996351,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10038 Gordon Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219486585,
-    "wof:lastmodified":1449072341,
+    "wof:lastmodified":1466539525,
     "wof:name":"Specialty Welding & Fab",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-93.996351,32.36883,-93.996351,32.36883],
+  "bbox": [
+    -93.996351,
+    32.36883,
+    -93.996351,
+    32.36883
+],
   "geometry": {"coordinates":[-93.996351,32.36883],"type":"Point"}
 }

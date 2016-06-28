@@ -2,13 +2,14 @@
   "id": 203300381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.008797,29.934401,-90.008797,29.934401",
     "geom:latitude":29.934401,
     "geom:longitude":-90.008797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4460 General Meyer Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203300381,
-    "wof:lastmodified":1449026021,
+    "wof:lastmodified":1466541047,
     "wof:name":"Parker Frank C PHD Apc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "psychiatrist"
     ]
 },
-  "bbox": [-90.008797,29.934401,-90.008797,29.934401],
+  "bbox": [
+    -90.008797,
+    29.934401,
+    -90.008797,
+    29.934401
+],
   "geometry": {"coordinates":[-90.008797,29.934401],"type":"Point"}
 }

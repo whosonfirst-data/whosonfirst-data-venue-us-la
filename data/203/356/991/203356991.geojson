@@ -2,13 +2,14 @@
   "id": 203356991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.437776,30.8487,-93.437776,30.8487",
     "geom:latitude":30.8487,
     "geom:longitude":-93.437776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"486 Paul Mcmillian Rd",
     "sg:city":"Deridder",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203356991,
-    "wof:lastmodified":1449026500,
+    "wof:lastmodified":1466539481,
     "wof:name":"Statewide Electrical Contracto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-93.437776,30.8487,-93.437776,30.8487],
+  "bbox": [
+    -93.437776,
+    30.8487,
+    -93.437776,
+    30.8487
+],
   "geometry": {"coordinates":[-93.437776,30.8487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203311925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.005203,30.255699,-92.005203,30.255699",
     "geom:latitude":30.255699,
     "geom:longitude":-92.005203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 Moss St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203311925,
-    "wof:lastmodified":1449025377,
+    "wof:lastmodified":1466539419,
     "wof:name":"Breaux's Deli",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-92.005203,30.255699,-92.005203,30.255699],
-  "geometry": {"coordinates":[-92.005203,30.255699],"type":"Point"}
+  "bbox": [
+    -92.005203,
+    30.255699,
+    -92.005203,
+    30.255699
+],
+  "geometry": {"coordinates":[-92.00520299999999,30.255699],"type":"Point"}
 }

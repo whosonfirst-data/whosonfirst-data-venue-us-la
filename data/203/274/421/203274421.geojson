@@ -2,13 +2,14 @@
   "id": 203274421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.043701,30.007099,-90.043701,30.007099",
     "geom:latitude":30.007099,
     "geom:longitude":-90.043701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4141 Leavell Ln",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203274421,
-    "wof:lastmodified":1449025179,
+    "wof:lastmodified":1466539350,
     "wof:name":"William Carey College School of Nrsngnw Orlns Cmps",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-90.043701,30.007099,-90.043701,30.007099],
+  "bbox": [
+    -90.043701,
+    30.007099,
+    -90.043701,
+    30.007099
+],
   "geometry": {"coordinates":[-90.043701,30.007099],"type":"Point"}
 }

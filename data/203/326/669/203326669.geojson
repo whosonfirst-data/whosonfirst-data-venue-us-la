@@ -2,13 +2,14 @@
   "id": 203326669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.952767,30.140386,-91.952767,30.140386",
     "geom:latitude":30.140386,
     "geom:longitude":-91.952767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Albertson Pkwy Ste E",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":203326669,
-    "wof:lastmodified":1449025733,
+    "wof:lastmodified":1466539437,
     "wof:name":"Planet Beach Contempo Spa",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.952767,30.140386,-91.952767,30.140386],
-  "geometry": {"coordinates":[-91.952767,30.140386],"type":"Point"}
+  "bbox": [
+    -91.952767,
+    30.140386,
+    -91.952767,
+    30.140386
+],
+  "geometry": {"coordinates":[-91.95276699999999,30.140386],"type":"Point"}
 }

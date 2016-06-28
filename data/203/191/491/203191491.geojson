@@ -2,13 +2,14 @@
   "id": 203191491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.046247,29.898986,-90.046247,29.898986",
     "geom:latitude":29.898986,
     "geom:longitude":-90.046247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Gretna Blvd",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203191491,
-    "wof:lastmodified":1449026083,
+    "wof:lastmodified":1466539254,
     "wof:name":"De-No Seafood Restaurant & Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "market"
     ]
 },
-  "bbox": [-90.046247,29.898986,-90.046247,29.898986],
-  "geometry": {"coordinates":[-90.046247,29.898986],"type":"Point"}
+  "bbox": [
+    -90.046247,
+    29.898986,
+    -90.046247,
+    29.898986
+],
+  "geometry": {"coordinates":[-90.04624699999999,29.898986],"type":"Point"}
 }

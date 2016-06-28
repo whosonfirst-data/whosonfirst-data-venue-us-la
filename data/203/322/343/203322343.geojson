@@ -2,13 +2,14 @@
   "id": 203322343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.03067,30.172041,-92.03067,30.172041",
     "geom:latitude":30.172041,
     "geom:longitude":-92.03067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Kaliste Saloom Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203322343,
-    "wof:lastmodified":1449024925,
+    "wof:lastmodified":1466539427,
     "wof:name":"A Flower Loft",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.03067,30.172041,-92.03067,30.172041],
+  "bbox": [
+    -92.03067,
+    30.172041,
+    -92.03067,
+    30.172041
+],
   "geometry": {"coordinates":[-92.03067,30.172041],"type":"Point"}
 }

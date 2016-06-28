@@ -2,13 +2,14 @@
   "id": 203398085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.349906,32.88524,-92.349906,32.88524",
     "geom:latitude":32.88524,
     "geom:longitude":-92.349906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"617 Burch Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203398085,
-    "wof:lastmodified":1449025083,
+    "wof:lastmodified":1466539521,
     "wof:name":"Ellis Tax Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-92.349906,32.88524,-92.349906,32.88524],
+  "bbox": [
+    -92.349906,
+    32.88524,
+    -92.349906,
+    32.88524
+],
   "geometry": {"coordinates":[-92.349906,32.88524],"type":"Point"}
 }

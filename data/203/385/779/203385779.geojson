@@ -2,13 +2,14 @@
   "id": 203385779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.797012,32.409738,-93.797012,32.409738",
     "geom:latitude":32.409738,
     "geom:longitude":-93.797012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9034 Mansfield Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203385779,
-    "wof:lastmodified":1449026072,
+    "wof:lastmodified":1466539517,
     "wof:name":"Bealls Department Store",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.797012,32.409738,-93.797012,32.409738],
+  "bbox": [
+    -93.797012,
+    32.409738,
+    -93.797012,
+    32.409738
+],
   "geometry": {"coordinates":[-93.797012,32.409738],"type":"Point"}
 }

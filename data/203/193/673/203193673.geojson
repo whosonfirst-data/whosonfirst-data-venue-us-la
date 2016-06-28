@@ -2,13 +2,14 @@
   "id": 203193673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042999,29.9259,-90.042999,29.9259",
     "geom:latitude":29.9259,
     "geom:longitude":-90.042999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 Leboeuf St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":203193673,
-    "wof:lastmodified":1449025247,
+    "wof:lastmodified":1466539263,
     "wof:name":"Sunrise Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.042999,29.9259,-90.042999,29.9259],
-  "geometry": {"coordinates":[-90.042999,29.9259],"type":"Point"}
+  "bbox": [
+    -90.042999,
+    29.9259,
+    -90.042999,
+    29.9259
+],
+  "geometry": {"coordinates":[-90.04299899999999,29.9259],"type":"Point"}
 }

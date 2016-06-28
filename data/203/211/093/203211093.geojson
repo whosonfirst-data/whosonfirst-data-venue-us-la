@@ -2,13 +2,14 @@
   "id": 203211093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030197,29.899401,-90.030197,29.899401",
     "geom:latitude":29.899401,
     "geom:longitude":-90.030197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"709 Terry Pkwy",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203211093,
-    "wof:lastmodified":1449025383,
+    "wof:lastmodified":1466539272,
     "wof:name":"McDonald's Westbank",
     "wof:parent_id":85866161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-90.030197,29.899401,-90.030197,29.899401],
+  "bbox": [
+    -90.030197,
+    29.899401,
+    -90.030197,
+    29.899401
+],
   "geometry": {"coordinates":[-90.030197,29.899401],"type":"Point"}
 }

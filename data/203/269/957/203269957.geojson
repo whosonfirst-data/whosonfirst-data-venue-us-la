@@ -2,13 +2,14 @@
   "id": 203269957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.059207,30.010032,-90.059207,30.010032",
     "geom:latitude":30.010032,
     "geom:longitude":-90.059207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 Western St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203269957,
-    "wof:lastmodified":1449026149,
+    "wof:lastmodified":1466539357,
     "wof:name":"Nolan Construction",
     "wof:parent_id":85866063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.059207,30.010032,-90.059207,30.010032],
+  "bbox": [
+    -90.059207,
+    30.010032,
+    -90.059207,
+    30.010032
+],
   "geometry": {"coordinates":[-90.059207,30.010032],"type":"Point"}
 }

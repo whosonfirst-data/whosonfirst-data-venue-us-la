@@ -2,13 +2,14 @@
   "id": 203275591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.023201,30.0224,-90.023201,30.0224",
     "geom:latitude":30.0224,
     "geom:longitude":-90.023201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6904 Downman Rd Ste B",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203275591,
-    "wof:lastmodified":1449025524,
+    "wof:lastmodified":1466539350,
     "wof:name":"Busy B's Car Stereo Alarms & Tint Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "installation"
     ]
 },
-  "bbox": [-90.023201,30.0224,-90.023201,30.0224],
+  "bbox": [
+    -90.023201,
+    30.0224,
+    -90.023201,
+    30.0224
+],
   "geometry": {"coordinates":[-90.023201,30.0224],"type":"Point"}
 }

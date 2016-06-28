@@ -2,13 +2,14 @@
   "id": 203345587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.83368,30.113005,-91.83368,30.113005",
     "geom:latitude":30.113005,
     "geom:longitude":-91.83368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 N Main St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203345587,
-    "wof:lastmodified":1449026719,
+    "wof:lastmodified":1466539463,
     "wof:name":"Longfellow-Evangeline State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.83368,30.113005,-91.83368,30.113005],
+  "bbox": [
+    -91.83368,
+    30.113005,
+    -91.83368,
+    30.113005
+],
   "geometry": {"coordinates":[-91.83368,30.113005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203271257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.052399,30.0264,-90.052399,30.0264",
     "geom:latitude":30.0264,
     "geom:longitude":-90.052399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Franklin Ave Frnt",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203271257,
-    "wof:lastmodified":1449025933,
+    "wof:lastmodified":1466539347,
     "wof:name":"USA Cleaners",
     "wof:parent_id":85829167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.052399,30.0264,-90.052399,30.0264],
-  "geometry": {"coordinates":[-90.052399,30.0264],"type":"Point"}
+  "bbox": [
+    -90.052399,
+    30.0264,
+    -90.052399,
+    30.0264
+],
+  "geometry": {"coordinates":[-90.05239899999999,30.0264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203400785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.643408,31.63354,-93.643408,31.63354",
     "geom:latitude":31.63354,
     "geom:longitude":-93.643408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2087 Obrie St",
     "sg:city":"Zwolle",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203400785,
-    "wof:lastmodified":1449025122,
+    "wof:lastmodified":1466539530,
     "wof:name":"Sabine State Bank Zwolle Branch",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.643408,31.63354,-93.643408,31.63354],
-  "geometry": {"coordinates":[-93.643408,31.63354],"type":"Point"}
+  "bbox": [
+    -93.643408,
+    31.63354,
+    -93.643408,
+    31.63354
+],
+  "geometry": {"coordinates":[-93.64340799999999,31.63354],"type":"Point"}
 }

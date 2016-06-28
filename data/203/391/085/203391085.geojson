@@ -2,13 +2,14 @@
   "id": 203391085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.003019,32.329706,-94.003019,32.329706",
     "geom:latitude":32.329706,
     "geom:longitude":-94.003019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3853 Christy Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203391085,
-    "wof:lastmodified":1449026184,
+    "wof:lastmodified":1466539512,
     "wof:name":"Fantastic Air",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.003019,32.329706,-94.003019,32.329706],
-  "geometry": {"coordinates":[-94.003019,32.329706],"type":"Point"}
+  "bbox": [
+    -94.003019,
+    32.329706,
+    -94.003019,
+    32.329706
+],
+  "geometry": {"coordinates":[-94.00301899999999,32.329706],"type":"Point"}
 }

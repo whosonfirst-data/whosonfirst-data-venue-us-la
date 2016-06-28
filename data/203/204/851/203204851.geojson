@@ -2,13 +2,14 @@
   "id": 203204851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.019281,29.889294,-90.019281,29.889294",
     "geom:latitude":29.889294,
     "geom:longitude":-90.019281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Behrman Hwy Ste 17",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203204851,
-    "wof:lastmodified":1449026899,
+    "wof:lastmodified":1466539273,
     "wof:name":"Lloyd & Taylor Mortgage Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-90.019281,29.889294,-90.019281,29.889294],
-  "geometry": {"coordinates":[-90.019281,29.889294],"type":"Point"}
+  "bbox": [
+    -90.019281,
+    29.889294,
+    -90.019281,
+    29.889294
+],
+  "geometry": {"coordinates":[-90.01928100000001,29.889294],"type":"Point"}
 }

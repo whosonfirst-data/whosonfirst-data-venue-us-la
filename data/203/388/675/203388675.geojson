@@ -2,13 +2,14 @@
   "id": 203388675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.874923,32.479448,-93.874923,32.479448",
     "geom:latitude":32.479448,
     "geom:longitude":-93.874923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6526 Jefferson Paige Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203388675,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1466539518,
     "wof:name":"Hindu Cultural Center",
     "wof:parent_id":85857989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "denomination"
     ]
 },
-  "bbox": [-93.874923,32.479448,-93.874923,32.479448],
+  "bbox": [
+    -93.874923,
+    32.479448,
+    -93.874923,
+    32.479448
+],
   "geometry": {"coordinates":[-93.874923,32.479448],"type":"Point"}
 }

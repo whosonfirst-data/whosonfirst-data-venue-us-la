@@ -2,13 +2,14 @@
   "id": 203303429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.833437,29.793951,-90.833437,29.793951",
     "geom:latitude":29.793951,
     "geom:longitude":-90.833437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Hickory St",
     "sg:city":"Thibodaux",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203303429,
-    "wof:lastmodified":1449024954,
+    "wof:lastmodified":1466539395,
     "wof:name":"Ayo Orgeron & Ayo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "public"
     ]
 },
-  "bbox": [-90.833437,29.793951,-90.833437,29.793951],
+  "bbox": [
+    -90.833437,
+    29.793951,
+    -90.833437,
+    29.793951
+],
   "geometry": {"coordinates":[-90.833437,29.793951],"type":"Point"}
 }

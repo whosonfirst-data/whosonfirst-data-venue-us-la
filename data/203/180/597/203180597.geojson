@@ -2,13 +2,14 @@
   "id": 203180597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.977303,29.952999,-89.977303,29.952999",
     "geom:latitude":29.952999,
     "geom:longitude":-89.977303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8823 W Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203180597,
-    "wof:lastmodified":1449025031,
+    "wof:lastmodified":1466540891,
     "wof:name":"Annie's News Pub",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-89.977303,29.952999,-89.977303,29.952999],
-  "geometry": {"coordinates":[-89.977303,29.952999],"type":"Point"}
+  "bbox": [
+    -89.977303,
+    29.952999,
+    -89.977303,
+    29.952999
+],
+  "geometry": {"coordinates":[-89.97730300000001,29.952999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203250579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.025223,29.928662,-90.025223,29.928662",
     "geom:latitude":29.928662,
     "geom:longitude":-90.025223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 Sandra Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203250579,
-    "wof:lastmodified":1449026034,
+    "wof:lastmodified":1466539315,
     "wof:name":"Crescent City Gates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.025223,29.928662,-90.025223,29.928662],
+  "bbox": [
+    -90.025223,
+    29.928662,
+    -90.025223,
+    29.928662
+],
   "geometry": {"coordinates":[-90.025223,29.928662],"type":"Point"}
 }

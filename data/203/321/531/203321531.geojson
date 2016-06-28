@@ -2,13 +2,14 @@
   "id": 203321531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.013603,30.2777,-92.013603,30.2777",
     "geom:latitude":30.2777,
     "geom:longitude":-92.013603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Phlox Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203321531,
-    "wof:lastmodified":1449024988,
+    "wof:lastmodified":1466539428,
     "wof:name":"A A A Budget Furniture Movers",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-92.013603,30.2777,-92.013603,30.2777],
+  "bbox": [
+    -92.013603,
+    30.2777,
+    -92.013603,
+    30.2777
+],
   "geometry": {"coordinates":[-92.013603,30.2777],"type":"Point"}
 }

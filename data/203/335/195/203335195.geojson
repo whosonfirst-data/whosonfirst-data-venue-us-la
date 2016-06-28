@@ -2,13 +2,14 @@
   "id": 203335195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.836163,30.004083,-91.836163,30.004083",
     "geom:latitude":30.004083,
     "geom:longitude":-91.836163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 S Hopkins St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203335195,
-    "wof:lastmodified":1449026233,
+    "wof:lastmodified":1466539444,
     "wof:name":"St Francis Diner",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diner"
     ]
 },
-  "bbox": [-91.836163,30.004083,-91.836163,30.004083],
+  "bbox": [
+    -91.836163,
+    30.004083,
+    -91.836163,
+    30.004083
+],
   "geometry": {"coordinates":[-91.836163,30.004083],"type":"Point"}
 }

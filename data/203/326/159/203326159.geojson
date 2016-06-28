@@ -2,13 +2,14 @@
   "id": 203326159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.945219,30.140603,-91.945219,30.140603",
     "geom:latitude":30.140603,
     "geom:longitude":-91.945219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Saint Nazaire Rd",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203326159,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466539424,
     "wof:name":"Hibbett Sports",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.945219,30.140603,-91.945219,30.140603],
-  "geometry": {"coordinates":[-91.945219,30.140603],"type":"Point"}
+  "bbox": [
+    -91.945219,
+    30.140603,
+    -91.945219,
+    30.140603
+],
+  "geometry": {"coordinates":[-91.94521899999999,30.140603],"type":"Point"}
 }

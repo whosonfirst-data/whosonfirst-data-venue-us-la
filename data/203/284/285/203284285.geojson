@@ -2,13 +2,14 @@
   "id": 203284285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.066569,29.947272,-90.066569,29.947272",
     "geom:latitude":29.947272,
     "geom:longitude":-90.066569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Lafayette St Ste 300",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203284285,
-    "wof:lastmodified":1449026124,
+    "wof:lastmodified":1466539369,
     "wof:name":"North American Crushing & Screening Llc",
     "wof:parent_id":85866969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.066569,29.947272,-90.066569,29.947272],
+  "bbox": [
+    -90.066569,
+    29.947272,
+    -90.066569,
+    29.947272
+],
   "geometry": {"coordinates":[-90.066569,29.947272],"type":"Point"}
 }

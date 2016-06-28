@@ -2,13 +2,14 @@
   "id": 203335273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.822675,29.998621,-91.822675,29.998621",
     "geom:latitude":29.998621,
     "geom:longitude":-91.822675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 Center St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203335273,
-    "wof:lastmodified":1449026230,
+    "wof:lastmodified":1466539446,
     "wof:name":"Chase",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.822675,29.998621,-91.822675,29.998621],
+  "bbox": [
+    -91.822675,
+    29.998621,
+    -91.822675,
+    29.998621
+],
   "geometry": {"coordinates":[-91.822675,29.998621],"type":"Point"}
 }

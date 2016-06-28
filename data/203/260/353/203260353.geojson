@@ -2,13 +2,14 @@
   "id": 203260353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.05742,29.961727,-90.05742,29.961727",
     "geom:latitude":29.961727,
     "geom:longitude":-90.05742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Esplanade Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203260353,
-    "wof:lastmodified":1449025260,
+    "wof:lastmodified":1466539328,
     "wof:name":"Tomatillo's",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-90.05742,29.961727,-90.05742,29.961727],
-  "geometry": {"coordinates":[-90.05742,29.961727],"type":"Point"}
+  "bbox": [
+    -90.05742,
+    29.961727,
+    -90.05742,
+    29.961727
+],
+  "geometry": {"coordinates":[-90.05741999999999,29.961727],"type":"Point"}
 }

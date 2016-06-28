@@ -2,13 +2,14 @@
   "id": 252910615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.928074,32.869886,-93.928074,32.869886",
     "geom:latitude":32.869886,
     "geom:longitude":-93.928074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8055 Hosston Vivian Rd",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252910615,
-    "wof:lastmodified":1449005859,
+    "wof:lastmodified":1466541055,
     "wof:name":"Billy's Motor Shop",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "field"
     ]
 },
-  "bbox": [-93.928074,32.869886,-93.928074,32.869886],
+  "bbox": [
+    -93.928074,
+    32.869886,
+    -93.928074,
+    32.869886
+],
   "geometry": {"coordinates":[-93.928074,32.869886],"type":"Point"}
 }

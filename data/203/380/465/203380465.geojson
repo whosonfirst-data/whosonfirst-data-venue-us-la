@@ -2,13 +2,14 @@
   "id": 203380465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.773458,32.53461,-93.773458,32.53461",
     "geom:latitude":32.53461,
     "geom:longitude":-93.773458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 N Hearne Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":203380465,
-    "wof:lastmodified":1449025795,
+    "wof:lastmodified":1466539505,
     "wof:name":"Premier Air Conditioning & Heating",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-93.773458,32.53461,-93.773458,32.53461],
-  "geometry": {"coordinates":[-93.773458,32.53461],"type":"Point"}
+  "bbox": [
+    -93.773458,
+    32.53461,
+    -93.773458,
+    32.53461
+],
+  "geometry": {"coordinates":[-93.77345800000001,32.53461],"type":"Point"}
 }

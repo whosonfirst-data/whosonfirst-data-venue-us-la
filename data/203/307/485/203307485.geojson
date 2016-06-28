@@ -2,13 +2,14 @@
   "id": 203307485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.031098,30.238255,-92.031098,30.238255",
     "geom:latitude":30.238255,
     "geom:longitude":-92.031098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Joan St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203307485,
-    "wof:lastmodified":1449025406,
+    "wof:lastmodified":1466539406,
     "wof:name":"New Horizon Early Childhood Development Center Llc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-92.031098,30.238255,-92.031098,30.238255],
+  "bbox": [
+    -92.031098,
+    30.238255,
+    -92.031098,
+    30.238255
+],
   "geometry": {"coordinates":[-92.031098,30.238255],"type":"Point"}
 }

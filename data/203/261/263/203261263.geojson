@@ -2,13 +2,14 @@
   "id": 203261263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06506,29.960858,-90.06506,29.960858",
     "geom:latitude":29.960858,
     "geom:longitude":-90.06506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Dauphine St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -66,16 +67,22 @@
         }
     ],
     "wof:id":203261263,
-    "wof:lastmodified":1449024978,
+    "wof:lastmodified":1466539326,
     "wof:name":"Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-90.06506,29.960858,-90.06506,29.960858],
+  "bbox": [
+    -90.06506,
+    29.960858,
+    -90.06506,
+    29.960858
+],
   "geometry": {"coordinates":[-90.06506,29.960858],"type":"Point"}
 }

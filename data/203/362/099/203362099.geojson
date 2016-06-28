@@ -2,13 +2,14 @@
   "id": 203362099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.151802,30.1726,-91.151802,30.1726",
     "geom:latitude":30.1726,
     "geom:longitude":-91.151802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32015 Highway 1",
     "sg:city":"White Castle",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":203362099,
-    "wof:lastmodified":1449026199,
+    "wof:lastmodified":1466539483,
     "wof:name":"Bordelon Chevron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.151802,30.1726,-91.151802,30.1726],
+  "bbox": [
+    -91.151802,
+    30.1726,
+    -91.151802,
+    30.1726
+],
   "geometry": {"coordinates":[-91.151802,30.1726],"type":"Point"}
 }

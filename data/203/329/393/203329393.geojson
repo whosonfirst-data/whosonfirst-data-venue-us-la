@@ -2,13 +2,14 @@
   "id": 203329393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.978167,30.157546,-91.978167,30.157546",
     "geom:latitude":30.157546,
     "geom:longitude":-91.978167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Industrial Trce",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203329393,
-    "wof:lastmodified":1449025432,
+    "wof:lastmodified":1466539442,
     "wof:name":"Whc Inc",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.978167,30.157546,-91.978167,30.157546],
+  "bbox": [
+    -91.978167,
+    30.157546,
+    -91.978167,
+    30.157546
+],
   "geometry": {"coordinates":[-91.978167,30.157546],"type":"Point"}
 }

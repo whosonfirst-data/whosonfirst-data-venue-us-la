@@ -2,13 +2,14 @@
   "id": 203362549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.957036,32.44273,-93.957036,32.44273",
     "geom:latitude":32.44273,
     "geom:longitude":-93.957036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8910 Greenwood Rd Apt 400",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203362549,
-    "wof:lastmodified":1449026198,
+    "wof:lastmodified":1466539492,
     "wof:name":"Greenwood Elderly Apartments",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "finder"
     ]
 },
-  "bbox": [-93.957036,32.44273,-93.957036,32.44273],
+  "bbox": [
+    -93.957036,
+    32.44273,
+    -93.957036,
+    32.44273
+],
   "geometry": {"coordinates":[-93.957036,32.44273],"type":"Point"}
 }

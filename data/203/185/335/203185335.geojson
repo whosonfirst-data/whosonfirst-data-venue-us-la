@@ -2,13 +2,14 @@
   "id": 203185335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.961361,29.941648,-89.961361,29.941648",
     "geom:latitude":29.941648,
     "geom:longitude":-89.961361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 E Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203185335,
-    "wof:lastmodified":1449025253,
+    "wof:lastmodified":1466540991,
     "wof:name":"Desi Romano's Sports Bar",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-89.961361,29.941648,-89.961361,29.941648],
+  "bbox": [
+    -89.961361,
+    29.941648,
+    -89.961361,
+    29.941648
+],
   "geometry": {"coordinates":[-89.961361,29.941648],"type":"Point"}
 }

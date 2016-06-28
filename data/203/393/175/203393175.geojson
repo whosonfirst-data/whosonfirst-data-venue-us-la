@@ -2,13 +2,14 @@
   "id": 203393175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.90044,32.781584,-91.90044,32.781584",
     "geom:latitude":32.781584,
     "geom:longitude":-91.90044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 E Madison Ave",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203393175,
-    "wof:lastmodified":1449025515,
+    "wof:lastmodified":1466539516,
     "wof:name":"Mid-Town Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-91.90044,32.781584,-91.90044,32.781584],
+  "bbox": [
+    -91.90044,
+    32.781584,
+    -91.90044,
+    32.781584
+],
   "geometry": {"coordinates":[-91.90044,32.781584],"type":"Point"}
 }

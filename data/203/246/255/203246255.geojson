@@ -2,13 +2,14 @@
   "id": 203246255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.028801,29.9223,-90.028801,29.9223",
     "geom:latitude":29.9223,
     "geom:longitude":-90.028801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3031 Behrman Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203246255,
-    "wof:lastmodified":1449025063,
+    "wof:lastmodified":1466539306,
     "wof:name":"Jehovah's Witnesses Kingdom Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.028801,29.9223,-90.028801,29.9223],
+  "bbox": [
+    -90.028801,
+    29.9223,
+    -90.028801,
+    29.9223
+],
   "geometry": {"coordinates":[-90.028801,29.9223],"type":"Point"}
 }

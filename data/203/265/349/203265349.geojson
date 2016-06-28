@@ -2,13 +2,14 @@
   "id": 203265349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.048368,29.974202,-90.048368,29.974202",
     "geom:latitude":29.974202,
     "geom:longitude":-90.048368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1611 Franklin Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203265349,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1466539338,
     "wof:name":"Red Apple",
     "wof:parent_id":85866095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-90.048368,29.974202,-90.048368,29.974202],
+  "bbox": [
+    -90.048368,
+    29.974202,
+    -90.048368,
+    29.974202
+],
   "geometry": {"coordinates":[-90.048368,29.974202],"type":"Point"}
 }

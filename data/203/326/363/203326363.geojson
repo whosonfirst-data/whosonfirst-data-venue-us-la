@@ -2,13 +2,14 @@
   "id": 203326363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.941962,30.101858,-91.941962,30.101858",
     "geom:latitude":30.101858,
     "geom:longitude":-91.941962,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6100 Highway 90 E",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203326363,
-    "wof:lastmodified":1449025736,
+    "wof:lastmodified":1466539431,
     "wof:name":"Coastal Construction & Engineering",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.941962,30.101858,-91.941962,30.101858],
+  "bbox": [
+    -91.941962,
+    30.101858,
+    -91.941962,
+    30.101858
+],
   "geometry": {"coordinates":[-91.941962,30.101858],"type":"Point"}
 }

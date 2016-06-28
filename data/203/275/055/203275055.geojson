@@ -2,13 +2,14 @@
   "id": 203275055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.989492,30.014203,-89.989492,30.014203",
     "geom:latitude":30.014203,
     "geom:longitude":-89.989492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8323 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203275055,
-    "wof:lastmodified":1449025522,
+    "wof:lastmodified":1466539344,
     "wof:name":"Perez Arthur Moving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-89.989492,30.014203,-89.989492,30.014203],
+  "bbox": [
+    -89.989492,
+    30.014203,
+    -89.989492,
+    30.014203
+],
   "geometry": {"coordinates":[-89.989492,30.014203],"type":"Point"}
 }

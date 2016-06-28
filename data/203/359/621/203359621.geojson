@@ -2,13 +2,14 @@
   "id": 203359621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.0951,30.258101,-91.0951,30.258101",
     "geom:latitude":30.258101,
     "geom:longitude":-91.0951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 Bank Dr",
     "sg:city":"Saint Gabriel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203359621,
-    "wof:lastmodified":1449024916,
+    "wof:lastmodified":1466539480,
     "wof:name":"Hornstein Robert D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.0951,30.258101,-91.0951,30.258101],
+  "bbox": [
+    -91.0951,
+    30.258101,
+    -91.0951,
+    30.258101
+],
   "geometry": {"coordinates":[-91.0951,30.258101],"type":"Point"}
 }

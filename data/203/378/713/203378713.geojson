@@ -2,13 +2,14 @@
   "id": 203378713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.780144,32.508179,-93.780144,32.508179",
     "geom:latitude":32.508179,
     "geom:longitude":-93.780144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Hearne Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203378713,
-    "wof:lastmodified":1449026257,
+    "wof:lastmodified":1466539511,
     "wof:name":"Wallette Lakeside Branch",
     "wof:parent_id":85814935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-93.780144,32.508179,-93.780144,32.508179],
-  "geometry": {"coordinates":[-93.780144,32.508179],"type":"Point"}
+  "bbox": [
+    -93.780144,
+    32.508179,
+    -93.780144,
+    32.508179
+],
+  "geometry": {"coordinates":[-93.78014400000001,32.508179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203281769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.916778,30.027133,-89.916778,30.027133",
     "geom:latitude":30.027133,
     "geom:longitude":-89.916778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13800 Old Gentilly Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203281769,
-    "wof:lastmodified":1449026555,
+    "wof:lastmodified":1466539366,
     "wof:name":"Vanguard Contractors",
     "wof:parent_id":85833951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.916778,30.027133,-89.916778,30.027133],
-  "geometry": {"coordinates":[-89.916778,30.027133],"type":"Point"}
+  "bbox": [
+    -89.916778,
+    30.027133,
+    -89.916778,
+    30.027133
+],
+  "geometry": {"coordinates":[-89.91677799999999,30.027133],"type":"Point"}
 }

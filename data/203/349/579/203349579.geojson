@@ -2,13 +2,14 @@
   "id": 203349579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.823898,30.1418,-91.823898,30.1418",
     "geom:latitude":30.1418,
     "geom:longitude":-91.823898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1924 N Main St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203349579,
-    "wof:lastmodified":1449025636,
+    "wof:lastmodified":1466539470,
     "wof:name":"Sonic Drive In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.823898,30.1418,-91.823898,30.1418],
+  "bbox": [
+    -91.823898,
+    30.1418,
+    -91.823898,
+    30.1418
+],
   "geometry": {"coordinates":[-91.823898,30.1418],"type":"Point"}
 }

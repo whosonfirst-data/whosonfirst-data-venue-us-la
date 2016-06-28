@@ -2,13 +2,14 @@
   "id": 203377751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.986285,32.872411,-93.986285,32.872411",
     "geom:latitude":32.872411,
     "geom:longitude":-93.986285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 E Louisiana Ave",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203377751,
-    "wof:lastmodified":1449025629,
+    "wof:lastmodified":1466539509,
     "wof:name":"First Guaranty Bank",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "saving"
     ]
 },
-  "bbox": [-93.986285,32.872411,-93.986285,32.872411],
+  "bbox": [
+    -93.986285,
+    32.872411,
+    -93.986285,
+    32.872411
+],
   "geometry": {"coordinates":[-93.986285,32.872411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203231109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.057928,29.890183,-90.057928,29.890183",
     "geom:latitude":29.890183,
     "geom:longitude":-90.057928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Manhattan Blvd Ste A",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203231109,
-    "wof:lastmodified":1449025899,
+    "wof:lastmodified":1466539294,
     "wof:name":"Smoothie King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-90.057928,29.890183,-90.057928,29.890183],
+  "bbox": [
+    -90.057928,
+    29.890183,
+    -90.057928,
+    29.890183
+],
   "geometry": {"coordinates":[-90.057928,29.890183],"type":"Point"}
 }

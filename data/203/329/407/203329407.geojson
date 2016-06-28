@@ -2,13 +2,14 @@
   "id": 203329407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.937698,30.118601,-91.937698,30.118601",
     "geom:latitude":30.118601,
     "geom:longitude":-91.937698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Lakeview Dr",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203329407,
-    "wof:lastmodified":1449025432,
+    "wof:lastmodified":1466539442,
     "wof:name":"Zoo of Acadiana",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.937698,30.118601,-91.937698,30.118601],
+  "bbox": [
+    -91.937698,
+    30.118601,
+    -91.937698,
+    30.118601
+],
   "geometry": {"coordinates":[-91.937698,30.118601],"type":"Point"}
 }

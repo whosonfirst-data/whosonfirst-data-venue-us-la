@@ -2,13 +2,14 @@
   "id": 203367849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.983147,31.97311,-93.983147,31.97311",
     "geom:latitude":31.97311,
     "geom:longitude":-93.983147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 S Bogle Rd",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203367849,
-    "wof:lastmodified":1449026068,
+    "wof:lastmodified":1466539500,
     "wof:name":"Logansport Seniors Apartment",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.983147,31.97311,-93.983147,31.97311],
+  "bbox": [
+    -93.983147,
+    31.97311,
+    -93.983147,
+    31.97311
+],
   "geometry": {"coordinates":[-93.983147,31.97311],"type":"Point"}
 }

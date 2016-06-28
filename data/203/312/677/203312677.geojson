@@ -2,13 +2,14 @@
   "id": 203312677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.010426,30.231525,-92.010426,30.231525",
     "geom:latitude":30.231525,
     "geom:longitude":-92.010426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 N Sterling St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203312677,
-    "wof:lastmodified":1449025883,
+    "wof:lastmodified":1466539414,
     "wof:name":"Atchafalaya Experience Nature Swamp Tour",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "local"
     ]
 },
-  "bbox": [-92.010426,30.231525,-92.010426,30.231525],
+  "bbox": [
+    -92.010426,
+    30.231525,
+    -92.010426,
+    30.231525
+],
   "geometry": {"coordinates":[-92.010426,30.231525],"type":"Point"}
 }

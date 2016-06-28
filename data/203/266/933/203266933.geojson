@@ -2,13 +2,14 @@
   "id": 203266933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0411,29.983601,-90.0411,29.983601",
     "geom:latitude":29.983601,
     "geom:longitude":-90.0411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3007 Law St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203266933,
-    "wof:lastmodified":1449025012,
+    "wof:lastmodified":1466539355,
     "wof:name":"Fifth Church of God In Christ",
     "wof:parent_id":85866091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.0411,29.983601,-90.0411,29.983601],
+  "bbox": [
+    -90.0411,
+    29.983601,
+    -90.0411,
+    29.983601
+],
   "geometry": {"coordinates":[-90.0411,29.983601],"type":"Point"}
 }

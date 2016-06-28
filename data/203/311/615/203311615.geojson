@@ -2,13 +2,14 @@
   "id": 203311615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.984149,30.23238,-91.984149,30.23238",
     "geom:latitude":30.23238,
     "geom:longitude":-91.984149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Carmel Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203311615,
-    "wof:lastmodified":1449025378,
+    "wof:lastmodified":1466539412,
     "wof:name":"Oelkers Joseph R III Atty",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.984149,30.23238,-91.984149,30.23238],
+  "bbox": [
+    -91.984149,
+    30.23238,
+    -91.984149,
+    30.23238
+],
   "geometry": {"coordinates":[-91.984149,30.23238],"type":"Point"}
 }

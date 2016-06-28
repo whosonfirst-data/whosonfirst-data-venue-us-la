@@ -2,13 +2,14 @@
   "id": 203257637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0616,29.961,-90.0616,29.961",
     "geom:latitude":29.961,
     "geom:longitude":-90.0616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"623 Ursulines Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203257637,
-    "wof:lastmodified":1449025466,
+    "wof:lastmodified":1466539327,
     "wof:name":"French Quarter Guest House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.0616,29.961,-90.0616,29.961],
+  "bbox": [
+    -90.0616,
+    29.961,
+    -90.0616,
+    29.961
+],
   "geometry": {"coordinates":[-90.0616,29.961],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203398481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.244367,32.90148,-92.244367,32.90148",
     "geom:latitude":32.90148,
     "geom:longitude":-92.244367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Main St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203398481,
-    "wof:lastmodified":1449025085,
+    "wof:lastmodified":1466539523,
     "wof:name":"Msb Insurance Agency Of Marion Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "resume"
     ]
 },
-  "bbox": [-92.244367,32.90148,-92.244367,32.90148],
+  "bbox": [
+    -92.244367,
+    32.90148,
+    -92.244367,
+    32.90148
+],
   "geometry": {"coordinates":[-92.244367,32.90148],"type":"Point"}
 }

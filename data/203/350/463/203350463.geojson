@@ -2,13 +2,14 @@
   "id": 203350463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.0923,30.2314,-92.0923,30.2314",
     "geom:latitude":30.2314,
     "geom:longitude":-92.0923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Marie St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203350463,
-    "wof:lastmodified":1449025895,
+    "wof:lastmodified":1466539475,
     "wof:name":"Delhomme Funeral Homes",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-92.0923,30.2314,-92.0923,30.2314],
-  "geometry": {"coordinates":[-92.0923,30.2314],"type":"Point"}
+  "bbox": [
+    -92.0923,
+    30.2314,
+    -92.0923,
+    30.2314
+],
+  "geometry": {"coordinates":[-92.09229999999999,30.2314],"type":"Point"}
 }

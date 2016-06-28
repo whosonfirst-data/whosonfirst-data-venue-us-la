@@ -2,13 +2,14 @@
   "id": 203261483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.058121,29.973098,-90.058121,29.973098",
     "geom:latitude":29.973098,
     "geom:longitude":-90.058121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 N Claiborne Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203261483,
-    "wof:lastmodified":1449024978,
+    "wof:lastmodified":1466539331,
     "wof:name":"Milano Urban Wear",
     "wof:parent_id":85882373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "consignment"
     ]
 },
-  "bbox": [-90.058121,29.973098,-90.058121,29.973098],
+  "bbox": [
+    -90.058121,
+    29.973098,
+    -90.058121,
+    29.973098
+],
   "geometry": {"coordinates":[-90.058121,29.973098],"type":"Point"}
 }

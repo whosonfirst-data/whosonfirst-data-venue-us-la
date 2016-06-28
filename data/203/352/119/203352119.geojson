@@ -2,13 +2,14 @@
   "id": 203352119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.100449,30.242327,-92.100449,30.242327",
     "geom:latitude":30.242327,
     "geom:longitude":-92.100449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Park West Dr",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203352119,
-    "wof:lastmodified":1449026103,
+    "wof:lastmodified":1466539469,
     "wof:name":"Affilated Food Southeast",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.100449,30.242327,-92.100449,30.242327],
+  "bbox": [
+    -92.100449,
+    30.242327,
+    -92.100449,
+    30.242327
+],
   "geometry": {"coordinates":[-92.100449,30.242327],"type":"Point"}
 }

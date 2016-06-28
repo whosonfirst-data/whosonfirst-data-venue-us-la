@@ -2,13 +2,14 @@
   "id": 203308175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.996059,30.263475,-91.996059,30.263475",
     "geom:latitude":30.263475,
     "geom:longitude":-91.996059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3125 Louisiana Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203308175,
-    "wof:lastmodified":1449026898,
+    "wof:lastmodified":1466539397,
     "wof:name":"JCPenney",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "women's"
     ]
 },
-  "bbox": [-91.996059,30.263475,-91.996059,30.263475],
+  "bbox": [
+    -91.996059,
+    30.263475,
+    -91.996059,
+    30.263475
+],
   "geometry": {"coordinates":[-91.996059,30.263475],"type":"Point"}
 }

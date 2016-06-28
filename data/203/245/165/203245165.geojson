@@ -2,13 +2,14 @@
   "id": 203245165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.017502,29.922001,-90.017502,29.922001",
     "geom:latitude":29.922001,
     "geom:longitude":-90.017502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3221 Behrman Pl Ste 105",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203245165,
-    "wof:lastmodified":1449026814,
+    "wof:lastmodified":1466539303,
     "wof:name":"First Bank & Trust Mortgage Lending Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-90.017502,29.922001,-90.017502,29.922001],
-  "geometry": {"coordinates":[-90.017502,29.922001],"type":"Point"}
+  "bbox": [
+    -90.017502,
+    29.922001,
+    -90.017502,
+    29.922001
+],
+  "geometry": {"coordinates":[-90.01750199999999,29.922001],"type":"Point"}
 }

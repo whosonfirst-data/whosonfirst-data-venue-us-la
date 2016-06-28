@@ -2,13 +2,14 @@
   "id": 203268415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.031443,29.964578,-90.031443,29.964578",
     "geom:latitude":29.964578,
     "geom:longitude":-90.031443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Saint Claude Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203268415,
-    "wof:lastmodified":1449026031,
+    "wof:lastmodified":1466539342,
     "wof:name":"By Water Market",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.031443,29.964578,-90.031443,29.964578],
+  "bbox": [
+    -90.031443,
+    29.964578,
+    -90.031443,
+    29.964578
+],
   "geometry": {"coordinates":[-90.031443,29.964578],"type":"Point"}
 }

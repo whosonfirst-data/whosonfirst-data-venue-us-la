@@ -2,13 +2,14 @@
   "id": 203184609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.983803,29.9552,-89.983803,29.9552",
     "geom:latitude":29.9552,
     "geom:longitude":-89.983803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8400 W Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203184609,
-    "wof:lastmodified":1449025265,
+    "wof:lastmodified":1466540965,
     "wof:name":"American General Financial Services",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-89.983803,29.9552,-89.983803,29.9552],
-  "geometry": {"coordinates":[-89.983803,29.9552],"type":"Point"}
+  "bbox": [
+    -89.983803,
+    29.9552,
+    -89.983803,
+    29.9552
+],
+  "geometry": {"coordinates":[-89.98380299999999,29.9552],"type":"Point"}
 }

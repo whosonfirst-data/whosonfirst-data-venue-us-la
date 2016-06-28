@@ -2,13 +2,14 @@
   "id": 203204095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040604,29.889099,-90.040604,29.889099",
     "geom:latitude":29.889099,
     "geom:longitude":-90.040604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Colony Rd",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203204095,
-    "wof:lastmodified":1449026900,
+    "wof:lastmodified":1466539265,
     "wof:name":"Morice Natchez J Dntst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.040604,29.889099,-90.040604,29.889099],
+  "bbox": [
+    -90.040604,
+    29.889099,
+    -90.040604,
+    29.889099
+],
   "geometry": {"coordinates":[-90.040604,29.889099],"type":"Point"}
 }

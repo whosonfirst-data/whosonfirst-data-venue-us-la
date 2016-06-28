@@ -2,13 +2,14 @@
   "id": 337514849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.984007,32.887075,-93.984007,32.887075",
     "geom:latitude":32.887075,
     "geom:longitude":-93.984007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 N Pine St",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337514849,
-    "wof:lastmodified":1449027358,
+    "wof:lastmodified":1466541056,
     "wof:name":"Nazerene Christian Academy",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.984007,32.887075,-93.984007,32.887075],
-  "geometry": {"coordinates":[-93.984007,32.887075],"type":"Point"}
+  "bbox": [
+    -93.984007,
+    32.887075,
+    -93.984007,
+    32.887075
+],
+  "geometry": {"coordinates":[-93.98400700000001,32.887075],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203289225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.065367,29.947718,-90.065367,29.947718",
     "geom:latitude":29.947718,
     "geom:longitude":-90.065367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Fulton St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203289225,
-    "wof:lastmodified":1449026533,
+    "wof:lastmodified":1466539369,
     "wof:name":"Aidan Gill for Men",
     "wof:parent_id":85866969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.065367,29.947718,-90.065367,29.947718],
-  "geometry": {"coordinates":[-90.065367,29.947718],"type":"Point"}
+  "bbox": [
+    -90.065367,
+    29.947718,
+    -90.065367,
+    29.947718
+],
+  "geometry": {"coordinates":[-90.06536699999999,29.947718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203400121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.482553,31.577643,-93.482553,31.577643",
     "geom:latitude":31.577643,
     "geom:longitude":-93.482553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Forest Ln",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203400121,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466539523,
     "wof:name":"Maroma Lorna Pampered C Hef",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-93.482553,31.577643,-93.482553,31.577643],
+  "bbox": [
+    -93.482553,
+    31.577643,
+    -93.482553,
+    31.577643
+],
   "geometry": {"coordinates":[-93.482553,31.577643],"type":"Point"}
 }

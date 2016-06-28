@@ -2,13 +2,14 @@
   "id": 203317867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.045998,30.2577,-92.045998,30.2577",
     "geom:latitude":30.2577,
     "geom:longitude":-92.045998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Breakwater Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203317867,
-    "wof:lastmodified":1449025775,
+    "wof:lastmodified":1466539429,
     "wof:name":"Xcel Computer Inc",
     "wof:parent_id":85835903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.045998,30.2577,-92.045998,30.2577],
+  "bbox": [
+    -92.045998,
+    30.2577,
+    -92.045998,
+    30.2577
+],
   "geometry": {"coordinates":[-92.045998,30.2577],"type":"Point"}
 }

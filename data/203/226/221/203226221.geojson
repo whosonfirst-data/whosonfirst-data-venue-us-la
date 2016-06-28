@@ -2,13 +2,14 @@
   "id": 203226221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.047712,29.872439,-90.047712,29.872439",
     "geom:latitude":29.872439,
     "geom:longitude":-90.047712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2701 Manhattan Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203226221,
-    "wof:lastmodified":1449026341,
+    "wof:lastmodified":1466539289,
     "wof:name":"Trendy Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-90.047712,29.872439,-90.047712,29.872439],
+  "bbox": [
+    -90.047712,
+    29.872439,
+    -90.047712,
+    29.872439
+],
   "geometry": {"coordinates":[-90.047712,29.872439],"type":"Point"}
 }

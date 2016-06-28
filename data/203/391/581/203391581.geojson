@@ -2,13 +2,14 @@
   "id": 203391581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.858411,32.439444,-93.858411,32.439444",
     "geom:latitude":32.439444,
     "geom:longitude":-93.858411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6004 Fox Rdg",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203391581,
-    "wof:lastmodified":1449026184,
+    "wof:lastmodified":1466539519,
     "wof:name":"Camp For Enriching Exceptional Children's Education Levels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "camps-recreational"
     ]
 },
-  "bbox": [-93.858411,32.439444,-93.858411,32.439444],
+  "bbox": [
+    -93.858411,
+    32.439444,
+    -93.858411,
+    32.439444
+],
   "geometry": {"coordinates":[-93.858411,32.439444],"type":"Point"}
 }

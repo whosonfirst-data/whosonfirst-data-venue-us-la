@@ -2,13 +2,14 @@
   "id": 203270929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049794,30.000994,-90.049794,30.000994",
     "geom:latitude":30.000994,
     "geom:longitude":-90.049794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2613 Jasmine St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203270929,
-    "wof:lastmodified":1449025284,
+    "wof:lastmodified":1466539363,
     "wof:name":"Jakel's Fourth Edition",
     "wof:parent_id":85821297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-90.049794,30.000994,-90.049794,30.000994],
-  "geometry": {"coordinates":[-90.049794,30.000994],"type":"Point"}
+  "bbox": [
+    -90.049794,
+    30.000994,
+    -90.049794,
+    30.000994
+],
+  "geometry": {"coordinates":[-90.04979400000001,30.000994],"type":"Point"}
 }

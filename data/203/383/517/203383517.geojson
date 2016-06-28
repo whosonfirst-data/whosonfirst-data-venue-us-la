@@ -2,13 +2,14 @@
   "id": 203383517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.813503,32.469296,-93.813503,32.469296",
     "geom:latitude":32.469296,
     "geom:longitude":-93.813503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4282 Pro St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203383517,
-    "wof:lastmodified":1449025729,
+    "wof:lastmodified":1466539507,
     "wof:name":"Shreve Fence Co",
     "wof:parent_id":85881003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.813503,32.469296,-93.813503,32.469296],
+  "bbox": [
+    -93.813503,
+    32.469296,
+    -93.813503,
+    32.469296
+],
   "geometry": {"coordinates":[-93.813503,32.469296],"type":"Point"}
 }

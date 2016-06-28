@@ -2,13 +2,14 @@
   "id": 203378583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.749542,32.514408,-93.749542,32.514408",
     "geom:latitude":32.514408,
     "geom:longitude":-93.749542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Travis St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203378583,
-    "wof:lastmodified":1449026257,
+    "wof:lastmodified":1466539509,
     "wof:name":"Harville Law Firm LLC The",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "law"
     ]
 },
-  "bbox": [-93.749542,32.514408,-93.749542,32.514408],
-  "geometry": {"coordinates":[-93.749542,32.514408],"type":"Point"}
+  "bbox": [
+    -93.749542,
+    32.514408,
+    -93.749542,
+    32.514408
+],
+  "geometry": {"coordinates":[-93.74954200000001,32.514408],"type":"Point"}
 }

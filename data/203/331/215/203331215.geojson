@@ -2,13 +2,14 @@
   "id": 203331215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.0494,30.3039,-92.0494,30.3039",
     "geom:latitude":30.3039,
     "geom:longitude":-92.0494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 N University Ave",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203331215,
-    "wof:lastmodified":1449026094,
+    "wof:lastmodified":1466539442,
     "wof:name":"Carencro Middle School",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-92.0494,30.3039,-92.0494,30.3039],
-  "geometry": {"coordinates":[-92.0494,30.3039],"type":"Point"}
+  "bbox": [
+    -92.0494,
+    30.3039,
+    -92.0494,
+    30.3039
+],
+  "geometry": {"coordinates":[-92.04940000000001,30.3039],"type":"Point"}
 }

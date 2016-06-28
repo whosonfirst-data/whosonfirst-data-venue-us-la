@@ -2,13 +2,14 @@
   "id": 203191377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.04207,29.923881,-90.04207,29.923881",
     "geom:latitude":29.923881,
     "geom:longitude":-90.04207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Holiday Inn 275 Whitney Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203191377,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1466541012,
     "wof:name":"Roundhouse Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "american"
     ]
 },
-  "bbox": [-90.04207,29.923881,-90.04207,29.923881],
+  "bbox": [
+    -90.04207,
+    29.923881,
+    -90.04207,
+    29.923881
+],
   "geometry": {"coordinates":[-90.04207,29.923881],"type":"Point"}
 }

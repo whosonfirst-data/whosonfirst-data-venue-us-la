@@ -2,13 +2,14 @@
   "id": 203341885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.840332,30.100952,-91.840332,30.100952",
     "geom:latitude":30.100952,
     "geom:longitude":-91.840332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7190 Main Hwy",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203341885,
-    "wof:lastmodified":1449026788,
+    "wof:lastmodified":1466539463,
     "wof:name":"St Martin Parish of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-91.840332,30.100952,-91.840332,30.100952],
+  "bbox": [
+    -91.840332,
+    30.100952,
+    -91.840332,
+    30.100952
+],
   "geometry": {"coordinates":[-91.840332,30.100952],"type":"Point"}
 }

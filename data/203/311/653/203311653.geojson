@@ -2,13 +2,14 @@
   "id": 203311653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.018898,30.242701,-92.018898,30.242701",
     "geom:latitude":30.242701,
     "geom:longitude":-92.018898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N Pierce St Ste 1",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203311653,
-    "wof:lastmodified":1449025379,
+    "wof:lastmodified":1466539414,
     "wof:name":"Ducharme Bros Inc Contrs",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-92.018898,30.242701,-92.018898,30.242701],
-  "geometry": {"coordinates":[-92.018898,30.242701],"type":"Point"}
+  "bbox": [
+    -92.018898,
+    30.242701,
+    -92.018898,
+    30.242701
+],
+  "geometry": {"coordinates":[-92.01889799999999,30.242701],"type":"Point"}
 }

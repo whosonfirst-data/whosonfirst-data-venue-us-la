@@ -2,13 +2,14 @@
   "id": 203314855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.018737,30.225301,-92.018737,30.225301",
     "geom:latitude":30.225301,
     "geom:longitude":-92.018737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"538 Jefferson St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203314855,
-    "wof:lastmodified":1449026795,
+    "wof:lastmodified":1466539419,
     "wof:name":"Tommy's Downtown Flower Market",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.018737,30.225301,-92.018737,30.225301],
+  "bbox": [
+    -92.018737,
+    30.225301,
+    -92.018737,
+    30.225301
+],
   "geometry": {"coordinates":[-92.018737,30.225301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203355569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.998514,30.126453,-91.998514,30.126453",
     "geom:latitude":30.126453,
     "geom:longitude":-91.998514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 E Angus Dr",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203355569,
-    "wof:lastmodified":1449025438,
+    "wof:lastmodified":1466539480,
     "wof:name":"Chad Broussard Home Inc",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.998514,30.126453,-91.998514,30.126453],
+  "bbox": [
+    -91.998514,
+    30.126453,
+    -91.998514,
+    30.126453
+],
   "geometry": {"coordinates":[-91.998514,30.126453],"type":"Point"}
 }

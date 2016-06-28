@@ -2,13 +2,14 @@
   "id": 203329837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.116402,30.307899,-92.116402,30.307899",
     "geom:latitude":30.307899,
     "geom:longitude":-92.116402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2905 Highway 93",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203329837,
-    "wof:lastmodified":1449025433,
+    "wof:lastmodified":1466539449,
     "wof:name":"Mire's Grocery & Service Station",
     "wof:parent_id":85835903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.116402,30.307899,-92.116402,30.307899],
-  "geometry": {"coordinates":[-92.116402,30.307899],"type":"Point"}
+  "bbox": [
+    -92.116402,
+    30.307899,
+    -92.116402,
+    30.307899
+],
+  "geometry": {"coordinates":[-92.11640199999999,30.307899],"type":"Point"}
 }

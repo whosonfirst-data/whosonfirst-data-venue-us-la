@@ -2,13 +2,14 @@
   "id": 203340503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.803263,30.003064,-91.803263,30.003064",
     "geom:latitude":30.003064,
     "geom:longitude":-91.803263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Parkview Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203340503,
-    "wof:lastmodified":1449026404,
+    "wof:lastmodified":1466539465,
     "wof:name":"The Landing",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cajun/creole"
     ]
 },
-  "bbox": [-91.803263,30.003064,-91.803263,30.003064],
+  "bbox": [
+    -91.803263,
+    30.003064,
+    -91.803263,
+    30.003064
+],
   "geometry": {"coordinates":[-91.803263,30.003064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203184509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.964317,29.941553,-89.964317,29.941553",
     "geom:latitude":29.941553,
     "geom:longitude":-89.964317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2510 Paris Rd",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203184509,
-    "wof:lastmodified":1449025264,
+    "wof:lastmodified":1466540959,
     "wof:name":"Paris Road Animal Hospital Inc",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-89.964317,29.941553,-89.964317,29.941553],
-  "geometry": {"coordinates":[-89.964317,29.941553],"type":"Point"}
+  "bbox": [
+    -89.964317,
+    29.941553,
+    -89.964317,
+    29.941553
+],
+  "geometry": {"coordinates":[-89.96431699999999,29.941553],"type":"Point"}
 }

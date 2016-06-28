@@ -2,13 +2,14 @@
   "id": 203214831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.024902,29.9095,-90.024902,29.9095",
     "geom:latitude":29.9095,
     "geom:longitude":-90.024902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 Stumpf Blvd Ste C",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203214831,
-    "wof:lastmodified":1449026817,
+    "wof:lastmodified":1466539282,
     "wof:name":"Dirty Harry's Lounge",
     "wof:parent_id":85866161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-90.024902,29.9095,-90.024902,29.9095],
+  "bbox": [
+    -90.024902,
+    29.9095,
+    -90.024902,
+    29.9095
+],
   "geometry": {"coordinates":[-90.024902,29.9095],"type":"Point"}
 }

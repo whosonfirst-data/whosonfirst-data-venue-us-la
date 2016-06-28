@@ -2,13 +2,14 @@
   "id": 203313773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.005699,30.230101,-92.005699,30.230101",
     "geom:latitude":30.230101,
     "geom:longitude":-92.005699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 E Simcoe St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203313773,
-    "wof:lastmodified":1449025006,
+    "wof:lastmodified":1466539416,
     "wof:name":"Bourque Tommy Tax Retrn Preprtn",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-92.005699,30.230101,-92.005699,30.230101],
-  "geometry": {"coordinates":[-92.005699,30.230101],"type":"Point"}
+  "bbox": [
+    -92.005699,
+    30.230101,
+    -92.005699,
+    30.230101
+],
+  "geometry": {"coordinates":[-92.00569900000001,30.230101],"type":"Point"}
 }

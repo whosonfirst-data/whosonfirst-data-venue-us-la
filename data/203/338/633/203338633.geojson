@@ -2,13 +2,14 @@
   "id": 203338633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.821564,30.003321,-91.821564,30.003321",
     "geom:latitude":30.003321,
     "geom:longitude":-91.821564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Pershing St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203338633,
-    "wof:lastmodified":1449025577,
+    "wof:lastmodified":1466539458,
     "wof:name":"Jeffrey S Segura Attorney At Law",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.821564,30.003321,-91.821564,30.003321],
+  "bbox": [
+    -91.821564,
+    30.003321,
+    -91.821564,
+    30.003321
+],
   "geometry": {"coordinates":[-91.821564,30.003321],"type":"Point"}
 }

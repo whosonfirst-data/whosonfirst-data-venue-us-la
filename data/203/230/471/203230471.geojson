@@ -2,13 +2,14 @@
   "id": 203230471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.050099,29.877761,-90.050099,29.877761",
     "geom:latitude":29.877761,
     "geom:longitude":-90.050099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Manhattan Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203230471,
-    "wof:lastmodified":1449026371,
+    "wof:lastmodified":1466539294,
     "wof:name":"Capital One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.050099,29.877761,-90.050099,29.877761],
+  "bbox": [
+    -90.050099,
+    29.877761,
+    -90.050099,
+    29.877761
+],
   "geometry": {"coordinates":[-90.050099,29.877761],"type":"Point"}
 }

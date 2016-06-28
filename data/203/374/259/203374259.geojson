@@ -2,13 +2,14 @@
   "id": 203374259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.461121,32.997824,-93.461121,32.997824",
     "geom:latitude":32.997824,
     "geom:longitude":-93.461121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 S Main St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203374259,
-    "wof:lastmodified":1449025742,
+    "wof:lastmodified":1466539494,
     "wof:name":"Dollar General Store #0671",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.461121,32.997824,-93.461121,32.997824],
-  "geometry": {"coordinates":[-93.461121,32.997824],"type":"Point"}
+  "bbox": [
+    -93.461121,
+    32.997824,
+    -93.461121,
+    32.997824
+],
+  "geometry": {"coordinates":[-93.46112100000001,32.997824],"type":"Point"}
 }

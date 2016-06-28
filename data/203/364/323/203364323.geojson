@@ -2,13 +2,14 @@
   "id": 203364323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.723938,33.004359,-92.723938,33.004359",
     "geom:latitude":33.004359,
     "geom:longitude":-92.723938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1863 Main St",
     "sg:city":"Haynesville",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203364323,
-    "wof:lastmodified":1449026017,
+    "wof:lastmodified":1466539483,
     "wof:name":"Fred's Discount Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.723938,33.004359,-92.723938,33.004359],
+  "bbox": [
+    -92.723938,
+    33.004359,
+    -92.723938,
+    33.004359
+],
   "geometry": {"coordinates":[-92.723938,33.004359],"type":"Point"}
 }

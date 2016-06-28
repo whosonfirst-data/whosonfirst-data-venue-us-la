@@ -2,13 +2,14 @@
   "id": 353940051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.031646,29.886269,-94.031646,29.886269",
     "geom:latitude":29.886269,
     "geom:longitude":-94.031646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5701 Jade Ave",
     "sg:city":"Port Arthur",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353940051,
-    "wof:lastmodified":1449018884,
+    "wof:lastmodified":1466541057,
     "wof:name":"Jack W Hemmenway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "general"
     ]
 },
-  "bbox": [-94.031646,29.886269,-94.031646,29.886269],
-  "geometry": {"coordinates":[-94.031646,29.886269],"type":"Point"}
+  "bbox": [
+    -94.031646,
+    29.886269,
+    -94.031646,
+    29.886269
+],
+  "geometry": {"coordinates":[-94.03164599999999,29.886269],"type":"Point"}
 }

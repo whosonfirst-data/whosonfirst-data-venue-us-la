@@ -2,13 +2,14 @@
   "id": 203252093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.025299,29.926901,-90.025299,29.926901",
     "geom:latitude":29.926901,
     "geom:longitude":-90.025299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 General Degaulle Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203252093,
-    "wof:lastmodified":1449025190,
+    "wof:lastmodified":1466539312,
     "wof:name":"Developmental Neuropsychiatric Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychiatrist"
     ]
 },
-  "bbox": [-90.025299,29.926901,-90.025299,29.926901],
+  "bbox": [
+    -90.025299,
+    29.926901,
+    -90.025299,
+    29.926901
+],
   "geometry": {"coordinates":[-90.025299,29.926901],"type":"Point"}
 }

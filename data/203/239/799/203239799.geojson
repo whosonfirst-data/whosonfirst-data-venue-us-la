@@ -2,13 +2,14 @@
   "id": 203239799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.891602,29.868999,-89.891602,29.868999",
     "geom:latitude":29.868999,
     "geom:longitude":-89.891602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8201 E Saint Bernard Hwy",
     "sg:city":"Saint Bernard",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203239799,
-    "wof:lastmodified":1449025117,
+    "wof:lastmodified":1466539304,
     "wof:name":"Bj's Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-89.891602,29.868999,-89.891602,29.868999],
-  "geometry": {"coordinates":[-89.891602,29.868999],"type":"Point"}
+  "bbox": [
+    -89.891602,
+    29.868999,
+    -89.891602,
+    29.868999
+],
+  "geometry": {"coordinates":[-89.89160200000001,29.868999],"type":"Point"}
 }

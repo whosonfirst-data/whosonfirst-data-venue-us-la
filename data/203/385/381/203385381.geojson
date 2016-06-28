@@ -2,13 +2,14 @@
   "id": 203385381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.799919,32.402057,-93.799919,32.402057",
     "geom:latitude":32.402057,
     "geom:longitude":-93.799919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 Bert Kouns Industrial Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203385381,
-    "wof:lastmodified":1449026070,
+    "wof:lastmodified":1466539508,
     "wof:name":"Shears Hair & Nail Salon",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.799919,32.402057,-93.799919,32.402057],
+  "bbox": [
+    -93.799919,
+    32.402057,
+    -93.799919,
+    32.402057
+],
   "geometry": {"coordinates":[-93.799919,32.402057],"type":"Point"}
 }

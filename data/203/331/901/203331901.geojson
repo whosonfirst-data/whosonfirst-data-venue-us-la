@@ -2,13 +2,14 @@
   "id": 203331901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.998336,30.316112,-91.998336,30.316112",
     "geom:latitude":30.316112,
     "geom:longitude":-91.998336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1235 Beau Bassin Rd",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":203331901,
-    "wof:lastmodified":1449026093,
+    "wof:lastmodified":1466539457,
     "wof:name":"Farm d'Allie Golf Club",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.998336,30.316112,-91.998336,30.316112],
-  "geometry": {"coordinates":[-91.998336,30.316112],"type":"Point"}
+  "bbox": [
+    -91.998336,
+    30.316112,
+    -91.998336,
+    30.316112
+],
+  "geometry": {"coordinates":[-91.99833599999999,30.316112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203316841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.0634,30.232201,-92.0634,30.232201",
     "geom:latitude":30.232201,
     "geom:longitude":-92.0634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4205 Cameron St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203316841,
-    "wof:lastmodified":1449026262,
+    "wof:lastmodified":1466539424,
     "wof:name":"Iglesia Alfa & Omega",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.0634,30.232201,-92.0634,30.232201],
+  "bbox": [
+    -92.0634,
+    30.232201,
+    -92.0634,
+    30.232201
+],
   "geometry": {"coordinates":[-92.0634,30.232201],"type":"Point"}
 }

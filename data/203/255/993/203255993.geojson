@@ -2,13 +2,14 @@
   "id": 203255993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06002,29.960175,-90.06002,29.960175",
     "geom:latitude":29.960175,
     "geom:longitude":-90.06002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1107 Decatur St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203255993,
-    "wof:lastmodified":1449025772,
+    "wof:lastmodified":1466539335,
     "wof:name":"Krewe De Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.06002,29.960175,-90.06002,29.960175],
-  "geometry": {"coordinates":[-90.06002,29.960175],"type":"Point"}
+  "bbox": [
+    -90.06002,
+    29.960175,
+    -90.06002,
+    29.960175
+],
+  "geometry": {"coordinates":[-90.06001999999999,29.960175],"type":"Point"}
 }

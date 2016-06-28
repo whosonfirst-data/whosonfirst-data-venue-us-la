@@ -2,13 +2,14 @@
   "id": 203371485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.453812,32.995993,-93.453812,32.995993",
     "geom:latitude":32.995993,
     "geom:longitude":-93.453812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 7th St SE",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203371485,
-    "wof:lastmodified":1449026408,
+    "wof:lastmodified":1466539493,
     "wof:name":"La Contessa Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.453812,32.995993,-93.453812,32.995993],
+  "bbox": [
+    -93.453812,
+    32.995993,
+    -93.453812,
+    32.995993
+],
   "geometry": {"coordinates":[-93.453812,32.995993],"type":"Point"}
 }

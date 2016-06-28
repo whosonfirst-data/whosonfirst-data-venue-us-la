@@ -2,13 +2,14 @@
   "id": 203351901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.090561,30.233051,-92.090561,30.233051",
     "geom:latitude":30.233051,
     "geom:longitude":-92.090561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5607 Cameron St Ste 4",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203351901,
-    "wof:lastmodified":1449026564,
+    "wof:lastmodified":1466539484,
     "wof:name":"Kalidust Internet Advertising",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-92.090561,30.233051,-92.090561,30.233051],
-  "geometry": {"coordinates":[-92.090561,30.233051],"type":"Point"}
+  "bbox": [
+    -92.090561,
+    30.233051,
+    -92.090561,
+    30.233051
+],
+  "geometry": {"coordinates":[-92.09056099999999,30.233051],"type":"Point"}
 }

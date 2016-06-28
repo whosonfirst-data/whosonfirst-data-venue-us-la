@@ -2,13 +2,14 @@
   "id": 203392171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.861656,32.434021,-93.861656,32.434021",
     "geom:latitude":32.434021,
     "geom:longitude":-93.861656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Pines Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203392171,
-    "wof:lastmodified":1449026459,
+    "wof:lastmodified":1466539514,
     "wof:name":"Allstate Insurance Company - Rhonda Bachman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-93.861656,32.434021,-93.861656,32.434021],
+  "bbox": [
+    -93.861656,
+    32.434021,
+    -93.861656,
+    32.434021
+],
   "geometry": {"coordinates":[-93.861656,32.434021],"type":"Point"}
 }

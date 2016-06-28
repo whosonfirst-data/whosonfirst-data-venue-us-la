@@ -2,13 +2,14 @@
   "id": 203356331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.341041,30.893856,-93.341041,30.893856",
     "geom:latitude":30.893856,
     "geom:longitude":-93.341041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2790 Highway 3226",
     "sg:city":"Deridder",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203356331,
-    "wof:lastmodified":1449026501,
+    "wof:lastmodified":1466539477,
     "wof:name":"Souls Haven Church",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.341041,30.893856,-93.341041,30.893856],
+  "bbox": [
+    -93.341041,
+    30.893856,
+    -93.341041,
+    30.893856
+],
   "geometry": {"coordinates":[-93.341041,30.893856],"type":"Point"}
 }

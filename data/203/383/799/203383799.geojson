@@ -2,13 +2,14 @@
   "id": 203383799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.780029,32.458047,-93.780029,32.458047",
     "geom:latitude":32.458047,
     "geom:longitude":-93.780029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5632 Hearne Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203383799,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466539509,
     "wof:name":"Ancient Egyptian Arabic Order Nobles Mystic Shrine Of N & S Amer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.780029,32.458047,-93.780029,32.458047],
+  "bbox": [
+    -93.780029,
+    32.458047,
+    -93.780029,
+    32.458047
+],
   "geometry": {"coordinates":[-93.780029,32.458047],"type":"Point"}
 }

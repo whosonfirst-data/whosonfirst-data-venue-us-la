@@ -2,13 +2,14 @@
   "id": 203390365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.9594,32.409394,-93.9594,32.409394",
     "geom:latitude":32.409394,
     "geom:longitude":-93.9594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8943 Meadow Creek Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203390365,
-    "wof:lastmodified":1449026878,
+    "wof:lastmodified":1466539516,
     "wof:name":"J RC Construction Company",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.9594,32.409394,-93.9594,32.409394],
+  "bbox": [
+    -93.9594,
+    32.409394,
+    -93.9594,
+    32.409394
+],
   "geometry": {"coordinates":[-93.9594,32.409394],"type":"Point"}
 }

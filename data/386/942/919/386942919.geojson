@@ -2,13 +2,14 @@
   "id": 386942919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.984413,32.856967,-93.984413,32.856967",
     "geom:latitude":32.856967,
     "geom:longitude":-93.984413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1028 S Pine St",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":386942919,
-    "wof:lastmodified":1449028765,
+    "wof:lastmodified":1466541057,
     "wof:name":"All Occasions",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-93.984413,32.856967,-93.984413,32.856967],
+  "bbox": [
+    -93.984413,
+    32.856967,
+    -93.984413,
+    32.856967
+],
   "geometry": {"coordinates":[-93.984413,32.856967],"type":"Point"}
 }

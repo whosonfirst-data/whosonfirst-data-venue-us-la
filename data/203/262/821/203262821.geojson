@@ -2,13 +2,14 @@
   "id": 203262821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.034302,29.962099,-90.034302,29.962099",
     "geom:latitude":29.962099,
     "geom:longitude":-90.034302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Dauphine St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203262821,
-    "wof:lastmodified":1449026123,
+    "wof:lastmodified":1466539334,
     "wof:name":"Jimmy's Grocery",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.034302,29.962099,-90.034302,29.962099],
+  "bbox": [
+    -90.034302,
+    29.962099,
+    -90.034302,
+    29.962099
+],
   "geometry": {"coordinates":[-90.034302,29.962099],"type":"Point"}
 }

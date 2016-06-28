@@ -2,13 +2,14 @@
   "id": 203326435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.925543,30.109957,-91.925543,30.109957",
     "geom:latitude":30.109957,
     "geom:longitude":-91.925543,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265A Old Spanish Trail Hwy",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203326435,
-    "wof:lastmodified":1449025735,
+    "wof:lastmodified":1466539432,
     "wof:name":"Pj's Country Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.925543,30.109957,-91.925543,30.109957],
+  "bbox": [
+    -91.925543,
+    30.109957,
+    -91.925543,
+    30.109957
+],
   "geometry": {"coordinates":[-91.925543,30.109957],"type":"Point"}
 }

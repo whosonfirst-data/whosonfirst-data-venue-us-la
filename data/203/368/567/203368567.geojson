@@ -2,13 +2,14 @@
   "id": 203368567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.009841,32.94952,-94.009841,32.94952",
     "geom:latitude":32.94952,
     "geom:longitude":-94.009841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10336 French Rd",
     "sg:city":"Rodessa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203368567,
-    "wof:lastmodified":1449025379,
+    "wof:lastmodified":1466539497,
     "wof:name":"Murdock And Tyson Services",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.009841,32.94952,-94.009841,32.94952],
-  "geometry": {"coordinates":[-94.009841,32.94952],"type":"Point"}
+  "bbox": [
+    -94.009841,
+    32.94952,
+    -94.009841,
+    32.94952
+],
+  "geometry": {"coordinates":[-94.00984099999999,32.94952],"type":"Point"}
 }

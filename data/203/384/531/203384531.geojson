@@ -2,13 +2,14 @@
   "id": 203384531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.827403,32.468216,-93.827403,32.468216",
     "geom:latitude":32.468216,
     "geom:longitude":-93.827403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4615 Monkhouse Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203384531,
-    "wof:lastmodified":1449025187,
+    "wof:lastmodified":1466539508,
     "wof:name":"Brown Frank E Jr Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.827403,32.468216,-93.827403,32.468216],
+  "bbox": [
+    -93.827403,
+    32.468216,
+    -93.827403,
+    32.468216
+],
   "geometry": {"coordinates":[-93.827403,32.468216],"type":"Point"}
 }

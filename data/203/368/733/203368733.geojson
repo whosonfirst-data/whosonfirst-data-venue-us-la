@@ -2,13 +2,14 @@
   "id": 203368733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.269363,32.622632,-93.269363,32.622632",
     "geom:latitude":32.622632,
     "geom:longitude":-93.269363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Madison Sq",
     "sg:city":"Minden",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203368733,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466539498,
     "wof:name":"Allstate Insurance Company - Gina Eubanks-Almond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-93.269363,32.622632,-93.269363,32.622632],
+  "bbox": [
+    -93.269363,
+    32.622632,
+    -93.269363,
+    32.622632
+],
   "geometry": {"coordinates":[-93.269363,32.622632],"type":"Point"}
 }

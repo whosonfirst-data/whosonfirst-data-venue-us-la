@@ -2,13 +2,14 @@
   "id": 203342851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.8283,30.1222,-91.8283,30.1222",
     "geom:latitude":30.1222,
     "geom:longitude":-91.8283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Evangeline Blvd",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203342851,
-    "wof:lastmodified":1449026740,
+    "wof:lastmodified":1466539465,
     "wof:name":"Old Castillo Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.8283,30.1222,-91.8283,30.1222],
+  "bbox": [
+    -91.8283,
+    30.1222,
+    -91.8283,
+    30.1222
+],
   "geometry": {"coordinates":[-91.8283,30.1222],"type":"Point"}
 }

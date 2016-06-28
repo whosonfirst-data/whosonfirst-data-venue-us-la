@@ -2,13 +2,14 @@
   "id": 203246495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040703,29.929899,-90.040703,29.929899",
     "geom:latitude":29.929899,
     "geom:longitude":-90.040703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Erie St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203246495,
-    "wof:lastmodified":1449025065,
+    "wof:lastmodified":1466539310,
     "wof:name":"Word of Truth Fellowship",
     "wof:parent_id":85866151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.040703,29.929899,-90.040703,29.929899],
-  "geometry": {"coordinates":[-90.040703,29.929899],"type":"Point"}
+  "bbox": [
+    -90.040703,
+    29.929899,
+    -90.040703,
+    29.929899
+],
+  "geometry": {"coordinates":[-90.04070299999999,29.929899],"type":"Point"}
 }

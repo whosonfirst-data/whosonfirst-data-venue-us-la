@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102252341",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.893449,33.004971,-93.893449,33.004971",
     "geom:latitude":33.004971,
     "geom:longitude":-93.893449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6912 Cedar Ln",
     "sg:city":"Ida",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102252341",
-    "wof:lastmodified":1449068119,
+    "wof:lastmodified":1466539251,
     "wof:name":"Caddo Parish Solid Waste Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.893449,33.004971,-93.893449,33.004971],
+  "bbox": [
+    -93.893449,
+    33.004971,
+    -93.893449,
+    33.004971
+],
   "geometry": {"coordinates":[-93.893449,33.004971],"type":"Point"}
 }

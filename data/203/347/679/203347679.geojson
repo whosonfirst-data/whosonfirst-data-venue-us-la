@@ -2,13 +2,14 @@
   "id": 203347679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.820704,30.064208,-91.820704,30.064208",
     "geom:latitude":30.064208,
     "geom:longitude":-91.820704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6934A Cemetary Hwy",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203347679,
-    "wof:lastmodified":1449025835,
+    "wof:lastmodified":1466539469,
     "wof:name":"Teche Valley Seafood Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "market"
     ]
 },
-  "bbox": [-91.820704,30.064208,-91.820704,30.064208],
-  "geometry": {"coordinates":[-91.820704,30.064208],"type":"Point"}
+  "bbox": [
+    -91.820704,
+    30.064208,
+    -91.820704,
+    30.064208
+],
+  "geometry": {"coordinates":[-91.82070400000001,30.064208],"type":"Point"}
 }

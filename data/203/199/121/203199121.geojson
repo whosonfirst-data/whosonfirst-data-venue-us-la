@@ -2,13 +2,14 @@
   "id": 203199121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.03283,29.919659,-90.03283,29.919659",
     "geom:latitude":29.919659,
     "geom:longitude":-90.03283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Holmes Blvd Ste A",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203199121,
-    "wof:lastmodified":1449025129,
+    "wof:lastmodified":1466539254,
     "wof:name":"Elite Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "family"
     ]
 },
-  "bbox": [-90.03283,29.919659,-90.03283,29.919659],
+  "bbox": [
+    -90.03283,
+    29.919659,
+    -90.03283,
+    29.919659
+],
   "geometry": {"coordinates":[-90.03283,29.919659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203263833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.041851,29.961816,-90.041851,29.961816",
     "geom:latitude":29.961816,
     "geom:longitude":-90.041851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Chartres St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203263833,
-    "wof:lastmodified":1449026818,
+    "wof:lastmodified":1466539340,
     "wof:name":"Euclid Records",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vinyl"
     ]
 },
-  "bbox": [-90.041851,29.961816,-90.041851,29.961816],
-  "geometry": {"coordinates":[-90.041851,29.961816],"type":"Point"}
+  "bbox": [
+    -90.041851,
+    29.961816,
+    -90.041851,
+    29.961816
+],
+  "geometry": {"coordinates":[-90.04185099999999,29.961816],"type":"Point"}
 }

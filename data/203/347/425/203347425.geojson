@@ -2,13 +2,14 @@
   "id": 203347425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.874802,30.0797,-91.874802,30.0797",
     "geom:latitude":30.0797,
     "geom:longitude":-91.874802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1187 Lady of the Lake Rd",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203347425,
-    "wof:lastmodified":1449025829,
+    "wof:lastmodified":1466541050,
     "wof:name":"Pats Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.874802,30.0797,-91.874802,30.0797],
+  "bbox": [
+    -91.874802,
+    30.0797,
+    -91.874802,
+    30.0797
+],
   "geometry": {"coordinates":[-91.874802,30.0797],"type":"Point"}
 }

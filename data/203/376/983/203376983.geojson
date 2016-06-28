@@ -2,13 +2,14 @@
   "id": 203376983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.825574,32.288649,-93.825574,32.288649",
     "geom:latitude":32.288649,
     "geom:longitude":-93.825574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"986 Highway 171",
     "sg:city":"Stonewall",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203376983,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466539507,
     "wof:name":"USPS - United States Post Office - Stonewall Main Office",
     "wof:parent_id":85813793,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-93.825574,32.288649,-93.825574,32.288649],
+  "bbox": [
+    -93.825574,
+    32.288649,
+    -93.825574,
+    32.288649
+],
   "geometry": {"coordinates":[-93.825574,32.288649],"type":"Point"}
 }

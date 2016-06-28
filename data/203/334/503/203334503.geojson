@@ -2,13 +2,14 @@
   "id": 203334503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.867798,30.0009,-91.867798,30.0009",
     "geom:latitude":30.0009,
     "geom:longitude":-91.867798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Queen City Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203334503,
-    "wof:lastmodified":1449025465,
+    "wof:lastmodified":1466539449,
     "wof:name":"Days Inn & Suites",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.867798,30.0009,-91.867798,30.0009],
-  "geometry": {"coordinates":[-91.867798,30.0009],"type":"Point"}
+  "bbox": [
+    -91.867798,
+    30.0009,
+    -91.867798,
+    30.0009
+],
+  "geometry": {"coordinates":[-91.86779799999999,30.0009],"type":"Point"}
 }

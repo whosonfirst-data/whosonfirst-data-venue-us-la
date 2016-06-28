@@ -2,13 +2,14 @@
   "id": 203397017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.357009,32.832751,-92.357009,32.832751",
     "geom:latitude":32.832751,
     "geom:longitude":-92.357009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 Salem Rd",
     "sg:city":"Farmerville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203397017,
-    "wof:lastmodified":1449025674,
+    "wof:lastmodified":1466541054,
     "wof:name":"Salem Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.357009,32.832751,-92.357009,32.832751],
-  "geometry": {"coordinates":[-92.357009,32.832751],"type":"Point"}
+  "bbox": [
+    -92.357009,
+    32.832751,
+    -92.357009,
+    32.832751
+],
+  "geometry": {"coordinates":[-92.35700900000001,32.832751],"type":"Point"}
 }

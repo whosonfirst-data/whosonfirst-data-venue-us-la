@@ -2,13 +2,14 @@
   "id": 203392691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.903868,32.432832,-93.903868,32.432832",
     "geom:latitude":32.432832,
     "geom:longitude":-93.903868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7360 Julie Frances Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -81,10 +82,11 @@
         }
     ],
     "wof:id":203392691,
-    "wof:lastmodified":1449026456,
+    "wof:lastmodified":1466539522,
     "wof:name":"Southern Components",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -99,6 +101,11 @@
         "structure"
     ]
 },
-  "bbox": [-93.903868,32.432832,-93.903868,32.432832],
+  "bbox": [
+    -93.903868,
+    32.432832,
+    -93.903868,
+    32.432832
+],
   "geometry": {"coordinates":[-93.903868,32.432832],"type":"Point"}
 }

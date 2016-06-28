@@ -2,13 +2,14 @@
   "id": 203244643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.029472,29.922561,-90.029472,29.922561",
     "geom:latitude":29.922561,
     "geom:longitude":-90.029472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2975 Behrman Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203244643,
-    "wof:lastmodified":1449025670,
+    "wof:lastmodified":1466539310,
     "wof:name":"Kay's Montessori School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "day"
     ]
 },
-  "bbox": [-90.029472,29.922561,-90.029472,29.922561],
+  "bbox": [
+    -90.029472,
+    29.922561,
+    -90.029472,
+    29.922561
+],
   "geometry": {"coordinates":[-90.029472,29.922561],"type":"Point"}
 }

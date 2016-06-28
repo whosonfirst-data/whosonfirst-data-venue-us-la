@@ -2,13 +2,14 @@
   "id": 203378839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.724113,32.48959,-93.724113,32.48959",
     "geom:latitude":32.48959,
     "geom:longitude":-93.724113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Youree Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203378839,
-    "wof:lastmodified":1449026253,
+    "wof:lastmodified":1466539513,
     "wof:name":"Sculpted Entertainment",
     "wof:parent_id":85880985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-93.724113,32.48959,-93.724113,32.48959],
+  "bbox": [
+    -93.724113,
+    32.48959,
+    -93.724113,
+    32.48959
+],
   "geometry": {"coordinates":[-93.724113,32.48959],"type":"Point"}
 }

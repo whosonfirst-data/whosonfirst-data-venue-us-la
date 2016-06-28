@@ -2,13 +2,14 @@
   "id": 203259403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.066597,29.974199,-90.066597,29.974199",
     "geom:latitude":29.974199,
     "geom:longitude":-90.066597,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1725 Saint Bernard Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203259403,
-    "wof:lastmodified":1449025372,
+    "wof:lastmodified":1466539328,
     "wof:name":"Autocrat Social & Pleasure Club",
     "wof:parent_id":85882373,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-90.066597,29.974199,-90.066597,29.974199],
+  "bbox": [
+    -90.066597,
+    29.974199,
+    -90.066597,
+    29.974199
+],
   "geometry": {"coordinates":[-90.066597,29.974199],"type":"Point"}
 }

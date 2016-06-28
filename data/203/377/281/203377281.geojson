@@ -2,13 +2,14 @@
   "id": 203377281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.476992,32.997102,-93.476992,32.997102",
     "geom:latitude":32.997102,
     "geom:longitude":-93.476992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Academy Dr",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203377281,
-    "wof:lastmodified":1449025630,
+    "wof:lastmodified":1466539499,
     "wof:name":"Trinity Worship Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.476992,32.997102,-93.476992,32.997102],
+  "bbox": [
+    -93.476992,
+    32.997102,
+    -93.476992,
+    32.997102
+],
   "geometry": {"coordinates":[-93.476992,32.997102],"type":"Point"}
 }

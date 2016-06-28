@@ -2,13 +2,14 @@
   "id": 203310849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.004204,30.231899,-92.004204,30.231899",
     "geom:latitude":30.231899,
     "geom:longitude":-92.004204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Mudd Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203310849,
-    "wof:lastmodified":1449026104,
+    "wof:lastmodified":1466539413,
     "wof:name":"Jay and Lionel Hebert Municipal Golf Course",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.004204,30.231899,-92.004204,30.231899],
+  "bbox": [
+    -92.004204,
+    30.231899,
+    -92.004204,
+    30.231899
+],
   "geometry": {"coordinates":[-92.004204,30.231899],"type":"Point"}
 }

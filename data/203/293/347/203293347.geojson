@@ -2,13 +2,14 @@
   "id": 203293347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064373,29.940304,-90.064373,29.940304",
     "geom:latitude":29.940304,
     "geom:longitude":-90.064373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Convention Center Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203293347,
-    "wof:lastmodified":1449025307,
+    "wof:lastmodified":1466539384,
     "wof:name":"Joel's Grand Cuisine",
     "wof:parent_id":85866969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-90.064373,29.940304,-90.064373,29.940304],
+  "bbox": [
+    -90.064373,
+    29.940304,
+    -90.064373,
+    29.940304
+],
   "geometry": {"coordinates":[-90.064373,29.940304],"type":"Point"}
 }

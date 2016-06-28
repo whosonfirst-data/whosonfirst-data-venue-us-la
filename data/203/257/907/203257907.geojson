@@ -2,13 +2,14 @@
   "id": 203257907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0659,29.961547,-90.0659,29.961547",
     "geom:latitude":29.961547,
     "geom:longitude":-90.0659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"French Quarter 911 Burgundy St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":203257907,
-    "wof:lastmodified":1449025466,
+    "wof:lastmodified":1466539333,
     "wof:name":"Hotel St Pierre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.0659,29.961547,-90.0659,29.961547],
+  "bbox": [
+    -90.0659,
+    29.961547,
+    -90.0659,
+    29.961547
+],
   "geometry": {"coordinates":[-90.0659,29.961547],"type":"Point"}
 }

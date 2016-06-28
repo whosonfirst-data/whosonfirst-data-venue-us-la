@@ -2,13 +2,14 @@
   "id": 370613165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.042815,32.367074,-94.042815,32.367074",
     "geom:latitude":32.367074,
     "geom:longitude":-94.042815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10029 Bethany State Line Rd",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370613165,
-    "wof:lastmodified":1449030669,
+    "wof:lastmodified":1466541057,
     "wof:name":"Lesco Inc",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oil"
     ]
 },
-  "bbox": [-94.042815,32.367074,-94.042815,32.367074],
+  "bbox": [
+    -94.042815,
+    32.367074,
+    -94.042815,
+    32.367074
+],
   "geometry": {"coordinates":[-94.042815,32.367074],"type":"Point"}
 }

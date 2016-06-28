@@ -2,13 +2,14 @@
   "id": 203206357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.043297,29.8971,-90.043297,29.8971",
     "geom:latitude":29.8971,
     "geom:longitude":-90.043297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Enterprise Dr",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203206357,
-    "wof:lastmodified":1449026275,
+    "wof:lastmodified":1466539272,
     "wof:name":"Keith's Radiator Repair Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.043297,29.8971,-90.043297,29.8971],
+  "bbox": [
+    -90.043297,
+    29.8971,
+    -90.043297,
+    29.8971
+],
   "geometry": {"coordinates":[-90.043297,29.8971],"type":"Point"}
 }

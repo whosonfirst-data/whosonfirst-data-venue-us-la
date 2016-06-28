@@ -2,13 +2,14 @@
   "id": 203339927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.822156,30.007911,-91.822156,30.007911",
     "geom:latitude":30.007911,
     "geom:longitude":-91.822156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Jefferson St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203339927,
-    "wof:lastmodified":1449025761,
+    "wof:lastmodified":1466539472,
     "wof:name":"Joseph Joy & Associates",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.822156,30.007911,-91.822156,30.007911],
-  "geometry": {"coordinates":[-91.822156,30.007911],"type":"Point"}
+  "bbox": [
+    -91.822156,
+    30.007911,
+    -91.822156,
+    30.007911
+],
+  "geometry": {"coordinates":[-91.82215600000001,30.007911],"type":"Point"}
 }

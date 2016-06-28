@@ -2,13 +2,14 @@
   "id": 203343915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.820099,30.1579,-91.820099,30.1579",
     "geom:latitude":30.1579,
     "geom:longitude":-91.820099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1006 Saint John Bridge Rd",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203343915,
-    "wof:lastmodified":1449026316,
+    "wof:lastmodified":1466539465,
     "wof:name":"Food and Fun Number Seven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.820099,30.1579,-91.820099,30.1579],
+  "bbox": [
+    -91.820099,
+    30.1579,
+    -91.820099,
+    30.1579
+],
   "geometry": {"coordinates":[-91.820099,30.1579],"type":"Point"}
 }

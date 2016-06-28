@@ -2,13 +2,14 @@
   "id": 203344781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.829903,30.1201,-91.829903,30.1201",
     "geom:latitude":30.1201,
     "geom:longitude":-91.829903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 E Claiborne St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203344781,
-    "wof:lastmodified":1449025044,
+    "wof:lastmodified":1466539464,
     "wof:name":"Serrett Randall P Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.829903,30.1201,-91.829903,30.1201],
+  "bbox": [
+    -91.829903,
+    30.1201,
+    -91.829903,
+    30.1201
+],
   "geometry": {"coordinates":[-91.829903,30.1201],"type":"Point"}
 }

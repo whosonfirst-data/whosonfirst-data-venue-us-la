@@ -2,13 +2,14 @@
   "id": 203356417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.496868,31.000274,-93.496868,31.000274",
     "geom:latitude":31.000274,
     "geom:longitude":-93.496868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18152 Highway 111",
     "sg:city":"Evans",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203356417,
-    "wof:lastmodified":1449026501,
+    "wof:lastmodified":1466539478,
     "wof:name":"Trails End Cafe & Woodshop",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-93.496868,31.000274,-93.496868,31.000274],
-  "geometry": {"coordinates":[-93.496868,31.000274],"type":"Point"}
+  "bbox": [
+    -93.496868,
+    31.000274,
+    -93.496868,
+    31.000274
+],
+  "geometry": {"coordinates":[-93.49686800000001,31.000274],"type":"Point"}
 }

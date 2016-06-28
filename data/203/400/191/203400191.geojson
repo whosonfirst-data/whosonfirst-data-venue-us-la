@@ -2,13 +2,14 @@
   "id": 203400191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.495104,31.563682,-93.495104,31.563682",
     "geom:latitude":31.563682,
     "geom:longitude":-93.495104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Shuteye Rd",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203400191,
-    "wof:lastmodified":1449025118,
+    "wof:lastmodified":1466539526,
     "wof:name":"C&H Furniture",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-93.495104,31.563682,-93.495104,31.563682],
+  "bbox": [
+    -93.495104,
+    31.563682,
+    -93.495104,
+    31.563682
+],
   "geometry": {"coordinates":[-93.495104,31.563682],"type":"Point"}
 }

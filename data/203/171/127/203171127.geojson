@@ -2,13 +2,14 @@
   "id": 203171127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.145126,30.002308,-90.145126,30.002308",
     "geom:latitude":30.002308,
     "geom:longitude":-90.145126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Veterans Memorial Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203171127,
-    "wof:lastmodified":1449026873,
+    "wof:lastmodified":1466539529,
     "wof:name":"The Ups Stores",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "receiving"
     ]
 },
-  "bbox": [-90.145126,30.002308,-90.145126,30.002308],
+  "bbox": [
+    -90.145126,
+    30.002308,
+    -90.145126,
+    30.002308
+],
   "geometry": {"coordinates":[-90.145126,30.002308],"type":"Point"}
 }

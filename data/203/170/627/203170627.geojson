@@ -2,13 +2,14 @@
   "id": 203170627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.156181,29.984477,-90.156181,29.984477",
     "geom:latitude":29.984477,
     "geom:longitude":-90.156181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 N Causeway Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203170627,
-    "wof:lastmodified":1449025108,
+    "wof:lastmodified":1466539528,
     "wof:name":"Third Base Sports Bar",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.156181,29.984477,-90.156181,29.984477],
+  "bbox": [
+    -90.156181,
+    29.984477,
+    -90.156181,
+    29.984477
+],
   "geometry": {"coordinates":[-90.156181,29.984477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203365941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.875745,32.886866,-93.875745,32.886866",
     "geom:latitude":32.886866,
     "geom:longitude":-93.875745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14836 Parkway Dr",
     "sg:city":"Hosston",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203365941,
-    "wof:lastmodified":1449025244,
+    "wof:lastmodified":1466539495,
     "wof:name":"USPS - United States Post Office - Hosston Main Office",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.875745,32.886866,-93.875745,32.886866],
-  "geometry": {"coordinates":[-93.875745,32.886866],"type":"Point"}
+  "bbox": [
+    -93.875745,
+    32.886866,
+    -93.875745,
+    32.886866
+],
+  "geometry": {"coordinates":[-93.87574499999999,32.886866],"type":"Point"}
 }

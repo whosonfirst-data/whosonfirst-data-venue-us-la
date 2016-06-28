@@ -2,13 +2,14 @@
   "id": 203283993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064527,29.943353,-90.064527,29.943353",
     "geom:latitude":29.943353,
     "geom:longitude":-90.064527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"859 Convention Center Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203283993,
-    "wof:lastmodified":1449025469,
+    "wof:lastmodified":1466539377,
     "wof:name":"New Orleans Marriott at the Convention Center",
     "wof:parent_id":85866969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.064527,29.943353,-90.064527,29.943353],
+  "bbox": [
+    -90.064527,
+    29.943353,
+    -90.064527,
+    29.943353
+],
   "geometry": {"coordinates":[-90.064527,29.943353],"type":"Point"}
 }

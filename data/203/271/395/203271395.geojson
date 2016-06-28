@@ -2,13 +2,14 @@
   "id": 203271395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064697,30.0082,-90.064697,30.0082",
     "geom:latitude":30.0082,
     "geom:longitude":-90.064697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4915 Saint Anthony Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203271395,
-    "wof:lastmodified":1449025933,
+    "wof:lastmodified":1466539350,
     "wof:name":"Zimmer's Seafood",
     "wof:parent_id":85866063,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "market"
     ]
 },
-  "bbox": [-90.064697,30.0082,-90.064697,30.0082],
+  "bbox": [
+    -90.064697,
+    30.0082,
+    -90.064697,
+    30.0082
+],
   "geometry": {"coordinates":[-90.064697,30.0082],"type":"Point"}
 }

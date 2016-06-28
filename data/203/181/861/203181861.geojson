@@ -2,13 +2,14 @@
   "id": 203181861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.965917,29.937436,-89.965917,29.937436",
     "geom:latitude":29.937436,
     "geom:longitude":-89.965917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2029 Paris Rd",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203181861,
-    "wof:lastmodified":1449026100,
+    "wof:lastmodified":1466540922,
     "wof:name":"Brad's Bar",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-89.965917,29.937436,-89.965917,29.937436],
+  "bbox": [
+    -89.965917,
+    29.937436,
+    -89.965917,
+    29.937436
+],
   "geometry": {"coordinates":[-89.965917,29.937436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203325881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.967869,30.141037,-91.967869,30.141037",
     "geom:latitude":30.141037,
     "geom:longitude":-91.967869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Marguerite St",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203325881,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466539439,
     "wof:name":"Electric Sales & Service Co Inc",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-91.967869,30.141037,-91.967869,30.141037],
-  "geometry": {"coordinates":[-91.967869,30.141037],"type":"Point"}
+  "bbox": [
+    -91.967869,
+    30.141037,
+    -91.967869,
+    30.141037
+],
+  "geometry": {"coordinates":[-91.96786899999999,30.141037],"type":"Point"}
 }

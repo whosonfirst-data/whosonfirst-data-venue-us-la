@@ -2,13 +2,14 @@
   "id": 203379065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.018302,32.917431,-94.018302,32.917431",
     "geom:latitude":32.917431,
     "geom:longitude":-94.018302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10651 Murry Ln",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203379065,
-    "wof:lastmodified":1449026050,
+    "wof:lastmodified":1466539496,
     "wof:name":"Woods James I Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.018302,32.917431,-94.018302,32.917431],
-  "geometry": {"coordinates":[-94.018302,32.917431],"type":"Point"}
+  "bbox": [
+    -94.018302,
+    32.917431,
+    -94.018302,
+    32.917431
+],
+  "geometry": {"coordinates":[-94.01830200000001,32.917431],"type":"Point"}
 }

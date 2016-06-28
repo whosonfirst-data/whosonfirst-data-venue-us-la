@@ -2,13 +2,14 @@
   "id": 203321949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.985838,30.152073,-91.985838,30.152073",
     "geom:latitude":30.152073,
     "geom:longitude":-91.985838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Calypso Ln",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203321949,
-    "wof:lastmodified":1449024991,
+    "wof:lastmodified":1466539439,
     "wof:name":"Axiom Computers Llc",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-91.985838,30.152073,-91.985838,30.152073],
+  "bbox": [
+    -91.985838,
+    30.152073,
+    -91.985838,
+    30.152073
+],
   "geometry": {"coordinates":[-91.985838,30.152073],"type":"Point"}
 }

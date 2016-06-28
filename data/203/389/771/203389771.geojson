@@ -2,13 +2,14 @@
   "id": 203389771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.860809,32.432758,-93.860809,32.432758",
     "geom:latitude":32.432758,
     "geom:longitude":-93.860809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7700 Pines Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203389771,
-    "wof:lastmodified":1449026440,
+    "wof:lastmodified":1466539518,
     "wof:name":"Westport Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "broker"
     ]
 },
-  "bbox": [-93.860809,32.432758,-93.860809,32.432758],
+  "bbox": [
+    -93.860809,
+    32.432758,
+    -93.860809,
+    32.432758
+],
   "geometry": {"coordinates":[-93.860809,32.432758],"type":"Point"}
 }

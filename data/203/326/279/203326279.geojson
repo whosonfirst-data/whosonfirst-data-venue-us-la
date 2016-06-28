@@ -2,13 +2,14 @@
   "id": 203326279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.960197,30.147499,-91.960197,30.147499",
     "geom:latitude":30.147499,
     "geom:longitude":-91.960197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 E Main St",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203326279,
-    "wof:lastmodified":1449025733,
+    "wof:lastmodified":1466539428,
     "wof:name":"Bel-Air Motel",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.960197,30.147499,-91.960197,30.147499],
-  "geometry": {"coordinates":[-91.960197,30.147499],"type":"Point"}
+  "bbox": [
+    -91.960197,
+    30.147499,
+    -91.960197,
+    30.147499
+],
+  "geometry": {"coordinates":[-91.96019699999999,30.147499],"type":"Point"}
 }

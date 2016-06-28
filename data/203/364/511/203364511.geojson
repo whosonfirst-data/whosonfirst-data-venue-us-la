@@ -2,13 +2,14 @@
   "id": 203364511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.723666,33.004097,-92.723666,33.004097",
     "geom:latitude":33.004097,
     "geom:longitude":-92.723666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1953 Main St",
     "sg:city":"Haynesville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203364511,
-    "wof:lastmodified":1449026019,
+    "wof:lastmodified":1466539485,
     "wof:name":"David Raines Community Health Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-92.723666,33.004097,-92.723666,33.004097],
-  "geometry": {"coordinates":[-92.723666,33.004097],"type":"Point"}
+  "bbox": [
+    -92.723666,
+    33.004097,
+    -92.723666,
+    33.004097
+],
+  "geometry": {"coordinates":[-92.72366599999999,33.004097],"type":"Point"}
 }

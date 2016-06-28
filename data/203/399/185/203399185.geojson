@@ -2,13 +2,14 @@
   "id": 203399185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.539542,32.95963,-92.539542,32.95963",
     "geom:latitude":32.95963,
     "geom:longitude":-92.539542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"966 Clellan Bryan Rd",
     "sg:city":"Spearsville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203399185,
-    "wof:lastmodified":1449025277,
+    "wof:lastmodified":1466539525,
     "wof:name":"Watson's Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.539542,32.95963,-92.539542,32.95963],
+  "bbox": [
+    -92.539542,
+    32.95963,
+    -92.539542,
+    32.95963
+],
   "geometry": {"coordinates":[-92.539542,32.95963],"type":"Point"}
 }

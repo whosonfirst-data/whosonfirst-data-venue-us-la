@@ -2,13 +2,14 @@
   "id": 203395123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.915642,32.775185,-91.915642,32.775185",
     "geom:latitude":32.775185,
     "geom:longitude":-91.915642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S Vine St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203395123,
-    "wof:lastmodified":1449026572,
+    "wof:lastmodified":1466539519,
     "wof:name":"Robert John Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.915642,32.775185,-91.915642,32.775185],
-  "geometry": {"coordinates":[-91.915642,32.775185],"type":"Point"}
+  "bbox": [
+    -91.915642,
+    32.775185,
+    -91.915642,
+    32.775185
+],
+  "geometry": {"coordinates":[-91.91564200000001,32.775185],"type":"Point"}
 }

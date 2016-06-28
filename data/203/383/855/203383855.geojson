@@ -2,13 +2,14 @@
   "id": 203383855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.797288,32.464562,-93.797288,32.464562",
     "geom:latitude":32.464562,
     "geom:longitude":-93.797288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 Jewella Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203383855,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466539509,
     "wof:name":"Rachael's Beauty Salon",
     "wof:parent_id":85881003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.797288,32.464562,-93.797288,32.464562],
-  "geometry": {"coordinates":[-93.797288,32.464562],"type":"Point"}
+  "bbox": [
+    -93.797288,
+    32.464562,
+    -93.797288,
+    32.464562
+],
+  "geometry": {"coordinates":[-93.79728799999999,32.464562],"type":"Point"}
 }

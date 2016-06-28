@@ -2,13 +2,14 @@
   "id": 203385607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.820546,32.471448,-93.820546,32.471448",
     "geom:latitude":32.471448,
     "geom:longitude":-93.820546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4610 Greenwood Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203385607,
-    "wof:lastmodified":1449026071,
+    "wof:lastmodified":1466539512,
     "wof:name":"Family Community School Success Resources & Training Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "educational"
     ]
 },
-  "bbox": [-93.820546,32.471448,-93.820546,32.471448],
-  "geometry": {"coordinates":[-93.820546,32.471448],"type":"Point"}
+  "bbox": [
+    -93.820546,
+    32.471448,
+    -93.820546,
+    32.471448
+],
+  "geometry": {"coordinates":[-93.82054599999999,32.471448],"type":"Point"}
 }

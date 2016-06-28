@@ -2,13 +2,14 @@
   "id": 203399825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.616997,31.382647,-93.616997,31.382647",
     "geom:latitude":31.382647,
     "geom:longitude":-93.616997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Big Bass Ln",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203399825,
-    "wof:lastmodified":1449025276,
+    "wof:lastmodified":1466541063,
     "wof:name":"Marine Consultants Of Louisiana, Inc.",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "coach"
     ]
 },
-  "bbox": [-93.616997,31.382647,-93.616997,31.382647],
+  "bbox": [
+    -93.616997,
+    31.382647,
+    -93.616997,
+    31.382647
+],
   "geometry": {"coordinates":[-93.616997,31.382647],"type":"Point"}
 }

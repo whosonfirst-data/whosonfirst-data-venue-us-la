@@ -2,13 +2,14 @@
   "id": 203199563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040878,29.885603,-90.040878,29.885603",
     "geom:latitude":29.885603,
     "geom:longitude":-90.040878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Fernwood St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203199563,
-    "wof:lastmodified":1449025127,
+    "wof:lastmodified":1466539258,
     "wof:name":"Horizon Realty Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.040878,29.885603,-90.040878,29.885603],
-  "geometry": {"coordinates":[-90.040878,29.885603],"type":"Point"}
+  "bbox": [
+    -90.040878,
+    29.885603,
+    -90.040878,
+    29.885603
+],
+  "geometry": {"coordinates":[-90.04087800000001,29.885603],"type":"Point"}
 }

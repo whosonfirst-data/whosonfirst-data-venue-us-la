@@ -2,13 +2,14 @@
   "id": 203336113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.924301,30.0508,-91.924301,30.0508",
     "geom:latitude":30.0508,
     "geom:longitude":-91.924301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4701 Coteau Rd",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203336113,
-    "wof:lastmodified":1449024913,
+    "wof:lastmodified":1466539445,
     "wof:name":"A Gift of Love Child Care Center",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-91.924301,30.0508,-91.924301,30.0508],
+  "bbox": [
+    -91.924301,
+    30.0508,
+    -91.924301,
+    30.0508
+],
   "geometry": {"coordinates":[-91.924301,30.0508],"type":"Point"}
 }

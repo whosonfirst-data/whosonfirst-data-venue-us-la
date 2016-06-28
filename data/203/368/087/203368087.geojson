@@ -2,13 +2,14 @@
   "id": 203368087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.877312,32.268946,-93.877312,32.268946",
     "geom:latitude":32.268946,
     "geom:longitude":-93.877312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13485 Berry Rd",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203368087,
-    "wof:lastmodified":1449025374,
+    "wof:lastmodified":1466541052,
     "wof:name":"Lafitte's Tree Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-93.877312,32.268946,-93.877312,32.268946],
+  "bbox": [
+    -93.877312,
+    32.268946,
+    -93.877312,
+    32.268946
+],
   "geometry": {"coordinates":[-93.877312,32.268946],"type":"Point"}
 }

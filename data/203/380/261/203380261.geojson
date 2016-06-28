@@ -2,13 +2,14 @@
   "id": 203380261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.827187,32.598982,-93.827187,32.598982",
     "geom:latitude":32.598982,
     "geom:longitude":-93.827187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4866 Albany Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203380261,
-    "wof:lastmodified":1449025793,
+    "wof:lastmodified":1466539500,
     "wof:name":"Waldon, Malcoln",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-93.827187,32.598982,-93.827187,32.598982],
+  "bbox": [
+    -93.827187,
+    32.598982,
+    -93.827187,
+    32.598982
+],
   "geometry": {"coordinates":[-93.827187,32.598982],"type":"Point"}
 }

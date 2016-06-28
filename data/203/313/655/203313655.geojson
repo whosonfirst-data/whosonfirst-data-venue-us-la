@@ -2,13 +2,14 @@
   "id": 203313655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.014071,30.234636,-92.014071,30.234636",
     "geom:latitude":30.234636,
     "geom:longitude":-92.014071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 NW Evangeline Thruway Ste A",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203313655,
-    "wof:lastmodified":1449025009,
+    "wof:lastmodified":1466539413,
     "wof:name":"Rick Nash DC",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.014071,30.234636,-92.014071,30.234636],
+  "bbox": [
+    -92.014071,
+    30.234636,
+    -92.014071,
+    30.234636
+],
   "geometry": {"coordinates":[-92.014071,30.234636],"type":"Point"}
 }

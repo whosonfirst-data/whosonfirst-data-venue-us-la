@@ -2,13 +2,14 @@
   "id": 203318041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.042175,30.297952,-92.042175,30.297952",
     "geom:latitude":30.297952,
     "geom:longitude":-92.042175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 W Gloria Switch Rd Lot 20",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203318041,
-    "wof:lastmodified":1449025337,
+    "wof:lastmodified":1466539415,
     "wof:name":"Alpha Laser Inc",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-92.042175,30.297952,-92.042175,30.297952],
+  "bbox": [
+    -92.042175,
+    30.297952,
+    -92.042175,
+    30.297952
+],
   "geometry": {"coordinates":[-92.042175,30.297952],"type":"Point"}
 }

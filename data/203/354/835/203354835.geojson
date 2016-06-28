@@ -2,13 +2,14 @@
   "id": 203354835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.993415,30.101568,-91.993415,30.101568",
     "geom:latitude":30.101568,
     "geom:longitude":-91.993415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Iberia St",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203354835,
-    "wof:lastmodified":1449026658,
+    "wof:lastmodified":1466539482,
     "wof:name":"Young Eyes LLC",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "eyewear"
     ]
 },
-  "bbox": [-91.993415,30.101568,-91.993415,30.101568],
+  "bbox": [
+    -91.993415,
+    30.101568,
+    -91.993415,
+    30.101568
+],
   "geometry": {"coordinates":[-91.993415,30.101568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203316717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.060204,30.231701,-92.060204,30.231701",
     "geom:latitude":30.231701,
     "geom:longitude":-92.060204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Toledo Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203316717,
-    "wof:lastmodified":1449026262,
+    "wof:lastmodified":1466539419,
     "wof:name":"Woofs N Wiskers Llc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sitting"
     ]
 },
-  "bbox": [-92.060204,30.231701,-92.060204,30.231701],
+  "bbox": [
+    -92.060204,
+    30.231701,
+    -92.060204,
+    30.231701
+],
   "geometry": {"coordinates":[-92.060204,30.231701],"type":"Point"}
 }

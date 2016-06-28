@@ -2,13 +2,14 @@
   "id": 203394351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.908961,32.768592,-91.908961,32.768592",
     "geom:latitude":32.768592,
     "geom:longitude":-91.908961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Thomas Ave",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203394351,
-    "wof:lastmodified":1449025305,
+    "wof:lastmodified":1466539520,
     "wof:name":"Church Cloys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-91.908961,32.768592,-91.908961,32.768592],
-  "geometry": {"coordinates":[-91.908961,32.768592],"type":"Point"}
+  "bbox": [
+    -91.908961,
+    32.768592,
+    -91.908961,
+    32.768592
+],
+  "geometry": {"coordinates":[-91.90896100000001,32.768592],"type":"Point"}
 }

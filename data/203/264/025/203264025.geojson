@@ -2,13 +2,14 @@
   "id": 203264025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.056223,29.964778,-90.056223,29.964778",
     "geom:latitude":29.964778,
     "geom:longitude":-90.056223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"719 Elysian Fields Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203264025,
-    "wof:lastmodified":1449026211,
+    "wof:lastmodified":1466539326,
     "wof:name":"Louisiana State of",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.056223,29.964778,-90.056223,29.964778],
+  "bbox": [
+    -90.056223,
+    29.964778,
+    -90.056223,
+    29.964778
+],
   "geometry": {"coordinates":[-90.056223,29.964778],"type":"Point"}
 }

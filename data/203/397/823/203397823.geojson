@@ -2,13 +2,14 @@
   "id": 203397823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.599518,32.988121,-91.599518,32.988121",
     "geom:latitude":32.988121,
     "geom:longitude":-91.599518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15033 Armstrong Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203397823,
-    "wof:lastmodified":1449025676,
+    "wof:lastmodified":1466539527,
     "wof:name":"Floyd Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "product"
     ]
 },
-  "bbox": [-91.599518,32.988121,-91.599518,32.988121],
+  "bbox": [
+    -91.599518,
+    32.988121,
+    -91.599518,
+    32.988121
+],
   "geometry": {"coordinates":[-91.599518,32.988121],"type":"Point"}
 }

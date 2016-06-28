@@ -2,13 +2,14 @@
   "id": 203340781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.814059,30.008292,-91.814059,30.008292",
     "geom:latitude":30.008292,
     "geom:longitude":-91.814059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Duperier Ave",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203340781,
-    "wof:lastmodified":1449026402,
+    "wof:lastmodified":1466539470,
     "wof:name":"Patients Care Medical Supply Inc",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-91.814059,30.008292,-91.814059,30.008292],
+  "bbox": [
+    -91.814059,
+    30.008292,
+    -91.814059,
+    30.008292
+],
   "geometry": {"coordinates":[-91.814059,30.008292],"type":"Point"}
 }

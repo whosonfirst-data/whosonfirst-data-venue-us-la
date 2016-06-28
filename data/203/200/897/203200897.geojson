@@ -2,13 +2,14 @@
   "id": 203200897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.032652,29.919477,-90.032652,29.919477",
     "geom:latitude":29.919477,
     "geom:longitude":-90.032652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Holmes Blvd Ste 3",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":203200897,
-    "wof:lastmodified":1449025679,
+    "wof:lastmodified":1466539265,
     "wof:name":"Athlete's Foot the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-90.032652,29.919477,-90.032652,29.919477],
+  "bbox": [
+    -90.032652,
+    29.919477,
+    -90.032652,
+    29.919477
+],
   "geometry": {"coordinates":[-90.032652,29.919477],"type":"Point"}
 }

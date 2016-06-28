@@ -2,13 +2,14 @@
   "id": 203222653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.031303,29.8689,-90.031303,29.8689",
     "geom:latitude":29.8689,
     "geom:longitude":-90.031303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Wall Blvd",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203222653,
-    "wof:lastmodified":1449026243,
+    "wof:lastmodified":1466539290,
     "wof:name":"Arden Cahill Academy Camp Corral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "elementary"
     ]
 },
-  "bbox": [-90.031303,29.8689,-90.031303,29.8689],
-  "geometry": {"coordinates":[-90.031303,29.8689],"type":"Point"}
+  "bbox": [
+    -90.031303,
+    29.8689,
+    -90.031303,
+    29.8689
+],
+  "geometry": {"coordinates":[-90.03130299999999,29.8689],"type":"Point"}
 }

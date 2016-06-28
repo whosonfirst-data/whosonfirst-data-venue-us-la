@@ -2,13 +2,14 @@
   "id": 337289321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.911278,32.446838,-93.911278,32.446838",
     "geom:latitude":32.446838,
     "geom:longitude":-93.911278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7480 Greenwood Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":337289321,
-    "wof:lastmodified":1449027603,
+    "wof:lastmodified":1466541058,
     "wof:name":"Greenwood Acres Full Gospel Baptist Church",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.911278,32.446838,-93.911278,32.446838],
+  "bbox": [
+    -93.911278,
+    32.446838,
+    -93.911278,
+    32.446838
+],
   "geometry": {"coordinates":[-93.911278,32.446838],"type":"Point"}
 }

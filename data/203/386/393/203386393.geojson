@@ -2,13 +2,14 @@
   "id": 203386393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.797313,32.416413,-93.797313,32.416413",
     "geom:latitude":32.416413,
     "geom:longitude":-93.797313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8889A Jewella Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203386393,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1466539510,
     "wof:name":"Timmons, Earl",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "business"
     ]
 },
-  "bbox": [-93.797313,32.416413,-93.797313,32.416413],
+  "bbox": [
+    -93.797313,
+    32.416413,
+    -93.797313,
+    32.416413
+],
   "geometry": {"coordinates":[-93.797313,32.416413],"type":"Point"}
 }

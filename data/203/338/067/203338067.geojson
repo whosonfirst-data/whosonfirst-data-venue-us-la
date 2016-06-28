@@ -2,13 +2,14 @@
   "id": 203338067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.819019,30.004983,-91.819019,30.004983",
     "geom:latitude":30.004983,
     "geom:longitude":-91.819019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"123 E Saint Peter St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203338067,
-    "wof:lastmodified":1449025573,
+    "wof:lastmodified":1466539445,
     "wof:name":"Hidalgo Ben Construction",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.819019,30.004983,-91.819019,30.004983],
+  "bbox": [
+    -91.819019,
+    30.004983,
+    -91.819019,
+    30.004983
+],
   "geometry": {"coordinates":[-91.819019,30.004983],"type":"Point"}
 }

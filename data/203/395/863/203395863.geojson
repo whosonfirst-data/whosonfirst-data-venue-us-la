@@ -2,13 +2,14 @@
   "id": 203395863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.829642,32.879021,-91.829642,32.879021",
     "geom:latitude":32.879021,
     "geom:longitude":-91.829642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7890 Clayton Moore Rd",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203395863,
-    "wof:lastmodified":1449026573,
+    "wof:lastmodified":1466539526,
     "wof:name":"Jackie Courson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-91.829642,32.879021,-91.829642,32.879021],
-  "geometry": {"coordinates":[-91.829642,32.879021],"type":"Point"}
+  "bbox": [
+    -91.829642,
+    32.879021,
+    -91.829642,
+    32.879021
+],
+  "geometry": {"coordinates":[-91.82964200000001,32.879021],"type":"Point"}
 }

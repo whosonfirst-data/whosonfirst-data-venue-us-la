@@ -2,13 +2,14 @@
   "id": 203228117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.056803,29.889433,-90.056803,29.889433",
     "geom:latitude":29.889433,
     "geom:longitude":-90.056803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 Manhattan Blvd Ste R",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203228117,
-    "wof:lastmodified":1449025504,
+    "wof:lastmodified":1466539288,
     "wof:name":"Ashley Stewart Store 406",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-90.056803,29.889433,-90.056803,29.889433],
+  "bbox": [
+    -90.056803,
+    29.889433,
+    -90.056803,
+    29.889433
+],
   "geometry": {"coordinates":[-90.056803,29.889433],"type":"Point"}
 }

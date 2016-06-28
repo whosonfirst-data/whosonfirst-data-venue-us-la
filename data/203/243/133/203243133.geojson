@@ -2,13 +2,14 @@
   "id": 203243133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.015701,29.9221,-90.015701,29.9221",
     "geom:latitude":29.9221,
     "geom:longitude":-90.015701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3924 General Degaulle Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203243133,
-    "wof:lastmodified":1449025539,
+    "wof:lastmodified":1466539303,
     "wof:name":"Fox James C Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-90.015701,29.9221,-90.015701,29.9221],
-  "geometry": {"coordinates":[-90.015701,29.9221],"type":"Point"}
+  "bbox": [
+    -90.015701,
+    29.9221,
+    -90.015701,
+    29.9221
+],
+  "geometry": {"coordinates":[-90.01570100000001,29.9221],"type":"Point"}
 }

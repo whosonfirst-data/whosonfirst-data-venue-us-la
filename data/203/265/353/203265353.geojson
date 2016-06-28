@@ -2,13 +2,14 @@
   "id": 203265353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0513,29.965,-90.0513,29.965",
     "geom:latitude":29.965,
     "geom:longitude":-90.0513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Royal St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203265353,
-    "wof:lastmodified":1449025560,
+    "wof:lastmodified":1466539338,
     "wof:name":"Mimi's In the Marigny",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "nightlife"
     ]
 },
-  "bbox": [-90.0513,29.965,-90.0513,29.965],
+  "bbox": [
+    -90.0513,
+    29.965,
+    -90.0513,
+    29.965
+],
   "geometry": {"coordinates":[-90.0513,29.965],"type":"Point"}
 }

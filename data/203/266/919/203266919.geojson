@@ -2,13 +2,14 @@
   "id": 203266919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.032402,29.9652,-90.032402,29.9652",
     "geom:latitude":29.9652,
     "geom:longitude":-90.032402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 Saint Claude Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203266919,
-    "wof:lastmodified":1449025014,
+    "wof:lastmodified":1466539353,
     "wof:name":"Church's Chicken of New Orleans",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.032402,29.9652,-90.032402,29.9652],
+  "bbox": [
+    -90.032402,
+    29.9652,
+    -90.032402,
+    29.9652
+],
   "geometry": {"coordinates":[-90.032402,29.9652],"type":"Point"}
 }

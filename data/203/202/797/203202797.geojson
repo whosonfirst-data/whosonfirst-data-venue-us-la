@@ -2,13 +2,14 @@
   "id": 203202797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.034043,29.879537,-90.034043,29.879537",
     "geom:latitude":29.879537,
     "geom:longitude":-90.034043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"552 Lapalco Blvd",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203202797,
-    "wof:lastmodified":1449026615,
+    "wof:lastmodified":1466539272,
     "wof:name":"Betty's Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "women's"
     ]
 },
-  "bbox": [-90.034043,29.879537,-90.034043,29.879537],
+  "bbox": [
+    -90.034043,
+    29.879537,
+    -90.034043,
+    29.879537
+],
   "geometry": {"coordinates":[-90.034043,29.879537],"type":"Point"}
 }

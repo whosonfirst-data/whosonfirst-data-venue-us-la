@@ -2,13 +2,14 @@
   "id": 203255455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0592,29.960646,-90.0592,29.960646",
     "geom:latitude":29.960646,
     "geom:longitude":-90.0592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Decatur St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203255455,
-    "wof:lastmodified":1449025773,
+    "wof:lastmodified":1466539323,
     "wof:name":"Wicked Orleans",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "women's"
     ]
 },
-  "bbox": [-90.0592,29.960646,-90.0592,29.960646],
+  "bbox": [
+    -90.0592,
+    29.960646,
+    -90.0592,
+    29.960646
+],
   "geometry": {"coordinates":[-90.0592,29.960646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203366937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.86432,32.368706,-93.86432,32.368706",
     "geom:latitude":32.368706,
     "geom:longitude":-93.86432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10273 Cardiff Dr",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203366937,
-    "wof:lastmodified":1449026350,
+    "wof:lastmodified":1466539488,
     "wof:name":"Quality Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-93.86432,32.368706,-93.86432,32.368706],
-  "geometry": {"coordinates":[-93.86432,32.368706],"type":"Point"}
+  "bbox": [
+    -93.86432,
+    32.368706,
+    -93.86432,
+    32.368706
+],
+  "geometry": {"coordinates":[-93.86432000000001,32.368706],"type":"Point"}
 }

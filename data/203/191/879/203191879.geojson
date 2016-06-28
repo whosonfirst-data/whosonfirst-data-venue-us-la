@@ -2,13 +2,14 @@
   "id": 203191879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.055702,29.909,-90.055702,29.909",
     "geom:latitude":29.909,
     "geom:longitude":-90.055702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Lafayette St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203191879,
-    "wof:lastmodified":1449026082,
+    "wof:lastmodified":1466539261,
     "wof:name":"American Auto Sales",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-90.055702,29.909,-90.055702,29.909],
+  "bbox": [
+    -90.055702,
+    29.909,
+    -90.055702,
+    29.909
+],
   "geometry": {"coordinates":[-90.055702,29.909],"type":"Point"}
 }

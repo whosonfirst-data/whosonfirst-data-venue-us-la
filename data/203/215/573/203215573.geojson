@@ -2,13 +2,14 @@
   "id": 203215573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.017197,29.8944,-90.017197,29.8944",
     "geom:latitude":29.8944,
     "geom:longitude":-90.017197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2350 Park Place Dr Apt 90",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203215573,
-    "wof:lastmodified":1449026511,
+    "wof:lastmodified":1466539282,
     "wof:name":"Cedarwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.017197,29.8944,-90.017197,29.8944],
+  "bbox": [
+    -90.017197,
+    29.8944,
+    -90.017197,
+    29.8944
+],
   "geometry": {"coordinates":[-90.017197,29.8944],"type":"Point"}
 }

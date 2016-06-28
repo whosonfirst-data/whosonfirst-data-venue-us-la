@@ -2,13 +2,14 @@
   "id": 203171367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.138489,29.992571,-90.138489,29.992571",
     "geom:latitude":29.992571,
     "geom:longitude":-90.138489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Homestead Ave",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203171367,
-    "wof:lastmodified":1449026871,
+    "wof:lastmodified":1466539530,
     "wof:name":"Nelson Prints",
     "wof:parent_id":85866149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lithographer"
     ]
 },
-  "bbox": [-90.138489,29.992571,-90.138489,29.992571],
-  "geometry": {"coordinates":[-90.138489,29.992571],"type":"Point"}
+  "bbox": [
+    -90.138489,
+    29.992571,
+    -90.138489,
+    29.992571
+],
+  "geometry": {"coordinates":[-90.13848900000001,29.992571],"type":"Point"}
 }

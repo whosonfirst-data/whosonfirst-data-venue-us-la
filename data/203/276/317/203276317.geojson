@@ -2,13 +2,14 @@
   "id": 203276317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.021797,30.017599,-90.021797,30.017599",
     "geom:latitude":30.017599,
     "geom:longitude":-90.021797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 Downman Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203276317,
-    "wof:lastmodified":1449025022,
+    "wof:lastmodified":1466539355,
     "wof:name":"Happy Kids Preschool and Daycare Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-90.021797,30.017599,-90.021797,30.017599],
-  "geometry": {"coordinates":[-90.021797,30.017599],"type":"Point"}
+  "bbox": [
+    -90.021797,
+    30.017599,
+    -90.021797,
+    30.017599
+],
+  "geometry": {"coordinates":[-90.02179700000001,30.017599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203317251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.044549,30.23083,-92.044549,30.23083",
     "geom:latitude":30.23083,
     "geom:longitude":-92.044549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Duson St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203317251,
-    "wof:lastmodified":1449025773,
+    "wof:lastmodified":1466539417,
     "wof:name":"Iota the News",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-92.044549,30.23083,-92.044549,30.23083],
+  "bbox": [
+    -92.044549,
+    30.23083,
+    -92.044549,
+    30.23083
+],
   "geometry": {"coordinates":[-92.044549,30.23083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203399419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.10603,32.702698,-92.10603,32.702698",
     "geom:latitude":32.702698,
     "geom:longitude":-92.10603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Highway 2",
     "sg:city":"Sterlington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203399419,
-    "wof:lastmodified":1449025282,
+    "wof:lastmodified":1466539526,
     "wof:name":"Buffy's Hair Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "stylist"
     ]
 },
-  "bbox": [-92.10603,32.702698,-92.10603,32.702698],
+  "bbox": [
+    -92.10603,
+    32.702698,
+    -92.10603,
+    32.702698
+],
   "geometry": {"coordinates":[-92.10603,32.702698],"type":"Point"}
 }

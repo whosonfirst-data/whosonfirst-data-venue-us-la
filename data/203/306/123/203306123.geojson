@@ -2,13 +2,14 @@
   "id": 203306123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.782536,30.284728,-89.782536,30.284728",
     "geom:latitude":30.284728,
     "geom:longitude":-89.782536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 W Hall Ave",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203306123,
-    "wof:lastmodified":1449026781,
+    "wof:lastmodified":1466539394,
     "wof:name":"J W's Reloaded",
     "wof:parent_id":85837583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.782536,30.284728,-89.782536,30.284728],
-  "geometry": {"coordinates":[-89.782536,30.284728],"type":"Point"}
+  "bbox": [
+    -89.782536,
+    30.284728,
+    -89.782536,
+    30.284728
+],
+  "geometry": {"coordinates":[-89.78253599999999,30.284728],"type":"Point"}
 }

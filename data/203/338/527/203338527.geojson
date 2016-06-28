@@ -2,13 +2,14 @@
   "id": 203338527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.933403,30.059299,-91.933403,30.059299",
     "geom:latitude":30.059299,
     "geom:longitude":-91.933403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7600 Highway 90 W",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203338527,
-    "wof:lastmodified":1449025576,
+    "wof:lastmodified":1466539456,
     "wof:name":"Leisure Time Entertainment",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "video"
     ]
 },
-  "bbox": [-91.933403,30.059299,-91.933403,30.059299],
+  "bbox": [
+    -91.933403,
+    30.059299,
+    -91.933403,
+    30.059299
+],
   "geometry": {"coordinates":[-91.933403,30.059299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203175335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.995856,29.862866,-89.995856,29.862866",
     "geom:latitude":29.862866,
     "geom:longitude":-89.995856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Woodland Hwy Ste 5",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203175335,
-    "wof:lastmodified":1449026294,
+    "wof:lastmodified":1466540757,
     "wof:name":"Rotolo's Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-89.995856,29.862866,-89.995856,29.862866],
+  "bbox": [
+    -89.995856,
+    29.862866,
+    -89.995856,
+    29.862866
+],
   "geometry": {"coordinates":[-89.995856,29.862866],"type":"Point"}
 }

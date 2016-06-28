@@ -2,13 +2,14 @@
   "id": 203389217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.857708,32.456748,-93.857708,32.456748",
     "geom:latitude":32.456748,
     "geom:longitude":-93.857708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6024 Rose Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203389217,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466539511,
     "wof:name":"Belinda Lacour",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-93.857708,32.456748,-93.857708,32.456748],
+  "bbox": [
+    -93.857708,
+    32.456748,
+    -93.857708,
+    32.456748
+],
   "geometry": {"coordinates":[-93.857708,32.456748],"type":"Point"}
 }

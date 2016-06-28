@@ -2,13 +2,14 @@
   "id": 203304895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.770425,29.602368,-90.770425,29.602368",
     "geom:latitude":29.602368,
     "geom:longitude":-90.770425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Sugarwood Blvd",
     "sg:city":"Houma",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203304895,
-    "wof:lastmodified":1449026375,
+    "wof:lastmodified":1466539400,
     "wof:name":"Gg Painters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.770425,29.602368,-90.770425,29.602368],
+  "bbox": [
+    -90.770425,
+    29.602368,
+    -90.770425,
+    29.602368
+],
   "geometry": {"coordinates":[-90.770425,29.602368],"type":"Point"}
 }

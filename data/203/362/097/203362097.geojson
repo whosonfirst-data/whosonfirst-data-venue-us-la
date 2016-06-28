@@ -2,13 +2,14 @@
   "id": 203362097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.943863,32.442328,-93.943863,32.442328",
     "geom:latitude":32.442328,
     "geom:longitude":-93.943863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7070 Adams Ln",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203362097,
-    "wof:lastmodified":1449026199,
+    "wof:lastmodified":1466539483,
     "wof:name":"USPS - United States Post Office - Greenwood Main Office",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-93.943863,32.442328,-93.943863,32.442328],
-  "geometry": {"coordinates":[-93.943863,32.442328],"type":"Point"}
+  "bbox": [
+    -93.943863,
+    32.442328,
+    -93.943863,
+    32.442328
+],
+  "geometry": {"coordinates":[-93.94386299999999,32.442328],"type":"Point"}
 }

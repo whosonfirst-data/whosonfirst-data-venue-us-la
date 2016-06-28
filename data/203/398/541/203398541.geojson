@@ -2,13 +2,14 @@
   "id": 203398541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.168759,32.851365,-92.168759,32.851365",
     "geom:latitude":32.851365,
     "geom:longitude":-92.168759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Union Church Rd",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203398541,
-    "wof:lastmodified":1449025081,
+    "wof:lastmodified":1466541055,
     "wof:name":"Stumble Inn Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-92.168759,32.851365,-92.168759,32.851365],
-  "geometry": {"coordinates":[-92.168759,32.851365],"type":"Point"}
+  "bbox": [
+    -92.168759,
+    32.851365,
+    -92.168759,
+    32.851365
+],
+  "geometry": {"coordinates":[-92.16875899999999,32.851365],"type":"Point"}
 }

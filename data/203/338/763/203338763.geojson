@@ -2,13 +2,14 @@
   "id": 203338763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.822968,30.004826,-91.822968,30.004826",
     "geom:latitude":30.004826,
     "geom:longitude":-91.822968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Pershing St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203338763,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466539461,
     "wof:name":"A Little Touch of Love",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-91.822968,30.004826,-91.822968,30.004826],
+  "bbox": [
+    -91.822968,
+    30.004826,
+    -91.822968,
+    30.004826
+],
   "geometry": {"coordinates":[-91.822968,30.004826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203382743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.780719,32.452903,-93.780719,32.452903",
     "geom:latitude":32.452903,
     "geom:longitude":-93.780719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6015 Hearne Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203382743,
-    "wof:lastmodified":1449025421,
+    "wof:lastmodified":1466539506,
     "wof:name":"Professional Firefighters Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.780719,32.452903,-93.780719,32.452903],
+  "bbox": [
+    -93.780719,
+    32.452903,
+    -93.780719,
+    32.452903
+],
   "geometry": {"coordinates":[-93.780719,32.452903],"type":"Point"}
 }

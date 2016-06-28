@@ -2,13 +2,14 @@
   "id": 203177479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.983803,29.903,-89.983803,29.903",
     "geom:latitude":29.903,
     "geom:longitude":-89.983803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Jarrell Dr Ste A",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203177479,
-    "wof:lastmodified":1449026862,
+    "wof:lastmodified":1466540785,
     "wof:name":"Art Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-89.983803,29.903,-89.983803,29.903],
-  "geometry": {"coordinates":[-89.983803,29.903],"type":"Point"}
+  "bbox": [
+    -89.983803,
+    29.903,
+    -89.983803,
+    29.903
+],
+  "geometry": {"coordinates":[-89.98380299999999,29.903],"type":"Point"}
 }

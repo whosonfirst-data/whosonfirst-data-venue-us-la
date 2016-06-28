@@ -2,13 +2,14 @@
   "id": 203379713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.902016,32.646867,-93.902016,32.646867",
     "geom:latitude":32.646867,
     "geom:longitude":-93.902016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7819 Highway 1",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203379713,
-    "wof:lastmodified":1449026049,
+    "wof:lastmodified":1466539509,
     "wof:name":"Doug's Paint & Body Shop",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "painting"
     ]
 },
-  "bbox": [-93.902016,32.646867,-93.902016,32.646867],
+  "bbox": [
+    -93.902016,
+    32.646867,
+    -93.902016,
+    32.646867
+],
   "geometry": {"coordinates":[-93.902016,32.646867],"type":"Point"}
 }

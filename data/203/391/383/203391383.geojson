@@ -2,13 +2,14 @@
   "id": 203391383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.000892,32.338291,-94.000892,32.338291",
     "geom:latitude":32.338291,
     "geom:longitude":-94.000892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3552 Jackie Ln",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203391383,
-    "wof:lastmodified":1449026185,
+    "wof:lastmodified":1466539517,
     "wof:name":"Lewis Stump Removal",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "removal"
     ]
 },
-  "bbox": [-94.000892,32.338291,-94.000892,32.338291],
-  "geometry": {"coordinates":[-94.000892,32.338291],"type":"Point"}
+  "bbox": [
+    -94.000892,
+    32.338291,
+    -94.000892,
+    32.338291
+],
+  "geometry": {"coordinates":[-94.00089199999999,32.338291],"type":"Point"}
 }

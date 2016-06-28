@@ -2,13 +2,14 @@
   "id": 203311031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.016899,30.245001,-92.016899,30.245001",
     "geom:latitude":30.245001,
     "geom:longitude":-92.016899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 W Willow St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203311031,
-    "wof:lastmodified":1449025378,
+    "wof:lastmodified":1466541047,
     "wof:name":"Conn Appliance",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-92.016899,30.245001,-92.016899,30.245001],
+  "bbox": [
+    -92.016899,
+    30.245001,
+    -92.016899,
+    30.245001
+],
   "geometry": {"coordinates":[-92.016899,30.245001],"type":"Point"}
 }

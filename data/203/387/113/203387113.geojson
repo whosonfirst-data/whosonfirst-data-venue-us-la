@@ -2,13 +2,14 @@
   "id": 203387113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.780349,32.401524,-93.780349,32.401524",
     "geom:latitude":32.401524,
     "geom:longitude":-93.780349,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"880 Bert Kouns Industrial Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203387113,
-    "wof:lastmodified":1449026607,
+    "wof:lastmodified":1466539511,
     "wof:name":"Shear Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "stylist"
     ]
 },
-  "bbox": [-93.780349,32.401524,-93.780349,32.401524],
+  "bbox": [
+    -93.780349,
+    32.401524,
+    -93.780349,
+    32.401524
+],
   "geometry": {"coordinates":[-93.780349,32.401524],"type":"Point"}
 }

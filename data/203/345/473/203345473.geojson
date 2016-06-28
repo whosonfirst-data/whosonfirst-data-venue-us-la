@@ -2,13 +2,14 @@
   "id": 203345473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.830101,30.119301,-91.830101,30.119301",
     "geom:latitude":30.119301,
     "geom:longitude":-91.830101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 E Berard St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203345473,
-    "wof:lastmodified":1449026714,
+    "wof:lastmodified":1466539460,
     "wof:name":"McHugh Thomas G Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-91.830101,30.119301,-91.830101,30.119301],
+  "bbox": [
+    -91.830101,
+    30.119301,
+    -91.830101,
+    30.119301
+],
   "geometry": {"coordinates":[-91.830101,30.119301],"type":"Point"}
 }

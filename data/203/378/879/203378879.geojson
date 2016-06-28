@@ -2,13 +2,14 @@
   "id": 203378879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.7259,32.467566,-93.7259,32.467566",
     "geom:latitude":32.467566,
     "geom:longitude":-93.7259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Albany Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203378879,
-    "wof:lastmodified":1449026253,
+    "wof:lastmodified":1466539515,
     "wof:name":"Smell Repel",
     "wof:parent_id":85807711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.7259,32.467566,-93.7259,32.467566],
+  "bbox": [
+    -93.7259,
+    32.467566,
+    -93.7259,
+    32.467566
+],
   "geometry": {"coordinates":[-93.7259,32.467566],"type":"Point"}
 }

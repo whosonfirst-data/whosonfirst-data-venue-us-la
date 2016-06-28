@@ -2,13 +2,14 @@
   "id": 203351227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.09634,30.23353,-92.09634,30.23353",
     "geom:latitude":30.23353,
     "geom:longitude":-92.09634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5935 Cameron St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203351227,
-    "wof:lastmodified":1449026564,
+    "wof:lastmodified":1466539472,
     "wof:name":"Scott Family Clinic",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "family"
     ]
 },
-  "bbox": [-92.09634,30.23353,-92.09634,30.23353],
+  "bbox": [
+    -92.09634,
+    30.23353,
+    -92.09634,
+    30.23353
+],
   "geometry": {"coordinates":[-92.09634,30.23353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203196145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.050201,29.935101,-90.050201,29.935101",
     "geom:latitude":29.935101,
     "geom:longitude":-90.050201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"476 Franklin Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203196145,
-    "wof:lastmodified":1449025353,
+    "wof:lastmodified":1466539254,
     "wof:name":"West Bank Lions Club Inc",
     "wof:parent_id":85833233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-90.050201,29.935101,-90.050201,29.935101],
+  "bbox": [
+    -90.050201,
+    29.935101,
+    -90.050201,
+    29.935101
+],
   "geometry": {"coordinates":[-90.050201,29.935101],"type":"Point"}
 }

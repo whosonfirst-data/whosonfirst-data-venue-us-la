@@ -2,13 +2,14 @@
   "id": 203312571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.003197,30.2563,-92.003197,30.2563",
     "geom:latitude":30.2563,
     "geom:longitude":-92.003197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Peter St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203312571,
-    "wof:lastmodified":1449025884,
+    "wof:lastmodified":1466539413,
     "wof:name":"Romper Room Child Care of Lafayette",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-92.003197,30.2563,-92.003197,30.2563],
+  "bbox": [
+    -92.003197,
+    30.2563,
+    -92.003197,
+    30.2563
+],
   "geometry": {"coordinates":[-92.003197,30.2563],"type":"Point"}
 }

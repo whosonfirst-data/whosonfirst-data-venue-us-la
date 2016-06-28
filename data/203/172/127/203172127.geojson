@@ -2,13 +2,14 @@
   "id": 203172127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.997299,29.968901,-89.997299,29.968901",
     "geom:latitude":29.968901,
     "geom:longitude":-89.997299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 Aycock St",
     "sg:city":"Arabi",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203172127,
-    "wof:lastmodified":1449025683,
+    "wof:lastmodified":1466539533,
     "wof:name":"Top PC Techs",
     "wof:parent_id":85866103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "web"
     ]
 },
-  "bbox": [-89.997299,29.968901,-89.997299,29.968901],
+  "bbox": [
+    -89.997299,
+    29.968901,
+    -89.997299,
+    29.968901
+],
   "geometry": {"coordinates":[-89.997299,29.968901],"type":"Point"}
 }

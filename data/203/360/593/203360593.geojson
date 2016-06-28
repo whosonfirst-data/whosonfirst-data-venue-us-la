@@ -2,13 +2,14 @@
   "id": 203360593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.143402,30.312901,-91.143402,30.312901",
     "geom:latitude":30.312901,
     "geom:longitude":-91.143402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"635 River Rd",
     "sg:city":"Sunshine",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203360593,
-    "wof:lastmodified":1449026397,
+    "wof:lastmodified":1466539480,
     "wof:name":"Ellison David M Jr Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.143402,30.312901,-91.143402,30.312901],
-  "geometry": {"coordinates":[-91.143402,30.312901],"type":"Point"}
+  "bbox": [
+    -91.143402,
+    30.312901,
+    -91.143402,
+    30.312901
+],
+  "geometry": {"coordinates":[-91.14340199999999,30.312901],"type":"Point"}
 }

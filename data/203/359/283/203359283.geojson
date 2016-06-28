@@ -2,13 +2,14 @@
   "id": 203359283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.123497,30.2815,-91.123497,30.2815",
     "geom:latitude":30.2815,
     "geom:longitude":-91.123497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Bayou Paul Ln",
     "sg:city":"Saint Gabriel",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203359283,
-    "wof:lastmodified":1449024915,
+    "wof:lastmodified":1466539476,
     "wof:name":"First Mt Carmel Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.123497,30.2815,-91.123497,30.2815],
+  "bbox": [
+    -91.123497,
+    30.2815,
+    -91.123497,
+    30.2815
+],
   "geometry": {"coordinates":[-91.123497,30.2815],"type":"Point"}
 }

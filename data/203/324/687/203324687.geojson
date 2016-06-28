@@ -2,13 +2,14 @@
   "id": 203324687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.927498,30.129801,-91.927498,30.129801",
     "geom:latitude":30.129801,
     "geom:longitude":-91.927498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Highway 96",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203324687,
-    "wof:lastmodified":1449026050,
+    "wof:lastmodified":1466539429,
     "wof:name":"Our Savior's Church",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.927498,30.129801,-91.927498,30.129801],
+  "bbox": [
+    -91.927498,
+    30.129801,
+    -91.927498,
+    30.129801
+],
   "geometry": {"coordinates":[-91.927498,30.129801],"type":"Point"}
 }

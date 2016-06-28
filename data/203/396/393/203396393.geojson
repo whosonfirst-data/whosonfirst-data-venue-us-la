@@ -2,13 +2,14 @@
   "id": 203396393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.717573,32.929051,-91.717573,32.929051",
     "geom:latitude":32.929051,
     "geom:longitude":-91.717573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15335 Sheffield Rd",
     "sg:city":"Bonita",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203396393,
-    "wof:lastmodified":1449026221,
+    "wof:lastmodified":1466539521,
     "wof:name":"Mche Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.717573,32.929051,-91.717573,32.929051],
+  "bbox": [
+    -91.717573,
+    32.929051,
+    -91.717573,
+    32.929051
+],
   "geometry": {"coordinates":[-91.717573,32.929051],"type":"Point"}
 }

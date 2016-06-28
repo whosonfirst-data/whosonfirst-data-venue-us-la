@@ -2,13 +2,14 @@
   "id": 203265247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.037731,29.963935,-90.037731,29.963935",
     "geom:latitude":29.963935,
     "geom:longitude":-90.037731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 Burgundy St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203265247,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1466539336,
     "wof:name":"Medical Center of Louisiana At New Orleans",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.037731,29.963935,-90.037731,29.963935],
-  "geometry": {"coordinates":[-90.037731,29.963935],"type":"Point"}
+  "bbox": [
+    -90.037731,
+    29.963935,
+    -90.037731,
+    29.963935
+],
+  "geometry": {"coordinates":[-90.03773099999999,29.963935],"type":"Point"}
 }

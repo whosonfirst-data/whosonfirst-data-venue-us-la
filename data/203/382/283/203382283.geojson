@@ -2,13 +2,14 @@
   "id": 203382283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.790835,32.436762,-93.790835,32.436762",
     "geom:latitude":32.436762,
     "geom:longitude":-93.790835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3302 Red Bud Ln",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203382283,
-    "wof:lastmodified":1449025414,
+    "wof:lastmodified":1466539503,
     "wof:name":"North Louisiana Builders, Inc",
     "wof:parent_id":85828353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-93.790835,32.436762,-93.790835,32.436762],
+  "bbox": [
+    -93.790835,
+    32.436762,
+    -93.790835,
+    32.436762
+],
   "geometry": {"coordinates":[-93.790835,32.436762],"type":"Point"}
 }

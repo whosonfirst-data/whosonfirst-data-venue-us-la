@@ -2,13 +2,14 @@
   "id": 203189605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.051498,29.932899,-90.051498,29.932899",
     "geom:latitude":29.932899,
     "geom:longitude":-90.051498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Monroe St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203189605,
-    "wof:lastmodified":1449026300,
+    "wof:lastmodified":1466541000,
     "wof:name":"Cotten Richard & Sons Plumbing & Heating",
     "wof:parent_id":85833233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.051498,29.932899,-90.051498,29.932899],
+  "bbox": [
+    -90.051498,
+    29.932899,
+    -90.051498,
+    29.932899
+],
   "geometry": {"coordinates":[-90.051498,29.932899],"type":"Point"}
 }

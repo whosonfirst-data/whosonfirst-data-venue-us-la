@@ -2,13 +2,14 @@
   "id": 203263419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.053078,29.963795,-90.053078,29.963795",
     "geom:latitude":29.963795,
     "geom:longitude":-90.053078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2440 Chartres St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":203263419,
-    "wof:lastmodified":1449026823,
+    "wof:lastmodified":1466539331,
     "wof:name":"New Orleans Cake Cafe & Bakery",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.053078,29.963795,-90.053078,29.963795],
+  "bbox": [
+    -90.053078,
+    29.963795,
+    -90.053078,
+    29.963795
+],
   "geometry": {"coordinates":[-90.053078,29.963795],"type":"Point"}
 }

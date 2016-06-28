@@ -2,13 +2,14 @@
   "id": 203333149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.82069,29.999851,-91.82069,29.999851",
     "geom:latitude":29.999851,
     "geom:longitude":-91.82069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Center St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203333149,
-    "wof:lastmodified":1449026743,
+    "wof:lastmodified":1466539439,
     "wof:name":"I Love Lucy's",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.82069,29.999851,-91.82069,29.999851],
+  "bbox": [
+    -91.82069,
+    29.999851,
+    -91.82069,
+    29.999851
+],
   "geometry": {"coordinates":[-91.82069,29.999851],"type":"Point"}
 }

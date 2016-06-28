@@ -2,13 +2,14 @@
   "id": 203170793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.153532,30.004755,-90.153532,30.004755",
     "geom:latitude":30.004755,
     "geom:longitude":-90.153532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2955 Ridgelake Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203170793,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466539528,
     "wof:name":"Durant Nancy K LLC",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "custody"
     ]
 },
-  "bbox": [-90.153532,30.004755,-90.153532,30.004755],
+  "bbox": [
+    -90.153532,
+    30.004755,
+    -90.153532,
+    30.004755
+],
   "geometry": {"coordinates":[-90.153532,30.004755],"type":"Point"}
 }

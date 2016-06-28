@@ -2,13 +2,14 @@
   "id": 203272273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.059577,29.986457,-90.059577,29.986457",
     "geom:latitude":29.986457,
     "geom:longitude":-90.059577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 Frenchmen Street",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203272273,
-    "wof:lastmodified":1449026751,
+    "wof:lastmodified":1466539349,
     "wof:name":"Old New Orleans Rum Distillery",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "wine"
     ]
 },
-  "bbox": [-90.059577,29.986457,-90.059577,29.986457],
+  "bbox": [
+    -90.059577,
+    29.986457,
+    -90.059577,
+    29.986457
+],
   "geometry": {"coordinates":[-90.059577,29.986457],"type":"Point"}
 }

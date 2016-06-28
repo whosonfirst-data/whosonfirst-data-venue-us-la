@@ -2,13 +2,14 @@
   "id": 203238803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.932701,29.937901,-89.932701,29.937901",
     "geom:latitude":29.937901,
     "geom:longitude":-89.932701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2817 E Judge Perez Dr",
     "sg:city":"Meraux",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203238803,
-    "wof:lastmodified":1449025628,
+    "wof:lastmodified":1466539312,
     "wof:name":"Accurate Automotive Collision IBM Auto Sales",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-89.932701,29.937901,-89.932701,29.937901],
-  "geometry": {"coordinates":[-89.932701,29.937901],"type":"Point"}
+  "bbox": [
+    -89.932701,
+    29.937901,
+    -89.932701,
+    29.937901
+],
+  "geometry": {"coordinates":[-89.93270099999999,29.937901],"type":"Point"}
 }

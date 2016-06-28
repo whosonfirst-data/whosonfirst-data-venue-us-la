@@ -2,13 +2,14 @@
   "id": 203243277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.018307,29.908512,-90.018307,29.908512",
     "geom:latitude":29.908512,
     "geom:longitude":-90.018307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3921 Behrman Pl",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203243277,
-    "wof:lastmodified":1449025535,
+    "wof:lastmodified":1466539305,
     "wof:name":"Murphy USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.018307,29.908512,-90.018307,29.908512],
-  "geometry": {"coordinates":[-90.018307,29.908512],"type":"Point"}
+  "bbox": [
+    -90.018307,
+    29.908512,
+    -90.018307,
+    29.908512
+],
+  "geometry": {"coordinates":[-90.01830699999999,29.908512],"type":"Point"}
 }

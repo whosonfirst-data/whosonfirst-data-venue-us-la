@@ -2,13 +2,14 @@
   "id": 203364481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.142883,32.968819,-93.142883,32.968819",
     "geom:latitude":32.968819,
     "geom:longitude":-93.142883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1988 Mill St",
     "sg:city":"Haynesville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203364481,
-    "wof:lastmodified":1449026018,
+    "wof:lastmodified":1466539484,
     "wof:name":"Mill Street Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.142883,32.968819,-93.142883,32.968819],
+  "bbox": [
+    -93.142883,
+    32.968819,
+    -93.142883,
+    32.968819
+],
   "geometry": {"coordinates":[-93.142883,32.968819],"type":"Point"}
 }

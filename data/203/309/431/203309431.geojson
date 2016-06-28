@@ -2,13 +2,14 @@
   "id": 203309431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.005898,30.2479,-92.005898,30.2479",
     "geom:latitude":30.2479,
     "geom:longitude":-92.005898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 Moss St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203309431,
-    "wof:lastmodified":1449025340,
+    "wof:lastmodified":1466539405,
     "wof:name":"Pizza Village Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "pizza"
     ]
 },
-  "bbox": [-92.005898,30.2479,-92.005898,30.2479],
+  "bbox": [
+    -92.005898,
+    30.2479,
+    -92.005898,
+    30.2479
+],
   "geometry": {"coordinates":[-92.005898,30.2479],"type":"Point"}
 }

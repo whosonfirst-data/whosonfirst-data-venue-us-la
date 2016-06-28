@@ -2,13 +2,14 @@
   "id": 203375321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.458853,32.981728,-93.458853,32.981728",
     "geom:latitude":32.981728,
     "geom:longitude":-93.458853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2330 S Arkansas St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203375321,
-    "wof:lastmodified":1449025014,
+    "wof:lastmodified":1466539498,
     "wof:name":"Barbara's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brew"
     ]
 },
-  "bbox": [-93.458853,32.981728,-93.458853,32.981728],
+  "bbox": [
+    -93.458853,
+    32.981728,
+    -93.458853,
+    32.981728
+],
   "geometry": {"coordinates":[-93.458853,32.981728],"type":"Point"}
 }

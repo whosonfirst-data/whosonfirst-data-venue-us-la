@@ -2,13 +2,14 @@
   "id": 203311747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.009804,30.2444,-92.009804,30.2444",
     "geom:latitude":30.2444,
     "geom:longitude":-92.009804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 E Willow St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203311747,
-    "wof:lastmodified":1449025378,
+    "wof:lastmodified":1466539415,
     "wof:name":"Breaux Floyd J Painting Contractor",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.009804,30.2444,-92.009804,30.2444],
+  "bbox": [
+    -92.009804,
+    30.2444,
+    -92.009804,
+    30.2444
+],
   "geometry": {"coordinates":[-92.009804,30.2444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203286263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.065825,29.944344,-90.065825,29.944344",
     "geom:latitude":29.944344,
     "geom:longitude":-90.065825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 S Peters St.",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203286263,
-    "wof:lastmodified":1449025414,
+    "wof:lastmodified":1466539368,
     "wof:name":"Pie Pizza & Pastas",
     "wof:parent_id":85866969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-90.065825,29.944344,-90.065825,29.944344],
+  "bbox": [
+    -90.065825,
+    29.944344,
+    -90.065825,
+    29.944344
+],
   "geometry": {"coordinates":[-90.065825,29.944344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203329319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.964761,30.15572,-91.964761,30.15572",
     "geom:latitude":30.15572,
     "geom:longitude":-91.964761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3735 Highway 90 E",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203329319,
-    "wof:lastmodified":1449025433,
+    "wof:lastmodified":1466539439,
     "wof:name":"Dynamic Industries",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.964761,30.15572,-91.964761,30.15572],
+  "bbox": [
+    -91.964761,
+    30.15572,
+    -91.964761,
+    30.15572
+],
   "geometry": {"coordinates":[-91.964761,30.15572],"type":"Point"}
 }

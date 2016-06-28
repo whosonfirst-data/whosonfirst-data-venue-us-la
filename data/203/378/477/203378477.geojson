@@ -2,13 +2,14 @@
   "id": 203378477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.986616,32.872537,-93.986616,32.872537",
     "geom:latitude":32.872537,
     "geom:longitude":-93.986616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Louisiana Ave",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203378477,
-    "wof:lastmodified":1449026252,
+    "wof:lastmodified":1466539505,
     "wof:name":"Shepard Sisters Bbq",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-93.986616,32.872537,-93.986616,32.872537],
+  "bbox": [
+    -93.986616,
+    32.872537,
+    -93.986616,
+    32.872537
+],
   "geometry": {"coordinates":[-93.986616,32.872537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203184887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.979655,29.954846,-89.979655,29.954846",
     "geom:latitude":29.954846,
     "geom:longitude":-89.979655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3109 Jean Lafitte Pkwy",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203184887,
-    "wof:lastmodified":1449025267,
+    "wof:lastmodified":1466540969,
     "wof:name":"El Patron",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-89.979655,29.954846,-89.979655,29.954846],
-  "geometry": {"coordinates":[-89.979655,29.954846],"type":"Point"}
+  "bbox": [
+    -89.979655,
+    29.954846,
+    -89.979655,
+    29.954846
+],
+  "geometry": {"coordinates":[-89.97965499999999,29.954846],"type":"Point"}
 }

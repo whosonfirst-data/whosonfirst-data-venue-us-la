@@ -2,13 +2,14 @@
   "id": 203311177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.000504,30.230801,-92.000504,30.230801",
     "geom:latitude":30.230801,
     "geom:longitude":-92.000504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Marne St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203311177,
-    "wof:lastmodified":1449025380,
+    "wof:lastmodified":1466539403,
     "wof:name":"Mac's Boudin",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.000504,30.230801,-92.000504,30.230801],
-  "geometry": {"coordinates":[-92.000504,30.230801],"type":"Point"}
+  "bbox": [
+    -92.000504,
+    30.230801,
+    -92.000504,
+    30.230801
+],
+  "geometry": {"coordinates":[-92.00050400000001,30.230801],"type":"Point"}
 }

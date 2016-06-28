@@ -2,13 +2,14 @@
   "id": 203220145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.034401,29.9137,-90.034401,29.9137",
     "geom:latitude":29.9137,
     "geom:longitude":-90.034401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Cherry Blossom Ln",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203220145,
-    "wof:lastmodified":1449026800,
+    "wof:lastmodified":1466539285,
     "wof:name":"Miller Edward J",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.034401,29.9137,-90.034401,29.9137],
+  "bbox": [
+    -90.034401,
+    29.9137,
+    -90.034401,
+    29.9137
+],
   "geometry": {"coordinates":[-90.034401,29.9137],"type":"Point"}
 }

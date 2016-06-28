@@ -2,13 +2,14 @@
   "id": 203276675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.000582,30.011894,-90.000582,30.011894",
     "geom:latitude":30.011894,
     "geom:longitude":-90.000582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203276675,
-    "wof:lastmodified":1449025021,
+    "wof:lastmodified":1466539358,
     "wof:name":"New York Construction & Property Management Llc",
     "wof:parent_id":85866169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-90.000582,30.011894,-90.000582,30.011894],
-  "geometry": {"coordinates":[-90.000582,30.011894],"type":"Point"}
+  "bbox": [
+    -90.000582,
+    30.011894,
+    -90.000582,
+    30.011894
+],
+  "geometry": {"coordinates":[-90.00058199999999,30.011894],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203347609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.823601,30.1429,-91.823601,30.1429",
     "geom:latitude":30.1429,
     "geom:longitude":-91.823601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 N Main St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203347609,
-    "wof:lastmodified":1449025830,
+    "wof:lastmodified":1466539468,
     "wof:name":"Castille's Auto & Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.823601,30.1429,-91.823601,30.1429],
+  "bbox": [
+    -91.823601,
+    30.1429,
+    -91.823601,
+    30.1429
+],
   "geometry": {"coordinates":[-91.823601,30.1429],"type":"Point"}
 }

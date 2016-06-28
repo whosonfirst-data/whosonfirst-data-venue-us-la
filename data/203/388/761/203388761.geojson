@@ -2,13 +2,14 @@
   "id": 203388761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.882187,32.500058,-93.882187,32.500058",
     "geom:latitude":32.500058,
     "geom:longitude":-93.882187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 Shorewood Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203388761,
-    "wof:lastmodified":1449025028,
+    "wof:lastmodified":1466539519,
     "wof:name":"Wells Transportation",
     "wof:parent_id":85857989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "public"
     ]
 },
-  "bbox": [-93.882187,32.500058,-93.882187,32.500058],
+  "bbox": [
+    -93.882187,
+    32.500058,
+    -93.882187,
+    32.500058
+],
   "geometry": {"coordinates":[-93.882187,32.500058],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203321923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.064221,30.248756,-92.064221,30.248756",
     "geom:latitude":30.248756,
     "geom:longitude":-92.064221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N Ambassador Caffery Pkwy",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203321923,
-    "wof:lastmodified":1449024990,
+    "wof:lastmodified":1466539438,
     "wof:name":"Gauthier Rv Center Inc",
     "wof:parent_id":85835903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-92.064221,30.248756,-92.064221,30.248756],
+  "bbox": [
+    -92.064221,
+    30.248756,
+    -92.064221,
+    30.248756
+],
   "geometry": {"coordinates":[-92.064221,30.248756],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203184283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.965113,29.938464,-89.965113,29.938464",
     "geom:latitude":29.938464,
     "geom:longitude":-89.965113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"138 E Casa Calvo St",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203184283,
-    "wof:lastmodified":1449025265,
+    "wof:lastmodified":1466540955,
     "wof:name":"Able Plumbing Repair Service Inc",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.965113,29.938464,-89.965113,29.938464],
+  "bbox": [
+    -89.965113,
+    29.938464,
+    -89.965113,
+    29.938464
+],
   "geometry": {"coordinates":[-89.965113,29.938464],"type":"Point"}
 }

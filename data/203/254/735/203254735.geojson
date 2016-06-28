@@ -2,13 +2,14 @@
   "id": 203254735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064598,29.9597,-90.064598,29.9597",
     "geom:latitude":29.9597,
     "geom:longitude":-90.064598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"828 Bourbon St Apt A",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203254735,
-    "wof:lastmodified":1449026284,
+    "wof:lastmodified":1466539327,
     "wof:name":"Ambush Mag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "medium"
     ]
 },
-  "bbox": [-90.064598,29.9597,-90.064598,29.9597],
+  "bbox": [
+    -90.064598,
+    29.9597,
+    -90.064598,
+    29.9597
+],
   "geometry": {"coordinates":[-90.064598,29.9597],"type":"Point"}
 }

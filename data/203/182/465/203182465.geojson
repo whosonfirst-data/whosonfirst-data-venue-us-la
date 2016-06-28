@@ -2,13 +2,14 @@
   "id": 203182465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.973993,29.950064,-89.973993,29.950064",
     "geom:latitude":29.950064,
     "geom:longitude":-89.973993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 W Judge Perez Dr The Mall Shopping Center",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203182465,
-    "wof:lastmodified":1449026167,
+    "wof:lastmodified":1466540901,
     "wof:name":"Hot Wok",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-89.973993,29.950064,-89.973993,29.950064],
-  "geometry": {"coordinates":[-89.973993,29.950064],"type":"Point"}
+  "bbox": [
+    -89.973993,
+    29.950064,
+    -89.973993,
+    29.950064
+],
+  "geometry": {"coordinates":[-89.97399299999999,29.950064],"type":"Point"}
 }

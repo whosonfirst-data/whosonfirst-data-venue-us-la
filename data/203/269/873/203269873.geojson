@@ -2,13 +2,14 @@
   "id": 203269873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.059601,29.988899,-90.059601,29.988899",
     "geom:latitude":29.988899,
     "geom:longitude":-90.059601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3000 Frenchmen St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203269873,
-    "wof:lastmodified":1449026148,
+    "wof:lastmodified":1466539356,
     "wof:name":"Israelite Divine Spiritual Church",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.059601,29.988899,-90.059601,29.988899],
+  "bbox": [
+    -90.059601,
+    29.988899,
+    -90.059601,
+    29.988899
+],
   "geometry": {"coordinates":[-90.059601,29.988899],"type":"Point"}
 }

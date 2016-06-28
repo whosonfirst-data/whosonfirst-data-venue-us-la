@@ -2,13 +2,14 @@
   "id": 203251929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.025679,29.927145,-90.025679,29.927145",
     "geom:latitude":29.927145,
     "geom:longitude":-90.025679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 General DeGaulle Dr.",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203251929,
-    "wof:lastmodified":1449024986,
+    "wof:lastmodified":1466539320,
     "wof:name":"Uncle Bob's Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-90.025679,29.927145,-90.025679,29.927145],
+  "bbox": [
+    -90.025679,
+    29.927145,
+    -90.025679,
+    29.927145
+],
   "geometry": {"coordinates":[-90.025679,29.927145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203400111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.701722,31.481826,-93.701722,31.481826",
     "geom:latitude":31.481826,
     "geom:longitude":-93.701722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 Oak Ridge Rd",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203400111,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466539523,
     "wof:name":"Early Bird Lawn Service",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-93.701722,31.481826,-93.701722,31.481826],
+  "bbox": [
+    -93.701722,
+    31.481826,
+    -93.701722,
+    31.481826
+],
   "geometry": {"coordinates":[-93.701722,31.481826],"type":"Point"}
 }

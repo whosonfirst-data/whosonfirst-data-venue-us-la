@@ -2,13 +2,14 @@
   "id": 203271915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.059944,30.004177,-90.059944,30.004177",
     "geom:latitude":30.004177,
     "geom:longitude":-90.059944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 Elysian Fields Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203271915,
-    "wof:lastmodified":1449025935,
+    "wof:lastmodified":1466539362,
     "wof:name":"Smith Alvin J Dr",
     "wof:parent_id":85821297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"
     ]
 },
-  "bbox": [-90.059944,30.004177,-90.059944,30.004177],
+  "bbox": [
+    -90.059944,
+    30.004177,
+    -90.059944,
+    30.004177
+],
   "geometry": {"coordinates":[-90.059944,30.004177],"type":"Point"}
 }

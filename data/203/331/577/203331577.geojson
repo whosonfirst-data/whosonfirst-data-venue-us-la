@@ -2,13 +2,14 @@
   "id": 203331577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.030296,30.312401,-92.030296,30.312401",
     "geom:latitude":30.312401,
     "geom:longitude":-92.030296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3620 NE Evangeline Trwy",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203331577,
-    "wof:lastmodified":1449026094,
+    "wof:lastmodified":1466539450,
     "wof:name":"Kenward Bernis Racing Stables",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-92.030296,30.312401,-92.030296,30.312401],
-  "geometry": {"coordinates":[-92.030296,30.312401],"type":"Point"}
+  "bbox": [
+    -92.030296,
+    30.312401,
+    -92.030296,
+    30.312401
+],
+  "geometry": {"coordinates":[-92.03029600000001,30.312401],"type":"Point"}
 }

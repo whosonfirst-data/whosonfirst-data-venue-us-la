@@ -2,13 +2,14 @@
   "id": 203260467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.058536,29.961422,-90.058536,29.961422",
     "geom:latitude":29.961422,
     "geom:longitude":-90.058536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 Decatur Street",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203260467,
-    "wof:lastmodified":1449025263,
+    "wof:lastmodified":1466539328,
     "wof:name":"Gnome",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.058536,29.961422,-90.058536,29.961422],
+  "bbox": [
+    -90.058536,
+    29.961422,
+    -90.058536,
+    29.961422
+],
   "geometry": {"coordinates":[-90.058536,29.961422],"type":"Point"}
 }

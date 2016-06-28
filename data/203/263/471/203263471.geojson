@@ -2,13 +2,14 @@
   "id": 203263471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.054298,29.965599,-90.054298,29.965599",
     "geom:latitude":29.965599,
     "geom:longitude":-90.054298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 Dauphine St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203263471,
-    "wof:lastmodified":1449026820,
+    "wof:lastmodified":1466539332,
     "wof:name":"Bennett Dorian M Realtors Inc",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-90.054298,29.965599,-90.054298,29.965599],
+  "bbox": [
+    -90.054298,
+    29.965599,
+    -90.054298,
+    29.965599
+],
   "geometry": {"coordinates":[-90.054298,29.965599],"type":"Point"}
 }

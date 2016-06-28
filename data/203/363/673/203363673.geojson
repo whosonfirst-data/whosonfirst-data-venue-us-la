@@ -2,13 +2,14 @@
   "id": 203363673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.092302,32.911234,-93.092302,32.911234",
     "geom:latitude":32.911234,
     "geom:longitude":-93.092302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9915 Highway 79",
     "sg:city":"Haynesville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203363673,
-    "wof:lastmodified":1449026637,
+    "wof:lastmodified":1466539489,
     "wof:name":"Dr Eddy Sherman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.092302,32.911234,-93.092302,32.911234],
+  "bbox": [
+    -93.092302,
+    32.911234,
+    -93.092302,
+    32.911234
+],
   "geometry": {"coordinates":[-93.092302,32.911234],"type":"Point"}
 }

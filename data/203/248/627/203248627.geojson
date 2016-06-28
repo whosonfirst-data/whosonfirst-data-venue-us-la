@@ -2,13 +2,14 @@
   "id": 203248627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.017601,29.9182,-90.017601,29.9182",
     "geom:latitude":29.9182,
     "geom:longitude":-90.017601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Behrman Pl",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203248627,
-    "wof:lastmodified":1449025986,
+    "wof:lastmodified":1466539315,
     "wof:name":"Colburn David P DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "oral"
     ]
 },
-  "bbox": [-90.017601,29.9182,-90.017601,29.9182],
+  "bbox": [
+    -90.017601,
+    29.9182,
+    -90.017601,
+    29.9182
+],
   "geometry": {"coordinates":[-90.017601,29.9182],"type":"Point"}
 }

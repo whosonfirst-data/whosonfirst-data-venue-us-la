@@ -2,13 +2,14 @@
   "id": 203232003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.05896,29.873327,-90.05896,29.873327",
     "geom:latitude":29.873327,
     "geom:longitude":-90.05896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Lapalco Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203232003,
-    "wof:lastmodified":1449025529,
+    "wof:lastmodified":1466541032,
     "wof:name":"Scooter's Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wing"
     ]
 },
-  "bbox": [-90.05896,29.873327,-90.05896,29.873327],
+  "bbox": [
+    -90.05896,
+    29.873327,
+    -90.05896,
+    29.873327
+],
   "geometry": {"coordinates":[-90.05896,29.873327],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203321127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.018086,30.289468,-92.018086,30.289468",
     "geom:latitude":30.289468,
     "geom:longitude":-92.018086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Amesbury Dr Apt 354",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203321127,
-    "wof:lastmodified":1449024990,
+    "wof:lastmodified":1466539420,
     "wof:name":"Scalisi Properties Inc",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "management"
     ]
 },
-  "bbox": [-92.018086,30.289468,-92.018086,30.289468],
+  "bbox": [
+    -92.018086,
+    30.289468,
+    -92.018086,
+    30.289468
+],
   "geometry": {"coordinates":[-92.018086,30.289468],"type":"Point"}
 }

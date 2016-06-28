@@ -2,13 +2,14 @@
   "id": 203320759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.029396,30.295743,-92.029396,30.295743",
     "geom:latitude":30.295743,
     "geom:longitude":-92.029396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Gloria Switch Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203320759,
-    "wof:lastmodified":1449025396,
+    "wof:lastmodified":1466539432,
     "wof:name":"Angie's Beauty Supply",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-92.029396,30.295743,-92.029396,30.295743],
-  "geometry": {"coordinates":[-92.029396,30.295743],"type":"Point"}
+  "bbox": [
+    -92.029396,
+    30.295743,
+    -92.029396,
+    30.295743
+],
+  "geometry": {"coordinates":[-92.02939600000001,30.295743],"type":"Point"}
 }

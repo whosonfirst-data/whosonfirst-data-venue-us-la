@@ -2,13 +2,14 @@
   "id": 203248553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.053234,29.95203,-90.053234,29.95203",
     "geom:latitude":29.95203,
     "geom:longitude":-90.053234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Pelican Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203248553,
-    "wof:lastmodified":1449025980,
+    "wof:lastmodified":1466539314,
     "wof:name":"Beach Law Firm",
     "wof:parent_id":85866153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.053234,29.95203,-90.053234,29.95203],
+  "bbox": [
+    -90.053234,
+    29.95203,
+    -90.053234,
+    29.95203
+],
   "geometry": {"coordinates":[-90.053234,29.95203],"type":"Point"}
 }

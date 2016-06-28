@@ -2,13 +2,14 @@
   "id": 203379277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.758797,32.440931,-93.758797,32.440931",
     "geom:latitude":32.440931,
     "geom:longitude":-93.758797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7103 Saint Vincent Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203379277,
-    "wof:lastmodified":1449026043,
+    "wof:lastmodified":1466539501,
     "wof:name":"FitzGerald Contractors LLC",
     "wof:parent_id":85880995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.758797,32.440931,-93.758797,32.440931],
+  "bbox": [
+    -93.758797,
+    32.440931,
+    -93.758797,
+    32.440931
+],
   "geometry": {"coordinates":[-93.758797,32.440931],"type":"Point"}
 }

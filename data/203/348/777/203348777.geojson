@@ -2,13 +2,14 @@
   "id": 203348777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.832001,30.1161,-91.832001,30.1161",
     "geom:latitude":30.1161,
     "geom:longitude":-91.832001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 S Main St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203348777,
-    "wof:lastmodified":1449025034,
+    "wof:lastmodified":1466539470,
     "wof:name":"J's Kuttin Above the Rest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.832001,30.1161,-91.832001,30.1161],
-  "geometry": {"coordinates":[-91.832001,30.1161],"type":"Point"}
+  "bbox": [
+    -91.832001,
+    30.1161,
+    -91.832001,
+    30.1161
+],
+  "geometry": {"coordinates":[-91.83200100000001,30.1161],"type":"Point"}
 }

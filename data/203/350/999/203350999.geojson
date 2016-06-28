@@ -2,13 +2,14 @@
   "id": 203350999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.100645,30.24521,-92.100645,30.24521",
     "geom:latitude":30.24521,
     "geom:longitude":-92.100645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Abigayle Row",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203350999,
-    "wof:lastmodified":1449025895,
+    "wof:lastmodified":1466539485,
     "wof:name":"Institutional Pharmacies of Louisiana Llc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-92.100645,30.24521,-92.100645,30.24521],
+  "bbox": [
+    -92.100645,
+    30.24521,
+    -92.100645,
+    30.24521
+],
   "geometry": {"coordinates":[-92.100645,30.24521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203335297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.842697,30.002501,-91.842697,30.002501",
     "geom:latitude":30.002501,
     "geom:longitude":-91.842697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"713 W Admiral Doyle Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203335297,
-    "wof:lastmodified":1449026232,
+    "wof:lastmodified":1466539447,
     "wof:name":"Schexnayder Apartments",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.842697,30.002501,-91.842697,30.002501],
+  "bbox": [
+    -91.842697,
+    30.002501,
+    -91.842697,
+    30.002501
+],
   "geometry": {"coordinates":[-91.842697,30.002501],"type":"Point"}
 }

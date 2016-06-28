@@ -2,13 +2,14 @@
   "id": 203238695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.095886,29.884939,-90.095886,29.884939",
     "geom:latitude":29.884939,
     "geom:longitude":-90.095886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 Mimosa St",
     "sg:city":"Marrero",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203238695,
-    "wof:lastmodified":1449025626,
+    "wof:lastmodified":1466539309,
     "wof:name":"Belle Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.095886,29.884939,-90.095886,29.884939],
-  "geometry": {"coordinates":[-90.095886,29.884939],"type":"Point"}
+  "bbox": [
+    -90.095886,
+    29.884939,
+    -90.095886,
+    29.884939
+],
+  "geometry": {"coordinates":[-90.09588599999999,29.884939],"type":"Point"}
 }

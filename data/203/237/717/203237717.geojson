@@ -2,13 +2,14 @@
   "id": 203237717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.239235,30.02228,-90.239235,30.02228",
     "geom:latitude":30.02228,
     "geom:longitude":-90.239235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3637 Williams Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203237717,
-    "wof:lastmodified":1449024991,
+    "wof:lastmodified":1466539302,
     "wof:name":"Stanford's True Value & Just Ask Rental",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "store"
     ]
 },
-  "bbox": [-90.239235,30.02228,-90.239235,30.02228],
-  "geometry": {"coordinates":[-90.239235,30.02228],"type":"Point"}
+  "bbox": [
+    -90.239235,
+    30.02228,
+    -90.239235,
+    30.02228
+],
+  "geometry": {"coordinates":[-90.23923499999999,30.02228],"type":"Point"}
 }

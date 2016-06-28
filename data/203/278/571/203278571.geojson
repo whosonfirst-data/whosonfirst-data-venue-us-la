@@ -2,13 +2,14 @@
   "id": 203278571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.958801,30.021,-89.958801,30.021",
     "geom:latitude":30.021,
     "geom:longitude":-89.958801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10901 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203278571,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466539362,
     "wof:name":"Loews Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "limo"
     ]
 },
-  "bbox": [-89.958801,30.021,-89.958801,30.021],
-  "geometry": {"coordinates":[-89.958801,30.021],"type":"Point"}
+  "bbox": [
+    -89.958801,
+    30.021,
+    -89.958801,
+    30.021
+],
+  "geometry": {"coordinates":[-89.95880099999999,30.021],"type":"Point"}
 }

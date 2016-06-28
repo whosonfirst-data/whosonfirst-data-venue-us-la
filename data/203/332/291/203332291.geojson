@@ -2,13 +2,14 @@
   "id": 203332291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.059844,30.297807,-92.059844,30.297807",
     "geom:latitude":30.297807,
     "geom:longitude":-92.059844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Gloria Switch",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203332291,
-    "wof:lastmodified":1449026007,
+    "wof:lastmodified":1466539442,
     "wof:name":"Insulation Guys",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "local"
     ]
 },
-  "bbox": [-92.059844,30.297807,-92.059844,30.297807],
+  "bbox": [
+    -92.059844,
+    30.297807,
+    -92.059844,
+    30.297807
+],
   "geometry": {"coordinates":[-92.059844,30.297807],"type":"Point"}
 }

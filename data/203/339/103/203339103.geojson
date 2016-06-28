@@ -2,13 +2,14 @@
   "id": 203339103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.834626,30.016328,-91.834626,30.016328",
     "geom:latitude":30.016328,
     "geom:longitude":-91.834626,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Gilbert Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203339103,
-    "wof:lastmodified":1449025756,
+    "wof:lastmodified":1466539454,
     "wof:name":"Schools Public",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-91.834626,30.016328,-91.834626,30.016328],
+  "bbox": [
+    -91.834626,
+    30.016328,
+    -91.834626,
+    30.016328
+],
   "geometry": {"coordinates":[-91.834626,30.016328],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203260955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.066166,29.962916,-90.066166,29.962916",
     "geom:latitude":29.962916,
     "geom:longitude":-90.066166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"North Rampart St at St Philip St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203260955,
-    "wof:lastmodified":1449025260,
+    "wof:lastmodified":1466539340,
     "wof:name":"Louis Armstrong Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.066166,29.962916,-90.066166,29.962916],
+  "bbox": [
+    -90.066166,
+    29.962916,
+    -90.066166,
+    29.962916
+],
   "geometry": {"coordinates":[-90.066166,29.962916],"type":"Point"}
 }

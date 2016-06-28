@@ -2,13 +2,14 @@
   "id": 203170987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.15333,30.010122,-90.15333,30.010122",
     "geom:latitude":30.010122,
     "geom:longitude":-90.15333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 Ridgelake Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203170987,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466539529,
     "wof:name":"Image Tech USA",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-90.15333,30.010122,-90.15333,30.010122],
+  "bbox": [
+    -90.15333,
+    30.010122,
+    -90.15333,
+    30.010122
+],
   "geometry": {"coordinates":[-90.15333,30.010122],"type":"Point"}
 }

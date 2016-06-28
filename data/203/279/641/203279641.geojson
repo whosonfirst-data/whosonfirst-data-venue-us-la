@@ -2,13 +2,14 @@
   "id": 203279641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.989899,30.0259,-89.989899,30.0259",
     "geom:latitude":30.0259,
     "geom:longitude":-89.989899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5427 Crowder Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203279641,
-    "wof:lastmodified":1449025782,
+    "wof:lastmodified":1466539361,
     "wof:name":"Precious Little People Preschool & Daycare Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-89.989899,30.0259,-89.989899,30.0259],
-  "geometry": {"coordinates":[-89.989899,30.0259],"type":"Point"}
+  "bbox": [
+    -89.989899,
+    30.0259,
+    -89.989899,
+    30.0259
+],
+  "geometry": {"coordinates":[-89.98989899999999,30.0259],"type":"Point"}
 }

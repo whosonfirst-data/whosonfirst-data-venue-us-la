@@ -2,13 +2,14 @@
   "id": 203215493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.036797,29.9114,-90.036797,29.9114",
     "geom:latitude":29.9114,
     "geom:longitude":-90.036797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1771 Stumpf Blvd",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203215493,
-    "wof:lastmodified":1449026508,
+    "wof:lastmodified":1466539281,
     "wof:name":"New Orleans Ladies Ballroom",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "caterer"
     ]
 },
-  "bbox": [-90.036797,29.9114,-90.036797,29.9114],
-  "geometry": {"coordinates":[-90.036797,29.9114],"type":"Point"}
+  "bbox": [
+    -90.036797,
+    29.9114,
+    -90.036797,
+    29.9114
+],
+  "geometry": {"coordinates":[-90.03679700000001,29.9114],"type":"Point"}
 }

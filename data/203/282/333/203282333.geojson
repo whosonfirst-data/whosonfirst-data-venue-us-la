@@ -2,13 +2,14 @@
   "id": 203282333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.943199,29.989901,-89.943199,29.989901",
     "geom:latitude":29.989901,
     "geom:longitude":-89.943199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2727 Paris Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203282333,
-    "wof:lastmodified":1449026142,
+    "wof:lastmodified":1466539362,
     "wof:name":"Doize Charles Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-89.943199,29.989901,-89.943199,29.989901],
-  "geometry": {"coordinates":[-89.943199,29.989901],"type":"Point"}
+  "bbox": [
+    -89.943199,
+    29.989901,
+    -89.943199,
+    29.989901
+],
+  "geometry": {"coordinates":[-89.94319900000001,29.989901],"type":"Point"}
 }

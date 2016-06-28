@@ -2,13 +2,14 @@
   "id": 203368107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.887517,32.343893,-93.887517,32.343893",
     "geom:latitude":32.343893,
     "geom:longitude":-93.887517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6801 Colquitt Rd",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203368107,
-    "wof:lastmodified":1449025373,
+    "wof:lastmodified":1466539487,
     "wof:name":"Walsworth Collision Center & Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-93.887517,32.343893,-93.887517,32.343893],
+  "bbox": [
+    -93.887517,
+    32.343893,
+    -93.887517,
+    32.343893
+],
   "geometry": {"coordinates":[-93.887517,32.343893],"type":"Point"}
 }

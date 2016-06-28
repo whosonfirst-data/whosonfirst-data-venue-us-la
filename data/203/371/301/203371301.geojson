@@ -2,13 +2,14 @@
   "id": 203371301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.33229,32.968053,-93.33229,32.968053",
     "geom:latitude":32.968053,
     "geom:longitude":-93.33229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27550 Highway 157",
     "sg:city":"Shongaloo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203371301,
-    "wof:lastmodified":1449026405,
+    "wof:lastmodified":1466539490,
     "wof:name":"Leonard, M Paint Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.33229,32.968053,-93.33229,32.968053],
+  "bbox": [
+    -93.33229,
+    32.968053,
+    -93.33229,
+    32.968053
+],
   "geometry": {"coordinates":[-93.33229,32.968053],"type":"Point"}
 }

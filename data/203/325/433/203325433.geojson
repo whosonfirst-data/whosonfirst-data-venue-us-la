@@ -2,13 +2,14 @@
   "id": 203325433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.907402,30.1063,-91.907402,30.1063",
     "geom:latitude":30.1063,
     "geom:longitude":-91.907402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1666A Terrace Hwy",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203325433,
-    "wof:lastmodified":1449025651,
+    "wof:lastmodified":1466539429,
     "wof:name":"Bourque L P Paint & Body Shop Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "towing"
     ]
 },
-  "bbox": [-91.907402,30.1063,-91.907402,30.1063],
+  "bbox": [
+    -91.907402,
+    30.1063,
+    -91.907402,
+    30.1063
+],
   "geometry": {"coordinates":[-91.907402,30.1063],"type":"Point"}
 }

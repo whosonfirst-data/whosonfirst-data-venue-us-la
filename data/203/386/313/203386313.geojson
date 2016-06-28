@@ -2,13 +2,14 @@
   "id": 203386313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.801014,32.405603,-93.801014,32.405603",
     "geom:latitude":32.405603,
     "geom:longitude":-93.801014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8909 Mansfield Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203386313,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1466539509,
     "wof:name":"Longoria Jerry Realtor",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-93.801014,32.405603,-93.801014,32.405603],
+  "bbox": [
+    -93.801014,
+    32.405603,
+    -93.801014,
+    32.405603
+],
   "geometry": {"coordinates":[-93.801014,32.405603],"type":"Point"}
 }

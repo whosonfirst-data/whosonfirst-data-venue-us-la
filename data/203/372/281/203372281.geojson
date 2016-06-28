@@ -2,13 +2,14 @@
   "id": 203372281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.466681,32.995238,-93.466681,32.995238",
     "geom:latitude":32.995238,
     "geom:longitude":-93.466681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 Martin Luther King Dr",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203372281,
-    "wof:lastmodified":1449026091,
+    "wof:lastmodified":1466539491,
     "wof:name":"New Bethel AME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.466681,32.995238,-93.466681,32.995238],
-  "geometry": {"coordinates":[-93.466681,32.995238],"type":"Point"}
+  "bbox": [
+    -93.466681,
+    32.995238,
+    -93.466681,
+    32.995238
+],
+  "geometry": {"coordinates":[-93.46668099999999,32.995238],"type":"Point"}
 }

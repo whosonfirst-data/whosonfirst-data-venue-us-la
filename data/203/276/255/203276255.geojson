@@ -2,13 +2,14 @@
   "id": 203276255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.035896,30.0058,-90.035896,30.0058",
     "geom:latitude":30.0058,
     "geom:longitude":-90.035896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4605 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203276255,
-    "wof:lastmodified":1449025022,
+    "wof:lastmodified":1466539354,
     "wof:name":"Wendy's Old Fashioned Hamburgers",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.035896,30.0058,-90.035896,30.0058],
-  "geometry": {"coordinates":[-90.035896,30.0058],"type":"Point"}
+  "bbox": [
+    -90.035896,
+    30.0058,
+    -90.035896,
+    30.0058
+],
+  "geometry": {"coordinates":[-90.03589599999999,30.0058],"type":"Point"}
 }

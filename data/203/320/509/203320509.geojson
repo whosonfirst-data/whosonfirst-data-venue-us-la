@@ -2,13 +2,14 @@
   "id": 203320509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.0159,30.275999,-92.0159,30.275999",
     "geom:latitude":30.275999,
     "geom:longitude":-92.0159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 High Meadows Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203320509,
-    "wof:lastmodified":1449025392,
+    "wof:lastmodified":1466539427,
     "wof:name":"Meadows Garden Apts",
     "wof:parent_id":85835903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-92.0159,30.275999,-92.0159,30.275999],
+  "bbox": [
+    -92.0159,
+    30.275999,
+    -92.0159,
+    30.275999
+],
   "geometry": {"coordinates":[-92.0159,30.275999],"type":"Point"}
 }

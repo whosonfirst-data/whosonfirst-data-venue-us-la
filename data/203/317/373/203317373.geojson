@@ -2,13 +2,14 @@
   "id": 203317373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.060699,30.2304,-92.060699,30.2304",
     "geom:latitude":30.2304,
     "geom:longitude":-92.060699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Banks Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203317373,
-    "wof:lastmodified":1449025775,
+    "wof:lastmodified":1466539420,
     "wof:name":"Apec Electric Inc Elec Contr",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-92.060699,30.2304,-92.060699,30.2304],
+  "bbox": [
+    -92.060699,
+    30.2304,
+    -92.060699,
+    30.2304
+],
   "geometry": {"coordinates":[-92.060699,30.2304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219353921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.986241,32.873271,-93.986241,32.873271",
     "geom:latitude":32.873271,
     "geom:longitude":-93.986241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 N Pine St",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219353921,
-    "wof:lastmodified":1449071424,
+    "wof:lastmodified":1466539525,
     "wof:name":"Midessa Communications",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.986241,32.873271,-93.986241,32.873271],
-  "geometry": {"coordinates":[-93.986241,32.873271],"type":"Point"}
+  "bbox": [
+    -93.986241,
+    32.873271,
+    -93.986241,
+    32.873271
+],
+  "geometry": {"coordinates":[-93.98624100000001,32.873271],"type":"Point"}
 }

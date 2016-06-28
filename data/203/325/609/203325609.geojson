@@ -2,13 +2,14 @@
   "id": 203325609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.924599,30.1001,-91.924599,30.1001",
     "geom:latitude":30.1001,
     "geom:longitude":-91.924599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1339 SE Evangeline Thruway",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":203325609,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466539435,
     "wof:name":"St Martin Truckstop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.924599,30.1001,-91.924599,30.1001],
+  "bbox": [
+    -91.924599,
+    30.1001,
+    -91.924599,
+    30.1001
+],
   "geometry": {"coordinates":[-91.924599,30.1001],"type":"Point"}
 }

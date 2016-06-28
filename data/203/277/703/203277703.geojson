@@ -2,13 +2,14 @@
   "id": 203277703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0303,30.030338,-90.0303,30.030338",
     "geom:latitude":30.030338,
     "geom:longitude":-90.0303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Harbor Cir",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203277703,
-    "wof:lastmodified":1449025157,
+    "wof:lastmodified":1466539362,
     "wof:name":"Digital Satellite Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.0303,30.030338,-90.0303,30.030338],
+  "bbox": [
+    -90.0303,
+    30.030338,
+    -90.0303,
+    30.030338
+],
   "geometry": {"coordinates":[-90.0303,30.030338],"type":"Point"}
 }

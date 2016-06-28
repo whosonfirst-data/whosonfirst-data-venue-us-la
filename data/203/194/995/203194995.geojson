@@ -2,13 +2,14 @@
   "id": 203194995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049896,29.930099,-90.049896,29.930099",
     "geom:latitude":29.930099,
     "geom:longitude":-90.049896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Franklin Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203194995,
-    "wof:lastmodified":1449026582,
+    "wof:lastmodified":1466539269,
     "wof:name":"St Anthony School-Gretna",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-90.049896,29.930099,-90.049896,29.930099],
+  "bbox": [
+    -90.049896,
+    29.930099,
+    -90.049896,
+    29.930099
+],
   "geometry": {"coordinates":[-90.049896,29.930099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203361695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.150703,30.159,-91.150703,30.159",
     "geom:latitude":30.159,
     "geom:longitude":-91.150703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33095 Bowie St Ofc",
     "sg:city":"White Castle",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203361695,
-    "wof:lastmodified":1449026345,
+    "wof:lastmodified":1466539488,
     "wof:name":"White Castle Senior Citizens Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-91.150703,30.159,-91.150703,30.159],
-  "geometry": {"coordinates":[-91.150703,30.159],"type":"Point"}
+  "bbox": [
+    -91.150703,
+    30.159,
+    -91.150703,
+    30.159
+],
+  "geometry": {"coordinates":[-91.15070299999999,30.159],"type":"Point"}
 }

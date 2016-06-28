@@ -2,13 +2,14 @@
   "id": 203265409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0298,29.973499,-90.0298,29.973499",
     "geom:latitude":29.973499,
     "geom:longitude":-90.0298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1922 Poland Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203265409,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1466539340,
     "wof:name":"Blessed Hope Missionary Baptist Church",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.0298,29.973499,-90.0298,29.973499],
-  "geometry": {"coordinates":[-90.0298,29.973499],"type":"Point"}
+  "bbox": [
+    -90.0298,
+    29.973499,
+    -90.0298,
+    29.973499
+],
+  "geometry": {"coordinates":[-90.02979999999999,29.973499],"type":"Point"}
 }

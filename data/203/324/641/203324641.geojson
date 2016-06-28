@@ -2,13 +2,14 @@
   "id": 203324641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.947297,30.300649,-91.947297,30.300649",
     "geom:latitude":30.300649,
     "geom:longitude":-91.947297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Erika Ln",
     "sg:city":"Breaux Bridge",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203324641,
-    "wof:lastmodified":1449026051,
+    "wof:lastmodified":1466539428,
     "wof:name":"The Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.947297,30.300649,-91.947297,30.300649],
-  "geometry": {"coordinates":[-91.947297,30.300649],"type":"Point"}
+  "bbox": [
+    -91.947297,
+    30.300649,
+    -91.947297,
+    30.300649
+],
+  "geometry": {"coordinates":[-91.94729700000001,30.300649],"type":"Point"}
 }

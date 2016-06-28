@@ -2,13 +2,14 @@
   "id": 203308813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.989484,30.232994,-91.989484,30.232994",
     "geom:latitude":30.232994,
     "geom:longitude":-91.989484,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 Carmel Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203308813,
-    "wof:lastmodified":1449026892,
+    "wof:lastmodified":1466539410,
     "wof:name":"Lafayette Collision Center",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-91.989484,30.232994,-91.989484,30.232994],
+  "bbox": [
+    -91.989484,
+    30.232994,
+    -91.989484,
+    30.232994
+],
   "geometry": {"coordinates":[-91.989484,30.232994],"type":"Point"}
 }

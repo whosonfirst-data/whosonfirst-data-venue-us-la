@@ -2,13 +2,14 @@
   "id": 203217763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030998,29.8925,-90.030998,29.8925",
     "geom:latitude":29.8925,
     "geom:longitude":-90.030998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Terry Pkwy",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203217763,
-    "wof:lastmodified":1449026762,
+    "wof:lastmodified":1466539286,
     "wof:name":"Smoothie King Franchises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-90.030998,29.8925,-90.030998,29.8925],
+  "bbox": [
+    -90.030998,
+    29.8925,
+    -90.030998,
+    29.8925
+],
   "geometry": {"coordinates":[-90.030998,29.8925],"type":"Point"}
 }

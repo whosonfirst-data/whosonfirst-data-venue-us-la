@@ -2,13 +2,14 @@
   "id": 203371381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.257145,32.952782,-93.257145,32.952782",
     "geom:latitude":32.952782,
     "geom:longitude":-93.257145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Oakland Rd",
     "sg:city":"Shongaloo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203371381,
-    "wof:lastmodified":1449026407,
+    "wof:lastmodified":1466539492,
     "wof:name":"Black Warrior Wireline Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "well"
     ]
 },
-  "bbox": [-93.257145,32.952782,-93.257145,32.952782],
-  "geometry": {"coordinates":[-93.257145,32.952782],"type":"Point"}
+  "bbox": [
+    -93.257145,
+    32.952782,
+    -93.257145,
+    32.952782
+],
+  "geometry": {"coordinates":[-93.25714499999999,32.952782],"type":"Point"}
 }

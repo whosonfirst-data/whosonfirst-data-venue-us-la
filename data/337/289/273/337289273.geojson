@@ -2,13 +2,14 @@
   "id": 337289273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.798752,32.474297,-93.798752,32.474297",
     "geom:latitude":32.474297,
     "geom:longitude":-93.798752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3705 1/2 Greenwood Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":337289273,
-    "wof:lastmodified":1449027604,
+    "wof:lastmodified":1466539526,
     "wof:name":"State Farm Insurance Agent-Michael Flentroy",
     "wof:parent_id":85881003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.798752,32.474297,-93.798752,32.474297],
-  "geometry": {"coordinates":[-93.798752,32.474297],"type":"Point"}
+  "bbox": [
+    -93.798752,
+    32.474297,
+    -93.798752,
+    32.474297
+],
+  "geometry": {"coordinates":[-93.79875199999999,32.474297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203229307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.048398,29.870487,-90.048398,29.870487",
     "geom:latitude":29.870487,
     "geom:longitude":-90.048398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2800 Manhattan Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203229307,
-    "wof:lastmodified":1449026448,
+    "wof:lastmodified":1466539294,
     "wof:name":"Bodyology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.048398,29.870487,-90.048398,29.870487],
-  "geometry": {"coordinates":[-90.048398,29.870487],"type":"Point"}
+  "bbox": [
+    -90.048398,
+    29.870487,
+    -90.048398,
+    29.870487
+],
+  "geometry": {"coordinates":[-90.04839800000001,29.870487],"type":"Point"}
 }

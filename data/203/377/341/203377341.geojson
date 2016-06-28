@@ -2,13 +2,14 @@
   "id": 203377341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.987712,32.888899,-93.987712,32.888899",
     "geom:latitude":32.888899,
     "geom:longitude":-93.987712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Sherman St",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203377341,
-    "wof:lastmodified":1449025636,
+    "wof:lastmodified":1466539502,
     "wof:name":"Cb Richard Ellis, Inc.",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-93.987712,32.888899,-93.987712,32.888899],
+  "bbox": [
+    -93.987712,
+    32.888899,
+    -93.987712,
+    32.888899
+],
   "geometry": {"coordinates":[-93.987712,32.888899],"type":"Point"}
 }

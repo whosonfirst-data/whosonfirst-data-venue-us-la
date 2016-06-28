@@ -2,13 +2,14 @@
   "id": 203238789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.930489,29.932785,-89.930489,29.932785",
     "geom:latitude":29.932785,
     "geom:longitude":-89.930489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 Etienne Dr",
     "sg:city":"Meraux",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203238789,
-    "wof:lastmodified":1449025626,
+    "wof:lastmodified":1466539311,
     "wof:name":"Interstate Amusements",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.930489,29.932785,-89.930489,29.932785],
-  "geometry": {"coordinates":[-89.930489,29.932785],"type":"Point"}
+  "bbox": [
+    -89.930489,
+    29.932785,
+    -89.930489,
+    29.932785
+],
+  "geometry": {"coordinates":[-89.93048899999999,29.932785],"type":"Point"}
 }

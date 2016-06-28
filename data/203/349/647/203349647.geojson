@@ -2,13 +2,14 @@
   "id": 203349647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.087645,30.233155,-92.087645,30.233155",
     "geom:latitude":30.233155,
     "geom:longitude":-92.087645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5539 Cameron St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203349647,
-    "wof:lastmodified":1449025638,
+    "wof:lastmodified":1466539472,
     "wof:name":"Hot Wok",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-92.087645,30.233155,-92.087645,30.233155],
-  "geometry": {"coordinates":[-92.087645,30.233155],"type":"Point"}
+  "bbox": [
+    -92.087645,
+    30.233155,
+    -92.087645,
+    30.233155
+],
+  "geometry": {"coordinates":[-92.08764499999999,30.233155],"type":"Point"}
 }

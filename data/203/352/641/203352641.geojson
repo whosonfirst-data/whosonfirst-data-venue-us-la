@@ -2,13 +2,14 @@
   "id": 203352641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.095176,30.233586,-92.095176,30.233586",
     "geom:latitude":30.233586,
     "geom:longitude":-92.095176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5922 Cameron St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203352641,
-    "wof:lastmodified":1449026103,
+    "wof:lastmodified":1466539480,
     "wof:name":"Uncle Bob's Self Storage",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-92.095176,30.233586,-92.095176,30.233586],
+  "bbox": [
+    -92.095176,
+    30.233586,
+    -92.095176,
+    30.233586
+],
   "geometry": {"coordinates":[-92.095176,30.233586],"type":"Point"}
 }

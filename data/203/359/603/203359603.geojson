@@ -2,13 +2,14 @@
   "id": 203359603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.123901,30.3118,-91.123901,30.3118",
     "geom:latitude":30.3118,
     "geom:longitude":-91.123901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"357 Highway 30",
     "sg:city":"Saint Gabriel",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203359603,
-    "wof:lastmodified":1449024915,
+    "wof:lastmodified":1466539479,
     "wof:name":"Acadian Animal Clinic East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sitting"
     ]
 },
-  "bbox": [-91.123901,30.3118,-91.123901,30.3118],
+  "bbox": [
+    -91.123901,
+    30.3118,
+    -91.123901,
+    30.3118
+],
   "geometry": {"coordinates":[-91.123901,30.3118],"type":"Point"}
 }

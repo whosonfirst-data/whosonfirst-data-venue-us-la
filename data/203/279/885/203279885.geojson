@@ -2,13 +2,14 @@
   "id": 203279885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.982605,30.029275,-89.982605,30.029275",
     "geom:latitude":30.029275,
     "geom:longitude":-89.982605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9301 Lake Forest Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203279885,
-    "wof:lastmodified":1449025781,
+    "wof:lastmodified":1466539366,
     "wof:name":"Nail T and M Design the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.982605,30.029275,-89.982605,30.029275],
-  "geometry": {"coordinates":[-89.982605,30.029275],"type":"Point"}
+  "bbox": [
+    -89.982605,
+    30.029275,
+    -89.982605,
+    30.029275
+],
+  "geometry": {"coordinates":[-89.98260500000001,30.029275],"type":"Point"}
 }

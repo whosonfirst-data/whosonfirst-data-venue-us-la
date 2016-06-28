@@ -2,13 +2,14 @@
   "id": 203184083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.980315,29.953635,-89.980315,29.953635",
     "geom:latitude":29.953635,
     "geom:longitude":-89.980315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3019 Jean Lafitte Pkwy",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203184083,
-    "wof:lastmodified":1449025264,
+    "wof:lastmodified":1466540947,
     "wof:name":"Hertz Local Edition",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-89.980315,29.953635,-89.980315,29.953635],
+  "bbox": [
+    -89.980315,
+    29.953635,
+    -89.980315,
+    29.953635
+],
   "geometry": {"coordinates":[-89.980315,29.953635],"type":"Point"}
 }

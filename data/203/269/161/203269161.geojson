@@ -2,13 +2,14 @@
   "id": 203269161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.056198,29.978001,-90.056198,29.978001",
     "geom:latitude":29.978001,
     "geom:longitude":-90.056198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2008 Marigny St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203269161,
-    "wof:lastmodified":1449026148,
+    "wof:lastmodified":1466539342,
     "wof:name":"True Vine Baptist Church",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-90.056198,29.978001,-90.056198,29.978001],
-  "geometry": {"coordinates":[-90.056198,29.978001],"type":"Point"}
+  "bbox": [
+    -90.056198,
+    29.978001,
+    -90.056198,
+    29.978001
+],
+  "geometry": {"coordinates":[-90.05619799999999,29.978001],"type":"Point"}
 }

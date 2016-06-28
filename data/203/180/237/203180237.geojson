@@ -2,13 +2,14 @@
   "id": 203180237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.988899,29.957199,-89.988899,29.957199",
     "geom:latitude":29.957199,
     "geom:longitude":-89.988899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8216 W Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203180237,
-    "wof:lastmodified":1449025029,
+    "wof:lastmodified":1466540886,
     "wof:name":"Gulf Coast Bank & Trust Company",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-89.988899,29.957199,-89.988899,29.957199],
+  "bbox": [
+    -89.988899,
+    29.957199,
+    -89.988899,
+    29.957199
+],
   "geometry": {"coordinates":[-89.988899,29.957199],"type":"Point"}
 }

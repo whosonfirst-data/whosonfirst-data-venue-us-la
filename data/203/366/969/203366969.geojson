@@ -2,13 +2,14 @@
   "id": 203366969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.887065,32.344135,-93.887065,32.344135",
     "geom:latitude":32.344135,
     "geom:longitude":-93.887065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6782 Colquitt Rd",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203366969,
-    "wof:lastmodified":1449026350,
+    "wof:lastmodified":1466539490,
     "wof:name":"Derrick At Keithville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-93.887065,32.344135,-93.887065,32.344135],
-  "geometry": {"coordinates":[-93.887065,32.344135],"type":"Point"}
+  "bbox": [
+    -93.887065,
+    32.344135,
+    -93.887065,
+    32.344135
+],
+  "geometry": {"coordinates":[-93.88706500000001,32.344135],"type":"Point"}
 }

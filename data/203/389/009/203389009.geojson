@@ -2,13 +2,14 @@
   "id": 203389009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.868022,32.452381,-93.868022,32.452381",
     "geom:latitude":32.452381,
     "geom:longitude":-93.868022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6260 Greenwood Rd Apt 307",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203389009,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466541054,
     "wof:name":"Jackson, Davell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-93.868022,32.452381,-93.868022,32.452381],
+  "bbox": [
+    -93.868022,
+    32.452381,
+    -93.868022,
+    32.452381
+],
   "geometry": {"coordinates":[-93.868022,32.452381],"type":"Point"}
 }

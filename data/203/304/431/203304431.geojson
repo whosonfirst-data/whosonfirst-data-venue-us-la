@@ -2,13 +2,14 @@
   "id": 203304431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.017899,30.1758,-91.017899,30.1758",
     "geom:latitude":30.1758,
     "geom:longitude":-91.017899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7471 Highway 405",
     "sg:city":"Donaldsonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203304431,
-    "wof:lastmodified":1449026373,
+    "wof:lastmodified":1466539396,
     "wof:name":"St Phillip Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.017899,30.1758,-91.017899,30.1758],
+  "bbox": [
+    -91.017899,
+    30.1758,
+    -91.017899,
+    30.1758
+],
   "geometry": {"coordinates":[-91.017899,30.1758],"type":"Point"}
 }

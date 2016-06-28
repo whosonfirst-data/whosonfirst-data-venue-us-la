@@ -2,13 +2,14 @@
   "id": 203331647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.036598,30.339591,-92.036598,30.339591",
     "geom:latitude":30.339591,
     "geom:longitude":-92.036598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Le Medicin Rd",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203331647,
-    "wof:lastmodified":1449026093,
+    "wof:lastmodified":1466539450,
     "wof:name":"Patin's Tire-N-Detail",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-92.036598,30.339591,-92.036598,30.339591],
+  "bbox": [
+    -92.036598,
+    30.339591,
+    -92.036598,
+    30.339591
+],
   "geometry": {"coordinates":[-92.036598,30.339591],"type":"Point"}
 }

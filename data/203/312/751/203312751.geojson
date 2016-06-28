@@ -2,13 +2,14 @@
   "id": 203312751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.01895,30.230677,-92.01895,30.230677",
     "geom:latitude":30.230677,
     "geom:longitude":-92.01895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"312 W Simcoe St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":203312751,
-    "wof:lastmodified":1449025880,
+    "wof:lastmodified":1466539416,
     "wof:name":"Beyond Flowers",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tour"
     ]
 },
-  "bbox": [-92.01895,30.230677,-92.01895,30.230677],
+  "bbox": [
+    -92.01895,
+    30.230677,
+    -92.01895,
+    30.230677
+],
   "geometry": {"coordinates":[-92.01895,30.230677],"type":"Point"}
 }

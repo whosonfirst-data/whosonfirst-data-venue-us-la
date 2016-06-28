@@ -2,13 +2,14 @@
   "id": 203377813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.986738,32.858994,-93.986738,32.858994",
     "geom:latitude":32.858994,
     "geom:longitude":-93.986738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Williamson Way",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203377813,
-    "wof:lastmodified":1449025628,
+    "wof:lastmodified":1466539511,
     "wof:name":"Monterey Hills Apts",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "finder"
     ]
 },
-  "bbox": [-93.986738,32.858994,-93.986738,32.858994],
+  "bbox": [
+    -93.986738,
+    32.858994,
+    -93.986738,
+    32.858994
+],
   "geometry": {"coordinates":[-93.986738,32.858994],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203312393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.014099,30.251499,-92.014099,30.251499",
     "geom:latitude":30.251499,
     "geom:longitude":-92.014099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2033 NW Evangeline Trwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203312393,
-    "wof:lastmodified":1449025883,
+    "wof:lastmodified":1466539410,
     "wof:name":"City Lights",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-92.014099,30.251499,-92.014099,30.251499],
+  "bbox": [
+    -92.014099,
+    30.251499,
+    -92.014099,
+    30.251499
+],
   "geometry": {"coordinates":[-92.014099,30.251499],"type":"Point"}
 }

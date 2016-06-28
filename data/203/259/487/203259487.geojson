@@ -2,13 +2,14 @@
   "id": 203259487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.059499,29.959789,-90.059499,29.959789",
     "geom:latitude":29.959789,
     "geom:longitude":-90.059499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 N Peters St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":203259487,
-    "wof:lastmodified":1449025370,
+    "wof:lastmodified":1466539329,
     "wof:name":"Latin Hands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.059499,29.959789,-90.059499,29.959789],
+  "bbox": [
+    -90.059499,
+    29.959789,
+    -90.059499,
+    29.959789
+],
   "geometry": {"coordinates":[-90.059499,29.959789],"type":"Point"}
 }

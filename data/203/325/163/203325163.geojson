@@ -2,13 +2,14 @@
   "id": 203325163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.957802,30.1432,-91.957802,30.1432",
     "geom:latitude":30.1432,
     "geom:longitude":-91.957802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Saint Deporres St",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203325163,
-    "wof:lastmodified":1449025658,
+    "wof:lastmodified":1466539427,
     "wof:name":"St Joseph Head Start",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-91.957802,30.1432,-91.957802,30.1432],
+  "bbox": [
+    -91.957802,
+    30.1432,
+    -91.957802,
+    30.1432
+],
   "geometry": {"coordinates":[-91.957802,30.1432],"type":"Point"}
 }

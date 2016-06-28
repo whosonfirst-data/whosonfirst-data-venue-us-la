@@ -2,13 +2,14 @@
   "id": 203340441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.803101,30.003099,-91.803101,30.003099",
     "geom:latitude":30.003099,
     "geom:longitude":-91.803101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Parkview Dr Ste 9",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203340441,
-    "wof:lastmodified":1449026403,
+    "wof:lastmodified":1466539463,
     "wof:name":"Ricki's",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "women's"
     ]
 },
-  "bbox": [-91.803101,30.003099,-91.803101,30.003099],
+  "bbox": [
+    -91.803101,
+    30.003099,
+    -91.803101,
+    30.003099
+],
   "geometry": {"coordinates":[-91.803101,30.003099],"type":"Point"}
 }

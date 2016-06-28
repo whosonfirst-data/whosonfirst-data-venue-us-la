@@ -2,13 +2,14 @@
   "id": 203308049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.006477,30.255626,-92.006477,30.255626",
     "geom:latitude":30.255626,
     "geom:longitude":-92.006477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Alexander St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203308049,
-    "wof:lastmodified":1449026893,
+    "wof:lastmodified":1466541047,
     "wof:name":"Martin's R Hair Studio",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-92.006477,30.255626,-92.006477,30.255626],
+  "bbox": [
+    -92.006477,
+    30.255626,
+    -92.006477,
+    30.255626
+],
   "geometry": {"coordinates":[-92.006477,30.255626],"type":"Point"}
 }

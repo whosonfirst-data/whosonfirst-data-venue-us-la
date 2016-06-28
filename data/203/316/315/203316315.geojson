@@ -2,13 +2,14 @@
   "id": 203316315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.050041,30.226048,-92.050041,30.226048",
     "geom:latitude":30.226048,
     "geom:longitude":-92.050041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Eraste Landry Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203316315,
-    "wof:lastmodified":1449026270,
+    "wof:lastmodified":1466539411,
     "wof:name":"Mary's Flowers",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.050041,30.226048,-92.050041,30.226048],
-  "geometry": {"coordinates":[-92.050041,30.226048],"type":"Point"}
+  "bbox": [
+    -92.050041,
+    30.226048,
+    -92.050041,
+    30.226048
+],
+  "geometry": {"coordinates":[-92.05004099999999,30.226048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203292659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.065575,29.952311,-90.065575,29.952311",
     "geom:latitude":29.952311,
     "geom:longitude":-90.065575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Iberville St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":203292659,
-    "wof:lastmodified":1449025092,
+    "wof:lastmodified":1466539382,
     "wof:name":"Riverside Spa",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.065575,29.952311,-90.065575,29.952311],
+  "bbox": [
+    -90.065575,
+    29.952311,
+    -90.065575,
+    29.952311
+],
   "geometry": {"coordinates":[-90.065575,29.952311],"type":"Point"}
 }

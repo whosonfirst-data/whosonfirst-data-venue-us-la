@@ -2,13 +2,14 @@
   "id": 203377417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.9841,32.880459,-93.9841,32.880459",
     "geom:latitude":32.880459,
     "geom:longitude":-93.9841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Pine St",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203377417,
-    "wof:lastmodified":1449025631,
+    "wof:lastmodified":1466539503,
     "wof:name":"Christian Center Of Vivian",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "churches-church"
     ]
 },
-  "bbox": [-93.9841,32.880459,-93.9841,32.880459],
+  "bbox": [
+    -93.9841,
+    32.880459,
+    -93.9841,
+    32.880459
+],
   "geometry": {"coordinates":[-93.9841,32.880459],"type":"Point"}
 }

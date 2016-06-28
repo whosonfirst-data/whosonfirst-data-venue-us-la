@@ -2,13 +2,14 @@
   "id": 203174409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.001028,29.865854,-90.001028,29.865854",
     "geom:latitude":29.865854,
     "geom:longitude":-90.001028,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7682 Highway 23",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203174409,
-    "wof:lastmodified":1449025197,
+    "wof:lastmodified":1466540752,
     "wof:name":"Arrillaga Alberto MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.001028,29.865854,-90.001028,29.865854],
-  "geometry": {"coordinates":[-90.001028,29.865854],"type":"Point"}
+  "bbox": [
+    -90.001028,
+    29.865854,
+    -90.001028,
+    29.865854
+],
+  "geometry": {"coordinates":[-90.00102800000001,29.865854],"type":"Point"}
 }

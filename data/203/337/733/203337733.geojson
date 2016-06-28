@@ -2,13 +2,14 @@
   "id": 203337733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.815465,30.00232,-91.815465,30.00232",
     "geom:latitude":30.00232,
     "geom:longitude":-91.815465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Charles St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203337733,
-    "wof:lastmodified":1449025807,
+    "wof:lastmodified":1466539460,
     "wof:name":"Clarke Beth MD",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.815465,30.00232,-91.815465,30.00232],
+  "bbox": [
+    -91.815465,
+    30.00232,
+    -91.815465,
+    30.00232
+],
   "geometry": {"coordinates":[-91.815465,30.00232],"type":"Point"}
 }

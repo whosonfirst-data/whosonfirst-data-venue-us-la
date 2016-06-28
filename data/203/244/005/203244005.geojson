@@ -2,13 +2,14 @@
   "id": 203244005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.037201,29.945101,-90.037201,29.945101",
     "geom:latitude":29.945101,
     "geom:longitude":-90.037201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Newton St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203244005,
-    "wof:lastmodified":1449025672,
+    "wof:lastmodified":1466541036,
     "wof:name":"Payne's Day Care Center Inc",
     "wof:parent_id":85866159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-90.037201,29.945101,-90.037201,29.945101],
+  "bbox": [
+    -90.037201,
+    29.945101,
+    -90.037201,
+    29.945101
+],
   "geometry": {"coordinates":[-90.037201,29.945101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203379757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.782669,32.573219,-93.782669,32.573219",
     "geom:latitude":32.573219,
     "geom:longitude":-93.782669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"885 Poleman Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203379757,
-    "wof:lastmodified":1449026044,
+    "wof:lastmodified":1466539510,
     "wof:name":"North Highlands Elementary School",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "high"
     ]
 },
-  "bbox": [-93.782669,32.573219,-93.782669,32.573219],
+  "bbox": [
+    -93.782669,
+    32.573219,
+    -93.782669,
+    32.573219
+],
   "geometry": {"coordinates":[-93.782669,32.573219],"type":"Point"}
 }

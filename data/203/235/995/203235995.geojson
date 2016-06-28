@@ -2,13 +2,14 @@
   "id": 203235995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049698,29.8748,-90.049698,29.8748",
     "geom:latitude":29.8748,
     "geom:longitude":-90.049698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1545 Lapalco Blvd Ste C1",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203235995,
-    "wof:lastmodified":1449025271,
+    "wof:lastmodified":1466539301,
     "wof:name":"Spy Tek 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.049698,29.8748,-90.049698,29.8748],
-  "geometry": {"coordinates":[-90.049698,29.8748],"type":"Point"}
+  "bbox": [
+    -90.049698,
+    29.8748,
+    -90.049698,
+    29.8748
+],
+  "geometry": {"coordinates":[-90.04969800000001,29.8748],"type":"Point"}
 }

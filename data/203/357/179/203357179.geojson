@@ -2,13 +2,14 @@
   "id": 203357179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.538454,30.784608,-93.538454,30.784608",
     "geom:latitude":30.784608,
     "geom:longitude":-93.538454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11520 Highway 190 W",
     "sg:city":"Merryville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203357179,
-    "wof:lastmodified":1449026635,
+    "wof:lastmodified":1466539473,
     "wof:name":"Fausto's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.538454,30.784608,-93.538454,30.784608],
+  "bbox": [
+    -93.538454,
+    30.784608,
+    -93.538454,
+    30.784608
+],
   "geometry": {"coordinates":[-93.538454,30.784608],"type":"Point"}
 }

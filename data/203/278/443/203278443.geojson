@@ -2,13 +2,14 @@
   "id": 203278443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.971703,30.009701,-89.971703,30.009701",
     "geom:latitude":30.009701,
     "geom:longitude":-89.971703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10300 Almonaster Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203278443,
-    "wof:lastmodified":1449025995,
+    "wof:lastmodified":1466539360,
     "wof:name":"Boh Bros Construction Co Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.971703,30.009701,-89.971703,30.009701],
-  "geometry": {"coordinates":[-89.971703,30.009701],"type":"Point"}
+  "bbox": [
+    -89.971703,
+    30.009701,
+    -89.971703,
+    30.009701
+],
+  "geometry": {"coordinates":[-89.97170300000001,30.009701],"type":"Point"}
 }

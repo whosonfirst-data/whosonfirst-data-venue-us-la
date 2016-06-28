@@ -2,13 +2,14 @@
   "id": 203381313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.797774,32.433976,-93.797774,32.433976",
     "geom:latitude":32.433976,
     "geom:longitude":-93.797774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7710 Jewella Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203381313,
-    "wof:lastmodified":1449025085,
+    "wof:lastmodified":1466539503,
     "wof:name":"Thomas Company LLC The",
     "wof:parent_id":85828353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.797774,32.433976,-93.797774,32.433976],
+  "bbox": [
+    -93.797774,
+    32.433976,
+    -93.797774,
+    32.433976
+],
   "geometry": {"coordinates":[-93.797774,32.433976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203341699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.08364,30.512008,-92.08364,30.512008",
     "geom:latitude":30.512008,
     "geom:longitude":-92.08364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2014 S Union St",
     "sg:city":"Opelousas",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203341699,
-    "wof:lastmodified":1449026787,
+    "wof:lastmodified":1466539459,
     "wof:name":"Durio Jim Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-92.08364,30.512008,-92.08364,30.512008],
+  "bbox": [
+    -92.08364,
+    30.512008,
+    -92.08364,
+    30.512008
+],
   "geometry": {"coordinates":[-92.08364,30.512008],"type":"Point"}
 }

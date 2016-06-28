@@ -2,13 +2,14 @@
   "id": 203251519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.043098,29.945299,-90.043098,29.945299",
     "geom:latitude":29.945299,
     "geom:longitude":-90.043098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 Newton St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203251519,
-    "wof:lastmodified":1449024987,
+    "wof:lastmodified":1466539315,
     "wof:name":"Hamp's Construction Llc",
     "wof:parent_id":85866159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.043098,29.945299,-90.043098,29.945299],
+  "bbox": [
+    -90.043098,
+    29.945299,
+    -90.043098,
+    29.945299
+],
   "geometry": {"coordinates":[-90.043098,29.945299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203355195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.998802,30.126499,-91.998802,30.126499",
     "geom:latitude":30.126499,
     "geom:longitude":-91.998802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 E Angus Dr",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203355195,
-    "wof:lastmodified":1449025436,
+    "wof:lastmodified":1466539474,
     "wof:name":"Rossclarie Construction Inc",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.998802,30.126499,-91.998802,30.126499],
+  "bbox": [
+    -91.998802,
+    30.126499,
+    -91.998802,
+    30.126499
+],
   "geometry": {"coordinates":[-91.998802,30.126499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203352671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.100261,30.24241,-92.100261,30.24241",
     "geom:latitude":30.24241,
     "geom:longitude":-92.100261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Park West Dr",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203352671,
-    "wof:lastmodified":1449026099,
+    "wof:lastmodified":1466539480,
     "wof:name":"Mosquito Control Contractors Inc",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.100261,30.24241,-92.100261,30.24241],
+  "bbox": [
+    -92.100261,
+    30.24241,
+    -92.100261,
+    30.24241
+],
   "geometry": {"coordinates":[-92.100261,30.24241],"type":"Point"}
 }

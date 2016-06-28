@@ -2,13 +2,14 @@
   "id": 203200503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040075,29.917913,-90.040075,29.917913",
     "geom:latitude":29.917913,
     "geom:longitude":-90.040075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Hector Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -63,16 +64,22 @@
         }
     ],
     "wof:id":203200503,
-    "wof:lastmodified":1449025679,
+    "wof:lastmodified":1466539258,
     "wof:name":"Cheramie Regan Hair Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-90.040075,29.917913,-90.040075,29.917913],
+  "bbox": [
+    -90.040075,
+    29.917913,
+    -90.040075,
+    29.917913
+],
   "geometry": {"coordinates":[-90.040075,29.917913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203310271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.013249,30.239217,-92.013249,30.239217",
     "geom:latitude":30.239217,
     "geom:longitude":-92.013249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 NW Evangeline Trwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203310271,
-    "wof:lastmodified":1449026106,
+    "wof:lastmodified":1466539399,
     "wof:name":"Sports Plus",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.013249,30.239217,-92.013249,30.239217],
+  "bbox": [
+    -92.013249,
+    30.239217,
+    -92.013249,
+    30.239217
+],
   "geometry": {"coordinates":[-92.013249,30.239217],"type":"Point"}
 }

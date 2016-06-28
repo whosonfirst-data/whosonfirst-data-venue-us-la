@@ -2,13 +2,14 @@
   "id": 203317189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.037399,30.233,-92.037399,30.233",
     "geom:latitude":30.233,
     "geom:longitude":-92.037399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Evans Ln",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203317189,
-    "wof:lastmodified":1449025776,
+    "wof:lastmodified":1466539414,
     "wof:name":"News Group the",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medium"
     ]
 },
-  "bbox": [-92.037399,30.233,-92.037399,30.233],
-  "geometry": {"coordinates":[-92.037399,30.233],"type":"Point"}
+  "bbox": [
+    -92.037399,
+    30.233,
+    -92.037399,
+    30.233
+],
+  "geometry": {"coordinates":[-92.03739899999999,30.233],"type":"Point"}
 }

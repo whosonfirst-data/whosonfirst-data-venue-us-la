@@ -2,13 +2,14 @@
   "id": 203182957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.964104,29.9576,-89.964104,29.9576",
     "geom:latitude":29.9576,
     "geom:longitude":-89.964104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 W Virtue St Ste 207",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203182957,
-    "wof:lastmodified":1449026166,
+    "wof:lastmodified":1466540924,
     "wof:name":"Verrette Paul R MD Phys",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internal"
     ]
 },
-  "bbox": [-89.964104,29.9576,-89.964104,29.9576],
-  "geometry": {"coordinates":[-89.964104,29.9576],"type":"Point"}
+  "bbox": [
+    -89.964104,
+    29.9576,
+    -89.964104,
+    29.9576
+],
+  "geometry": {"coordinates":[-89.96410400000001,29.9576],"type":"Point"}
 }

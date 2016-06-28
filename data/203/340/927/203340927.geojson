@@ -2,13 +2,14 @@
   "id": 203340927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.806702,30.002701,-91.806702,30.002701",
     "geom:latitude":30.002701,
     "geom:longitude":-91.806702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Doremus Rd",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203340927,
-    "wof:lastmodified":1449026404,
+    "wof:lastmodified":1466539473,
     "wof:name":"Melancon Vernon S DDS",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oral"
     ]
 },
-  "bbox": [-91.806702,30.002701,-91.806702,30.002701],
+  "bbox": [
+    -91.806702,
+    30.002701,
+    -91.806702,
+    30.002701
+],
   "geometry": {"coordinates":[-91.806702,30.002701],"type":"Point"}
 }

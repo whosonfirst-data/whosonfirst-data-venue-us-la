@@ -2,13 +2,14 @@
   "id": 203314475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.012398,30.230101,-92.012398,30.230101",
     "geom:latitude":30.230101,
     "geom:longitude":-92.012398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 N Magnolia St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203314475,
-    "wof:lastmodified":1449026794,
+    "wof:lastmodified":1466539412,
     "wof:name":"Milligan Edward J Jr Ltd A Professionl Lw Crp Atty",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-92.012398,30.230101,-92.012398,30.230101],
+  "bbox": [
+    -92.012398,
+    30.230101,
+    -92.012398,
+    30.230101
+],
   "geometry": {"coordinates":[-92.012398,30.230101],"type":"Point"}
 }

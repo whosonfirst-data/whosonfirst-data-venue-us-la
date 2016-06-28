@@ -2,13 +2,14 @@
   "id": 203399513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.105911,32.702557,-92.105911,32.702557",
     "geom:latitude":32.702557,
     "geom:longitude":-92.105911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Highway 2",
     "sg:city":"Sterlington",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":203399513,
-    "wof:lastmodified":1449025282,
+    "wof:lastmodified":1466541059,
     "wof:name":"Ray's Automotive Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -93,6 +95,11 @@
         "saw"
     ]
 },
-  "bbox": [-92.105911,32.702557,-92.105911,32.702557],
-  "geometry": {"coordinates":[-92.105911,32.702557],"type":"Point"}
+  "bbox": [
+    -92.105911,
+    32.702557,
+    -92.105911,
+    32.702557
+],
+  "geometry": {"coordinates":[-92.10591100000001,32.702557],"type":"Point"}
 }

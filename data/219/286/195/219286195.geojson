@@ -2,13 +2,14 @@
   "id": 219286195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.890852,32.883392,-93.890852,32.883392",
     "geom:latitude":32.883392,
     "geom:longitude":-93.890852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7931 Hosston Vivian Rd",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219286195,
-    "wof:lastmodified":1449071325,
+    "wof:lastmodified":1466539525,
     "wof:name":"Bayou LA Fouche Country Club",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-93.890852,32.883392,-93.890852,32.883392],
+  "bbox": [
+    -93.890852,
+    32.883392,
+    -93.890852,
+    32.883392
+],
   "geometry": {"coordinates":[-93.890852,32.883392],"type":"Point"}
 }

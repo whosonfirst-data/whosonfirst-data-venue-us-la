@@ -2,13 +2,14 @@
   "id": 203271387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.060898,30.023199,-90.060898,30.023199",
     "geom:latitude":30.023199,
     "geom:longitude":-90.060898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 Elysian Fields Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203271387,
-    "wof:lastmodified":1449025933,
+    "wof:lastmodified":1466539350,
     "wof:name":"Johnson Warren Dr",
     "wof:parent_id":85829223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "podiatrist"
     ]
 },
-  "bbox": [-90.060898,30.023199,-90.060898,30.023199],
-  "geometry": {"coordinates":[-90.060898,30.023199],"type":"Point"}
+  "bbox": [
+    -90.060898,
+    30.023199,
+    -90.060898,
+    30.023199
+],
+  "geometry": {"coordinates":[-90.06089799999999,30.023199],"type":"Point"}
 }

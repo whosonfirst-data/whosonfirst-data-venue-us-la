@@ -2,13 +2,14 @@
   "id": 203303455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.820595,29.796965,-90.820595,29.796965",
     "geom:latitude":29.796965,
     "geom:longitude":-90.820595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Saint Louis St",
     "sg:city":"Thibodaux",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203303455,
-    "wof:lastmodified":1449024955,
+    "wof:lastmodified":1466539397,
     "wof:name":"Assessor's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.820595,29.796965,-90.820595,29.796965],
+  "bbox": [
+    -90.820595,
+    29.796965,
+    -90.820595,
+    29.796965
+],
   "geometry": {"coordinates":[-90.820595,29.796965],"type":"Point"}
 }

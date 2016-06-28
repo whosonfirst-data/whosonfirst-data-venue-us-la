@@ -2,13 +2,14 @@
   "id": 203303283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.826043,29.80114,-90.826043,29.80114",
     "geom:latitude":29.80114,
     "geom:longitude":-90.826043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Camelia St",
     "sg:city":"Thibodaux",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203303283,
-    "wof:lastmodified":1449024951,
+    "wof:lastmodified":1466539392,
     "wof:name":"Landry's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.826043,29.80114,-90.826043,29.80114],
+  "bbox": [
+    -90.826043,
+    29.80114,
+    -90.826043,
+    29.80114
+],
   "geometry": {"coordinates":[-90.826043,29.80114],"type":"Point"}
 }

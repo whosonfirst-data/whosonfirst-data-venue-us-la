@@ -2,13 +2,14 @@
   "id": 203387365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.807213,32.402211,-93.807213,32.402211",
     "geom:latitude":32.402211,
     "geom:longitude":-93.807213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2937 Bert Kouns Industrial Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":203387365,
-    "wof:lastmodified":1449026605,
+    "wof:lastmodified":1466539514,
     "wof:name":"Linda Luck Ins Agcy Inc - State Farm Insurance Agent",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auto"
     ]
 },
-  "bbox": [-93.807213,32.402211,-93.807213,32.402211],
+  "bbox": [
+    -93.807213,
+    32.402211,
+    -93.807213,
+    32.402211
+],
   "geometry": {"coordinates":[-93.807213,32.402211],"type":"Point"}
 }

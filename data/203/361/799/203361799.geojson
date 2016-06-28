@@ -2,13 +2,14 @@
   "id": 203361799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.034342,32.374298,-94.034342,32.374298",
     "geom:latitude":32.374298,
     "geom:longitude":-94.034342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10017 Highway 79",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203361799,
-    "wof:lastmodified":1449026349,
+    "wof:lastmodified":1466539490,
     "wof:name":"Resolutions Salon And Day Spa",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.034342,32.374298,-94.034342,32.374298],
+  "bbox": [
+    -94.034342,
+    32.374298,
+    -94.034342,
+    32.374298
+],
   "geometry": {"coordinates":[-94.034342,32.374298],"type":"Point"}
 }

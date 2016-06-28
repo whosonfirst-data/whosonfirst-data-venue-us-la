@@ -2,13 +2,14 @@
   "id": 203384285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.820809,32.471443,-93.820809,32.471443",
     "geom:latitude":32.471443,
     "geom:longitude":-93.820809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 Greenwood Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203384285,
-    "wof:lastmodified":1449025183,
+    "wof:lastmodified":1466539505,
     "wof:name":"Showcase Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "restoration-antique"
     ]
 },
-  "bbox": [-93.820809,32.471443,-93.820809,32.471443],
+  "bbox": [
+    -93.820809,
+    32.471443,
+    -93.820809,
+    32.471443
+],
   "geometry": {"coordinates":[-93.820809,32.471443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203388413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.900957,32.448416,-93.900957,32.448416",
     "geom:latitude":32.448416,
     "geom:longitude":-93.900957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7299 Greenwood Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203388413,
-    "wof:lastmodified":1449025023,
+    "wof:lastmodified":1466539514,
     "wof:name":"Warren Earls Used Cars",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "car"
     ]
 },
-  "bbox": [-93.900957,32.448416,-93.900957,32.448416],
-  "geometry": {"coordinates":[-93.900957,32.448416],"type":"Point"}
+  "bbox": [
+    -93.900957,
+    32.448416,
+    -93.900957,
+    32.448416
+],
+  "geometry": {"coordinates":[-93.90095700000001,32.448416],"type":"Point"}
 }

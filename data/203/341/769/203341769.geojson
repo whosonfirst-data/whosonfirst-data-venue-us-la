@@ -2,13 +2,14 @@
   "id": 203341769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.2575,30.22793,-92.2575,30.22793",
     "geom:latitude":30.22793,
     "geom:longitude":-92.2575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 W Branche St",
     "sg:city":"Rayne",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":203341769,
-    "wof:lastmodified":1449026787,
+    "wof:lastmodified":1466539460,
     "wof:name":"Olinger's Television Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -101,6 +103,11 @@
         "store"
     ]
 },
-  "bbox": [-92.2575,30.22793,-92.2575,30.22793],
-  "geometry": {"coordinates":[-92.2575,30.22793],"type":"Point"}
+  "bbox": [
+    -92.2575,
+    30.22793,
+    -92.2575,
+    30.22793
+],
+  "geometry": {"coordinates":[-92.25749999999999,30.22793],"type":"Point"}
 }

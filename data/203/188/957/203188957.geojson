@@ -2,13 +2,14 @@
   "id": 203188957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.045963,29.900653,-90.045963,29.900653",
     "geom:latitude":29.900653,
     "geom:longitude":-90.045963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Gretna Blvd Ste 107",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203188957,
-    "wof:lastmodified":1449025871,
+    "wof:lastmodified":1466541002,
     "wof:name":"Appleberry Elaine Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.045963,29.900653,-90.045963,29.900653],
+  "bbox": [
+    -90.045963,
+    29.900653,
+    -90.045963,
+    29.900653
+],
   "geometry": {"coordinates":[-90.045963,29.900653],"type":"Point"}
 }

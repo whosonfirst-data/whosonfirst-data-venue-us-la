@@ -2,13 +2,14 @@
   "id": 203332027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.047382,30.360127,-92.047382,30.360127",
     "geom:latitude":30.360127,
     "geom:longitude":-92.047382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4715 NW Evangeline Trwy",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203332027,
-    "wof:lastmodified":1449026007,
+    "wof:lastmodified":1466539439,
     "wof:name":"Primeaux RV Travel Trailer, Toy Haulers and Fifth Wheel Sales",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "life"
     ]
 },
-  "bbox": [-92.047382,30.360127,-92.047382,30.360127],
+  "bbox": [
+    -92.047382,
+    30.360127,
+    -92.047382,
+    30.360127
+],
   "geometry": {"coordinates":[-92.047382,30.360127],"type":"Point"}
 }

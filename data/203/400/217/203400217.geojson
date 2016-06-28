@@ -2,13 +2,14 @@
   "id": 203400217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.660696,31.495154,-93.660696,31.495154",
     "geom:latitude":31.495154,
     "geom:longitude":-93.660696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12049 Texas Hwy",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203400217,
-    "wof:lastmodified":1449025124,
+    "wof:lastmodified":1466539526,
     "wof:name":"Down Home On Toledo",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "steak"
     ]
 },
-  "bbox": [-93.660696,31.495154,-93.660696,31.495154],
+  "bbox": [
+    -93.660696,
+    31.495154,
+    -93.660696,
+    31.495154
+],
   "geometry": {"coordinates":[-93.660696,31.495154],"type":"Point"}
 }

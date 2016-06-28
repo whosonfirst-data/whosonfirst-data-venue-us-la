@@ -2,13 +2,14 @@
   "id": 203351815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.086048,30.23226,-92.086048,30.23226",
     "geom:latitude":30.23226,
     "geom:longitude":-92.086048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5416 Cameron St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203351815,
-    "wof:lastmodified":1449026563,
+    "wof:lastmodified":1466539481,
     "wof:name":"L & L Florist",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "gardening"
     ]
 },
-  "bbox": [-92.086048,30.23226,-92.086048,30.23226],
-  "geometry": {"coordinates":[-92.086048,30.23226],"type":"Point"}
+  "bbox": [
+    -92.086048,
+    30.23226,
+    -92.086048,
+    30.23226
+],
+  "geometry": {"coordinates":[-92.08604800000001,30.23226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203315467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.036555,30.236119,-92.036555,30.236119",
     "geom:latitude":30.236119,
     "geom:longitude":-92.036555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Newport Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203315467,
-    "wof:lastmodified":1449026772,
+    "wof:lastmodified":1466539413,
     "wof:name":"Tiffany's Day Care",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-92.036555,30.236119,-92.036555,30.236119],
-  "geometry": {"coordinates":[-92.036555,30.236119],"type":"Point"}
+  "bbox": [
+    -92.036555,
+    30.236119,
+    -92.036555,
+    30.236119
+],
+  "geometry": {"coordinates":[-92.03655500000001,30.236119],"type":"Point"}
 }

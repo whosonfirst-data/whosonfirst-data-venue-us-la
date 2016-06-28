@@ -2,13 +2,14 @@
   "id": 203310041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.012312,30.247612,-92.012312,30.247612",
     "geom:latitude":30.247612,
     "geom:longitude":-92.012312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 NE Evangeline Trwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310041,
-    "wof:lastmodified":1449026106,
+    "wof:lastmodified":1466539396,
     "wof:name":"Buddy's Home Furnishings",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-92.012312,30.247612,-92.012312,30.247612],
-  "geometry": {"coordinates":[-92.012312,30.247612],"type":"Point"}
+  "bbox": [
+    -92.012312,
+    30.247612,
+    -92.012312,
+    30.247612
+],
+  "geometry": {"coordinates":[-92.01231199999999,30.247612],"type":"Point"}
 }

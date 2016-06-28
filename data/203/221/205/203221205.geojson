@@ -2,13 +2,14 @@
   "id": 203221205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.018938,29.89411,-90.018938,29.89411",
     "geom:latitude":29.89411,
     "geom:longitude":-90.018938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Behrman Hwy",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203221205,
-    "wof:lastmodified":1449025745,
+    "wof:lastmodified":1466539285,
     "wof:name":"Nicole's Accessories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "women's"
     ]
 },
-  "bbox": [-90.018938,29.89411,-90.018938,29.89411],
-  "geometry": {"coordinates":[-90.018938,29.89411],"type":"Point"}
+  "bbox": [
+    -90.018938,
+    29.89411,
+    -90.018938,
+    29.89411
+],
+  "geometry": {"coordinates":[-90.01893800000001,29.89411],"type":"Point"}
 }

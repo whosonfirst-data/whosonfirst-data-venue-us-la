@@ -2,13 +2,14 @@
   "id": 203289065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.065663,29.940002,-90.065663,29.940002",
     "geom:latitude":29.940002,
     "geom:longitude":-90.065663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 S Peters St Apt 205",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203289065,
-    "wof:lastmodified":1449026536,
+    "wof:lastmodified":1466541044,
     "wof:name":"Harris Carolyn M Dr",
     "wof:parent_id":85866969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.065663,29.940002,-90.065663,29.940002],
+  "bbox": [
+    -90.065663,
+    29.940002,
+    -90.065663,
+    29.940002
+],
   "geometry": {"coordinates":[-90.065663,29.940002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203262905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.05704,29.973926,-90.05704,29.973926",
     "geom:latitude":29.973926,
     "geom:longitude":-90.05704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1631 Elysian Fields Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203262905,
-    "wof:lastmodified":1449026122,
+    "wof:lastmodified":1466539336,
     "wof:name":"Spears & Spears Attorneys At Law",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.05704,29.973926,-90.05704,29.973926],
+  "bbox": [
+    -90.05704,
+    29.973926,
+    -90.05704,
+    29.973926
+],
   "geometry": {"coordinates":[-90.05704,29.973926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203365885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.883461,32.858426,-93.883461,32.858426",
     "geom:latitude":32.858426,
     "geom:longitude":-93.883461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6485 Saint Johns Church Rd",
     "sg:city":"Hosston",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":203365885,
-    "wof:lastmodified":1449025245,
+    "wof:lastmodified":1466539487,
     "wof:name":"Stroy Builders And Roofing",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.883461,32.858426,-93.883461,32.858426],
+  "bbox": [
+    -93.883461,
+    32.858426,
+    -93.883461,
+    32.858426
+],
   "geometry": {"coordinates":[-93.883461,32.858426],"type":"Point"}
 }

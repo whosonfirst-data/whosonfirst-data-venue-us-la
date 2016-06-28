@@ -2,13 +2,14 @@
   "id": 203352295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.088432,30.233598,-92.088432,30.233598",
     "geom:latitude":30.233598,
     "geom:longitude":-92.088432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5545H Cameron St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203352295,
-    "wof:lastmodified":1449026100,
+    "wof:lastmodified":1466539472,
     "wof:name":"Bill Credit Corp",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-92.088432,30.233598,-92.088432,30.233598],
+  "bbox": [
+    -92.088432,
+    30.233598,
+    -92.088432,
+    30.233598
+],
   "geometry": {"coordinates":[-92.088432,30.233598],"type":"Point"}
 }

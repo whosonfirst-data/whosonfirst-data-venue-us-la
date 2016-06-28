@@ -2,13 +2,14 @@
   "id": 203255587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06504,29.958193,-90.06504,29.958193",
     "geom:latitude":29.958193,
     "geom:longitude":-90.06504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 St. Peter St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203255587,
-    "wof:lastmodified":1449025771,
+    "wof:lastmodified":1466539326,
     "wof:name":"Ali Baba",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "greek"
     ]
 },
-  "bbox": [-90.06504,29.958193,-90.06504,29.958193],
+  "bbox": [
+    -90.06504,
+    29.958193,
+    -90.06504,
+    29.958193
+],
   "geometry": {"coordinates":[-90.06504,29.958193],"type":"Point"}
 }

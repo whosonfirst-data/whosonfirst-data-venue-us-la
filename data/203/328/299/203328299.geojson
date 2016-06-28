@@ -2,13 +2,14 @@
   "id": 203328299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.918769,30.101794,-91.918769,30.101794",
     "geom:latitude":30.101794,
     "geom:longitude":-91.918769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1669 Duchamp Rd",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203328299,
-    "wof:lastmodified":1449026059,
+    "wof:lastmodified":1466539437,
     "wof:name":"Blake's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-91.918769,30.101794,-91.918769,30.101794],
+  "bbox": [
+    -91.918769,
+    30.101794,
+    -91.918769,
+    30.101794
+],
   "geometry": {"coordinates":[-91.918769,30.101794],"type":"Point"}
 }

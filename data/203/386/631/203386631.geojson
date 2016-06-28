@@ -2,13 +2,14 @@
   "id": 203386631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.81465,32.404327,-93.81465,32.404327",
     "geom:latitude":32.404327,
     "geom:longitude":-93.81465,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9141 Walker Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203386631,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1466539515,
     "wof:name":"Johnston Chiropractic Clinic Inc",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-93.81465,32.404327,-93.81465,32.404327],
+  "bbox": [
+    -93.81465,
+    32.404327,
+    -93.81465,
+    32.404327
+],
   "geometry": {"coordinates":[-93.81465,32.404327],"type":"Point"}
 }

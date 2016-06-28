@@ -2,13 +2,14 @@
   "id": 203324995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.965202,30.1476,-91.965202,30.1476",
     "geom:latitude":30.1476,
     "geom:longitude":-91.965202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 S Saint Pierre St",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203324995,
-    "wof:lastmodified":1449026053,
+    "wof:lastmodified":1466539434,
     "wof:name":"Lighthouse the",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.965202,30.1476,-91.965202,30.1476],
-  "geometry": {"coordinates":[-91.965202,30.1476],"type":"Point"}
+  "bbox": [
+    -91.965202,
+    30.1476,
+    -91.965202,
+    30.1476
+],
+  "geometry": {"coordinates":[-91.96520200000001,30.1476],"type":"Point"}
 }

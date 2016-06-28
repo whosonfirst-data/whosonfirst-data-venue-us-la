@@ -2,13 +2,14 @@
   "id": 203339233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.820602,30.006201,-91.820602,30.006201",
     "geom:latitude":30.006201,
     "geom:longitude":-91.820602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 French St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203339233,
-    "wof:lastmodified":1449025760,
+    "wof:lastmodified":1466539456,
     "wof:name":"Marie Raymond L Atty",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.820602,30.006201,-91.820602,30.006201],
-  "geometry": {"coordinates":[-91.820602,30.006201],"type":"Point"}
+  "bbox": [
+    -91.820602,
+    30.006201,
+    -91.820602,
+    30.006201
+],
+  "geometry": {"coordinates":[-91.82060199999999,30.006201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203352353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.095215,30.233747,-92.095215,30.233747",
     "geom:latitude":30.233747,
     "geom:longitude":-92.095215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Cayret St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203352353,
-    "wof:lastmodified":1449026100,
+    "wof:lastmodified":1466539473,
     "wof:name":"Scott Tv & Appliances",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "small"
     ]
 },
-  "bbox": [-92.095215,30.233747,-92.095215,30.233747],
+  "bbox": [
+    -92.095215,
+    30.233747,
+    -92.095215,
+    30.233747
+],
   "geometry": {"coordinates":[-92.095215,30.233747],"type":"Point"}
 }

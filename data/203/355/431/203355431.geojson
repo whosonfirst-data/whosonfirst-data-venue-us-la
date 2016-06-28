@@ -2,13 +2,14 @@
   "id": 203355431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.996494,30.110386,-91.996494,30.110386",
     "geom:latitude":30.110386,
     "geom:longitude":-91.996494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Catskill Ln",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203355431,
-    "wof:lastmodified":1449025434,
+    "wof:lastmodified":1466539477,
     "wof:name":"Menard Enterprises",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-91.996494,30.110386,-91.996494,30.110386],
+  "bbox": [
+    -91.996494,
+    30.110386,
+    -91.996494,
+    30.110386
+],
   "geometry": {"coordinates":[-91.996494,30.110386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203205631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.031534,29.892384,-90.031534,29.892384",
     "geom:latitude":29.892384,
     "geom:longitude":-90.031534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Terry Parkway",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203205631,
-    "wof:lastmodified":1449026075,
+    "wof:lastmodified":1466539275,
     "wof:name":"Power FitnessThrough Mixed Martial Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-90.031534,29.892384,-90.031534,29.892384],
-  "geometry": {"coordinates":[-90.031534,29.892384],"type":"Point"}
+  "bbox": [
+    -90.031534,
+    29.892384,
+    -90.031534,
+    29.892384
+],
+  "geometry": {"coordinates":[-90.03153399999999,29.892384],"type":"Point"}
 }

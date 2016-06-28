@@ -2,13 +2,14 @@
   "id": 203295803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.013153,29.920995,-90.013153,29.920995",
     "geom:latitude":29.920995,
     "geom:longitude":-90.013153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 General Degaulle Dr Ste D6",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203295803,
-    "wof:lastmodified":1449025689,
+    "wof:lastmodified":1466539392,
     "wof:name":"Aurora Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.013153,29.920995,-90.013153,29.920995],
+  "bbox": [
+    -90.013153,
+    29.920995,
+    -90.013153,
+    29.920995
+],
   "geometry": {"coordinates":[-90.013153,29.920995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203259161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.061527,29.958464,-90.061527,29.958464",
     "geom:latitude":29.958464,
     "geom:longitude":-90.061527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"517 Dumaine Street French Quarter",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203259161,
-    "wof:lastmodified":1449025371,
+    "wof:lastmodified":1466539323,
     "wof:name":"Rue Dumaine Guesthouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "guest"
     ]
 },
-  "bbox": [-90.061527,29.958464,-90.061527,29.958464],
+  "bbox": [
+    -90.061527,
+    29.958464,
+    -90.061527,
+    29.958464
+],
   "geometry": {"coordinates":[-90.061527,29.958464],"type":"Point"}
 }

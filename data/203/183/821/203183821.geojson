@@ -2,13 +2,14 @@
   "id": 203183821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.990898,29.947399,-89.990898,29.947399",
     "geom:latitude":29.947399,
     "geom:longitude":-89.990898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8205 W Saint Bernard Hwy",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203183821,
-    "wof:lastmodified":1449025960,
+    "wof:lastmodified":1466540970,
     "wof:name":"B Garco Home Improvement",
     "wof:parent_id":85866155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.990898,29.947399,-89.990898,29.947399],
+  "bbox": [
+    -89.990898,
+    29.947399,
+    -89.990898,
+    29.947399
+],
   "geometry": {"coordinates":[-89.990898,29.947399],"type":"Point"}
 }

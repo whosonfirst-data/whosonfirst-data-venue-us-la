@@ -2,13 +2,14 @@
   "id": 203375589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.461795,33.007803,-93.461795,33.007803",
     "geom:latitude":33.007803,
     "geom:longitude":-93.461795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 N Giles St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203375589,
-    "wof:lastmodified":1449025017,
+    "wof:lastmodified":1466539500,
     "wof:name":"USPS - United States Post Office - Springhill Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.461795,33.007803,-93.461795,33.007803],
+  "bbox": [
+    -93.461795,
+    33.007803,
+    -93.461795,
+    33.007803
+],
   "geometry": {"coordinates":[-93.461795,33.007803],"type":"Point"}
 }

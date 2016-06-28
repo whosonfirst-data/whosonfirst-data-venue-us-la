@@ -2,13 +2,14 @@
   "id": 203258795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.057701,29.961,-90.057701,29.961",
     "geom:latitude":29.961,
     "geom:longitude":-90.057701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Barracks St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203258795,
-    "wof:lastmodified":1449026435,
+    "wof:lastmodified":1466539337,
     "wof:name":"Komenka Ethnic Dance & Music Ensemble",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-90.057701,29.961,-90.057701,29.961],
-  "geometry": {"coordinates":[-90.057701,29.961],"type":"Point"}
+  "bbox": [
+    -90.057701,
+    29.961,
+    -90.057701,
+    29.961
+],
+  "geometry": {"coordinates":[-90.05770099999999,29.961],"type":"Point"}
 }

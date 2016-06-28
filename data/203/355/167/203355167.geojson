@@ -2,13 +2,14 @@
   "id": 203355167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.998703,30.096701,-91.998703,30.096701",
     "geom:latitude":30.096701,
     "geom:longitude":-91.998703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Railroad St",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203355167,
-    "wof:lastmodified":1449025435,
+    "wof:lastmodified":1466539473,
     "wof:name":"Farmer's Sav-More Drugs Inc",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-91.998703,30.096701,-91.998703,30.096701],
-  "geometry": {"coordinates":[-91.998703,30.096701],"type":"Point"}
+  "bbox": [
+    -91.998703,
+    30.096701,
+    -91.998703,
+    30.096701
+],
+  "geometry": {"coordinates":[-91.99870300000001,30.096701],"type":"Point"}
 }

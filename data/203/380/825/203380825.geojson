@@ -2,13 +2,14 @@
   "id": 203380825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.765961,32.537978,-93.765961,32.537978",
     "geom:latitude":32.537978,
     "geom:longitude":-93.765961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1442 Hawn Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203380825,
-    "wof:lastmodified":1449025793,
+    "wof:lastmodified":1466539513,
     "wof:name":"Uptown Events",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.765961,32.537978,-93.765961,32.537978],
+  "bbox": [
+    -93.765961,
+    32.537978,
+    -93.765961,
+    32.537978
+],
   "geometry": {"coordinates":[-93.765961,32.537978],"type":"Point"}
 }

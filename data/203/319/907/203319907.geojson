@@ -2,13 +2,14 @@
   "id": 203319907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.024399,30.291599,-92.024399,30.291599",
     "geom:latitude":30.291599,
     "geom:longitude":-92.024399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3219 NW Evangeline Trwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203319907,
-    "wof:lastmodified":1449025694,
+    "wof:lastmodified":1466539433,
     "wof:name":"Lamm Food Service Inc",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "veggie"
     ]
 },
-  "bbox": [-92.024399,30.291599,-92.024399,30.291599],
+  "bbox": [
+    -92.024399,
+    30.291599,
+    -92.024399,
+    30.291599
+],
   "geometry": {"coordinates":[-92.024399,30.291599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203333995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.832901,30.005699,-91.832901,30.005699",
     "geom:latitude":30.005699,
     "geom:longitude":-91.832901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 S Hopkins St # A",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203333995,
-    "wof:lastmodified":1449026746,
+    "wof:lastmodified":1466539457,
     "wof:name":"Lee's Seafood",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.832901,30.005699,-91.832901,30.005699],
-  "geometry": {"coordinates":[-91.832901,30.005699],"type":"Point"}
+  "bbox": [
+    -91.832901,
+    30.005699,
+    -91.832901,
+    30.005699
+],
+  "geometry": {"coordinates":[-91.83290100000001,30.005699],"type":"Point"}
 }

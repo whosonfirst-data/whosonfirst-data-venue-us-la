@@ -2,13 +2,14 @@
   "id": 203229827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049954,29.878275,-90.049954,29.878275",
     "geom:latitude":29.878275,
     "geom:longitude":-90.049954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2433 Manhattan Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203229827,
-    "wof:lastmodified":1449026447,
+    "wof:lastmodified":1466539297,
     "wof:name":"Holiday Inn Express Hotel Harvey-Marrero",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-90.049954,29.878275,-90.049954,29.878275],
+  "bbox": [
+    -90.049954,
+    29.878275,
+    -90.049954,
+    29.878275
+],
   "geometry": {"coordinates":[-90.049954,29.878275],"type":"Point"}
 }

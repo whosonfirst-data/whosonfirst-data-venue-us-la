@@ -2,13 +2,14 @@
   "id": 203322829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.991746,30.16133,-91.991746,30.16133",
     "geom:latitude":30.16133,
     "geom:longitude":-91.991746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3527 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203322829,
-    "wof:lastmodified":1449024925,
+    "wof:lastmodified":1466539438,
     "wof:name":"Capital One",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-91.991746,30.16133,-91.991746,30.16133],
-  "geometry": {"coordinates":[-91.991746,30.16133],"type":"Point"}
+  "bbox": [
+    -91.991746,
+    30.16133,
+    -91.991746,
+    30.16133
+],
+  "geometry": {"coordinates":[-91.99174600000001,30.16133],"type":"Point"}
 }

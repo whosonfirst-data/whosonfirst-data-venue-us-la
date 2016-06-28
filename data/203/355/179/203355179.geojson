@@ -2,13 +2,14 @@
   "id": 203355179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.958099,30.065599,-91.958099,30.065599",
     "geom:latitude":30.065599,
     "geom:longitude":-91.958099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"732 Piat Rd",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203355179,
-    "wof:lastmodified":1449025439,
+    "wof:lastmodified":1466539473,
     "wof:name":"Bordelon's Paint & Body Shop",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "shop"
     ]
 },
-  "bbox": [-91.958099,30.065599,-91.958099,30.065599],
+  "bbox": [
+    -91.958099,
+    30.065599,
+    -91.958099,
+    30.065599
+],
   "geometry": {"coordinates":[-91.958099,30.065599],"type":"Point"}
 }

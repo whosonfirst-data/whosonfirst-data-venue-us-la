@@ -2,13 +2,14 @@
   "id": 203336227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.961601,30.055599,-91.961601,30.055599",
     "geom:latitude":30.055599,
     "geom:longitude":-91.961601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4214 Forrest Leblanc Rd",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203336227,
-    "wof:lastmodified":1449024907,
+    "wof:lastmodified":1466539448,
     "wof:name":"Foret Gerald Wholesale Nursery Inc",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gardening"
     ]
 },
-  "bbox": [-91.961601,30.055599,-91.961601,30.055599],
+  "bbox": [
+    -91.961601,
+    30.055599,
+    -91.961601,
+    30.055599
+],
   "geometry": {"coordinates":[-91.961601,30.055599],"type":"Point"}
 }

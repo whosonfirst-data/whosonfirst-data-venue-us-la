@@ -2,13 +2,14 @@
   "id": 203380759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.917533,32.601707,-93.917533,32.601707",
     "geom:latitude":32.601707,
     "geom:longitude":-93.917533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7549 Millwood Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203380759,
-    "wof:lastmodified":1449025797,
+    "wof:lastmodified":1466539512,
     "wof:name":"Cooper Painting",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.917533,32.601707,-93.917533,32.601707],
-  "geometry": {"coordinates":[-93.917533,32.601707],"type":"Point"}
+  "bbox": [
+    -93.917533,
+    32.601707,
+    -93.917533,
+    32.601707
+],
+  "geometry": {"coordinates":[-93.91753300000001,32.601707],"type":"Point"}
 }

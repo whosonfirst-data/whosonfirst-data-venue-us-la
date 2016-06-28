@@ -2,13 +2,14 @@
   "id": 203370431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.433347,32.910993,-93.433347,32.910993",
     "geom:latitude":32.910993,
     "geom:longitude":-93.433347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Old Sarepta Church Rd",
     "sg:city":"Sarepta",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203370431,
-    "wof:lastmodified":1449025976,
+    "wof:lastmodified":1466539489,
     "wof:name":"Old Sarepta Missionary Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.433347,32.910993,-93.433347,32.910993],
+  "bbox": [
+    -93.433347,
+    32.910993,
+    -93.433347,
+    32.910993
+],
   "geometry": {"coordinates":[-93.433347,32.910993],"type":"Point"}
 }

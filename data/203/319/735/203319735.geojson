@@ -2,13 +2,14 @@
   "id": 203319735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.019897,30.2953,-92.019897,30.2953",
     "geom:latitude":30.2953,
     "geom:longitude":-92.019897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 E Gloria Switch Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203319735,
-    "wof:lastmodified":1449025692,
+    "wof:lastmodified":1466539432,
     "wof:name":"Coco's Quick Stop",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.019897,30.2953,-92.019897,30.2953],
+  "bbox": [
+    -92.019897,
+    30.2953,
+    -92.019897,
+    30.2953
+],
   "geometry": {"coordinates":[-92.019897,30.2953],"type":"Point"}
 }

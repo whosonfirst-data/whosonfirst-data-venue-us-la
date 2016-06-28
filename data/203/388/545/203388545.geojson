@@ -2,13 +2,14 @@
   "id": 203388545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.851653,32.480801,-93.851653,32.480801",
     "geom:latitude":32.480801,
     "geom:longitude":-93.851653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3326 Judy Ln",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203388545,
-    "wof:lastmodified":1449025024,
+    "wof:lastmodified":1466539517,
     "wof:name":"Three Js Investing",
     "wof:parent_id":85857989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-93.851653,32.480801,-93.851653,32.480801],
+  "bbox": [
+    -93.851653,
+    32.480801,
+    -93.851653,
+    32.480801
+],
   "geometry": {"coordinates":[-93.851653,32.480801],"type":"Point"}
 }

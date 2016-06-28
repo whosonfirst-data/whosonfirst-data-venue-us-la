@@ -2,13 +2,14 @@
   "id": 337288751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.040901,30.3123,-92.040901,30.3123",
     "geom:latitude":30.3123,
     "geom:longitude":-92.040901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Walter Dr",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":337288751,
-    "wof:lastmodified":1449027023,
+    "wof:lastmodified":1466541062,
     "wof:name":"Cb's Grocery Featuring Margaret Brown Catering Llc",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-92.040901,30.3123,-92.040901,30.3123],
-  "geometry": {"coordinates":[-92.040901,30.3123],"type":"Point"}
+  "bbox": [
+    -92.040901,
+    30.3123,
+    -92.040901,
+    30.3123
+],
+  "geometry": {"coordinates":[-92.04090100000001,30.3123],"type":"Point"}
 }

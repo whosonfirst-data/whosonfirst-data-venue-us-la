@@ -2,13 +2,14 @@
   "id": 203273815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042426,30.00234,-90.042426,30.00234",
     "geom:latitude":30.00234,
     "geom:longitude":-90.042426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4044 Old Gentilly Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203273815,
-    "wof:lastmodified":1449025912,
+    "wof:lastmodified":1466539352,
     "wof:name":"Arc Properties of New Orleans",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-90.042426,30.00234,-90.042426,30.00234],
-  "geometry": {"coordinates":[-90.042426,30.00234],"type":"Point"}
+  "bbox": [
+    -90.042426,
+    30.00234,
+    -90.042426,
+    30.00234
+],
+  "geometry": {"coordinates":[-90.04242600000001,30.00234],"type":"Point"}
 }

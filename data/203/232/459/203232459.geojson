@@ -2,13 +2,14 @@
   "id": 203232459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.054869,29.885607,-90.054869,29.885607",
     "geom:latitude":29.885607,
     "geom:longitude":-90.054869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1950 Manhattan Blvd Ste 110",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203232459,
-    "wof:lastmodified":1449025529,
+    "wof:lastmodified":1466539297,
     "wof:name":"Cherryberry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-90.054869,29.885607,-90.054869,29.885607],
+  "bbox": [
+    -90.054869,
+    29.885607,
+    -90.054869,
+    29.885607
+],
   "geometry": {"coordinates":[-90.054869,29.885607],"type":"Point"}
 }

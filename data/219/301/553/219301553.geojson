@@ -2,13 +2,14 @@
   "id": 219301553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.987674,32.872833,-93.987674,32.872833",
     "geom:latitude":32.872833,
     "geom:longitude":-93.987674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Louisiana Ave",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":219301553,
-    "wof:lastmodified":1449071294,
+    "wof:lastmodified":1466539525,
     "wof:name":"Candy Lane",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "confectionery"
     ]
 },
-  "bbox": [-93.987674,32.872833,-93.987674,32.872833],
+  "bbox": [
+    -93.987674,
+    32.872833,
+    -93.987674,
+    32.872833
+],
   "geometry": {"coordinates":[-93.987674,32.872833],"type":"Point"}
 }

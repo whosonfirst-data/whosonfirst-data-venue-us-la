@@ -2,13 +2,14 @@
   "id": 203344825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.817299,30.1222,-91.817299,30.1222",
     "geom:latitude":30.1222,
     "geom:longitude":-91.817299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 E Bridge St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203344825,
-    "wof:lastmodified":1449025043,
+    "wof:lastmodified":1466539465,
     "wof:name":"Lane's 66 - CLOSED",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.817299,30.1222,-91.817299,30.1222],
-  "geometry": {"coordinates":[-91.817299,30.1222],"type":"Point"}
+  "bbox": [
+    -91.817299,
+    30.1222,
+    -91.817299,
+    30.1222
+],
+  "geometry": {"coordinates":[-91.81729900000001,30.1222],"type":"Point"}
 }

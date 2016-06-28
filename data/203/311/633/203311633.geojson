@@ -2,13 +2,14 @@
   "id": 203311633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.00521,30.251241,-92.00521,30.251241",
     "geom:latitude":30.251241,
     "geom:longitude":-92.00521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 Moss St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203311633,
-    "wof:lastmodified":1449025382,
+    "wof:lastmodified":1466539413,
     "wof:name":"Precious Heart Childcare",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-92.00521,30.251241,-92.00521,30.251241],
-  "geometry": {"coordinates":[-92.00521,30.251241],"type":"Point"}
+  "bbox": [
+    -92.00521,
+    30.251241,
+    -92.00521,
+    30.251241
+],
+  "geometry": {"coordinates":[-92.00521000000001,30.251241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203182561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.966003,29.943501,-89.966003,29.943501",
     "geom:latitude":29.943501,
     "geom:longitude":-89.966003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 W Judge Perez Dr Ste B",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203182561,
-    "wof:lastmodified":1449026167,
+    "wof:lastmodified":1466540909,
     "wof:name":"Title Associates Inc",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-89.966003,29.943501,-89.966003,29.943501],
+  "bbox": [
+    -89.966003,
+    29.943501,
+    -89.966003,
+    29.943501
+],
   "geometry": {"coordinates":[-89.966003,29.943501],"type":"Point"}
 }

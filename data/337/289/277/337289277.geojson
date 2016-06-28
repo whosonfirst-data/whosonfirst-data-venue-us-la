@@ -2,13 +2,14 @@
   "id": 337289277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.796152,32.455509,-93.796152,32.455509",
     "geom:latitude":32.455509,
     "geom:longitude":-93.796152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3603 Faye St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337289277,
-    "wof:lastmodified":1449027601,
+    "wof:lastmodified":1466541058,
     "wof:name":"Bethesda Place",
     "wof:parent_id":85881003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "arcade"
     ]
 },
-  "bbox": [-93.796152,32.455509,-93.796152,32.455509],
-  "geometry": {"coordinates":[-93.796152,32.455509],"type":"Point"}
+  "bbox": [
+    -93.796152,
+    32.455509,
+    -93.796152,
+    32.455509
+],
+  "geometry": {"coordinates":[-93.79615200000001,32.455509],"type":"Point"}
 }

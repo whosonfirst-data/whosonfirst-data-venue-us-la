@@ -2,13 +2,14 @@
   "id": 203335061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.931999,30.056299,-91.931999,30.056299",
     "geom:latitude":30.056299,
     "geom:longitude":-91.931999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7413 Highway 90 W",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203335061,
-    "wof:lastmodified":1449026232,
+    "wof:lastmodified":1466541050,
     "wof:name":"Boiling Point R & M's Restaurant",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "market"
     ]
 },
-  "bbox": [-91.931999,30.056299,-91.931999,30.056299],
+  "bbox": [
+    -91.931999,
+    30.056299,
+    -91.931999,
+    30.056299
+],
   "geometry": {"coordinates":[-91.931999,30.056299],"type":"Point"}
 }

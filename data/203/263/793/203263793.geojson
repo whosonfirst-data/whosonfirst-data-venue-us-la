@@ -2,13 +2,14 @@
   "id": 203263793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.056919,29.967733,-90.056919,29.967733",
     "geom:latitude":29.967733,
     "geom:longitude":-90.056919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Elysian Fields Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":203263793,
-    "wof:lastmodified":1449026820,
+    "wof:lastmodified":1466539339,
     "wof:name":"Elysian Guest House",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.056919,29.967733,-90.056919,29.967733],
-  "geometry": {"coordinates":[-90.056919,29.967733],"type":"Point"}
+  "bbox": [
+    -90.056919,
+    29.967733,
+    -90.056919,
+    29.967733
+],
+  "geometry": {"coordinates":[-90.05691899999999,29.967733],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203377263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.445755,33.004992,-93.445755,33.004992",
     "geom:latitude":33.004992,
     "geom:longitude":-93.445755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 11th St NE",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203377263,
-    "wof:lastmodified":1449025634,
+    "wof:lastmodified":1466539499,
     "wof:name":"David W Law Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.445755,33.004992,-93.445755,33.004992],
-  "geometry": {"coordinates":[-93.445755,33.004992],"type":"Point"}
+  "bbox": [
+    -93.445755,
+    33.004992,
+    -93.445755,
+    33.004992
+],
+  "geometry": {"coordinates":[-93.44575500000001,33.004992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203235891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.057576,29.891716,-90.057576,29.891716",
     "geom:latitude":29.891716,
     "geom:longitude":-90.057576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Gretna Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203235891,
-    "wof:lastmodified":1449025273,
+    "wof:lastmodified":1466539299,
     "wof:name":"Platinum Billiard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pool"
     ]
 },
-  "bbox": [-90.057576,29.891716,-90.057576,29.891716],
+  "bbox": [
+    -90.057576,
+    29.891716,
+    -90.057576,
+    29.891716
+],
   "geometry": {"coordinates":[-90.057576,29.891716],"type":"Point"}
 }

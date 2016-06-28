@@ -2,13 +2,14 @@
   "id": 203366317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.829008,32.307812,-93.829008,32.307812",
     "geom:latitude":32.307812,
     "geom:longitude":-93.829008,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12722 Mansfield Rd",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203366317,
-    "wof:lastmodified":1449026351,
+    "wof:lastmodified":1466539486,
     "wof:name":"Gibralter Fence Co",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.829008,32.307812,-93.829008,32.307812],
+  "bbox": [
+    -93.829008,
+    32.307812,
+    -93.829008,
+    32.307812
+],
   "geometry": {"coordinates":[-93.829008,32.307812],"type":"Point"}
 }

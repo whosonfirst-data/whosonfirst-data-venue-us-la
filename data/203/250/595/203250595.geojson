@@ -2,13 +2,14 @@
   "id": 203250595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.031898,29.9352,-90.031898,29.9352",
     "geom:latitude":29.9352,
     "geom:longitude":-90.031898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1663 Shirley Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203250595,
-    "wof:lastmodified":1449026037,
+    "wof:lastmodified":1466539315,
     "wof:name":"Jesus Glorious Saints Overcomer Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.031898,29.9352,-90.031898,29.9352],
+  "bbox": [
+    -90.031898,
+    29.9352,
+    -90.031898,
+    29.9352
+],
   "geometry": {"coordinates":[-90.031898,29.9352],"type":"Point"}
 }

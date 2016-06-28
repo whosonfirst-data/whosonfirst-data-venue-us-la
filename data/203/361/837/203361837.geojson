@@ -2,13 +2,14 @@
   "id": 203361837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.145716,30.172232,-91.145716,30.172232",
     "geom:latitude":30.172232,
     "geom:longitude":-91.145716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32340 Bowie St",
     "sg:city":"White Castle",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203361837,
-    "wof:lastmodified":1449026345,
+    "wof:lastmodified":1466539492,
     "wof:name":"Bosley Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-91.145716,30.172232,-91.145716,30.172232],
-  "geometry": {"coordinates":[-91.145716,30.172232],"type":"Point"}
+  "bbox": [
+    -91.145716,
+    30.172232,
+    -91.145716,
+    30.172232
+],
+  "geometry": {"coordinates":[-91.14571599999999,30.172232],"type":"Point"}
 }

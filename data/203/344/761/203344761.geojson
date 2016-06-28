@@ -2,13 +2,14 @@
   "id": 203344761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.827414,30.121557,-91.827414,30.121557",
     "geom:latitude":30.121557,
     "geom:longitude":-91.827414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Evangeline Park",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203344761,
-    "wof:lastmodified":1449025046,
+    "wof:lastmodified":1466539463,
     "wof:name":"Longfellow-Evangeline State Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.827414,30.121557,-91.827414,30.121557],
+  "bbox": [
+    -91.827414,
+    30.121557,
+    -91.827414,
+    30.121557
+],
   "geometry": {"coordinates":[-91.827414,30.121557],"type":"Point"}
 }

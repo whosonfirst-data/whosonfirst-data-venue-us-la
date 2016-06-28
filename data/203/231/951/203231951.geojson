@@ -2,13 +2,14 @@
   "id": 203231951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064796,29.8631,-90.064796,29.8631",
     "geom:latitude":29.8631,
     "geom:longitude":-90.064796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 Peters Rd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203231951,
-    "wof:lastmodified":1449025896,
+    "wof:lastmodified":1466539300,
     "wof:name":"Morrison Chet Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.064796,29.8631,-90.064796,29.8631],
+  "bbox": [
+    -90.064796,
+    29.8631,
+    -90.064796,
+    29.8631
+],
   "geometry": {"coordinates":[-90.064796,29.8631],"type":"Point"}
 }

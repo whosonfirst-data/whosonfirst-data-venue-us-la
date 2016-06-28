@@ -2,13 +2,14 @@
   "id": 203355069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.99879,30.123724,-91.99879,30.123724",
     "geom:latitude":30.123724,
     "geom:longitude":-91.99879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Jersey Dr",
     "sg:city":"Youngsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203355069,
-    "wof:lastmodified":1449025437,
+    "wof:lastmodified":1466539470,
     "wof:name":"Magellan Construction",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.99879,30.123724,-91.99879,30.123724],
+  "bbox": [
+    -91.99879,
+    30.123724,
+    -91.99879,
+    30.123724
+],
   "geometry": {"coordinates":[-91.99879,30.123724],"type":"Point"}
 }

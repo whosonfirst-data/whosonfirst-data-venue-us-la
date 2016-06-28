@@ -2,13 +2,14 @@
   "id": 203260385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064003,29.9603,-90.064003,29.9603",
     "geom:latitude":29.9603,
     "geom:longitude":-90.064003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Bourbon St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":203260385,
-    "wof:lastmodified":1449025260,
+    "wof:lastmodified":1466539328,
     "wof:name":"Clover Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "diner"
     ]
 },
-  "bbox": [-90.064003,29.9603,-90.064003,29.9603],
+  "bbox": [
+    -90.064003,
+    29.9603,
+    -90.064003,
+    29.9603
+],
   "geometry": {"coordinates":[-90.064003,29.9603],"type":"Point"}
 }

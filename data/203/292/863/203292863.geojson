@@ -2,13 +2,14 @@
   "id": 203292863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06553,29.952883,-90.06553,29.952883",
     "geom:latitude":29.952883,
     "geom:longitude":-90.06553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 N Peters St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203292863,
-    "wof:lastmodified":1449025094,
+    "wof:lastmodified":1466539387,
     "wof:name":"Refresh Style",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.06553,29.952883,-90.06553,29.952883],
+  "bbox": [
+    -90.06553,
+    29.952883,
+    -90.06553,
+    29.952883
+],
   "geometry": {"coordinates":[-90.06553,29.952883],"type":"Point"}
 }

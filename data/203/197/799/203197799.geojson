@@ -2,13 +2,14 @@
   "id": 203197799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042943,29.907056,-90.042943,29.907056",
     "geom:latitude":29.907056,
     "geom:longitude":-90.042943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 Whitney Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203197799,
-    "wof:lastmodified":1449026619,
+    "wof:lastmodified":1466539262,
     "wof:name":"La Maison Whitney",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-90.042943,29.907056,-90.042943,29.907056],
-  "geometry": {"coordinates":[-90.042943,29.907056],"type":"Point"}
+  "bbox": [
+    -90.042943,
+    29.907056,
+    -90.042943,
+    29.907056
+],
+  "geometry": {"coordinates":[-90.04294299999999,29.907056],"type":"Point"}
 }

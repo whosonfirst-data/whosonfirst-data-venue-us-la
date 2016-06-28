@@ -2,13 +2,14 @@
   "id": 203303603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.76413,29.766327,-90.76413,29.766327",
     "geom:latitude":29.766327,
     "geom:longitude":-90.76413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"872 Highway 308",
     "sg:city":"Thibodaux",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203303603,
-    "wof:lastmodified":1449024954,
+    "wof:lastmodified":1466539399,
     "wof:name":"Lloyd Trosclair Painting Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.76413,29.766327,-90.76413,29.766327],
-  "geometry": {"coordinates":[-90.76413,29.766327],"type":"Point"}
+  "bbox": [
+    -90.76413,
+    29.766327,
+    -90.76413,
+    29.766327
+],
+  "geometry": {"coordinates":[-90.76412999999999,29.766327],"type":"Point"}
 }

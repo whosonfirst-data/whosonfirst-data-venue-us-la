@@ -2,13 +2,14 @@
   "id": 203256923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.062103,29.959,-90.062103,29.959",
     "geom:latitude":29.959,
     "geom:longitude":-90.062103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Chartres St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":203256923,
-    "wof:lastmodified":1449026390,
+    "wof:lastmodified":1466539333,
     "wof:name":"Harry's Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-90.062103,29.959,-90.062103,29.959],
-  "geometry": {"coordinates":[-90.062103,29.959],"type":"Point"}
+  "bbox": [
+    -90.062103,
+    29.959,
+    -90.062103,
+    29.959
+],
+  "geometry": {"coordinates":[-90.06210299999999,29.959],"type":"Point"}
 }

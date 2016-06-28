@@ -2,13 +2,14 @@
   "id": 203386259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.780476,32.390524,-93.780476,32.390524",
     "geom:latitude":32.390524,
     "geom:longitude":-93.780476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9510 Kingston Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203386259,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1466539508,
     "wof:name":"Sims Pro Carpet Cleaning",
     "wof:parent_id":85850255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "carpet"
     ]
 },
-  "bbox": [-93.780476,32.390524,-93.780476,32.390524],
-  "geometry": {"coordinates":[-93.780476,32.390524],"type":"Point"}
+  "bbox": [
+    -93.780476,
+    32.390524,
+    -93.780476,
+    32.390524
+],
+  "geometry": {"coordinates":[-93.78047599999999,32.390524],"type":"Point"}
 }

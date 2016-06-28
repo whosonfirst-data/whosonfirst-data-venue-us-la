@@ -2,13 +2,14 @@
   "id": 203378083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.024818,32.937422,-94.024818,32.937422",
     "geom:latitude":32.937422,
     "geom:longitude":-94.024818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10846 Myrtis Texas Line Rd",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203378083,
-    "wof:lastmodified":1449026254,
+    "wof:lastmodified":1466539497,
     "wof:name":"Tony's Hilltop",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-94.024818,32.937422,-94.024818,32.937422],
+  "bbox": [
+    -94.024818,
+    32.937422,
+    -94.024818,
+    32.937422
+],
   "geometry": {"coordinates":[-94.024818,32.937422],"type":"Point"}
 }

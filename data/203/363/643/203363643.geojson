@@ -2,13 +2,14 @@
   "id": 203363643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.142836,32.966063,-93.142836,32.966063",
     "geom:latitude":32.966063,
     "geom:longitude":-93.142836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 Fairgrounds Dr",
     "sg:city":"Haynesville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203363643,
-    "wof:lastmodified":1449026638,
+    "wof:lastmodified":1466539488,
     "wof:name":"J & J Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-93.142836,32.966063,-93.142836,32.966063],
+  "bbox": [
+    -93.142836,
+    32.966063,
+    -93.142836,
+    32.966063
+],
   "geometry": {"coordinates":[-93.142836,32.966063],"type":"Point"}
 }

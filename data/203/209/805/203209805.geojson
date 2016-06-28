@@ -2,13 +2,14 @@
   "id": 203209805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.038874,29.894194,-90.038874,29.894194",
     "geom:latitude":29.894194,
     "geom:longitude":-90.038874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Belle Chasse Hwy",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203209805,
-    "wof:lastmodified":1449026666,
+    "wof:lastmodified":1466539280,
     "wof:name":"Xpress Pak-N-Ship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-90.038874,29.894194,-90.038874,29.894194],
-  "geometry": {"coordinates":[-90.038874,29.894194],"type":"Point"}
+  "bbox": [
+    -90.038874,
+    29.894194,
+    -90.038874,
+    29.894194
+],
+  "geometry": {"coordinates":[-90.03887400000001,29.894194],"type":"Point"}
 }

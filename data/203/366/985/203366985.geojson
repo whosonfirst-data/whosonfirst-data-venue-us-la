@@ -2,13 +2,14 @@
   "id": 203366985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.025169,32.25985,-94.025169,32.25985",
     "geom:latitude":32.25985,
     "geom:longitude":-94.025169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13809 Johns Gin Rd",
     "sg:city":"Keithville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203366985,
-    "wof:lastmodified":1449026351,
+    "wof:lastmodified":1466539492,
     "wof:name":"Davis Ken Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "electric"
     ]
 },
-  "bbox": [-94.025169,32.25985,-94.025169,32.25985],
-  "geometry": {"coordinates":[-94.025169,32.25985],"type":"Point"}
+  "bbox": [
+    -94.025169,
+    32.25985,
+    -94.025169,
+    32.25985
+],
+  "geometry": {"coordinates":[-94.02516900000001,32.25985],"type":"Point"}
 }

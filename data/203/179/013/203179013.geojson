@@ -2,13 +2,14 @@
   "id": 203179013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.011803,29.873301,-90.011803,29.873301",
     "geom:latitude":29.873301,
     "geom:longitude":-90.011803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7248 Highway 23",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203179013,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466540862,
     "wof:name":"J P's Auto Body & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "towing"
     ]
 },
-  "bbox": [-90.011803,29.873301,-90.011803,29.873301],
+  "bbox": [
+    -90.011803,
+    29.873301,
+    -90.011803,
+    29.873301
+],
   "geometry": {"coordinates":[-90.011803,29.873301],"type":"Point"}
 }

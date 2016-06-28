@@ -2,13 +2,14 @@
   "id": 203336495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.817587,30.00347,-91.817587,30.00347",
     "geom:latitude":30.00347,
     "geom:longitude":-91.817587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 E Saint Peter St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203336495,
-    "wof:lastmodified":1449024909,
+    "wof:lastmodified":1466539452,
     "wof:name":"Iberia Bank",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.817587,30.00347,-91.817587,30.00347],
+  "bbox": [
+    -91.817587,
+    30.00347,
+    -91.817587,
+    30.00347
+],
   "geometry": {"coordinates":[-91.817587,30.00347],"type":"Point"}
 }

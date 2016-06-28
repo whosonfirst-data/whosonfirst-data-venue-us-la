@@ -2,13 +2,14 @@
   "id": 203290787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06446,29.955302,-90.06446,29.955302",
     "geom:latitude":29.955302,
     "geom:longitude":-90.06446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 St. Louis St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203290787,
-    "wof:lastmodified":1449025739,
+    "wof:lastmodified":1466539386,
     "wof:name":"Johnny's Po-Boys",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "brunch"
     ]
 },
-  "bbox": [-90.06446,29.955302,-90.06446,29.955302],
+  "bbox": [
+    -90.06446,
+    29.955302,
+    -90.06446,
+    29.955302
+],
   "geometry": {"coordinates":[-90.06446,29.955302],"type":"Point"}
 }

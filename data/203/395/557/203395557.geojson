@@ -2,13 +2,14 @@
   "id": 203395557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.914427,32.77425,-91.914427,32.77425",
     "geom:latitude":32.77425,
     "geom:longitude":-91.914427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S Washington St",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203395557,
-    "wof:lastmodified":1449026572,
+    "wof:lastmodified":1466539524,
     "wof:name":"Clint Netherland Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.914427,32.77425,-91.914427,32.77425],
+  "bbox": [
+    -91.914427,
+    32.77425,
+    -91.914427,
+    32.77425
+],
   "geometry": {"coordinates":[-91.914427,32.77425],"type":"Point"}
 }

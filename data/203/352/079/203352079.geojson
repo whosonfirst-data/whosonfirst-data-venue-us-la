@@ -2,13 +2,14 @@
   "id": 203352079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.118796,30.257989,-92.118796,30.257989",
     "geom:latitude":30.257989,
     "geom:longitude":-92.118796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 Rue Bon Secours",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203352079,
-    "wof:lastmodified":1449026102,
+    "wof:lastmodified":1466539468,
     "wof:name":"Savoy the Bed & Breakfast",
     "wof:parent_id":85835903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.118796,30.257989,-92.118796,30.257989],
+  "bbox": [
+    -92.118796,
+    30.257989,
+    -92.118796,
+    30.257989
+],
   "geometry": {"coordinates":[-92.118796,30.257989],"type":"Point"}
 }

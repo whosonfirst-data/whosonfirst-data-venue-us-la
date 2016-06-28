@@ -2,13 +2,14 @@
   "id": 203303391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.817651,29.787644,-90.817651,29.787644",
     "geom:latitude":29.787644,
     "geom:longitude":-90.817651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Saint Charles St Thibodaux",
     "sg:city":"Thibodaux",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203303391,
-    "wof:lastmodified":1449024954,
+    "wof:lastmodified":1466539393,
     "wof:name":"Cadillac II Club House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "night"
     ]
 },
-  "bbox": [-90.817651,29.787644,-90.817651,29.787644],
+  "bbox": [
+    -90.817651,
+    29.787644,
+    -90.817651,
+    29.787644
+],
   "geometry": {"coordinates":[-90.817651,29.787644],"type":"Point"}
 }

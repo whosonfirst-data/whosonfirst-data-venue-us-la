@@ -2,13 +2,14 @@
   "id": 203220997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.040802,29.9179,-90.040802,29.9179",
     "geom:latitude":29.9179,
     "geom:longitude":-90.040802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Hector Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203220997,
-    "wof:lastmodified":1449026802,
+    "wof:lastmodified":1466539293,
     "wof:name":"Nicewander R Kurt MD Faafp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "family"
     ]
 },
-  "bbox": [-90.040802,29.9179,-90.040802,29.9179],
+  "bbox": [
+    -90.040802,
+    29.9179,
+    -90.040802,
+    29.9179
+],
   "geometry": {"coordinates":[-90.040802,29.9179],"type":"Point"}
 }

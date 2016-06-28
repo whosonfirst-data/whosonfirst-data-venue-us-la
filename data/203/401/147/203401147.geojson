@@ -2,13 +2,14 @@
   "id": 203401147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.643697,31.637326,-93.643697,31.637326",
     "geom:latitude":31.637326,
     "geom:longitude":-93.643697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Maple St",
     "sg:city":"Zwolle",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203401147,
-    "wof:lastmodified":1449026571,
+    "wof:lastmodified":1466539523,
     "wof:name":"MK Salon",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.643697,31.637326,-93.643697,31.637326],
+  "bbox": [
+    -93.643697,
+    31.637326,
+    -93.643697,
+    31.637326
+],
   "geometry": {"coordinates":[-93.643697,31.637326],"type":"Point"}
 }

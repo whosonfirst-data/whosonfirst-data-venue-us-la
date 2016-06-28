@@ -2,13 +2,14 @@
   "id": 203383067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.781068,32.448993,-93.781068,32.448993",
     "geom:latitude":32.448993,
     "geom:longitude":-93.781068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6363 Hearne Ave Ste 212",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203383067,
-    "wof:lastmodified":1449025724,
+    "wof:lastmodified":1466539501,
     "wof:name":"Magic Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.781068,32.448993,-93.781068,32.448993],
+  "bbox": [
+    -93.781068,
+    32.448993,
+    -93.781068,
+    32.448993
+],
   "geometry": {"coordinates":[-93.781068,32.448993],"type":"Point"}
 }

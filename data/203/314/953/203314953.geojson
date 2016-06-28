@@ -2,13 +2,14 @@
   "id": 203314953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.011101,30.256701,-92.011101,30.256701",
     "geom:latitude":30.256701,
     "geom:longitude":-92.011101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Saint Leo St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203314953,
-    "wof:lastmodified":1449026793,
+    "wof:lastmodified":1466539422,
     "wof:name":"St Leo-Seton Elementary",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-92.011101,30.256701,-92.011101,30.256701],
+  "bbox": [
+    -92.011101,
+    30.256701,
+    -92.011101,
+    30.256701
+],
   "geometry": {"coordinates":[-92.011101,30.256701],"type":"Point"}
 }

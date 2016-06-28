@@ -2,13 +2,14 @@
   "id": 203400779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.644123,31.632615,-93.644123,31.632615",
     "geom:latitude":31.632615,
     "geom:longitude":-93.644123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Hammond St",
     "sg:city":"Zwolle",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203400779,
-    "wof:lastmodified":1449025118,
+    "wof:lastmodified":1466541061,
     "wof:name":"North Sabine Fire Protection District",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "automatic"
     ]
 },
-  "bbox": [-93.644123,31.632615,-93.644123,31.632615],
-  "geometry": {"coordinates":[-93.644123,31.632615],"type":"Point"}
+  "bbox": [
+    -93.644123,
+    31.632615,
+    -93.644123,
+    31.632615
+],
+  "geometry": {"coordinates":[-93.64412299999999,31.632615],"type":"Point"}
 }

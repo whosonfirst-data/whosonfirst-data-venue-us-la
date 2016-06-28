@@ -2,13 +2,14 @@
   "id": 203304359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.053398,30.201,-91.053398,30.201",
     "geom:latitude":30.201,
     "geom:longitude":-91.053398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9519 Highway 405",
     "sg:city":"Donaldsonville",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203304359,
-    "wof:lastmodified":1449026373,
+    "wof:lastmodified":1466539394,
     "wof:name":"St Mary's Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.053398,30.201,-91.053398,30.201],
+  "bbox": [
+    -91.053398,
+    30.201,
+    -91.053398,
+    30.201
+],
   "geometry": {"coordinates":[-91.053398,30.201],"type":"Point"}
 }

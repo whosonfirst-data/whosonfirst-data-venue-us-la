@@ -2,13 +2,14 @@
   "id": 203186257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.051538,29.91223,-90.051538,29.91223",
     "geom:latitude":29.91223,
     "geom:longitude":-90.051538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"#4 Westbank Expressway",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203186257,
-    "wof:lastmodified":1449026417,
+    "wof:lastmodified":1466540975,
     "wof:name":"U-haul",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-90.051538,29.91223,-90.051538,29.91223],
-  "geometry": {"coordinates":[-90.051538,29.91223],"type":"Point"}
+  "bbox": [
+    -90.051538,
+    29.91223,
+    -90.051538,
+    29.91223
+],
+  "geometry": {"coordinates":[-90.05153799999999,29.91223],"type":"Point"}
 }

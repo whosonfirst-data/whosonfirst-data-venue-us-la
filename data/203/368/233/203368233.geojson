@@ -2,13 +2,14 @@
   "id": 203368233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.937432,32.691791,-93.937432,32.691791",
     "geom:latitude":32.691791,
     "geom:longitude":-93.937432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9915 Highway 1",
     "sg:city":"Mooringsport",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203368233,
-    "wof:lastmodified":1449025377,
+    "wof:lastmodified":1466539493,
     "wof:name":"Lewis Mayer Evangelistic Association",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "churches-covenant"
     ]
 },
-  "bbox": [-93.937432,32.691791,-93.937432,32.691791],
+  "bbox": [
+    -93.937432,
+    32.691791,
+    -93.937432,
+    32.691791
+],
   "geometry": {"coordinates":[-93.937432,32.691791],"type":"Point"}
 }

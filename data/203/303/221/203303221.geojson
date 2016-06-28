@@ -2,13 +2,14 @@
   "id": 203303221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.811012,29.80645,-90.811012,29.80645",
     "geom:latitude":29.80645,
     "geom:longitude":-90.811012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Hermitage Dr",
     "sg:city":"Thibodaux",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203303221,
-    "wof:lastmodified":1449024950,
+    "wof:lastmodified":1466539391,
     "wof:name":"Tt Painting Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.811012,29.80645,-90.811012,29.80645],
-  "geometry": {"coordinates":[-90.811012,29.80645],"type":"Point"}
+  "bbox": [
+    -90.811012,
+    29.80645,
+    -90.811012,
+    29.80645
+],
+  "geometry": {"coordinates":[-90.81101200000001,29.80645],"type":"Point"}
 }

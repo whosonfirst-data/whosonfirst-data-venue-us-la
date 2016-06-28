@@ -2,13 +2,14 @@
   "id": 203282495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.939583,30.021973,-89.939583,30.021973",
     "geom:latitude":30.021973,
     "geom:longitude":-89.939583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2441 Paris Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203282495,
-    "wof:lastmodified":1449026137,
+    "wof:lastmodified":1466539366,
     "wof:name":"Planet X Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "video"
     ]
 },
-  "bbox": [-89.939583,30.021973,-89.939583,30.021973],
+  "bbox": [
+    -89.939583,
+    30.021973,
+    -89.939583,
+    30.021973
+],
   "geometry": {"coordinates":[-89.939583,30.021973],"type":"Point"}
 }

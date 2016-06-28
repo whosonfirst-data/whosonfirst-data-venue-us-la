@@ -2,13 +2,14 @@
   "id": 203273459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.0093,30.010599,-90.0093,30.010599",
     "geom:latitude":30.010599,
     "geom:longitude":-90.0093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6757 Brutus St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203273459,
-    "wof:lastmodified":1449025913,
+    "wof:lastmodified":1466539347,
     "wof:name":"Rosedale Missionary Baptist Church",
     "wof:parent_id":85866169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.0093,30.010599,-90.0093,30.010599],
+  "bbox": [
+    -90.0093,
+    30.010599,
+    -90.0093,
+    30.010599
+],
   "geometry": {"coordinates":[-90.0093,30.010599],"type":"Point"}
 }

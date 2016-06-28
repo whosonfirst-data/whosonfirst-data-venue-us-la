@@ -2,13 +2,14 @@
   "id": 203255755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.062809,29.956694,-90.062809,29.956694",
     "geom:latitude":29.956694,
     "geom:longitude":-90.062809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 St. Peter St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203255755,
-    "wof:lastmodified":1449025772,
+    "wof:lastmodified":1466539330,
     "wof:name":"The Corner Oyster House",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cajun/creole"
     ]
 },
-  "bbox": [-90.062809,29.956694,-90.062809,29.956694],
+  "bbox": [
+    -90.062809,
+    29.956694,
+    -90.062809,
+    29.956694
+],
   "geometry": {"coordinates":[-90.062809,29.956694],"type":"Point"}
 }

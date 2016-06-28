@@ -2,13 +2,14 @@
   "id": 203323449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.999599,30.168117,-91.999599,30.168117",
     "geom:latitude":30.168117,
     "geom:longitude":-91.999599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3138 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203323449,
-    "wof:lastmodified":1449025097,
+    "wof:lastmodified":1466539429,
     "wof:name":"Triumph Auto Glass",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "glass"
     ]
 },
-  "bbox": [-91.999599,30.168117,-91.999599,30.168117],
+  "bbox": [
+    -91.999599,
+    30.168117,
+    -91.999599,
+    30.168117
+],
   "geometry": {"coordinates":[-91.999599,30.168117],"type":"Point"}
 }

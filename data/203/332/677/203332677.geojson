@@ -2,13 +2,14 @@
   "id": 203332677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.048062,30.317813,-92.048062,30.317813",
     "geom:latitude":30.317813,
     "geom:longitude":-92.048062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 N Saint John St",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203332677,
-    "wof:lastmodified":1449026007,
+    "wof:lastmodified":1466539450,
     "wof:name":"Richard Elaine Hudson CPA Apac",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-92.048062,30.317813,-92.048062,30.317813],
+  "bbox": [
+    -92.048062,
+    30.317813,
+    -92.048062,
+    30.317813
+],
   "geometry": {"coordinates":[-92.048062,30.317813],"type":"Point"}
 }

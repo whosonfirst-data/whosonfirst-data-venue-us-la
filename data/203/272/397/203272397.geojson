@@ -2,13 +2,14 @@
   "id": 203272397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.060825,30.023181,-90.060825,30.023181",
     "geom:latitude":30.023181,
     "geom:longitude":-90.060825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 Elysian Fields Ave Ste 406",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203272397,
-    "wof:lastmodified":1449026751,
+    "wof:lastmodified":1466539351,
     "wof:name":"Robichaux J Van Attorney At Law",
     "wof:parent_id":85829223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-90.060825,30.023181,-90.060825,30.023181],
-  "geometry": {"coordinates":[-90.060825,30.023181],"type":"Point"}
+  "bbox": [
+    -90.060825,
+    30.023181,
+    -90.060825,
+    30.023181
+],
+  "geometry": {"coordinates":[-90.06082499999999,30.023181],"type":"Point"}
 }

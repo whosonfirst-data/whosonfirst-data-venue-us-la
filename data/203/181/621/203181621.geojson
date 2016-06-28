@@ -2,13 +2,14 @@
   "id": 203181621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.956125,29.939583,-89.956125,29.939583",
     "geom:latitude":29.939583,
     "geom:longitude":-89.956125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"922 E Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203181621,
-    "wof:lastmodified":1449026096,
+    "wof:lastmodified":1466540911,
     "wof:name":"T Mac Construction",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-89.956125,29.939583,-89.956125,29.939583],
+  "bbox": [
+    -89.956125,
+    29.939583,
+    -89.956125,
+    29.939583
+],
   "geometry": {"coordinates":[-89.956125,29.939583],"type":"Point"}
 }

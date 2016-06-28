@@ -2,13 +2,14 @@
   "id": 203204361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030998,29.889,-90.030998,29.889",
     "geom:latitude":29.889,
     "geom:longitude":-90.030998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Meadowcrest St Ste 200",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203204361,
-    "wof:lastmodified":1449026899,
+    "wof:lastmodified":1466539267,
     "wof:name":"Ross E B Jr MD Phys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "nose"
     ]
 },
-  "bbox": [-90.030998,29.889,-90.030998,29.889],
+  "bbox": [
+    -90.030998,
+    29.889,
+    -90.030998,
+    29.889
+],
   "geometry": {"coordinates":[-90.030998,29.889],"type":"Point"}
 }

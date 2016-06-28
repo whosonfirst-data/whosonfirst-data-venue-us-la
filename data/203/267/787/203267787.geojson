@@ -2,13 +2,14 @@
   "id": 203267787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049894,29.96566,-90.049894,29.96566",
     "geom:latitude":29.96566,
     "geom:longitude":-90.049894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2725 Dauphine St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203267787,
-    "wof:lastmodified":1449026693,
+    "wof:lastmodified":1466539351,
     "wof:name":"Zimmermann Property Services Inc",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-90.049894,29.96566,-90.049894,29.96566],
-  "geometry": {"coordinates":[-90.049894,29.96566],"type":"Point"}
+  "bbox": [
+    -90.049894,
+    29.96566,
+    -90.049894,
+    29.96566
+],
+  "geometry": {"coordinates":[-90.04989399999999,29.96566],"type":"Point"}
 }

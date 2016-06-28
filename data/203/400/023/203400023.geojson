@@ -2,13 +2,14 @@
   "id": 203400023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.781891,31.841651,-93.781891,31.841651",
     "geom:latitude":31.841651,
     "geom:longitude":-93.781891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 Campbell Rd",
     "sg:city":"Converse",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203400023,
-    "wof:lastmodified":1449025123,
+    "wof:lastmodified":1466541055,
     "wof:name":"Ron Knott & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-93.781891,31.841651,-93.781891,31.841651],
+  "bbox": [
+    -93.781891,
+    31.841651,
+    -93.781891,
+    31.841651
+],
   "geometry": {"coordinates":[-93.781891,31.841651],"type":"Point"}
 }

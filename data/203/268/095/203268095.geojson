@@ -2,13 +2,14 @@
   "id": 203268095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.052091,29.977245,-90.052091,29.977245",
     "geom:latitude":29.977245,
     "geom:longitude":-90.052091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1927 Saint Roch Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203268095,
-    "wof:lastmodified":1449026031,
+    "wof:lastmodified":1466539337,
     "wof:name":"Orleans Parish School Board",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-90.052091,29.977245,-90.052091,29.977245],
+  "bbox": [
+    -90.052091,
+    29.977245,
+    -90.052091,
+    29.977245
+],
   "geometry": {"coordinates":[-90.052091,29.977245],"type":"Point"}
 }

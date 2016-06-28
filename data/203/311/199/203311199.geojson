@@ -2,13 +2,14 @@
   "id": 203311199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.004659,30.230336,-92.004659,30.230336",
     "geom:latitude":30.230336,
     "geom:longitude":-92.004659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E Simcoe St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203311199,
-    "wof:lastmodified":1449025379,
+    "wof:lastmodified":1466539404,
     "wof:name":"Golden Flamigo Nightclub",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-92.004659,30.230336,-92.004659,30.230336],
+  "bbox": [
+    -92.004659,
+    30.230336,
+    -92.004659,
+    30.230336
+],
   "geometry": {"coordinates":[-92.004659,30.230336],"type":"Point"}
 }

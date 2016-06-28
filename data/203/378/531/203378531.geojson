@@ -2,13 +2,14 @@
   "id": 203378531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.744204,32.509818,-93.744204,32.509818",
     "geom:latitude":32.509818,
     "geom:longitude":-93.744204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Franklin St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203378531,
-    "wof:lastmodified":1449026252,
+    "wof:lastmodified":1466539507,
     "wof:name":"R & D Cycles",
     "wof:parent_id":85880977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "motor"
     ]
 },
-  "bbox": [-93.744204,32.509818,-93.744204,32.509818],
+  "bbox": [
+    -93.744204,
+    32.509818,
+    -93.744204,
+    32.509818
+],
   "geometry": {"coordinates":[-93.744204,32.509818],"type":"Point"}
 }

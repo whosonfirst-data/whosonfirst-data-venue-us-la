@@ -2,13 +2,14 @@
   "id": 203264557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.056961,29.972713,-90.056961,29.972713",
     "geom:latitude":29.972713,
     "geom:longitude":-90.056961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1521 Elysian Fields",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203264557,
-    "wof:lastmodified":1449026211,
+    "wof:lastmodified":1466539335,
     "wof:name":"InTown Market",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.056961,29.972713,-90.056961,29.972713],
+  "bbox": [
+    -90.056961,
+    29.972713,
+    -90.056961,
+    29.972713
+],
   "geometry": {"coordinates":[-90.056961,29.972713],"type":"Point"}
 }

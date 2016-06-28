@@ -2,13 +2,14 @@
   "id": 203313211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.9888,30.2451,-91.9888,30.2451",
     "geom:latitude":30.2451,
     "geom:longitude":-91.9888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 Teurlings Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203313211,
-    "wof:lastmodified":1449025007,
+    "wof:lastmodified":1466539404,
     "wof:name":"St Genevieve Church Cemetery",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cemetery"
     ]
 },
-  "bbox": [-91.9888,30.2451,-91.9888,30.2451],
+  "bbox": [
+    -91.9888,
+    30.2451,
+    -91.9888,
+    30.2451
+],
   "geometry": {"coordinates":[-91.9888,30.2451],"type":"Point"}
 }

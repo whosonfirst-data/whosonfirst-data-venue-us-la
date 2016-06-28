@@ -2,13 +2,14 @@
   "id": 203331651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.051697,30.317801,-92.051697,30.317801",
     "geom:latitude":30.317801,
     "geom:longitude":-92.051697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Saint Peter St",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203331651,
-    "wof:lastmodified":1449026093,
+    "wof:lastmodified":1466539451,
     "wof:name":"Carencro Catholic School",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-92.051697,30.317801,-92.051697,30.317801],
+  "bbox": [
+    -92.051697,
+    30.317801,
+    -92.051697,
+    30.317801
+],
   "geometry": {"coordinates":[-92.051697,30.317801],"type":"Point"}
 }

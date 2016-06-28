@@ -2,13 +2,14 @@
   "id": 203304541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.7647,29.650416,-90.7647,29.650416",
     "geom:latitude":29.650416,
     "geom:longitude":-90.7647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Irma St",
     "sg:city":"Houma",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203304541,
-    "wof:lastmodified":1449026372,
+    "wof:lastmodified":1466539398,
     "wof:name":"Norma P Ledet Notary Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "public"
     ]
 },
-  "bbox": [-90.7647,29.650416,-90.7647,29.650416],
+  "bbox": [
+    -90.7647,
+    29.650416,
+    -90.7647,
+    29.650416
+],
   "geometry": {"coordinates":[-90.7647,29.650416],"type":"Point"}
 }

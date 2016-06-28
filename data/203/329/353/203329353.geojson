@@ -2,13 +2,14 @@
   "id": 203329353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.957978,30.138373,-91.957978,30.138373",
     "geom:latitude":30.138373,
     "geom:longitude":-91.957978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Albertson Pkwy Ste l",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203329353,
-    "wof:lastmodified":1449025432,
+    "wof:lastmodified":1466539441,
     "wof:name":"Megabyte Technology LLC",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "web"
     ]
 },
-  "bbox": [-91.957978,30.138373,-91.957978,30.138373],
+  "bbox": [
+    -91.957978,
+    30.138373,
+    -91.957978,
+    30.138373
+],
   "geometry": {"coordinates":[-91.957978,30.138373],"type":"Point"}
 }

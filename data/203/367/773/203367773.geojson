@@ -2,13 +2,14 @@
   "id": 203367773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.003548,31.972715,-94.003548,31.972715",
     "geom:latitude":31.972715,
     "geom:longitude":-94.003548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 3rd St",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203367773,
-    "wof:lastmodified":1449026069,
+    "wof:lastmodified":1466539495,
     "wof:name":"C & C Auto Trim & Upholstery Shop",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.003548,31.972715,-94.003548,31.972715],
-  "geometry": {"coordinates":[-94.003548,31.972715],"type":"Point"}
+  "bbox": [
+    -94.003548,
+    31.972715,
+    -94.003548,
+    31.972715
+],
+  "geometry": {"coordinates":[-94.00354799999999,31.972715],"type":"Point"}
 }

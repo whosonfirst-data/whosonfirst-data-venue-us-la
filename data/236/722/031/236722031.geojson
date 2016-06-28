@@ -2,13 +2,14 @@
   "id": 236722031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.026526,32.876743,-94.026526,32.876743",
     "geom:latitude":32.876743,
     "geom:longitude":-94.026526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10595 Upper State Line Rd",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236722031,
-    "wof:lastmodified":1449002673,
+    "wof:lastmodified":1466541055,
     "wof:name":"Hy-Rail Equipment & Hydraulics",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "railroad"
     ]
 },
-  "bbox": [-94.026526,32.876743,-94.026526,32.876743],
+  "bbox": [
+    -94.026526,
+    32.876743,
+    -94.026526,
+    32.876743
+],
   "geometry": {"coordinates":[-94.026526,32.876743],"type":"Point"}
 }

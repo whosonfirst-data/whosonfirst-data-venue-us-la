@@ -2,13 +2,14 @@
   "id": 203367395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.98787,31.974639,-93.98787,31.974639",
     "geom:latitude":31.974639,
     "geom:longitude":-93.98787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 Main St",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203367395,
-    "wof:lastmodified":1449026071,
+    "wof:lastmodified":1466539489,
     "wof:name":"The Chop Shop",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.98787,31.974639,-93.98787,31.974639],
+  "bbox": [
+    -93.98787,
+    31.974639,
+    -93.98787,
+    31.974639
+],
   "geometry": {"coordinates":[-93.98787,31.974639],"type":"Point"}
 }

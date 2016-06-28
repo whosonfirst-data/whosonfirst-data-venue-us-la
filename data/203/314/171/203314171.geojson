@@ -2,13 +2,14 @@
   "id": 203314171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.0093,30.2285,-92.0093,30.2285",
     "geom:latitude":30.2285,
     "geom:longitude":-92.0093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 S Sterling St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203314171,
-    "wof:lastmodified":1449026796,
+    "wof:lastmodified":1466539405,
     "wof:name":"Adventures In Learning",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-92.0093,30.2285,-92.0093,30.2285],
+  "bbox": [
+    -92.0093,
+    30.2285,
+    -92.0093,
+    30.2285
+],
   "geometry": {"coordinates":[-92.0093,30.2285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203264863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.019699,29.962299,-90.019699,29.962299",
     "geom:latitude":29.962299,
     "geom:longitude":-90.019699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5229 Saint Claude Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203264863,
-    "wof:lastmodified":1449026210,
+    "wof:lastmodified":1466539340,
     "wof:name":"Mark's Muffler Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.019699,29.962299,-90.019699,29.962299],
+  "bbox": [
+    -90.019699,
+    29.962299,
+    -90.019699,
+    29.962299
+],
   "geometry": {"coordinates":[-90.019699,29.962299],"type":"Point"}
 }

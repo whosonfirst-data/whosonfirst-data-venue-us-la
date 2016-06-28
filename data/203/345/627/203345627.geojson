@@ -2,13 +2,14 @@
   "id": 203345627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.820297,30.124201,-91.820297,30.124201",
     "geom:latitude":30.124201,
     "geom:longitude":-91.820297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"823 E Bridge St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203345627,
-    "wof:lastmodified":1449026720,
+    "wof:lastmodified":1466539464,
     "wof:name":"Bulliard Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-91.820297,30.124201,-91.820297,30.124201],
+  "bbox": [
+    -91.820297,
+    30.124201,
+    -91.820297,
+    30.124201
+],
   "geometry": {"coordinates":[-91.820297,30.124201],"type":"Point"}
 }

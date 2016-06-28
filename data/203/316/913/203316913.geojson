@@ -2,13 +2,14 @@
   "id": 203316913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.060778,30.230623,-92.060778,30.230623",
     "geom:latitude":30.230623,
     "geom:longitude":-92.060778,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Banks Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203316913,
-    "wof:lastmodified":1449026265,
+    "wof:lastmodified":1466539426,
     "wof:name":"Johnson Supply",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.060778,30.230623,-92.060778,30.230623],
+  "bbox": [
+    -92.060778,
+    30.230623,
+    -92.060778,
+    30.230623
+],
   "geometry": {"coordinates":[-92.060778,30.230623],"type":"Point"}
 }

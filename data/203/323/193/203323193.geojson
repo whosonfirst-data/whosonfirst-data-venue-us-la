@@ -2,13 +2,14 @@
   "id": 203323193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.999298,30.1689,-91.999298,30.1689",
     "geom:latitude":30.1689,
     "geom:longitude":-91.999298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3119 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203323193,
-    "wof:lastmodified":1449025097,
+    "wof:lastmodified":1466539425,
     "wof:name":"Kerney's Paint & Body Shop",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-91.999298,30.1689,-91.999298,30.1689],
+  "bbox": [
+    -91.999298,
+    30.1689,
+    -91.999298,
+    30.1689
+],
   "geometry": {"coordinates":[-91.999298,30.1689],"type":"Point"}
 }

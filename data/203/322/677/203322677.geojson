@@ -2,13 +2,14 @@
   "id": 203322677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.9972,30.1647,-91.9972,30.1647",
     "geom:latitude":30.1647,
     "geom:longitude":-91.9972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3322 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203322677,
-    "wof:lastmodified":1449024923,
+    "wof:lastmodified":1466539432,
     "wof:name":"Record Keeper & Supply Inc",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-91.9972,30.1647,-91.9972,30.1647],
-  "geometry": {"coordinates":[-91.9972,30.1647],"type":"Point"}
+  "bbox": [
+    -91.9972,
+    30.1647,
+    -91.9972,
+    30.1647
+],
+  "geometry": {"coordinates":[-91.99720000000001,30.1647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203316803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.042397,30.232201,-92.042397,30.232201",
     "geom:latitude":30.232201,
     "geom:longitude":-92.042397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2315 Cameron St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203316803,
-    "wof:lastmodified":1449026270,
+    "wof:lastmodified":1466539421,
     "wof:name":"A-1 Radiator Service Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.042397,30.232201,-92.042397,30.232201],
-  "geometry": {"coordinates":[-92.042397,30.232201],"type":"Point"}
+  "bbox": [
+    -92.042397,
+    30.232201,
+    -92.042397,
+    30.232201
+],
+  "geometry": {"coordinates":[-92.04239699999999,30.232201],"type":"Point"}
 }

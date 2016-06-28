@@ -2,13 +2,14 @@
   "id": 203398739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.238007,32.901334,-92.238007,32.901334",
     "geom:latitude":32.901334,
     "geom:longitude":-92.238007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Powell St",
     "sg:city":"Marion",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203398739,
-    "wof:lastmodified":1449025084,
+    "wof:lastmodified":1466539525,
     "wof:name":"First Baptist Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-92.238007,32.901334,-92.238007,32.901334],
+  "bbox": [
+    -92.238007,
+    32.901334,
+    -92.238007,
+    32.901334
+],
   "geometry": {"coordinates":[-92.238007,32.901334],"type":"Point"}
 }

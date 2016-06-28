@@ -2,13 +2,14 @@
   "id": 203399059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.420589,31.324195,-92.420589,31.324195",
     "geom:latitude":31.324195,
     "geom:longitude":-92.420589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1935 Melrose St",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203399059,
-    "wof:lastmodified":1449025278,
+    "wof:lastmodified":1466539522,
     "wof:name":"Cenla Body Parts",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.420589,31.324195,-92.420589,31.324195],
-  "geometry": {"coordinates":[-92.420589,31.324195],"type":"Point"}
+  "bbox": [
+    -92.420589,
+    31.324195,
+    -92.420589,
+    31.324195
+],
+  "geometry": {"coordinates":[-92.42058900000001,31.324195],"type":"Point"}
 }

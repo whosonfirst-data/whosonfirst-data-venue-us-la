@@ -2,13 +2,14 @@
   "id": 203194059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.066138,29.915635,-90.066138,29.915635",
     "geom:latitude":29.915635,
     "geom:longitude":-90.066138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Weyer St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203194059,
-    "wof:lastmodified":1449026580,
+    "wof:lastmodified":1466539252,
     "wof:name":"Miles Terri M",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "family"
     ]
 },
-  "bbox": [-90.066138,29.915635,-90.066138,29.915635],
+  "bbox": [
+    -90.066138,
+    29.915635,
+    -90.066138,
+    29.915635
+],
   "geometry": {"coordinates":[-90.066138,29.915635],"type":"Point"}
 }

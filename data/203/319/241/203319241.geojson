@@ -2,13 +2,14 @@
   "id": 203319241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.036301,30.297701,-92.036301,30.297701",
     "geom:latitude":30.297701,
     "geom:longitude":-92.036301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 W Gloria Switch Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203319241,
-    "wof:lastmodified":1449025694,
+    "wof:lastmodified":1466539420,
     "wof:name":"A 1 Affordabe Siding",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.036301,30.297701,-92.036301,30.297701],
-  "geometry": {"coordinates":[-92.036301,30.297701],"type":"Point"}
+  "bbox": [
+    -92.036301,
+    30.297701,
+    -92.036301,
+    30.297701
+],
+  "geometry": {"coordinates":[-92.03630099999999,30.297701],"type":"Point"}
 }

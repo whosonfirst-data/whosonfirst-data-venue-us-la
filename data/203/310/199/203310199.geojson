@@ -2,13 +2,14 @@
   "id": 203310199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.006599,30.2449,-92.006599,30.2449",
     "geom:latitude":30.2449,
     "geom:longitude":-92.006599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1419 Moss St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203310199,
-    "wof:lastmodified":1449026104,
+    "wof:lastmodified":1466539398,
     "wof:name":"Thrifty Way Pharmacy of Louisiana No 17",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-92.006599,30.2449,-92.006599,30.2449],
-  "geometry": {"coordinates":[-92.006599,30.2449],"type":"Point"}
+  "bbox": [
+    -92.006599,
+    30.2449,
+    -92.006599,
+    30.2449
+],
+  "geometry": {"coordinates":[-92.00659899999999,30.2449],"type":"Point"}
 }

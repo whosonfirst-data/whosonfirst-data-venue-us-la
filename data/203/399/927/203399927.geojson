@@ -2,13 +2,14 @@
   "id": 203399927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.690788,31.489289,-93.690788,31.489289",
     "geom:latitude":31.489289,
     "geom:longitude":-93.690788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 le Vander Rd",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203399927,
-    "wof:lastmodified":1449025281,
+    "wof:lastmodified":1466541064,
     "wof:name":"Lakehouse Labuff",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.690788,31.489289,-93.690788,31.489289],
+  "bbox": [
+    -93.690788,
+    31.489289,
+    -93.690788,
+    31.489289
+],
   "geometry": {"coordinates":[-93.690788,31.489289],"type":"Point"}
 }

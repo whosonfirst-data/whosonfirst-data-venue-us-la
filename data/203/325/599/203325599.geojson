@@ -2,13 +2,14 @@
   "id": 203325599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.939808,30.094503,-91.939808,30.094503",
     "geom:latitude":30.094503,
     "geom:longitude":-91.939808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1008 Smede Hwy Lot E",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203325599,
-    "wof:lastmodified":1449025655,
+    "wof:lastmodified":1466539435,
     "wof:name":"Manuel Charles C DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.939808,30.094503,-91.939808,30.094503],
+  "bbox": [
+    -91.939808,
+    30.094503,
+    -91.939808,
+    30.094503
+],
   "geometry": {"coordinates":[-91.939808,30.094503],"type":"Point"}
 }

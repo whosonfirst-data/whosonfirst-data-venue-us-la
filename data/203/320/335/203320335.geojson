@@ -2,13 +2,14 @@
   "id": 203320335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.033401,30.253799,-92.033401,30.253799",
     "geom:latitude":30.253799,
     "geom:longitude":-92.033401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Haydite Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203320335,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1466539421,
     "wof:name":"The Family Church",
     "wof:parent_id":85835903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.033401,30.253799,-92.033401,30.253799],
+  "bbox": [
+    -92.033401,
+    30.253799,
+    -92.033401,
+    30.253799
+],
   "geometry": {"coordinates":[-92.033401,30.253799],"type":"Point"}
 }

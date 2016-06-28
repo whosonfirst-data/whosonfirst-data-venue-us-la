@@ -2,13 +2,14 @@
   "id": 203371327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.464599,32.998765,-93.464599,32.998765",
     "geom:latitude":32.998765,
     "geom:longitude":-93.464599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Arkansas St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203371327,
-    "wof:lastmodified":1449026407,
+    "wof:lastmodified":1466539491,
     "wof:name":"Cassaroles Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "american"
     ]
 },
-  "bbox": [-93.464599,32.998765,-93.464599,32.998765],
-  "geometry": {"coordinates":[-93.464599,32.998765],"type":"Point"}
+  "bbox": [
+    -93.464599,
+    32.998765,
+    -93.464599,
+    32.998765
+],
+  "geometry": {"coordinates":[-93.46459900000001,32.998765],"type":"Point"}
 }

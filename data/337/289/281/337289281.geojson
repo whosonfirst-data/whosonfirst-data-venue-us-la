@@ -2,13 +2,14 @@
   "id": 337289281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.797253,32.494765,-93.797253,32.494765",
     "geom:latitude":32.494765,
     "geom:longitude":-93.797253,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1812 Jewella Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":337289281,
-    "wof:lastmodified":1449027607,
+    "wof:lastmodified":1466539527,
     "wof:name":"Wellington Square Apartments",
     "wof:parent_id":85881003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.797253,32.494765,-93.797253,32.494765],
+  "bbox": [
+    -93.797253,
+    32.494765,
+    -93.797253,
+    32.494765
+],
   "geometry": {"coordinates":[-93.797253,32.494765],"type":"Point"}
 }

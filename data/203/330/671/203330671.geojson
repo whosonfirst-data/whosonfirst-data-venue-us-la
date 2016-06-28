@@ -2,13 +2,14 @@
   "id": 203330671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.038002,30.3517,-92.038002,30.3517",
     "geom:latitude":30.3517,
     "geom:longitude":-92.038002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Prejean Rd Ofc",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203330671,
-    "wof:lastmodified":1449025880,
+    "wof:lastmodified":1466539450,
     "wof:name":"Woodstone Apartments",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-92.038002,30.3517,-92.038002,30.3517],
-  "geometry": {"coordinates":[-92.038002,30.3517],"type":"Point"}
+  "bbox": [
+    -92.038002,
+    30.3517,
+    -92.038002,
+    30.3517
+],
+  "geometry": {"coordinates":[-92.03800200000001,30.3517],"type":"Point"}
 }

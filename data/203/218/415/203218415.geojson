@@ -2,13 +2,14 @@
   "id": 203218415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.031651,29.880851,-90.031651,29.880851",
     "geom:latitude":29.880851,
     "geom:longitude":-90.031651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Wall Blvd",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203218415,
-    "wof:lastmodified":1449026173,
+    "wof:lastmodified":1466539284,
     "wof:name":"Fantastic Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.031651,29.880851,-90.031651,29.880851],
+  "bbox": [
+    -90.031651,
+    29.880851,
+    -90.031651,
+    29.880851
+],
   "geometry": {"coordinates":[-90.031651,29.880851],"type":"Point"}
 }

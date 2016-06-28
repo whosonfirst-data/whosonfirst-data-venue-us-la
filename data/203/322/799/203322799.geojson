@@ -2,13 +2,14 @@
   "id": 203322799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.990997,30.153601,-91.990997,30.153601",
     "geom:latitude":30.153601,
     "geom:longitude":-91.990997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Youngsville Hwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203322799,
-    "wof:lastmodified":1449024926,
+    "wof:lastmodified":1466539437,
     "wof:name":"Kart Ranch",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "party"
     ]
 },
-  "bbox": [-91.990997,30.153601,-91.990997,30.153601],
-  "geometry": {"coordinates":[-91.990997,30.153601],"type":"Point"}
+  "bbox": [
+    -91.990997,
+    30.153601,
+    -91.990997,
+    30.153601
+],
+  "geometry": {"coordinates":[-91.99099699999999,30.153601],"type":"Point"}
 }

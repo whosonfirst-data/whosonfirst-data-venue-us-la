@@ -2,13 +2,14 @@
   "id": 203380753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.750708,32.576044,-93.750708,32.576044",
     "geom:latitude":32.576044,
     "geom:longitude":-93.750708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4149 George Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203380753,
-    "wof:lastmodified":1449025793,
+    "wof:lastmodified":1466539511,
     "wof:name":"K I O U Radiod",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-93.750708,32.576044,-93.750708,32.576044],
+  "bbox": [
+    -93.750708,
+    32.576044,
+    -93.750708,
+    32.576044
+],
   "geometry": {"coordinates":[-93.750708,32.576044],"type":"Point"}
 }

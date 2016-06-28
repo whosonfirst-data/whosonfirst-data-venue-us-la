@@ -2,13 +2,14 @@
   "id": 203397809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.578993,32.966312,-91.578993,32.966312",
     "geom:latitude":32.966312,
     "geom:longitude":-91.578993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15592 Doles Rd",
     "sg:city":"Jones",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203397809,
-    "wof:lastmodified":1449025673,
+    "wof:lastmodified":1466539525,
     "wof:name":"Leland Pruitt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "crop"
     ]
 },
-  "bbox": [-91.578993,32.966312,-91.578993,32.966312],
+  "bbox": [
+    -91.578993,
+    32.966312,
+    -91.578993,
+    32.966312
+],
   "geometry": {"coordinates":[-91.578993,32.966312],"type":"Point"}
 }

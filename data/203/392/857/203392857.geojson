@@ -2,13 +2,14 @@
   "id": 203392857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.894563,32.408463,-93.894563,32.408463",
     "geom:latitude":32.408463,
     "geom:longitude":-93.894563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 Buncombe Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203392857,
-    "wof:lastmodified":1449026457,
+    "wof:lastmodified":1466539522,
     "wof:name":"Graceway Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "denomination"
     ]
 },
-  "bbox": [-93.894563,32.408463,-93.894563,32.408463],
-  "geometry": {"coordinates":[-93.894563,32.408463],"type":"Point"}
+  "bbox": [
+    -93.894563,
+    32.408463,
+    -93.894563,
+    32.408463
+],
+  "geometry": {"coordinates":[-93.89456300000001,32.408463],"type":"Point"}
 }

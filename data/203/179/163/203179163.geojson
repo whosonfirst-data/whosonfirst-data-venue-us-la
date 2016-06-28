@@ -2,13 +2,14 @@
   "id": 203179163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.965649,29.938802,-89.965649,29.938802",
     "geom:latitude":29.938802,
     "geom:longitude":-89.965649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Paris Rd",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203179163,
-    "wof:lastmodified":1449026678,
+    "wof:lastmodified":1466540873,
     "wof:name":"Wightman Family Dental",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.965649,29.938802,-89.965649,29.938802],
+  "bbox": [
+    -89.965649,
+    29.938802,
+    -89.965649,
+    29.938802
+],
   "geometry": {"coordinates":[-89.965649,29.938802],"type":"Point"}
 }

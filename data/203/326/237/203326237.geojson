@@ -2,13 +2,14 @@
   "id": 203326237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.973198,30.1639,-91.973198,30.1639",
     "geom:latitude":30.1639,
     "geom:longitude":-91.973198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Nolan Rd",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203326237,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466539427,
     "wof:name":"Shannon Hardware Co Ltd",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-91.973198,30.1639,-91.973198,30.1639],
+  "bbox": [
+    -91.973198,
+    30.1639,
+    -91.973198,
+    30.1639
+],
   "geometry": {"coordinates":[-91.973198,30.1639],"type":"Point"}
 }

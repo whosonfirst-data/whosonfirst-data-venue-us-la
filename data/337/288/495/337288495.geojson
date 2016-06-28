@@ -2,13 +2,14 @@
   "id": 337288495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064643,29.954249,-90.064643,29.954249",
     "geom:latitude":29.954249,
     "geom:longitude":-90.064643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 N Peters St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":337288495,
-    "wof:lastmodified":1449027025,
+    "wof:lastmodified":1466541061,
     "wof:name":"Peaches Records",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dvd's"
     ]
 },
-  "bbox": [-90.064643,29.954249,-90.064643,29.954249],
+  "bbox": [
+    -90.064643,
+    29.954249,
+    -90.064643,
+    29.954249
+],
   "geometry": {"coordinates":[-90.064643,29.954249],"type":"Point"}
 }

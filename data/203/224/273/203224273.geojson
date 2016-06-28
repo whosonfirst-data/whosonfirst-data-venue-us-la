@@ -2,13 +2,14 @@
   "id": 203224273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064355,29.901023,-90.064355,29.901023",
     "geom:latitude":29.901023,
     "geom:longitude":-90.064355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Manhattan Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203224273,
-    "wof:lastmodified":1449026355,
+    "wof:lastmodified":1466539284,
     "wof:name":"1st Class Gift Baskets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "art"
     ]
 },
-  "bbox": [-90.064355,29.901023,-90.064355,29.901023],
-  "geometry": {"coordinates":[-90.064355,29.901023],"type":"Point"}
+  "bbox": [
+    -90.064355,
+    29.901023,
+    -90.064355,
+    29.901023
+],
+  "geometry": {"coordinates":[-90.06435500000001,29.901023],"type":"Point"}
 }

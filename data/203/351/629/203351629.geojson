@@ -2,13 +2,14 @@
   "id": 203351629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.082708,30.240733,-92.082708,30.240733",
     "geom:latitude":30.240733,
     "geom:longitude":-92.082708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Credit Drive",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203351629,
-    "wof:lastmodified":1449026562,
+    "wof:lastmodified":1466539479,
     "wof:name":"Service Master of Lafayette",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpet"
     ]
 },
-  "bbox": [-92.082708,30.240733,-92.082708,30.240733],
+  "bbox": [
+    -92.082708,
+    30.240733,
+    -92.082708,
+    30.240733
+],
   "geometry": {"coordinates":[-92.082708,30.240733],"type":"Point"}
 }

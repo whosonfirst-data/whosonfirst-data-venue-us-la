@@ -2,13 +2,14 @@
   "id": 203387487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.795928,32.407988,-93.795928,32.407988",
     "geom:latitude":32.407988,
     "geom:longitude":-93.795928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2637 Lyles Ln",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203387487,
-    "wof:lastmodified":1449026604,
+    "wof:lastmodified":1466539518,
     "wof:name":"Shemika D Breakfield",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.795928,32.407988,-93.795928,32.407988],
+  "bbox": [
+    -93.795928,
+    32.407988,
+    -93.795928,
+    32.407988
+],
   "geometry": {"coordinates":[-93.795928,32.407988],"type":"Point"}
 }

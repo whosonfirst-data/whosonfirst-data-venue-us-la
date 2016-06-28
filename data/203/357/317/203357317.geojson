@@ -2,13 +2,14 @@
   "id": 203357317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.442114,30.232702,-93.442114,30.232702",
     "geom:latitude":30.232702,
     "geom:longitude":-93.442114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 White Acres Dr",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203357317,
-    "wof:lastmodified":1449026636,
+    "wof:lastmodified":1466539476,
     "wof:name":"Perfect Chihuahuas & Shihtzus",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-93.442114,30.232702,-93.442114,30.232702],
+  "bbox": [
+    -93.442114,
+    30.232702,
+    -93.442114,
+    30.232702
+],
   "geometry": {"coordinates":[-93.442114,30.232702],"type":"Point"}
 }

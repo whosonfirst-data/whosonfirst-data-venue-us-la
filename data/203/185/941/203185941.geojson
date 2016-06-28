@@ -2,13 +2,14 @@
   "id": 203185941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.043999,29.919201,-90.043999,29.919201",
     "geom:latitude":29.919201,
     "geom:longitude":-90.043999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Westbank Expy # A",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203185941,
-    "wof:lastmodified":1449025252,
+    "wof:lastmodified":1466540994,
     "wof:name":"Rockin'horse Game Room",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.043999,29.919201,-90.043999,29.919201],
+  "bbox": [
+    -90.043999,
+    29.919201,
+    -90.043999,
+    29.919201
+],
   "geometry": {"coordinates":[-90.043999,29.919201],"type":"Point"}
 }

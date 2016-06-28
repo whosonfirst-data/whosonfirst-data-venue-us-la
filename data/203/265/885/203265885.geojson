@@ -2,13 +2,14 @@
   "id": 203265885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.055569,29.968794,-90.055569,29.968794",
     "geom:latitude":29.968794,
     "geom:longitude":-90.055569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2239 St. Claude Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203265885,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1466539348,
     "wof:name":"Hi Ho Lounge",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.055569,29.968794,-90.055569,29.968794],
-  "geometry": {"coordinates":[-90.055569,29.968794],"type":"Point"}
+  "bbox": [
+    -90.055569,
+    29.968794,
+    -90.055569,
+    29.968794
+],
+  "geometry": {"coordinates":[-90.05556900000001,29.968794],"type":"Point"}
 }

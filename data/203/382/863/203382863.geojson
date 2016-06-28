@@ -2,13 +2,14 @@
   "id": 203382863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.781264,32.446103,-93.781264,32.446103",
     "geom:latitude":32.446103,
     "geom:longitude":-93.781264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2716 Amherst St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203382863,
-    "wof:lastmodified":1449025418,
+    "wof:lastmodified":1466539507,
     "wof:name":"Rw Fence Work",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.781264,32.446103,-93.781264,32.446103],
-  "geometry": {"coordinates":[-93.781264,32.446103],"type":"Point"}
+  "bbox": [
+    -93.781264,
+    32.446103,
+    -93.781264,
+    32.446103
+],
+  "geometry": {"coordinates":[-93.78126399999999,32.446103],"type":"Point"}
 }

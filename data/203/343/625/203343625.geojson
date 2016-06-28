@@ -2,13 +2,14 @@
   "id": 203343625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.830399,30.120199,-91.830399,30.120199",
     "geom:latitude":30.120199,
     "geom:longitude":-91.830399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 S Main St",
     "sg:city":"Saint Martinville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203343625,
-    "wof:lastmodified":1449026315,
+    "wof:lastmodified":1466539458,
     "wof:name":"Thibodeaux Keith E Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.830399,30.120199,-91.830399,30.120199],
+  "bbox": [
+    -91.830399,
+    30.120199,
+    -91.830399,
+    30.120199
+],
   "geometry": {"coordinates":[-91.830399,30.120199],"type":"Point"}
 }

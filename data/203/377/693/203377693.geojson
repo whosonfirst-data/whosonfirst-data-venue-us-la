@@ -2,13 +2,14 @@
   "id": 203377693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.982691,32.873254,-93.982691,32.873254",
     "geom:latitude":32.873254,
     "geom:longitude":-93.982691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 E Tennessee Ave",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203377693,
-    "wof:lastmodified":1449025629,
+    "wof:lastmodified":1466539507,
     "wof:name":"Vivian City Of",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "village"
     ]
 },
-  "bbox": [-93.982691,32.873254,-93.982691,32.873254],
+  "bbox": [
+    -93.982691,
+    32.873254,
+    -93.982691,
+    32.873254
+],
   "geometry": {"coordinates":[-93.982691,32.873254],"type":"Point"}
 }

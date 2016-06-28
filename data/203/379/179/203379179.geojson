@@ -2,13 +2,14 @@
   "id": 203379179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.709096,32.484642,-93.709096,32.484642",
     "geom:latitude":32.484642,
     "geom:longitude":-93.709096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Shreveport Barksdale Hwy",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203379179,
-    "wof:lastmodified":1449026049,
+    "wof:lastmodified":1466539498,
     "wof:name":"Van Benthuysen Bryan",
     "wof:parent_id":85807711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-93.709096,32.484642,-93.709096,32.484642],
+  "bbox": [
+    -93.709096,
+    32.484642,
+    -93.709096,
+    32.484642
+],
   "geometry": {"coordinates":[-93.709096,32.484642],"type":"Point"}
 }

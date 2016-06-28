@@ -2,13 +2,14 @@
   "id": 203376297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.46122,33.000816,-93.46122,33.000816",
     "geom:latitude":33.000816,
     "geom:longitude":-93.46122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 S Main St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203376297,
-    "wof:lastmodified":1449025564,
+    "wof:lastmodified":1466539499,
     "wof:name":"The Dock Masters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-93.46122,33.000816,-93.46122,33.000816],
+  "bbox": [
+    -93.46122,
+    33.000816,
+    -93.46122,
+    33.000816
+],
   "geometry": {"coordinates":[-93.46122,33.000816],"type":"Point"}
 }

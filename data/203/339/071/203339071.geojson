@@ -2,13 +2,14 @@
   "id": 203339071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.878403,29.999701,-91.878403,29.999701",
     "geom:latitude":29.999701,
     "geom:longitude":-91.878403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2318 Highway 90 W",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203339071,
-    "wof:lastmodified":1449025756,
+    "wof:lastmodified":1466539453,
     "wof:name":"Landry's Seafood & Steakhouse of New Iberia",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.878403,29.999701,-91.878403,29.999701],
-  "geometry": {"coordinates":[-91.878403,29.999701],"type":"Point"}
+  "bbox": [
+    -91.878403,
+    29.999701,
+    -91.878403,
+    29.999701
+],
+  "geometry": {"coordinates":[-91.87840300000001,29.999701],"type":"Point"}
 }

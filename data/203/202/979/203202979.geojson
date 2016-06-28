@@ -2,13 +2,14 @@
   "id": 203202979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030098,29.907499,-90.030098,29.907499",
     "geom:latitude":29.907499,
     "geom:longitude":-90.030098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"506 Terry Pkwy Ste C",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203202979,
-    "wof:lastmodified":1449026614,
+    "wof:lastmodified":1466539274,
     "wof:name":"Gold'n Creations",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.030098,29.907499,-90.030098,29.907499],
+  "bbox": [
+    -90.030098,
+    29.907499,
+    -90.030098,
+    29.907499
+],
   "geometry": {"coordinates":[-90.030098,29.907499],"type":"Point"}
 }

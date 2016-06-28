@@ -2,13 +2,14 @@
   "id": 203184965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.984969,29.955525,-89.984969,29.955525",
     "geom:latitude":29.955525,
     "geom:longitude":-89.984969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8342 W Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203184965,
-    "wof:lastmodified":1449025265,
+    "wof:lastmodified":1466540970,
     "wof:name":"St Bernard Eye Care",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"
     ]
 },
-  "bbox": [-89.984969,29.955525,-89.984969,29.955525],
-  "geometry": {"coordinates":[-89.984969,29.955525],"type":"Point"}
+  "bbox": [
+    -89.984969,
+    29.955525,
+    -89.984969,
+    29.955525
+],
+  "geometry": {"coordinates":[-89.98496900000001,29.955525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203265377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.047699,29.977301,-90.047699,29.977301",
     "geom:latitude":29.977301,
     "geom:longitude":-90.047699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Almonaster Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203265377,
-    "wof:lastmodified":1449025561,
+    "wof:lastmodified":1466539339,
     "wof:name":"Cajun Seafood 2",
     "wof:parent_id":85866095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.047699,29.977301,-90.047699,29.977301],
-  "geometry": {"coordinates":[-90.047699,29.977301],"type":"Point"}
+  "bbox": [
+    -90.047699,
+    29.977301,
+    -90.047699,
+    29.977301
+],
+  "geometry": {"coordinates":[-90.04769899999999,29.977301],"type":"Point"}
 }

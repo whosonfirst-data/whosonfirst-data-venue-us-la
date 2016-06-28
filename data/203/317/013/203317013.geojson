@@ -2,13 +2,14 @@
   "id": 203317013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.060097,30.228901,-92.060097,30.228901",
     "geom:latitude":30.228901,
     "geom:longitude":-92.060097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Toledo Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203317013,
-    "wof:lastmodified":1449025775,
+    "wof:lastmodified":1466541048,
     "wof:name":"Mouton J B Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-92.060097,30.228901,-92.060097,30.228901],
+  "bbox": [
+    -92.060097,
+    30.228901,
+    -92.060097,
+    30.228901
+],
   "geometry": {"coordinates":[-92.060097,30.228901],"type":"Point"}
 }

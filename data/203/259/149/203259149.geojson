@@ -2,13 +2,14 @@
   "id": 203259149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.06646,29.962376,-90.06646,29.962376",
     "geom:latitude":29.962376,
     "geom:longitude":-90.06646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"942 N Rampart St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":203259149,
-    "wof:lastmodified":1449025370,
+    "wof:lastmodified":1466539323,
     "wof:name":"Meauxbar Bistro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "french"
     ]
 },
-  "bbox": [-90.06646,29.962376,-90.06646,29.962376],
-  "geometry": {"coordinates":[-90.06646,29.962376],"type":"Point"}
+  "bbox": [
+    -90.06646,
+    29.962376,
+    -90.06646,
+    29.962376
+],
+  "geometry": {"coordinates":[-90.06646000000001,29.962376],"type":"Point"}
 }

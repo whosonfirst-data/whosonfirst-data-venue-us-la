@@ -2,13 +2,14 @@
   "id": 203321685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.036039,30.297693,-92.036039,30.297693",
     "geom:latitude":30.297693,
     "geom:longitude":-92.036039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"527 W Gloria Switch Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203321685,
-    "wof:lastmodified":1449024991,
+    "wof:lastmodified":1466539434,
     "wof:name":"Oakridge Residential Lenders",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-92.036039,30.297693,-92.036039,30.297693],
+  "bbox": [
+    -92.036039,
+    30.297693,
+    -92.036039,
+    30.297693
+],
   "geometry": {"coordinates":[-92.036039,30.297693],"type":"Point"}
 }

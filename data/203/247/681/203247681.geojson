@@ -2,13 +2,14 @@
   "id": 203247681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.05139,29.95319,-90.05139,29.95319",
     "geom:latitude":29.95319,
     "geom:longitude":-90.05139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Pelican Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203247681,
-    "wof:lastmodified":1449026054,
+    "wof:lastmodified":1466539310,
     "wof:name":"Gulf Pizza",
     "wof:parent_id":85866153,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-90.05139,29.95319,-90.05139,29.95319],
+  "bbox": [
+    -90.05139,
+    29.95319,
+    -90.05139,
+    29.95319
+],
   "geometry": {"coordinates":[-90.05139,29.95319],"type":"Point"}
 }

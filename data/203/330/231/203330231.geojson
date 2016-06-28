@@ -2,13 +2,14 @@
   "id": 203330231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.0513,30.319599,-92.0513,30.319599",
     "geom:latitude":30.319599,
     "geom:longitude":-92.0513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Rue Scholastique",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203330231,
-    "wof:lastmodified":1449025880,
+    "wof:lastmodified":1466539440,
     "wof:name":"Ossun Elementary School",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-92.0513,30.319599,-92.0513,30.319599],
+  "bbox": [
+    -92.0513,
+    30.319599,
+    -92.0513,
+    30.319599
+],
   "geometry": {"coordinates":[-92.0513,30.319599],"type":"Point"}
 }

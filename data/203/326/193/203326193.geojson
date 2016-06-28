@@ -2,13 +2,14 @@
   "id": 203326193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.952816,30.140716,-91.952816,30.140716",
     "geom:latitude":30.140716,
     "geom:longitude":-91.952816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Albertson Pkwy Ste G",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203326193,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466539425,
     "wof:name":"Workwear Concepts",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alteration"
     ]
 },
-  "bbox": [-91.952816,30.140716,-91.952816,30.140716],
+  "bbox": [
+    -91.952816,
+    30.140716,
+    -91.952816,
+    30.140716
+],
   "geometry": {"coordinates":[-91.952816,30.140716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203338119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.821503,30.000999,-91.821503,30.000999",
     "geom:latitude":30.000999,
     "geom:longitude":-91.821503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"508 Weeks St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203338119,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466539446,
     "wof:name":"Thompson Newton Real Estate",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.821503,30.000999,-91.821503,30.000999],
-  "geometry": {"coordinates":[-91.821503,30.000999],"type":"Point"}
+  "bbox": [
+    -91.821503,
+    30.000999,
+    -91.821503,
+    30.000999
+],
+  "geometry": {"coordinates":[-91.82150300000001,30.000999],"type":"Point"}
 }

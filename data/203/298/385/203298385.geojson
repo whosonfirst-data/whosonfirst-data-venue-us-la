@@ -2,13 +2,14 @@
   "id": 203298385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.00831,29.919137,-90.00831,29.919137",
     "geom:latitude":29.919137,
     "geom:longitude":-90.00831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3446 Kabel Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203298385,
-    "wof:lastmodified":1449025424,
+    "wof:lastmodified":1466539387,
     "wof:name":"Randy Rose Shotokan Karate Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "martial art"
     ]
 },
-  "bbox": [-90.00831,29.919137,-90.00831,29.919137],
-  "geometry": {"coordinates":[-90.00831,29.919137],"type":"Point"}
+  "bbox": [
+    -90.00831,
+    29.919137,
+    -90.00831,
+    29.919137
+],
+  "geometry": {"coordinates":[-90.00830999999999,29.919137],"type":"Point"}
 }

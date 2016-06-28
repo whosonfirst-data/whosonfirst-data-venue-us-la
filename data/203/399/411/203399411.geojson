@@ -2,13 +2,14 @@
   "id": 203399411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.466665,31.491964,-93.466665,31.491964",
     "geom:latitude":31.491964,
     "geom:longitude":-93.466665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"737 Four L Dr",
     "sg:city":"Fisher",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203399411,
-    "wof:lastmodified":1449025276,
+    "wof:lastmodified":1466539526,
     "wof:name":"Us Post Office",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-93.466665,31.491964,-93.466665,31.491964],
-  "geometry": {"coordinates":[-93.466665,31.491964],"type":"Point"}
+  "bbox": [
+    -93.466665,
+    31.491964,
+    -93.466665,
+    31.491964
+],
+  "geometry": {"coordinates":[-93.46666500000001,31.491964],"type":"Point"}
 }

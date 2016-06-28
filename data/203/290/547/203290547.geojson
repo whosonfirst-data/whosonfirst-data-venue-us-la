@@ -2,13 +2,14 @@
   "id": 203290547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.064796,29.956699,-90.064796,29.956699",
     "geom:latitude":29.956699,
     "geom:longitude":-90.064796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Toulouse St Ste B",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203290547,
-    "wof:lastmodified":1449025736,
+    "wof:lastmodified":1466539380,
     "wof:name":"Lasting Indulgence",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.064796,29.956699,-90.064796,29.956699],
+  "bbox": [
+    -90.064796,
+    29.956699,
+    -90.064796,
+    29.956699
+],
   "geometry": {"coordinates":[-90.064796,29.956699],"type":"Point"}
 }

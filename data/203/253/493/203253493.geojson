@@ -2,13 +2,14 @@
   "id": 203253493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.015701,29.9245,-90.015701,29.9245",
     "geom:latitude":29.9245,
     "geom:longitude":-90.015701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3928 MacArthur Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203253493,
-    "wof:lastmodified":1449026628,
+    "wof:lastmodified":1466539318,
     "wof:name":"Praise Fellowship Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.015701,29.9245,-90.015701,29.9245],
-  "geometry": {"coordinates":[-90.015701,29.9245],"type":"Point"}
+  "bbox": [
+    -90.015701,
+    29.9245,
+    -90.015701,
+    29.9245
+],
+  "geometry": {"coordinates":[-90.01570100000001,29.9245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203230403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.055114,29.886811,-90.055114,29.886811",
     "geom:latitude":29.886811,
     "geom:longitude":-90.055114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Manhattan Blvd Bldg B",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203230403,
-    "wof:lastmodified":1449026372,
+    "wof:lastmodified":1466539294,
     "wof:name":"Spa Manhattan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.055114,29.886811,-90.055114,29.886811],
+  "bbox": [
+    -90.055114,
+    29.886811,
+    -90.055114,
+    29.886811
+],
   "geometry": {"coordinates":[-90.055114,29.886811],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203196589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.052105,29.904121,-90.052105,29.904121",
     "geom:latitude":29.904121,
     "geom:longitude":-90.052105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 Belle Chasse Hwy Ste 1",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203196589,
-    "wof:lastmodified":1449025358,
+    "wof:lastmodified":1466539264,
     "wof:name":"Gretna Costume",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "costume"
     ]
 },
-  "bbox": [-90.052105,29.904121,-90.052105,29.904121],
+  "bbox": [
+    -90.052105,
+    29.904121,
+    -90.052105,
+    29.904121
+],
   "geometry": {"coordinates":[-90.052105,29.904121],"type":"Point"}
 }

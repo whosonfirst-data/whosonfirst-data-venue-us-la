@@ -2,13 +2,14 @@
   "id": 203279817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.990097,30.0308,-89.990097,30.0308",
     "geom:latitude":30.0308,
     "geom:longitude":-89.990097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9300 I 10 Service Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203279817,
-    "wof:lastmodified":1449025782,
+    "wof:lastmodified":1466539365,
     "wof:name":"Household of Faith Family Worship Church Interntnl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.990097,30.0308,-89.990097,30.0308],
-  "geometry": {"coordinates":[-89.990097,30.0308],"type":"Point"}
+  "bbox": [
+    -89.990097,
+    30.0308,
+    -89.990097,
+    30.0308
+],
+  "geometry": {"coordinates":[-89.99009700000001,30.0308],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203340119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.815204,30.006949,-91.815204,30.006949",
     "geom:latitude":30.006949,
     "geom:longitude":-91.815204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Marie St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203340119,
-    "wof:lastmodified":1449026405,
+    "wof:lastmodified":1466539456,
     "wof:name":"Food and Fun",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.815204,30.006949,-91.815204,30.006949],
-  "geometry": {"coordinates":[-91.815204,30.006949],"type":"Point"}
+  "bbox": [
+    -91.815204,
+    30.006949,
+    -91.815204,
+    30.006949
+],
+  "geometry": {"coordinates":[-91.81520399999999,30.006949],"type":"Point"}
 }

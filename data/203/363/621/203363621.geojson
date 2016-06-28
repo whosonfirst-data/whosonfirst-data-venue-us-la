@@ -2,13 +2,14 @@
   "id": 203363621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.140571,32.957896,-93.140571,32.957896",
     "geom:latitude":32.957896,
     "geom:longitude":-93.140571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8235 Highway 534",
     "sg:city":"Haynesville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203363621,
-    "wof:lastmodified":1449026639,
+    "wof:lastmodified":1466539487,
     "wof:name":"Greater Pleasant Grove Bibble Fellow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "churches-pentecostal"
     ]
 },
-  "bbox": [-93.140571,32.957896,-93.140571,32.957896],
-  "geometry": {"coordinates":[-93.140571,32.957896],"type":"Point"}
+  "bbox": [
+    -93.140571,
+    32.957896,
+    -93.140571,
+    32.957896
+],
+  "geometry": {"coordinates":[-93.14057099999999,32.957896],"type":"Point"}
 }

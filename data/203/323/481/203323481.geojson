@@ -2,13 +2,14 @@
   "id": 203323481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.993981,30.162921,-91.993981,30.162921",
     "geom:latitude":30.162921,
     "geom:longitude":-91.993981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3431 W Pinhook Rd Ste B",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203323481,
-    "wof:lastmodified":1449025098,
+    "wof:lastmodified":1466539430,
     "wof:name":"Platinum Healthcare Staffing Llc",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.993981,30.162921,-91.993981,30.162921],
-  "geometry": {"coordinates":[-91.993981,30.162921],"type":"Point"}
+  "bbox": [
+    -91.993981,
+    30.162921,
+    -91.993981,
+    30.162921
+],
+  "geometry": {"coordinates":[-91.99398100000001,30.162921],"type":"Point"}
 }

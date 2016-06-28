@@ -2,13 +2,14 @@
   "id": 203310337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.030372,30.232126,-92.030372,30.232126",
     "geom:latitude":30.232126,
     "geom:longitude":-92.030372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Cameron St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203310337,
-    "wof:lastmodified":1449026106,
+    "wof:lastmodified":1466539402,
     "wof:name":"Brown's Paint and Body Shop",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.030372,30.232126,-92.030372,30.232126],
+  "bbox": [
+    -92.030372,
+    30.232126,
+    -92.030372,
+    30.232126
+],
   "geometry": {"coordinates":[-92.030372,30.232126],"type":"Point"}
 }

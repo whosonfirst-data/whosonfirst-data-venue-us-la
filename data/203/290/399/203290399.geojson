@@ -2,13 +2,14 @@
   "id": 203290399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.066567,29.953961,-90.066567,29.953961",
     "geom:latitude":29.953961,
     "geom:longitude":-90.066567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Bienville St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203290399,
-    "wof:lastmodified":1449025736,
+    "wof:lastmodified":1466539376,
     "wof:name":"Ofadean Salon Spa",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-90.066567,29.953961,-90.066567,29.953961],
-  "geometry": {"coordinates":[-90.066567,29.953961],"type":"Point"}
+  "bbox": [
+    -90.066567,
+    29.953961,
+    -90.066567,
+    29.953961
+],
+  "geometry": {"coordinates":[-90.06656700000001,29.953961],"type":"Point"}
 }

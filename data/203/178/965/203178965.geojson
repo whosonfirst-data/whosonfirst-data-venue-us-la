@@ -2,13 +2,14 @@
   "id": 203178965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.968803,29.94422,-89.968803,29.94422",
     "geom:latitude":29.94422,
     "geom:longitude":-89.968803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"712 W Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203178965,
-    "wof:lastmodified":1449026326,
+    "wof:lastmodified":1466540859,
     "wof:name":"Captain Sals Seafood & Chicken",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wing"
     ]
 },
-  "bbox": [-89.968803,29.94422,-89.968803,29.94422],
-  "geometry": {"coordinates":[-89.968803,29.94422],"type":"Point"}
+  "bbox": [
+    -89.968803,
+    29.94422,
+    -89.968803,
+    29.94422
+],
+  "geometry": {"coordinates":[-89.96880299999999,29.94422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203274983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.017502,30.0105,-90.017502,30.0105",
     "geom:latitude":30.0105,
     "geom:longitude":-90.017502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6201 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203274983,
-    "wof:lastmodified":1449025181,
+    "wof:lastmodified":1466539358,
     "wof:name":"Perrault Kiddy Kollege Inc",
     "wof:parent_id":85866169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-90.017502,30.0105,-90.017502,30.0105],
-  "geometry": {"coordinates":[-90.017502,30.0105],"type":"Point"}
+  "bbox": [
+    -90.017502,
+    30.0105,
+    -90.017502,
+    30.0105
+],
+  "geometry": {"coordinates":[-90.01750199999999,30.0105],"type":"Point"}
 }

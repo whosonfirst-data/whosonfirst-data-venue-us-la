@@ -2,13 +2,14 @@
   "id": 203254437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.063968,29.958872,-90.063968,29.958872",
     "geom:latitude":29.958872,
     "geom:longitude":-90.063968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Royal St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203254437,
-    "wof:lastmodified":1449026284,
+    "wof:lastmodified":1466539321,
     "wof:name":"Angelena Gallery",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.063968,29.958872,-90.063968,29.958872],
+  "bbox": [
+    -90.063968,
+    29.958872,
+    -90.063968,
+    29.958872
+],
   "geometry": {"coordinates":[-90.063968,29.958872],"type":"Point"}
 }

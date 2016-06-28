@@ -2,13 +2,14 @@
   "id": 203263977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.054497,29.968599,-90.054497,29.968599",
     "geom:latitude":29.968599,
     "geom:longitude":-90.054497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2270 Saint Claude Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203263977,
-    "wof:lastmodified":1449026824,
+    "wof:lastmodified":1466539342,
     "wof:name":"Imperial Furniture Inc",
     "wof:parent_id":85819021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-90.054497,29.968599,-90.054497,29.968599],
+  "bbox": [
+    -90.054497,
+    29.968599,
+    -90.054497,
+    29.968599
+],
   "geometry": {"coordinates":[-90.054497,29.968599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203331543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.016899,30.316799,-92.016899,30.316799",
     "geom:latitude":30.316799,
     "geom:longitude":-92.016899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"444 Sonnier Rd",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203331543,
-    "wof:lastmodified":1449026093,
+    "wof:lastmodified":1466539449,
     "wof:name":"Wood Creek Apartments",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-92.016899,30.316799,-92.016899,30.316799],
+  "bbox": [
+    -92.016899,
+    30.316799,
+    -92.016899,
+    30.316799
+],
   "geometry": {"coordinates":[-92.016899,30.316799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203361227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.150902,30.158701,-91.150902,30.158701",
     "geom:latitude":30.158701,
     "geom:longitude":-91.150902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33110 Bowie St",
     "sg:city":"White Castle",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203361227,
-    "wof:lastmodified":1449026345,
+    "wof:lastmodified":1466539482,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.150902,30.158701,-91.150902,30.158701],
+  "bbox": [
+    -91.150902,
+    30.158701,
+    -91.150902,
+    30.158701
+],
   "geometry": {"coordinates":[-91.150902,30.158701],"type":"Point"}
 }

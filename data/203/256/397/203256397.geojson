@@ -2,13 +2,14 @@
   "id": 203256397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.057825,29.961401,-90.057825,29.961401",
     "geom:latitude":29.961401,
     "geom:longitude":-90.057825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Esplanade Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203256397,
-    "wof:lastmodified":1449026385,
+    "wof:lastmodified":1466539320,
     "wof:name":"Old U.S. Mint",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.057825,29.961401,-90.057825,29.961401],
-  "geometry": {"coordinates":[-90.057825,29.961401],"type":"Point"}
+  "bbox": [
+    -90.057825,
+    29.961401,
+    -90.057825,
+    29.961401
+],
+  "geometry": {"coordinates":[-90.05782499999999,29.961401],"type":"Point"}
 }

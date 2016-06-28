@@ -2,13 +2,14 @@
   "id": 203378015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.984125,32.87935,-93.984125,32.87935",
     "geom:latitude":32.87935,
     "geom:longitude":-93.984125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 N Pine St",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203378015,
-    "wof:lastmodified":1449026253,
+    "wof:lastmodified":1466541053,
     "wof:name":"St Clement Church",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-93.984125,32.87935,-93.984125,32.87935],
-  "geometry": {"coordinates":[-93.984125,32.87935],"type":"Point"}
+  "bbox": [
+    -93.984125,
+    32.87935,
+    -93.984125,
+    32.87935
+],
+  "geometry": {"coordinates":[-93.98412500000001,32.87935],"type":"Point"}
 }

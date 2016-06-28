@@ -2,13 +2,14 @@
   "id": 203242063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.015614,29.92004,-90.015614,29.92004",
     "geom:latitude":29.92004,
     "geom:longitude":-90.015614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Holiday Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203242063,
-    "wof:lastmodified":1449026641,
+    "wof:lastmodified":1466541036,
     "wof:name":"Carr Drugs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-90.015614,29.92004,-90.015614,29.92004],
+  "bbox": [
+    -90.015614,
+    29.92004,
+    -90.015614,
+    29.92004
+],
   "geometry": {"coordinates":[-90.015614,29.92004],"type":"Point"}
 }

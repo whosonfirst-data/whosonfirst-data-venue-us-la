@@ -2,13 +2,14 @@
   "id": 203387451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.806959,32.395578,-93.806959,32.395578",
     "geom:latitude":32.395578,
     "geom:longitude":-93.806959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9325 Normandie Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203387451,
-    "wof:lastmodified":1449026605,
+    "wof:lastmodified":1466539516,
     "wof:name":"Normandie Living Center",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.806959,32.395578,-93.806959,32.395578],
-  "geometry": {"coordinates":[-93.806959,32.395578],"type":"Point"}
+  "bbox": [
+    -93.806959,
+    32.395578,
+    -93.806959,
+    32.395578
+],
+  "geometry": {"coordinates":[-93.80695900000001,32.395578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203372367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.46122,33.00082,-93.46122,33.00082",
     "geom:latitude":33.00082,
     "geom:longitude":-93.46122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"224 S Main St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203372367,
-    "wof:lastmodified":1449026086,
+    "wof:lastmodified":1466539494,
     "wof:name":"C-B 37",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.46122,33.00082,-93.46122,33.00082],
+  "bbox": [
+    -93.46122,
+    33.00082,
+    -93.46122,
+    33.00082
+],
   "geometry": {"coordinates":[-93.46122,33.00082],"type":"Point"}
 }

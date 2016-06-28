@@ -2,13 +2,14 @@
   "id": 203380075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.833519,32.59296,-93.833519,32.59296",
     "geom:latitude":32.59296,
     "geom:longitude":-93.833519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N Forty Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203380075,
-    "wof:lastmodified":1449025795,
+    "wof:lastmodified":1466539497,
     "wof:name":"Grand Oaks Apartments",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-93.833519,32.59296,-93.833519,32.59296],
+  "bbox": [
+    -93.833519,
+    32.59296,
+    -93.833519,
+    32.59296
+],
   "geometry": {"coordinates":[-93.833519,32.59296],"type":"Point"}
 }

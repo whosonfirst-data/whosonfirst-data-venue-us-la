@@ -2,13 +2,14 @@
   "id": 203340583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.804199,30.0037,-91.804199,30.0037",
     "geom:latitude":30.0037,
     "geom:longitude":-91.804199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Parkview Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203340583,
-    "wof:lastmodified":1449026404,
+    "wof:lastmodified":1466539466,
     "wof:name":"Charlie's",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.804199,30.0037,-91.804199,30.0037],
+  "bbox": [
+    -91.804199,
+    30.0037,
+    -91.804199,
+    30.0037
+],
   "geometry": {"coordinates":[-91.804199,30.0037],"type":"Point"}
 }

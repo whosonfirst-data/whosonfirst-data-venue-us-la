@@ -2,13 +2,14 @@
   "id": 203349381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.066399,30.2423,-92.066399,30.2423",
     "geom:latitude":30.2423,
     "geom:longitude":-92.066399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Ambassadr Cffry Pkwy",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203349381,
-    "wof:lastmodified":1449025634,
+    "wof:lastmodified":1466539468,
     "wof:name":"Chevron Stations Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.066399,30.2423,-92.066399,30.2423],
+  "bbox": [
+    -92.066399,
+    30.2423,
+    -92.066399,
+    30.2423
+],
   "geometry": {"coordinates":[-92.066399,30.2423],"type":"Point"}
 }

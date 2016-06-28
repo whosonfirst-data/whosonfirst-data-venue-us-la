@@ -2,13 +2,14 @@
   "id": 203321131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.983002,30.2938,-91.983002,30.2938",
     "geom:latitude":30.2938,
     "geom:longitude":-91.983002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1311 E Gloria Switch Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203321131,
-    "wof:lastmodified":1449024988,
+    "wof:lastmodified":1466539420,
     "wof:name":"Brunet Doug & Associates",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspector"
     ]
 },
-  "bbox": [-91.983002,30.2938,-91.983002,30.2938],
+  "bbox": [
+    -91.983002,
+    30.2938,
+    -91.983002,
+    30.2938
+],
   "geometry": {"coordinates":[-91.983002,30.2938],"type":"Point"}
 }

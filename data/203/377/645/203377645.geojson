@@ -2,13 +2,14 @@
   "id": 203377645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.980274,32.791061,-93.980274,32.791061",
     "geom:latitude":32.791061,
     "geom:longitude":-93.980274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14350 Highway 1",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203377645,
-    "wof:lastmodified":1449025629,
+    "wof:lastmodified":1466539506,
     "wof:name":"Faith Energy",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-93.980274,32.791061,-93.980274,32.791061],
-  "geometry": {"coordinates":[-93.980274,32.791061],"type":"Point"}
+  "bbox": [
+    -93.980274,
+    32.791061,
+    -93.980274,
+    32.791061
+],
+  "geometry": {"coordinates":[-93.98027399999999,32.791061],"type":"Point"}
 }

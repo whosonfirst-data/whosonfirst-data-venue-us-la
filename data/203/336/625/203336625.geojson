@@ -2,13 +2,14 @@
   "id": 203336625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.82985,30.003934,-91.82985,30.003934",
     "geom:latitude":30.003934,
     "geom:longitude":-91.82985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Johnston St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203336625,
-    "wof:lastmodified":1449024913,
+    "wof:lastmodified":1466539456,
     "wof:name":"Schools Public",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-91.82985,30.003934,-91.82985,30.003934],
-  "geometry": {"coordinates":[-91.82985,30.003934],"type":"Point"}
+  "bbox": [
+    -91.82985,
+    30.003934,
+    -91.82985,
+    30.003934
+],
+  "geometry": {"coordinates":[-91.82984999999999,30.003934],"type":"Point"}
 }

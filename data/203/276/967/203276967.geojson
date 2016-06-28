@@ -2,13 +2,14 @@
   "id": 203276967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.011578,30.026722,-90.011578,30.026722",
     "geom:latitude":30.026722,
     "geom:longitude":-90.011578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6900 Martin Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203276967,
-    "wof:lastmodified":1449025023,
+    "wof:lastmodified":1466539362,
     "wof:name":"Kiddie University Learning Center",
     "wof:parent_id":85847541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-90.011578,30.026722,-90.011578,30.026722],
+  "bbox": [
+    -90.011578,
+    30.026722,
+    -90.011578,
+    30.026722
+],
   "geometry": {"coordinates":[-90.011578,30.026722],"type":"Point"}
 }

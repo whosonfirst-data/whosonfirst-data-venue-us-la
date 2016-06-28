@@ -2,13 +2,14 @@
   "id": 203315263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.062302,30.16799,-92.062302,30.16799",
     "geom:latitude":30.16799,
     "geom:longitude":-92.062302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203315263,
-    "wof:lastmodified":1449026774,
+    "wof:lastmodified":1466539407,
     "wof:name":"Holiday Inn Express Hotel & Suites Lafayette",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-92.062302,30.16799,-92.062302,30.16799],
+  "bbox": [
+    -92.062302,
+    30.16799,
+    -92.062302,
+    30.16799
+],
   "geometry": {"coordinates":[-92.062302,30.16799],"type":"Point"}
 }
