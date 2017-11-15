@@ -2,9 +2,14 @@
   "id": 840168717,
   "type": "Feature",
   "properties": {
+    "addr:full":"8601 Pritchard Pl New Orleans LA 70118",
+    "addr:housenumber":"8601",
+    "addr:postcode":"70118",
+    "addr:street":"Pritchard Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121662,29.963682,-90.121662,29.963682",
     "geom:latitude":29.963682,
     "geom:longitude":-90.121662,
@@ -29,7 +34,15 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0us74tQueedFfwuhYrZnvI_29.963682_-90.121662@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463522634,
     "wof:geomhash":"ee4735c3eb1533ca7e0907ea47381bcb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840168717
+        }
+    ],
     "wof:id":840168717,
-    "wof:lastmodified":1466541226,
+    "wof:lastmodified":1486689040,
     "wof:name":"Gloria's Place",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

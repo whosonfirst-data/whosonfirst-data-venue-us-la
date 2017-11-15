@@ -2,14 +2,20 @@
   "id": 840445753,
   "type": "Feature",
   "properties": {
+    "addr:full":"1104 E Main St New Iberia LA 70560",
+    "addr:housenumber":"1104",
+    "addr:postcode":"70560",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.804225,29.997912,-91.804225,29.997912",
     "geom:latitude":29.997912,
     "geom:longitude":-91.804225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1104 E Main St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125154615,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_247unOhuo8IGBTDsYKsA6c_29.997912_-91.804225@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533117,
-    "wof:geomhash":"6ce1f251c78ba94e74580ebac35b7b3b",
+    "wof:geomhash":"fd6c4121884433db49dd0e2cab8d4867",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840445753,
-    "wof:lastmodified":1466545243,
+    "wof:lastmodified":1510698973,
     "wof:name":"Centennial Wireless",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

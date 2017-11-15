@@ -2,14 +2,20 @@
   "id": 840301653,
   "type": "Feature",
   "properties": {
+    "addr:full":"818 Howard Ave New Orleans LA 70113",
+    "addr:housenumber":"818",
+    "addr:postcode":"70113",
+    "addr:street":"Howard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.074653,29.944525,-90.074653,29.944525",
     "geom:latitude":29.944525,
     "geom:longitude":-90.074653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"818 Howard Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zPicQko6gkAH1sbsa1PLC_29.944525_-90.074653@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526599,
-    "wof:geomhash":"7b11ad133256d1b60e9a14da61d44502",
+    "wof:geomhash":"a685507de7f9c77f165d7254437cc4f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840301653
         }
     ],
     "wof:id":840301653,
-    "wof:lastmodified":1466542690,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85866107,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840432503,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Tchoupitoulas St New Orleans LA 70115",
+    "addr:housenumber":"3501",
+    "addr:postcode":"70115",
+    "addr:street":"Tchoupitoulas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.09003,29.918076,-90.09003,29.918076",
     "geom:latitude":29.918076,
     "geom:longitude":-90.09003,
@@ -34,7 +39,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746823,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sC2VMR1AoUIsOvR1pXJ58_29.918076_-90.090030@1294127638"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1463532566,
     "wof:geomhash":"1a02b811c63f1e4e8d09921e2392b232",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746823,
+            "region_id":85688735,
+            "venue_id":840432503
+        }
+    ],
     "wof:id":840432503,
-    "wof:lastmodified":1466545092,
+    "wof:lastmodified":1486689052,
     "wof:name":"Thomas Bruno Sulptor Furn Mkr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

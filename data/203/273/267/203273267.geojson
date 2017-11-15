@@ -2,9 +2,14 @@
   "id": 203273267,
   "type": "Feature",
   "properties": {
+    "addr:full":"4180 Old Gentilly Rd New Orleans LA 70126",
+    "addr:housenumber":"4180",
+    "addr:postcode":"70126",
+    "addr:street":"Old Gentilly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.039661,30.002524,-90.039661,30.002524",
     "geom:latitude":30.002524,
     "geom:longitude":-90.039661,
@@ -26,11 +31,13 @@
     "sg:website":"www.knightsinn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866087
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"337aad8a6fb37c240cf1e8e4f8a394cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203273267
         }
     ],
     "wof:id":203273267,
-    "wof:lastmodified":1466539344,
+    "wof:lastmodified":1486688347,
     "wof:name":"Knights Inn",
     "wof:parent_id":85866087,
     "wof:placetype":"venue",

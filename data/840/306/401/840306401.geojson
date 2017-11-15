@@ -2,14 +2,20 @@
   "id": 840306401,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Freestate Blvd Shreveport LA 71107",
+    "addr:housenumber":"111",
+    "addr:postcode":"71107",
+    "addr:street":"Freestate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.765438,32.536644,-93.765438,32.536644",
     "geom:latitude":32.536644,
     "geom:longitude":-93.765438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Freestate Blvd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087235,
         85880993
     ],
+    "wof:brand_id":1125153947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gD9Pjyfj8PgLn1C9dV2T3_32.536644_-93.765438@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526826,
-    "wof:geomhash":"e53de0de374511e1e55d48430a9ead03",
+    "wof:geomhash":"4c60f514890f6a6cb6aa3500e5ce3f15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840306401,
-    "wof:lastmodified":1466542703,
+    "wof:lastmodified":1510695229,
     "wof:name":"Decision One",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840232823,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"324",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.216945,30.23447,-93.216945,30.23447",
     "geom:latitude":30.23447,
     "geom:longitude":-93.216945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"324 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125153167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qLiM0MYgc6uU3hvdMT2ev_30.234470_-93.216945@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524182,
-    "wof:geomhash":"7bbc398bd683786713113d2760066a9a",
+    "wof:geomhash":"d3297cb201bb72ef956bc3b48ae18591",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840232823,
-    "wof:lastmodified":1466541764,
+    "wof:lastmodified":1510694655,
     "wof:name":"Narcotics Anonymous",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

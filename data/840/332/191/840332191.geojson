@@ -2,14 +2,20 @@
   "id": 840332191,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 W Prien Lake Rd Lake Charles LA 70601",
+    "addr:housenumber":"232",
+    "addr:postcode":"70601",
+    "addr:street":"W Prien Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.221287,30.198183,-93.221287,30.198183",
     "geom:latitude":30.198183,
     "geom:longitude":-93.221287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"232 W Prien Lake Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":420575191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PW1bZoO69cJmvxOHrxT9v_30.198183_-93.221287@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528043,
-    "wof:geomhash":"bbe0afbb672f4a005bb9a750d60e8053",
+    "wof:geomhash":"fa30015de26fa492e4f4b1ee7023dfec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840332191,
-    "wof:lastmodified":1466543121,
+    "wof:lastmodified":1510615164,
     "wof:name":"Manpower Temporary Svc",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

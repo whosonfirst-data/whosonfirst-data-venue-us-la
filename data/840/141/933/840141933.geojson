@@ -2,9 +2,14 @@
   "id": 840141933,
   "type": "Feature",
   "properties": {
+    "addr:full":"7440 Wright Rd New Orleans LA 70128",
+    "addr:housenumber":"7440",
+    "addr:postcode":"70128",
+    "addr:street":"Wright Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.971861,30.045946,-89.971861,30.045946",
     "geom:latitude":30.045946,
     "geom:longitude":-89.971861,
@@ -29,7 +34,15 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63KSYqbgDWgNlxOrIuvRkt_30.045946_-89.971861@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463522086,
     "wof:geomhash":"9fa2d40dd3c89354abc07071a7d037a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840141933
+        }
+    ],
     "wof:id":840141933,
-    "wof:lastmodified":1466539498,
+    "wof:lastmodified":1486688701,
     "wof:name":"Vision Financial Planners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

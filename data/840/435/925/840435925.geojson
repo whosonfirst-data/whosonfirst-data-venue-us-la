@@ -2,14 +2,20 @@
   "id": 840435925,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 Oneal Ln Baton Rouge LA 70817",
+    "addr:housenumber":"4710",
+    "addr:postcode":"70817",
+    "addr:street":"Oneal Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.008588,30.409863,-91.008588,30.409863",
     "geom:latitude":30.409863,
     "geom:longitude":-91.008588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4710 Oneal Ln",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087229,
         85824817
     ],
+    "wof:brand_id":1125157595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69h4kNJi5XBXwbm5cvBvZm_30.409863_-91.008588@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532728,
-    "wof:geomhash":"248fcac6ba129b892becd0ac103432a1",
+    "wof:geomhash":"0df0a2cb8e4d8f44962d4e3bea4fd714",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840435925,
-    "wof:lastmodified":1466545179,
+    "wof:lastmodified":1510695420,
     "wof:name":"Exotic Nails",
     "wof:parent_id":85824817,
     "wof:placetype":"venue",

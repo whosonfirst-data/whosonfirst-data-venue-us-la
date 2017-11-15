@@ -2,9 +2,14 @@
   "id": 840427027,
   "type": "Feature",
   "properties": {
+    "addr:full":"5460 Hawthorne Pl New Orleans LA 70124",
+    "addr:housenumber":"5460",
+    "addr:postcode":"70124",
+    "addr:street":"Hawthorne Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.111011,29.989516,-90.111011,29.989516",
     "geom:latitude":29.989516,
     "geom:longitude":-90.111011,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866055,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866055
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866055,
             "region_id":85688735,
             "venue_id":840427027
         }
     ],
     "wof:id":840427027,
-    "wof:lastmodified":1466544914,
+    "wof:lastmodified":1486686941,
     "wof:name":"Slr Properties",
     "wof:parent_id":85866055,
     "wof:placetype":"venue",

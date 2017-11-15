@@ -2,14 +2,20 @@
   "id": 840054353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1055 Saint Charles Ave New Orleans LA 70130",
+    "addr:housenumber":"1055",
+    "addr:postcode":"70130",
+    "addr:street":"Saint Charles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.07307,29.9427,-90.07307,29.9427",
     "geom:latitude":29.9427,
     "geom:longitude":-90.07307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1055 Saint Charles Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -32,33 +38,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
+    "wof:brand_id":1125150463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6laEWj9WxhjcLAzWD4q7yZ_29.942700_-90.073070@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520133,
-    "wof:geomhash":"d851a0c5cf39a0403190dbc45226e968",
+    "wof:geomhash":"9fab315c6b0e1394f671ca6f1ca1ede6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840054353
         }
     ],
     "wof:id":840054353,
-    "wof:lastmodified":1466540183,
+    "wof:lastmodified":1510694146,
     "wof:name":"Pitney Bowes",
     "wof:parent_id":85866107,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840406507,
   "type": "Feature",
   "properties": {
+    "addr:full":"7927 Maple St New Orleans LA 70118",
+    "addr:housenumber":"7927",
+    "addr:postcode":"70118",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.131592,29.943667,-90.131592,29.943667",
     "geom:latitude":29.943667,
     "geom:longitude":-90.131592,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kUEmUScUhJtQjE8crlQR1_29.943667_-90.131592@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463531479,
     "wof:geomhash":"45fe2f5c4e2df40f9d2c753185dae714",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840406507
+        }
+    ],
     "wof:id":840406507,
-    "wof:lastmodified":1466544640,
+    "wof:lastmodified":1486689015,
     "wof:name":"Scheinuk Agency Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

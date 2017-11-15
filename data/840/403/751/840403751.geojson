@@ -2,9 +2,14 @@
   "id": 840403751,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 Vallette St New Orleans LA 70114",
+    "addr:housenumber":"840",
+    "addr:postcode":"70114",
+    "addr:street":"Vallette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049236,29.947062,-90.049236,29.947062",
     "geom:latitude":29.947062,
     "geom:longitude":-90.049236,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jlBmPxhKfGtjPF7ge0bfj_29.947062_-90.049236@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463531371,
     "wof:geomhash":"ab3d6cfeea5b9885330c00a3a4d9bc37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840403751
+        }
+    ],
     "wof:id":840403751,
-    "wof:lastmodified":1466544537,
+    "wof:lastmodified":1486689087,
     "wof:name":"Queens",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

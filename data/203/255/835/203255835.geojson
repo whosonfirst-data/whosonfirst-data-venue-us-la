@@ -2,9 +2,14 @@
   "id": 203255835,
   "type": "Feature",
   "properties": {
+    "addr:full":"The Presbytere Jackson Square New Orleans LA 70116",
+    "addr:housenumber":"",
+    "addr:postcode":"70116",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.062853,29.957597,-90.062853,29.957597",
     "geom:latitude":29.957597,
     "geom:longitude":-90.062853,
@@ -26,11 +31,13 @@
     "sg:website":"lsm.crt.state.la.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"bc8f06d8a9a9144ffaea4d9067328e52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203255835
         }
     ],
     "wof:id":203255835,
-    "wof:lastmodified":1466539332,
+    "wof:lastmodified":1486688430,
     "wof:name":"Louisiana State Museum",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

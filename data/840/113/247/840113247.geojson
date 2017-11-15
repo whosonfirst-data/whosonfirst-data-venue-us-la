@@ -2,9 +2,14 @@
   "id": 840113247,
   "type": "Feature",
   "properties": {
+    "addr:full":"7041 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"7041",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.978001,30.039279,-89.978001,30.039279",
     "geom:latitude":30.039279,
     "geom:longitude":-89.978001,
@@ -24,7 +29,15 @@
     "sg:postcode":"70127",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MDgNGclpIHQVhLG6EibaS_30.039279_-89.978001@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463521492,
     "wof:geomhash":"39447645d986203e3a7c364d492b67bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840113247
+        }
+    ],
     "wof:id":840113247,
-    "wof:lastmodified":1466540789,
+    "wof:lastmodified":1486688717,
     "wof:name":"Unity One Beauty Supply Barber",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

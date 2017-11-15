@@ -2,9 +2,14 @@
   "id": 840077093,
   "type": "Feature",
   "properties": {
+    "addr:full":"8216 Oak St New Orleans LA 70118",
+    "addr:housenumber":"8216",
+    "addr:postcode":"70118",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.131482,29.948598,-90.131482,29.948598",
     "geom:latitude":29.948598,
     "geom:longitude":-90.131482,
@@ -24,7 +29,16 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bAaOPs27ZBBjwKJKM6hl3_29.948598_-90.131482@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463520623,
     "wof:geomhash":"f46618731d7512548fe79d03b8354580",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840077093
+        }
+    ],
     "wof:id":840077093,
-    "wof:lastmodified":1466540441,
+    "wof:lastmodified":1486689237,
     "wof:name":"One 2 One Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

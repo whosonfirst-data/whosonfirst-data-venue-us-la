@@ -2,14 +2,20 @@
   "id": 840128359,
   "type": "Feature",
   "properties": {
+    "addr:full":"831 Main St Pineville LA 71360",
+    "addr:housenumber":"831",
+    "addr:postcode":"71360",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.433325,31.323504,-92.433325,31.323504",
     "geom:latitude":31.323504,
     "geom:longitude":-92.433325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"831 Main St",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QGPZMGkV82jJEmd20XM8t_31.323504_-92.433325@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521817,
-    "wof:geomhash":"016fd28e10f8dcecd99aa38912b1a4a3",
+    "wof:geomhash":"f3efb3fdb7a011c92b75e26d6be6d452",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840128359,
-    "wof:lastmodified":1466540931,
+    "wof:lastmodified":1510602600,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

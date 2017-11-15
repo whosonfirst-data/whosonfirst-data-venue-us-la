@@ -2,14 +2,20 @@
   "id": 840306351,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Kirby St Lake Charles LA 70601",
+    "addr:housenumber":"701",
+    "addr:postcode":"70601",
+    "addr:street":"Kirby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.209813,30.225804,-93.209813,30.225804",
     "geom:latitude":30.225804,
     "geom:longitude":-93.209813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 Kirby St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125151831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XVopqbEnTwEntZphmzo4m_30.225804_-93.209813@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526824,
-    "wof:geomhash":"e1645e4090a5adc8eaa819fc27d26207",
+    "wof:geomhash":"37b82e852cb992db650f9e48e8618292",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840306351,
-    "wof:lastmodified":1466542697,
+    "wof:lastmodified":1510700056,
     "wof:name":"Christian Science Society",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840208737,
   "type": "Feature",
   "properties": {
+    "addr:full":"995 Main St Many LA 71449",
+    "addr:housenumber":"995",
+    "addr:postcode":"71449",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.481124,31.567816,-93.481124,31.567816",
     "geom:latitude":31.567816,
     "geom:longitude":-93.481124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"995 Main St",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081409,
         85806377
     ],
+    "wof:brand_id":420575705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gIgnVOiho9Wftz7mE4L3y_31.567816_-93.481124@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523601,
-    "wof:geomhash":"e188abaec2c8de2013186870efe76965",
+    "wof:geomhash":"0a8b5943b16c7a6b0657f2090720bdcd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840208737,
-    "wof:lastmodified":1466541557,
+    "wof:lastmodified":1510601954,
     "wof:name":"Westaff",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",

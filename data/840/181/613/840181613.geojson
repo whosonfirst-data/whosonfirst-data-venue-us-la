@@ -2,9 +2,14 @@
   "id": 840181613,
   "type": "Feature",
   "properties": {
+    "addr:full":"1233 8th St New Orleans LA 70115",
+    "addr:housenumber":"1233",
+    "addr:postcode":"70115",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.086455,29.926029,-90.086455,29.926029",
     "geom:latitude":29.926029,
     "geom:longitude":-90.086455,
@@ -26,12 +31,13 @@
     "sg:website":"www.raintreeservices.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821037,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821037
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821037,
             "region_id":85688735,
             "venue_id":840181613
         }
     ],
     "wof:id":840181613,
-    "wof:lastmodified":1466541310,
+    "wof:lastmodified":1486686977,
     "wof:name":"Raintree Children Svc",
     "wof:parent_id":85821037,
     "wof:placetype":"venue",

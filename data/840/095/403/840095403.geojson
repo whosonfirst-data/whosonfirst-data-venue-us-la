@@ -2,14 +2,20 @@
   "id": 840095403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2407 Arkansas Rd West Monroe LA 71291",
+    "addr:housenumber":"2407",
+    "addr:postcode":"71291",
+    "addr:street":"Arkansas Rd West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.188713,32.534066,-92.188713,32.534066",
     "geom:latitude":32.534066,
     "geom:longitude":-92.188713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2407 Arkansas Rd",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125154353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T3sUfD2GvlMps3ZDSryXr_32.534066_-92.188713@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521122,
-    "wof:geomhash":"95f258d282aa8f7b3a8c69fc35580d07",
+    "wof:geomhash":"c235092bd3900b33b14dff149ac285ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840095403,
-    "wof:lastmodified":1466540629,
+    "wof:lastmodified":1510604929,
     "wof:name":"Picture Perfect",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

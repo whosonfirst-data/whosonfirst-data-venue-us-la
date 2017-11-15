@@ -2,6 +2,10 @@
   "id": 840264619,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Walter Rd New Orleans LA 70123",
+    "addr:housenumber":"345",
+    "addr:postcode":"70123",
+    "addr:street":"Walter Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":840264619,
-    "wof:lastmodified":1466541975,
+    "wof:lastmodified":1472624572,
     "wof:name":"Perspective",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

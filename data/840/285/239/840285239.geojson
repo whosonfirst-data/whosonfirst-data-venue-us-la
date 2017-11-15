@@ -2,14 +2,20 @@
   "id": 840285239,
   "type": "Feature",
   "properties": {
+    "addr:full":"3628 Monroe Hwy Pineville LA 71360",
+    "addr:housenumber":"3628",
+    "addr:postcode":"71360",
+    "addr:street":"Monroe Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.40974,31.367312,-92.40974,31.367312",
     "geom:latitude":31.367312,
     "geom:longitude":-92.40974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3628 Monroe Hwy",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125154615,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hMw647uRGhKydg83xjzbq_31.367312_-92.409740@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525859,
-    "wof:geomhash":"0f96cdd75c7e3da00ab2d6f5099f7d62",
+    "wof:geomhash":"127281a31e316a07a72ff001e504ef32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840285239,
-    "wof:lastmodified":1466542283,
+    "wof:lastmodified":1510698973,
     "wof:name":"Centennial Wireless",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

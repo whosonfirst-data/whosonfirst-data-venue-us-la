@@ -2,9 +2,14 @@
   "id": 840136387,
   "type": "Feature",
   "properties": {
+    "addr:full":"11420 N Easterlyn Cir New Orleans LA 70128",
+    "addr:housenumber":"11420",
+    "addr:postcode":"70128",
+    "addr:street":"N Easterlyn Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.951767,30.03602,-89.951767,30.03602",
     "geom:latitude":30.03602,
     "geom:longitude":-89.951767,
@@ -24,7 +29,15 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bTKGfmLoj5Oah3kUYzScb_30.036020_-89.951767@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463521980,
     "wof:geomhash":"34892a5ba8682f0ff902d90d32f48ec0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840136387
+        }
+    ],
     "wof:id":840136387,
-    "wof:lastmodified":1466541036,
+    "wof:lastmodified":1486688743,
     "wof:name":"Futurecom",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

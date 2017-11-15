@@ -2,9 +2,14 @@
   "id": 840457317,
   "type": "Feature",
   "properties": {
+    "addr:full":"7070 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"7070",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.977447,30.038666,-89.977447,30.038666",
     "geom:latitude":30.038666,
     "geom:longitude":-89.977447,
@@ -30,7 +35,15 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qeuotmf0PIK7JTACJVkLI_30.039070_-89.977869@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463533590,
     "wof:geomhash":"bde946ae6291ca841f789506e765e728",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840457317
+        }
+    ],
     "wof:id":840457317,
-    "wof:lastmodified":1466545356,
+    "wof:lastmodified":1486688713,
     "wof:name":"Italian Pie",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

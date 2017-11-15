@@ -2,14 +2,20 @@
   "id": 840424753,
   "type": "Feature",
   "properties": {
+    "addr:full":"372 Sam Houston Jones Pkwy Lake Charles LA 70611",
+    "addr:housenumber":"372",
+    "addr:postcode":"70611",
+    "addr:street":"Sam Houston Jones Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.201124,30.30053,-93.201124,30.30053",
     "geom:latitude":30.30053,
     "geom:longitude":-93.201124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"372 Sam Houston Jones Pkwy",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GAqiIRrMKRnHZKpuRpkal_30.300530_-93.201124@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532224,
-    "wof:geomhash":"c473f19bb9603ca3627d96955d77076e",
+    "wof:geomhash":"b5f0bdd682b85637091145ac3a987afe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840424753,
-    "wof:lastmodified":1466544927,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840374933,
   "type": "Feature",
   "properties": {
+    "addr:full":"6507 Center St New Orleans LA 70124",
+    "addr:housenumber":"6507",
+    "addr:postcode":"70124",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.119703,30.0106,-90.119703,30.0106",
     "geom:latitude":30.0106,
     "geom:longitude":-90.119703,
@@ -28,7 +33,15 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PYy6ObpvE5y61dE0Oorcs_30.010600_-90.119703@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463530127,
     "wof:geomhash":"3fb2882a9ae7aebcb407e242ba6522bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840374933
+        }
+    ],
     "wof:id":840374933,
-    "wof:lastmodified":1466544017,
+    "wof:lastmodified":1486689071,
     "wof:name":"Bazer Research and Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

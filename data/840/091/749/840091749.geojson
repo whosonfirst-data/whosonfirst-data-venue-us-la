@@ -2,9 +2,14 @@
   "id": 840091749,
   "type": "Feature",
   "properties": {
+    "addr:full":"12951 Morrison Rd New Orleans LA 70128",
+    "addr:housenumber":"12951",
+    "addr:postcode":"70128",
+    "addr:street":"Morrison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.952221,30.060279,-89.952221,30.060279",
     "geom:latitude":30.060279,
     "geom:longitude":-89.952221,
@@ -24,7 +29,15 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XPQQeeDcD4xZVMNUiVEnw_30.060279_-89.952221@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463521055,
     "wof:geomhash":"f3d17aa1c055d69040c4a05fb34379f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840091749
+        }
+    ],
     "wof:id":840091749,
-    "wof:lastmodified":1466540644,
+    "wof:lastmodified":1486688705,
     "wof:name":"Daughters Of Our Lady-Rosary",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

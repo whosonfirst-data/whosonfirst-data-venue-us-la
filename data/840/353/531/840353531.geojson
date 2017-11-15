@@ -2,6 +2,10 @@
   "id": 840353531,
   "type": "Feature",
   "properties": {
+    "addr:full":"3722 S I- 10 Svc Rd W Metairie LA 70001",
+    "addr:housenumber":"3722;10",
+    "addr:postcode":"70001",
+    "addr:street":"S I;Svc Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840353531,
-    "wof:lastmodified":1466543493,
+    "wof:lastmodified":1472624732,
     "wof:name":"Balloon Extravaganza",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

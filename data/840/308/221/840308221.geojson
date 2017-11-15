@@ -2,14 +2,20 @@
   "id": 840308221,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 Owl St Monroe LA 71203",
+    "addr:housenumber":"4010",
+    "addr:postcode":"71203",
+    "addr:street":"Owl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.069202,32.514453,-92.069202,32.514453",
     "geom:latitude":32.514453,
     "geom:longitude":-92.069202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4010 Owl St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125159621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Dv4gtuvTWRqKzIuDv338h_32.514453_-92.069202@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526908,
-    "wof:geomhash":"12db207a2262df987d39f0f3c7703d1f",
+    "wof:geomhash":"65061978cc0993d9f8b928ac9f0e310f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840308221,
-    "wof:lastmodified":1466542783,
+    "wof:lastmodified":1510696712,
     "wof:name":"Mt Sinai Baptist Church",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

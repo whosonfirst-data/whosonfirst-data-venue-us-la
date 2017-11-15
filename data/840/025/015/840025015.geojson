@@ -2,14 +2,20 @@
   "id": 840025015,
   "type": "Feature",
   "properties": {
+    "addr:full":"3559 Ambassador Caffery Pkwy Lafayette LA 70503",
+    "addr:housenumber":"3559",
+    "addr:postcode":"70503",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.072919,30.176872,-92.072919,30.176872",
     "geom:latitude":30.176872,
     "geom:longitude":-92.072919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3559 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xnGJSfyu0PDWrdY0WJNS3_30.176872_-92.072919@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519505,
-    "wof:geomhash":"91a2230ae020aaee061441c20d5e6d8a",
+    "wof:geomhash":"4daa4bfd1e91c5e9803707f78092d53e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840025015,
-    "wof:lastmodified":1466539776,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

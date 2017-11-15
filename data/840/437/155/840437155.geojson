@@ -2,14 +2,20 @@
   "id": 840437155,
   "type": "Feature",
   "properties": {
+    "addr:full":"10555 Reiger Rd Baton Rouge LA 70809",
+    "addr:housenumber":"10555",
+    "addr:postcode":"70809",
+    "addr:street":"Reiger Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.053594,30.375375,-91.053594,30.375375",
     "geom:latitude":30.375375,
     "geom:longitude":-91.053594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10555 Reiger Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12R6U4Nv8SNH6DtMQ0rhTv_30.375375_-91.053594@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532774,
-    "wof:geomhash":"909f021ea08afb6c80d1926526da1155",
+    "wof:geomhash":"d6e157fa098f70a3bc5ddffaa04086a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840437155,
-    "wof:lastmodified":1466545020,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

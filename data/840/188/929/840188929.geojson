@@ -2,14 +2,20 @@
   "id": 840188929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1735 Saint Charles Ave New Orleans LA 70130",
+    "addr:housenumber":"1735",
+    "addr:postcode":"70130",
+    "addr:street":"Saint Charles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077626,29.936322,-90.077626,29.936322",
     "geom:latitude":29.936322,
     "geom:longitude":-90.077626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1735 Saint Charles Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866121,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85831571
+        85688735
     ],
+    "wof:brand_id":1125155311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zIcin3EwCIhk6LrcOWsYY_29.936322_-90.077626@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523090,
-    "wof:geomhash":"438e56c5b715d5b67acf62ab046c9892",
+    "wof:geomhash":"2ccba2ffc0807012a7b130ea7e56fab2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85831571,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
             "region_id":85688735,
             "venue_id":840188929
         }
     ],
     "wof:id":840188929,
-    "wof:lastmodified":1466541427,
+    "wof:lastmodified":1510696062,
     "wof:name":"Speedee Oil Change & Tune Up",
-    "wof:parent_id":85831571,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

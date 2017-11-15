@@ -2,9 +2,14 @@
   "id": 840028445,
   "type": "Feature",
   "properties": {
+    "addr:full":"2316 Clara St New Orleans LA 70113",
+    "addr:housenumber":"2316",
+    "addr:postcode":"70113",
+    "addr:street":"Clara St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.089826,29.942614,-90.089826,29.942614",
     "geom:latitude":29.942614,
     "geom:longitude":-90.089826,
@@ -24,7 +29,15 @@
     "sg:postcode":"70113",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mSYFzbcO1YA2Zdv7LoUdd_29.942614_-90.089826@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463519590,
     "wof:geomhash":"b273e95b0a23e61c86d459ba442e5be3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840028445
+        }
+    ],
     "wof:id":840028445,
-    "wof:lastmodified":1466539832,
+    "wof:lastmodified":1486688623,
     "wof:name":"Star Hope Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

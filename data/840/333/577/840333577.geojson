@@ -2,14 +2,20 @@
   "id": 840333577,
   "type": "Feature",
   "properties": {
+    "addr:full":"619 E Admiral Doyle Dr New Iberia LA 70560",
+    "addr:housenumber":"619",
+    "addr:postcode":"70560",
+    "addr:street":"E Admiral Doyle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.824259,29.987252,-91.824259,29.987252",
     "geom:latitude":29.987252,
     "geom:longitude":-91.824259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"619 E Admiral Doyle Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125154781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iJEHbbbx5MdZLZXQVdnWY_29.987252_-91.824259@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528107,
-    "wof:geomhash":"9d04c7cffc99f79fc2cdd76e6d184081",
+    "wof:geomhash":"026ac5838d221cde7de5c80e63756636",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840333577,
-    "wof:lastmodified":1466543198,
+    "wof:lastmodified":1510698935,
     "wof:name":"Nail Tech",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

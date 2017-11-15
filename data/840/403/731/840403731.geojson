@@ -2,14 +2,20 @@
   "id": 840403731,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 I- 10 Port Allen LA 70767",
+    "addr:housenumber":"2800;10",
+    "addr:postcode":"70767",
+    "addr:street":"I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.244368,30.447238,-91.244368,30.447238",
     "geom:latitude":30.447238,
     "geom:longitude":-91.244368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2800 I- 10",
     "sg:city":"Port Allen",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85876063,
         102086695
     ],
+    "wof:brand_id":420574233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i4jI4vpGG2pRNarhisza1_30.447238_-91.244368@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531370,
-    "wof:geomhash":"deda994610ef5abffb818ff6abcf323d",
+    "wof:geomhash":"4f4d41795ab2c8491bc52f498cf07a98",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840403731,
-    "wof:lastmodified":1466544532,
+    "wof:lastmodified":1510603985,
     "wof:name":"Motel 6",
     "wof:parent_id":85876063,
     "wof:placetype":"venue",

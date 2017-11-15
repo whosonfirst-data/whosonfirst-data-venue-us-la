@@ -2,9 +2,14 @@
   "id": 840457955,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 N. Sepulveda Blvd Suite 2050 El Segundo LA 90245",
+    "addr:housenumber":"360",
+    "addr:postcode":"90245",
+    "addr:street":"N. Sepulveda Blvd Suite 2050",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.395992,33.917983,-118.395992,33.917983",
     "geom:latitude":33.917983,
     "geom:longitude":-118.395992,
@@ -36,7 +41,7 @@
         85633793,
         85923625,
         102086957,
-        85885943
+        "85885943"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +56,15 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923625,
-            "neighbourhood_id":85885943,
+            "neighbourhood_id":"85885943",
             "region_id":85688637,
             "venue_id":840457955
         }
     ],
     "wof:id":840457955,
-    "wof:lastmodified":1466545429,
+    "wof:lastmodified":1488943657,
     "wof:name":"Sky Bird Travel  Tours",
-    "wof:parent_id":85885943,
+    "wof:parent_id":"85885943",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

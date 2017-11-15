@@ -2,6 +2,10 @@
   "id": 840315117,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Woodlawn Ranch Rd Houma LA 70363",
+    "addr:housenumber":"123",
+    "addr:postcode":"70363",
+    "addr:street":"W Woodlawn Ranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840315117,
-    "wof:lastmodified":1466543305,
+    "wof:lastmodified":1472624639,
     "wof:name":"All Fabrications",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",

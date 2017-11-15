@@ -2,9 +2,14 @@
   "id": 840355565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1839 Esplanade Ave New Orleans LA 70116",
+    "addr:housenumber":"1839",
+    "addr:postcode":"70116",
+    "addr:street":"Esplanade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.070898,29.9711,-90.070898,29.9711",
     "geom:latitude":29.9711,
     "geom:longitude":-90.070898,
@@ -29,7 +34,16 @@
     ],
     "sg:website":"www.neworleanswedding.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m2zDGiqAdeSNhvi7TnGpz_29.971100_-90.070898@1294127638"
@@ -37,11 +51,23 @@
     "wof:country":"US",
     "wof:created":1463529180,
     "wof:geomhash":"5d6c6dbe6591383c33bdc92a758ee7b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840355565
+        }
+    ],
     "wof:id":840355565,
-    "wof:lastmodified":1466543501,
+    "wof:lastmodified":1486689215,
     "wof:name":"New Orleans Wedding Chapel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

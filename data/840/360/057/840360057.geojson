@@ -2,9 +2,14 @@
   "id": 840360057,
   "type": "Feature",
   "properties": {
+    "addr:full":"2349 Easter Ln New Orleans LA 70114",
+    "addr:housenumber":"2349",
+    "addr:postcode":"70114",
+    "addr:street":"Easter Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.012382,29.931523,-90.012382,29.931523",
     "geom:latitude":29.931523,
     "geom:longitude":-90.012382,
@@ -28,7 +33,16 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TRtEltNLRoSWSqaBMSfnE_29.931523_-90.012382@1294127638"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1463529386,
     "wof:geomhash":"5751b65693accab765f885016bc336e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840360057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840360057
+        }
+    ],
     "wof:id":840360057,
-    "wof:lastmodified":1466543589,
+    "wof:lastmodified":1486688997,
     "wof:name":"Accounting For You",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

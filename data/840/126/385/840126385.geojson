@@ -2,9 +2,14 @@
   "id": 840126385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1940 Eagle St New Orleans LA 70118",
+    "addr:housenumber":"1940",
+    "addr:postcode":"70118",
+    "addr:street":"Eagle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.129888,29.957479,-90.129888,29.957479",
     "geom:latitude":29.957479,
     "geom:longitude":-90.129888,
@@ -28,7 +33,15 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Xz5Kq48LXqi3w8GRuiUsd_29.957479_-90.129888@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463521777,
     "wof:geomhash":"77e0783cfe12f37ecd312cb905eab258",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840126385
+        }
+    ],
     "wof:id":840126385,
-    "wof:lastmodified":1466540929,
+    "wof:lastmodified":1486688972,
     "wof:name":"Earline's Lounge",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

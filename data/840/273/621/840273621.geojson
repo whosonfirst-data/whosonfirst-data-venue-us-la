@@ -2,9 +2,14 @@
   "id": 840273621,
   "type": "Feature",
   "properties": {
+    "addr:full":"8819 S Claiborne Ave New Orleans LA 70118",
+    "addr:housenumber":"8819",
+    "addr:postcode":"70118",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.126944,29.961374,-90.126944,29.961374",
     "geom:latitude":29.961374,
     "geom:longitude":-90.126944,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U14k5ffBh7YTYeLhYLVmm_29.961374_-90.126944@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463525336,
     "wof:geomhash":"8202d95b91ade9e2799d13dacea6f8e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840273621
+        }
+    ],
     "wof:id":840273621,
-    "wof:lastmodified":1466542139,
+    "wof:lastmodified":1486689040,
     "wof:name":"Angel's Haven Daycare",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

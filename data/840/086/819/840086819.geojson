@@ -2,9 +2,14 @@
   "id": 840086819,
   "type": "Feature",
   "properties": {
+    "addr:full":"4510 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"4510",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021481,30.015443,-90.021481,30.015443",
     "geom:latitude":30.015443,
     "geom:longitude":-90.021481,
@@ -28,7 +33,15 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OF57eTtwbZ4fvgIuLNaQ3_30.015443_-90.021481@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520957,
     "wof:geomhash":"edda707339401bb608917118076ae32e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840086819
+        }
+    ],
     "wof:id":840086819,
-    "wof:lastmodified":1466540567,
+    "wof:lastmodified":1486687610,
     "wof:name":"A-1 Electric Motor Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840393169,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Post Oak Ave New Orleans LA 70131",
+    "addr:housenumber":"4001",
+    "addr:postcode":"70131",
+    "addr:street":"Post Oak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.995718,29.90518,-89.995718,29.90518",
     "geom:latitude":29.90518,
     "geom:longitude":-89.995718,
@@ -24,7 +29,15 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qV9QVJRKNG77k9qjLDNV2_29.905180_-89.995718@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463530930,
     "wof:geomhash":"8889af4b3561c4e7b7eec31774f87e1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840393169
+        }
+    ],
     "wof:id":840393169,
-    "wof:lastmodified":1466544203,
+    "wof:lastmodified":1486689101,
     "wof:name":"Harco Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

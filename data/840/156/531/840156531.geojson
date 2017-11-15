@@ -2,14 +2,20 @@
   "id": 840156531,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Southpark Rd Lafayette LA 70508",
+    "addr:housenumber":"204",
+    "addr:postcode":"70508",
+    "addr:street":"Southpark Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.985876,30.166096,-91.985876,30.166096",
     "geom:latitude":30.166096,
     "geom:longitude":-91.985876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"204 Southpark Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85841585
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tP7Ajh4OIHMV6C52Bp08l_30.166096_-91.985876@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522378,
-    "wof:geomhash":"fc58e82f91d7d9273aec1767c468a648",
+    "wof:geomhash":"18137e0c1691cd047d35de8ed3d36e29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840156531,
-    "wof:lastmodified":1466541252,
+    "wof:lastmodified":1510696927,
     "wof:name":"International Paper Co",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

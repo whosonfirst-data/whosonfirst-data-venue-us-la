@@ -2,14 +2,20 @@
   "id": 840367411,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Chubasco Ln Slidell LA 70458",
+    "addr:housenumber":"211",
+    "addr:postcode":"70458",
+    "addr:street":"Chubasco Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.798501,30.223847,-89.798501,30.223847",
     "geom:latitude":30.223847,
     "geom:longitude":-89.798501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 Chubasco Ln",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082453,
         85838725
     ],
+    "wof:brand_id":420575915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19XqAlKoy32DpPPoOseVVq_30.223847_-89.798501@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529752,
-    "wof:geomhash":"5eab6e83fbf2a24443afc41877b548cc",
+    "wof:geomhash":"95c2a054e4022df5daf077b1645a831d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840367411,
-    "wof:lastmodified":1466543698,
+    "wof:lastmodified":1510602848,
     "wof:name":"Chicago Title Insurance Co",
     "wof:parent_id":85838725,
     "wof:placetype":"venue",

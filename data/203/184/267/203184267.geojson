@@ -2,14 +2,20 @@
   "id": 203184267,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Paris Rd Chalmette LA 70043",
+    "addr:housenumber":"3901",
+    "addr:postcode":"70043",
+    "addr:street":"Paris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.957199,29.955999,-89.957199,29.955999",
     "geom:latitude":29.955999,
     "geom:longitude":-89.957199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3901 Paris Rd",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102082447,
         85853675
     ],
+    "wof:brand_id":1125159413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09sBMSUgPtjZRMtEvlQOlR_29.955999_-89.957199@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"7491c3bdfd615c88dc8e406dc2416c37",
+    "wof:geomhash":"55f3922776066359bc72ab50e16fcfe3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":203184267,
-    "wof:lastmodified":1466540954,
+    "wof:lastmodified":1510699366,
     "wof:name":"Tony's Auto Repair",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

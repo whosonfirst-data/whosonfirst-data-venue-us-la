@@ -2,14 +2,20 @@
   "id": 840354447,
   "type": "Feature",
   "properties": {
+    "addr:full":"487 US Hwy 171 Lake Charles LA 70611",
+    "addr:housenumber":"487",
+    "addr:postcode":"70611",
+    "addr:street":"Us Hwy 171",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.195016,30.307139,-93.195016,30.307139",
     "geom:latitude":30.307139,
     "geom:longitude":-93.195016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"487 US Hwy 171",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125153771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00zAkgfQ5VcsGA1l1fIQAm_30.307139_-93.195016@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529129,
-    "wof:geomhash":"fb36913313b3fe1ae07c452e091a82d0",
+    "wof:geomhash":"e3d3762f039d554d2140f9a02d7c68bd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840354447,
-    "wof:lastmodified":1466543481,
+    "wof:lastmodified":1510693978,
     "wof:name":"Grand Rental Station",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

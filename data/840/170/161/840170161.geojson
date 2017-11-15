@@ -2,9 +2,14 @@
   "id": 840170161,
   "type": "Feature",
   "properties": {
+    "addr:full":"5178 Metropolitan Dr New Orleans LA 70126",
+    "addr:housenumber":"5178",
+    "addr:postcode":"70126",
+    "addr:street":"Metropolitan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.039533,30.013367,-90.039533,30.013367",
     "geom:latitude":30.013367,
     "geom:longitude":-90.039533,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821299,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +55,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":840170161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821299,
             "region_id":85688735,
             "venue_id":840170161
         }
     ],
     "wof:id":840170161,
-    "wof:lastmodified":1466541171,
+    "wof:lastmodified":1486688052,
     "wof:name":"Red Top Roofing Inc",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",

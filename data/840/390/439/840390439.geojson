@@ -2,9 +2,14 @@
   "id": 840390439,
   "type": "Feature",
   "properties": {
+    "addr:full":"3221 Behrman Pl New Orleans LA 70114",
+    "addr:housenumber":"3221",
+    "addr:postcode":"70114",
+    "addr:street":"Behrman Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017473,29.922272,-90.017473,29.922272",
     "geom:latitude":29.922272,
     "geom:longitude":-90.017473,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BPVoEqYZpM0hUMdbpl1YT_29.922272_-90.017473@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463530824,
     "wof:geomhash":"143efa29777a3ac269cd545cd75512da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840390439
+        }
+    ],
     "wof:id":840390439,
-    "wof:lastmodified":1466544249,
+    "wof:lastmodified":1486689102,
     "wof:name":"State Farm Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

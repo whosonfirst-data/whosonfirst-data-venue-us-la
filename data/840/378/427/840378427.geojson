@@ -2,9 +2,14 @@
   "id": 840378427,
   "type": "Feature",
   "properties": {
+    "addr:full":"5547 Pauline Dr New Orleans LA 70126",
+    "addr:housenumber":"5547",
+    "addr:postcode":"70126",
+    "addr:street":"Pauline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.033535,30.016897,-90.033535,30.016897",
     "geom:latitude":30.016897,
     "geom:longitude":-90.033535,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420784451,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85809063
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,26 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85809063,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":420784451,
+            "region_id":85688735,
+            "venue_id":840378427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784451,
             "region_id":85688735,
             "venue_id":840378427
         }
     ],
     "wof:id":840378427,
-    "wof:lastmodified":1466544126,
+    "wof:lastmodified":1486688969,
     "wof:name":"Reed Construction Service",
-    "wof:parent_id":85809063,
+    "wof:parent_id":420784451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840370827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2138 Beaumont Dr Baton Rouge LA 70806",
+    "addr:housenumber":"2138",
+    "addr:postcode":"70806",
+    "addr:street":"Beaumont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.111097,30.469383,-91.111097,30.469383",
     "geom:latitude":30.469383,
     "geom:longitude":-91.111097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2138 Beaumont Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087229,
         85822275
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VQsC5EfJbZnSqJf26GfyU_30.469383_-91.111097@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529933,
-    "wof:geomhash":"1a5c55f656c13e5f47373d612bd6fcfe",
+    "wof:geomhash":"f20d4810c1c94d7db0571a939e3f3de1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840370827,
-    "wof:lastmodified":1466543883,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85822275,
     "wof:placetype":"venue",

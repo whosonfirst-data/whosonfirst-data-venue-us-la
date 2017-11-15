@@ -2,14 +2,20 @@
   "id": 840374899,
   "type": "Feature",
   "properties": {
+    "addr:full":"4034 Goodman Ln Lake Charles LA 70615",
+    "addr:housenumber":"4034",
+    "addr:postcode":"70615",
+    "addr:street":"Goodman Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.156557,30.234847,-93.156557,30.234847",
     "geom:latitude":30.234847,
     "geom:longitude":-93.156557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4034 Goodman Ln",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6raTBLP9lECq0hjAs1LUI6_30.234847_-93.156557@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530126,
-    "wof:geomhash":"bb7a78e9e99f483a7686ab5c51a95249",
+    "wof:geomhash":"9fae339005ed071ad119d6d36895e165",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840374899,
-    "wof:lastmodified":1466544009,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

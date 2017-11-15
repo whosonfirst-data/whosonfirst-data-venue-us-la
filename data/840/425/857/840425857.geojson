@@ -2,14 +2,20 @@
   "id": 840425857,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 N 4th St Monroe LA 71201",
+    "addr:housenumber":"400",
+    "addr:postcode":"71201",
+    "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.11769,32.50694,-92.11769,32.50694",
     "geom:latitude":32.50694,
     "geom:longitude":-92.11769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 N 4th St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EcyEfSX2v6cjmEmEu9Hwn_32.506940_-92.117690@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532270,
-    "wof:geomhash":"ffa707b5569461e141971da4689d076b",
+    "wof:geomhash":"ac56ed55e849e16206d4cbee3ffc3102",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840425857,
-    "wof:lastmodified":1466544928,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

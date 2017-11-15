@@ -2,9 +2,14 @@
   "id": 840299617,
   "type": "Feature",
   "properties": {
+    "addr:full":"8703 Curran Blvd New Orleans LA 70127",
+    "addr:housenumber":"8703",
+    "addr:postcode":"70127",
+    "addr:street":"Curran Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.993632,30.040985,-89.993632,30.040985",
     "geom:latitude":30.040985,
     "geom:longitude":-89.993632,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866167,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85829105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829105,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
             "region_id":85688735,
             "venue_id":840299617
         }
     ],
     "wof:id":840299617,
-    "wof:lastmodified":1466542402,
+    "wof:lastmodified":1486688714,
     "wof:name":"Tonys",
-    "wof:parent_id":85829105,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

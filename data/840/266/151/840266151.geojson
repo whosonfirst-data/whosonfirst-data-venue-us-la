@@ -2,14 +2,20 @@
   "id": 840266151,
   "type": "Feature",
   "properties": {
+    "addr:full":"9025 W Judge Perez Dr Chalmette LA 70043",
+    "addr:housenumber":"9025",
+    "addr:postcode":"70043",
+    "addr:street":"W Judge Perez Dr Chalmette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.971405,29.948302,-89.971405,29.948302",
     "geom:latitude":29.948302,
     "geom:longitude":-89.971405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9025 W Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082447,
         85853675
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LjeVMMgkQcQ3QhDDJNyqt_29.948302_-89.971405@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524979,
-    "wof:geomhash":"e1d33f3637f6dc0f67c7dc94c841ecb9",
+    "wof:geomhash":"a6bd12ff52231b2518e206e54ca5cb04",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840266151,
-    "wof:lastmodified":1466541994,
+    "wof:lastmodified":1510604947,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

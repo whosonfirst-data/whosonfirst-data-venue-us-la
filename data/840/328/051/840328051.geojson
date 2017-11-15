@@ -2,14 +2,20 @@
   "id": 840328051,
   "type": "Feature",
   "properties": {
+    "addr:full":"2407 Broadmoor Blvd Monroe LA 71201",
+    "addr:housenumber":"2407",
+    "addr:postcode":"71201",
+    "addr:street":"Broadmoor Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.102036,32.536777,-92.102036,32.536777",
     "geom:latitude":32.536777,
     "geom:longitude":-92.102036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2407 Broadmoor Blvd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wPb2tW8mDCLExUYLsmsSh_32.536777_-92.102036@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527861,
-    "wof:geomhash":"e5f97a5780454e95252be305c44c82f3",
+    "wof:geomhash":"3d2bd636aeb8a956fcbf86ec693f1639",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840328051,
-    "wof:lastmodified":1466543061,
+    "wof:lastmodified":1510604739,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

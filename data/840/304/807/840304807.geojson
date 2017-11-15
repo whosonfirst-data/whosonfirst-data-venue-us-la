@@ -2,14 +2,20 @@
   "id": 840304807,
   "type": "Feature",
   "properties": {
+    "addr:full":"906 C M Fagan Dr Hammond LA 70403",
+    "addr:housenumber":"906 c m",
+    "addr:postcode":"70403",
+    "addr:street":"Fagan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.46577,30.482827,-90.46577,30.482827",
     "geom:latitude":30.482827,
     "geom:longitude":-90.46577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"906 C M Fagan Dr",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083809,
         85839553
     ],
+    "wof:brand_id":1125155911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QuzWYBViHt90w4iryy3Sj_30.482827_-90.465770@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526755,
-    "wof:geomhash":"ea6bb59e52bc53d552f588eea8f1242d",
+    "wof:geomhash":"3b8a2aed1b78b3911000dd3d3cc9f68c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840304807,
-    "wof:lastmodified":1466542649,
+    "wof:lastmodified":1510699422,
     "wof:name":"Crawford & Company",
     "wof:parent_id":85839553,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203249101,
   "type": "Feature",
   "properties": {
+    "addr:full":"671 Whitney Ave # B New Orleans LA 70114",
+    "addr:housenumber":"671",
+    "addr:postcode":"70114",
+    "addr:street":"Whitney Ave # B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.040604,29.948601,-90.040604,29.948601",
     "geom:latitude":29.948601,
     "geom:longitude":-90.040604,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866159,
+        102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866159
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"16c2b2950adeb3b9e91fc72d25bbf9e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739497,
             "neighbourhood_id":85866159,
             "region_id":85688735,
             "venue_id":203249101
         }
     ],
     "wof:id":203249101,
-    "wof:lastmodified":1466539311,
+    "wof:lastmodified":1486687929,
     "wof:name":"Worktec Temporaries Inc",
     "wof:parent_id":85866159,
     "wof:placetype":"venue",

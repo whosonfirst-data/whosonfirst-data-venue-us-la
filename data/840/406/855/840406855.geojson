@@ -2,9 +2,14 @@
   "id": 840406855,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Henry Clay Ave New Orleans LA 70118",
+    "addr:housenumber":"333",
+    "addr:postcode":"70118",
+    "addr:street":"Henry Clay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.126154,29.919235,-90.126154,29.919235",
     "geom:latitude":29.919235,
     "geom:longitude":-90.126154,
@@ -28,7 +33,15 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w4TVv1zvPalHDEWCSEEDk_29.919235_-90.126154@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463531491,
     "wof:geomhash":"1b8a37ab000b5f567e22f7f97b2cdeac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840406855
+        }
+    ],
     "wof:id":840406855,
-    "wof:lastmodified":1466544649,
+    "wof:lastmodified":1486688662,
     "wof:name":"Miller Manor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

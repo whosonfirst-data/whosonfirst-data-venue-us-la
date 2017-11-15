@@ -2,9 +2,14 @@
   "id": 840280885,
   "type": "Feature",
   "properties": {
+    "addr:full":"2126 A P Tureaud Ave New Orleans LA 70119",
+    "addr:housenumber":"2126",
+    "addr:postcode":"70119",
+    "addr:street":"A P Tureaud Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06733,29.978388,-90.06733,29.978388",
     "geom:latitude":29.978388,
     "geom:longitude":-90.06733,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866083,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866083,
             "region_id":85688735,
             "venue_id":840280885
         }
     ],
     "wof:id":840280885,
-    "wof:lastmodified":1466542358,
+    "wof:lastmodified":1486688333,
     "wof:name":"New Edition",
     "wof:parent_id":85866083,
     "wof:placetype":"venue",

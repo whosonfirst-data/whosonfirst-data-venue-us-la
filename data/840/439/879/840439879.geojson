@@ -2,14 +2,20 @@
   "id": 840439879,
   "type": "Feature",
   "properties": {
+    "addr:full":"6725 Siegen Ln Baton Rouge LA 70809",
+    "addr:housenumber":"6725",
+    "addr:postcode":"70809",
+    "addr:street":"Siegen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.062955,30.38728,-91.062955,30.38728",
     "geom:latitude":30.38728,
     "geom:longitude":-91.062955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6725 Siegen Ln",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":420575539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52zpM2XmXaDRLkuPQDKQgf_30.387280_-91.062955@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532890,
-    "wof:geomhash":"c977e427395892537104dec7c59aa1bc",
+    "wof:geomhash":"337cb1d841845a523706fe0907ba586a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840439879,
-    "wof:lastmodified":1466545169,
+    "wof:lastmodified":1510602694,
     "wof:name":"Household Finance",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840449413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2836 Sullen Pl New Orleans LA 70131",
+    "addr:housenumber":"2836",
+    "addr:postcode":"70131",
+    "addr:street":"Sullen Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.985298,29.923201,-89.985298,29.923201",
     "geom:latitude":29.923201,
     "geom:longitude":-89.985298,
@@ -24,7 +29,16 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q0xFJAR55rmKtHPRMffYf_29.923247_-89.985058@1293134755"
@@ -32,11 +46,32 @@
     "wof:country":"US",
     "wof:created":1463533273,
     "wof:geomhash":"88dd272b0e48b61e820669f30f4dea93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840449413
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840449413
+        }
+    ],
     "wof:id":840449413,
-    "wof:lastmodified":1466545306,
+    "wof:lastmodified":1486689007,
     "wof:name":"Second Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840167005,
   "type": "Feature",
   "properties": {
+    "addr:full":"1958 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"1958",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.105058,32.518383,-92.105058,32.518383",
     "geom:latitude":32.518383,
     "geom:longitude":-92.105058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1958 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":420575789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39uovYP6RVldvMy57bHhxO_32.518383_-92.105058@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522588,
-    "wof:geomhash":"837bf954a5b7209505f910e7c8a34a62",
+    "wof:geomhash":"10c3c1e023b57889120e190d9fe6a15e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840167005,
-    "wof:lastmodified":1466541296,
+    "wof:lastmodified":1510602089,
     "wof:name":"Catherines Plus Sizes",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

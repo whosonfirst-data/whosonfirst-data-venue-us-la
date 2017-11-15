@@ -2,9 +2,14 @@
   "id": 840409179,
   "type": "Feature",
   "properties": {
+    "addr:full":"5961 Winchester Park Dr New Orleans LA 70128",
+    "addr:housenumber":"5961",
+    "addr:postcode":"70128",
+    "addr:street":"Winchester Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.964481,30.043157,-89.964481,30.043157",
     "geom:latitude":30.043157,
     "geom:longitude":-89.964481,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866173,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866173
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85866173,
             "region_id":85688735,
             "venue_id":840409179
         }
     ],
     "wof:id":840409179,
-    "wof:lastmodified":1466544701,
+    "wof:lastmodified":1486687616,
     "wof:name":"Legier Builders LLC",
     "wof:parent_id":85866173,
     "wof:placetype":"venue",

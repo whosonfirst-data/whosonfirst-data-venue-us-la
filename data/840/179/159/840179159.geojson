@@ -2,9 +2,14 @@
   "id": 840179159,
   "type": "Feature",
   "properties": {
+    "addr:full":"2517 Rousseau St New Orleans LA 70130",
+    "addr:housenumber":"2517",
+    "addr:postcode":"70130",
+    "addr:street":"Rousseau St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.076895,29.922075,-90.076895,29.922075",
     "geom:latitude":29.922075,
     "geom:longitude":-90.076895,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746823,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N3BWjCSAK1qcGD7MSZibj_29.922075_-90.076895@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522892,
     "wof:geomhash":"a3d69231ce58f3da43997e1e91ade83e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746823,
+            "region_id":85688735,
+            "venue_id":840179159
+        }
+    ],
     "wof:id":840179159,
-    "wof:lastmodified":1466541282,
+    "wof:lastmodified":1486689048,
     "wof:name":"Charles J Munch & Sons",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

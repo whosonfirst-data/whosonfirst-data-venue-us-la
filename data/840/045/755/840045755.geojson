@@ -2,9 +2,14 @@
   "id": 840045755,
   "type": "Feature",
   "properties": {
+    "addr:full":"5835 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"5835",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.119586,29.921737,-90.119586,29.921737",
     "geom:latitude":29.921737,
     "geom:longitude":-90.119586,
@@ -28,7 +33,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hdYSihkbdVtpUvbvb5qt5_29.921737_-90.119586@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463519960,
     "wof:geomhash":"4ce2ee41f6c615a7630102f5fc734a47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840045755
+        }
+    ],
     "wof:id":840045755,
-    "wof:lastmodified":1466540126,
+    "wof:lastmodified":1486688660,
     "wof:name":"National Art & Hobby",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

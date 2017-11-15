@@ -2,9 +2,14 @@
   "id": 840361843,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 Eleonore St New Orleans LA 70115",
+    "addr:housenumber":"603",
+    "addr:postcode":"70115",
+    "addr:street":"Eleonore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.120009,29.920831,-90.120009,29.920831",
     "geom:latitude":29.920831,
     "geom:longitude":-90.120009,
@@ -27,7 +32,15 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dXz6KYe2kenCFgX1GgG6T_29.920831_-90.120009@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463529473,
     "wof:geomhash":"491a5633d8aaa1df5c02c7dbddde5175",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840361843
+        }
+    ],
     "wof:id":840361843,
-    "wof:lastmodified":1466543711,
+    "wof:lastmodified":1486689112,
     "wof:name":"Westside Home Improvement C",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

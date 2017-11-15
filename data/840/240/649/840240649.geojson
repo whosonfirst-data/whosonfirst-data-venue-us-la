@@ -2,9 +2,14 @@
   "id": 840240649,
   "type": "Feature",
   "properties": {
+    "addr:full":"241 Royal St New Orleans LA 70130",
+    "addr:housenumber":"241",
+    "addr:postcode":"70130",
+    "addr:street":"Royal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06781,29.954562,-90.06781,29.954562",
     "geom:latitude":29.954562,
     "geom:longitude":-90.06781,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85851209
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85851209,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840240649
         }
     ],
     "wof:id":840240649,
-    "wof:lastmodified":1466541790,
+    "wof:lastmodified":1486688405,
     "wof:name":"Rothschild Antiques",
-    "wof:parent_id":85851209,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840369793,
   "type": "Feature",
   "properties": {
+    "addr:full":"1243 Veterans Memorial Blvd Kenner LA 70062",
+    "addr:housenumber":"1243",
+    "addr:postcode":"70062",
+    "addr:street":"Veterans Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.252855,30.006411,-90.252855,30.006411",
     "geom:latitude":30.006411,
     "geom:longitude":-90.252855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1243 Veterans Memorial Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kt8MwWrVJmmWv7LnL0SMJ_30.006411_-90.252855@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529891,
-    "wof:geomhash":"9024d7272068f0ef8bbf67b984ca07d3",
+    "wof:geomhash":"9f231e2f5cd1d7d5a6ed7d4fd49e867e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840369793,
-    "wof:lastmodified":1466543873,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

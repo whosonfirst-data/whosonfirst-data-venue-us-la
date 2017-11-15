@@ -2,9 +2,14 @@
   "id": 840121843,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 S Alexander St New Orleans LA 70119",
+    "addr:housenumber":"701",
+    "addr:postcode":"70119",
+    "addr:street":"S Alexander St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.109057,29.971344,-90.109057,29.971344",
     "geom:latitude":29.971344,
     "geom:longitude":-90.109057,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866145
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866145,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840121843
         }
     ],
     "wof:id":840121843,
-    "wof:lastmodified":1466540936,
+    "wof:lastmodified":1486688888,
     "wof:name":"John J Hazard Drayage & Constr",
-    "wof:parent_id":85866145,
+    "wof:parent_id":85869483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

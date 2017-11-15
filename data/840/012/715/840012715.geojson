@@ -2,9 +2,14 @@
   "id": 840012715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Lizardi St New Orleans LA 70117",
+    "addr:housenumber":"1700",
+    "addr:postcode":"70117",
+    "addr:street":"Lizardi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.018121,29.969348,-90.018121,29.969348",
     "geom:latitude":29.969348,
     "geom:longitude":-90.018121,
@@ -24,7 +29,15 @@
     "sg:postcode":"70117",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746835,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UMMVvMZLquNdPSEVHeXpB_29.969348_-90.018121@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463519263,
     "wof:geomhash":"119751243a6abcb3de0428f8f16f0359",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
+            "region_id":85688735,
+            "venue_id":840012715
+        }
+    ],
     "wof:id":840012715,
-    "wof:lastmodified":1466539739,
+    "wof:lastmodified":1486689082,
     "wof:name":"A Step Above",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

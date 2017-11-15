@@ -2,9 +2,14 @@
   "id": 840433551,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Monticello Ave New Orleans LA 70121",
+    "addr:housenumber":"800",
+    "addr:postcode":"70121",
+    "addr:street":"Monticello Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.132916,29.960092,-90.132916,29.960092",
     "geom:latitude":29.960092,
     "geom:longitude":-90.132916,
@@ -28,7 +33,15 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Kb2pJmkZ8OhH9VaB2Zdtv_29.960092_-90.132916@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463532622,
     "wof:geomhash":"ba041152e4906d6f0e622213e03d0730",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840433551
+        }
+    ],
     "wof:id":840433551,
-    "wof:lastmodified":1466545101,
+    "wof:lastmodified":1486688982,
     "wof:name":"Thelma Otterman",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

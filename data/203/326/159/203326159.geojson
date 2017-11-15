@@ -2,14 +2,20 @@
   "id": 203326159,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Saint Nazaire Rd Broussard LA 70518",
+    "addr:housenumber":"219",
+    "addr:postcode":"70518",
+    "addr:street":"Saint Nazaire Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.945219,30.140603,-91.945219,30.140603",
     "geom:latitude":30.140603,
     "geom:longitude":-91.945219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 Saint Nazaire Rd",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102081919,
         85806101
     ],
+    "wof:brand_id":1125159883,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wPzCIZrKe772jtFoc32oT_30.140603_-91.945219@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"ae8116aeaae220f0c53b3a39a03375c1",
+    "wof:geomhash":"e4872289f56ae3c7cab3992a7b93f4d0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":203326159,
-    "wof:lastmodified":1466539424,
+    "wof:lastmodified":1510697986,
     "wof:name":"Hibbett Sports",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",

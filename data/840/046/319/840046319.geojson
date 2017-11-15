@@ -2,14 +2,20 @@
   "id": 840046319,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 Wood St Monroe LA 71201",
+    "addr:housenumber":"507",
+    "addr:postcode":"71201",
+    "addr:street":"Wood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.112012,32.501516,-92.112012,32.501516",
     "geom:latitude":32.501516,
     "geom:longitude":-92.112012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"507 Wood St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125151735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TmZtEwteSMKMUnwKbMWd0_32.501516_-92.112012@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519970,
-    "wof:geomhash":"d38513390e56aface583cfc1bf02004c",
+    "wof:geomhash":"950c9c5076b62d208d77d01e7143e5f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840046319,
-    "wof:lastmodified":1466540078,
+    "wof:lastmodified":1510698805,
     "wof:name":"Internal Medicine Assoc",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

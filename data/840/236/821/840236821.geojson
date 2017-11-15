@@ -2,9 +2,14 @@
   "id": 840236821,
   "type": "Feature",
   "properties": {
+    "addr:full":"5640 Tullis Dr New Orleans LA 70131",
+    "addr:housenumber":"5640",
+    "addr:postcode":"70131",
+    "addr:street":"Tullis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.995232,29.902209,-89.995232,29.902209",
     "geom:latitude":29.902209,
     "geom:longitude":-89.995232,
@@ -27,7 +32,15 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S0aub0QkGWToNWvLhLRCm_29.902209_-89.995232@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463524291,
     "wof:geomhash":"a22e8b39d6737a2f008811dc6483ceeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840236821
+        }
+    ],
     "wof:id":840236821,
-    "wof:lastmodified":1466541762,
+    "wof:lastmodified":1486689098,
     "wof:name":"Captain Jacque Bouncing Castle",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

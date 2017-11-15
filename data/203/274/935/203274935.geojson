@@ -2,9 +2,14 @@
   "id": 203274935,
   "type": "Feature",
   "properties": {
+    "addr:full":"4819 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"4819",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.034103,30.006399,-90.034103,30.006399",
     "geom:latitude":30.006399,
     "geom:longitude":-90.034103,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821299,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +51,28 @@
     "wof:geomhash":"bc06a4da2c8964fa6c292a45b134b11b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":203274935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821299,
             "region_id":85688735,
             "venue_id":203274935
         }
     ],
     "wof:id":203274935,
-    "wof:lastmodified":1466539357,
+    "wof:lastmodified":1486688030,
     "wof:name":"Madison Romell J DDS",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",

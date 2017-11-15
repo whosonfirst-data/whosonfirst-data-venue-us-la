@@ -2,9 +2,14 @@
   "id": 840090441,
   "type": "Feature",
   "properties": {
+    "addr:full":"5521 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"5521",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.116867,29.921246,-90.116867,29.921246",
     "geom:latitude":29.921246,
     "geom:longitude":-90.116867,
@@ -25,7 +30,15 @@
     "sg:province":"LA",
     "sg:website":"www.piednu.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DigLHXt6j4AmaJdB6vY7S_29.921246_-90.116867@1294127638"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1463521028,
     "wof:geomhash":"dc7694f1172774cd37701b469525b5d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840090441
+        }
+    ],
     "wof:id":840090441,
-    "wof:lastmodified":1466540607,
+    "wof:lastmodified":1486688666,
     "wof:name":"Pied Nu",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

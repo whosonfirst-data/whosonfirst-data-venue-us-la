@@ -2,9 +2,14 @@
   "id": 840305435,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 Dauphine St New Orleans LA 70117",
+    "addr:housenumber":"5300",
+    "addr:postcode":"70117",
+    "addr:street":"Dauphine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019554,29.958653,-90.019554,29.958653",
     "geom:latitude":29.958653,
     "geom:longitude":-90.019554,
@@ -29,7 +34,15 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746821,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32jToNxdEvc9xsSSODSaC2_29.958653_-90.019554@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463526782,
     "wof:geomhash":"e98451828014d524f52789c521364ef1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746821,
+            "region_id":85688735,
+            "venue_id":840305435
+        }
+    ],
     "wof:id":840305435,
-    "wof:lastmodified":1466542704,
+    "wof:lastmodified":1486689044,
     "wof:name":"Ochosi Guard Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840266821,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Halsey Ave New Orleans LA 70114",
+    "addr:housenumber":"3030",
+    "addr:postcode":"70114",
+    "addr:street":"Halsey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017519,29.923692,-90.017519,29.923692",
     "geom:latitude":29.923692,
     "geom:longitude":-90.017519,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NJoyrFwCAUARqPvSt8nUm_29.923692_-90.017519@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463525014,
     "wof:geomhash":"85e18e1690196151ea4708594cb6d2c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840266821
+        }
+    ],
     "wof:id":840266821,
-    "wof:lastmodified":1466541930,
+    "wof:lastmodified":1486688958,
     "wof:name":"George & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

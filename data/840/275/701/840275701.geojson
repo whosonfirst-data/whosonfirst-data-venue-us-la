@@ -2,9 +2,14 @@
   "id": 840275701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2238 Milan St New Orleans LA 70115",
+    "addr:housenumber":"2238",
+    "addr:postcode":"70115",
+    "addr:street":"Milan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.100427,29.93315,-90.100427,29.93315",
     "geom:latitude":29.93315,
     "geom:longitude":-90.100427,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866119,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866119
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866119,
             "region_id":85688735,
             "venue_id":840275701
         }
     ],
     "wof:id":840275701,
-    "wof:lastmodified":1466542306,
+    "wof:lastmodified":1486687327,
     "wof:name":"Brown's Grocery",
     "wof:parent_id":85866119,
     "wof:placetype":"venue",

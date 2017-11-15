@@ -2,14 +2,20 @@
   "id": 840156359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 Spencer Ave Monroe LA 71201",
+    "addr:housenumber":"1406",
+    "addr:postcode":"71201",
+    "addr:street":"Spencer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.1184,32.529396,-92.1184,32.529396",
     "geom:latitude":32.529396,
     "geom:longitude":-92.1184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1406 Spencer Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125156293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68PV3OgVw2LSy3zybtk478_32.529396_-92.118400@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522374,
-    "wof:geomhash":"25444df83dc7de1bcb654fdacbf168bb",
+    "wof:geomhash":"645e3da0235d051c31c67a8f7a4c7289",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840156359,
-    "wof:lastmodified":1466541250,
+    "wof:lastmodified":1510695377,
     "wof:name":"R J Reynolds Tobacco Company",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

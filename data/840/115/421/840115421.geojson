@@ -2,14 +2,20 @@
   "id": 840115421,
   "type": "Feature",
   "properties": {
+    "addr:full":"709 S 13th St Monroe LA 71202",
+    "addr:housenumber":"709",
+    "addr:postcode":"71202",
+    "addr:street":"S 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.095836,32.497937,-92.095836,32.497937",
     "geom:latitude":32.497937,
     "geom:longitude":-92.095836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"709 S 13th St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125155171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T0Rd0pReTcsfeh3HTRlQ9_32.497937_-92.095836@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521544,
-    "wof:geomhash":"40015ffaa9683deeb43619620866bbab",
+    "wof:geomhash":"405d2829db45e85c07cc449ca19e69e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840115421,
-    "wof:lastmodified":1466540817,
+    "wof:lastmodified":1510699385,
     "wof:name":"Mt Pleasant Baptist Church",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840227497,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Constitution Blvd Alexandria LA 71303",
+    "addr:housenumber":"104",
+    "addr:postcode":"71303",
+    "addr:street":"Constitution Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.486262,31.299455,-92.486262,31.299455",
     "geom:latitude":31.299455,
     "geom:longitude":-92.486262,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 Constitution Blvd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":420575191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ITzH44ICaa5JT73LG4byG_31.299455_-92.486262@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524030,
-    "wof:geomhash":"d71e1b46da0321b6faca04592e1711c2",
+    "wof:geomhash":"07e2b7f071d802d6a472430d9531071b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840227497,
-    "wof:lastmodified":1466541726,
+    "wof:lastmodified":1510602780,
     "wof:name":"Manpower Temporary Svc",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

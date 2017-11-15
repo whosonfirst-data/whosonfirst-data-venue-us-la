@@ -2,9 +2,14 @@
   "id": 203271905,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Gentilly Blvd New Orleans LA 70122",
+    "addr:housenumber":"3100",
+    "addr:postcode":"70122",
+    "addr:street":"Gentilly Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.060359,29.998072,-90.060359,29.998072",
     "geom:latitude":29.998072,
     "geom:longitude":-90.060359,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866059,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866059
+        85688735,
+        1108739491
     ],
     "wof:brand_id":420575765,
     "wof:breaches":[],
@@ -43,17 +51,28 @@
     "wof:geomhash":"2aae549456bf95eed85ac2eace9c6983",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":203271905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866059,
             "region_id":85688735,
             "venue_id":203271905
         }
     ],
     "wof:id":203271905,
-    "wof:lastmodified":1466539362,
+    "wof:lastmodified":1486688042,
     "wof:name":"Rite Aid Pharmacies",
     "wof:parent_id":85866059,
     "wof:placetype":"venue",

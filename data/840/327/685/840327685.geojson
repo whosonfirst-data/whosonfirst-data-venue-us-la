@@ -2,14 +2,20 @@
   "id": 840327685,
   "type": "Feature",
   "properties": {
+    "addr:full":"11135 Industriplex Blvd Baton Rouge LA 70809",
+    "addr:housenumber":"11135",
+    "addr:postcode":"70809",
+    "addr:street":"Industriplex Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.057088,30.388407,-91.057088,30.388407",
     "geom:latitude":30.388407,
     "geom:longitude":-91.057088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11135 Industriplex Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TPvHhiRmIL1lfsjwRRblL_30.388407_-91.057088@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527847,
-    "wof:geomhash":"2538e0eee5f8d792cc8abddc9d4aafeb",
+    "wof:geomhash":"ab8dc019fc011a8c2cce65e681acb748",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840327685,
-    "wof:lastmodified":1466543085,
+    "wof:lastmodified":1510695201,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

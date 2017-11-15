@@ -2,14 +2,20 @@
   "id": 840151427,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 Behrman Pl New Orleans LA 70114",
+    "addr:housenumber":"4021",
+    "addr:postcode":"70114",
+    "addr:street":"Behrman Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017876,29.91305,-90.017876,29.91305",
     "geom:latitude":29.91305,
     "geom:longitude":-90.017876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4021 Behrman Pl",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -27,19 +33,39 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
+    "wof:brand_id":420575253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jk5aiIZcVhjKq9XOjjwR2_29.913050_-90.017876@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522276,
-    "wof:geomhash":"9ab6e15c385f6c9d8df6c65ced85877d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e6079c536ed7e9e97b247387097bf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840151427
+        }
+    ],
     "wof:id":840151427,
-    "wof:lastmodified":1466540670,
+    "wof:lastmodified":1510618702,
     "wof:name":"Friedman's",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

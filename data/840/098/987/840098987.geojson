@@ -2,14 +2,20 @@
   "id": 840098987,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 Grefer Ave Harvey LA 70058",
+    "addr:housenumber":"403",
+    "addr:postcode":"70058",
+    "addr:street":"Grefer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.07887,29.907157,-90.07887,29.907157",
     "geom:latitude":29.907157,
     "geom:longitude":-90.07887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"403 Grefer Ave",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85866113
     ],
+    "wof:brand_id":1125155497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11Cz1TTdxB4v1BZczl6KGp_29.907157_-90.078870@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521191,
-    "wof:geomhash":"1a1d1be2e8bebc51ba85fadf078f7c13",
+    "wof:geomhash":"7f5ad47c7aed22753cf584b4d32ef471",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840098987,
-    "wof:lastmodified":1466540747,
+    "wof:lastmodified":1510694921,
     "wof:name":"Greyhound Package Express",
     "wof:parent_id":85866113,
     "wof:placetype":"venue",

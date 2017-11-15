@@ -2,14 +2,20 @@
   "id": 840416953,
   "type": "Feature",
   "properties": {
+    "addr:full":"3211 Lavey Ln Baker LA 70714",
+    "addr:housenumber":"",
+    "addr:postcode":"3211;70714",
+    "addr:street":"Lavey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.16727,30.575395,-91.16727,30.575395",
     "geom:latitude":30.575395,
     "geom:longitude":-91.16727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3211 Lavey Ln",
     "sg:city":"Baker",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85840811
     ],
+    "wof:brand_id":1125157775,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44oOGJsDhiHpn8dKHMyiuK_30.575395_-91.167270@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531903,
-    "wof:geomhash":"d8654e5966a119ffa584f90e86af6637",
+    "wof:geomhash":"6655c91b93d01661a057789915f13519",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840416953,
-    "wof:lastmodified":1466544870,
+    "wof:lastmodified":1510697444,
     "wof:name":"Avon Products Inc",
     "wof:parent_id":85840811,
     "wof:placetype":"venue",

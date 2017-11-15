@@ -2,9 +2,14 @@
   "id": 840430393,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"5005",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.109982,29.920433,-90.109982,29.920433",
     "geom:latitude":29.920433,
     "geom:longitude":-90.109982,
@@ -25,7 +30,15 @@
     "sg:province":"LA",
     "sg:website":"www.t-dcl.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866125,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nB2zyHUeBONl73f7v2HrR_29.920433_-90.109982@1294127638"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1463532463,
     "wof:geomhash":"f095e8433c195c980f74f97049811ea8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866125,
+            "region_id":85688735,
+            "venue_id":840430393
+        }
+    ],
     "wof:id":840430393,
-    "wof:lastmodified":1466545068,
+    "wof:lastmodified":1486688646,
     "wof:name":"Torre Design Consortium LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

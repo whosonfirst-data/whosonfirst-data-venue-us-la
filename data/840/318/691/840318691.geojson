@@ -2,14 +2,20 @@
   "id": 840318691,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 Saint Charles Ave New Orleans LA 70130",
+    "addr:housenumber":"735",
+    "addr:postcode":"70130",
+    "addr:street":"Saint Charles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.071605,29.946431,-90.071605,29.946431",
     "geom:latitude":29.946431,
     "geom:longitude":-90.071605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"735 Saint Charles Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,35 +35,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746615,
+        85831571,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RdRsnfOJ0GTGF3tHtk2V4_29.946431_-90.071605@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527393,
-    "wof:geomhash":"6cbc75d77bd5092c33f032c7fa041d42",
+    "wof:geomhash":"173ea7868d917a415d4fead72582ce74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866107,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746615,
+            "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":840318691
         }
     ],
     "wof:id":840318691,
-    "wof:lastmodified":1466542998,
+    "wof:lastmodified":1510694940,
     "wof:name":"Unemployment Insurance",
-    "wof:parent_id":85866107,
+    "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

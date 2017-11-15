@@ -2,14 +2,20 @@
   "id": 840127895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Broad St Lake Charles LA 70601",
+    "addr:housenumber":"1800",
+    "addr:postcode":"70601",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.195067,30.227529,-93.195067,30.227529",
     "geom:latitude":30.227529,
     "geom:longitude":-93.195067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 Broad St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125153109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FTygXFCDEEwwUTLpYkODS_30.227529_-93.195067@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521809,
-    "wof:geomhash":"41c7de9d50663cb08444ac3da054eda2",
+    "wof:geomhash":"58f35e3253dd3ee0af316e4040745c89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840127895,
-    "wof:lastmodified":1466540979,
+    "wof:lastmodified":1510695986,
     "wof:name":"Lunch Box",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840234255,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 University Ave Monroe LA 71209",
+    "addr:housenumber":"700",
+    "addr:postcode":"71209",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.075736,32.527452,-92.075736,32.527452",
     "geom:latitude":32.527452,
     "geom:longitude":-92.075736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 University Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V1pfOKw4mAFggJxnv6Rhb_32.527452_-92.075736@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524229,
-    "wof:geomhash":"97c455eb3c600bb7fd76184a3699b251",
+    "wof:geomhash":"978653ef5eba76f599b6c0c1dc3bac6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840234255,
-    "wof:lastmodified":1466541716,
+    "wof:lastmodified":1510696728,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

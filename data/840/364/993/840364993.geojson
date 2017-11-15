@@ -2,14 +2,20 @@
   "id": 840364993,
   "type": "Feature",
   "properties": {
+    "addr:full":"6002 Perkins Rd Baton Rouge LA 70808",
+    "addr:housenumber":"6002",
+    "addr:postcode":"70808",
+    "addr:street":"Perkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.128165,30.408631,-91.128165,30.408631",
     "geom:latitude":30.408631,
     "geom:longitude":-91.128165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6002 Perkins Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85843383
     ],
+    "wof:brand_id":420574973,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MEQtPbMVrDaeo84dhMuDi_30.408631_-91.128165@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529639,
-    "wof:geomhash":"c09e582020b298d720160d864888d335",
+    "wof:geomhash":"825b7e1158e27d37ce6e0a6ead4aad99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840364993,
-    "wof:lastmodified":1466543814,
+    "wof:lastmodified":1510604483,
     "wof:name":"Home Instead Senior Care",
     "wof:parent_id":85843383,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203247825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1926 Newton St New Orleans LA 70114",
+    "addr:housenumber":"1926",
+    "addr:postcode":"70114",
+    "addr:street":"Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037536,29.94511,-90.037536,29.94511",
     "geom:latitude":29.94511,
     "geom:longitude":-90.037536,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746805,
+        102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866159
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"a409afb6ea8716bde232ec41a2559ca7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866159,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
             "region_id":85688735,
             "venue_id":203247825
         }
     ],
     "wof:id":203247825,
-    "wof:lastmodified":1466539312,
+    "wof:lastmodified":1486688988,
     "wof:name":"Brothers Food Mart",
-    "wof:parent_id":85866159,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

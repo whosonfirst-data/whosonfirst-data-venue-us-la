@@ -2,14 +2,20 @@
   "id": 840447011,
   "type": "Feature",
   "properties": {
+    "addr:full":"10988 N Harrells Ferry Rd Baton Rouge LA 70816",
+    "addr:housenumber":"10988",
+    "addr:postcode":"70816",
+    "addr:street":"N Harrells Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.062948,30.433178,-91.062948,30.433178",
     "geom:latitude":30.433178,
     "geom:longitude":-91.062948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10988 N Harrells Ferry Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85813553
     ],
+    "wof:brand_id":1125153859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SJp9KHGF7LiHUGXkwzQvE_30.433178_-91.062948@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533163,
-    "wof:geomhash":"32e76698dea1825b4f2e7038f94aacb4",
+    "wof:geomhash":"e4756e5d02c5d1eb5a17966c26c75527",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840447011,
-    "wof:lastmodified":1466545250,
+    "wof:lastmodified":1510697170,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":85813553,
     "wof:placetype":"venue",

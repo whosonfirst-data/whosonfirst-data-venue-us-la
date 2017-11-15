@@ -2,9 +2,14 @@
   "id": 840281899,
   "type": "Feature",
   "properties": {
+    "addr:full":"7824 Marquis St New Orleans LA 70128",
+    "addr:housenumber":"7824",
+    "addr:postcode":"70128",
+    "addr:street":"Marquis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.97393,30.051263,-89.97393,30.051263",
     "geom:latitude":30.051263,
     "geom:longitude":-89.97393,
@@ -29,7 +34,15 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cBGoVRgvZrs7ojQwm4sMo_30.051263_-89.973930@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463525709,
     "wof:geomhash":"9a7081601f0567aa11d80080d99fcd38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840281899
+        }
+    ],
     "wof:id":840281899,
-    "wof:lastmodified":1466542332,
+    "wof:lastmodified":1486688718,
     "wof:name":"A-1 Carpet Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

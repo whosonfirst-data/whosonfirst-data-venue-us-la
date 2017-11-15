@@ -2,14 +2,20 @@
   "id": 840355663,
   "type": "Feature",
   "properties": {
+    "addr:full":"3138 Johnston St Lafayette LA 70503",
+    "addr:housenumber":"3138",
+    "addr:postcode":"70503",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.046414,30.204102,-92.046414,30.204102",
     "geom:latitude":30.204102,
     "geom:longitude":-92.046414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3138 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50O2BrP6nDr4RGJmoxMokv_30.204102_-92.046414@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529185,
-    "wof:geomhash":"0d44b5b1f97696d72d8be4ce7a5c66fa",
+    "wof:geomhash":"106edf5fad9e84701b9b89601418c28e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840355663,
-    "wof:lastmodified":1466543512,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

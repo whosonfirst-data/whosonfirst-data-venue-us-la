@@ -2,14 +2,20 @@
   "id": 840368467,
   "type": "Feature",
   "properties": {
+    "addr:full":"3339 Jackson St Alexandria LA 71301",
+    "addr:housenumber":"3339",
+    "addr:postcode":"71301",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.473232,31.287559,-92.473232,31.287559",
     "geom:latitude":31.287559,
     "geom:longitude":-92.473232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3339 Jackson St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125154781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cXBVir20Zm1DDPr1BtelO_31.287559_-92.473232@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529806,
-    "wof:geomhash":"7d22ab821b74f8f4dde4f693894bc41e",
+    "wof:geomhash":"43362320cdfe7d05e757570392efe1b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840368467,
-    "wof:lastmodified":1466543708,
+    "wof:lastmodified":1510698935,
     "wof:name":"Nail Tech",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

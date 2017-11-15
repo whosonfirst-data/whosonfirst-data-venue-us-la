@@ -2,9 +2,14 @@
   "id": 840343357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Palm Ter New Orleans LA 70115",
+    "addr:housenumber":"1",
+    "addr:postcode":"70115",
+    "addr:street":"Palm Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.098985,29.927809,-90.098985,29.927809",
     "geom:latitude":29.927809,
     "geom:longitude":-90.098985,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866119,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866115
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866115,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866119,
             "region_id":85688735,
             "venue_id":840343357
         }
     ],
     "wof:id":840343357,
-    "wof:lastmodified":1466543409,
+    "wof:lastmodified":1486688608,
     "wof:name":"La St Agri Forestry Office",
-    "wof:parent_id":85866115,
+    "wof:parent_id":85866119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

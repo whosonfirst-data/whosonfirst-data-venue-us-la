@@ -2,9 +2,14 @@
   "id": 203185703,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 5th St Gretna LA 70053",
+    "addr:housenumber":"920",
+    "addr:postcode":"70053",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065498,29.914,-90.065498,29.914",
     "geom:latitude":29.914,
     "geom:longitude":-90.065498,
@@ -31,11 +36,13 @@
     "sg:website":"www.susanneathamerattorney.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891219,
+        102191575,
+        1108739491,
         85633793,
-        85948301,
-        102083179,
-        85891219
+        85948111,
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +52,18 @@
     "wof:geomhash":"c5efb5242a990f13af24618d3d3cf4db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083179,
-            "locality_id":85948301,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85891219,
             "region_id":85688735,
             "venue_id":203185703
         }
     ],
     "wof:id":203185703,
-    "wof:lastmodified":1466540993,
+    "wof:lastmodified":1491919462,
     "wof:name":"Neathamer Susan H Atty",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840176293,
   "type": "Feature",
   "properties": {
+    "addr:full":"2640 Bruxelles St New Orleans LA 70119",
+    "addr:housenumber":"",
+    "addr:postcode":"2640;70119",
+    "addr:street":"St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.071311,29.98499,-90.071311,29.98499",
     "geom:latitude":29.98499,
     "geom:longitude":-90.071311,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866081,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866083,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866081,
             "region_id":85688735,
             "venue_id":840176293
         }
     ],
     "wof:id":840176293,
-    "wof:lastmodified":1466541256,
+    "wof:lastmodified":1491860802,
     "wof:name":"Edinburgh Williams Beauty Sln",
-    "wof:parent_id":85866083,
+    "wof:parent_id":85866081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

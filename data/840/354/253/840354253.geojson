@@ -2,9 +2,14 @@
   "id": 840354253,
   "type": "Feature",
   "properties": {
+    "addr:full":"3827 Frenchmen St New Orleans LA 70122",
+    "addr:housenumber":"3827",
+    "addr:postcode":"70122",
+    "addr:street":"Frenchmen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06038,29.9976,-90.06038,29.9976",
     "geom:latitude":29.9976,
     "geom:longitude":-90.06038,
@@ -25,12 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866059,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866059
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +52,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":840354253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866059,
             "region_id":85688735,
             "venue_id":840354253
         }
     ],
     "wof:id":840354253,
-    "wof:lastmodified":1466543450,
+    "wof:lastmodified":1486688029,
     "wof:name":"Starlight Restaurant & Ctrng",
     "wof:parent_id":85866059,
     "wof:placetype":"venue",

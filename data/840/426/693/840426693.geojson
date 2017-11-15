@@ -2,14 +2,20 @@
   "id": 840426693,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 W 61st St Shreveport LA 71106",
+    "addr:housenumber":"330",
+    "addr:postcode":"71106",
+    "addr:street":"W 61St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.76257,32.451129,-93.76257,32.451129",
     "geom:latitude":32.451129,
     "geom:longitude":-93.76257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 W 61st St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880995
     ],
+    "wof:brand_id":1125155253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ra3fKe394B4s2x9BHOZUD_32.451129_-93.762570@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532300,
-    "wof:geomhash":"b27a27b3e2a881771ee7270706a124d9",
+    "wof:geomhash":"19f21e0b3423f79d8280a2c5879a98c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840426693,
-    "wof:lastmodified":1466544899,
+    "wof:lastmodified":1510695084,
     "wof:name":"Hanson Aggregates",
     "wof:parent_id":85880995,
     "wof:placetype":"venue",

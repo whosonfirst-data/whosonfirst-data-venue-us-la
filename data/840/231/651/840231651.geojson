@@ -2,14 +2,20 @@
   "id": 840231651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1716 Military Hwy Pineville LA 71360",
+    "addr:housenumber":"1716",
+    "addr:postcode":"71360",
+    "addr:street":"Military Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.427051,31.336083,-92.427051,31.336083",
     "geom:latitude":31.336083,
     "geom:longitude":-92.427051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1716 Military Hwy",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nk3pFeenlYbISzJKeifTN_31.336083_-92.427051@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524152,
-    "wof:geomhash":"b46211552d865daaf88d604d995908f4",
+    "wof:geomhash":"f1cd719fbf5ebfc141f721c1ec492232",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840231651,
-    "wof:lastmodified":1466541759,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

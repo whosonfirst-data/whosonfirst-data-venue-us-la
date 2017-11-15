@@ -2,14 +2,20 @@
   "id": 840336179,
   "type": "Feature",
   "properties": {
+    "addr:full":"3112 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"3112",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.085088,32.522494,-92.085088,32.522494",
     "geom:latitude":32.522494,
     "geom:longitude":-92.085088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3112 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VR4bozRDOU0khtKK96y55_32.522494_-92.085088@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528228,
-    "wof:geomhash":"764186d81d4de2de8a631b6ad6d03ace",
+    "wof:geomhash":"74460eef4f41a3413740b5f2db2f79b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840336179,
-    "wof:lastmodified":1466543119,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840390149,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 S Chestnut St Hammond LA 70403",
+    "addr:housenumber":"207",
+    "addr:postcode":"70403",
+    "addr:street":"S Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.453776,30.504638,-90.453776,30.504638",
     "geom:latitude":30.504638,
     "geom:longitude":-90.453776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 S Chestnut St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083809,
         85839553
     ],
+    "wof:brand_id":1125151831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UkPMF4fIrgoAaGOcwci3H_30.504638_-90.453776@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530813,
-    "wof:geomhash":"f60b6b042468e94a0b83bdd56531f5d8",
+    "wof:geomhash":"ccdbf8e18d98edc77299f112813435fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840390149,
-    "wof:lastmodified":1466544299,
+    "wof:lastmodified":1510700056,
     "wof:name":"Christian Science Society",
     "wof:parent_id":85839553,
     "wof:placetype":"venue",

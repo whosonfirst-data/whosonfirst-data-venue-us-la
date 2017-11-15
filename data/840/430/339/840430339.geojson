@@ -2,14 +2,20 @@
   "id": 840430339,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 N 7th St West Monroe LA 71291",
+    "addr:housenumber":"1701",
+    "addr:postcode":"71291",
+    "addr:street":"N 7Th St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.14582,32.511289,-92.14582,32.511289",
     "geom:latitude":32.511289,
     "geom:longitude":-92.14582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1701 N 7th St",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43jxr3XS6jgiYajNN8MMgg_32.511289_-92.145820@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532462,
-    "wof:geomhash":"ea9aec5b31a9e0d13f577f3f0392832d",
+    "wof:geomhash":"d6c656fa70ee0d01381b676a9e845c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840430339,
-    "wof:lastmodified":1466545057,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840274861,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Acadiana Mall Cir Lafayette LA 70503",
+    "addr:housenumber":"103",
+    "addr:postcode":"70503",
+    "addr:street":"Acadiana Mall Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.076379,30.174155,-92.076379,30.174155",
     "geom:latitude":30.174155,
     "geom:longitude":-92.076379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Acadiana Mall Cir",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rySC3uJu9bCdwcGhmX44z_30.174155_-92.076379@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525385,
-    "wof:geomhash":"3cfc681db82bf1b3b4ca7c305c6131e3",
+    "wof:geomhash":"d56a4625ad6599661ac230f1ba895a89",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840274861,
-    "wof:lastmodified":1466542185,
+    "wof:lastmodified":1510694572,
     "wof:name":"Family Christian Book Store",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

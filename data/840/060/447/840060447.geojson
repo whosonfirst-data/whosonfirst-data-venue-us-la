@@ -2,14 +2,20 @@
   "id": 840060447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 N 19th St Monroe LA 71201",
+    "addr:housenumber":"1205",
+    "addr:postcode":"71201",
+    "addr:street":"N 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.108508,32.521865,-92.108508,32.521865",
     "geom:latitude":32.521865,
     "geom:longitude":-92.108508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 N 19th St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125150657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZT3kiQpbzec2g9WELHBkV_32.521865_-92.108508@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520286,
-    "wof:geomhash":"fc10213f6e78f22fa13da73c5c48ca9f",
+    "wof:geomhash":"ed96744bfd3915f964829cbd5922ccc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840060447,
-    "wof:lastmodified":1466540243,
+    "wof:lastmodified":1510695187,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

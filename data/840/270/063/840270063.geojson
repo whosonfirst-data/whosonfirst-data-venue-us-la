@@ -2,14 +2,20 @@
   "id": 840270063,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 S Thompson Ave Iowa LA 70647",
+    "addr:housenumber":"109",
+    "addr:postcode":"70647",
+    "addr:street":"S Thompson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.01354,30.23795,-93.01354,30.23795",
     "geom:latitude":30.23795,
     "geom:longitude":-93.01354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 S Thompson Ave",
     "sg:city":"Iowa",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hUkwxtlgrvUd9p56u9LCe_30.237950_-93.013540@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525185,
-    "wof:geomhash":"daa3aa42894130f0b8042ff49e5cd1e1",
+    "wof:geomhash":"60de15389440804fcf132ae30be9f4b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840270063,
-    "wof:lastmodified":1466542128,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

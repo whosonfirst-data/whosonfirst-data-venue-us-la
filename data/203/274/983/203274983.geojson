@@ -2,9 +2,14 @@
   "id": 203274983,
   "type": "Feature",
   "properties": {
+    "addr:full":"6201 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"6201",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017502,30.0105,-90.017502,30.0105",
     "geom:latitude":30.0105,
     "geom:longitude":-90.017502,
@@ -39,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521717,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +60,20 @@
     "wof:geomhash":"675e1484e9092fa3cd866538cceddc2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866169,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
             "region_id":85688735,
             "venue_id":203274983
         }
     ],
     "wof:id":203274983,
-    "wof:lastmodified":1466539358,
+    "wof:lastmodified":1486688938,
     "wof:name":"Perrault Kiddy Kollege Inc",
-    "wof:parent_id":85866169,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

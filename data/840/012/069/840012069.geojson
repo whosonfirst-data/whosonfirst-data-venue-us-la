@@ -2,9 +2,14 @@
   "id": 840012069,
   "type": "Feature",
   "properties": {
+    "addr:full":"127 16th St New Orleans LA 70124",
+    "addr:housenumber":"127",
+    "addr:postcode":"70124",
+    "addr:street":"16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.118487,30.00252,-90.118487,30.00252",
     "geom:latitude":30.00252,
     "geom:longitude":-90.118487,
@@ -24,7 +29,15 @@
     "sg:postcode":"70124",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eKjmOwJhFhlsjxG5n4BBN_30.002520_-90.118487@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463519250,
     "wof:geomhash":"c947d899eda3bee3eb11bd2ac107d4fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840012069
+        }
+    ],
     "wof:id":840012069,
-    "wof:lastmodified":1466539660,
+    "wof:lastmodified":1486689069,
     "wof:name":"Pak Business Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

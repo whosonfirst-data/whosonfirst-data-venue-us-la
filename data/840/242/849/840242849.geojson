@@ -2,14 +2,20 @@
   "id": 840242849,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Broad St Lake Charles LA 70615",
+    "addr:housenumber":"2601",
+    "addr:postcode":"70615",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.177338,30.227584,-93.177338,30.227584",
     "geom:latitude":30.227584,
     "geom:longitude":-93.177338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2601 Broad St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125151213,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Vp4hp666d8lw2iZOtCttR_30.227584_-93.177338@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524426,
-    "wof:geomhash":"9e2228300e45277740dbf63969373aa0",
+    "wof:geomhash":"93c2c5b42c3c5ac30c2b3b34e0da17af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840242849,
-    "wof:lastmodified":1466541840,
+    "wof:lastmodified":1510697570,
     "wof:name":"Checkers Drive-In Restaurant",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

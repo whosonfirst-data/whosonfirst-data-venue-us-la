@@ -2,9 +2,14 @@
   "id": 840311617,
   "type": "Feature",
   "properties": {
+    "addr:full":"12000 I- 10 Svc Rd New Orleans LA 70128",
+    "addr:housenumber":"12000;10",
+    "addr:postcode":"70128",
+    "addr:street":"I;Svc Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.962334,30.046678,-89.962334,30.046678",
     "geom:latitude":30.046678,
     "geom:longitude":-89.962334,
@@ -26,12 +31,13 @@
     "sg:website":"www.shoneys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866167,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866173
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866173,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
             "region_id":85688735,
             "venue_id":840311617
         }
     ],
     "wof:id":840311617,
-    "wof:lastmodified":1466542789,
+    "wof:lastmodified":1491864008,
     "wof:name":"Shoney's",
-    "wof:parent_id":85866173,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

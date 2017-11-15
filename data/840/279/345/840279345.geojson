@@ -2,9 +2,14 @@
   "id": 840279345,
   "type": "Feature",
   "properties": {
+    "addr:full":"4919 Canal St New Orleans LA 70119",
+    "addr:housenumber":"4919",
+    "addr:postcode":"70119",
+    "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.109072,29.980404,-90.109072,29.980404",
     "geom:latitude":29.980404,
     "geom:longitude":-90.109072,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866055
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866055,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840279345
         }
     ],
     "wof:id":840279345,
-    "wof:lastmodified":1466542234,
+    "wof:lastmodified":1486688910,
     "wof:name":"Emmett Professional Svc",
-    "wof:parent_id":85866055,
+    "wof:parent_id":85869483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

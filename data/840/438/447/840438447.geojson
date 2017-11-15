@@ -2,14 +2,20 @@
   "id": 840438447,
   "type": "Feature",
   "properties": {
+    "addr:full":"3404 5th Ave Lake Charles LA 70607",
+    "addr:housenumber":"3404",
+    "addr:postcode":"70607",
+    "addr:street":"5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.189384,30.194605,-93.189384,30.194605",
     "geom:latitude":30.194605,
     "geom:longitude":-93.189384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3404 5th Ave",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MHupmwtZbyLKQpyIYOKFx_30.194605_-93.189384@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532825,
-    "wof:geomhash":"c0d50681f631b58d5e9f1bd8389aec35",
+    "wof:geomhash":"0a11aec13b042aa5e5033efcbfcb3649",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840438447,
-    "wof:lastmodified":1466545081,
+    "wof:lastmodified":1510602989,
     "wof:name":"Labor Finders",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

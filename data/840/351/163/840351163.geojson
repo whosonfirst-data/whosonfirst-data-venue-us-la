@@ -2,9 +2,14 @@
   "id": 840351163,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Lakewood Estates Dr New Orleans LA 70131",
+    "addr:housenumber":"18",
+    "addr:postcode":"70131",
+    "addr:street":"Lakewood Estates Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.004936,29.903004,-90.004936,29.903004",
     "geom:latitude":29.903004,
     "geom:longitude":-90.004936,
@@ -27,7 +32,15 @@
         "anesthesiologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RNyat73UmLanpTrW91X9W_29.903004_-90.004936@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463528965,
     "wof:geomhash":"042f2198d3b1dfdcf0f4dc6bc01526e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840351163
+        }
+    ],
     "wof:id":840351163,
-    "wof:lastmodified":1466543434,
+    "wof:lastmodified":1486689097,
     "wof:name":"Minokadeh Said",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

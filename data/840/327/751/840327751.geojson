@@ -2,14 +2,20 @@
   "id": 840327751,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 W Prien Lake Rd Lake Charles LA 70601",
+    "addr:housenumber":"318",
+    "addr:postcode":"70601",
+    "addr:street":"W Prien Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.227541,30.198172,-93.227541,30.198172",
     "geom:latitude":30.198172,
     "geom:longitude":-93.227541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"318 W Prien Lake Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125153215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07ARhPmgT487ef8rjpccOd_30.198172_-93.227541@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527850,
-    "wof:geomhash":"5d8265fe09946f87d11416d460b4f529",
+    "wof:geomhash":"b539ee75b0aeed0429017e9cf0a350b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840327751,
-    "wof:lastmodified":1466543098,
+    "wof:lastmodified":1510693768,
     "wof:name":"Diamond Nails",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

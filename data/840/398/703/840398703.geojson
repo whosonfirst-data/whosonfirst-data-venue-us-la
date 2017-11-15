@@ -2,9 +2,14 @@
   "id": 840398703,
   "type": "Feature",
   "properties": {
+    "addr:full":"8023 S Claiborne Ave New Orleans LA 70125",
+    "addr:housenumber":"8023",
+    "addr:postcode":"70125",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11961,29.955432,-90.11961,29.955432",
     "geom:latitude":29.955432,
     "geom:longitude":-90.11961,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866137,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866137
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866137,
             "region_id":85688735,
             "venue_id":840398703
         }
     ],
     "wof:id":840398703,
-    "wof:lastmodified":1466544530,
+    "wof:lastmodified":1486686885,
     "wof:name":"Super Serve",
     "wof:parent_id":85866137,
     "wof:placetype":"venue",

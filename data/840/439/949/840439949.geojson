@@ -2,9 +2,14 @@
   "id": 840439949,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Magazine St New Orleans LA 70118",
+    "addr:housenumber":"6001",
+    "addr:postcode":"70118",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.123334,29.922762,-90.123334,29.922762",
     "geom:latitude":29.922762,
     "geom:longitude":-90.123334,
@@ -27,7 +32,16 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        85866131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34M8vUgU86YA67wQt8CXhs_29.922762_-90.123334@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463532894,
     "wof:geomhash":"ac830387c3087ff2be0b2f15df91b3c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840439949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840439949
+        }
+    ],
     "wof:id":840439949,
-    "wof:lastmodified":1466545183,
+    "wof:lastmodified":1491861008,
     "wof:name":"Uptown Shell Auto Care Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

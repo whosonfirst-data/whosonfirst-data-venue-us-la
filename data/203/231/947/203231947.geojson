@@ -2,14 +2,20 @@
   "id": 203231947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Manhattan Blvd Harvey LA 70058",
+    "addr:housenumber":"1801",
+    "addr:postcode":"70058",
+    "addr:street":"Manhattan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.055981,29.888172,-90.055981,29.888172",
     "geom:latitude":29.888172,
     "geom:longitude":-90.055981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 Manhattan Blvd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -33,12 +39,13 @@
         85948753,
         102083179
     ],
+    "wof:brand_id":1125158765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p31euLnjFSXBsg2VeuwBU_29.888172_-90.055981@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"b6ca547e6300c53b72db75b881a9ec04",
+    "wof:geomhash":"65cc3a52c75200dadbe8e89dd1f5f72a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":203231947,
-    "wof:lastmodified":1466539299,
+    "wof:lastmodified":1510696981,
     "wof:name":"Eyemasters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

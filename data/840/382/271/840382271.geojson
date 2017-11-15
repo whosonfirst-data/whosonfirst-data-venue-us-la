@@ -2,9 +2,14 @@
   "id": 840382271,
   "type": "Feature",
   "properties": {
+    "addr:full":"5600 Hayne Blvd New Orleans LA 70126",
+    "addr:housenumber":"5600",
+    "addr:postcode":"70126",
+    "addr:street":"Hayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.029255,30.032279,-90.029255,30.032279",
     "geom:latitude":30.032279,
     "geom:longitude":-90.029255,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gSZRmiZsxuyTxhD6nMy7B_30.032279_-90.029255@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463530462,
     "wof:geomhash":"510867813a16a3cacd833ab34c61de25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840382271
+        }
+    ],
     "wof:id":840382271,
-    "wof:lastmodified":1466544002,
+    "wof:lastmodified":1486687800,
     "wof:name":"Archdiocese Of New Orleans",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

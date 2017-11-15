@@ -2,9 +2,14 @@
   "id": 840151261,
   "type": "Feature",
   "properties": {
+    "addr:full":"7054 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"7054",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.977942,30.039185,-89.977942,30.039185",
     "geom:latitude":30.039185,
     "geom:longitude":-89.977942,
@@ -28,7 +33,15 @@
         "check"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wxeMaaPUl1GmiGdOTuodH_30.039185_-89.977942@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522273,
     "wof:geomhash":"ce05be9da8506dd3ccb4ba1ca722c017",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840151261
+        }
+    ],
     "wof:id":840151261,
-    "wof:lastmodified":1466540652,
+    "wof:lastmodified":1486688719,
     "wof:name":"Mr Check",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

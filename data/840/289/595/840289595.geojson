@@ -2,14 +2,20 @@
   "id": 840289595,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 N 5th St Leesville LA 71446",
+    "addr:housenumber":"403",
+    "addr:postcode":"71446",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263802,31.1468,-93.263802,31.1468",
     "geom:latitude":31.1468,
     "geom:longitude":-93.263802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"403 N 5th St",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086691,
         85856367
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nHUzgEAmAW8VTiCNPMET1_31.146800_-93.263802@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526050,
-    "wof:geomhash":"52eca9765d2d84a62a7afcc57894f55b",
+    "wof:geomhash":"7977155e1d9f517d7a50ddf9f1514697",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840289595,
-    "wof:lastmodified":1466542459,
+    "wof:lastmodified":1510696872,
     "wof:name":"Mane Attraction",
     "wof:parent_id":85856367,
     "wof:placetype":"venue",

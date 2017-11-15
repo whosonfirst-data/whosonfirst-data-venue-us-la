@@ -2,9 +2,14 @@
   "id": 840415235,
   "type": "Feature",
   "properties": {
+    "addr:full":"7184 W Tamaron Blvd New Orleans LA 70128",
+    "addr:housenumber":"7184",
+    "addr:postcode":"70128",
+    "addr:street":"W Tamaron Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.951883,30.058395,-89.951883,30.058395",
     "geom:latitude":30.058395,
     "geom:longitude":-89.951883,
@@ -28,7 +33,16 @@
         "closed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746613,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gHrxc5Ic6XeZ3xvLH2mk4_30.058395_-89.951883@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463531840,
     "wof:geomhash":"c10de820ee9dae963673cc9fd660ac71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746613,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840415235
+        }
+    ],
     "wof:id":840415235,
-    "wof:lastmodified":1466544700,
+    "wof:lastmodified":1486689152,
     "wof:name":"Johnny J George Financial",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

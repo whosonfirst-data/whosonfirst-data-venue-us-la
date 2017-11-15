@@ -2,9 +2,14 @@
   "id": 840064645,
   "type": "Feature",
   "properties": {
+    "addr:full":"2609 3rd St New Orleans LA 70113",
+    "addr:housenumber":"2609",
+    "addr:postcode":"70113",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.090952,29.941017,-90.090952,29.941017",
     "geom:latitude":29.941017,
     "geom:longitude":-90.090952,
@@ -28,7 +33,15 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vH0un9OhbGb1P51eLwr3y_29.941017_-90.090952@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520366,
     "wof:geomhash":"e4d6713392fb5bdc8003f3627a77c45f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840064645
+        }
+    ],
     "wof:id":840064645,
-    "wof:lastmodified":1466540279,
+    "wof:lastmodified":1486688639,
     "wof:name":"Architectural Antique Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

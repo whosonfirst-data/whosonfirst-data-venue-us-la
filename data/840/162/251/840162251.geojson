@@ -2,14 +2,20 @@
   "id": 840162251,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Martin Luther King Jr Dr Monroe LA 71201",
+    "addr:housenumber":"200",
+    "addr:postcode":"71201",
+    "addr:street":"Martin Luther King Jr Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.080109,32.519633,-92.080109,32.519633",
     "geom:latitude":32.519633,
     "geom:longitude":-92.080109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Martin Luther King Jr Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1anPs3Sp0wkDcVEx0ORmOt_32.519633_-92.080109@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522488,
-    "wof:geomhash":"cf639e180cf801425d950fbfa13212dd",
+    "wof:geomhash":"d66d05082c66dbe030f99f212f5499e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840162251,
-    "wof:lastmodified":1466541292,
+    "wof:lastmodified":1510698971,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

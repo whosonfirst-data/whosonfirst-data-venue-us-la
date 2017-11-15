@@ -2,14 +2,20 @@
   "id": 840327725,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 S Morrison Blvd Hammond LA 70403",
+    "addr:housenumber":"112",
+    "addr:postcode":"70403",
+    "addr:street":"S Morrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.482576,30.500079,-90.482576,30.500079",
     "geom:latitude":30.500079,
     "geom:longitude":-90.482576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 S Morrison Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083809,
         85853177
     ],
+    "wof:brand_id":1125155311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FuU4xRKbinZetV7C1Ulz3_30.500079_-90.482576@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527849,
-    "wof:geomhash":"6a1b839d8be366aacb9b852c08ab205e",
+    "wof:geomhash":"bf97d3f4b9d7ecba00d3545747e2d9cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840327725,
-    "wof:lastmodified":1466543093,
+    "wof:lastmodified":1510696062,
     "wof:name":"Speedee Oil Change & Tune Up",
     "wof:parent_id":85853177,
     "wof:placetype":"venue",

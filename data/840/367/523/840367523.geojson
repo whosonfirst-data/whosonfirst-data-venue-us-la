@@ -2,9 +2,14 @@
   "id": 840367523,
   "type": "Feature",
   "properties": {
+    "addr:full":"8501 Oak St New Orleans LA 70118",
+    "addr:housenumber":"8501",
+    "addr:postcode":"70118",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.133968,29.95074,-90.133968,29.95074",
     "geom:latitude":29.95074,
     "geom:longitude":-90.133968,
@@ -29,7 +34,16 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YvSdzPgRYYTZeUv5VSDDj_29.950740_-90.133968@1294127638"
@@ -37,11 +51,23 @@
     "wof:country":"US",
     "wof:created":1463529757,
     "wof:geomhash":"c237f4d399fdb9fcf4c3d50030542c08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840367523
+        }
+    ],
     "wof:id":840367523,
-    "wof:lastmodified":1466543720,
+    "wof:lastmodified":1486689236,
     "wof:name":"L J's Body Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

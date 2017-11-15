@@ -2,14 +2,20 @@
   "id": 840054847,
   "type": "Feature",
   "properties": {
+    "addr:full":"5108 Jefferson Hwy New Orleans LA 70123",
+    "addr:housenumber":"5108",
+    "addr:postcode":"70123",
+    "addr:street":"Jefferson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.179072,29.953215,-90.179072,29.953215",
     "geom:latitude":29.953215,
     "geom:longitude":-90.179072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5108 Jefferson Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YcK9kMvaaFfW1tI3SF4AE_29.953215_-90.179072@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520143,
-    "wof:geomhash":"b1f5707d01d63e4e041c215da7753639",
+    "wof:geomhash":"ad9df444d25c69b09eb80bb4e9a9e96f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840054847,
-    "wof:lastmodified":1466540247,
+    "wof:lastmodified":1510602609,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

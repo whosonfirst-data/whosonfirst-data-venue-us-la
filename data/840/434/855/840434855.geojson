@@ -2,14 +2,20 @@
   "id": 840434855,
   "type": "Feature",
   "properties": {
+    "addr:full":"3132 College Dr Baton Rouge LA 70808",
+    "addr:housenumber":"3132",
+    "addr:postcode":"70808",
+    "addr:street":"College Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.141966,30.418276,-91.141966,30.418276",
     "geom:latitude":30.418276,
     "geom:longitude":-91.141966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3132 College Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85811753
     ],
+    "wof:brand_id":1125153751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zi9M1WcFxNudVDZa7l8G3_30.418276_-91.141966@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532680,
-    "wof:geomhash":"64896dbf692825910a94b967f2cc1339",
+    "wof:geomhash":"2b80565e60296832e0c62d01d69c393c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840434855,
-    "wof:lastmodified":1466545166,
+    "wof:lastmodified":1510693813,
     "wof:name":"Classy Nails",
     "wof:parent_id":85811753,
     "wof:placetype":"venue",

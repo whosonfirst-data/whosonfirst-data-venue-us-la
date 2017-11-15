@@ -2,9 +2,14 @@
   "id": 840270571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2630 Martin Luther King Jr Blvd New Orleans LA 70113",
+    "addr:housenumber":"2630",
+    "addr:postcode":"70113",
+    "addr:street":"Martin Luther King Jr Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.085807,29.94466,-90.085807,29.94466",
     "geom:latitude":29.94466,
     "geom:longitude":-90.085807,
@@ -24,7 +29,15 @@
     "sg:postcode":"70113",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HD9MvbBDBX0C1ZBqo2XVD_29.944660_-90.085807@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463525205,
     "wof:geomhash":"064836f30e5cb22f13010c361d463454",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840270571
+        }
+    ],
     "wof:id":840270571,
-    "wof:lastmodified":1466542157,
+    "wof:lastmodified":1486688618,
     "wof:name":"D & H Drug Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

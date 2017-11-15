@@ -2,14 +2,20 @@
   "id": 840399335,
   "type": "Feature",
   "properties": {
+    "addr:full":"6409 Airline Dr Metairie LA 70003",
+    "addr:housenumber":"6409",
+    "addr:postcode":"70003",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.20069,29.977148,-90.20069,29.977148",
     "geom:latitude":29.977148,
     "geom:longitude":-90.20069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6409 Airline Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125150773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23XirrG5FAPeoSN7XNxZcj_29.977148_-90.200690@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531179,
-    "wof:geomhash":"a0f2377c93b362cc41b2f0dff99f655b",
+    "wof:geomhash":"1f6de8cfe6b1997517732c0b1ff03db5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840399335,
-    "wof:lastmodified":1466544441,
+    "wof:lastmodified":1510698789,
     "wof:name":"Harbor Freight Tools USA Inc",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

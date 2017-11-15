@@ -2,9 +2,14 @@
   "id": 203248609,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Seine Ct New Orleans LA 70114",
+    "addr:housenumber":"1",
+    "addr:postcode":"70114",
+    "addr:street":"Seine Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.025803,29.9237,-90.025803,29.9237",
     "geom:latitude":29.9237,
     "geom:longitude":-90.025803,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"3f68f8a597ecc061249fcd55b3a8dbf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203248609
         }
     ],
     "wof:id":203248609,
-    "wof:lastmodified":1466539314,
+    "wof:lastmodified":1486689092,
     "wof:name":"Aurora Financial Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

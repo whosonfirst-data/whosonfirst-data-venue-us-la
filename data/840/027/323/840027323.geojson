@@ -2,9 +2,14 @@
   "id": 840027323,
   "type": "Feature",
   "properties": {
+    "addr:full":"4635 Perelli Dr New Orleans LA 70127",
+    "addr:housenumber":"4635",
+    "addr:postcode":"70127",
+    "addr:street":"Perelli Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.971461,30.019983,-89.971461,30.019983",
     "geom:latitude":30.019983,
     "geom:longitude":-89.971461,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739489,
+        85866171,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85891213
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891213,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739489,
+            "neighbourhood_id":85866171,
             "region_id":85688735,
             "venue_id":840027323
         }
     ],
     "wof:id":840027323,
-    "wof:lastmodified":1466539816,
+    "wof:lastmodified":1486689120,
     "wof:name":"New You Ftnes Wellness Ctr LLC",
-    "wof:parent_id":85891213,
+    "wof:parent_id":1108739489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

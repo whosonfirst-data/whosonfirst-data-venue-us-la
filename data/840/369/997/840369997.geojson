@@ -2,9 +2,14 @@
   "id": 840369997,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Broadway St New Orleans LA 70118",
+    "addr:housenumber":"1300",
+    "addr:postcode":"70118",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121759,29.943831,-90.121759,29.943831",
     "geom:latitude":29.943831,
     "geom:longitude":-90.121759,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g1bDlavzwVtbUlIzCOs4F_29.943831_-90.121759@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463529899,
     "wof:geomhash":"5cfa4e34cce77f3ae1f51a8fa1d6b66c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840369997
+        }
+    ],
     "wof:id":840369997,
-    "wof:lastmodified":1466543915,
+    "wof:lastmodified":1486688658,
     "wof:name":"Mahogany Image",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840381745,
   "type": "Feature",
   "properties": {
+    "addr:full":"8125 Saint Charles Ave New Orleans LA 70118",
+    "addr:housenumber":"8125",
+    "addr:postcode":"70118",
+    "addr:street":"Saint Charles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.134733,29.943717,-90.134733,29.943717",
     "geom:latitude":29.943717,
     "geom:longitude":-90.134733,
@@ -24,7 +29,16 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vfaUPbe4s5b1TZDzFoCTU_29.943717_-90.134733@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463530425,
     "wof:geomhash":"c994f8028db19ae7929c5d6257ca8391",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840381745
+        }
+    ],
     "wof:id":840381745,
-    "wof:lastmodified":1466544101,
+    "wof:lastmodified":1486689236,
     "wof:name":"Off Broadway Dance Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

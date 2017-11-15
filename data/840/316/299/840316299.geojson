@@ -2,9 +2,14 @@
   "id": 840316299,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Beechcraft St New Orleans LA 70126",
+    "addr:housenumber":"6001",
+    "addr:postcode":"70126",
+    "addr:street":"Beechcraft St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.01969,30.014138,-90.01969,30.014138",
     "geom:latitude":30.014138,
     "geom:longitude":-90.01969,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JNdUmzBrGBCUtkomcgCXD_30.014138_-90.019690@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463527275,
     "wof:geomhash":"9e4bdcf1da81288197ef2e7491d02e63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840316299
+        }
+    ],
     "wof:id":840316299,
-    "wof:lastmodified":1466542840,
+    "wof:lastmodified":1486687724,
     "wof:name":"Hope & Faith F Huntington",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

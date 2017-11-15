@@ -2,14 +2,20 @@
   "id": 840200443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Lamy Ln Monroe LA 71201",
+    "addr:housenumber":"1201",
+    "addr:postcode":"71201",
+    "addr:street":"Lamy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.094918,32.524886,-92.094918,32.524886",
     "geom:latitude":32.524886,
     "geom:longitude":-92.094918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Lamy Ln",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mViLE2pbDDuF3dSlwCnQN_32.524886_-92.094918@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523340,
-    "wof:geomhash":"067671f61b512d68c253e92faa5bf70f",
+    "wof:geomhash":"0469be079d2017556f28b4f7110af8f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840200443,
-    "wof:lastmodified":1466541614,
+    "wof:lastmodified":1510695761,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

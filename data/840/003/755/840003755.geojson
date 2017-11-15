@@ -2,14 +2,20 @@
   "id": 840003755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 State Rte 108 Westlake LA 70669",
+    "addr:housenumber":"3200",
+    "addr:postcode":"70669",
+    "addr:street":"State Rte 108",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.325288,30.198771,-93.325288,30.198771",
     "geom:latitude":30.198771,
     "geom:longitude":-93.325288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 State Rte 108",
     "sg:city":"Westlake",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125152033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hM2JZoZ9XcK5hMlioSNcH_30.198771_-93.325288@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519071,
-    "wof:geomhash":"821cbec9fafb5c7882ca03a32b94e4ba",
+    "wof:geomhash":"db6eaabb36577f49f8b201d02939664c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840003755,
-    "wof:lastmodified":1466539624,
+    "wof:lastmodified":1510694993,
     "wof:name":"Donut King",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

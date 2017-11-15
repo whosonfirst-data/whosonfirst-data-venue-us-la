@@ -2,14 +2,20 @@
   "id": 840132519,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Jackson St Exd Alexandria LA 71303",
+    "addr:housenumber":"3600",
+    "addr:postcode":"71303",
+    "addr:street":"Jackson St Exd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.477177,31.283196,-92.477177,31.283196",
     "geom:latitude":31.283196,
     "geom:longitude":-92.477177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3600 Jackson St Exd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125157027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UUDDay4E7c9Bn3wr6tsTK_31.283196_-92.477177@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521899,
-    "wof:geomhash":"6e2adab0c8f08f71886a001dda7f4766",
+    "wof:geomhash":"9218d9a018cd34ae333fc4bf126d49ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840132519,
-    "wof:lastmodified":1466541002,
+    "wof:lastmodified":1510696715,
     "wof:name":"Novastar Home Mortgage",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

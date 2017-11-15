@@ -2,9 +2,14 @@
   "id": 840423365,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Julia St New Orleans LA 70130",
+    "addr:housenumber":"604",
+    "addr:postcode":"70130",
+    "addr:street":"Julia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.070841,29.945645,-90.070841,29.945645",
     "geom:latitude":29.945645,
     "geom:longitude":-90.070841,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746615,
+        85831571,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866107,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746615,
+            "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":840423365
         }
     ],
     "wof:id":840423365,
-    "wof:lastmodified":1466544946,
+    "wof:lastmodified":1486689185,
     "wof:name":"E Partners",
-    "wof:parent_id":85866107,
+    "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

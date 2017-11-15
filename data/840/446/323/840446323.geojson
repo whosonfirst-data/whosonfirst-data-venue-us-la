@@ -2,9 +2,14 @@
   "id": 840446323,
   "type": "Feature",
   "properties": {
+    "addr:full":"4020 Martin Luther King Jr Blvd New Orleans LA 70125",
+    "addr:housenumber":"4020",
+    "addr:postcode":"70125",
+    "addr:street":"Martin Luther King Jr Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.09997,29.952578,-90.09997,29.952578",
     "geom:latitude":29.952578,
     "geom:longitude":-90.09997,
@@ -25,13 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866121,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866139,
-        85891209
+        85688735,
+        85866139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,8 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866139,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
             "region_id":85688735,
             "venue_id":840446323
         },
@@ -55,15 +62,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891209,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866139,
             "region_id":85688735,
             "venue_id":840446323
         }
     ],
     "wof:id":840446323,
-    "wof:lastmodified":1466545294,
+    "wof:lastmodified":1486688617,
     "wof:name":"Ephesian Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

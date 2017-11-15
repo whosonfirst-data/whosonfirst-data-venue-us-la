@@ -2,9 +2,14 @@
   "id": 203238625,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 E Saint Bernard Hwy Meraux LA 70075",
+    "addr:housenumber":"2821",
+    "addr:postcode":"70075",
+    "addr:street":"E Saint Bernard Hwy Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.937302,29.930401,-89.937302,29.930401",
     "geom:latitude":29.930401,
     "geom:longitude":-89.937302,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -42,7 +48,7 @@
     "wof:geomhash":"5d7f5211ecc9e1b4c50d7940f4d90b3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203238625,
-    "wof:lastmodified":1466539307,
+    "wof:lastmodified":1491910635,
     "wof:name":"Bpm Construction Company",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

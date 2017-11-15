@@ -2,14 +2,20 @@
   "id": 840406087,
   "type": "Feature",
   "properties": {
+    "addr:full":"938 Polk St Mansfield LA 71052",
+    "addr:housenumber":"938",
+    "addr:postcode":"71052",
+    "addr:street":"Polk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.706073,32.037531,-93.706073,32.037531",
     "geom:latitude":32.037531,
     "geom:longitude":-93.706073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"938 Polk St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084887,
         85813793
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lmBdkbj3GRg9BEehAxag6_32.037531_-93.706073@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531464,
-    "wof:geomhash":"90d9ebe734736b7e9034fee6bae1a97f",
+    "wof:geomhash":"cd4d4dfc1b9fce7dd7c78c194cb29057",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840406087,
-    "wof:lastmodified":1466544539,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85813793,
     "wof:placetype":"venue",

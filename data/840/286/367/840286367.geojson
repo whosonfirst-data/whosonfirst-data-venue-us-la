@@ -2,9 +2,14 @@
   "id": 840286367,
   "type": "Feature",
   "properties": {
+    "addr:full":"1619 N Roman St New Orleans LA 70116",
+    "addr:housenumber":"1619",
+    "addr:postcode":"70116",
+    "addr:street":"N Roman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06725,29.974233,-90.06725,29.974233",
     "geom:latitude":29.974233,
     "geom:longitude":-90.06725,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866083,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":840286367
         }
     ],
     "wof:id":840286367,
-    "wof:lastmodified":1466542308,
+    "wof:lastmodified":1486689208,
     "wof:name":"Irving Johnson 3 Photography",
-    "wof:parent_id":85866083,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

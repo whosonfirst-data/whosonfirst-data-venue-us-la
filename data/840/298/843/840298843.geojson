@@ -2,14 +2,20 @@
   "id": 840298843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1412 Cherry St Patterson LA 70392",
+    "addr:housenumber":"1412",
+    "addr:postcode":"70392",
+    "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.305207,29.698895,-91.305207,29.698895",
     "geom:latitude":29.698895,
     "geom:longitude":-91.305207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1412 Cherry St",
     "sg:city":"Patterson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125159955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Zaaejh1F3ejAvGJj79DCs_29.698895_-91.305207@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526439,
-    "wof:geomhash":"3d323e29f08f6bd82537ad848300dfc5",
+    "wof:geomhash":"0194eb9bb570ba6dc1ebb91e67a9c963",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840298843,
-    "wof:lastmodified":1466542244,
+    "wof:lastmodified":1510693740,
     "wof:name":"New Salem Baptist Church",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

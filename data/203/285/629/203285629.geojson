@@ -2,9 +2,14 @@
   "id": 203285629,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 Toulouse St New Orleans LA 70130",
+    "addr:housenumber":"733",
+    "addr:postcode":"70130",
+    "addr:street":"Toulouse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066299,29.9576,-90.066299,29.9576",
     "geom:latitude":29.9576,
     "geom:longitude":-90.066299,
@@ -26,11 +31,13 @@
     "sg:website":"www.bistromaisondeville.com/menu/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"4c78f9aaf5cf09aabad013edfb45b497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203285629
         }
     ],
     "wof:id":203285629,
-    "wof:lastmodified":1466539377,
+    "wof:lastmodified":1486688420,
     "wof:name":"Bistro At Maison De Ville",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

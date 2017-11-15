@@ -2,9 +2,14 @@
   "id": 840039977,
   "type": "Feature",
   "properties": {
+    "addr:full":"6321 Stratford Pl New Orleans LA 70131",
+    "addr:housenumber":"6321",
+    "addr:postcode":"70131",
+    "addr:street":"Stratford Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.98755,29.912413,-89.98755,29.912413",
     "geom:latitude":29.912413,
     "geom:longitude":-89.98755,
@@ -28,7 +33,16 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pPRVJ9c6eR5qnZganUVEL_29.912413_-89.987550@1294127638"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1463519844,
     "wof:geomhash":"7be2cd061ea7ea6c2059fab269284d57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840039977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840039977
+        }
+    ],
     "wof:id":840039977,
-    "wof:lastmodified":1466540048,
+    "wof:lastmodified":1486688994,
     "wof:name":"Ignatius Residence",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

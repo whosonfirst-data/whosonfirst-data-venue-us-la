@@ -2,9 +2,14 @@
   "id": 840176333,
   "type": "Feature",
   "properties": {
+    "addr:full":"6745 Cindy Pl New Orleans LA 70127",
+    "addr:housenumber":"6745",
+    "addr:postcode":"70127",
+    "addr:street":"Cindy Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.985417,30.028986,-89.985417,30.028986",
     "geom:latitude":30.028986,
     "geom:longitude":-89.985417,
@@ -24,7 +29,15 @@
     "sg:postcode":"70127",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855781,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Byrlgs8Xo9GXnvtmehS4k_30.028986_-89.985417@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463522835,
     "wof:geomhash":"318cfc99ad2b9ffa643893eb6fe2b332",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
+            "region_id":85688735,
+            "venue_id":840176333
+        }
+    ],
     "wof:id":840176333,
-    "wof:lastmodified":1466541257,
+    "wof:lastmodified":1486688251,
     "wof:name":"Villavaso Investments Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

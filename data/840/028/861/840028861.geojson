@@ -2,9 +2,14 @@
   "id": 840028861,
   "type": "Feature",
   "properties": {
+    "addr:full":"5422 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"5422",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.115847,29.920969,-90.115847,29.920969",
     "geom:latitude":29.920969,
     "geom:longitude":-90.115847,
@@ -27,7 +32,15 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YUo3vu87wgeLWuLS8UXMT_29.920969_-90.115847@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463519600,
     "wof:geomhash":"b83776204796eb49bd82934672f2db2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840028861
+        }
+    ],
     "wof:id":840028861,
-    "wof:lastmodified":1466539883,
+    "wof:lastmodified":1486689117,
     "wof:name":"New Concept Cleaners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

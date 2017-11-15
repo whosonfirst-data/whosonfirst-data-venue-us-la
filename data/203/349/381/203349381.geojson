@@ -2,14 +2,20 @@
   "id": 203349381,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Ambassadr Cffry Pkwy Scott LA 70583",
+    "addr:housenumber":"206",
+    "addr:postcode":"70583",
+    "addr:street":"Ambassadr Cffry Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.066399,30.2423,-92.066399,30.2423",
     "geom:latitude":30.2423,
     "geom:longitude":-92.066399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 Ambassadr Cffry Pkwy",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125154105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SbarXYqDKsDv5yH37MsHr_30.242300_-92.066399@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"e485672bdceb2d2af4eaf861c9964a04",
+    "wof:geomhash":"824b6beeeb1ac0e77e346521e350cfbf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":203349381,
-    "wof:lastmodified":1466539468,
+    "wof:lastmodified":1510694936,
     "wof:name":"Chevron Stations Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

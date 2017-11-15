@@ -2,9 +2,14 @@
   "id": 840299437,
   "type": "Feature",
   "properties": {
+    "addr:full":"2503 Napoleon Ave New Orleans LA 70115",
+    "addr:housenumber":"2503",
+    "addr:postcode":"70115",
+    "addr:street":"Napoleon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.102852,29.936208,-90.102852,29.936208",
     "geom:latitude":29.936208,
     "geom:longitude":-90.102852,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866119,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866127
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866127,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866119,
             "region_id":85688735,
             "venue_id":840299437
         }
     ],
     "wof:id":840299437,
-    "wof:lastmodified":1466542367,
+    "wof:lastmodified":1491913456,
     "wof:name":"Le Jardiniere",
-    "wof:parent_id":85866127,
+    "wof:parent_id":85866119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

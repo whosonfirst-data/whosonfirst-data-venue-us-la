@@ -2,14 +2,20 @@
   "id": 840059747,
   "type": "Feature",
   "properties": {
+    "addr:full":"3102 W Pinhook Rd Lafayette LA 70508",
+    "addr:housenumber":"3102",
+    "addr:postcode":"70508",
+    "addr:street":"W Pinhook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.999641,30.17001,-91.999641,30.17001",
     "geom:latitude":30.17001,
     "geom:longitude":-91.999641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3102 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85841585
     ],
+    "wof:brand_id":1125158545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hjfOwMB22yKCz1ecCMNH2_30.170010_-91.999641@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520267,
-    "wof:geomhash":"9e865cebc0e10651087989bcee0180bb",
+    "wof:geomhash":"66664f40c661769447778b9d226242e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840059747,
-    "wof:lastmodified":1466540290,
+    "wof:lastmodified":1510699701,
     "wof:name":"Hair Today",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840297371,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Baptist St Pineville LA 71360",
+    "addr:housenumber":"500",
+    "addr:postcode":"71360",
+    "addr:street":"Baptist St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.432374,31.316637,-92.432374,31.316637",
     "geom:latitude":31.316637,
     "geom:longitude":-92.432374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Baptist St",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125155447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CuCwrkJExnetE9PGpcRHd_31.316637_-92.432374@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526377,
-    "wof:geomhash":"c1cf05dc342654c6b6201902ae0694a2",
+    "wof:geomhash":"5a4d1db50ec5aeda27914c578221b905",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840297371,
-    "wof:lastmodified":1466542528,
+    "wof:lastmodified":1510696887,
     "wof:name":"Zion Hill Baptist Church",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

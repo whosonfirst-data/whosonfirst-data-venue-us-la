@@ -2,14 +2,20 @@
   "id": 840329323,
   "type": "Feature",
   "properties": {
+    "addr:full":"3655 Oneal Ln Baton Rouge LA 70816",
+    "addr:housenumber":"3655",
+    "addr:postcode":"70816",
+    "addr:street":"Oneal Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.007729,30.419601,-91.007729,30.419601",
     "geom:latitude":30.419601,
     "geom:longitude":-91.007729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3655 Oneal Ln",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85830403,
         102087229
     ],
+    "wof:brand_id":1125153593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33qBhO4wQ4Pn65ZT4LayQS_30.419601_-91.007729@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527908,
-    "wof:geomhash":"4defb768a21845472a68e102d95df5fe",
+    "wof:geomhash":"b373ddab9fa1f8149e9671af9fdddf5e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840329323,
-    "wof:lastmodified":1466543148,
+    "wof:lastmodified":1510695770,
     "wof:name":"Courtyard By Marriott",
     "wof:parent_id":85830403,
     "wof:placetype":"venue",

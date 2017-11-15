@@ -2,14 +2,20 @@
   "id": 840447437,
   "type": "Feature",
   "properties": {
+    "addr:full":"6024 Freret St New Orleans LA 70118",
+    "addr:housenumber":"6024",
+    "addr:postcode":"70118",
+    "addr:street":"Freret St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117089,29.936699,-90.117089,29.936699",
     "geom:latitude":29.936699,
     "geom:longitude":-90.117089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6024 Freret St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866131,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866131
+        85688735
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WwpkUVveusccUC9Gxl9Cv_29.936699_-90.117089@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533180,
-    "wof:geomhash":"c169bf5154c904f7af3c1d2383d8d4b8",
+    "wof:geomhash":"f39c686b2efe686625ba47e566ce2fed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866131,
             "region_id":85688735,
             "venue_id":840447437
         }
     ],
     "wof:id":840447437,
-    "wof:lastmodified":1466545320,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85866131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840225745,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Macarthur Blvd New Orleans LA 70114",
+    "addr:housenumber":"3901",
+    "addr:postcode":"70114",
+    "addr:street":"Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.015271,29.924694,-90.015271,29.924694",
     "geom:latitude":29.924694,
     "geom:longitude":-90.015271,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j0tySrlkjU0nUUKoswC0H_29.924694_-90.015271@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463523969,
     "wof:geomhash":"b1777eeb9b37aeedd99ce9885aeaa4b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840225745
+        }
+    ],
     "wof:id":840225745,
-    "wof:lastmodified":1466541679,
+    "wof:lastmodified":1486688946,
     "wof:name":"US Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

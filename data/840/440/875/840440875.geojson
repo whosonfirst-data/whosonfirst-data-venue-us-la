@@ -2,9 +2,14 @@
   "id": 840440875,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 Fern St New Orleans LA 70118",
+    "addr:housenumber":"517",
+    "addr:postcode":"70118",
+    "addr:street":"Fern St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.132583,29.941705,-90.132583,29.941705",
     "geom:latitude":29.941705,
     "geom:longitude":-90.132583,
@@ -28,7 +33,15 @@
         "taping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746809,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OfIhcsBRPs2yt5b8w6ZzM_29.941705_-90.132583@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463532935,
     "wof:geomhash":"f66b0412413a10f041ba0fd1ba46c1ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746809,
+            "region_id":85688735,
+            "venue_id":840440875
+        }
+    ],
     "wof:id":840440875,
-    "wof:lastmodified":1466545168,
+    "wof:lastmodified":1486689013,
     "wof:name":"Wolfwork Production & Post LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

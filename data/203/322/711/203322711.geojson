@@ -2,14 +2,20 @@
   "id": 203322711,
   "type": "Feature",
   "properties": {
+    "addr:full":"3115 W Pinhook Rd Lafayette LA 70508",
+    "addr:housenumber":"3115",
+    "addr:postcode":"70508",
+    "addr:street":"W Pinhook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.999397,30.17,-91.999397,30.17",
     "geom:latitude":30.17,
     "geom:longitude":-91.999397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3115 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081919,
         85841585
     ],
+    "wof:brand_id":1125153449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iM001QDteE1gQqidxXT2z_30.170000_-91.999397@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"32ef635dfe4c882fe3850dbc245a084e",
+    "wof:geomhash":"60f9a74f61d30f430f8a3106b349f97f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203322711,
-    "wof:lastmodified":1466539434,
+    "wof:lastmodified":1510699408,
     "wof:name":"Goodyear Auto Service Centers",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

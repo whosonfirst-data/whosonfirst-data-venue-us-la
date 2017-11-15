@@ -2,14 +2,20 @@
   "id": 840398665,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Paris Rd Chalmette LA 70043",
+    "addr:housenumber":"3200",
+    "addr:postcode":"70043",
+    "addr:street":"Paris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.960338,29.949292,-89.960338,29.949292",
     "geom:latitude":29.949292,
     "geom:longitude":-89.960338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 Paris Rd",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082447,
         85853675
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uLrAvOEhe5Jmp39RHafct_29.949292_-89.960338@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531154,
-    "wof:geomhash":"8c3ea42739f557796569ad6ae792c33c",
+    "wof:geomhash":"0d4f6158152dac029106edce2540e671",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840398665,
-    "wof:lastmodified":1466544522,
+    "wof:lastmodified":1510698853,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

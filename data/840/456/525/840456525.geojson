@@ -2,14 +2,20 @@
   "id": 840456525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 Pecanland Rd Monroe LA 71203",
+    "addr:housenumber":"1202",
+    "addr:postcode":"71203",
+    "addr:street":"Pecanland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.063519,32.499416,-92.063519,32.499416",
     "geom:latitude":32.499416,
     "geom:longitude":-92.063519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1202 Pecanland Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rW2qV2S3gYeBb2DIJ2i5I_32.499416_-92.063519@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533556,
-    "wof:geomhash":"62930f00f18a9d09ae9041c43cf6be90",
+    "wof:geomhash":"1ba3e08b655f95b32b52e0c41005d6aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840456525,
-    "wof:lastmodified":1466545241,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

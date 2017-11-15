@@ -2,14 +2,20 @@
   "id": 840316071,
   "type": "Feature",
   "properties": {
+    "addr:full":"4524 Ambassador Caffery Pkwy Lafayette LA 70508",
+    "addr:housenumber":"4524",
+    "addr:postcode":"70508",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.040995,30.150365,-92.040995,30.150365",
     "geom:latitude":30.150365,
     "geom:longitude":-92.040995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4524 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tE72CG7JUCA9r3IEtEnW3_30.150365_-92.040995@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527266,
-    "wof:geomhash":"ee682ba0aee470abe3e1f940473352a3",
+    "wof:geomhash":"3d85d4e1fd98b8db777bd8a7228b428b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840316071,
-    "wof:lastmodified":1466542835,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840267157,
   "type": "Feature",
   "properties": {
+    "addr:full":"4218 N Johnson St New Orleans LA 70117",
+    "addr:housenumber":"4218",
+    "addr:postcode":"70117",
+    "addr:street":"N Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.029942,29.9742,-90.029942,29.9742",
     "geom:latitude":29.9742,
     "geom:longitude":-90.029942,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866095,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866089,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866095,
             "region_id":85688735,
             "venue_id":840267157
         }
     ],
     "wof:id":840267157,
-    "wof:lastmodified":1466542090,
+    "wof:lastmodified":1486688374,
     "wof:name":"Hot Eight Brass Band",
-    "wof:parent_id":85866089,
+    "wof:parent_id":85866095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

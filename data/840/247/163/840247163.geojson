@@ -2,9 +2,14 @@
   "id": 840247163,
   "type": "Feature",
   "properties": {
+    "addr:full":"2419 Audubon St New Orleans LA 70125",
+    "addr:housenumber":"2419",
+    "addr:postcode":"70125",
+    "addr:street":"Audubon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.113809,29.95224,-90.113809,29.95224",
     "geom:latitude":29.95224,
     "geom:longitude":-90.113809,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866137,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866177
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866177,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866137,
             "region_id":85688735,
             "venue_id":840247163
         }
     ],
     "wof:id":840247163,
-    "wof:lastmodified":1466541827,
+    "wof:lastmodified":1486688678,
     "wof:name":"Terrell Architects",
-    "wof:parent_id":85866177,
+    "wof:parent_id":85866137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

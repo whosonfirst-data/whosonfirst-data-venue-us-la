@@ -2,9 +2,14 @@
   "id": 840343213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3931 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"3931",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.096796,29.921228,-90.096796,29.921228",
     "geom:latitude":29.921228,
     "geom:longitude":-90.096796,
@@ -24,7 +29,15 @@
     "sg:postcode":"70115",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866115,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CQpB48IeBLXGxrqDs1rkB_29.921228_-90.096796@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528565,
     "wof:geomhash":"a45286874f8a3f341821fed5e7c82bd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840343213
+        }
+    ],
     "wof:id":840343213,
-    "wof:lastmodified":1466543401,
+    "wof:lastmodified":1486688591,
     "wof:name":"Dugas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

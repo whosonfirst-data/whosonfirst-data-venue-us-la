@@ -2,14 +2,20 @@
   "id": 840306829,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 School St Lake Charles LA 70611",
+    "addr:housenumber":"154",
+    "addr:postcode":"70611",
+    "addr:street":"School St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.203346,30.298915,-93.203346,30.298915",
     "geom:latitude":30.298915,
     "geom:longitude":-93.203346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"154 School St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125157379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UWiKLl2aHT5WgYHyOtdMg_30.298915_-93.203346@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526842,
-    "wof:geomhash":"55c1be0986d4bbc9625a2db2d0768f2a",
+    "wof:geomhash":"041b50b1bfcbcdcab9e6abe20384a2b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840306829,
-    "wof:lastmodified":1466542803,
+    "wof:lastmodified":1510698651,
     "wof:name":"Express Cleaners",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

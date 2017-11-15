@@ -2,14 +2,20 @@
   "id": 840341443,
   "type": "Feature",
   "properties": {
+    "addr:full":"4720 Lincoln Rd Alexandria LA 71302",
+    "addr:housenumber":"4720",
+    "addr:postcode":"71302",
+    "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.430949,31.265457,-92.430949,31.265457",
     "geom:latitude":31.265457,
     "geom:longitude":-92.430949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4720 Lincoln Rd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081039,
         85846871
     ],
+    "wof:brand_id":1125156399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X6jynefi7SKgEGfblXKUH_31.265457_-92.430949@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528480,
-    "wof:geomhash":"42715ddc784e44d85d20710fa48db8f1",
+    "wof:geomhash":"f7346c90a70c62608c5eb7441b745153",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840341443,
-    "wof:lastmodified":1466542990,
+    "wof:lastmodified":1510699929,
     "wof:name":"Galilee Baptist Church",
     "wof:parent_id":85846871,
     "wof:placetype":"venue",

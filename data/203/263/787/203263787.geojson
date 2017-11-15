@@ -2,9 +2,14 @@
   "id": 203263787,
   "type": "Feature",
   "properties": {
+    "addr:full":"3815 Chartres St New Orleans LA 70117",
+    "addr:housenumber":"3815",
+    "addr:postcode":"70117",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.038632,29.960929,-90.038632,29.960929",
     "geom:latitude":29.960929,
     "geom:longitude":-90.038632,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866089,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +55,18 @@
     "wof:geomhash":"daa7dc8fc063c1db14934e9dba5f993d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866089,
             "region_id":85688735,
             "venue_id":203263787
         }
     ],
     "wof:id":203263787,
-    "wof:lastmodified":1466539338,
+    "wof:lastmodified":1486686859,
     "wof:name":"Direct Contractors Llc",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",

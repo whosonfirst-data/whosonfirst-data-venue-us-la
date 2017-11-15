@@ -2,9 +2,14 @@
   "id": 840188767,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 9th St New Orleans LA 70115",
+    "addr:housenumber":"421",
+    "addr:postcode":"70115",
+    "addr:street":"9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.08301,29.919857,-90.08301,29.919857",
     "geom:latitude":29.919857,
     "geom:longitude":-90.08301,
@@ -28,7 +33,15 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746823,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g39kKZw85kbH8g6JGI3vl_29.919857_-90.083010@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463523087,
     "wof:geomhash":"461e6c649b25d0ed24f794381dd33387",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746823,
+            "region_id":85688735,
+            "venue_id":840188767
+        }
+    ],
     "wof:id":840188767,
-    "wof:lastmodified":1466541413,
+    "wof:lastmodified":1486689051,
     "wof:name":"Audio Visual Technology",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

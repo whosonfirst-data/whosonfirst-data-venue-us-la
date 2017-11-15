@@ -2,9 +2,14 @@
   "id": 840375307,
   "type": "Feature",
   "properties": {
+    "addr:full":"3837 Macarthur Blvd New Orleans LA 70114",
+    "addr:housenumber":"3837",
+    "addr:postcode":"70114",
+    "addr:street":"Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.016768,29.924726,-90.016768,29.924726",
     "geom:latitude":29.924726,
     "geom:longitude":-90.016768,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27zvh42YfyK1EuTdulsFDe_29.924726_-90.016768@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463530142,
     "wof:geomhash":"c7d7bc4ae9e74dbf9f3a4e0bb2b12708",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840375307
+        }
+    ],
     "wof:id":840375307,
-    "wof:lastmodified":1466543828,
+    "wof:lastmodified":1486688955,
     "wof:name":"State Farm Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

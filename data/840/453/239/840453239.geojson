@@ -2,9 +2,14 @@
   "id": 840453239,
   "type": "Feature",
   "properties": {
+    "addr:full":"6078 Laurel St New Orleans LA 70118",
+    "addr:housenumber":"6078",
+    "addr:postcode":"70118",
+    "addr:street":"Laurel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.124089,29.919871,-90.124089,29.919871",
     "geom:latitude":29.919871,
     "geom:longitude":-90.124089,
@@ -28,7 +33,15 @@
         "french"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_491pbCU9nM7uqPiWXuXcbg_29.919871_-90.124089@1299784598"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463533434,
     "wof:geomhash":"d7c99e957dcd896db4a27d3e7430f26b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840453239
+        }
+    ],
     "wof:id":840453239,
-    "wof:lastmodified":1466545354,
+    "wof:lastmodified":1486689109,
     "wof:name":"Restaurant Patois",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

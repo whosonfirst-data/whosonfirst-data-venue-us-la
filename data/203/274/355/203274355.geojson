@@ -2,9 +2,14 @@
   "id": 203274355,
   "type": "Feature",
   "properties": {
+    "addr:full":"3644 Louisa St New Orleans LA 70126",
+    "addr:housenumber":"3644",
+    "addr:postcode":"70126",
+    "addr:street":"Louisa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.034698,29.9951,-90.034698,29.9951",
     "geom:latitude":29.9951,
     "geom:longitude":-90.034698,
@@ -26,11 +31,13 @@
     "sg:website":"www.church-of-christ.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866087
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"377fb22bebea0cb418d9a75bab1d8042",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203274355
         }
     ],
     "wof:id":203274355,
-    "wof:lastmodified":1466539348,
+    "wof:lastmodified":1486686958,
     "wof:name":"Church of Christ",
     "wof:parent_id":85866087,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840106561,
   "type": "Feature",
   "properties": {
+    "addr:full":"4822 Tchoupitoulas St New Orleans LA 70115",
+    "addr:housenumber":"4822",
+    "addr:postcode":"70115",
+    "addr:street":"Tchoupitoulas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.106266,29.916683,-90.106266,29.916683",
     "geom:latitude":29.916683,
     "geom:longitude":-90.106266,
@@ -24,7 +29,15 @@
     "sg:postcode":"70115",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Hx8Gg8t3rPZadhdXmK9fz_29.916683_-90.106266@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463521364,
     "wof:geomhash":"3b12dea3a89c9d7099d7c2a38dfd04ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840106561
+        }
+    ],
     "wof:id":840106561,
-    "wof:lastmodified":1466540743,
+    "wof:lastmodified":1486689111,
     "wof:name":"Public Belt Railroad Cmmssn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

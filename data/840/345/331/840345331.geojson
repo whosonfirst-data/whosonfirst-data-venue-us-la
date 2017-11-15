@@ -2,14 +2,20 @@
   "id": 840345331,
   "type": "Feature",
   "properties": {
+    "addr:full":"7078 S Choctaw Dr Baton Rouge LA 70806",
+    "addr:housenumber":"7078",
+    "addr:postcode":"70806",
+    "addr:street":"S Choctaw Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.1195,30.469923,-91.1195,30.469923",
     "geom:latitude":30.469923,
     "geom:longitude":-91.1195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7078 S Choctaw Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85876071
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04t9Drcq6QgcM98650qhWj_30.469923_-91.119500@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528669,
-    "wof:geomhash":"c7022318aced08efd53fa7b740440522",
+    "wof:geomhash":"d8387884890132d62e4d413140856fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840345331,
-    "wof:lastmodified":1466543348,
+    "wof:lastmodified":1510695389,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85876071,
     "wof:placetype":"venue",

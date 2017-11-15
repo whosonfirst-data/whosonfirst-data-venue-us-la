@@ -2,14 +2,20 @@
   "id": 840283289,
   "type": "Feature",
   "properties": {
+    "addr:full":"770 Allendale Dr Port Allen LA 70767",
+    "addr:housenumber":"770",
+    "addr:postcode":"70767",
+    "addr:street":"Allendale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.222538,30.448837,-91.222538,30.448837",
     "geom:latitude":30.448837,
     "geom:longitude":-91.222538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"770 Allendale Dr",
     "sg:city":"Port Allen",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85876063,
         102086695
     ],
+    "wof:brand_id":1125158153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vIeQ7oXBd0Xy5OFeGTztf_30.448837_-91.222538@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525768,
-    "wof:geomhash":"83add4fa78611a337884360b2640dc49",
+    "wof:geomhash":"1fdaff6d95a419b475629046be04835e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840283289,
-    "wof:lastmodified":1466542293,
+    "wof:lastmodified":1510697478,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85876063,
     "wof:placetype":"venue",

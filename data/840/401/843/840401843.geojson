@@ -2,14 +2,20 @@
   "id": 840401843,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Avenue E Kentwood LA 70444",
+    "addr:housenumber":"303",
+    "addr:postcode":"70444",
+    "addr:street":"Avenue E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.510742,30.939317,-90.510742,30.939317",
     "geom:latitude":30.939317,
     "geom:longitude":-90.510742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"303 Avenue E",
     "sg:city":"Kentwood",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083809,
         85853177
     ],
+    "wof:brand_id":1125154815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NGw1ch9aI6IKRfs7pyD7C_30.939317_-90.510742@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531282,
-    "wof:geomhash":"48a4dc8588ed76d9cc9a12eb61e1281b",
+    "wof:geomhash":"a1e7cc4e04bd67135be939c7bacb0f3e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840401843,
-    "wof:lastmodified":1466544543,
+    "wof:lastmodified":1510695891,
     "wof:name":"Total Look",
     "wof:parent_id":85853177,
     "wof:placetype":"venue",

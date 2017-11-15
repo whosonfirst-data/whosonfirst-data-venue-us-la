@@ -2,14 +2,20 @@
   "id": 840172703,
   "type": "Feature",
   "properties": {
+    "addr:full":"3231 Lake St Lake Charles LA 70601",
+    "addr:housenumber":"3231",
+    "addr:postcode":"70601",
+    "addr:street":"Lake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.232273,30.199226,-93.232273,30.199226",
     "geom:latitude":30.199226,
     "geom:longitude":-93.232273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3231 Lake St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W4iHcg4TlKgJFaAIEAhcu_30.199226_-93.232273@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522744,
-    "wof:geomhash":"3278b7e789eeaa1a726bddd123372ac7",
+    "wof:geomhash":"5a33ca64ac78f940092196078248c864",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840172703,
-    "wof:lastmodified":1466541230,
+    "wof:lastmodified":1510694888,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

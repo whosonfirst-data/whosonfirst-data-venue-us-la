@@ -2,14 +2,20 @@
   "id": 840393079,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 N Beglis Pkwy Sulphur LA 70663",
+    "addr:housenumber":"215",
+    "addr:postcode":"70663",
+    "addr:street":"N Beglis Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359467,30.237839,-93.359467,30.237839",
     "geom:latitude":30.237839,
     "geom:longitude":-93.359467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 N Beglis Pkwy",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125158531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oiPAccyPQL6uYYShIJkkL_30.237839_-93.359467@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530926,
-    "wof:geomhash":"71a45b45d72eaea1a3192b3a77b0d76a",
+    "wof:geomhash":"d022fa99fce67c2e0cb91c8afe04f5ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840393079,
-    "wof:lastmodified":1466544200,
+    "wof:lastmodified":1510698664,
     "wof:name":"Flowserve Corp",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

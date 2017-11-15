@@ -2,9 +2,14 @@
   "id": 840152499,
   "type": "Feature",
   "properties": {
+    "addr:full":"3225 Joliet St New Orleans LA 70118",
+    "addr:housenumber":"3225",
+    "addr:postcode":"70118",
+    "addr:street":"Joliet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117132,29.964966,-90.117132,29.964966",
     "geom:latitude":29.964966,
     "geom:longitude":-90.117132,
@@ -27,7 +32,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e4Aq0GQnmJ1kcJ9LZ4rxz_29.964966_-90.117132@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463522302,
     "wof:geomhash":"b4cd223def03bf31921ce7e2568cfe5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840152499
+        }
+    ],
     "wof:id":840152499,
-    "wof:lastmodified":1466540774,
+    "wof:lastmodified":1486689041,
     "wof:name":"Elite Precious Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

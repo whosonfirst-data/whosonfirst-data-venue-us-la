@@ -2,9 +2,14 @@
   "id": 203244055,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 Newton St New Orleans LA 70114",
+    "addr:housenumber":"623",
+    "addr:postcode":"70114",
+    "addr:street":"Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049896,29.9457,-90.049896,29.9457",
     "geom:latitude":29.9457,
     "geom:longitude":-90.049896,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746807,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"e7637312bad995948803b5675f11189a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
             "region_id":85688735,
             "venue_id":203244055
         }
     ],
     "wof:id":203244055,
-    "wof:lastmodified":1466539301,
+    "wof:lastmodified":1486689088,
     "wof:name":"Greater Providence Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

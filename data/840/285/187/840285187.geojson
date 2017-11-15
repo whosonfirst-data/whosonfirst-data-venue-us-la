@@ -2,9 +2,14 @@
   "id": 840285187,
   "type": "Feature",
   "properties": {
+    "addr:full":"13100 Chef Menteur Hwy New Orleans LA 70129",
+    "addr:housenumber":"13100",
+    "addr:postcode":"70129",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.931782,30.029543,-89.931782,30.029543",
     "geom:latitude":30.029543,
     "geom:longitude":-89.931782,
@@ -29,7 +34,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X8wLq8j7FiA7YCKtXYyES_30.029543_-89.931782@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463525857,
     "wof:geomhash":"ba07b92315d9c32471f2c3d878eb83db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840285187
+        }
+    ],
     "wof:id":840285187,
-    "wof:lastmodified":1466542272,
+    "wof:lastmodified":1486688853,
     "wof:name":"Keller Supply Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

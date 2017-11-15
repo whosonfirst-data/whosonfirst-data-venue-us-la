@@ -2,6 +2,10 @@
   "id": 203234849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Manhattan Blvd Harvey LA 70058",
+    "addr:housenumber":"1001",
+    "addr:postcode":"70058",
+    "addr:street":"Manhattan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":203234849,
-    "wof:lastmodified":1466539299,
+    "wof:lastmodified":1472624327,
     "wof:name":"Manhattan Mini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

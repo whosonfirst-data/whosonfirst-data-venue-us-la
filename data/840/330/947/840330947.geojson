@@ -2,14 +2,20 @@
   "id": 840330947,
   "type": "Feature",
   "properties": {
+    "addr:full":"6324 Leslie Ln Lake Charles LA 70615",
+    "addr:housenumber":"6324",
+    "addr:postcode":"70615",
+    "addr:street":"Leslie Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.124753,30.234232,-93.124753,30.234232",
     "geom:latitude":30.234232,
     "geom:longitude":-93.124753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6324 Leslie Ln",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jGmvVYOLx5axpHYjI9VxY_30.234232_-93.124753@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527985,
-    "wof:geomhash":"ba46ac94604ba8f352b6db7104188494",
+    "wof:geomhash":"e3d13f7f722c676120dcc9c0d8e9e273",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840330947,
-    "wof:lastmodified":1466543277,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840298309,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 Mendez St New Orleans LA 70122",
+    "addr:housenumber":"2221",
+    "addr:postcode":"70122",
+    "addr:street":"Mendez St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.05955,30.015744,-90.05955,30.015744",
     "geom:latitude":30.015744,
     "geom:longitude":-90.05955,
@@ -26,12 +31,14 @@
     "sg:website":"www.mariancentral.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85834475,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85834475
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +53,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":840298309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85834475,
             "region_id":85688735,
             "venue_id":840298309
         }
     ],
     "wof:id":840298309,
-    "wof:lastmodified":1466542516,
+    "wof:lastmodified":1486688063,
     "wof:name":"Marian Central Catholic Middle",
     "wof:parent_id":85834475,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840342371,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Sunbeam Ln Scott LA 70583",
+    "addr:housenumber":"104",
+    "addr:postcode":"70583",
+    "addr:street":"Sunbeam Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.056761,30.233713,-92.056761,30.233713",
     "geom:latitude":30.233713,
     "geom:longitude":-92.056761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 Sunbeam Ln",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125151059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bH5Vze9cSOeN6p0hOPktj_30.233713_-92.056761@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528526,
-    "wof:geomhash":"f28cfde3dc5e67cddac4694859f98e64",
+    "wof:geomhash":"2251bc1f2402d06c2459e765a250229e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840342371,
-    "wof:lastmodified":1466543406,
+    "wof:lastmodified":1510613137,
     "wof:name":"Union Pacific Railroad Company",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840133969,
   "type": "Feature",
   "properties": {
+    "addr:full":"8710 Lomond Rd New Orleans LA 70127",
+    "addr:housenumber":"8710",
+    "addr:postcode":"70127",
+    "addr:street":"Lomond Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.993386,30.040199,-89.993386,30.040199",
     "geom:latitude":30.040199,
     "geom:longitude":-89.993386,
@@ -27,7 +32,15 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Pf7usMc5OivkTA24ZAyc_30.040199_-89.993386@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463521929,
     "wof:geomhash":"9cf75e5ec7a93a8bddeb5f92efc282fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840133969
+        }
+    ],
     "wof:id":840133969,
-    "wof:lastmodified":1466541049,
+    "wof:lastmodified":1486688700,
     "wof:name":"Triple S Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

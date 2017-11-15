@@ -2,14 +2,20 @@
   "id": 840030479,
   "type": "Feature",
   "properties": {
+    "addr:full":"739 Jackson Ave New Orleans LA 70130",
+    "addr:housenumber":"739",
+    "addr:postcode":"70130",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.074313,29.926959,-90.074313,29.926959",
     "geom:latitude":29.926959,
     "geom:longitude":-90.074313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"739 Jackson Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,33 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866109,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866109
+        85688735
     ],
+    "wof:brand_id":1125159967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AKeH0DCpjmrBQ00G73f6W_29.926959_-90.074313@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519631,
-    "wof:geomhash":"48fcc137211990d2083f7b40d95d6f1b",
+    "wof:geomhash":"15f9eb7cd7b2141db884cc43cb150ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866109,
             "region_id":85688735,
             "venue_id":840030479
         }
     ],
     "wof:id":840030479,
-    "wof:lastmodified":1466539844,
+    "wof:lastmodified":1510693849,
     "wof:name":"One Hour Cleaners",
     "wof:parent_id":85866109,
     "wof:placetype":"venue",

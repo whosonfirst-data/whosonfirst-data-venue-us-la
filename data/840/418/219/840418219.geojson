@@ -2,14 +2,20 @@
   "id": 840418219,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 Valley View Dr Shreveport LA 71108",
+    "addr:housenumber":"2801",
+    "addr:postcode":"71108",
+    "addr:street":"Valley View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.780896,32.434871,-93.780896,32.434871",
     "geom:latitude":32.434871,
     "geom:longitude":-93.780896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 Valley View Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85828353
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JUDin6l8XMTN1VLrAqkNR_32.434871_-93.780896@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531954,
-    "wof:geomhash":"373c5ae7ae77c9999236cf01b4c89cbd",
+    "wof:geomhash":"bd38a96f3cc7d64414dffce7e6b7814e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840418219,
-    "wof:lastmodified":1466544824,
+    "wof:lastmodified":1510695399,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85828353,
     "wof:placetype":"venue",

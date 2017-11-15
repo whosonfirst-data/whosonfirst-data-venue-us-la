@@ -2,14 +2,20 @@
   "id": 840271497,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 Main St Baker LA 70714",
+    "addr:housenumber":"806",
+    "addr:postcode":"70714",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.168876,30.583987,-91.168876,30.583987",
     "geom:latitude":30.583987,
     "geom:longitude":-91.168876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"806 Main St",
     "sg:city":"Baker",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85840811
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xsVPMNkqYD0EajGe37q1m_30.583987_-91.168876@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525241,
-    "wof:geomhash":"240bfa5ad27a9c4f20b376046dabcf42",
+    "wof:geomhash":"462db77ca790e5266ad62b3a6f279bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840271497,
-    "wof:lastmodified":1466542102,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85840811,
     "wof:placetype":"venue",

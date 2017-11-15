@@ -2,9 +2,14 @@
   "id": 840451323,
   "type": "Feature",
   "properties": {
+    "addr:full":"1441 Teche St New Orleans LA 70114",
+    "addr:housenumber":"1441",
+    "addr:postcode":"70114",
+    "addr:street":"Teche St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051697,29.940399,-90.051697,29.940399",
     "geom:latitude":29.940399,
     "geom:longitude":-90.051697,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ge7O1mAkuFvv1r1t33dEV_29.940593_-90.051943@1293134755"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463533358,
     "wof:geomhash":"4e1038e4f55eae71026ddf2aaa283e3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840451323
+        }
+    ],
     "wof:id":840451323,
-    "wof:lastmodified":1466545299,
+    "wof:lastmodified":1486689089,
     "wof:name":"All Saints Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

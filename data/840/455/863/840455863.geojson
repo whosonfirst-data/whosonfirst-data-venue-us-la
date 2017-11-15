@@ -2,14 +2,20 @@
   "id": 840455863,
   "type": "Feature",
   "properties": {
+    "addr:full":"6401 Bluebonnet Blvd Baton Rouge LA 70836",
+    "addr:housenumber":"6401",
+    "addr:postcode":"70836",
+    "addr:street":"Bluebonnet Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.090155,30.391743,-91.090155,30.391743",
     "geom:latitude":30.391743,
     "geom:longitude":-91.090155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6401 Bluebonnet Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         85807101,
         102087229
     ],
+    "wof:brand_id":1125158297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i7hSY5gDTVhbt54SEitEp_30.391743_-91.090155@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533533,
-    "wof:geomhash":"c9cf325e8c128aa9012bf977feb7b0cf",
+    "wof:geomhash":"d72482846b09350aaba848668e728c43",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":840455863,
-    "wof:lastmodified":1466545472,
+    "wof:lastmodified":1510695812,
     "wof:name":"Frullati Cafe",
     "wof:parent_id":85807101,
     "wof:placetype":"venue",

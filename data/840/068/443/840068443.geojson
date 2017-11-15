@@ -2,14 +2,20 @@
   "id": 840068443,
   "type": "Feature",
   "properties": {
+    "addr:full":"2109 17th St Kenner LA 70062",
+    "addr:housenumber":"2109",
+    "addr:postcode":"70062",
+    "addr:street":"17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.241719,29.988283,-90.241719,29.988283",
     "geom:latitude":29.988283,
     "geom:longitude":-90.241719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2109 17th St",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GSu65AC3vzZxoe3UGS4UP_29.988283_-90.241719@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520448,
-    "wof:geomhash":"a6747da9807bcf3ae660edae7c06e3e4",
+    "wof:geomhash":"3f765046e89633a9df80d7a52b2913f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840068443,
-    "wof:lastmodified":1466540365,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

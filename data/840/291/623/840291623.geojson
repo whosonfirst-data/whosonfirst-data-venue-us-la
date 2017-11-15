@@ -2,14 +2,20 @@
   "id": 840291623,
   "type": "Feature",
   "properties": {
+    "addr:full":"3736 Government St Alexandria LA 71302",
+    "addr:housenumber":"3736",
+    "addr:postcode":"71302",
+    "addr:street":"Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.447727,31.266144,-92.447727,31.266144",
     "geom:latitude":31.266144,
     "geom:longitude":-92.447727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3736 Government St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125159113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WW6ehGjgLD8TQvgr7ZBtu_31.266144_-92.447727@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526136,
-    "wof:geomhash":"d840f1df04d0f9f58f878c81b0fc7c77",
+    "wof:geomhash":"ed40bf3cfba503d7a9b00ada173a5e4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840291623,
-    "wof:lastmodified":1466542473,
+    "wof:lastmodified":1510698951,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840432619,
   "type": "Feature",
   "properties": {
+    "addr:full":"10941 Willow Brae Dr New Orleans LA 70127",
+    "addr:housenumber":"10941",
+    "addr:postcode":"70127",
+    "addr:street":"Willow Brae Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.973927,30.04439,-89.973927,30.04439",
     "geom:latitude":30.04439,
     "geom:longitude":-89.973927,
@@ -27,7 +32,15 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0El68m4fmdQuednmHHNOfO_30.044390_-89.973927@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463532579,
     "wof:geomhash":"7197ba4ca45d2034c8e0480069b51c9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840432619
+        }
+    ],
     "wof:id":840432619,
-    "wof:lastmodified":1466545116,
+    "wof:lastmodified":1486688707,
     "wof:name":"Faith Transportation & Tours I",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

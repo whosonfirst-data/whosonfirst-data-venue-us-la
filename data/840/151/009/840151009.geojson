@@ -2,9 +2,14 @@
   "id": 840151009,
   "type": "Feature",
   "properties": {
+    "addr:full":"823 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"823",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.131988,29.944932,-90.131988,29.944932",
     "geom:latitude":29.944932,
     "geom:longitude":-90.131988,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NE81nLqiNA5wveLsYcSe6_29.944932_-90.131988@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463522264,
     "wof:geomhash":"2387cfa6898dc423ecf58ba6aa11b57d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840151009
+        }
+    ],
     "wof:id":840151009,
-    "wof:lastmodified":1466540627,
+    "wof:lastmodified":1486689015,
     "wof:name":"Glenda Ivy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

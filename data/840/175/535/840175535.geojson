@@ -2,14 +2,20 @@
   "id": 840175535,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Petro Point Dr Lake Charles LA 70607",
+    "addr:housenumber":"620",
+    "addr:postcode":"70607",
+    "addr:street":"Petro Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.210092,30.164881,-93.210092,30.164881",
     "geom:latitude":30.164881,
     "geom:longitude":-93.210092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 Petro Point Dr",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_337S5cXJR4XRjzA6yVIsQT_30.164881_-93.210092@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522815,
-    "wof:geomhash":"d2250dae3aca03fd237dc1df01c77a70",
+    "wof:geomhash":"1580c463dd0a41a7779f4ca4c9082ae2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840175535,
-    "wof:lastmodified":1466541328,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

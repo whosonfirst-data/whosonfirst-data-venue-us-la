@@ -2,9 +2,14 @@
   "id": 840362515,
   "type": "Feature",
   "properties": {
+    "addr:full":"6021 N Claiborne Ave New Orleans LA 70117",
+    "addr:housenumber":"6021",
+    "addr:postcode":"70117",
+    "addr:street":"N Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.009191,29.964879,-90.009191,29.964879",
     "geom:latitude":29.964879,
     "geom:longitude":-90.009191,
@@ -33,7 +38,15 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746835,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pUAoFHNBWAZ3r8IjLGzbo_29.964879_-90.009191@1294127638"
@@ -41,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1463529503,
     "wof:geomhash":"ea0f9402a9221a4cc798274d626e8ee5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
+            "region_id":85688735,
+            "venue_id":840362515
+        }
+    ],
     "wof:id":840362515,
-    "wof:lastmodified":1466543598,
+    "wof:lastmodified":1486689078,
     "wof:name":"Captain Bill's Seafood Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

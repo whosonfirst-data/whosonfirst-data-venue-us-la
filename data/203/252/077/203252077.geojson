@@ -2,9 +2,14 @@
   "id": 203252077,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Behrman Pl New Orleans LA 70114",
+    "addr:housenumber":"",
+    "addr:postcode":"3300;70114",
+    "addr:street":"Behrman Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017177,29.920968,-90.017177,29.920968",
     "geom:latitude":29.920968,
     "geom:longitude":-90.017177,
@@ -30,10 +35,13 @@
     "sg:website":"www.xtremephysicaltherapy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"5a3e06aa7ca93d3e9d0ff1ee7951d728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203252077
         }
     ],
     "wof:id":203252077,
-    "wof:lastmodified":1466539311,
+    "wof:lastmodified":1486689102,
     "wof:name":"Xtreme Physical Therapy Llc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

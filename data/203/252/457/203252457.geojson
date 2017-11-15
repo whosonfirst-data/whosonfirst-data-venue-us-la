@@ -2,9 +2,14 @@
   "id": 203252457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 L B Landry Ave New Orleans LA 70114",
+    "addr:housenumber":"1401",
+    "addr:postcode":"70114",
+    "addr:street":"L B Landry Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.041199,29.941,-90.041199,29.941",
     "geom:latitude":29.941,
     "geom:longitude":-90.041199,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866159,
+        102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866159
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"4b90576983fbaff725ed2c57a8f70726",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739497,
             "neighbourhood_id":85866159,
             "region_id":85688735,
             "venue_id":203252457
         }
     ],
     "wof:id":203252457,
-    "wof:lastmodified":1466539316,
+    "wof:lastmodified":1486687951,
     "wof:name":"Day Haven Adult Day Care Center",
     "wof:parent_id":85866159,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840398003,
   "type": "Feature",
   "properties": {
+    "addr:full":"7211 Restgate Rd New Orleans LA 70127",
+    "addr:housenumber":"7211",
+    "addr:postcode":"70127",
+    "addr:street":"Restgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.975094,30.042637,-89.975094,30.042637",
     "geom:latitude":30.042637,
     "geom:longitude":-89.975094,
@@ -28,7 +33,15 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eZ2e1OWCD9fcvFtmkk4Hg_30.042637_-89.975094@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463531130,
     "wof:geomhash":"32093de0269ae8561ec649db2496c2ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840398003
+        }
+    ],
     "wof:id":840398003,
-    "wof:lastmodified":1466544589,
+    "wof:lastmodified":1486688707,
     "wof:name":"Angelic Printing Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

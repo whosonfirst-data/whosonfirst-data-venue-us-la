@@ -2,14 +2,20 @@
   "id": 840432449,
   "type": "Feature",
   "properties": {
+    "addr:full":"3388 Brentwood Dr Baton Rouge LA 70809",
+    "addr:housenumber":"3388",
+    "addr:postcode":"70809",
+    "addr:street":"Brentwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.099914,30.418486,-91.099914,30.418486",
     "geom:latitude":30.418486,
     "geom:longitude":-91.099914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3388 Brentwood Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85806615,
         102087229
     ],
+    "wof:brand_id":1125158449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FcI5wnRrkJtBz6lifHoOR_30.418486_-91.099914@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532564,
-    "wof:geomhash":"83ae7e9171f118f314d15fdb2b026a6b",
+    "wof:geomhash":"ef86f0cc318f063ce04cd929d7588016",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840432449,
-    "wof:lastmodified":1466545081,
+    "wof:lastmodified":1510694227,
     "wof:name":"Automatic Data Processing",
     "wof:parent_id":85806615,
     "wof:placetype":"venue",

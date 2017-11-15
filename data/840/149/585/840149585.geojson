@@ -2,14 +2,20 @@
   "id": 840149585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 E Admiral Doyle Dr New Iberia LA 70560",
+    "addr:housenumber":"1100",
+    "addr:postcode":"70560",
+    "addr:street":"E Admiral Doyle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.815625,29.982842,-91.815625,29.982842",
     "geom:latitude":29.982842,
     "geom:longitude":-91.815625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 E Admiral Doyle Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125151213,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7acT3BnVmKrbq1WdXkYs7j_29.982842_-91.815625@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522234,
-    "wof:geomhash":"c154f41ba1bcf5a5e9774a4ede239c8a",
+    "wof:geomhash":"a197085cc56c15fb2bcbb5f89f9ac88e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840149585,
-    "wof:lastmodified":1466540461,
+    "wof:lastmodified":1510697571,
     "wof:name":"Checkers Drive-In Restaurant",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

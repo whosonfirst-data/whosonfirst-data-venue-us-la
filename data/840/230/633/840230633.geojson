@@ -2,9 +2,14 @@
   "id": 840230633,
   "type": "Feature",
   "properties": {
+    "addr:full":"6926 Bellaire Dr New Orleans LA 70124",
+    "addr:housenumber":"6926",
+    "addr:postcode":"70124",
+    "addr:street":"Bellaire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.120647,30.016998,-90.120647,30.016998",
     "geom:latitude":30.016998,
     "geom:longitude":-90.120647,
@@ -27,7 +32,15 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sPgLyvLIstCvWTWPQBxop_30.016998_-90.120647@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463524126,
     "wof:geomhash":"ce0891ab6265acd82b36dfe0bde22082",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840230633
+        }
+    ],
     "wof:id":840230633,
-    "wof:lastmodified":1466541754,
+    "wof:lastmodified":1486689074,
     "wof:name":"Appraisal Network LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840150377,
   "type": "Feature",
   "properties": {
+    "addr:full":"3804 Country Dr Bourg LA 70343",
+    "addr:housenumber":"3804",
+    "addr:postcode":"70343",
+    "addr:street":"Country Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.646619,29.564238,-90.646619,29.564238",
     "geom:latitude":29.564238,
     "geom:longitude":-90.646619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3804 Country Dr",
     "sg:city":"Bourg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081923,
         85803459
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fDx5vlqlJIr0bA0EwTcUh_29.564238_-90.646619@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522248,
-    "wof:geomhash":"438ab0e3499df0fe0c2e649c36576ff6",
+    "wof:geomhash":"b02c7704834f73bd05537f804320d569",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840150377,
-    "wof:lastmodified":1466540563,
+    "wof:lastmodified":1510699945,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",

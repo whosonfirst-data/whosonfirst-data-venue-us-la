@@ -2,6 +2,10 @@
   "id": 840248585,
   "type": "Feature",
   "properties": {
+    "addr:full":"3220 S I- 10 Svc Rd W Metairie LA 70001",
+    "addr:housenumber":"3220;10",
+    "addr:postcode":"70001",
+    "addr:street":"S I;Svc Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":840248585,
-    "wof:lastmodified":1466541749,
+    "wof:lastmodified":1472624552,
     "wof:name":"Baker-Lyman & Co Inc",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

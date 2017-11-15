@@ -2,9 +2,14 @@
   "id": 840163423,
   "type": "Feature",
   "properties": {
+    "addr:full":"4403 Eastview Dr New Orleans LA 70126",
+    "addr:housenumber":"4403",
+    "addr:postcode":"70126",
+    "addr:street":"Eastview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.992045,30.014671,-89.992045,30.014671",
     "geom:latitude":30.014671,
     "geom:longitude":-89.992045,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866169,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aZTcRseFJmWl9cGwBrLAk_30.014671_-89.992045@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522508,
     "wof:geomhash":"12324d21021135e0efcf685a31d4ee91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840163423
+        }
+    ],
     "wof:id":840163423,
-    "wof:lastmodified":1466541165,
+    "wof:lastmodified":1486688734,
     "wof:name":"Roman Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

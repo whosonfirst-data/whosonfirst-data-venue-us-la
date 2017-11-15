@@ -2,9 +2,14 @@
   "id": 840139073,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 Franklin Ave New Orleans LA 70122",
+    "addr:housenumber":"5300",
+    "addr:postcode":"70122",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051163,30.013181,-90.051163,30.013181",
     "geom:latitude":30.013181,
     "geom:longitude":-90.051163,
@@ -28,12 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746555,
+        85834475,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85834475
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +56,28 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "microhood_id":1108746555,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":840139073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746555,
             "neighbourhood_id":85834475,
             "region_id":85688735,
             "venue_id":840139073
         }
     ],
     "wof:id":840139073,
-    "wof:lastmodified":1466541010,
+    "wof:lastmodified":1486689147,
     "wof:name":"Franklin & Filmore Shell",
-    "wof:parent_id":85834475,
+    "wof:parent_id":1108746555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

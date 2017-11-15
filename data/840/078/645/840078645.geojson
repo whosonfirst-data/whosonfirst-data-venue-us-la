@@ -2,14 +2,20 @@
   "id": 840078645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 Sampson St Westlake LA 70669",
+    "addr:housenumber":"1415",
+    "addr:postcode":"70669",
+    "addr:street":"Sampson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.258129,30.251036,-93.258129,30.251036",
     "geom:latitude":30.251036,
     "geom:longitude":-93.258129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1415 Sampson St",
     "sg:city":"Westlake",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Og3xvxF4aBpAp9YzaqS1p_30.251036_-93.258129@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520652,
-    "wof:geomhash":"cc90f90662c7ea7329d1296e7a575d10",
+    "wof:geomhash":"16b8437af04a1e21e04cdab8b177d89e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840078645,
-    "wof:lastmodified":1466540518,
+    "wof:lastmodified":1510695930,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

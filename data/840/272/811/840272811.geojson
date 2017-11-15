@@ -2,14 +2,20 @@
   "id": 840272811,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Desiard St Monroe LA 71203",
+    "addr:housenumber":"5200",
+    "addr:postcode":"71203",
+    "addr:street":"Desiard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.062952,32.526372,-92.062952,32.526372",
     "geom:latitude":32.526372,
     "geom:longitude":-92.062952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5200 Desiard St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20lNsFwWUoSaVIN61PU08s_32.526372_-92.062952@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525303,
-    "wof:geomhash":"4c99e2f108e19b03cdf9125f8b43f511",
+    "wof:geomhash":"9a90d9a56d549538e3a2a7e5394e6151",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840272811,
-    "wof:lastmodified":1466542102,
+    "wof:lastmodified":1510622662,
     "wof:name":"Economy Inn",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

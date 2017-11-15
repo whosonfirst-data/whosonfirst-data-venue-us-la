@@ -2,9 +2,14 @@
   "id": 840401719,
   "type": "Feature",
   "properties": {
+    "addr:full":"9954 Lake Forest Blvd New Orleans LA 70127",
+    "addr:housenumber":"9954",
+    "addr:postcode":"70127",
+    "addr:street":"Lake Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.976428,30.030737,-89.976428,30.030737",
     "geom:latitude":30.030737,
     "geom:longitude":-89.976428,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85891213
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891213,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":840401719
         }
     ],
     "wof:id":840401719,
-    "wof:lastmodified":1466544518,
+    "wof:lastmodified":1486688250,
     "wof:name":"Yata Java",
-    "wof:parent_id":85891213,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

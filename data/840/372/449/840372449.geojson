@@ -2,9 +2,14 @@
   "id": 840372449,
   "type": "Feature",
   "properties": {
+    "addr:full":"4310 Saint Charles Ave New Orleans LA 70115",
+    "addr:housenumber":"4310",
+    "addr:postcode":"70115",
+    "addr:street":"Saint Charles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.101811,29.926334,-90.101811,29.926334",
     "geom:latitude":29.926334,
     "geom:longitude":-90.101811,
@@ -30,12 +35,13 @@
     "sg:website":"www.adclubno.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866115,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866125
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866125,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866115,
             "region_id":85688735,
             "venue_id":840372449
         }
     ],
     "wof:id":840372449,
-    "wof:lastmodified":1466543840,
+    "wof:lastmodified":1491861102,
     "wof:name":"Advertising Club-New Orleans",
-    "wof:parent_id":85866125,
+    "wof:parent_id":85866115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

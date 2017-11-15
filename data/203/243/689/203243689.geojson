@@ -2,9 +2,14 @@
   "id": 203243689,
   "type": "Feature",
   "properties": {
+    "addr:full":"3906 General Degaulle Dr New Orleans LA 70114",
+    "addr:housenumber":"3906",
+    "addr:postcode":"70114",
+    "addr:street":"General Degaulle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.016098,29.9223,-90.016098,29.9223",
     "geom:latitude":29.9223,
     "geom:longitude":-90.016098,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521721,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"8c2793e056d22f15d7279a990a76afa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
             "region_id":85688735,
             "venue_id":203243689
         }
     ],
     "wof:id":203243689,
-    "wof:lastmodified":1466539309,
+    "wof:lastmodified":1486688950,
     "wof:name":"Collins Ron Dr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

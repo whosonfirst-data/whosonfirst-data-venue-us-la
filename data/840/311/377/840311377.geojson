@@ -2,9 +2,14 @@
   "id": 840311377,
   "type": "Feature",
   "properties": {
+    "addr:full":"3203 Maurepas St New Orleans LA 70119",
+    "addr:housenumber":"3203",
+    "addr:postcode":"70119",
+    "addr:street":"Maurepas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.085514,29.98115,-90.085514,29.98115",
     "geom:latitude":29.98115,
     "geom:longitude":-90.085514,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85891207
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891207,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":840311377
         }
     ],
     "wof:id":840311377,
-    "wof:lastmodified":1466542696,
+    "wof:lastmodified":1486689205,
     "wof:name":"Doggie Style Designs For Canns",
-    "wof:parent_id":85891207,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

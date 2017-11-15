@@ -2,9 +2,14 @@
   "id": 840106261,
   "type": "Feature",
   "properties": {
+    "addr:full":"1529 N Claiborne Ave New Orleans LA 70116",
+    "addr:housenumber":"1529",
+    "addr:postcode":"70116",
+    "addr:street":"N Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06704,29.971433,-90.06704,29.971433",
     "geom:latitude":29.971433,
     "geom:longitude":-90.06704,
@@ -27,7 +32,16 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53hmw03rpXXpmHbTsuGviL_29.971433_-90.067040@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463521359,
     "wof:geomhash":"8eda7d71210b1d196f1c95160ffb9e8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840106261
+        }
+    ],
     "wof:id":840106261,
-    "wof:lastmodified":1466540713,
+    "wof:lastmodified":1486689217,
     "wof:name":"Melchizedek Metropolitan Chr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203270205,
   "type": "Feature",
   "properties": {
+    "addr:full":"6600 Franklin Ave Ste A9 New Orleans LA 70122",
+    "addr:housenumber":"6600",
+    "addr:postcode":"70122",
+    "addr:street":"Franklin Ave Ste A9",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.052299,30.0264,-90.052299,30.0264",
     "geom:latitude":30.0264,
     "geom:longitude":-90.052299,
@@ -30,11 +35,16 @@
     "sg:website":"www.loansfast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739689,
+        1108739667,
+        102191575,
+        1108746799,
         85633793,
         85948111,
         102086693,
-        85829167
+        85688735,
+        1108739491,
+        1108746797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +54,43 @@
     "wof:geomhash":"3c231c66b7e93234e3da66020892b777",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829167,
+            "macrohood_id":1108746799,
+            "microhood_id":1108739689,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":203270205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108739689,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":203270205
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "microhood_id":1108739689,
+            "neighbourhood_id":1108739667,
             "region_id":85688735,
             "venue_id":203270205
         }
     ],
     "wof:id":203270205,
-    "wof:lastmodified":1466539346,
+    "wof:lastmodified":1486689132,
     "wof:name":"American General Financial Services",
-    "wof:parent_id":85829167,
+    "wof:parent_id":1108739689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

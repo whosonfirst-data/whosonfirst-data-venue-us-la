@@ -2,14 +2,20 @@
   "id": 203280171,
   "type": "Feature",
   "properties": {
+    "addr:full":"9623 Chef Menteur Hwy New Orleans LA 70127",
+    "addr:housenumber":"9623",
+    "addr:postcode":"70127",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.973099,30.017401,-89.973099,30.017401",
     "geom:latitude":30.017401,
     "geom:longitude":-89.973099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9623 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -25,33 +31,39 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739489,
+        85866171,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85891213
+        85688735
     ],
+    "wof:brand_id":1125157709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73jqXtSsh5HCjafZ6r0YOK_30.017401_-89.973099@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"91eb6c45fad82644285f54898f9e261e",
+    "wof:geomhash":"fe626aeede4e661f7744adc2bc819721",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891213,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739489,
+            "neighbourhood_id":85866171,
             "region_id":85688735,
             "venue_id":203280171
         }
     ],
     "wof:id":203280171,
-    "wof:lastmodified":1466539358,
+    "wof:lastmodified":1510694761,
     "wof:name":"Pro Nail",
-    "wof:parent_id":85891213,
+    "wof:parent_id":1108739489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

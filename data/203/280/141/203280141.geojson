@@ -2,9 +2,14 @@
   "id": 203280141,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Crowder Blvd New Orleans LA 70127",
+    "addr:housenumber":"5200",
+    "addr:postcode":"70127",
+    "addr:street":"Crowder Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.989568,30.025192,-89.989568,30.025192",
     "geom:latitude":30.025192,
     "geom:longitude":-89.989568,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85855781
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"2c8cbec2dbb8d556ea3d0a17173201c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":203280141
         }
     ],
     "wof:id":203280141,
-    "wof:lastmodified":1466539358,
+    "wof:lastmodified":1486687698,
     "wof:name":"Joy Fashion",
     "wof:parent_id":85855781,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840208901,
   "type": "Feature",
   "properties": {
+    "addr:full":"57710 Barrow St Plaquemine LA 70764",
+    "addr:housenumber":"",
+    "addr:postcode":"57710;70764",
+    "addr:street":"Barrow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.224045,30.281143,-91.224045,30.281143",
     "geom:latitude":30.281143,
     "geom:longitude":-91.224045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"57710 Barrow St",
     "sg:city":"Plaquemine",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082457,
         85852837
     ],
+    "wof:brand_id":1125151081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5REAeQDwFm9GVmBQf7WdQx_30.281143_-91.224045@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523604,
-    "wof:geomhash":"18a37e752ab57c5848a03a49fa58295d",
+    "wof:geomhash":"5483243f7ef7e4627c8874975a5396f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840208901,
-    "wof:lastmodified":1466541627,
+    "wof:lastmodified":1510695433,
     "wof:name":"New Life Baptist Church",
     "wof:parent_id":85852837,
     "wof:placetype":"venue",

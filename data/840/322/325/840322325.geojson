@@ -2,9 +2,14 @@
   "id": 840322325,
   "type": "Feature",
   "properties": {
+    "addr:full":"1146 Constantinople St New Orleans LA 70115",
+    "addr:housenumber":"1146",
+    "addr:postcode":"70115",
+    "addr:street":"Constantinople St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.097172,29.923612,-90.097172,29.923612",
     "geom:latitude":29.923612,
     "geom:longitude":-90.097172,
@@ -31,12 +36,13 @@
     "sg:website":"www.chimesbandb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866115,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866115
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866115,
             "region_id":85688735,
             "venue_id":840322325
         }
     ],
     "wof:id":840322325,
-    "wof:lastmodified":1466542922,
+    "wof:lastmodified":1486686904,
     "wof:name":"Chimes Bed & Breakfast",
     "wof:parent_id":85866115,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203274527,
   "type": "Feature",
   "properties": {
+    "addr:full":"7301 Dwyer Rd New Orleans LA 70126",
+    "addr:housenumber":"7301",
+    "addr:postcode":"70126",
+    "addr:street":"Dwyer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.003554,30.021777,-90.003554,30.021777",
     "geom:latitude":30.021777,
     "geom:longitude":-90.003554,
@@ -31,11 +36,13 @@
     "sg:website":"nops.k12.la.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"77a3a7c6554eaf736109c9d8b0c554a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866169,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":203274527
         }
     ],
     "wof:id":203274527,
-    "wof:lastmodified":1466539351,
+    "wof:lastmodified":1491863998,
     "wof:name":"Orleans Parish School Board",
-    "wof:parent_id":85866169,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

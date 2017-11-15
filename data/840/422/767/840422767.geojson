@@ -2,14 +2,20 @@
   "id": 840422767,
   "type": "Feature",
   "properties": {
+    "addr:full":"2813 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"2813",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.091511,32.524574,-92.091511,32.524574",
     "geom:latitude":32.524574,
     "geom:longitude":-92.091511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2813 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125156089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LAYOzsJwfq42kUOTHweI0_32.524574_-92.091511@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532142,
-    "wof:geomhash":"5def71a9b51eede4fd43cb02ca76a837",
+    "wof:geomhash":"6ba4fb450c949a0bedc9b69b5b99c579",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840422767,
-    "wof:lastmodified":1466544856,
+    "wof:lastmodified":1510699300,
     "wof:name":"Grandy's",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

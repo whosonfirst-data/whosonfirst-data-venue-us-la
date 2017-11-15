@@ -2,9 +2,14 @@
   "id": 840074879,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 Kent Dr New Orleans LA 70131",
+    "addr:housenumber":"3720",
+    "addr:postcode":"70131",
+    "addr:street":"Kent Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.982393,29.916628,-89.982393,29.916628",
     "geom:latitude":29.916628,
     "geom:longitude":-89.982393,
@@ -27,7 +32,16 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521765,
+        102191575,
+        1108746803,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108739497
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IEfsYQY0u47TPdxapijki_29.916628_-89.982393@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463520578,
     "wof:geomhash":"bb0208a32bbbfe5a3788fa8da5958ff4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840074879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840074879
+        }
+    ],
     "wof:id":840074879,
-    "wof:lastmodified":1466540424,
+    "wof:lastmodified":1486688967,
     "wof:name":"Theodore Sanders",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

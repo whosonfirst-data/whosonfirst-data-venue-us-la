@@ -2,14 +2,20 @@
   "id": 840013405,
   "type": "Feature",
   "properties": {
+    "addr:full":"15047 State Rte 175 Mansfield LA 71052",
+    "addr:housenumber":"15047",
+    "addr:postcode":"71052",
+    "addr:street":"State Rte 175",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.693485,32.06617,-93.693485,32.06617",
     "geom:latitude":32.06617,
     "geom:longitude":-93.693485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15047 State Rte 175",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084887,
         85813793
     ],
+    "wof:brand_id":1125157397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J6YoonKfwQGBr6eOP44lU_32.066170_-93.693485@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519279,
-    "wof:geomhash":"791873a99bccf0f6ca987e2d383ed11f",
+    "wof:geomhash":"fd56cee1790901778980ee420d635476",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840013405,
-    "wof:lastmodified":1466539715,
+    "wof:lastmodified":1510695888,
     "wof:name":"Gethsemane Baptist Church",
     "wof:parent_id":85813793,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840450883,
   "type": "Feature",
   "properties": {
+    "addr:full":"4057 Oregon St New Orleans LA 70114",
+    "addr:housenumber":"4057",
+    "addr:postcode":"70114",
+    "addr:street":"Oregon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.028,29.9175,-90.028,29.9175",
     "geom:latitude":29.9175,
     "geom:longitude":-90.028,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.ag.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LsaTLJgm4zVQBMzGBeFue_29.917999_-90.027838@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463533343,
     "wof:geomhash":"cab99364678719a828eb5256fb14ca0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840450883
+        }
+    ],
     "wof:id":840450883,
-    "wof:lastmodified":1466545382,
+    "wof:lastmodified":1486689098,
     "wof:name":"Algiers Assembly of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

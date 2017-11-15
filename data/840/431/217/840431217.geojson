@@ -2,9 +2,14 @@
   "id": 840431217,
   "type": "Feature",
   "properties": {
+    "addr:full":"546 Octavia St New Orleans LA 70115",
+    "addr:housenumber":"546",
+    "addr:postcode":"70115",
+    "addr:street":"Octavia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.116484,29.919741,-90.116484,29.919741",
     "geom:latitude":29.919741,
     "geom:longitude":-90.116484,
@@ -24,7 +29,15 @@
     "sg:postcode":"70115",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QwPYP3a43lUExxNtyAG4m_29.919741_-90.116484@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463532499,
     "wof:geomhash":"80ebe23fa66001443de2825b9cbad0ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840431217
+        }
+    ],
     "wof:id":840431217,
-    "wof:lastmodified":1466545033,
+    "wof:lastmodified":1486689115,
     "wof:name":"Advocates of Responsible",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840448365,
   "type": "Feature",
   "properties": {
+    "addr:full":"5421 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"5421",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.969324,30.027949,-89.969324,30.027949",
     "geom:latitude":30.027949,
     "geom:longitude":-89.969324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5421 Read Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866173,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85891213
+        85688735
     ],
+    "wof:brand_id":1125153511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mdFDymbekjLGj04b9g3px_30.027949_-89.969324@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533215,
-    "wof:geomhash":"f834c88d14f1a9bbb6c48e5d31209d0f",
+    "wof:geomhash":"78b9d3f9655c8592ab6ee43a3c79138b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891213,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
             "region_id":85688735,
             "venue_id":840448365
         }
     ],
     "wof:id":840448365,
-    "wof:lastmodified":1466545306,
+    "wof:lastmodified":1510698962,
     "wof:name":"Da Vita Inc",
-    "wof:parent_id":85891213,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840159307,
   "type": "Feature",
   "properties": {
+    "addr:full":"4025 Golf Links Blvd Shreveport LA 71109",
+    "addr:housenumber":"4025",
+    "addr:postcode":"71109",
+    "addr:street":"Golf Links Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.811197,32.473979,-93.811197,32.473979",
     "geom:latitude":32.473979,
     "geom:longitude":-93.811197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4025 Golf Links Blvd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85881003
     ],
+    "wof:brand_id":1125159171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hWymzKm8nqmYxothhx4s2_32.473979_-93.811197@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522434,
-    "wof:geomhash":"4818c64a1c59cd16f3771f928cea8e8f",
+    "wof:geomhash":"11231259b97ff68ad374fb06c0494b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840159307,
-    "wof:lastmodified":1466541126,
+    "wof:lastmodified":1510694037,
     "wof:name":"Briarwood Apartments",
     "wof:parent_id":85881003,
     "wof:placetype":"venue",

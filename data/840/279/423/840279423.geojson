@@ -2,9 +2,14 @@
   "id": 840279423,
   "type": "Feature",
   "properties": {
+    "addr:full":"13147 Chateau Ct New Orleans LA 70129",
+    "addr:housenumber":"13147",
+    "addr:postcode":"70129",
+    "addr:street":"Chateau Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.932325,30.038634,-89.932325,30.038634",
     "geom:latitude":30.038634,
     "geom:longitude":-89.932325,
@@ -27,7 +32,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z1TOGyyyNyBKjk6jcjmez_30.038634_-89.932325@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463525593,
     "wof:geomhash":"f11e11337d352d4d669614b79dc1455a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840279423
+        }
+    ],
     "wof:id":840279423,
-    "wof:lastmodified":1466542250,
+    "wof:lastmodified":1486688233,
     "wof:name":"Lynn and Company Hair Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

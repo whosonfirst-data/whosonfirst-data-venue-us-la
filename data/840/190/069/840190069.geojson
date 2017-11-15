@@ -2,14 +2,20 @@
   "id": 840190069,
   "type": "Feature",
   "properties": {
+    "addr:full":"4641 Pecanland Mall Dr Monroe LA 71203",
+    "addr:housenumber":"4641",
+    "addr:postcode":"71203",
+    "addr:street":"Pecanland Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.063332,32.496416,-92.063332,32.496416",
     "geom:latitude":32.496416,
     "geom:longitude":-92.063332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4641 Pecanland Mall Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125155141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nVhZSh6e1qGkndsDs3IWK_32.496416_-92.063332@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523114,
-    "wof:geomhash":"b89e61fb5a35f9c15b3a9e8496a0e145",
+    "wof:geomhash":"5bc35416503c90cda716dfce4b8a28e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840190069,
-    "wof:lastmodified":1466541343,
+    "wof:lastmodified":1510699634,
     "wof:name":"Havertys Furniture",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

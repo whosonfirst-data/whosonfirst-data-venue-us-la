@@ -2,9 +2,14 @@
   "id": 840339485,
   "type": "Feature",
   "properties": {
+    "addr:full":"4703 Dixon St New Orleans LA 70125",
+    "addr:housenumber":"4703",
+    "addr:postcode":"70125",
+    "addr:street":"Dixon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.103465,29.9628,-90.103465,29.9628",
     "geom:latitude":29.9628,
     "geom:longitude":-90.103465,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866077,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866077
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866077,
             "region_id":85688735,
             "venue_id":840339485
         }
     ],
     "wof:id":840339485,
-    "wof:lastmodified":1466543260,
+    "wof:lastmodified":1486687523,
     "wof:name":"Anointing & The Vision Ent",
     "wof:parent_id":85866077,
     "wof:placetype":"venue",

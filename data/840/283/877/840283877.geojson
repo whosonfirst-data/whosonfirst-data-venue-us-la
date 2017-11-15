@@ -2,14 +2,20 @@
   "id": 840283877,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Labarre Rd New Orleans LA 70121",
+    "addr:housenumber":"400",
+    "addr:postcode":"70121",
+    "addr:street":"Labarre Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.152305,29.963979,-90.152305,29.963979",
     "geom:latitude":29.963979,
     "geom:longitude":-90.152305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Labarre Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gZ3th23uBWHAMlH9GIThz_29.963979_-90.152305@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525796,
-    "wof:geomhash":"ac13cb8634ac479154d42142ae52da2e",
+    "wof:geomhash":"7a17efb9a01f6ef5268c02dac1add5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840283877,
-    "wof:lastmodified":1466542410,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

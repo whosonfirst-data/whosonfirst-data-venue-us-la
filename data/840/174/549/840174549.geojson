@@ -2,9 +2,14 @@
   "id": 840174549,
   "type": "Feature",
   "properties": {
+    "addr:full":"927 Broadway St New Orleans LA 70118",
+    "addr:housenumber":"927",
+    "addr:postcode":"70118",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.124228,29.940327,-90.124228,29.940327",
     "geom:latitude":29.940327,
     "geom:longitude":-90.124228,
@@ -28,7 +33,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QtKtSlePXj5hUXgeuh8bL_29.940327_-90.124228@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522785,
     "wof:geomhash":"7506792b06d37ab5c66576b85ac9bc57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840174549
+        }
+    ],
     "wof:id":840174549,
-    "wof:lastmodified":1466541263,
+    "wof:lastmodified":1486688663,
     "wof:name":"Mary F Gardner MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

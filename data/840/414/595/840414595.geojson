@@ -2,14 +2,20 @@
   "id": 840414595,
   "type": "Feature",
   "properties": {
+    "addr:full":"7710 Jewella Ave Shreveport LA 71108",
+    "addr:housenumber":"7710",
+    "addr:postcode":"71108",
+    "addr:street":"Jewella Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.797486,32.432426,-93.797486,32.432426",
     "geom:latitude":32.432426,
     "geom:longitude":-93.797486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7710 Jewella Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85828353
     ],
+    "wof:brand_id":1125157727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kEmsERoLCWY3xGznN2IMa_32.432426_-93.797486@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531805,
-    "wof:geomhash":"18341ea8e3718ebfaca6584b00b6a88e",
+    "wof:geomhash":"056800ca3d7b410d666841a586b18dee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840414595,
-    "wof:lastmodified":1466544681,
+    "wof:lastmodified":1510699452,
     "wof:name":"Taylor Rental Ctr",
     "wof:parent_id":85828353,
     "wof:placetype":"venue",

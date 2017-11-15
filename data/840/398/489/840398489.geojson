@@ -2,9 +2,14 @@
   "id": 840398489,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Spencer Ave New Orleans LA 70124",
+    "addr:housenumber":"150",
+    "addr:postcode":"70124",
+    "addr:street":"Spencer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117156,30.016692,-90.117156,30.016692",
     "geom:latitude":30.016692,
     "geom:longitude":-90.117156,
@@ -24,7 +29,15 @@
     "sg:postcode":"70124",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SVX1HUZJIo0kXFBdZvie1_30.016692_-90.117156@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463531147,
     "wof:geomhash":"a6be01f4e99b980bc3c02bfabd738e2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840398489
+        }
+    ],
     "wof:id":840398489,
-    "wof:lastmodified":1466544483,
+    "wof:lastmodified":1486689076,
     "wof:name":"Cosmos Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

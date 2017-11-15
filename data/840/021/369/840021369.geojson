@@ -2,14 +2,20 @@
   "id": 840021369,
   "type": "Feature",
   "properties": {
+    "addr:full":"7801 Maple St New Orleans LA 70118",
+    "addr:housenumber":"7801",
+    "addr:postcode":"70118",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.131018,29.943161,-90.131018,29.943161",
     "geom:latitude":29.943161,
     "geom:longitude":-90.131018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7801 Maple St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,19 +34,39 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
+    "wof:brand_id":1125150061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3upCkDP0ZDOoztHg871abY_29.943161_-90.131018@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519438,
-    "wof:geomhash":"f01b2cfb3697cd1c4a48a5d0857d6817",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0aa88353c58e125f6f03423e14bcd61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840021369
+        }
+    ],
     "wof:id":840021369,
-    "wof:lastmodified":1466539767,
+    "wof:lastmodified":1510695809,
     "wof:name":"Stewart Title Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

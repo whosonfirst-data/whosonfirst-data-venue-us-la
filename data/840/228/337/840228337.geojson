@@ -2,9 +2,14 @@
   "id": 840228337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1541 N Johnson St New Orleans LA 70116",
+    "addr:housenumber":"1541",
+    "addr:postcode":"70116",
+    "addr:street":"N Johnson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.069421,29.97499,-90.069421,29.97499",
     "geom:latitude":29.97499,
     "geom:longitude":-90.069421,
@@ -27,7 +32,16 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7koLrdcTvzKMzz24dOFtbF_29.974990_-90.069421@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463524065,
     "wof:geomhash":"7d3f7931862509590cdf9185e61dbf92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840228337
+        }
+    ],
     "wof:id":840228337,
-    "wof:lastmodified":1466541848,
+    "wof:lastmodified":1486689206,
     "wof:name":"We Care PCA Respite & Sil",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

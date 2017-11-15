@@ -2,9 +2,14 @@
   "id": 840419063,
   "type": "Feature",
   "properties": {
+    "addr:full":"4201 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"4201",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.100175,29.920903,-90.100175,29.920903",
     "geom:latitude":29.920903,
     "geom:longitude":-90.100175,
@@ -27,7 +32,16 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        85866115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CVeQeIQKT0LlmlrlCByeL_29.920903_-90.100175@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463531985,
     "wof:geomhash":"ba947d25fe81eb064cf4a6f03406cd36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840419063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866115,
+            "region_id":85688735,
+            "venue_id":840419063
+        }
+    ],
     "wof:id":840419063,
-    "wof:lastmodified":1466544809,
+    "wof:lastmodified":1491860920,
     "wof:name":"Monica's",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

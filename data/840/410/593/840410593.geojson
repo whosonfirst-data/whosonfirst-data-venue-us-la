@@ -2,9 +2,14 @@
   "id": 840410593,
   "type": "Feature",
   "properties": {
+    "addr:full":"8730 Oak St New Orleans LA 70118",
+    "addr:housenumber":"8730",
+    "addr:postcode":"70118",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.135432,29.951799,-90.135432,29.951799",
     "geom:latitude":29.951799,
     "geom:longitude":-90.135432,
@@ -27,7 +32,16 @@
         "upholsterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_148VZDcaCjvAEB1vEP2HXD_29.951799_-90.135432@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463531643,
     "wof:geomhash":"63a13e513796363164739ed095e8d5e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840410593
+        }
+    ],
     "wof:id":840410593,
-    "wof:lastmodified":1466544658,
+    "wof:lastmodified":1486689237,
     "wof:name":"Aguilar's Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

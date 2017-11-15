@@ -2,9 +2,14 @@
   "id": 840270547,
   "type": "Feature",
   "properties": {
+    "addr:full":"2034 Caffin Ave New Orleans LA 70117",
+    "addr:housenumber":"2034",
+    "addr:postcode":"70117",
+    "addr:street":"Caffin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.012723,29.97109,-90.012723,29.97109",
     "geom:latitude":29.97109,
     "geom:longitude":-90.012723,
@@ -24,7 +29,15 @@
     "sg:postcode":"70117",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746835,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qtTtva5PDSeQKkkKGBOei_29.971090_-90.012723@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463525204,
     "wof:geomhash":"db0e691865c428786d30a0de2779e6f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
+            "region_id":85688735,
+            "venue_id":840270547
+        }
+    ],
     "wof:id":840270547,
-    "wof:lastmodified":1466542155,
+    "wof:lastmodified":1486689077,
     "wof:name":"H & W Drug Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

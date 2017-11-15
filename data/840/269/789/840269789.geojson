@@ -2,14 +2,20 @@
   "id": 840269789,
   "type": "Feature",
   "properties": {
+    "addr:full":"1786 Aline Ave Shreveport LA 71107",
+    "addr:housenumber":"1786",
+    "addr:postcode":"71107",
+    "addr:street":"Aline Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.798498,32.535941,-93.798498,32.535941",
     "geom:latitude":32.535941,
     "geom:longitude":-93.798498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1786 Aline Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880989
     ],
+    "wof:brand_id":1125154457,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k607lUhXxj8Dk0fyeZXp5_32.535941_-93.798498@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525169,
-    "wof:geomhash":"981e19b1b3fea7339c90a9831436b29e",
+    "wof:geomhash":"934702bd8c2fa6f18859a51724f2e117",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840269789,
-    "wof:lastmodified":1466542159,
+    "wof:lastmodified":1510695919,
     "wof:name":"New Jerusalem Baptist Church",
     "wof:parent_id":85880989,
     "wof:placetype":"venue",

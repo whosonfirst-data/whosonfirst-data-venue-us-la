@@ -2,14 +2,20 @@
   "id": 840391779,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Alamo St Lake Charles LA 70601",
+    "addr:housenumber":"330",
+    "addr:postcode":"70601",
+    "addr:street":"Alamo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217539,30.203281,-93.217539,30.203281",
     "geom:latitude":30.203281,
     "geom:longitude":-93.217539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 Alamo St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zu0AA70cT7xJi4BgGEIqY_30.203281_-93.217539@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530872,
-    "wof:geomhash":"386a6747ab5066a59bf9aa5496805197",
+    "wof:geomhash":"353402d2e55e8f01476512658bdb033d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840391779,
-    "wof:lastmodified":1466544287,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

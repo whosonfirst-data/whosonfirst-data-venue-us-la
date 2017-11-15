@@ -2,14 +2,20 @@
   "id": 840054157,
   "type": "Feature",
   "properties": {
+    "addr:full":"4419 Lake St Lake Charles LA 70605",
+    "addr:housenumber":"4419",
+    "addr:postcode":"70605",
+    "addr:street":"Lake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.232296,30.179765,-93.232296,30.179765",
     "geom:latitude":30.179765,
     "geom:longitude":-93.232296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4419 Lake St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63rzqExAow7a4wFlapOh6d_30.179765_-93.232296@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520129,
-    "wof:geomhash":"744ce7ce18aafc24cddfa11ee10b04d3",
+    "wof:geomhash":"0ae49005fd7bf5a334ae674ae8800e74",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840054157,
-    "wof:lastmodified":1466540155,
+    "wof:lastmodified":1510696716,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

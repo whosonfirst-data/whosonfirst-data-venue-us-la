@@ -2,9 +2,14 @@
   "id": 840046297,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Mistrot St Meraux LA 70075",
+    "addr:housenumber":"4101",
+    "addr:postcode":"70075",
+    "addr:street":"Mistrot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.922639,29.937331,-89.922639,29.937331",
     "geom:latitude":29.937331,
     "geom:longitude":-89.922639,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -41,6 +47,7 @@
     "wof:geomhash":"330a2d8b6bc61181abbe34722a21c4f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840046297,
-    "wof:lastmodified":1466540075,
+    "wof:lastmodified":1491910636,
     "wof:name":"J J Davies Jr Elementary Schl",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

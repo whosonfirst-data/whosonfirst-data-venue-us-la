@@ -2,14 +2,20 @@
   "id": 840345945,
   "type": "Feature",
   "properties": {
+    "addr:full":"4580 Constitution Ave Baton Rouge LA 70808",
+    "addr:housenumber":"4580",
+    "addr:postcode":"70808",
+    "addr:street":"Constitution Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.137342,30.422351,-91.137342,30.422351",
     "geom:latitude":30.422351,
     "geom:longitude":-91.137342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4580 Constitution Ave",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087229,
         85811753
     ],
+    "wof:brand_id":1125158005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EY055emXSDWfYDINhTuI5_30.422351_-91.137342@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528699,
-    "wof:geomhash":"ebe1d6d8c54f16d52428c8a05949198e",
+    "wof:geomhash":"6c3fa689afedac011e7db69c47e2b455",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840345945,
-    "wof:lastmodified":1466543367,
+    "wof:lastmodified":1510695206,
     "wof:name":"Wherehouse Music",
     "wof:parent_id":85811753,
     "wof:placetype":"venue",

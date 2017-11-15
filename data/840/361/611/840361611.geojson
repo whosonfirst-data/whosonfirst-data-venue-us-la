@@ -2,9 +2,14 @@
   "id": 840361611,
   "type": "Feature",
   "properties": {
+    "addr:full":"3653 Timber Wolf Ln New Orleans LA 70131",
+    "addr:housenumber":"3653",
+    "addr:postcode":"70131",
+    "addr:street":"Timber Wolf Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.996912,29.897979,-89.996912,29.897979",
     "geom:latitude":29.897979,
     "geom:longitude":-89.996912,
@@ -24,7 +29,15 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fsb6f6bDPibWIpyabvtOA_29.897979_-89.996912@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463529459,
     "wof:geomhash":"360d7ff66e767a76c8565bc81f792c7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840361611
+        }
+    ],
     "wof:id":840361611,
-    "wof:lastmodified":1466543663,
+    "wof:lastmodified":1486689099,
     "wof:name":"Music Ministry of",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

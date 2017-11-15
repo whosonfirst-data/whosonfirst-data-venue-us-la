@@ -2,14 +2,20 @@
   "id": 840336949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 Franklin Ave Gretna LA 70053",
+    "addr:housenumber":"1406",
+    "addr:postcode":"70053",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049336,29.924204,-90.049336,29.924204",
     "geom:latitude":29.924204,
     "geom:longitude":-90.049336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1406 Franklin Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85885345
     ],
+    "wof:brand_id":1125156757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lyCZqthH6pQUH1uNeXAwr_29.924204_-90.049336@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528257,
-    "wof:geomhash":"475dd04bdca5bfa2e3d0a073b2768c5d",
+    "wof:geomhash":"67234bec968d41a4688c5d4ea4d70f28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840336949,
-    "wof:lastmodified":1466543279,
+    "wof:lastmodified":1510694896,
     "wof:name":"Glamour Shots",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",

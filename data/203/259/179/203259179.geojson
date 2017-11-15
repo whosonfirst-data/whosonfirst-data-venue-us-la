@@ -2,9 +2,14 @@
   "id": 203259179,
   "type": "Feature",
   "properties": {
+    "addr:full":"542 Saint Peter St New Orleans LA 70116",
+    "addr:housenumber":"542",
+    "addr:postcode":"70116",
+    "addr:street":"Saint Peter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.063599,29.957399,-90.063599,29.957399",
     "geom:latitude":29.957399,
     "geom:longitude":-90.063599,
@@ -30,11 +35,13 @@
     "sg:website":"www.kiteshopneworleans.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"59f05e9db5a71f1f8b89f6bb99db19a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203259179
         }
     ],
     "wof:id":203259179,
-    "wof:lastmodified":1466539324,
+    "wof:lastmodified":1486687135,
     "wof:name":"Kite Shop-Jackson Square",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

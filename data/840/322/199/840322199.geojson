@@ -2,14 +2,20 @@
   "id": 840322199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Roosevelt Blvd Kenner LA 70062",
+    "addr:housenumber":"1000",
+    "addr:postcode":"70062",
+    "addr:street":"Roosevelt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.236691,29.980064,-90.236691,29.980064",
     "geom:latitude":29.980064,
     "geom:longitude":-90.236691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Roosevelt Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125158059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sGQ6Wmc7MuVcPxYwGBSy1_29.980064_-90.236691@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527563,
-    "wof:geomhash":"ec8dcf0bcbab94bad289023d8c2c06f2",
+    "wof:geomhash":"4f704e055cdc31ee372fb061f93fc8e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840322199,
-    "wof:lastmodified":1466542896,
+    "wof:lastmodified":1510694794,
     "wof:name":"Christian Life Ctr",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

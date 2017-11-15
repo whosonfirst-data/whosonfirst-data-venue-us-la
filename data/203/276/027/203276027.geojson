@@ -2,9 +2,14 @@
   "id": 203276027,
   "type": "Feature",
   "properties": {
+    "addr:full":"7701 Grant St New Orleans LA 70126",
+    "addr:housenumber":"7701",
+    "addr:postcode":"70126",
+    "addr:street":"Grant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.994301,30.0175,-89.994301,30.0175",
     "geom:latitude":30.0175,
     "geom:longitude":-89.994301,
@@ -31,10 +36,13 @@
     "sg:website":"nops.k12.la.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866169,
+        102191575,
+        1108739495,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +52,20 @@
     "wof:geomhash":"2eb636c1c0cd3bcb4218d2d96719417b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866169,
             "region_id":85688735,
             "venue_id":203276027
         }
     ],
     "wof:id":203276027,
-    "wof:lastmodified":1466541042,
+    "wof:lastmodified":1486688735,
     "wof:name":"Orleans Parish School Board",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

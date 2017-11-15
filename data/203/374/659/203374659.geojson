@@ -2,14 +2,20 @@
   "id": 203374659,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 Reynolds St Springhill LA 71075",
+    "addr:housenumber":"808",
+    "addr:postcode":"71075",
+    "addr:street":"Reynolds St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.450145,33.000031,-93.450145,33.000031",
     "geom:latitude":33.000031,
     "geom:longitude":-93.450145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"808 Reynolds St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -46,12 +52,13 @@
         85947897,
         102085925
     ],
+    "wof:brand_id":1125150261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x9M3NLZbG7HReBMP8VSuL_33.000031_-93.450145@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"5e4f95c60f52f8150742a142680a05d5",
+    "wof:geomhash":"0580c5dcd36b625090fb5a8a2f4c9b99",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":203374659,
-    "wof:lastmodified":1466539499,
+    "wof:lastmodified":1510613303,
     "wof:name":"First Assembly Of God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

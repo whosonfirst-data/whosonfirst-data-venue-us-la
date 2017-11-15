@@ -2,14 +2,20 @@
   "id": 840315199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1819 Court St Port Allen LA 70767",
+    "addr:housenumber":"1819",
+    "addr:postcode":"70767",
+    "addr:street":"Court St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.225484,30.451471,-91.225484,30.451471",
     "geom:latitude":30.451471,
     "geom:longitude":-91.225484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1819 Court St",
     "sg:city":"Port Allen",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85876063,
         102086695
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_457QtYC5LWIizkvZHpbqtl_30.451471_-91.225484@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527225,
-    "wof:geomhash":"a59f7f8422663916995c1c30aebfffe6",
+    "wof:geomhash":"da01766cf6344daadccc3312671c68a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840315199,
-    "wof:lastmodified":1466542846,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85876063,
     "wof:placetype":"venue",

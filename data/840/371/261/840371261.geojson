@@ -2,14 +2,20 @@
   "id": 840371261,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 Pierremont Rd Shreveport LA 71106",
+    "addr:housenumber":"920",
+    "addr:postcode":"71106",
+    "addr:street":"Pierremont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.749118,32.454778,-93.749118,32.454778",
     "geom:latitude":32.454778,
     "geom:longitude":-93.749118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"920 Pierremont Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85880995
     ],
+    "wof:brand_id":420575821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S96YX4SHmHqpiEdSaQuoI_32.454778_-93.749118@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529953,
-    "wof:geomhash":"c25b9ede0760579519245e05d41789d6",
+    "wof:geomhash":"fa6576bc2b7f87be816608f12c46829d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840371261,
-    "wof:lastmodified":1466543807,
+    "wof:lastmodified":1510602776,
     "wof:name":"Centex Homes",
     "wof:parent_id":85880995,
     "wof:placetype":"venue",

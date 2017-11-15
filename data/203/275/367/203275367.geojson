@@ -2,9 +2,14 @@
   "id": 203275367,
   "type": "Feature",
   "properties": {
+    "addr:full":"4078 Old Gentilly Rd New Orleans LA 70126",
+    "addr:housenumber":"4078",
+    "addr:postcode":"70126",
+    "addr:street":"Old Gentilly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.041397,30.002501,-90.041397,30.002501",
     "geom:latitude":30.002501,
     "geom:longitude":-90.041397,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"b8cade3763819707a2df4feaf161f96a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85821299,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203275367
         }
     ],
     "wof:id":203275367,
-    "wof:lastmodified":1466539349,
+    "wof:lastmodified":1486688350,
     "wof:name":"Parker Diana Jones MD",
-    "wof:parent_id":85821299,
+    "wof:parent_id":85866087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

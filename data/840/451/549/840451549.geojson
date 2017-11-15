@@ -2,14 +2,20 @@
   "id": 840451549,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 Chartres St New Orleans LA 70130",
+    "addr:housenumber":"430",
+    "addr:postcode":"70130",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065595,29.955189,-90.065595,29.955189",
     "geom:latitude":29.955189,
     "geom:longitude":-90.065595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"430 Chartres St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -26,33 +32,36 @@
     "sg:website":"www.whitneybank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WFC7tMVAf7iyjSyt1esKA_29.955537_-90.065377@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533366,
-    "wof:geomhash":"bbe48c0d79c039ef3a0b69182dbdf107",
+    "wof:geomhash":"0a03fc32326765a711c6f841c125b1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840451549
         }
     ],
     "wof:id":840451549,
-    "wof:lastmodified":1466545337,
+    "wof:lastmodified":1510695930,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

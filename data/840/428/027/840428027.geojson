@@ -2,14 +2,20 @@
   "id": 840428027,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 West St Vinton LA 70668",
+    "addr:housenumber":"1805",
+    "addr:postcode":"70668",
+    "addr:street":"West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.587168,30.181038,-93.587168,30.181038",
     "geom:latitude":30.181038,
     "geom:longitude":-93.587168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1805 West St",
     "sg:city":"Vinton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125155605,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z1EBA8ABSj3bAW7fLsVPo_30.181038_-93.587168@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532358,
-    "wof:geomhash":"83748005e2d815d4d7cec0f6bfa2270d",
+    "wof:geomhash":"146681b96b59e82fa35f7f6ada2b466c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840428027,
-    "wof:lastmodified":1466545200,
+    "wof:lastmodified":1510613383,
     "wof:name":"Faith Assembly Of God",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

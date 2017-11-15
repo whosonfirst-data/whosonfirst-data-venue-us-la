@@ -2,14 +2,20 @@
   "id": 840069131,
   "type": "Feature",
   "properties": {
+    "addr:full":"159 W State St Baton Rouge LA 70802",
+    "addr:housenumber":"159",
+    "addr:postcode":"70802",
+    "addr:street":"W State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.178246,30.418122,-91.178246,30.418122",
     "geom:latitude":30.418122,
     "geom:longitude":-91.178246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"159 W State St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85876077
     ],
+    "wof:brand_id":420575035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68c3dklicIZGWiI33ZD0Ht_30.418122_-91.178246@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520463,
-    "wof:geomhash":"10f06034df508c256c0f64a3dc0e287f",
+    "wof:geomhash":"dfeb781536cd312b3e749f0d3b9870b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840069131,
-    "wof:lastmodified":1466540316,
+    "wof:lastmodified":1510602546,
     "wof:name":"Fed Ex Kinko's Ofc & Print Ctr",
     "wof:parent_id":85876077,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840348503,
   "type": "Feature",
   "properties": {
+    "addr:full":"3901 Houma Blvd Metairie LA 70006",
+    "addr:housenumber":"3901",
+    "addr:postcode":"70006",
+    "addr:street":"Houma Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.180723,30.011035,-90.180723,30.011035",
     "geom:latitude":30.011035,
     "geom:longitude":-90.180723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3901 Houma Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jmxzOyBQowOmSa4OceWBk_30.011035_-90.180723@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528829,
-    "wof:geomhash":"4138cef3df71cf9b9d1c516803248ac3",
+    "wof:geomhash":"ebbc1eef03be9eff57597acabb21f85a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840348503,
-    "wof:lastmodified":1466543522,
+    "wof:lastmodified":1510693869,
     "wof:name":"Healthsouth Sports Medicine",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

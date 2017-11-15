@@ -2,9 +2,14 @@
   "id": 840302733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1639 Gentilly Blvd New Orleans LA 70119",
+    "addr:housenumber":"1639",
+    "addr:postcode":"70119",
+    "addr:street":"Gentilly Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077473,29.980884,-90.077473,29.980884",
     "geom:latitude":29.980884,
     "geom:longitude":-90.077473,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866065
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
             "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":840302733
         }
     ],
     "wof:id":840302733,
-    "wof:lastmodified":1466542699,
+    "wof:lastmodified":1486689207,
     "wof:name":"WBOK",
-    "wof:parent_id":85866065,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

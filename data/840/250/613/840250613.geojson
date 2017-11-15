@@ -2,9 +2,14 @@
   "id": 840250613,
   "type": "Feature",
   "properties": {
+    "addr:full":"629 S Claiborne Ave New Orleans LA 70125",
+    "addr:housenumber":"629",
+    "addr:postcode":"70125",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.083272,29.953278,-90.083272,29.953278",
     "geom:latitude":29.953278,
     "geom:longitude":-90.083272,
@@ -29,12 +34,14 @@
     "sg:website":"www.nomenu.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866073,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866073
+        85688735,
+        85866071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866073,
+            "region_id":85688735,
+            "venue_id":840250613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866071,
             "region_id":85688735,
             "venue_id":840250613
         }
     ],
     "wof:id":840250613,
-    "wof:lastmodified":1466542010,
+    "wof:lastmodified":1486688291,
     "wof:name":"Menu Magazine",
-    "wof:parent_id":85866073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

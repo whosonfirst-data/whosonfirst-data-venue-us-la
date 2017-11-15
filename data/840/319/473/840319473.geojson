@@ -2,14 +2,20 @@
   "id": 840319473,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"2500",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.096532,32.523867,-92.096532,32.523867",
     "geom:latitude":32.523867,
     "geom:longitude":-92.096532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lEJ02KLJaEyQYUZtbspxo_32.523867_-92.096532@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527440,
-    "wof:geomhash":"1ed1b332d2b99670a4c63247997f3e85",
+    "wof:geomhash":"d618ed8b2b6f8f911fd653790efc26d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840319473,
-    "wof:lastmodified":1466542954,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

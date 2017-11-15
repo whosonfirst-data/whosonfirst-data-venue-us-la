@@ -2,14 +2,20 @@
   "id": 840447491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1239 Jackson St Alexandria LA 71301",
+    "addr:housenumber":"1239",
+    "addr:postcode":"71301",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.451877,31.306991,-92.451877,31.306991",
     "geom:latitude":31.306991,
     "geom:longitude":-92.451877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1239 Jackson St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nt78InrWaGKGKXUnKPkUX_31.306991_-92.451877@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533182,
-    "wof:geomhash":"28d1f02f3b98736fe54fa19f6ce1a492",
+    "wof:geomhash":"6fb7553be931b21f79aea9d0e4482ca4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840447491,
-    "wof:lastmodified":1466545443,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

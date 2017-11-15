@@ -2,9 +2,14 @@
   "id": 203302515,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 Decatur St New Orleans LA 70195",
+    "addr:housenumber":"409",
+    "addr:postcode":"70195",
+    "addr:street":"Decatur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064874,29.954435,-90.064874,29.954435",
     "geom:latitude":29.954435,
     "geom:longitude":-90.064874,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +55,18 @@
     "wof:geomhash":"a259fc48e0106b3241f80f5dc8ff1ce4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203302515
         }
     ],
     "wof:id":203302515,
-    "wof:lastmodified":1466539403,
+    "wof:lastmodified":1486688432,
     "wof:name":"Big Easy Daiquiri",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

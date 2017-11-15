@@ -2,14 +2,20 @@
   "id": 840393589,
   "type": "Feature",
   "properties": {
+    "addr:full":"2004 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"2004",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.103929,32.519308,-92.103929,32.519308",
     "geom:latitude":32.519308,
     "geom:longitude":-92.103929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2004 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dn0Ls1pTLGJTU3Gi3Y2LY_32.519308_-92.103929@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530951,
-    "wof:geomhash":"6b6c70a0ab7c90d8297bbbd23a6f7095",
+    "wof:geomhash":"b9f1b51a13b74fe1e2147038a8686979",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840393589,
-    "wof:lastmodified":1466544220,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

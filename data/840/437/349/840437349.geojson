@@ -2,9 +2,14 @@
   "id": 840437349,
   "type": "Feature",
   "properties": {
+    "addr:full":"3835 N Teak Ave New Orleans LA 70131",
+    "addr:housenumber":"3835",
+    "addr:postcode":"70131",
+    "addr:street":"N Teak Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.000449,29.908828,-90.000449,29.908828",
     "geom:latitude":29.908828,
     "geom:longitude":-90.000449,
@@ -24,7 +29,15 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TcIFRp9SoLtvavbnxA60I_29.908828_-90.000449@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463532781,
     "wof:geomhash":"5cd390dc9a5b573203f8de50d03bd8df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840437349
+        }
+    ],
     "wof:id":840437349,
-    "wof:lastmodified":1466545060,
+    "wof:lastmodified":1486689095,
     "wof:name":"Great American Insurance Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

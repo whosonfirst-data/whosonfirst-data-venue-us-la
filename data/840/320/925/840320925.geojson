@@ -2,6 +2,10 @@
   "id": 840320925,
   "type": "Feature",
   "properties": {
+    "addr:full":"343 N Goos Blvd Lake Charles LA 70601",
+    "addr:housenumber":"343",
+    "addr:postcode":"70601",
+    "addr:street":"N Goos Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":840320925,
-    "wof:lastmodified":1466543045,
+    "wof:lastmodified":1472624659,
     "wof:name":"Lake Charles Police Svc Ctr",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

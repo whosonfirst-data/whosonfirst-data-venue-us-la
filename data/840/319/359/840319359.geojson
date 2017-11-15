@@ -2,9 +2,14 @@
   "id": 840319359,
   "type": "Feature",
   "properties": {
+    "addr:full":"6465 Oakland Dr New Orleans LA 70118",
+    "addr:housenumber":"6465",
+    "addr:postcode":"70118",
+    "addr:street":"Oakland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.115078,29.980673,-90.115078,29.980673",
     "geom:latitude":29.980673,
     "geom:longitude":-90.115078,
@@ -30,12 +35,13 @@
     "sg:website":"www.atlastourandtravel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746825,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866145
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866145,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746825,
             "region_id":85688735,
             "venue_id":840319359
         }
     ],
     "wof:id":840319359,
-    "wof:lastmodified":1466542930,
+    "wof:lastmodified":1486689066,
     "wof:name":"Atlas Tour and Travel",
-    "wof:parent_id":85866145,
+    "wof:parent_id":1108746825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

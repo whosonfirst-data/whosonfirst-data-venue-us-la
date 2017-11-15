@@ -2,9 +2,14 @@
   "id": 840433809,
   "type": "Feature",
   "properties": {
+    "addr:full":"10150 I- 10 Svc Rd New Orleans LA 70127",
+    "addr:housenumber":"10150;10",
+    "addr:postcode":"70127",
+    "addr:street":"I;Svc Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.975198,30.035968,-89.975198,30.035968",
     "geom:latitude":30.035968,
     "geom:longitude":-89.975198,
@@ -30,12 +35,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866173,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866173
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85866173,
             "region_id":85688735,
             "venue_id":840433809
         }
     ],
     "wof:id":840433809,
-    "wof:lastmodified":1466545154,
+    "wof:lastmodified":1486687748,
     "wof:name":"Pizza Palace Family Fun Center",
     "wof:parent_id":85866173,
     "wof:placetype":"venue",

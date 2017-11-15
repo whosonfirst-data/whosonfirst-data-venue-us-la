@@ -2,9 +2,14 @@
   "id": 840350233,
   "type": "Feature",
   "properties": {
+    "addr:full":"6120 General Diaz St New Orleans LA 70124",
+    "addr:housenumber":"",
+    "addr:postcode":"6120;70124",
+    "addr:street":"General Diaz St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105115,30.002184,-90.105115,30.002184",
     "geom:latitude":30.002184,
     "geom:longitude":-90.105115,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840350233
         }
     ],
     "wof:id":840350233,
-    "wof:lastmodified":1466543441,
+    "wof:lastmodified":1486686917,
     "wof:name":"Al Dubus Ministries Inc",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

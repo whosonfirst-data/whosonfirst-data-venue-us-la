@@ -2,9 +2,14 @@
   "id": 840166343,
   "type": "Feature",
   "properties": {
+    "addr:full":"4816 E Judge Perez Dr Violet LA 70092",
+    "addr:housenumber":"4816",
+    "addr:postcode":"70092",
+    "addr:street":"E Judge Perez Dr Violet La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.905606,29.921304,-89.905606,29.921304",
     "geom:latitude":29.921304,
     "geom:longitude":-89.905606,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a47ad120b56614bd8cb46500ee12fc7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840166343,
-    "wof:lastmodified":1466541203,
+    "wof:lastmodified":1491910629,
     "wof:name":"Garvin Cox Photography",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

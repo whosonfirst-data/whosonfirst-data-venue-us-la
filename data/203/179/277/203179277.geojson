@@ -2,14 +2,20 @@
   "id": 203179277,
   "type": "Feature",
   "properties": {
+    "addr:full":"3131 Paris Rd Chalmette LA 70043",
+    "addr:housenumber":"3131",
+    "addr:postcode":"70043",
+    "addr:street":"Paris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.961122,29.947638,-89.961122,29.947638",
     "geom:latitude":29.947638,
     "geom:longitude":-89.961122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3131 Paris Rd",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102082447,
         85853675
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VNGQosDA5wBhJcWLUNQt2_29.947638_-89.961122@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"0f6510525d85393595a4572dec39fcf9",
+    "wof:geomhash":"adb3bd2e9d9dff36cb190047c8e9c023",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":203179277,
-    "wof:lastmodified":1466540874,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

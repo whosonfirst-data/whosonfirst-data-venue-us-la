@@ -2,9 +2,14 @@
   "id": 203272129,
   "type": "Feature",
   "properties": {
+    "addr:full":"2657 Dreux Ave New Orleans LA 70122",
+    "addr:housenumber":"2657",
+    "addr:postcode":"70122",
+    "addr:street":"Dreux Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049202,30.012501,-90.049202,30.012501",
     "geom:latitude":30.012501,
     "geom:longitude":-90.049202,
@@ -34,11 +39,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746555,
+        85834475,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85834475
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +57,32 @@
     "wof:geomhash":"e12a23cd91f80929c4a1313712c298e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "microhood_id":1108746555,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":203272129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746555,
             "neighbourhood_id":85834475,
             "region_id":85688735,
             "venue_id":203272129
         }
     ],
     "wof:id":203272129,
-    "wof:lastmodified":1466539344,
+    "wof:lastmodified":1486689148,
     "wof:name":"Malone Electrical Services",
-    "wof:parent_id":85834475,
+    "wof:parent_id":1108746555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

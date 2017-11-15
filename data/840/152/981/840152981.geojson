@@ -2,9 +2,14 @@
   "id": 840152981,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 E Judge Perez Dr Meraux LA 70075",
+    "addr:housenumber":"4200",
+    "addr:postcode":"70075",
+    "addr:street":"E Judge Perez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.921992,29.935126,-89.921992,29.935126",
     "geom:latitude":29.935126,
     "geom:longitude":-89.921992,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"eb42d369d9fd919c3983f43f0e23bd94",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840152981,
-    "wof:lastmodified":1466540819,
+    "wof:lastmodified":1491910639,
     "wof:name":"Olan Mills Studios",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

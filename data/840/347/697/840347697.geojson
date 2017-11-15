@@ -2,9 +2,14 @@
   "id": 840347697,
   "type": "Feature",
   "properties": {
+    "addr:full":"8200 Hampson St New Orleans LA 70118",
+    "addr:housenumber":"8200",
+    "addr:postcode":"70118",
+    "addr:street":"Hampson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.134993,29.945027,-90.134993,29.945027",
     "geom:latitude":29.945027,
     "geom:longitude":-90.134993,
@@ -28,7 +33,16 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1emiPQ6EiqiVoS3jOcVQeb_29.945027_-90.134993@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463528782,
     "wof:geomhash":"b463c1ec039d87865035f6925bd69e74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840347697
+        }
+    ],
     "wof:id":840347697,
-    "wof:lastmodified":1466543429,
+    "wof:lastmodified":1486689238,
     "wof:name":"Holton Brokerage Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

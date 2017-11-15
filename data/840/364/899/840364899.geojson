@@ -2,14 +2,20 @@
   "id": 840364899,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"309",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.121909,32.507872,-92.121909,32.507872",
     "geom:latitude":32.507872,
     "geom:longitude":-92.121909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"309 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125156265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iR1V9szhjNBh5Ph0sj30E_32.507872_-92.121909@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529636,
-    "wof:geomhash":"d147eb3dc28178c3968c354fbb2f1109",
+    "wof:geomhash":"9c5c9c8eeecd9e201d48269404c78bc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840364899,
-    "wof:lastmodified":1466543795,
+    "wof:lastmodified":1510699968,
     "wof:name":"Kim's Nails",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

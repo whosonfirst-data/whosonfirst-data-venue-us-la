@@ -2,14 +2,20 @@
   "id": 840310685,
   "type": "Feature",
   "properties": {
+    "addr:full":"4490 Pardue Rd Ball LA 71405",
+    "addr:housenumber":"",
+    "addr:postcode":"4490;71405",
+    "addr:street":"Pardue Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.416122,31.380557,-92.416122,31.380557",
     "geom:latitude":31.380557,
     "geom:longitude":-92.416122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4490 Pardue Rd",
     "sg:city":"Ball",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125159767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44rFAvnEs3bf0vkcWBjXit_31.380557_-92.416122@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527032,
-    "wof:geomhash":"707141e8311b13b5d82c64f03cbccaf3",
+    "wof:geomhash":"9dc60cbafdad527dd0044719f59a1314",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840310685,
-    "wof:lastmodified":1466542730,
+    "wof:lastmodified":1510697202,
     "wof:name":"AAA Cooper Transportation",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

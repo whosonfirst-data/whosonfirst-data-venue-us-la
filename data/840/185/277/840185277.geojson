@@ -2,14 +2,20 @@
   "id": 840185277,
   "type": "Feature",
   "properties": {
+    "addr:full":"1968 Airline Dr Bossier City LA 71112",
+    "addr:housenumber":"1968",
+    "addr:postcode":"71112",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.698447,32.524787,-93.698447,32.524787",
     "geom:latitude":32.524787,
     "geom:longitude":-93.698447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1968 Airline Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125154077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QrSQJS8B8ZLOvtiWciaIW_32.524787_-93.698447@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523022,
-    "wof:geomhash":"80bbe10d60e3527891024182d21185c6",
+    "wof:geomhash":"0fbafaae3eb61225f04c5924a2274d75",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840185277,
-    "wof:lastmodified":1466541256,
+    "wof:lastmodified":1510697259,
     "wof:name":"Red Carpet Inn",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

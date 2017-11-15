@@ -2,14 +2,20 @@
   "id": 840360605,
   "type": "Feature",
   "properties": {
+    "addr:full":"2315 Trenton St West Monroe LA 71291",
+    "addr:housenumber":"2315",
+    "addr:postcode":"71291",
+    "addr:street":"Trenton St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.137142,32.523981,-92.137142,32.523981",
     "geom:latitude":32.523981,
     "geom:longitude":-92.137142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2315 Trenton St",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125157363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NCxGY3rf57hN33MP2sNpr_32.523981_-92.137142@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529414,
-    "wof:geomhash":"fb591fb7907f767c292adc4a0f7e3117",
+    "wof:geomhash":"43301fb64aaf7767c43b3d42015b37eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840360605,
-    "wof:lastmodified":1466543684,
+    "wof:lastmodified":1510694933,
     "wof:name":"Country Club Apartments",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

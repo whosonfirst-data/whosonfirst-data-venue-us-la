@@ -2,9 +2,14 @@
   "id": 840367423,
   "type": "Feature",
   "properties": {
+    "addr:full":"344 Joseph St New Orleans LA 70115",
+    "addr:housenumber":"344",
+    "addr:postcode":"70115",
+    "addr:street":"Joseph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.118224,29.917033,-90.118224,29.917033",
     "geom:latitude":29.917033,
     "geom:longitude":-90.118224,
@@ -27,7 +32,15 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71LxRs0BEgLum67TjzxGPC_29.917033_-90.118224@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463529753,
     "wof:geomhash":"9d89e912383331d829a9ad3dd94d29b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840367423
+        }
+    ],
     "wof:id":840367423,
-    "wof:lastmodified":1466543700,
+    "wof:lastmodified":1486689110,
     "wof:name":"Historic Restoration",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

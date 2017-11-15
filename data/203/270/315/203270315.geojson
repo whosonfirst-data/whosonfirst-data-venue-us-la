@@ -2,9 +2,14 @@
   "id": 203270315,
   "type": "Feature",
   "properties": {
+    "addr:full":"3821 Franklin Ave New Orleans LA 70122",
+    "addr:housenumber":"3821",
+    "addr:postcode":"70122",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049677,29.997851,-90.049677,29.997851",
     "geom:latitude":29.997851,
     "geom:longitude":-90.049677,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821297,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821297
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +52,28 @@
     "wof:geomhash":"e91d7d2383732dfc00bab597483618bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821297,
+            "region_id":85688735,
+            "venue_id":203270315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821297,
             "region_id":85688735,
             "venue_id":203270315
         }
     ],
     "wof:id":203270315,
-    "wof:lastmodified":1466539350,
+    "wof:lastmodified":1486688067,
     "wof:name":"Orleans Parish School Board",
     "wof:parent_id":85821297,
     "wof:placetype":"venue",

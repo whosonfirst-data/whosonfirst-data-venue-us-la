@@ -2,9 +2,14 @@
   "id": 840316137,
   "type": "Feature",
   "properties": {
+    "addr:full":"4718 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"4718",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021673,30.017429,-90.021673,30.017429",
     "geom:latitude":30.017429,
     "geom:longitude":-90.021673,
@@ -29,7 +34,15 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ESUlNIBqPFlM7BqVF2lI9_30.017429_-90.021673@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463527269,
     "wof:geomhash":"2f388b56b438dd031a3371043fe98797",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840316137
+        }
+    ],
     "wof:id":840316137,
-    "wof:lastmodified":1466542837,
+    "wof:lastmodified":1486687721,
     "wof:name":"Dog Wash",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

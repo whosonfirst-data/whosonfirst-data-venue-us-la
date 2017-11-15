@@ -2,9 +2,14 @@
   "id": 840296181,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 Harbor Cir New Orleans LA 70126",
+    "addr:housenumber":"252",
+    "addr:postcode":"70126",
+    "addr:street":"Harbor Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.029821,30.029272,-90.029821,30.029272",
     "geom:latitude":30.029272,
     "geom:longitude":-90.029821,
@@ -30,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rhS3ZZ1xG4neiFbgwaSZF_30.029272_-90.029821@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463526325,
     "wof:geomhash":"3f0da5d0e072a6336e568018a912607c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840296181
+        }
+    ],
     "wof:id":840296181,
-    "wof:lastmodified":1466542496,
+    "wof:lastmodified":1486687799,
     "wof:name":"Year Round Heating & Air Cond",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

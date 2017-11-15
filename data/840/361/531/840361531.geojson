@@ -2,14 +2,20 @@
   "id": 840361531,
   "type": "Feature",
   "properties": {
+    "addr:full":"145 Cryer Loop Leesville LA 71446",
+    "addr:housenumber":"145",
+    "addr:postcode":"71446",
+    "addr:street":"Cryer Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.394358,30.946903,-93.394358,30.946903",
     "geom:latitude":30.946903,
     "geom:longitude":-93.394358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"145 Cryer Loop",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086691,
         85810535
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HOS6m5PYHoQ1bEvwbjkto_30.946903_-93.394358@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529456,
-    "wof:geomhash":"7346f71ab702377f1d1a48f07ba6d14b",
+    "wof:geomhash":"b03f8604cfd256966423f28a3cedc3b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840361531,
-    "wof:lastmodified":1466543648,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",

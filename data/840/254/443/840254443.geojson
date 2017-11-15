@@ -2,6 +2,10 @@
   "id": 840254443,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Row 1 Lafayette LA 70508",
+    "addr:housenumber":"111;1",
+    "addr:postcode":"70508",
+    "addr:street":"Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840254443,
-    "wof:lastmodified":1466541928,
+    "wof:lastmodified":1472624555,
     "wof:name":"Pelco Production Svc LLC",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

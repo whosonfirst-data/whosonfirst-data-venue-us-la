@@ -2,9 +2,14 @@
   "id": 840279245,
   "type": "Feature",
   "properties": {
+    "addr:full":"2428 S Claiborne Ave New Orleans LA 70125",
+    "addr:housenumber":"2428",
+    "addr:postcode":"70125",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.091726,29.943819,-90.091726,29.943819",
     "geom:latitude":29.943819,
     "geom:longitude":-90.091726,
@@ -28,7 +33,15 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NgnBxpKGz9jIvZiXS7m15_29.943819_-90.091726@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463525586,
     "wof:geomhash":"e261842c95cc7d45b5b2b6b05ef1cec2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840279245
+        }
+    ],
     "wof:id":840279245,
-    "wof:lastmodified":1466542222,
+    "wof:lastmodified":1486688640,
     "wof:name":"Jackson Hewitt Tax Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

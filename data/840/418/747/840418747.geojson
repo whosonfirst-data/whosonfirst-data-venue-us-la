@@ -2,14 +2,20 @@
   "id": 840418747,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Main St Baton Rouge LA 70801",
+    "addr:housenumber":"301",
+    "addr:postcode":"70801",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.187136,30.451459,-91.187136,30.451459",
     "geom:latitude":30.451459,
     "geom:longitude":-91.187136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Main St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85876067
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lpeh1v7H2QeCr2U7cEU6H_30.451459_-91.187136@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531974,
-    "wof:geomhash":"3b08d7a5d155ccd1efb8f58af9bc30e0",
+    "wof:geomhash":"120b74a87ffa234fb910330598327ac0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840418747,
-    "wof:lastmodified":1466544865,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85876067,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840421129,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Williams Blvd Kenner LA 70065",
+    "addr:housenumber":"3401",
+    "addr:postcode":"70065",
+    "addr:street":"Williams Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.239471,30.019577,-90.239471,30.019577",
     "geom:latitude":30.019577,
     "geom:longitude":-90.239471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3401 Williams Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125156463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MtOCp7pJE3WVsdFlYVppa_30.019577_-90.239471@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532082,
-    "wof:geomhash":"4c4a7bd2e3db6e0e2fe6b2fd3770a975",
+    "wof:geomhash":"c4be822682d35db0918fc968b9320e75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840421129,
-    "wof:lastmodified":1466544873,
+    "wof:lastmodified":1510699332,
     "wof:name":"Rally's Hamburgers Inc",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

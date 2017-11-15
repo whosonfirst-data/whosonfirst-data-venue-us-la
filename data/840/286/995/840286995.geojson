@@ -2,14 +2,20 @@
   "id": 840286995,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 Alamo St Lake Charles LA 70601",
+    "addr:housenumber":"421",
+    "addr:postcode":"70601",
+    "addr:street":"Alamo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217244,30.203363,-93.217244,30.203363",
     "geom:latitude":30.203363,
     "geom:longitude":-93.217244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"421 Alamo St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125156215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AkNYfXmj7oBOPqvNPVdnl_30.203363_-93.217244@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525931,
-    "wof:geomhash":"9816d2c0e32b1682cf2887c7a5121710",
+    "wof:geomhash":"f62b970f233555e9226d27f6a769229a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840286995,
-    "wof:lastmodified":1466542434,
+    "wof:lastmodified":1510699588,
     "wof:name":"Classic Nails",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

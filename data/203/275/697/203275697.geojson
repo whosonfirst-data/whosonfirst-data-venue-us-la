@@ -2,9 +2,14 @@
   "id": 203275697,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Desire Pkwy New Orleans LA 70126",
+    "addr:housenumber":"3700",
+    "addr:postcode":"70126",
+    "addr:street":"Desire Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.03239,29.99595,-90.03239,29.99595",
     "geom:latitude":29.99595,
     "geom:longitude":-90.03239,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866087
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"88e146eef3ef2d73ef5d8e31aaa7bfb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203275697
         }
     ],
     "wof:id":203275697,
-    "wof:lastmodified":1466539351,
+    "wof:lastmodified":1486686958,
     "wof:name":"Ace Bayou Corp",
     "wof:parent_id":85866087,
     "wof:placetype":"venue",

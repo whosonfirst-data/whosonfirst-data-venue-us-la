@@ -2,14 +2,20 @@
   "id": 840152355,
   "type": "Feature",
   "properties": {
+    "addr:full":"2203 Industrial Dr Sulphur LA 70665",
+    "addr:housenumber":"2203",
+    "addr:postcode":"70665",
+    "addr:street":"Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.332528,30.207303,-93.332528,30.207303",
     "geom:latitude":30.207303,
     "geom:longitude":-93.332528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2203 Industrial Dr",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125150679,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k1X3dwbIGbIXRVe3yBwbR_30.207303_-93.332528@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522299,
-    "wof:geomhash":"dddd79af66592b78afa36efe2a64214e",
+    "wof:geomhash":"2d4acfa27ce97fc9d127099347bd85e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840152355,
-    "wof:lastmodified":1466540760,
+    "wof:lastmodified":1510696930,
     "wof:name":"Nations Rent",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

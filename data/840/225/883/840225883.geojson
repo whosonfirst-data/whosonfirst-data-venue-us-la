@@ -2,14 +2,20 @@
   "id": 840225883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1418 N 18th St Monroe LA 71201",
+    "addr:housenumber":"1418",
+    "addr:postcode":"71201",
+    "addr:street":"N 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.113088,32.524151,-92.113088,32.524151",
     "geom:latitude":32.524151,
     "geom:longitude":-92.113088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1418 N 18th St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125154781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dPx07gFfYMRiSNxvQOhhW_32.524151_-92.113088@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523973,
-    "wof:geomhash":"fc74a03dc382d5d874c1a0c1cd35d5bb",
+    "wof:geomhash":"7e32ea7d71f0fda83d00f7025b9d89b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840225883,
-    "wof:lastmodified":1466541679,
+    "wof:lastmodified":1510698935,
     "wof:name":"Nail Tech",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

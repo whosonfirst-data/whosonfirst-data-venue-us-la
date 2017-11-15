@@ -2,14 +2,20 @@
   "id": 840248313,
   "type": "Feature",
   "properties": {
+    "addr:full":"8125 State Rte 182 Morgan City LA 70380",
+    "addr:housenumber":"8125",
+    "addr:postcode":"70380",
+    "addr:street":"State Rte 182 Morgan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.169459,29.692979,-91.169459,29.692979",
     "geom:latitude":29.692979,
     "geom:longitude":-91.169459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8125 State Rte 182",
     "sg:city":"Morgan City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vSGCka9xD0zRswRlK9R8X_29.692979_-91.169459@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524563,
-    "wof:geomhash":"a416da6f2def755070be7a2ad786e952",
+    "wof:geomhash":"b5942e2b41620930b5b2dc83f446786e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840248313,
-    "wof:lastmodified":1466541722,
+    "wof:lastmodified":1510602070,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

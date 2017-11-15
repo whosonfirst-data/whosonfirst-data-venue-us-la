@@ -2,14 +2,20 @@
   "id": 840266303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1389 Entrance Rd Leesville LA 71446",
+    "addr:housenumber":"1389",
+    "addr:postcode":"71446",
+    "addr:street":"Entrance Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.235849,31.053575,-93.235849,31.053575",
     "geom:latitude":31.053575,
     "geom:longitude":-93.235849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1389 Entrance Rd",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086691,
         85810535
     ],
+    "wof:brand_id":1125154433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vcRyunirPM0QgNTvi5rwq_31.053575_-93.235849@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524985,
-    "wof:geomhash":"02b6c7924f41a67c0920438d54a2d5c6",
+    "wof:geomhash":"a1eb128a436f8faf8bae8e1f48cb246e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840266303,
-    "wof:lastmodified":1466542004,
+    "wof:lastmodified":1510696747,
     "wof:name":"First Command Financial Plan",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840436051,
   "type": "Feature",
   "properties": {
+    "addr:full":"8418 Stroelitz St New Orleans LA 70118",
+    "addr:housenumber":"8418",
+    "addr:postcode":"70118",
+    "addr:street":"Stroelitz St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.113946,29.96783,-90.113946,29.96783",
     "geom:latitude":29.96783,
     "geom:longitude":-90.113946,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746817,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866145
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866145,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
             "region_id":85688735,
             "venue_id":840436051
         }
     ],
     "wof:id":840436051,
-    "wof:lastmodified":1466544999,
+    "wof:lastmodified":1486689042,
     "wof:name":"Shalom New Orleans Church",
-    "wof:parent_id":85866145,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

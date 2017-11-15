@@ -2,14 +2,20 @@
   "id": 840439835,
   "type": "Feature",
   "properties": {
+    "addr:full":"6116 W Calhoun Dr Alexandria LA 71303",
+    "addr:housenumber":"6116",
+    "addr:postcode":"71303",
+    "addr:street":"W Calhoun Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.522405,31.345927,-92.522405,31.345927",
     "geom:latitude":31.345927,
     "geom:longitude":-92.522405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6116 W Calhoun Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125150945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6njOAhKHJfQpkWpT99hZ9X_31.345927_-92.522405@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532887,
-    "wof:geomhash":"5f88f72fbc71411e6896351194325843",
+    "wof:geomhash":"cf5b971b7b69e1d55bfdd7344d6cd4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840439835,
-    "wof:lastmodified":1466545160,
+    "wof:lastmodified":1510693714,
     "wof:name":"LA Quinta Inn",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840379945,
   "type": "Feature",
   "properties": {
+    "addr:full":"2760 Perdido St New Orleans LA 70119",
+    "addr:housenumber":"2760",
+    "addr:postcode":"70119",
+    "addr:street":"Perdido St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.093885,29.960068,-90.093885,29.960068",
     "geom:latitude":29.960068,
     "geom:longitude":-90.093885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2760 Perdido St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -30,35 +36,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866073
+        85688735
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DVNRMqgUphMOh2vCx4tsb_29.960068_-90.093885@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530346,
-    "wof:geomhash":"38b7f0258b100b3bcf7a50a9f1b30b2b",
+    "wof:geomhash":"119c21f905fb75ab00878c431dafb1b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866073,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840379945
         }
     ],
     "wof:id":840379945,
-    "wof:lastmodified":1466544089,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
-    "wof:parent_id":85866073,
+    "wof:parent_id":85869483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

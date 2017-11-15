@@ -2,9 +2,14 @@
   "id": 840451611,
   "type": "Feature",
   "properties": {
+    "addr:full":"726 Frenchmen St New Orleans LA 70116",
+    "addr:housenumber":"726",
+    "addr:postcode":"70116",
+    "addr:street":"Frenchmen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057701,29.965099,-90.057701,29.965099",
     "geom:latitude":29.965099,
     "geom:longitude":-90.057701,
@@ -31,12 +36,13 @@
     "sg:website":"www.neworleansinn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":840451611
         }
     ],
     "wof:id":840451611,
-    "wof:lastmodified":1466545348,
+    "wof:lastmodified":1486688383,
     "wof:name":"Parkview Marigny Bed & Breakfast",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",

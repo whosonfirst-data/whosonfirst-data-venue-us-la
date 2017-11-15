@@ -2,14 +2,20 @@
   "id": 840291715,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 E Kaliste Saloom Rd Lafayette LA 70508",
+    "addr:housenumber":"301",
+    "addr:postcode":"70508",
+    "addr:street":"E Kaliste Saloom Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.008355,30.194724,-92.008355,30.194724",
     "geom:latitude":30.194724,
     "geom:longitude":-92.008355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 E Kaliste Saloom Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125154903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B1xKjtTCROsUBuPFuLHQD_30.194724_-92.008355@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526139,
-    "wof:geomhash":"13e32fc0f2001b35653bc83153a6a627",
+    "wof:geomhash":"c9bb1f22c7841e047f6134d497563e07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840291715,
-    "wof:lastmodified":1466542488,
+    "wof:lastmodified":1510697535,
     "wof:name":"Massachusetts Mutual-Blue Chip",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

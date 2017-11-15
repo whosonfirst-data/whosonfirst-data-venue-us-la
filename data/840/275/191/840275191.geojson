@@ -2,14 +2,20 @@
   "id": 840275191,
   "type": "Feature",
   "properties": {
+    "addr:full":"3838 N Causeway Blvd Metairie LA 70002",
+    "addr:housenumber":"3838",
+    "addr:postcode":"70002",
+    "addr:street":"N Causeway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.154377,30.018037,-90.154377,30.018037",
     "geom:latitude":30.018037,
     "geom:longitude":-90.154377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3838 N Causeway Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125158413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JFr9rZjDH4l6rH4yEEdEV_30.018037_-90.154377@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525398,
-    "wof:geomhash":"230ae3ef05538b67abfa652f621942f5",
+    "wof:geomhash":"fe90cb66373642bbfefc6967306c552b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840275191,
-    "wof:lastmodified":1466542211,
+    "wof:lastmodified":1510697116,
     "wof:name":"Transworld Systems",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

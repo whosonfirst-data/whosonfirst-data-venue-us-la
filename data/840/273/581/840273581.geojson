@@ -2,14 +2,20 @@
   "id": 840273581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1143 Madison Ave Shreveport LA 71103",
+    "addr:housenumber":"1143",
+    "addr:postcode":"71103",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.776479,32.500302,-93.776479,32.500302",
     "geom:latitude":32.500302,
     "geom:longitude":-93.776479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1143 Madison Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85814935
     ],
+    "wof:brand_id":1125157381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AvW1Y5gzLNwFPW3ACdeBu_32.500302_-93.776479@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525335,
-    "wof:geomhash":"0945aa6dd1379b8a181fab9763dba8a8",
+    "wof:geomhash":"cb4c212e862b48df3cfa7652a310e46d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840273581,
-    "wof:lastmodified":1466542080,
+    "wof:lastmodified":1510699695,
     "wof:name":"Faith Tabernacle Church",
     "wof:parent_id":85814935,
     "wof:placetype":"venue",

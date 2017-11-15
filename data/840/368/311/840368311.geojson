@@ -2,9 +2,14 @@
   "id": 840368311,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 Soraparu St New Orleans LA 70130",
+    "addr:housenumber":"517",
+    "addr:postcode":"70130",
+    "addr:street":"Soraparu St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.075027,29.92425,-90.075027,29.92425",
     "geom:latitude":29.92425,
     "geom:longitude":-90.075027,
@@ -24,7 +29,15 @@
     "sg:postcode":"70130",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866109,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GGfNWvHbK2yHYcEi3qad8_29.924250_-90.075027@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463529800,
     "wof:geomhash":"b1601d06374110ec61e4e28be4afd9ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840368311
+        }
+    ],
     "wof:id":840368311,
-    "wof:lastmodified":1466543676,
+    "wof:lastmodified":1486688589,
     "wof:name":"Praxis Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

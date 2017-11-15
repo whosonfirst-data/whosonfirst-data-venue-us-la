@@ -2,14 +2,20 @@
   "id": 840450623,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Center St New Iberia LA 70560",
+    "addr:housenumber":"300",
+    "addr:postcode":"70560",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.818398,30.0016,-91.818398,30.0016",
     "geom:latitude":30.0016,
     "geom:longitude":-91.818398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Center St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125156623,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_421WINpDfn8Bgo531IYogJ_30.001966_-91.817982@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533333,
-    "wof:geomhash":"1a8ba1f64bf4d398964c0ac65dd6ed6e",
+    "wof:geomhash":"a484380fce90f7fc9206d3d955fee3b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840450623,
-    "wof:lastmodified":1466545445,
+    "wof:lastmodified":1510698497,
     "wof:name":"Pizza Place",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

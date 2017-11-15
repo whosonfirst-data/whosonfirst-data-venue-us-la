@@ -2,9 +2,14 @@
   "id": 203286865,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Royal St New Orleans LA 70130",
+    "addr:housenumber":"630",
+    "addr:postcode":"70130",
+    "addr:street":"Royal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064499,29.957899,-90.064499,29.957899",
     "geom:latitude":29.957899,
     "geom:longitude":-90.064499,
@@ -39,11 +44,13 @@
     "sg:website":"www.rauantiques.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +60,18 @@
     "wof:geomhash":"ea0368aa545be3fe846657825931a86d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203286865
         }
     ],
     "wof:id":203286865,
-    "wof:lastmodified":1466539382,
+    "wof:lastmodified":1486686510,
     "wof:name":"MS Rau Antiques",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

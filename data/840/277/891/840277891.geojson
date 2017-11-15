@@ -2,14 +2,20 @@
   "id": 840277891,
   "type": "Feature",
   "properties": {
+    "addr:full":"6280 Hwy 3 Benton LA 71006",
+    "addr:housenumber":"6280",
+    "addr:postcode":"la 71006",
+    "addr:street":"Hwy 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.746026,32.676901,-93.746026,32.676901",
     "geom:latitude":32.676901,
     "geom:longitude":-93.746026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6280 Hwy 3",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85808045,
         102084883
     ],
+    "wof:brand_id":1125158465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0umbNYrYiJCyUhaqMFFXFQ_32.676901_-93.746026@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525522,
-    "wof:geomhash":"500dd3344747b1e39a58104ff7535a17",
+    "wof:geomhash":"cfc32846b17ca2e777e5b5e68b1c0edf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840277891,
-    "wof:lastmodified":1466542344,
+    "wof:lastmodified":1510613245,
     "wof:name":"Brookshire's",
     "wof:parent_id":85808045,
     "wof:placetype":"venue",

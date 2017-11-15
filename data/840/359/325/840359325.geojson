@@ -2,9 +2,14 @@
   "id": 840359325,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 Magnolia St New Orleans LA 70113",
+    "addr:housenumber":"2620",
+    "addr:postcode":"70113",
+    "addr:street":"Magnolia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.091684,29.940582,-90.091684,29.940582",
     "geom:latitude":29.940582,
     "geom:longitude":-90.091684,
@@ -24,7 +29,15 @@
     "sg:postcode":"70113",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_194hKuTKJgE5RbFPRqvW4m_29.940582_-90.091684@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463529353,
     "wof:geomhash":"b2190695a820ffb3ddd50f0b44b2d7af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840359325
+        }
+    ],
     "wof:id":840359325,
-    "wof:lastmodified":1466543624,
+    "wof:lastmodified":1486688626,
     "wof:name":"New Bethlehem Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

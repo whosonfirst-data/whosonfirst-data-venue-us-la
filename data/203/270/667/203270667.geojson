@@ -2,9 +2,14 @@
   "id": 203270667,
   "type": "Feature",
   "properties": {
+    "addr:full":"4225 Franklin Ave New Orleans LA 70122",
+    "addr:housenumber":"4225",
+    "addr:postcode":"70122",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049983,30.002187,-90.049983,30.002187",
     "geom:latitude":30.002187,
     "geom:longitude":-90.049983,
@@ -25,11 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821297,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821297
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +47,28 @@
     "wof:geomhash":"d76055d59ac80de4aef86972bc9b2682",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821297,
+            "region_id":85688735,
+            "venue_id":203270667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821297,
             "region_id":85688735,
             "venue_id":203270667
         }
     ],
     "wof:id":203270667,
-    "wof:lastmodified":1466539358,
+    "wof:lastmodified":1486688066,
     "wof:name":"Presbytery of South Louisiana",
     "wof:parent_id":85821297,
     "wof:placetype":"venue",

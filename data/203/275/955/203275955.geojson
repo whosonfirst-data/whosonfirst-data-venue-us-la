@@ -2,9 +2,14 @@
   "id": 203275955,
   "type": "Feature",
   "properties": {
+    "addr:full":"5840 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"5840",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019501,30.009899,-90.019501,30.009899",
     "geom:latitude":30.009899,
     "geom:longitude":-90.019501,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866175,
+        102191575,
+        1108739495,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"b9d03a4ad6070077c109f83a7e204120",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
             "region_id":85688735,
             "venue_id":203275955
         }
     ],
     "wof:id":203275955,
-    "wof:lastmodified":1466539355,
+    "wof:lastmodified":1491863982,
     "wof:name":"Prestige Car Wash",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

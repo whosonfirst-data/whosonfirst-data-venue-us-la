@@ -2,14 +2,20 @@
   "id": 840348331,
   "type": "Feature",
   "properties": {
+    "addr:full":"16645 Highland Rd Baton Rouge LA 70810",
+    "addr:housenumber":"16645",
+    "addr:postcode":"70810",
+    "addr:street":"Highland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.043918,30.346173,-91.043918,30.346173",
     "geom:latitude":30.346173,
     "geom:longitude":-91.043918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16645 Highland Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087229,
         85835247
     ],
+    "wof:brand_id":1125157265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uiR7V1rWYyN7blMiDpJhw_30.346173_-91.043918@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528822,
-    "wof:geomhash":"91f75dae8d186fa41e9d2037ab164fe9",
+    "wof:geomhash":"cd6afc76f580120732da3a872613e796",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840348331,
-    "wof:lastmodified":1466543506,
+    "wof:lastmodified":1510696734,
     "wof:name":"Sunshine Cleaners",
     "wof:parent_id":85835247,
     "wof:placetype":"venue",

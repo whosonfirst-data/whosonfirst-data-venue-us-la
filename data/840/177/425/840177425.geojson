@@ -2,6 +2,10 @@
   "id": 840177425,
   "type": "Feature",
   "properties": {
+    "addr:full":"4539 N I- 10 Svc Rd W Metairie LA 70006",
+    "addr:housenumber":"4539;10",
+    "addr:postcode":"70006",
+    "addr:street":"N I;Svc Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840177425,
-    "wof:lastmodified":1466541290,
+    "wof:lastmodified":1472624485,
     "wof:name":"WTIX",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

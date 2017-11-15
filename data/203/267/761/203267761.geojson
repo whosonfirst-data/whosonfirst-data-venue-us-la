@@ -2,9 +2,14 @@
   "id": 203267761,
   "type": "Feature",
   "properties": {
+    "addr:full":"4313 Chartres St New Orleans LA 70117",
+    "addr:housenumber":"4313",
+    "addr:postcode":"70117",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.033758,29.959861,-90.033758,29.959861",
     "geom:latitude":29.959861,
     "geom:longitude":-90.033758,
@@ -26,11 +31,13 @@
     "sg:website":"www.hubbahubbatattoo.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866089,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"3748b673c17535cd4147aaf64921514b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866089,
             "region_id":85688735,
             "venue_id":203267761
         }
     ],
     "wof:id":203267761,
-    "wof:lastmodified":1466539351,
+    "wof:lastmodified":1486686708,
     "wof:name":"Hubba Hubba Tattoo",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",

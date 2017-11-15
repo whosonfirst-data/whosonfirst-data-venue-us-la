@@ -2,14 +2,20 @@
   "id": 840190181,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 Youth Center Rd Evans LA 70639",
+    "addr:housenumber":"",
+    "addr:postcode":"70639",
+    "addr:street":"Youth Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.504017,30.975842,-93.504017,30.975842",
     "geom:latitude":30.975842,
     "geom:longitude":-93.504017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"195 Youth Center Rd",
     "sg:city":"Evans",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086691,
         85810535
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bOwjilC8GLYEByXpDXC64_30.975842_-93.504017@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523116,
-    "wof:geomhash":"4037d8cfc4d7ca5d7a5cd7d3d4c94357",
+    "wof:geomhash":"51484a29188acb4851167b62785378c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840190181,
-    "wof:lastmodified":1466541354,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",

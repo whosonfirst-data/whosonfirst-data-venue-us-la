@@ -2,9 +2,14 @@
   "id": 840331819,
   "type": "Feature",
   "properties": {
+    "addr:full":"850 Bridge City Ave Westwego LA 70094",
+    "addr:housenumber":"850",
+    "addr:postcode":"70094",
+    "addr:street":"Bridge City Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.156804,29.928577,-90.156804,29.928577",
     "geom:latitude":29.928577,
     "geom:longitude":-90.156804,
@@ -34,7 +39,7 @@
         85633793,
         85948759,
         102083179,
-        85866133
+        85866135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102083179,
             "locality_id":85948759,
-            "neighbourhood_id":85866133,
+            "neighbourhood_id":85866135,
             "region_id":85688735,
             "venue_id":840331819
         }
     ],
     "wof:id":840331819,
-    "wof:lastmodified":1466543249,
+    "wof:lastmodified":1491906641,
     "wof:name":"Entergy",
-    "wof:parent_id":85866133,
+    "wof:parent_id":85866135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

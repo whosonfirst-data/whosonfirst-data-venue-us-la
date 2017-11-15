@@ -2,9 +2,14 @@
   "id": 840433073,
   "type": "Feature",
   "properties": {
+    "addr:full":"7034 Read Ln New Orleans LA 70127",
+    "addr:housenumber":"7034",
+    "addr:postcode":"70127",
+    "addr:street":"Read Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.976434,30.039459,-89.976434,30.039459",
     "geom:latitude":30.039459,
     "geom:longitude":-89.976434,
@@ -27,7 +32,15 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z8SZ3HByHvbFxv75GyDGD_30.039459_-89.976434@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463532604,
     "wof:geomhash":"24cad76fb5cb80cf8f6905885b2be0d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840433073
+        }
+    ],
     "wof:id":840433073,
-    "wof:lastmodified":1466545005,
+    "wof:lastmodified":1486688708,
     "wof:name":"Unity Home Health Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

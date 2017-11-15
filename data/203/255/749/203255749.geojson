@@ -2,9 +2,14 @@
   "id": 203255749,
   "type": "Feature",
   "properties": {
+    "addr:full":"731 Saint Peter St New Orleans LA 70116",
+    "addr:housenumber":"731",
+    "addr:postcode":"70116",
+    "addr:street":"Saint Peter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065022,29.958181,-90.065022,29.958181",
     "geom:latitude":29.958181,
     "geom:longitude":-90.065022,
@@ -30,11 +35,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"25cf8f1ed9d1ffb44de0397274048627",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203255749
         }
     ],
     "wof:id":203255749,
-    "wof:lastmodified":1466539329,
+    "wof:lastmodified":1486686875,
     "wof:name":"Boondock Saint",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

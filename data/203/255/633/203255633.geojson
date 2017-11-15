@@ -2,9 +2,14 @@
   "id": 203255633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1941 N Rampart St New Orleans LA 70116",
+    "addr:housenumber":"1941",
+    "addr:postcode":"70116",
+    "addr:street":"N Rampart St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.059864,29.967475,-90.059864,29.967475",
     "geom:latitude":29.967475,
     "geom:longitude":-90.059864,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"19990448cf4636c91f72bc02531ca9b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203255633
         }
     ],
     "wof:id":203255633,
-    "wof:lastmodified":1466539326,
+    "wof:lastmodified":1486686857,
     "wof:name":"Southwest Utilities",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",

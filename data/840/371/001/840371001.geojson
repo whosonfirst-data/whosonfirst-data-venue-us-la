@@ -2,9 +2,14 @@
   "id": 840371001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Jackson Ave New Orleans LA 70130",
+    "addr:housenumber":"1100",
+    "addr:postcode":"70130",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077491,29.930398,-90.077491,29.930398",
     "geom:latitude":29.930398,
     "geom:longitude":-90.077491,
@@ -24,7 +29,15 @@
     "sg:postcode":"70130",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85831571,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_278Xq8wNZvHzZMhfcBSEZW_29.930398_-90.077491@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463529940,
     "wof:geomhash":"5d46173e9cf95f8bb19d02d5998c5ee0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840371001
+        }
+    ],
     "wof:id":840371001,
-    "wof:lastmodified":1466544099,
+    "wof:lastmodified":1486688176,
     "wof:name":"Koch & Wilson",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

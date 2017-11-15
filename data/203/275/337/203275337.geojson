@@ -2,9 +2,14 @@
   "id": 203275337,
   "type": "Feature",
   "properties": {
+    "addr:full":"5801 Dreux Ave New Orleans LA 70126",
+    "addr:housenumber":"5801",
+    "addr:postcode":"70126",
+    "addr:street":"Dreux Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021408,30.016248,-90.021408,30.016248",
     "geom:latitude":30.016248,
     "geom:longitude":-90.021408,
@@ -29,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521717,
+        102191575,
+        1108739495,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"159c1fcdd3f48f47ec45e6df286c6c75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
             "region_id":85688735,
             "venue_id":203275337
         }
     ],
     "wof:id":203275337,
-    "wof:lastmodified":1466539348,
+    "wof:lastmodified":1486687801,
     "wof:name":"First Service Mortgage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

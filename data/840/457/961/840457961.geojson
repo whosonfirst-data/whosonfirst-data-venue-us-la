@@ -2,9 +2,14 @@
   "id": 840457961,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 N. Park Place New Orleans LA 70124",
+    "addr:housenumber":"73",
+    "addr:postcode":"70124",
+    "addr:street":"N. Park Place",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.103667,29.992821,-90.103667,29.992821",
     "geom:latitude":29.992821,
     "geom:longitude":-90.103667,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.webtyde.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866055,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866055
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866055,
             "region_id":85688735,
             "venue_id":840457961
         }
     ],
     "wof:id":840457961,
-    "wof:lastmodified":1466545471,
+    "wof:lastmodified":1486687053,
     "wof:name":"Webtyde Internet Marketing",
     "wof:parent_id":85866055,
     "wof:placetype":"venue",

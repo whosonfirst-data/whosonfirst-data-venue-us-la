@@ -2,9 +2,14 @@
   "id": 840347315,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 Leonidas St New Orleans LA 70118",
+    "addr:housenumber":"1314",
+    "addr:postcode":"70118",
+    "addr:street":"Leonidas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.132603,29.95211,-90.132603,29.95211",
     "geom:latitude":29.95211,
     "geom:longitude":-90.132603,
@@ -29,7 +34,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09MCPs0oVi7uEhIwUeA0Xd_29.952110_-90.132603@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463528757,
     "wof:geomhash":"7e4853a92425b3d974223e9c9fd9f22a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840347315
+        }
+    ],
     "wof:id":840347315,
-    "wof:lastmodified":1466543394,
+    "wof:lastmodified":1486688982,
     "wof:name":"Popcorn Trucking Incorporated",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

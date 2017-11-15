@@ -2,14 +2,20 @@
   "id": 840246793,
   "type": "Feature",
   "properties": {
+    "addr:full":"3135 College Dr Baton Rouge LA 70808",
+    "addr:housenumber":"3135",
+    "addr:postcode":"70808",
+    "addr:street":"College Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.142023,30.418326,-91.142023,30.418326",
     "geom:latitude":30.418326,
     "geom:longitude":-91.142023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3135 College Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85850249
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54Bd6hzB2blWhy9kw9D2lw_30.418326_-91.142023@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524529,
-    "wof:geomhash":"2db4444431b17b4f9a54ebb7e779d78e",
+    "wof:geomhash":"a907233bc0081718951763d8048859f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840246793,
-    "wof:lastmodified":1466541897,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85850249,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337288331,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 General Heyer New Orleans LA 70112",
+    "addr:housenumber":"3600",
+    "addr:postcode":"70112",
+    "addr:street":"General Heyer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019056,29.939126,-90.019056,29.939126",
     "geom:latitude":29.939126,
     "geom:longitude":-90.019056,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746805,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"dff75423a85c66b96474c400db52ae4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
             "region_id":85688735,
             "venue_id":337288331
         }
     ],
     "wof:id":337288331,
-    "wof:lastmodified":1466539529,
+    "wof:lastmodified":1486688988,
     "wof:name":"Farber Dermatology Clinics",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

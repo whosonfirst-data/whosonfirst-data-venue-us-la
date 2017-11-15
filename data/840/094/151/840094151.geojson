@@ -2,14 +2,20 @@
   "id": 840094151,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Metairie Rd Metairie LA 70005",
+    "addr:housenumber":"315",
+    "addr:postcode":"70005",
+    "addr:street":"Metairie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.12731,29.981133,-90.12731,29.981133",
     "geom:latitude":29.981133,
     "geom:longitude":-90.12731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 Metairie Rd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85866143
     ],
+    "wof:brand_id":1125159465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IkoBJP0p1Rm4tYwJoEBkq_29.981133_-90.127310@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521100,
-    "wof:geomhash":"328ef8e67cf957dcfe87d7a5f2351898",
+    "wof:geomhash":"85d0098ded2bbf4be6692e6d5a739f91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840094151,
-    "wof:lastmodified":1466540584,
+    "wof:lastmodified":1510697492,
     "wof:name":"Associated Securities Corp",
     "wof:parent_id":85866143,
     "wof:placetype":"venue",

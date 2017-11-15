@@ -2,9 +2,14 @@
   "id": 840421003,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Maumus Ave New Orleans LA 70131",
+    "addr:housenumber":"201",
+    "addr:postcode":"70131",
+    "addr:street":"Maumus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.988466,29.914113,-89.988466,29.914113",
     "geom:latitude":29.914113,
     "geom:longitude":-89.988466,
@@ -28,7 +33,16 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58bmEAiU32PAWPlGolZTFd_29.914113_-89.988466@1294127638"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1463532077,
     "wof:geomhash":"25325bf43278f65dac4183bbec886783",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840421003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840421003
+        }
+    ],
     "wof:id":840421003,
-    "wof:lastmodified":1466544810,
+    "wof:lastmodified":1486689004,
     "wof:name":"Dalilis",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

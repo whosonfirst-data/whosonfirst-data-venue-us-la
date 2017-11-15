@@ -2,9 +2,14 @@
   "id": 840119699,
   "type": "Feature",
   "properties": {
+    "addr:full":"3108 General Meyer Ave New Orleans LA 70114",
+    "addr:housenumber":"3108",
+    "addr:postcode":"70114",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.024375,29.941308,-90.024375,29.941308",
     "geom:latitude":29.941308,
     "geom:longitude":-90.024375,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746805,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HjqiU0YkhxYOODGQfKKnN_29.941308_-90.024375@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463521632,
     "wof:geomhash":"29562e759ab349d2d284101907783592",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
+            "region_id":85688735,
+            "venue_id":840119699
+        }
+    ],
     "wof:id":840119699,
-    "wof:lastmodified":1466540870,
+    "wof:lastmodified":1486688990,
     "wof:name":"RP Masonry Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

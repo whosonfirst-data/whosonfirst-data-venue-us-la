@@ -2,14 +2,20 @@
   "id": 203387113,
   "type": "Feature",
   "properties": {
+    "addr:full":"880 Bert Kouns Industrial Loop Shreveport LA 71118",
+    "addr:housenumber":"880",
+    "addr:postcode":"71118",
+    "addr:street":"Bert Kouns Industrial Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.780349,32.401524,-93.780349,32.401524",
     "geom:latitude":32.401524,
     "geom:longitude":-93.780349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"880 Bert Kouns Industrial Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85947819,
         102087235
     ],
+    "wof:brand_id":1125158633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MXGMNRjhdQfhOitVc2C1z_32.401524_-93.780349@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec0de2eaf0f945559f9a9eab369b73b9",
+    "wof:geomhash":"60d37504745c0508650c81b79e2e2eae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":203387113,
-    "wof:lastmodified":1466539511,
+    "wof:lastmodified":1510699373,
     "wof:name":"Shear Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

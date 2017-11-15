@@ -2,14 +2,20 @@
   "id": 840424647,
   "type": "Feature",
   "properties": {
+    "addr:full":"460 W Prien Lake Rd Lake Charles LA 70601",
+    "addr:housenumber":"460",
+    "addr:postcode":"70601",
+    "addr:street":"W Prien Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.225668,30.198175,-93.225668,30.198175",
     "geom:latitude":30.198175,
     "geom:longitude":-93.225668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"460 W Prien Lake Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150185,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39yHPUbJAZ656uhm8OijJF_30.198175_-93.225668@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532219,
-    "wof:geomhash":"0f15eb366d5da633653b0a25a11f6f8f",
+    "wof:geomhash":"0b6dac2ce0e973b38d17c8659ebdc605",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840424647,
-    "wof:lastmodified":1466544917,
+    "wof:lastmodified":1510697298,
     "wof:name":"Claire's Accessories",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840150665,
   "type": "Feature",
   "properties": {
+    "addr:full":"1037 US Hwy 171 Stonewall LA 71078",
+    "addr:housenumber":"1037",
+    "addr:postcode":"71078",
+    "addr:street":"Us Hwy 171",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.826596,32.293071,-93.826596,32.293071",
     "geom:latitude":32.293071,
     "geom:longitude":-93.826596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1037 US Hwy 171",
     "sg:city":"Stonewall",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084887,
         85813793
     ],
+    "wof:brand_id":1125156651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ofdWt1LdlHeUz8auItUZZ_32.293071_-93.826596@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522254,
-    "wof:geomhash":"f7fecaac4c99c09db28b91e938f1adbf",
+    "wof:geomhash":"ae740049aa3e874df4fd2ea59db9faa6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840150665,
-    "wof:lastmodified":1466540592,
+    "wof:lastmodified":1510698684,
     "wof:name":"Snack Shack",
     "wof:parent_id":85813793,
     "wof:placetype":"venue",

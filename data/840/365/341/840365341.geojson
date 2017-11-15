@@ -2,9 +2,14 @@
   "id": 840365341,
   "type": "Feature",
   "properties": {
+    "addr:full":"247 S Robertson St New Orleans LA 70112",
+    "addr:housenumber":"247",
+    "addr:postcode":"70112",
+    "addr:street":"S Robertson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.078339,29.956978,-90.078339,29.956978",
     "geom:latitude":29.956978,
     "geom:longitude":-90.078339,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85869283
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85869283,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840365341
         }
     ],
     "wof:id":840365341,
-    "wof:lastmodified":1466543682,
+    "wof:lastmodified":1486688525,
     "wof:name":"Mandarin Chinese Restaurant",
-    "wof:parent_id":85869283,
+    "wof:parent_id":85866107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

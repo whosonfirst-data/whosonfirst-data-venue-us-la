@@ -2,14 +2,20 @@
   "id": 840057611,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Heymann Blvd Lafayette LA 70503",
+    "addr:housenumber":"124",
+    "addr:postcode":"70503",
+    "addr:street":"Heymann Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.014032,30.206816,-92.014032,30.206816",
     "geom:latitude":30.206816,
     "geom:longitude":-92.014032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 Heymann Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C8BgRaiwsPm5HIB1pa9Tu_30.206816_-92.014032@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520213,
-    "wof:geomhash":"b1a775766949ca50e68eb8fc6ea9d805",
+    "wof:geomhash":"3a72bba02576c9bc091824df5434e481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840057611,
-    "wof:lastmodified":1466540246,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

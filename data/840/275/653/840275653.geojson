@@ -2,9 +2,14 @@
   "id": 840275653,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 Hayne Blvd New Orleans LA 70126",
+    "addr:housenumber":"6400",
+    "addr:postcode":"70126",
+    "addr:street":"Hayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021633,30.034413,-90.021633,30.034413",
     "geom:latitude":30.034413,
     "geom:longitude":-90.021633,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866167,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85847541
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85847541,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
             "region_id":85688735,
             "venue_id":840275653
         }
     ],
     "wof:id":840275653,
-    "wof:lastmodified":1466542296,
+    "wof:lastmodified":1486688718,
     "wof:name":"Reliant Rehab",
-    "wof:parent_id":85847541,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203262049,
   "type": "Feature",
   "properties": {
+    "addr:full":"2540 Elysian Fields Ave New Orleans LA 70117",
+    "addr:housenumber":"2540",
+    "addr:postcode":"70117",
+    "addr:street":"Elysian Fields Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057999,29.9837,-90.057999,29.9837",
     "geom:latitude":29.9837,
     "geom:longitude":-90.057999,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866099,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866099
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"becb6805168039a44dec655027113d65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":203262049
         }
     ],
     "wof:id":203262049,
-    "wof:lastmodified":1466539321,
+    "wof:lastmodified":1486688399,
     "wof:name":"Mademoiselle Dwyn's School of Dance",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",

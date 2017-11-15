@@ -2,9 +2,14 @@
   "id": 840179873,
   "type": "Feature",
   "properties": {
+    "addr:full":"338 Belleville St New Orleans LA 70114",
+    "addr:housenumber":"338",
+    "addr:postcode":"70114",
+    "addr:street":"Belleville St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.047864,29.952508,-90.047864,29.952508",
     "geom:latitude":29.952508,
     "geom:longitude":-90.047864,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866153,
         102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866153
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739497,
             "neighbourhood_id":85866153,
             "region_id":85688735,
             "venue_id":840179873
         }
     ],
     "wof:id":840179873,
-    "wof:lastmodified":1466541444,
+    "wof:lastmodified":1486687966,
     "wof:name":"Members Group",
     "wof:parent_id":85866153,
     "wof:placetype":"venue",

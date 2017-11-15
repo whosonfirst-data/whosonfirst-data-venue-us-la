@@ -2,9 +2,14 @@
   "id": 840452243,
   "type": "Feature",
   "properties": {
+    "addr:full":"626 Frenchmen St New Orleans LA 70116",
+    "addr:housenumber":"626",
+    "addr:postcode":"70116",
+    "addr:street":"Frenchmen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057701,29.964199,-90.057701,29.964199",
     "geom:latitude":29.964199,
     "geom:longitude":-90.057701,
@@ -26,12 +31,13 @@
     "sg:website":"www.snugjazz.com/site/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":840452243
         }
     ],
     "wof:id":840452243,
-    "wof:lastmodified":1466545263,
+    "wof:lastmodified":1486687369,
     "wof:name":"Snug Harbor Jazz Bistro",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",

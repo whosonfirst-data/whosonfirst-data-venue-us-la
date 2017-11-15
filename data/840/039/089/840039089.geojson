@@ -2,14 +2,20 @@
   "id": 840039089,
   "type": "Feature",
   "properties": {
+    "addr:full":"6507 W Port Ave Shreveport LA 71129",
+    "addr:housenumber":"6507",
+    "addr:postcode":"71129",
+    "addr:street":"W Port Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.898412,32.445214,-93.898412,32.445214",
     "geom:latitude":32.445214,
     "geom:longitude":-93.898412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6507 W Port Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85880975,
         102087235
     ],
+    "wof:brand_id":1125153653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JBctwom3ZMTL6yJs26ob9_32.445214_-93.898412@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519819,
-    "wof:geomhash":"4b319f388db7cee9939513eb5459f0f3",
+    "wof:geomhash":"99e36f73bf5591903e334f5877fc2ce1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840039089,
-    "wof:lastmodified":1466539917,
+    "wof:lastmodified":1510697209,
     "wof:name":"Weyerhaeuser Co",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",

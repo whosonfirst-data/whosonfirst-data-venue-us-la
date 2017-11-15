@@ -2,14 +2,20 @@
   "id": 840321859,
   "type": "Feature",
   "properties": {
+    "addr:full":"62508 Friendship Church Rd Amite LA 70422",
+    "addr:housenumber":"62508",
+    "addr:postcode":"70422",
+    "addr:street":"Friendship Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.362818,30.766004,-90.362818,30.766004",
     "geom:latitude":30.766004,
     "geom:longitude":-90.362818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"62508 Friendship Church Rd",
     "sg:city":"Amite",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083809,
         85853177
     ],
+    "wof:brand_id":420574783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5By9YerLQx7hn9u42xsonv_30.766004_-90.362818@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527542,
-    "wof:geomhash":"37808b1bea6a7c211d902c4696b75867",
+    "wof:geomhash":"e6850c0ff6da7de3d29fe70ccce49aa5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840321859,
-    "wof:lastmodified":1466543031,
+    "wof:lastmodified":1510604674,
     "wof:name":"Friendship Baptist Church",
     "wof:parent_id":85853177,
     "wof:placetype":"venue",

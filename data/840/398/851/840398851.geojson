@@ -2,14 +2,20 @@
   "id": 840398851,
   "type": "Feature",
   "properties": {
+    "addr:full":"66 Fontainebleau Dr New Orleans LA 70125",
+    "addr:housenumber":"66",
+    "addr:postcode":"70125",
+    "addr:street":"Fontainebleau Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.115162,29.954343,-90.115162,29.954343",
     "geom:latitude":29.954343,
     "geom:longitude":-90.115162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"66 Fontainebleau Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866137,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866177
+        85688735
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z3BuG1NPau57OzE1zh54Y_29.954343_-90.115162@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531161,
-    "wof:geomhash":"868314b260af5c1cf0f7a4b25359e879",
+    "wof:geomhash":"90ed969777272d9274659b2d0965b0eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866177,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866137,
             "region_id":85688735,
             "venue_id":840398851
         }
     ],
     "wof:id":840398851,
-    "wof:lastmodified":1466544627,
+    "wof:lastmodified":1510695872,
     "wof:name":"Dominican Sisters",
-    "wof:parent_id":85866177,
+    "wof:parent_id":85866137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

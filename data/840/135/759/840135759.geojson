@@ -2,9 +2,14 @@
   "id": 840135759,
   "type": "Feature",
   "properties": {
+    "addr:full":"3513 Mimosa Ct New Orleans LA 70131",
+    "addr:housenumber":"3513",
+    "addr:postcode":"70131",
+    "addr:street":"Mimosa Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.998049,29.904413,-89.998049,29.904413",
     "geom:latitude":29.904413,
     "geom:longitude":-89.998049,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.activepixel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LggFsikFuIVuzxiyb7eLD_29.904413_-89.998049@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463521967,
     "wof:geomhash":"b2d19a2dd9ff12ec8411e54433b6a784",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840135759
+        }
+    ],
     "wof:id":840135759,
-    "wof:lastmodified":1466541103,
+    "wof:lastmodified":1486689098,
     "wof:name":"Active Pizel Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

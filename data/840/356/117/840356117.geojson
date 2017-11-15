@@ -2,14 +2,20 @@
   "id": 840356117,
   "type": "Feature",
   "properties": {
+    "addr:full":"10768 N Harrells Ferry Rd Baton Rouge LA 70816",
+    "addr:housenumber":"10768",
+    "addr:postcode":"70816",
+    "addr:street":"N Harrells Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.065504,30.433874,-91.065504,30.433874",
     "geom:latitude":30.433874,
     "geom:longitude":-91.065504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10768 N Harrells Ferry Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85813553
     ],
+    "wof:brand_id":1125150179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04rGg7Dby3T3KzXT8J7rLn_30.433874_-91.065504@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529217,
-    "wof:geomhash":"7f0df040c19607742176271354dcf53e",
+    "wof:geomhash":"c81a1b7da79a315a551278036a8c6109",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840356117,
-    "wof:lastmodified":1466543542,
+    "wof:lastmodified":1510694920,
     "wof:name":"Master Cuts",
     "wof:parent_id":85813553,
     "wof:placetype":"venue",

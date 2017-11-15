@@ -2,9 +2,14 @@
   "id": 840169687,
   "type": "Feature",
   "properties": {
+    "addr:full":"10132 Hayne Blvd New Orleans LA 70127",
+    "addr:housenumber":"10132",
+    "addr:postcode":"70127",
+    "addr:street":"Hayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.982041,30.050335,-89.982041,30.050335",
     "geom:latitude":30.050335,
     "geom:longitude":-89.982041,
@@ -37,7 +42,15 @@
         "grass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Cs7UkwBrO1SjVHW1NBsCG_30.050335_-89.982041@1294127638"
@@ -45,11 +58,22 @@
     "wof:country":"US",
     "wof:created":1463522662,
     "wof:geomhash":"1bdbf564a5aaad2b63a2f778eb0a9ad4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840169687
+        }
+    ],
     "wof:id":840169687,
-    "wof:lastmodified":1466541224,
+    "wof:lastmodified":1486688707,
     "wof:name":"Paul E Cournet Tractor Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

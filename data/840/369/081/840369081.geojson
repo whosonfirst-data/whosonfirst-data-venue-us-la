@@ -2,14 +2,20 @@
   "id": 840369081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 S Clearview Pkwy Jefferson LA 70121",
+    "addr:housenumber":"1105",
+    "addr:postcode":"70121",
+    "addr:street":"S Clearview Pkwy Jefferson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.184865,29.963662,-90.184865,29.963662",
     "geom:latitude":29.963662,
     "geom:longitude":-90.184865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1105 S Clearview Pkwy",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":420574613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fMsAn0ntcsJ8gfeLFmumc_29.963662_-90.184865@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529837,
-    "wof:geomhash":"084d64e72065ad2262c744157c4a5c82",
+    "wof:geomhash":"74923a9c1677916c193cddca4a0b17e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840369081,
-    "wof:lastmodified":1466543759,
+    "wof:lastmodified":1510604102,
     "wof:name":"Denny's",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

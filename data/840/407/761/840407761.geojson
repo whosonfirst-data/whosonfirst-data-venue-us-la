@@ -2,9 +2,14 @@
   "id": 840407761,
   "type": "Feature",
   "properties": {
+    "addr:full":"775 Filmore Ave New Orleans LA 70124",
+    "addr:housenumber":"775",
+    "addr:postcode":"70124",
+    "addr:street":"Filmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105386,30.012164,-90.105386,30.012164",
     "geom:latitude":30.012164,
     "geom:longitude":-90.105386,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840407761
         }
     ],
     "wof:id":840407761,
-    "wof:lastmodified":1466544588,
+    "wof:lastmodified":1486688167,
     "wof:name":"Sheet Metal Contractors Assn",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840032875,
   "type": "Feature",
   "properties": {
+    "addr:full":"4738 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"4738",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105711,29.920367,-90.105711,29.920367",
     "geom:latitude":29.920367,
     "geom:longitude":-90.105711,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746839,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866125
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866125,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
             "region_id":85688735,
             "venue_id":840032875
         }
     ],
     "wof:id":840032875,
-    "wof:lastmodified":1466539986,
+    "wof:lastmodified":1486689107,
     "wof:name":"Animal Medical Clinic",
-    "wof:parent_id":85866125,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

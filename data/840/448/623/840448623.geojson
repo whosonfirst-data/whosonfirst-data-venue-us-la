@@ -2,9 +2,14 @@
   "id": 840448623,
   "type": "Feature",
   "properties": {
+    "addr:full":"7943 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"7943",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.993202,30.0135,-89.993202,30.0135",
     "geom:latitude":30.0135,
     "geom:longitude":-89.993202,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866169,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03w32agKPkYyXbbIvez58f_30.013481_-89.993215@1293134755"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463533232,
     "wof:geomhash":"71151fcf7e73f0a6e1f622109dd46405",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840448623
+        }
+    ],
     "wof:id":840448623,
-    "wof:lastmodified":1466545447,
+    "wof:lastmodified":1486688734,
     "wof:name":"East Side Cash & Carry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

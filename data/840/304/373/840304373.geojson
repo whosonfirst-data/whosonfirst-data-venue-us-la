@@ -2,9 +2,14 @@
   "id": 840304373,
   "type": "Feature",
   "properties": {
+    "addr:full":"2047 Mirabeau Ave New Orleans LA 70122",
+    "addr:housenumber":"2047",
+    "addr:postcode":"70122",
+    "addr:street":"Mirabeau Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06251,30.0082,-90.06251,30.0082",
     "geom:latitude":30.0082,
     "geom:longitude":-90.06251,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866063,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866063
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +56,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":840304373
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866063,
             "region_id":85688735,
             "venue_id":840304373
         }
     ],
     "wof:id":840304373,
-    "wof:lastmodified":1466542638,
+    "wof:lastmodified":1486688065,
     "wof:name":"Gulf States Roofing Inc",
     "wof:parent_id":85866063,
     "wof:placetype":"venue",

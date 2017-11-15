@@ -2,9 +2,14 @@
   "id": 840069497,
   "type": "Feature",
   "properties": {
+    "addr:full":"10828 Hayne Blvd New Orleans LA 70127",
+    "addr:housenumber":"10828",
+    "addr:postcode":"70127",
+    "addr:street":"Hayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.979032,30.051803,-89.979032,30.051803",
     "geom:latitude":30.051803,
     "geom:longitude":-89.979032,
@@ -24,7 +29,15 @@
     "sg:postcode":"70127",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48bN9XBYLxT18DjUJPT0CA_30.051803_-89.979032@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463520469,
     "wof:geomhash":"0f24a5ac0fff4c72aee8efe9d6bf65ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840069497
+        }
+    ],
     "wof:id":840069497,
-    "wof:lastmodified":1466540364,
+    "wof:lastmodified":1486688728,
     "wof:name":"Walker's Southern Style BBQ",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

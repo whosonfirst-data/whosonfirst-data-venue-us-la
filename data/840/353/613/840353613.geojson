@@ -2,14 +2,20 @@
   "id": 840353613,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 N Market St Shreveport LA 71107",
+    "addr:housenumber":"1401",
+    "addr:postcode":"71107",
+    "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.769914,32.536322,-93.769914,32.536322",
     "geom:latitude":32.536322,
     "geom:longitude":-93.769914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 N Market St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087235,
         85880993
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fmOTiv5vjNH0d5IpiAJne_32.536322_-93.769914@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529088,
-    "wof:geomhash":"cc3500e26ca8044fffab62f94d2bd8de",
+    "wof:geomhash":"51fb070b472d27c23fd4a82d9b45f068",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840353613,
-    "wof:lastmodified":1466543501,
+    "wof:lastmodified":1510602858,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",

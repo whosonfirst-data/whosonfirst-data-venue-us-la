@@ -2,14 +2,20 @@
   "id": 840457889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 S Macarthur Dr Alexandria LA 71301",
+    "addr:housenumber":"2820",
+    "addr:postcode":"71301",
+    "addr:street":"S Macarthur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.458135,31.267672,-92.458135,31.267672",
     "geom:latitude":31.267672,
     "geom:longitude":-92.458135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2820 S Macarthur Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081039,
         85846871
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZAuPezCLBvXNR5Meu9Exs_31.267485_-92.457861@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533609,
-    "wof:geomhash":"b2c3095fe9c469d7f0bb1774a4f932ab",
+    "wof:geomhash":"47544e0eca2bf1a98b19d5f68a4a41c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840457889,
-    "wof:lastmodified":1466545470,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85846871,
     "wof:placetype":"venue",

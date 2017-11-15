@@ -2,9 +2,14 @@
   "id": 840247329,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Loyola Ave New Orleans LA 70113",
+    "addr:housenumber":"701",
+    "addr:postcode":"70113",
+    "addr:street":"Loyola Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.076624,29.94812,-90.076624,29.94812",
     "geom:latitude":29.94812,
     "geom:longitude":-90.076624,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840247329
         }
     ],
     "wof:id":840247329,
-    "wof:lastmodified":1466541833,
+    "wof:lastmodified":1486687282,
     "wof:name":"US Forestry Dept",
     "wof:parent_id":85866107,
     "wof:placetype":"venue",

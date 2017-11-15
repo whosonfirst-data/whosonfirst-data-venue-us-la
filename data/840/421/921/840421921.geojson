@@ -2,9 +2,14 @@
   "id": 840421921,
   "type": "Feature",
   "properties": {
+    "addr:full":"7523 Maple St New Orleans LA 70118",
+    "addr:housenumber":"7523",
+    "addr:postcode":"70118",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.128487,29.941178,-90.128487,29.941178",
     "geom:latitude":29.941178,
     "geom:longitude":-90.128487,
@@ -27,7 +32,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k4Lbjv3RNCZhhiLvi9fw0_29.941178_-90.128487@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463532113,
     "wof:geomhash":"b51eb4ff09a8b82eaf8d17d4ccc83e21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840421921
+        }
+    ],
     "wof:id":840421921,
-    "wof:lastmodified":1466544911,
+    "wof:lastmodified":1486689015,
     "wof:name":"Maple Street Book",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

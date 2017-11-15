@@ -2,9 +2,14 @@
   "id": 203274797,
   "type": "Feature",
   "properties": {
+    "addr:full":"7700 Lake Forest Blvd New Orleans LA 70126",
+    "addr:housenumber":"7700",
+    "addr:postcode":"70126",
+    "addr:street":"Lake Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.999984,30.023692,-89.999984,30.023692",
     "geom:latitude":30.023692,
     "geom:longitude":-89.999984,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"94596dff9c7e0bc8e33d6bb1378eae72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866169,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":203274797
         }
     ],
     "wof:id":203274797,
-    "wof:lastmodified":1466539354,
+    "wof:lastmodified":1491864001,
     "wof:name":"Jump Start Child Development Center",
-    "wof:parent_id":85866169,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

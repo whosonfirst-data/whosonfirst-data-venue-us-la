@@ -2,9 +2,14 @@
   "id": 840447835,
   "type": "Feature",
   "properties": {
+    "addr:full":"4330 E Judge Perez Dr Meraux LA 70075",
+    "addr:housenumber":"4330",
+    "addr:postcode":"70075",
+    "addr:street":"E Judge Perez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.913025,29.92807,-89.913025,29.92807",
     "geom:latitude":29.92807,
     "geom:longitude":-89.913025,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -40,6 +46,7 @@
     "wof:geomhash":"f06bf50dc685adc11be0ddada4421fbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840447835,
-    "wof:lastmodified":1466545388,
+    "wof:lastmodified":1491910631,
     "wof:name":"Walgreens",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

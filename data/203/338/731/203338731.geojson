@@ -2,14 +2,20 @@
   "id": 203338731,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 E Main St New Iberia LA 70560",
+    "addr:housenumber":"910",
+    "addr:postcode":"70560",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.805603,29.9988,-91.805603,29.9988",
     "geom:latitude":29.9988,
     "geom:longitude":-91.805603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"910 E Main St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125150455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GVi544XTIUz6AvSDmYSpS_29.998800_-91.805603@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"605d9845c89e237fec7b8c4bb2220164",
+    "wof:geomhash":"02143300410a09b586303cf9548d4aad",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203338731,
-    "wof:lastmodified":1466539461,
+    "wof:lastmodified":1510695308,
     "wof:name":"American General Financial Services",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

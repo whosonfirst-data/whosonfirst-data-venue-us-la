@@ -2,14 +2,20 @@
   "id": 840189167,
   "type": "Feature",
   "properties": {
+    "addr:full":"2833 Viking Dr Bossier City LA 71111",
+    "addr:housenumber":"2833",
+    "addr:postcode":"71111",
+    "addr:street":"Viking Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.704895,32.554213,-93.704895,32.554213",
     "geom:latitude":32.554213,
     "geom:longitude":-93.704895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2833 Viking Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084883,
         85822769
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UxhS7Xf4O7FUCIzZgqvVb_32.554213_-93.704895@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523096,
-    "wof:geomhash":"088ae92e023753745a429a906bfb7319",
+    "wof:geomhash":"3cd0a5a911b6908c9f1b955828cfd7c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840189167,
-    "wof:lastmodified":1466541353,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85822769,
     "wof:placetype":"venue",

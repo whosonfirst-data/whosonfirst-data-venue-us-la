@@ -2,9 +2,14 @@
   "id": 840450157,
   "type": "Feature",
   "properties": {
+    "addr:full":"2435 Paris Rd New Orleans LA 70129",
+    "addr:housenumber":"2435",
+    "addr:postcode":"70129",
+    "addr:street":"Paris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.939662,30.022218,-89.939662,30.022218",
     "geom:latitude":30.022218,
     "geom:longitude":-89.939662,
@@ -21,7 +26,15 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38cs9PptqfRL5wvWLKhtTP_30.022218_-89.939662@1294127638"
@@ -29,11 +42,22 @@
     "wof:country":"US",
     "wof:created":1463533307,
     "wof:geomhash":"9cfc946255e81b7119cce7d4bcc3f843",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840450157
+        }
+    ],
     "wof:id":840450157,
-    "wof:lastmodified":1466545426,
+    "wof:lastmodified":1486688860,
     "wof:name":"On-Site Fuel Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

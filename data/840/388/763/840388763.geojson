@@ -2,14 +2,20 @@
   "id": 840388763,
   "type": "Feature",
   "properties": {
+    "addr:full":"3060 N Causeway Blvd Metairie LA 70002",
+    "addr:housenumber":"3060",
+    "addr:postcode":"70002",
+    "addr:street":"N Causeway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.154777,30.006462,-90.154777,30.006462",
     "geom:latitude":30.006462,
     "geom:longitude":-90.154777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3060 N Causeway Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZEZLGdRo4ZDe7XbDccVxJ_30.006462_-90.154777@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530749,
-    "wof:geomhash":"b0c7dd8ea70bf1c4e55ab2e84733765d",
+    "wof:geomhash":"6f8327239fd1e1505633354f0dc95a41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840388763,
-    "wof:lastmodified":1466544190,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

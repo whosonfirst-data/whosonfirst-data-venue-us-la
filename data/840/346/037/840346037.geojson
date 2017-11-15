@@ -2,9 +2,14 @@
   "id": 840346037,
   "type": "Feature",
   "properties": {
+    "addr:full":"4212 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"4212",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.02112,30.011622,-90.02112,30.011622",
     "geom:latitude":30.011622,
     "geom:longitude":-90.02112,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TW39hXCaKp8kUreCT9quT_30.011622_-90.021120@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528702,
     "wof:geomhash":"7d42c6570c80c44ca09c035e18beb998",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840346037
+        }
+    ],
     "wof:id":840346037,
-    "wof:lastmodified":1466543369,
+    "wof:lastmodified":1486687757,
     "wof:name":"Ronda's Diner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

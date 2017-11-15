@@ -2,9 +2,14 @@
   "id": 840208867,
   "type": "Feature",
   "properties": {
+    "addr:full":"1416 Lamanche St New Orleans LA 70117",
+    "addr:housenumber":"1416",
+    "addr:postcode":"70117",
+    "addr:street":"Lamanche St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.013567,29.964826,-90.013567,29.964826",
     "geom:latitude":29.964826,
     "geom:longitude":-90.013567,
@@ -27,7 +32,15 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746835,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qweKqh4bcTSs5BOArd2VW_29.964826_-90.013567@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463523604,
     "wof:geomhash":"0996b8d51f9af73a027a3c57c84291d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
+            "region_id":85688735,
+            "venue_id":840208867
+        }
+    ],
     "wof:id":840208867,
-    "wof:lastmodified":1466541569,
+    "wof:lastmodified":1486689081,
     "wof:name":"Cynthias Landscaping Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

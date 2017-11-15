@@ -2,9 +2,14 @@
   "id": 840359081,
   "type": "Feature",
   "properties": {
+    "addr:full":"2549 Paul Dr Meraux LA 70075",
+    "addr:housenumber":"2549",
+    "addr:postcode":"70075",
+    "addr:street":"Paul Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.925518,29.935031,-89.925518,29.935031",
     "geom:latitude":29.935031,
     "geom:longitude":-89.925518,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -40,6 +46,7 @@
     "wof:geomhash":"1dcad5376dc76bbc6cf9f48f41a04447",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840359081,
-    "wof:lastmodified":1466544058,
+    "wof:lastmodified":1491910638,
     "wof:name":"Hug-A-Bunch Child Care Ctr",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

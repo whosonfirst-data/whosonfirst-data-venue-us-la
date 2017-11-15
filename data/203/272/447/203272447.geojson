@@ -2,9 +2,14 @@
   "id": 203272447,
   "type": "Feature",
   "properties": {
+    "addr:full":"New Orleans Lakefront Arena New Orleans LA 70122",
+    "addr:housenumber":"",
+    "addr:postcode":"70122",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.052252,30.029015,-90.052252,30.029015",
     "geom:latitude":30.029015,
     "geom:longitude":-90.052252,
@@ -26,11 +31,15 @@
     "sg:website":"www.eastofitaly.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739667,
+        102191575,
+        1108746799,
         85633793,
         85948111,
         102086693,
-        85829167
+        85688735,
+        1108739491,
+        1108746797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +49,40 @@
     "wof:geomhash":"1c8d0d595cfc17d50647ae161f6e038d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829167,
+            "macrohood_id":1108746799,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":203272447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":203272447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":1108739667,
             "region_id":85688735,
             "venue_id":203272447
         }
     ],
     "wof:id":203272447,
-    "wof:lastmodified":1466539352,
+    "wof:lastmodified":1486689055,
     "wof:name":"East of Italy",
-    "wof:parent_id":85829167,
+    "wof:parent_id":1108739667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

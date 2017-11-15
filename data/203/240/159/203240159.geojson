@@ -2,9 +2,14 @@
   "id": 203240159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1925 Tusa Dr Violet LA 70092",
+    "addr:housenumber":"1925",
+    "addr:postcode":"70092",
+    "addr:street":"Tusa Dr Violet La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.913206,29.916369,-89.913206,29.916369",
     "geom:latitude":29.916369,
     "geom:longitude":-89.913206,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -47,7 +53,7 @@
     "wof:geomhash":"e1ce0e51f8cfb4049c21c3309ace4fca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":203240159,
-    "wof:lastmodified":1466539300,
+    "wof:lastmodified":1491910641,
     "wof:name":"Tire Shop the",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

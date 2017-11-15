@@ -2,9 +2,14 @@
   "id": 840087683,
   "type": "Feature",
   "properties": {
+    "addr:full":"3221 Prytania St New Orleans LA 70115",
+    "addr:housenumber":"3221",
+    "addr:postcode":"70115",
+    "addr:street":"Prytania St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.089209,29.92757,-90.089209,29.92757",
     "geom:latitude":29.92757,
     "geom:longitude":-90.089209,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821037,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821037
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821037,
             "region_id":85688735,
             "venue_id":840087683
         }
     ],
     "wof:id":840087683,
-    "wof:lastmodified":1466540619,
+    "wof:lastmodified":1486687233,
     "wof:name":"Sum It Up Now",
     "wof:parent_id":85821037,
     "wof:placetype":"venue",

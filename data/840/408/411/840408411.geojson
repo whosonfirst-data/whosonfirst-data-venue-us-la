@@ -2,14 +2,20 @@
   "id": 840408411,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304 Bertrand Dr Lafayette LA 70506",
+    "addr:housenumber":"1304",
+    "addr:postcode":"70506",
+    "addr:street":"Bertrand Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.051439,30.22153,-92.051439,30.22153",
     "geom:latitude":30.22153,
     "geom:longitude":-92.051439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1304 Bertrand Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125156317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VYrsyP4YV2futvXYJdqra_30.221530_-92.051439@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531559,
-    "wof:geomhash":"0be6b8642d9bfbb16a666d6cc3626473",
+    "wof:geomhash":"a12f71fcd235d4000ba939f616226c59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840408411,
-    "wof:lastmodified":1466544506,
+    "wof:lastmodified":1510693710,
     "wof:name":"United American Insurance Co",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

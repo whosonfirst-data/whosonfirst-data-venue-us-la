@@ -2,14 +2,20 @@
   "id": 840277915,
   "type": "Feature",
   "properties": {
+    "addr:full":"9250 Mansfield Rd Shreveport LA 71118",
+    "addr:housenumber":"9250",
+    "addr:postcode":"71118",
+    "addr:street":"Mansfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.806304,32.400269,-93.806304,32.400269",
     "geom:latitude":32.400269,
     "geom:longitude":-93.806304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9250 Mansfield Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087235,
         85880999
     ],
+    "wof:brand_id":1125158465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71jxWpRWww4CobSfyUYGNf_32.400269_-93.806304@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525523,
-    "wof:geomhash":"595db1e3d8ce7138606c2cdc5b55e6e1",
+    "wof:geomhash":"1e8adf5cde2fee9721fec4a8011fa76d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840277915,
-    "wof:lastmodified":1466542349,
+    "wof:lastmodified":1510613245,
     "wof:name":"Brookshire's",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",

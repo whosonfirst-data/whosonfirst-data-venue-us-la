@@ -2,14 +2,20 @@
   "id": 840275687,
   "type": "Feature",
   "properties": {
+    "addr:full":"14004 Lake Charles Hwy Leesville LA 71446",
+    "addr:housenumber":"14004",
+    "addr:postcode":"71446",
+    "addr:street":"Lake Charles Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278043,31.008772,-93.278043,31.008772",
     "geom:latitude":31.008772,
     "geom:longitude":-93.278043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14004 Lake Charles Hwy",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086691,
         85810535
     ],
+    "wof:brand_id":1125156847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LkHYZuOdNL2FyXJyPgaDY_31.008772_-93.278043@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525421,
-    "wof:geomhash":"0469d62e2eb4a5dd3c4bfa2df5115230",
+    "wof:geomhash":"b95a912d155bed59a4a8305f254e7ffc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840275687,
-    "wof:lastmodified":1466542303,
+    "wof:lastmodified":1510696905,
     "wof:name":"Something Different",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840278513,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 Jourdan Ave New Orleans LA 70117",
+    "addr:housenumber":"1318",
+    "addr:postcode":"70117",
+    "addr:street":"Jourdan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.024472,29.966157,-90.024472,29.966157",
     "geom:latitude":29.966157,
     "geom:longitude":-90.024472,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746835,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866089,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
             "region_id":85688735,
             "venue_id":840278513
         }
     ],
     "wof:id":840278513,
-    "wof:lastmodified":1466542260,
+    "wof:lastmodified":1486689083,
     "wof:name":"Cloud's Mini Mart",
-    "wof:parent_id":85866089,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

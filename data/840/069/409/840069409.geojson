@@ -2,14 +2,20 @@
   "id": 840069409,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Breard St Monroe LA 71201",
+    "addr:housenumber":"1001",
+    "addr:postcode":"71201",
+    "addr:street":"Breard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.11085,32.51007,-92.11085,32.51007",
     "geom:latitude":32.51007,
     "geom:longitude":-92.11085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Breard St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125155447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NGV0RPDgHh9AztQi9acUw_32.510070_-92.110850@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520467,
-    "wof:geomhash":"86cc3d844e0c8802f04f5b13bdbded16",
+    "wof:geomhash":"bbbd2ab095c70b507fd11088722c4620",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840069409,
-    "wof:lastmodified":1466540353,
+    "wof:lastmodified":1510696888,
     "wof:name":"Zion Hill Baptist Church",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

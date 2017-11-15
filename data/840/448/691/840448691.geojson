@@ -2,9 +2,14 @@
   "id": 840448691,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 Robert E Lee Blvd New Orleans LA 70122",
+    "addr:housenumber":"2208",
+    "addr:postcode":"70122",
+    "addr:street":"Robert E Lee Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.060501,30.0219,-90.060501,30.0219",
     "geom:latitude":30.0219,
     "geom:longitude":-90.060501,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85834475,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85829223
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,26 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829223,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":840448691
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85834475,
             "region_id":85688735,
             "venue_id":840448691
         }
     ],
     "wof:id":840448691,
-    "wof:lastmodified":1466545359,
+    "wof:lastmodified":1486688192,
     "wof:name":"Checkmate Lounge",
-    "wof:parent_id":85829223,
+    "wof:parent_id":85834475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

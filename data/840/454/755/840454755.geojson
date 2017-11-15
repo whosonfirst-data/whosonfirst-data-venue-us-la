@@ -2,14 +2,20 @@
   "id": 840454755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2638 Derek Dr Lake Charles LA 70607",
+    "addr:housenumber":"2638",
+    "addr:postcode":"70607",
+    "addr:street":"Derek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.174461,30.196773,-93.174461,30.196773",
     "geom:latitude":30.196773,
     "geom:longitude":-93.174461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2638 Derek Dr",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125153581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BApmcvKZ4VHvQyDhjm1N2_30.196773_-93.174461@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533495,
-    "wof:geomhash":"de22f1aa36c36812995e9e44c7c92cea",
+    "wof:geomhash":"483226ecd2fd4464f069aa86cc90657b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840454755,
-    "wof:lastmodified":1466545467,
+    "wof:lastmodified":1510697327,
     "wof:name":"Carino's Italian Grill",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

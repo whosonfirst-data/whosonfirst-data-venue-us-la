@@ -2,14 +2,20 @@
   "id": 840167473,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Knight St Shreveport LA 71105",
+    "addr:housenumber":"3000",
+    "addr:postcode":"71105",
+    "addr:street":"Knight St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.705108,32.481772,-93.705108,32.481772",
     "geom:latitude":32.481772,
     "geom:longitude":-93.705108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3000 Knight St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NbjnPYiIJZwcFC8725Dmj_32.481772_-93.705108@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522597,
-    "wof:geomhash":"33397d64ca0f08086bcaccdc312ac5e0",
+    "wof:geomhash":"fa272571806ee9f596bcfb6100950e2f",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840167473,
-    "wof:lastmodified":1466541202,
+    "wof:lastmodified":1510696927,
     "wof:name":"International Paper Co",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

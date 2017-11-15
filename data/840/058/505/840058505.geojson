@@ -2,9 +2,14 @@
   "id": 840058505,
   "type": "Feature",
   "properties": {
+    "addr:full":"3715 Tchoupitoulas St New Orleans LA 70115",
+    "addr:housenumber":"3715",
+    "addr:postcode":"70115",
+    "addr:street":"Tchoupitoulas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.092979,29.917899,-90.092979,29.917899",
     "geom:latitude":29.917899,
     "geom:longitude":-90.092979,
@@ -28,7 +33,15 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y2079kez3viXBwlWyfG0R_29.917899_-90.092979@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520233,
     "wof:geomhash":"f416d93f43a137db7f77a4f615e950eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840058505
+        }
+    ],
     "wof:id":840058505,
-    "wof:lastmodified":1466540243,
+    "wof:lastmodified":1486689029,
     "wof:name":"Behind The 8 Ball Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

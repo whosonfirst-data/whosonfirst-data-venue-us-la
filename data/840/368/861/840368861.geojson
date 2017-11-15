@@ -2,14 +2,20 @@
   "id": 840368861,
   "type": "Feature",
   "properties": {
+    "addr:full":"58420 Belleview Dr Plaquemine LA 70764",
+    "addr:housenumber":"",
+    "addr:postcode":"58420;70764",
+    "addr:street":"Belleview Dr Plaquemine",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.236854,30.274494,-91.236854,30.274494",
     "geom:latitude":30.274494,
     "geom:longitude":-91.236854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"58420 Belleview Dr",
     "sg:city":"Plaquemine",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082457,
         85852837
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jwEZzbmWmEbMPzdg9aDKg_30.274494_-91.236854@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529822,
-    "wof:geomhash":"3e7b0b4c3a1508e55e852a71744a95d5",
+    "wof:geomhash":"a5c0d40e985f0fb8556364751d611979",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840368861,
-    "wof:lastmodified":1466543790,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85852837,
     "wof:placetype":"venue",

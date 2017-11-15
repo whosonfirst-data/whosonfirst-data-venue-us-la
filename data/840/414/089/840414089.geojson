@@ -2,9 +2,14 @@
   "id": 840414089,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 Jackson Ave New Orleans LA 70130",
+    "addr:housenumber":"733",
+    "addr:postcode":"70130",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.07435,29.927009,-90.07435,29.927009",
     "geom:latitude":29.927009,
     "geom:longitude":-90.07435,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866109,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866109
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866109,
             "region_id":85688735,
             "venue_id":840414089
         }
     ],
     "wof:id":840414089,
-    "wof:lastmodified":1466544668,
+    "wof:lastmodified":1486688588,
     "wof:name":"Christian Home Health Care",
     "wof:parent_id":85866109,
     "wof:placetype":"venue",

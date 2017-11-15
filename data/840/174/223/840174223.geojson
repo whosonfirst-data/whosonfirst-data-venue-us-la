@@ -2,9 +2,14 @@
   "id": 840174223,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 16th St New Orleans LA 70124",
+    "addr:housenumber":"148",
+    "addr:postcode":"70124",
+    "addr:street":"16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.118233,30.002353,-90.118233,30.002353",
     "geom:latitude":30.002353,
     "geom:longitude":-90.118233,
@@ -28,7 +33,15 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42VaOsrE2wtlfeKQs3UeiQ_30.002353_-90.118233@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522776,
     "wof:geomhash":"df52afccc232440470e677020522eaf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840174223
+        }
+    ],
     "wof:id":840174223,
-    "wof:lastmodified":1466541317,
+    "wof:lastmodified":1486689074,
     "wof:name":"Olivier & Associat",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

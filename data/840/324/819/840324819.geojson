@@ -2,14 +2,20 @@
   "id": 840324819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Kaycee Dr Slidell LA 70460",
+    "addr:housenumber":"1",
+    "addr:postcode":"70460",
+    "addr:street":"Kaycee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.80004,30.285625,-89.80004,30.285625",
     "geom:latitude":30.285625,
     "geom:longitude":-89.80004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Kaycee Dr",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082453,
         85810351
     ],
+    "wof:brand_id":1125151831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X1lX2Yrp6uHlIcTG4Q2qh_30.285625_-89.800040@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527716,
-    "wof:geomhash":"0b6983a0c184121b33e0aceff8779325",
+    "wof:geomhash":"c4a89452af6031811dfa22f10a49d396",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840324819,
-    "wof:lastmodified":1466543025,
+    "wof:lastmodified":1510700056,
     "wof:name":"Christian Science Society",
     "wof:parent_id":85810351,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840098965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Jackson Ave New Orleans LA 70113",
+    "addr:housenumber":"2020",
+    "addr:postcode":"70113",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.084767,29.938825,-90.084767,29.938825",
     "geom:latitude":29.938825,
     "geom:longitude":-90.084767,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866121,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866121
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866121,
             "region_id":85688735,
             "venue_id":840098965
         }
     ],
     "wof:id":840098965,
-    "wof:lastmodified":1466540744,
+    "wof:lastmodified":1486686929,
     "wof:name":"New Orleans Registrar-Voters",
     "wof:parent_id":85866121,
     "wof:placetype":"venue",

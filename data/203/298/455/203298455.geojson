@@ -2,9 +2,14 @@
   "id": 203298455,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Tullis Dr New Orleans LA 70131",
+    "addr:housenumber":"5501",
+    "addr:postcode":"70131",
+    "addr:street":"Tullis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.994499,29.9025,-89.994499,29.9025",
     "geom:latitude":29.9025,
     "geom:longitude":-89.994499,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"a132ab0d893c496563c3a366a6c371eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203298455
         }
     ],
     "wof:id":203298455,
-    "wof:lastmodified":1466539388,
+    "wof:lastmodified":1486689091,
     "wof:name":"Riverview Villas",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840067935,
   "type": "Feature",
   "properties": {
+    "addr:full":"4571 Lennox Blvd New Orleans LA 70131",
+    "addr:housenumber":"4571",
+    "addr:postcode":"70131",
+    "addr:street":"Lennox Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007781,29.904504,-90.007781,29.904504",
     "geom:latitude":29.904504,
     "geom:longitude":-90.007781,
@@ -24,7 +29,15 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FnLnbu7curlBU28vv41yD_29.904504_-90.007781@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463520438,
     "wof:geomhash":"3e83290585b7ef2d061ee96582f047b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840067935
+        }
+    ],
     "wof:id":840067935,
-    "wof:lastmodified":1466540420,
+    "wof:lastmodified":1486689097,
     "wof:name":"Chaffers Incorporated",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

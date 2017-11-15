@@ -2,14 +2,20 @@
   "id": 840335579,
   "type": "Feature",
   "properties": {
+    "addr:full":"423 Live Oak St Sulphur LA 70663",
+    "addr:housenumber":"423",
+    "addr:postcode":"70663",
+    "addr:street":"Live Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.376489,30.240902,-93.376489,30.240902",
     "geom:latitude":30.240902,
     "geom:longitude":-93.376489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"423 Live Oak St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IHgtoVhHlm475N4nQ6eVJ_30.240902_-93.376489@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528204,
-    "wof:geomhash":"f74454324ca8c37f483f52ae99550aab",
+    "wof:geomhash":"b9b7b2a587e550272d2d437da5e10cb6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840335579,
-    "wof:lastmodified":1466543201,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

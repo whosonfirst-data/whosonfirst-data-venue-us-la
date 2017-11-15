@@ -2,14 +2,20 @@
   "id": 840152913,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 W Mill St Lake Charles LA 70601",
+    "addr:housenumber":"150",
+    "addr:postcode":"70601",
+    "addr:street":"W Mill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217677,30.231611,-93.217677,30.231611",
     "geom:latitude":30.231611,
     "geom:longitude":-93.217677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 W Mill St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OVlZKE9nfYWOWj41iRzfM_30.231611_-93.217677@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522309,
-    "wof:geomhash":"f44f84ea229c937b11811f4e40607f84",
+    "wof:geomhash":"2e3923cf22d077f27ae63a46cc229c04",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840152913,
-    "wof:lastmodified":1466540813,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

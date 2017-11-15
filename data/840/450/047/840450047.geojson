@@ -2,9 +2,14 @@
   "id": 840450047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3910 Mimosa Dr New Orleans LA 70131",
+    "addr:housenumber":"3910",
+    "addr:postcode":"70131",
+    "addr:street":"Mimosa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.996411,29.903861,-89.996411,29.903861",
     "geom:latitude":29.903861,
     "geom:longitude":-89.996411,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.corporatecityhousing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y1xdx5rXAbK7iALZIP5UT_29.904004_-89.996714@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463533303,
     "wof:geomhash":"d62c89ace7fbe02a3ebb610cbb76867e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840450047
+        }
+    ],
     "wof:id":840450047,
-    "wof:lastmodified":1466545255,
+    "wof:lastmodified":1486689092,
     "wof:name":"Corporate City Housing Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

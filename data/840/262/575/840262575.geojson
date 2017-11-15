@@ -2,9 +2,14 @@
   "id": 840262575,
   "type": "Feature",
   "properties": {
+    "addr:full":"8400 Morrison Rd New Orleans LA 70127",
+    "addr:housenumber":"8400",
+    "addr:postcode":"70127",
+    "addr:street":"Morrison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.993927,30.036573,-89.993927,30.036573",
     "geom:latitude":30.036573,
     "geom:longitude":-89.993927,
@@ -30,7 +35,15 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Nvnn73G2CLh4Etom8Nrqh_30.036573_-89.993927@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463524867,
     "wof:geomhash":"08f136d85682a66afb6eee3ee0240364",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840262575
+        }
+    ],
     "wof:id":840262575,
-    "wof:lastmodified":1466541976,
+    "wof:lastmodified":1486688721,
     "wof:name":"Hollywood Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

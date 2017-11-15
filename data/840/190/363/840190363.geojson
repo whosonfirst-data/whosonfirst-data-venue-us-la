@@ -2,9 +2,14 @@
   "id": 840190363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2818 Monroe St New Orleans LA 70118",
+    "addr:housenumber":"2818",
+    "addr:postcode":"70118",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121839,29.963601,-90.121839,29.963601",
     "geom:latitude":29.963601,
     "geom:longitude":-90.121839,
@@ -30,7 +35,15 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E1zmTcLyBSCDJ9mNQOmA8_29.963601_-90.121839@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463523119,
     "wof:geomhash":"d96acdc24c52b8b8cdbc93843707e40d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840190363
+        }
+    ],
     "wof:id":840190363,
-    "wof:lastmodified":1466541372,
+    "wof:lastmodified":1486689041,
     "wof:name":"Bonnets Drapery",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

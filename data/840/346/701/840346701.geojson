@@ -2,14 +2,20 @@
   "id": 840346701,
   "type": "Feature",
   "properties": {
+    "addr:full":"243 Elizabeth St Many LA 71449",
+    "addr:housenumber":"243",
+    "addr:postcode":"71449",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.488036,31.566332,-93.488036,31.566332",
     "geom:latitude":31.566332,
     "geom:longitude":-93.488036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"243 Elizabeth St",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081409,
         85806377
     ],
+    "wof:brand_id":1125156875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wsqx77SVseB8eEmcSjYXE_31.566332_-93.488036@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528732,
-    "wof:geomhash":"e895755562095b61d9e742a40dfc9dfc",
+    "wof:geomhash":"967b66f40b0fc19394fe275d6f308d0c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840346701,
-    "wof:lastmodified":1466543441,
+    "wof:lastmodified":1510696997,
     "wof:name":"Video Express",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",

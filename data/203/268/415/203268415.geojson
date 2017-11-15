@@ -2,9 +2,14 @@
   "id": 203268415,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 Saint Claude Ave New Orleans LA 70117",
+    "addr:housenumber":"4400",
+    "addr:postcode":"70117",
+    "addr:street":"Saint Claude Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.031443,29.964578,-90.031443,29.964578",
     "geom:latitude":29.964578,
     "geom:longitude":-90.031443,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866089,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"5f9c42264a77364f5cb904f7edb82db8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866089,
             "region_id":85688735,
             "venue_id":203268415
         }
     ],
     "wof:id":203268415,
-    "wof:lastmodified":1466539342,
+    "wof:lastmodified":1486686936,
     "wof:name":"By Water Market",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",

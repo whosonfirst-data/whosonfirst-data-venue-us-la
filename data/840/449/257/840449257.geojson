@@ -2,9 +2,14 @@
   "id": 840449257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1133 Chartres St New Orleans LA 70116",
+    "addr:housenumber":"1133",
+    "addr:postcode":"70116",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.060799,29.9611,-90.060799,29.9611",
     "geom:latitude":29.9611,
     "geom:longitude":-90.060799,
@@ -28,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097,
-        85853777
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866097,
-            "region_id":85688735,
-            "venue_id":840449257
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086693,
-            "locality_id":85948111,
-            "neighbourhood_id":85853777,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840449257
         }
     ],
     "wof:id":840449257,
-    "wof:lastmodified":1466545289,
+    "wof:lastmodified":1486688407,
     "wof:name":"Girod House the",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

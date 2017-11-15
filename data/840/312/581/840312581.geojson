@@ -2,14 +2,20 @@
   "id": 840312581,
   "type": "Feature",
   "properties": {
+    "addr:full":"4403 Canal St New Orleans LA 70119",
+    "addr:housenumber":"4403",
+    "addr:postcode":"70119",
+    "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.104919,29.977656,-90.104919,29.977656",
     "geom:latitude":29.977656,
     "geom:longitude":-90.104919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4403 Canal St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85869483
+        85688735
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BCSDPnSulWTXSkuHNHAuX_29.977656_-90.104919@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527114,
-    "wof:geomhash":"e7f0c9c4c85d1bdfb3424be200fe00c4",
+    "wof:geomhash":"832f9efa4968893960c417b9153170fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840312581
         }
     ],
     "wof:id":840312581,
-    "wof:lastmodified":1466542826,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85869483,
     "wof:placetype":"venue",

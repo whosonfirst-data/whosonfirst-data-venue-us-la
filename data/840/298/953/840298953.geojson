@@ -2,14 +2,20 @@
   "id": 840298953,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 Westwego Ave Bridge City LA 70094",
+    "addr:housenumber":"414",
+    "addr:postcode":"70094",
+    "addr:street":"Westwego Ave Bridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.166579,29.93333,-90.166579,29.93333",
     "geom:latitude":29.93333,
     "geom:longitude":-90.166579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"414 Westwego Ave",
     "sg:city":"Bridge City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125154457,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GebCXZcisuGDQqUUAWn1y_29.933330_-90.166579@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526443,
-    "wof:geomhash":"3e342908b8428a746a03724668cf4c76",
+    "wof:geomhash":"5d539bc01ca296a6572470bdfae8649a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840298953,
-    "wof:lastmodified":1466542267,
+    "wof:lastmodified":1510695919,
     "wof:name":"New Jerusalem Baptist Church",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

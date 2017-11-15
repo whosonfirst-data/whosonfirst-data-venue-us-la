@@ -2,9 +2,14 @@
   "id": 840152753,
   "type": "Feature",
   "properties": {
+    "addr:full":"5008 E Judge Perez Dr Violet LA 70092",
+    "addr:housenumber":"5008",
+    "addr:postcode":"70092",
+    "addr:street":"E Judge Perez Dr Violet La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.905094,29.920761,-89.905094,29.920761",
     "geom:latitude":29.920761,
     "geom:longitude":-89.905094,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"4e64ee0d71014d766d26694d1f8b6013",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840152753,
-    "wof:lastmodified":1466540796,
+    "wof:lastmodified":1491910638,
     "wof:name":"Uniforms For All",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

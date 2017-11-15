@@ -2,9 +2,14 @@
   "id": 203278223,
   "type": "Feature",
   "properties": {
+    "addr:full":"8426 I 10 Service Rd New Orleans LA 70127",
+    "addr:housenumber":"8426;10",
+    "addr:postcode":"70127",
+    "addr:street":"I;Service Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.992699,30.0287,-89.992699,30.0287",
     "geom:latitude":30.0287,
     "geom:longitude":-89.992699,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
+        102191575,
+        1108739495,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"74c950641bdf411bfbd00e6233357116",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":203278223
         }
     ],
     "wof:id":203278223,
-    "wof:lastmodified":1466539356,
+    "wof:lastmodified":1486688260,
     "wof:name":"Sam's Meat Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

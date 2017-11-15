@@ -2,9 +2,14 @@
   "id": 203269873,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Frenchmen St New Orleans LA 70122",
+    "addr:housenumber":"3000",
+    "addr:postcode":"70122",
+    "addr:street":"Frenchmen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.059601,29.988899,-90.059601,29.988899",
     "geom:latitude":29.988899,
     "geom:longitude":-90.059601,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866099,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866099
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"ec90f26d31effb79c71af526f3939896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":203269873
         }
     ],
     "wof:id":203269873,
-    "wof:lastmodified":1466539356,
+    "wof:lastmodified":1486687065,
     "wof:name":"Israelite Divine Spiritual Church",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",

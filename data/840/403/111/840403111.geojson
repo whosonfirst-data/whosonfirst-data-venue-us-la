@@ -2,14 +2,20 @@
   "id": 840403111,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Schuler Dr Bossier City LA 71112",
+    "addr:housenumber":"3200",
+    "addr:postcode":"71112",
+    "addr:street":"Schuler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.686393,32.493018,-93.686393,32.493018",
     "geom:latitude":32.493018,
     "geom:longitude":-93.686393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 Schuler Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125159859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76kigwLismXb7lOnI9PWGY_32.493018_-93.686393@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531347,
-    "wof:geomhash":"6b1cb67bc4435266d3c58a1f261fd082",
+    "wof:geomhash":"c84504a97ac6865acf573ef53c959521",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840403111,
-    "wof:lastmodified":1466544399,
+    "wof:lastmodified":1510696724,
     "wof:name":"First Wesleyan Church",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840163353,
   "type": "Feature",
   "properties": {
+    "addr:full":"6005 Monroe Hwy Ball LA 71405",
+    "addr:housenumber":"6005",
+    "addr:postcode":"71405",
+    "addr:street":"Monroe Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.412214,31.410705,-92.412214,31.410705",
     "geom:latitude":31.410705,
     "geom:longitude":-92.412214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6005 Monroe Hwy",
     "sg:city":"Ball",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125157841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lcBOqDSHAY0w1eAHHpERW_31.410705_-92.412214@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522507,
-    "wof:geomhash":"011bce46ecb9f85931f786d4d9928933",
+    "wof:geomhash":"793202d36d2cd1c722fa77a95fbe5d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840163353,
-    "wof:lastmodified":1466541158,
+    "wof:lastmodified":1510699507,
     "wof:name":"El Rodeo",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

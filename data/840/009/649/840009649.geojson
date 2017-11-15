@@ -2,9 +2,14 @@
   "id": 840009649,
   "type": "Feature",
   "properties": {
+    "addr:full":"4119 Tchoupitoulas St New Orleans LA 70115",
+    "addr:housenumber":"4119",
+    "addr:postcode":"70115",
+    "addr:street":"Tchoupitoulas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.098548,29.917425,-90.098548,29.917425",
     "geom:latitude":29.917425,
     "geom:longitude":-90.098548,
@@ -28,7 +33,15 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wx3nQ7sD6sbYJjv9rKYqg_29.917425_-90.098548@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463519202,
     "wof:geomhash":"c618b446c87724d03677b4f841fda125",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840009649
+        }
+    ],
     "wof:id":840009649,
-    "wof:lastmodified":1466539602,
+    "wof:lastmodified":1486689027,
     "wof:name":"Gulf Coast Blenders Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

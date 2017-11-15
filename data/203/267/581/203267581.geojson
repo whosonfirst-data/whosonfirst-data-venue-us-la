@@ -2,9 +2,14 @@
   "id": 203267581,
   "type": "Feature",
   "properties": {
+    "addr:full":"619 Saint Roch Ave New Orleans LA 70117",
+    "addr:housenumber":"619",
+    "addr:postcode":"70117",
+    "addr:street":"Saint Roch Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051903,29.964199,-90.051903,29.964199",
     "geom:latitude":29.964199,
     "geom:longitude":-90.051903,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85819021
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"6fa272d14a73cfae3984d488755d1024",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85819021,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203267581
         }
     ],
     "wof:id":203267581,
-    "wof:lastmodified":1466539346,
+    "wof:lastmodified":1486688383,
     "wof:name":"Sal's Plumbing & Heating Inc",
-    "wof:parent_id":85819021,
+    "wof:parent_id":85866097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

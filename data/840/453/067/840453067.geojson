@@ -2,14 +2,20 @@
   "id": 840453067,
   "type": "Feature",
   "properties": {
+    "addr:full":"5131 Lapalco Blvd Marrero LA 70072",
+    "addr:housenumber":"5131",
+    "addr:postcode":"70072",
+    "addr:street":"Lapalco Blvd Marrero",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.099496,29.87486,-90.099496,29.87486",
     "geom:latitude":29.87486,
     "geom:longitude":-90.099496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5131 Lapalco Blvd",
     "sg:city":"Marrero",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85866123
     ],
+    "wof:brand_id":1125152851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gXv9L13UngzDAz2qvCMuL_29.874860_-90.099496@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533427,
-    "wof:geomhash":"88ea006e11e13cb71a292ec4f8a0b5ae",
+    "wof:geomhash":"aa5a3c36971449b16bcbf8ad91cdf52e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840453067,
-    "wof:lastmodified":1466545324,
+    "wof:lastmodified":1510613160,
     "wof:name":"Black Angus Steakhouse",
     "wof:parent_id":85866123,
     "wof:placetype":"venue",

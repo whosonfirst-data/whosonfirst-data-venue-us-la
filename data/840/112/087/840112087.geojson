@@ -2,9 +2,14 @@
   "id": 840112087,
   "type": "Feature",
   "properties": {
+    "addr:full":"246 Harbor Cir New Orleans LA 70126",
+    "addr:housenumber":"246",
+    "addr:postcode":"70126",
+    "addr:street":"Harbor Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.029918,30.029546,-90.029918,30.029546",
     "geom:latitude":30.029546,
     "geom:longitude":-90.029918,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.harveypress.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oCQ1dxW6XG9bi0c1httdJ_30.029546_-90.029918@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463521469,
     "wof:geomhash":"ba05e108d63ce222de94631208f85bac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840112087
+        }
+    ],
     "wof:id":840112087,
-    "wof:lastmodified":1466540770,
+    "wof:lastmodified":1486687804,
     "wof:name":"Harvey Press Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

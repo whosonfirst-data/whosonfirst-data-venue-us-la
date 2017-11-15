@@ -2,9 +2,14 @@
   "id": 840403801,
   "type": "Feature",
   "properties": {
+    "addr:full":"4721 Eastview Dr New Orleans LA 70126",
+    "addr:housenumber":"4721",
+    "addr:postcode":"70126",
+    "addr:street":"Eastview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.992644,30.020764,-89.992644,30.020764",
     "geom:latitude":30.020764,
     "geom:longitude":-89.992644,
@@ -27,7 +32,15 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866169,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lbgnshm99yR3dON5nn7vx_30.020764_-89.992644@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463531373,
     "wof:geomhash":"e7511e5adef3005306f0af1b5fb13df4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840403801
+        }
+    ],
     "wof:id":840403801,
-    "wof:lastmodified":1466544625,
+    "wof:lastmodified":1486688735,
     "wof:name":"Allum's Billing Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

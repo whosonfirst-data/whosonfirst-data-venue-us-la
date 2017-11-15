@@ -2,14 +2,20 @@
   "id": 840223463,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 Fire Tower Rd Plain Dealing LA 71064",
+    "addr:housenumber":"716",
+    "addr:postcode":"71064",
+    "addr:street":"Fire Tower Rd Plain",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.600513,32.851169,-93.600513,32.851169",
     "geom:latitude":32.851169,
     "geom:longitude":-93.600513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"716 Fire Tower Rd",
     "sg:city":"Plain Dealing",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85808045,
         102084883
     ],
+    "wof:brand_id":1125156399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vJtXjjhAfAWmVnt8Xhhcn_32.851169_-93.600513@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523911,
-    "wof:geomhash":"378b3ff4644d7d8ab57732319a00bccc",
+    "wof:geomhash":"3019ca4d28e8312f4ff394d8a852f623",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840223463,
-    "wof:lastmodified":1466541824,
+    "wof:lastmodified":1510699929,
     "wof:name":"Galilee Baptist Church",
     "wof:parent_id":85808045,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840446465,
   "type": "Feature",
   "properties": {
+    "addr:full":"668 Distributors Row New Orleans LA 70123",
+    "addr:housenumber":"668",
+    "addr:postcode":"70123",
+    "addr:street":"Distributors Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.189408,29.955636,-90.189408,29.955636",
     "geom:latitude":29.955636,
     "geom:longitude":-90.189408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"668 Distributors Row",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WZ3rN7NIN0KgyDKovcFyi_29.955636_-90.189408@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533144,
-    "wof:geomhash":"f2d6a898ed3ab2fe125e7dbab5638c64",
+    "wof:geomhash":"9ffaff0760abb0169338ba3664359803",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840446465,
-    "wof:lastmodified":1466545319,
+    "wof:lastmodified":1510694072,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

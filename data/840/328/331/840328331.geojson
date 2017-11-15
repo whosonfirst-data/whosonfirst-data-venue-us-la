@@ -2,9 +2,14 @@
   "id": 840328331,
   "type": "Feature",
   "properties": {
+    "addr:full":"5640 Hempstead Rd New Orleans LA 70127",
+    "addr:housenumber":"5640",
+    "addr:postcode":"70127",
+    "addr:street":"Hempstead Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.984153,30.027177,-89.984153,30.027177",
     "geom:latitude":30.027177,
     "geom:longitude":-89.984153,
@@ -28,7 +33,15 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855781,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pzmndiim2fXQ7jre6yoiX_30.027177_-89.984153@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463527871,
     "wof:geomhash":"2251bc6a75661e1ee7d2601b5f3b9f7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
+            "region_id":85688735,
+            "venue_id":840328331
+        }
+    ],
     "wof:id":840328331,
-    "wof:lastmodified":1466543067,
+    "wof:lastmodified":1486688247,
     "wof:name":"One Day Tax",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

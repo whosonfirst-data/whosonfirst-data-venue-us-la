@@ -2,14 +2,20 @@
   "id": 840289019,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Sterlington Rd Monroe LA 71203",
+    "addr:housenumber":"800",
+    "addr:postcode":"71203",
+    "addr:street":"Sterlington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.080689,32.52989,-92.080689,32.52989",
     "geom:latitude":32.52989,
     "geom:longitude":-92.080689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Sterlington Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qj77Qo73baKfzFrRhqgM0_32.529890_-92.080689@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526024,
-    "wof:geomhash":"42ff5a1ba64cf90310c25fbb2773b9b4",
+    "wof:geomhash":"c8857e3ed5416e9b0becd4bb0ed990d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840289019,
-    "wof:lastmodified":1466542370,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

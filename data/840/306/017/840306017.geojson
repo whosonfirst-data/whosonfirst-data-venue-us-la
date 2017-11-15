@@ -2,14 +2,20 @@
   "id": 840306017,
   "type": "Feature",
   "properties": {
+    "addr:full":"2617 Corbitt St Shreveport LA 71108",
+    "addr:housenumber":"2617",
+    "addr:postcode":"71108",
+    "addr:street":"Corbitt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.779973,32.46371,-93.779973,32.46371",
     "geom:latitude":32.46371,
     "geom:longitude":-93.779973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2617 Corbitt St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85881005
     ],
+    "wof:brand_id":1125159323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VSfdq0JsESPhZpn4tVFEd_32.463710_-93.779973@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526812,
-    "wof:geomhash":"796671c3975de502735a91c6af8bbe31",
+    "wof:geomhash":"60ab853b94fdca15cf3620860acbce1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840306017,
-    "wof:lastmodified":1466542655,
+    "wof:lastmodified":1510697462,
     "wof:name":"New Light Baptist Church",
     "wof:parent_id":85881005,
     "wof:placetype":"venue",

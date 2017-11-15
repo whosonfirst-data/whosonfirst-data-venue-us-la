@@ -2,9 +2,14 @@
   "id": 203292317,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 Chartres St New Orleans LA 70130",
+    "addr:housenumber":"328",
+    "addr:postcode":"70130",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066438,29.95448,-90.066438,29.95448",
     "geom:latitude":29.95448,
     "geom:longitude":-90.066438,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c35d3444d2624098f4995590640d4b5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203292317
         }
     ],
     "wof:id":203292317,
-    "wof:lastmodified":1466539375,
+    "wof:lastmodified":1486686716,
     "wof:name":"Victoria's Designer Shoes",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

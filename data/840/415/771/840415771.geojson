@@ -2,14 +2,20 @@
   "id": 840415771,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 Winnsboro Rd Monroe LA 71202",
+    "addr:housenumber":"1425",
+    "addr:postcode":"71202",
+    "addr:street":"Winnsboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.08761,32.484712,-92.08761,32.484712",
     "geom:latitude":32.484712,
     "geom:longitude":-92.08761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1425 Winnsboro Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125156495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59w5S4QAn7bzQM4wxFVbuW_32.484712_-92.087610@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531859,
-    "wof:geomhash":"0ece2a105a9a94fbdefe979d81591bd2",
+    "wof:geomhash":"ea48c671c1c52dd01280453ec72969ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840415771,
-    "wof:lastmodified":1466544719,
+    "wof:lastmodified":1510693938,
     "wof:name":"U S Nails",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

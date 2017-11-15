@@ -2,9 +2,14 @@
   "id": 840367799,
   "type": "Feature",
   "properties": {
+    "addr:full":"9630 Hayne Blvd New Orleans LA 70127",
+    "addr:housenumber":"9630",
+    "addr:postcode":"70127",
+    "addr:street":"Hayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.987386,30.047567,-89.987386,30.047567",
     "geom:latitude":30.047567,
     "geom:longitude":-89.987386,
@@ -29,7 +34,15 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tlFnjuXib0GHffvDafy5I_30.047567_-89.987386@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463529768,
     "wof:geomhash":"3149c7c5c5cb2fbd0f6f40a12df7f119",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840367799
+        }
+    ],
     "wof:id":840367799,
-    "wof:lastmodified":1466543777,
+    "wof:lastmodified":1486688724,
     "wof:name":"Nazareth Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

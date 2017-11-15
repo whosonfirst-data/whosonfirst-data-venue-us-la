@@ -2,14 +2,20 @@
   "id": 840114313,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Preston Blvd Bossier City LA 71111",
+    "addr:housenumber":"309",
+    "addr:postcode":"71111",
+    "addr:street":"Preston Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.712191,32.518757,-93.712191,32.518757",
     "geom:latitude":32.518757,
     "geom:longitude":-93.712191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"309 Preston Blvd",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125150945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dBohogB2DKWTkZAnS6paj_32.518757_-93.712191@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521518,
-    "wof:geomhash":"9d03963086e7a77f8b52ed467a9dad4b",
+    "wof:geomhash":"7f34d10351e13004d58bb71b7eadad1a",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840114313,
-    "wof:lastmodified":1466540802,
+    "wof:lastmodified":1510693714,
     "wof:name":"LA Quinta Inn",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

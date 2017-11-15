@@ -2,14 +2,20 @@
   "id": 840373889,
   "type": "Feature",
   "properties": {
+    "addr:full":"1822 Forsythe Ave Monroe LA 71201",
+    "addr:housenumber":"1822",
+    "addr:postcode":"71201",
+    "addr:street":"Forsythe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.115718,32.529771,-92.115718,32.529771",
     "geom:latitude":32.529771,
     "geom:longitude":-92.115718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1822 Forsythe Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125151367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15gUcMBSzWDCOkgSrzse4Z_32.529771_-92.115718@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530076,
-    "wof:geomhash":"211aba3601bfed37804d65cc507a01ba",
+    "wof:geomhash":"13c0db956a19372a839975550c7552ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840373889,
-    "wof:lastmodified":1466543918,
+    "wof:lastmodified":1510696777,
     "wof:name":"Jade Garden",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

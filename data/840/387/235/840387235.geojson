@@ -2,14 +2,20 @@
   "id": 840387235,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 State Rte 14 Lake Charles LA 70601",
+    "addr:housenumber":"3030",
+    "addr:postcode":"70601",
+    "addr:street":"State Rte 14",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.180124,30.19824,-93.180124,30.19824",
     "geom:latitude":30.19824,
     "geom:longitude":-93.180124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3030 State Rte 14",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wJmNMG0ab3E9hlYSgIyyc_30.198240_-93.180124@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530679,
-    "wof:geomhash":"3e2b69b01399ceb14d5aa3bfe3c21ca7",
+    "wof:geomhash":"2000b8458a71875e2f20fa05753a0cb8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840387235,
-    "wof:lastmodified":1466544243,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

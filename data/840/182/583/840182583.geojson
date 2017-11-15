@@ -2,14 +2,20 @@
   "id": 840182583,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 E Arkansas Ave Vivian LA 71082",
+    "addr:housenumber":"117",
+    "addr:postcode":"71082",
+    "addr:street":"E Arkansas Ave Vivian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.985877,32.871035,-93.985877,32.871035",
     "geom:latitude":32.871035,
     "geom:longitude":-93.985877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 E Arkansas Ave",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85825193
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wdUfZst302WBiGBIbKK0s_32.871035_-93.985877@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522971,
-    "wof:geomhash":"2f49f016bde8208536929709521bce80",
+    "wof:geomhash":"8d72f60877e25d1bda181325a2338ffe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840182583,
-    "wof:lastmodified":1466541285,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840050439,
   "type": "Feature",
   "properties": {
+    "addr:full":"4666 Haydel St New Orleans LA 70126",
+    "addr:housenumber":"4666",
+    "addr:postcode":"70126",
+    "addr:street":"Haydel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.01179,30.016077,-90.01179,30.016077",
     "geom:latitude":30.016077,
     "geom:longitude":-90.01179,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866169,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85866169,
             "region_id":85688735,
             "venue_id":840050439
         }
     ],
     "wof:id":840050439,
-    "wof:lastmodified":1466540111,
+    "wof:lastmodified":1486687803,
     "wof:name":"Digitech Security Co",
     "wof:parent_id":85866169,
     "wof:placetype":"venue",

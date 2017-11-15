@@ -2,9 +2,14 @@
   "id": 840313291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1441 Poland Ave New Orleans LA 70117",
+    "addr:housenumber":"1441",
+    "addr:postcode":"70117",
+    "addr:street":"Poland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.030238,29.968322,-90.030238,29.968322",
     "geom:latitude":29.968322,
     "geom:longitude":-90.030238,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866089,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866089,
             "region_id":85688735,
             "venue_id":840313291
         }
     ],
     "wof:id":840313291,
-    "wof:lastmodified":1466543315,
+    "wof:lastmodified":1486688361,
     "wof:name":"Smith Cleaning Svc",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",

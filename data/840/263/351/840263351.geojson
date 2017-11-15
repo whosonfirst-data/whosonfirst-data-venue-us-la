@@ -2,9 +2,14 @@
   "id": 840263351,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 Elysian Fields Ave New Orleans LA 70117",
+    "addr:housenumber":"1715",
+    "addr:postcode":"70117",
+    "addr:street":"Elysian Fields Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.05711,29.975506,-90.05711,29.975506",
     "geom:latitude":29.975506,
     "geom:longitude":-90.05711,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866099,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866099
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":840263351
         }
     ],
     "wof:id":840263351,
-    "wof:lastmodified":1466541953,
+    "wof:lastmodified":1486688394,
     "wof:name":"Linda's Hip Hop Auto Paint Shp",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",

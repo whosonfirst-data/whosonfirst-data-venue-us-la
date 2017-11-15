@@ -2,9 +2,14 @@
   "id": 840057301,
   "type": "Feature",
   "properties": {
+    "addr:full":"11030 Chef Menteur Hwy New Orleans LA 70127",
+    "addr:housenumber":"11030",
+    "addr:postcode":"70127",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.958854,30.020754,-89.958854,30.020754",
     "geom:latitude":30.020754,
     "geom:longitude":-89.958854,
@@ -28,7 +33,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ElcLMBe3zPAvLetYMCqCK_30.020754_-89.958854@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520207,
     "wof:geomhash":"6b5a9ccf6e3ab23db8a3fb684715f95d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840057301
+        }
+    ],
     "wof:id":840057301,
-    "wof:lastmodified":1466540206,
+    "wof:lastmodified":1486688865,
     "wof:name":"PDR Auto Sales & Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

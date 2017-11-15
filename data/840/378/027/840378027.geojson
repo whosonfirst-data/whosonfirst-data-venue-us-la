@@ -2,14 +2,20 @@
   "id": 840378027,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Industrial Pkwy Lafayette LA 70508",
+    "addr:housenumber":"150",
+    "addr:postcode":"70508",
+    "addr:street":"Industrial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.009428,30.18569,-92.009428,30.18569",
     "geom:latitude":30.18569,
     "geom:longitude":-92.009428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Industrial Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85841585
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zLU8dsfNho9hmSMC2OzCk_30.185690_-92.009428@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530267,
-    "wof:geomhash":"102dfc6ce5909cafd99306ae1e8eb8aa",
+    "wof:geomhash":"c25b4d2a5add5350b36cd194ca3381d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840378027,
-    "wof:lastmodified":1466543859,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

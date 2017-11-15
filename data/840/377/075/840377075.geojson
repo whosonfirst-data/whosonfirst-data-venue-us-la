@@ -2,14 +2,20 @@
   "id": 840377075,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Norcross St Bossier City LA 71111",
+    "addr:housenumber":"210",
+    "addr:postcode":"71111",
+    "addr:street":"Norcross St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.721843,32.566314,-93.721843,32.566314",
     "geom:latitude":32.566314,
     "geom:longitude":-93.721843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Norcross St",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85808045,
         102084883
     ],
+    "wof:brand_id":1125153637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bTtmLCafOCTbLHgZI0Fuj_32.566314_-93.721843@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530225,
-    "wof:geomhash":"38f4b8564a367dc156d7f7c7844d751c",
+    "wof:geomhash":"7307fa49932cd596cc3589e886145ec2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840377075,
-    "wof:lastmodified":1466543869,
+    "wof:lastmodified":1510695775,
     "wof:name":"Progressive Insurance",
     "wof:parent_id":85808045,
     "wof:placetype":"venue",

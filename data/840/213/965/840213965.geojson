@@ -2,9 +2,14 @@
   "id": 840213965,
   "type": "Feature",
   "properties": {
+    "addr:full":"7531 Endeavors Ct New Orleans LA 70129",
+    "addr:housenumber":"7531",
+    "addr:postcode":"70129",
+    "addr:street":"Endeavors Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.926083,30.062659,-89.926083,30.062659",
     "geom:latitude":30.062659,
     "geom:longitude":-89.926083,
@@ -24,7 +29,15 @@
     "sg:postcode":"70129",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dowPMu7AVISDci1NaNvZ7_30.062659_-89.926083@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463523704,
     "wof:geomhash":"0e8f15abb2600cb01d25961523ff74f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840213965
+        }
+    ],
     "wof:id":840213965,
-    "wof:lastmodified":1466541640,
+    "wof:lastmodified":1486688229,
     "wof:name":"Hunter Enterprise",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

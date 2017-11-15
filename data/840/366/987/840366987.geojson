@@ -2,9 +2,14 @@
   "id": 840366987,
   "type": "Feature",
   "properties": {
+    "addr:full":"5818 Perrier St New Orleans LA 70115",
+    "addr:housenumber":"5818",
+    "addr:postcode":"70115",
+    "addr:street":"Perrier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11876,29.925289,-90.11876,29.925289",
     "geom:latitude":29.925289,
     "geom:longitude":-90.11876,
@@ -35,7 +40,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11XtT1LuG17lZjT84JJmor_29.925289_-90.118760@1294127638"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1463529735,
     "wof:geomhash":"01ea72684ed7a30aa80872ef03ccd599",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840366987
+        }
+    ],
     "wof:id":840366987,
-    "wof:lastmodified":1466543813,
+    "wof:lastmodified":1486688662,
     "wof:name":"L Ecole Maternelle Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

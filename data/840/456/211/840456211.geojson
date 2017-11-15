@@ -2,14 +2,20 @@
   "id": 840456211,
   "type": "Feature",
   "properties": {
+    "addr:full":"2511 Beene Blvd Bossier City LA 71111",
+    "addr:housenumber":"2511",
+    "addr:postcode":"71111",
+    "addr:street":"Beene Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.714857,32.559707,-93.714857,32.559707",
     "geom:latitude":32.559707,
     "geom:longitude":-93.714857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2511 Beene Blvd",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084883,
         85822769
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SiPGwvuwMu1CgouqJGgjV_32.559707_-93.714857@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533546,
-    "wof:geomhash":"9f657cf4424036219419ab8304f6209a",
+    "wof:geomhash":"e95acb39b8bcc68b51fda2e4d2d9bd12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840456211,
-    "wof:lastmodified":1466545342,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85822769,
     "wof:placetype":"venue",

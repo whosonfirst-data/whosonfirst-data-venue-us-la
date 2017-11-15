@@ -2,14 +2,20 @@
   "id": 840287669,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Time Saver Ave New Orleans LA 70123",
+    "addr:housenumber":"620",
+    "addr:postcode":"70123",
+    "addr:street":"Saver Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.195726,29.945766,-90.195726,29.945766",
     "geom:latitude":29.945766,
     "geom:longitude":-90.195726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 Time Saver Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125151467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_659lHkXdHFFqMy7U7c24CA_29.945766_-90.195726@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525971,
-    "wof:geomhash":"3d76c0cc33af25343a0de692212781ca",
+    "wof:geomhash":"86d0e8a98b3ff2d76f79206ce668fa3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840287669,
-    "wof:lastmodified":1466542586,
+    "wof:lastmodified":1510613180,
     "wof:name":"Consolidated Electrical Distr",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

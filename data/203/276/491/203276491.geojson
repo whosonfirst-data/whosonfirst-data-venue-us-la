@@ -2,9 +2,14 @@
   "id": 203276491,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"4010",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.043408,30.002606,-90.043408,30.002606",
     "geom:latitude":30.002606,
     "geom:longitude":-90.043408,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"2258ec38e972c1d60c915c52b72f8568",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85821299,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203276491
         }
     ],
     "wof:id":203276491,
-    "wof:lastmodified":1466539356,
+    "wof:lastmodified":1486688345,
     "wof:name":"Family Beauty Supply",
-    "wof:parent_id":85821299,
+    "wof:parent_id":85866087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

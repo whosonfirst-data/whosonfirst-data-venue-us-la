@@ -2,9 +2,14 @@
   "id": 840288199,
   "type": "Feature",
   "properties": {
+    "addr:full":"9000 Green St New Orleans LA 70118",
+    "addr:housenumber":"9000",
+    "addr:postcode":"70118",
+    "addr:street":"Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.134307,29.957635,-90.134307,29.957635",
     "geom:latitude":29.957635,
     "geom:longitude":-90.134307,
@@ -27,7 +32,17 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        85891225,
+        85866143
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PiqQIwQlTjx7IqvqPQDZ2_29.957635_-90.134307@1294127638"
@@ -35,11 +50,42 @@
     "wof:country":"US",
     "wof:created":1463525991,
     "wof:geomhash":"2910934c5f7645f7f1611320d3ef8b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840288199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85891225,
+            "region_id":85688735,
+            "venue_id":840288199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866143,
+            "region_id":85688735,
+            "venue_id":840288199
+        }
+    ],
     "wof:id":840288199,
-    "wof:lastmodified":1466542399,
+    "wof:lastmodified":1491860858,
     "wof:name":"Jerry's Grocery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

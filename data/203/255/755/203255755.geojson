@@ -2,9 +2,14 @@
   "id": 203255755,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 St. Peter St New Orleans LA 70116",
+    "addr:housenumber":"500",
+    "addr:postcode":"70116",
+    "addr:street":"St.;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.062809,29.956694,-90.062809,29.956694",
     "geom:latitude":29.956694,
     "geom:longitude":-90.062809,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"4383e93bcdc4a0f794c1e5809809ee9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203255755
         }
     ],
     "wof:id":203255755,
-    "wof:lastmodified":1466539330,
+    "wof:lastmodified":1486688421,
     "wof:name":"The Corner Oyster House",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

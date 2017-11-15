@@ -2,9 +2,14 @@
   "id": 840342543,
   "type": "Feature",
   "properties": {
+    "addr:full":"1407 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"1407",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.127328,29.949269,-90.127328,29.949269",
     "geom:latitude":29.949269,
     "geom:longitude":-90.127328,
@@ -27,7 +32,15 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rpEqK7uLKM9IMzucs167f_29.949269_-90.127328@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463528533,
     "wof:geomhash":"88f4038076056cc3fca6e23531773d28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840342543
+        }
+    ],
     "wof:id":840342543,
-    "wof:lastmodified":1466543428,
+    "wof:lastmodified":1486689017,
     "wof:name":"Kathmann & Chaney",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

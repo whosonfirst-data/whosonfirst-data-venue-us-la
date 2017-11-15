@@ -2,9 +2,14 @@
   "id": 840437897,
   "type": "Feature",
   "properties": {
+    "addr:full":"7190 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"7190",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.024137,30.024935,-90.024137,30.024935",
     "geom:latitude":30.024935,
     "geom:longitude":-90.024137,
@@ -29,7 +34,15 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u6awftdubd578VZF5hK7R_30.024935_-90.024137@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463532801,
     "wof:geomhash":"6bec7e7970f1faed4513e8d09b3b3cd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840437897
+        }
+    ],
     "wof:id":840437897,
-    "wof:lastmodified":1466545172,
+    "wof:lastmodified":1486687600,
     "wof:name":"Clipper",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

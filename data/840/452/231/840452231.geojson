@@ -2,14 +2,20 @@
   "id": 840452231,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Ryder Dr Pineville LA 71360",
+    "addr:housenumber":"518",
+    "addr:postcode":"71360",
+    "addr:street":"Ryder Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.421424,31.374722,-92.421424,31.374722",
     "geom:latitude":31.374722,
     "geom:longitude":-92.421424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 Ryder Dr",
     "sg:city":"Pineville",
     "sg:classifiers":[],
@@ -31,13 +37,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125156475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DndyFBqbxFVqWM2Z2n10J_31.374722_-92.421424@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533392,
-    "wof:geomhash":"747091a6baaa51dbe4a049975f1b6589",
+    "wof:geomhash":"7e06d13e0c46511814dd437a6c43e859",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840452231,
-    "wof:lastmodified":1466545204,
+    "wof:lastmodified":1510696791,
     "wof:name":"Safety-Kleen Corp",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

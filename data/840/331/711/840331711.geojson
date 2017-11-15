@@ -2,9 +2,14 @@
   "id": 840331711,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 Cypress Dr Meraux LA 70075",
+    "addr:housenumber":"2208",
+    "addr:postcode":"70075",
+    "addr:street":"Cypress Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.927024,29.932631,-89.927024,29.932631",
     "geom:latitude":29.932631,
     "geom:longitude":-89.927024,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -44,6 +50,7 @@
     "wof:geomhash":"4a220809b5b8fd4beaa7723c5ca3d628",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840331711,
-    "wof:lastmodified":1466543227,
+    "wof:lastmodified":1491910636,
     "wof:name":"A Merry Minstrel Stripper",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

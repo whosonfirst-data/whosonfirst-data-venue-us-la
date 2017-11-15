@@ -2,9 +2,14 @@
   "id": 840336557,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Archbishop Philip M Hannan Blvd Meraux LA 70075",
+    "addr:housenumber":"2501",
+    "addr:postcode":"70075",
+    "addr:street":"Archbishop Philip M Hannan Blvd Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.922895,29.934371,-89.922895,29.934371",
     "geom:latitude":29.934371,
     "geom:longitude":-89.922895,
@@ -34,6 +39,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -48,6 +54,7 @@
     "wof:geomhash":"02c72d1876a70eff7a96d3ae0404d683",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840336557,
-    "wof:lastmodified":1466543198,
+    "wof:lastmodified":1491910638,
     "wof:name":"Archbishop Hannan High School",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

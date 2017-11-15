@@ -2,14 +2,20 @@
   "id": 203186145,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Westbank Expy Gretna LA 70053",
+    "addr:housenumber":"15",
+    "addr:postcode":"70053",
+    "addr:street":"Westbank Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.043484,29.921353,-90.043484,29.921353",
     "geom:latitude":29.921353,
     "geom:longitude":-90.043484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Westbank Expy",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -40,12 +46,13 @@
         102083179,
         85885345
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LTOZvaMuUazzo8OD5JWMr_29.921353_-90.043484@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"0fa54e80157c27e6e94c873db6afee67",
+    "wof:geomhash":"a0b79939b36f2206e7c2deda54e7b95a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":203186145,
-    "wof:lastmodified":1466540973,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

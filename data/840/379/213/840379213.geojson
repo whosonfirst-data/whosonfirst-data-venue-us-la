@@ -2,14 +2,20 @@
   "id": 840379213,
   "type": "Feature",
   "properties": {
+    "addr:full":"2490 W Congress St Lafayette LA 70506",
+    "addr:housenumber":"2490",
+    "addr:postcode":"70506",
+    "addr:street":"W Congress St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.051639,30.210681,-92.051639,30.210681",
     "geom:latitude":30.210681,
     "geom:longitude":-92.051639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2490 W Congress St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":420575635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qs4eBY22qXKYdyYdJdWPL_30.210681_-92.051639@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530313,
-    "wof:geomhash":"4a0b697babe44d98dd20ef9e72415bbc",
+    "wof:geomhash":"6631e5f746266b0349a3a98d32dd7a97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840379213,
-    "wof:lastmodified":1466543897,
+    "wof:lastmodified":1510602487,
     "wof:name":"Fred's Store",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

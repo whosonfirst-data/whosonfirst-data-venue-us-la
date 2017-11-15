@@ -2,9 +2,14 @@
   "id": 203265973,
   "type": "Feature",
   "properties": {
+    "addr:full":"907 Deslonde St New Orleans LA 70117",
+    "addr:housenumber":"907",
+    "addr:postcode":"70117",
+    "addr:street":"Deslonde St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.024902,29.9611,-90.024902,29.9611",
     "geom:latitude":29.9611,
     "geom:longitude":-90.024902,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746821,
+        102191575,
+        1108739491,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"e173d431fede87c05547422678691e32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746821,
             "region_id":85688735,
             "venue_id":203265973
         }
     ],
     "wof:id":203265973,
-    "wof:lastmodified":1466539350,
+    "wof:lastmodified":1486689045,
     "wof:name":"Amozion Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

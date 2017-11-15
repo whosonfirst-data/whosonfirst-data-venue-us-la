@@ -2,9 +2,14 @@
   "id": 840135421,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Audubon St New Orleans LA 70118",
+    "addr:housenumber":"500",
+    "addr:postcode":"70118",
+    "addr:street":"Audubon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.127153,29.935401,-90.127153,29.935401",
     "geom:latitude":29.935401,
     "geom:longitude":-90.127153,
@@ -30,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739503,
+        85866131,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85823083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85823083,
+            "macrohood_id":1108739491,
+            "microhood_id":1108739503,
+            "neighbourhood_id":85866131,
             "region_id":85688735,
             "venue_id":840135421
         }
     ],
     "wof:id":840135421,
-    "wof:lastmodified":1466541024,
+    "wof:lastmodified":1486689124,
     "wof:name":"Rosen Properties",
-    "wof:parent_id":85823083,
+    "wof:parent_id":1108739503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

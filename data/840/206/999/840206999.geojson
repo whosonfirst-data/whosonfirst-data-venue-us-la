@@ -2,9 +2,14 @@
   "id": 840206999,
   "type": "Feature",
   "properties": {
+    "addr:full":"7979 Almonaster Ave New Orleans LA 70126",
+    "addr:housenumber":"7979",
+    "addr:postcode":"70126",
+    "addr:street":"Almonaster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.992679,30.008432,-89.992679,30.008432",
     "geom:latitude":30.008432,
     "geom:longitude":-89.992679,
@@ -28,7 +33,15 @@
         "wrecking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VCCa5YBgvo32UbRLFdzEV_30.008432_-89.992679@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463523569,
     "wof:geomhash":"42c6c1099ea4de7e36fac1da9e42b61e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840206999
+        }
+    ],
     "wof:id":840206999,
-    "wof:lastmodified":1466541633,
+    "wof:lastmodified":1486688854,
     "wof:name":"Almonaster Auto Salvage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

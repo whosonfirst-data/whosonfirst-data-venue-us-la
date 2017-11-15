@@ -2,9 +2,14 @@
   "id": 840064279,
   "type": "Feature",
   "properties": {
+    "addr:full":"6504 Selma St New Orleans LA 70126",
+    "addr:housenumber":"6504",
+    "addr:postcode":"70126",
+    "addr:street":"Selma St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.011667,30.015525,-90.011667,30.015525",
     "geom:latitude":30.015525,
     "geom:longitude":-90.011667,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866169,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85866169,
             "region_id":85688735,
             "venue_id":840064279
         }
     ],
     "wof:id":840064279,
-    "wof:lastmodified":1466540231,
+    "wof:lastmodified":1486687678,
     "wof:name":"PWT/3 Shirley's Soul Food",
     "wof:parent_id":85866169,
     "wof:placetype":"venue",

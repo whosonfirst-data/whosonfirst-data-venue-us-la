@@ -2,9 +2,14 @@
   "id": 840001525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1340 Poydras St New Orleans LA 70112",
+    "addr:housenumber":"1340",
+    "addr:postcode":"70112",
+    "addr:street":"Poydras St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077974,29.951771,-90.077974,29.951771",
     "geom:latitude":29.951771,
     "geom:longitude":-90.077974,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840001525
         }
     ],
     "wof:id":840001525,
-    "wof:lastmodified":1466539596,
+    "wof:lastmodified":1486688556,
     "wof:name":"New Orleans Mun Investigations",
     "wof:parent_id":85866107,
     "wof:placetype":"venue",

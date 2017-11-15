@@ -2,9 +2,14 @@
   "id": 840360795,
   "type": "Feature",
   "properties": {
+    "addr:full":"7070 Pinebrook Dr New Orleans LA 70128",
+    "addr:housenumber":"7070",
+    "addr:postcode":"70128",
+    "addr:street":"Pinebrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.945368,30.057948,-89.945368,30.057948",
     "geom:latitude":30.057948,
     "geom:longitude":-89.945368,
@@ -24,7 +29,16 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739507,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F0fmFcHThganpNL9Zmwet_30.057948_-89.945368@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463529421,
     "wof:geomhash":"567699c4d551a4986dccc69db4bf6f50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739507,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840360795
+        }
+    ],
     "wof:id":840360795,
-    "wof:lastmodified":1466543722,
+    "wof:lastmodified":1486689128,
     "wof:name":"Thomas & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

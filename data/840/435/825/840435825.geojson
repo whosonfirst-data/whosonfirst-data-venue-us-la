@@ -2,9 +2,14 @@
   "id": 840435825,
   "type": "Feature",
   "properties": {
+    "addr:full":"9384 Chef Menteur Hwy New Orleans LA 70127",
+    "addr:housenumber":"9384",
+    "addr:postcode":"70127",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.976792,30.016488,-89.976792,30.016488",
     "geom:latitude":30.016488,
     "geom:longitude":-89.976792,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739489,
+        85866171,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866171
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739489,
             "neighbourhood_id":85866171,
             "region_id":85688735,
             "venue_id":840435825
         }
     ],
     "wof:id":840435825,
-    "wof:lastmodified":1466545159,
+    "wof:lastmodified":1486689120,
     "wof:name":"Outer Space Cleaners",
-    "wof:parent_id":85866171,
+    "wof:parent_id":1108739489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

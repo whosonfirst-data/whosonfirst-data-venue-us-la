@@ -2,9 +2,14 @@
   "id": 840428967,
   "type": "Feature",
   "properties": {
+    "addr:full":"1807 Burdette St New Orleans LA 70118",
+    "addr:housenumber":"1807",
+    "addr:postcode":"70118",
+    "addr:street":"Burdette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121966,29.950188,-90.121966,29.950188",
     "geom:latitude":29.950188,
     "geom:longitude":-90.121966,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54jupmdkZnNPk3sb3TXyKh_29.950188_-90.121966@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463532398,
     "wof:geomhash":"ba607ce4bdb3af444f08485313ec0abc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840428967
+        }
+    ],
     "wof:id":840428967,
-    "wof:lastmodified":1466545231,
+    "wof:lastmodified":1486689023,
     "wof:name":"Institute of Reading Dev",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

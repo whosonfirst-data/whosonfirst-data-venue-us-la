@@ -2,9 +2,14 @@
   "id": 840321571,
   "type": "Feature",
   "properties": {
+    "addr:full":"1544 N Claiborne Ave New Orleans LA 70116",
+    "addr:housenumber":"1544",
+    "addr:postcode":"70116",
+    "addr:street":"N Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066761,29.970933,-90.066761,29.970933",
     "geom:latitude":29.970933,
     "geom:longitude":-90.066761,
@@ -27,7 +32,16 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VMYbv3G9q17uvK19o9sbH_29.970933_-90.066761@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463527529,
     "wof:geomhash":"965d2315c1d4a30c832f50fe084fc983",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840321571
+        }
+    ],
     "wof:id":840321571,
-    "wof:lastmodified":1466542973,
+    "wof:lastmodified":1486689215,
     "wof:name":"Akeem's Food Store Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 203310733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1928 Moss St Lafayette LA 70501",
+    "addr:housenumber":"1928",
+    "addr:postcode":"70501",
+    "addr:street":"Moss St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.005501,30.249901,-92.005501,30.249901",
     "geom:latitude":30.249901,
     "geom:longitude":-92.005501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1928 Moss St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125150923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51zpZXweaOskYsTIMlM8nN_30.249901_-92.005501@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"9011083f8a0b21c09882517d7d197db4",
+    "wof:geomhash":"a6b08a5d4d8567ded24319e4857981a6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":203310733,
-    "wof:lastmodified":1466539409,
+    "wof:lastmodified":1510694582,
     "wof:name":"Modern Nails",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

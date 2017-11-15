@@ -2,14 +2,20 @@
   "id": 840412555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Hudson Ln Monroe LA 71201",
+    "addr:housenumber":"1300",
+    "addr:postcode":"71201",
+    "addr:street":"Hudson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.113446,32.515141,-92.113446,32.515141",
     "geom:latitude":32.515141,
     "geom:longitude":-92.113446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Hudson Ln",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125151903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E2zMOceNXYNopBsvoLJjL_32.515141_-92.113446@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531721,
-    "wof:geomhash":"72e3e5d578a9d8383d7b126bc02657d1",
+    "wof:geomhash":"faf9a4900926b2853e75f6a59e6a6054",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840412555,
-    "wof:lastmodified":1466544778,
+    "wof:lastmodified":1510697316,
     "wof:name":"Muscular Dystrophy Assn",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

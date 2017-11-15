@@ -2,9 +2,14 @@
   "id": 840371081,
   "type": "Feature",
   "properties": {
+    "addr:full":"7917 Sycamore St New Orleans LA 70118",
+    "addr:housenumber":"7917",
+    "addr:postcode":"70118",
+    "addr:street":"Sycamore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121113,29.953612,-90.121113,29.953612",
     "geom:latitude":29.953612,
     "geom:longitude":-90.121113,
@@ -27,7 +32,15 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866137,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4igxysZbSiRCYkaZJi4G8R_29.953612_-90.121113@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463529943,
     "wof:geomhash":"10dab0d4f56762d6ed655fd7c7ee111e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866137,
+            "region_id":85688735,
+            "venue_id":840371081
+        }
+    ],
     "wof:id":840371081,
-    "wof:lastmodified":1466543771,
+    "wof:lastmodified":1486688680,
     "wof:name":"Ladd Ad Man",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

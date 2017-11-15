@@ -2,9 +2,14 @@
   "id": 203259549,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 St. Peter St New Orleans LA 70116",
+    "addr:housenumber":"621",
+    "addr:postcode":"70116",
+    "addr:street":"St.;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064294,29.957706,-90.064294,29.957706",
     "geom:latitude":29.957706,
     "geom:longitude":-90.064294,
@@ -30,11 +35,13 @@
     "sg:website":"www.ladivinagelateria.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"0c1e449fc5e1d240186ae8cada7ecf42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203259549
         }
     ],
     "wof:id":203259549,
-    "wof:lastmodified":1466539332,
+    "wof:lastmodified":1486688420,
     "wof:name":"La Divina Cafe e Gelateria",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

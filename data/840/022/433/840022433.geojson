@@ -2,14 +2,20 @@
   "id": 840022433,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 10th St Glenmora LA 71433",
+    "addr:housenumber":"805",
+    "addr:postcode":"71433",
+    "addr:street":"10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.581076,30.972934,-92.581076,30.972934",
     "geom:latitude":30.972934,
     "geom:longitude":-92.581076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"805 10th St",
     "sg:city":"Glenmora",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125154885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cBSwUDADwaDIpTzUjqG5O_30.972934_-92.581076@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519457,
-    "wof:geomhash":"83129bb2575825ba5525018703161e26",
+    "wof:geomhash":"7c2e3f9bd7907107aa0d0cb3d004804b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840022433,
-    "wof:lastmodified":1466539816,
+    "wof:lastmodified":1510697716,
     "wof:name":"Harmony Baptist Church",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

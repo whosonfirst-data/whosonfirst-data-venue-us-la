@@ -2,9 +2,14 @@
   "id": 203281473,
   "type": "Feature",
   "properties": {
+    "addr:full":"5552 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"5552",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.971198,30.030125,-89.971198,30.030125",
     "geom:latitude":30.030125,
     "geom:longitude":-89.971198,
@@ -31,11 +36,13 @@
     "sg:website":"nops.k12.la.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85891213
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"2ffd28e4d4d3566a1bbbb581b7e249f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891213,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":203281473
         }
     ],
     "wof:id":203281473,
-    "wof:lastmodified":1466539363,
+    "wof:lastmodified":1486688254,
     "wof:name":"Orleans Parish School Board",
-    "wof:parent_id":85891213,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

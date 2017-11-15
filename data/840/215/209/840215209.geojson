@@ -2,9 +2,14 @@
   "id": 840215209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1128 S Lopez St New Orleans LA 70125",
+    "addr:housenumber":"1128",
+    "addr:postcode":"70125",
+    "addr:street":"S Lopez St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.101613,29.95709,-90.101613,29.95709",
     "geom:latitude":29.95709,
     "geom:longitude":-90.101613,
@@ -29,7 +34,16 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746753,
+        85866077,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BEh2muuFKWl0XgJGqtPdc_29.957090_-90.101613@1294127638"
@@ -37,11 +51,23 @@
     "wof:country":"US",
     "wof:created":1463523733,
     "wof:geomhash":"a8b42cc3efd28b8102dadf8b92f77de2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746753,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840215209
+        }
+    ],
     "wof:id":840215209,
-    "wof:lastmodified":1466541560,
+    "wof:lastmodified":1486689230,
     "wof:name":"Standard Glass & Mirror Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

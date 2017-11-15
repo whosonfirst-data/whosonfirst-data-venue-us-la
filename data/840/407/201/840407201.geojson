@@ -2,14 +2,20 @@
   "id": 840407201,
   "type": "Feature",
   "properties": {
+    "addr:full":"1709 N Galvez St New Orleans LA 70119",
+    "addr:housenumber":"1709",
+    "addr:postcode":"70119",
+    "addr:street":"N Galvez St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.067895,29.978061,-90.067895,29.978061",
     "geom:latitude":29.978061,
     "geom:longitude":-90.067895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1709 N Galvez St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -25,33 +31,36 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866083,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866083
+        85688735
     ],
+    "wof:brand_id":1125156463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0y6y5Ji6YuCkJZxy8s3tm8_29.978061_-90.067895@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531504,
-    "wof:geomhash":"066398faf93973629dd60013e13c3686",
+    "wof:geomhash":"07d9e6379094dc6d623efce03b76c805",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866083,
             "region_id":85688735,
             "venue_id":840407201
         }
     ],
     "wof:id":840407201,
-    "wof:lastmodified":1466544542,
+    "wof:lastmodified":1510699332,
     "wof:name":"Rally's Hamburgers Inc",
     "wof:parent_id":85866083,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840254129,
   "type": "Feature",
   "properties": {
+    "addr:full":"5171 Northeast Rd Monroe LA 71203",
+    "addr:housenumber":"5171",
+    "addr:postcode":"71203",
+    "addr:street":"Northeast Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.047591,32.512318,-92.047591,32.512318",
     "geom:latitude":32.512318,
     "geom:longitude":-92.047591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5171 Northeast Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AwXvGIIsWYOayLXitPuQO_32.512318_-92.047591@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524702,
-    "wof:geomhash":"436549512d814bb7ca65bac48bc96d9d",
+    "wof:geomhash":"0d4330c9723de35600fdb7214f7c67fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840254129,
-    "wof:lastmodified":1466541908,
+    "wof:lastmodified":1510602600,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

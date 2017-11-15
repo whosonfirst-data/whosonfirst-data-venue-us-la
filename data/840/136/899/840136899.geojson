@@ -2,9 +2,14 @@
   "id": 840136899,
   "type": "Feature",
   "properties": {
+    "addr:full":"6539 Bellaire Dr New Orleans LA 70124",
+    "addr:housenumber":"6539",
+    "addr:postcode":"70124",
+    "addr:street":"Bellaire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.120995,30.011128,-90.120995,30.011128",
     "geom:latitude":30.011128,
     "geom:longitude":-90.120995,
@@ -27,7 +32,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_594c9NrnBE5ObeztNhNZWB_30.011128_-90.120995@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463521989,
     "wof:geomhash":"8b1abfd6c8d85fe27f9cf664df5028dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840136899
+        }
+    ],
     "wof:id":840136899,
-    "wof:lastmodified":1466541114,
+    "wof:lastmodified":1486689068,
     "wof:name":"Schramm Drywall",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

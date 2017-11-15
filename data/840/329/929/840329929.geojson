@@ -2,14 +2,20 @@
   "id": 840329929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1920 W Sale Rd Lake Charles LA 70605",
+    "addr:housenumber":"1920",
+    "addr:postcode":"70605",
+    "addr:street":"W Sale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.252719,30.183452,-93.252719,30.183452",
     "geom:latitude":30.183452,
     "geom:longitude":-93.252719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1920 W Sale Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125151735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MVetoMMXfGA4q6Sa2oPhC_30.183452_-93.252719@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527944,
-    "wof:geomhash":"5b3710218a8222f87525cafb578e1767",
+    "wof:geomhash":"55dae05d5d8ca17cfc5fc12186ebb038",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840329929,
-    "wof:lastmodified":1466543271,
+    "wof:lastmodified":1510698806,
     "wof:name":"Internal Medicine Assoc",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

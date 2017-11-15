@@ -2,9 +2,14 @@
   "id": 840150419,
   "type": "Feature",
   "properties": {
+    "addr:full":"9435 Stroelitz St New Orleans LA 70118",
+    "addr:housenumber":"9435",
+    "addr:postcode":"70118",
+    "addr:street":"Stroelitz St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121389,29.974047,-90.121389,29.974047",
     "geom:latitude":29.974047,
     "geom:longitude":-90.121389,
@@ -29,7 +34,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wUFQ5NqU16uThdZqC9SVC_29.974047_-90.121389@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463522249,
     "wof:geomhash":"2a8f5313cc2f83b86b2ba6c6fb39a4d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840150419
+        }
+    ],
     "wof:id":840150419,
-    "wof:lastmodified":1466540568,
+    "wof:lastmodified":1486689042,
     "wof:name":"In-Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

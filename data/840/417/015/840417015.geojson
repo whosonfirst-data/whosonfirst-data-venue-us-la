@@ -2,14 +2,20 @@
   "id": 840417015,
   "type": "Feature",
   "properties": {
+    "addr:full":"772 Professional Dr N Shreveport LA 71105",
+    "addr:housenumber":"772",
+    "addr:postcode":"71105",
+    "addr:street":"Professional Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.725897,32.414721,-93.725897,32.414721",
     "geom:latitude":32.414721,
     "geom:longitude":-93.725897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"772 Professional Dr N",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iPyU3LWMv8Tjkw6g7cvRg_32.414721_-93.725897@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531905,
-    "wof:geomhash":"659308b0c9df0ebbbb86023833f71abf",
+    "wof:geomhash":"53a0a9c9247477fede33bf668de46b28",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840417015,
-    "wof:lastmodified":1466544736,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

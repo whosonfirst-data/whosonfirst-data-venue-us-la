@@ -2,14 +2,20 @@
   "id": 203244131,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 Behrman Pl New Orleans LA 70114",
+    "addr:housenumber":"4021",
+    "addr:postcode":"70114",
+    "addr:street":"Behrman Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.018365,29.90754,-90.018365,29.90754",
     "geom:latitude":29.90754,
     "geom:longitude":-90.018365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4021 Behrman Pl",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -31,32 +37,37 @@
     "sg:website":"www.itsfashion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
+    "wof:brand_id":1125155261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hEHyxINXPZzYJQ6B83ofB_29.907540_-90.018365@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"24a273bded01b0f86309a981ca871f67",
+    "wof:geomhash":"3e72ad889f4150a65d19165c86115133",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203244131
         }
     ],
     "wof:id":203244131,
-    "wof:lastmodified":1466539303,
+    "wof:lastmodified":1510699741,
     "wof:name":"It's Fashion",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

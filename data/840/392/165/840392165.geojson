@@ -2,14 +2,20 @@
   "id": 840392165,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Westmark Blvd Lafayette LA 70506",
+    "addr:housenumber":"201",
+    "addr:postcode":"70506",
+    "addr:street":"Westmark Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.074979,30.184396,-92.074979,30.184396",
     "geom:latitude":30.184396,
     "geom:longitude":-92.074979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Westmark Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125153215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fVHCuIznWMOhOm5s1ET0k_30.184396_-92.074979@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530885,
-    "wof:geomhash":"b9aebdb9ac347a56ece68f63a615abd7",
+    "wof:geomhash":"06e1eb4c8ae8837cc6a79f7800478653",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840392165,
-    "wof:lastmodified":1466544219,
+    "wof:lastmodified":1510693768,
     "wof:name":"Diamond Nails",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

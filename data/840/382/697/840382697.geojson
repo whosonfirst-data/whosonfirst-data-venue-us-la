@@ -2,9 +2,14 @@
   "id": 840382697,
   "type": "Feature",
   "properties": {
+    "addr:full":"5241 E Idlewood Ct New Orleans LA 70128",
+    "addr:housenumber":"5241",
+    "addr:postcode":"70128",
+    "addr:street":"E Idlewood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.955667,30.032159,-89.955667,30.032159",
     "geom:latitude":30.032159,
     "geom:longitude":-89.955667,
@@ -24,7 +29,16 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739505,
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00l79Rq3q6pLCZMB3EmqPD_30.032159_-89.955667@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463530479,
     "wof:geomhash":"eb0302663f42427707e706fa9e6b331d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739505,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840382697
+        }
+    ],
     "wof:id":840382697,
-    "wof:lastmodified":1466544086,
+    "wof:lastmodified":1486689128,
     "wof:name":"Sureway Petro Oil Chem Distrs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

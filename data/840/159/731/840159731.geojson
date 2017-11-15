@@ -2,9 +2,14 @@
   "id": 840159731,
   "type": "Feature",
   "properties": {
+    "addr:full":"3510 Rue Delphine New Orleans LA 70131",
+    "addr:housenumber":"3510",
+    "addr:postcode":"70131",
+    "addr:street":"Rue Delphine",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.000506,29.913601,-90.000506,29.913601",
     "geom:latitude":29.913601,
     "geom:longitude":-90.000506,
@@ -24,7 +29,17 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746733,
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MpJIAyzyDAjfscEA88y7C_29.913601_-90.000506@1294127638"
@@ -32,11 +47,34 @@
     "wof:country":"US",
     "wof:created":1463522442,
     "wof:geomhash":"b44c6d110cd229eb734733620cb139d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840159731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840159731
+        }
+    ],
     "wof:id":840159731,
-    "wof:lastmodified":1466541130,
+    "wof:lastmodified":1486689197,
     "wof:name":"Partridge Tree",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

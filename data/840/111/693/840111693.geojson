@@ -2,14 +2,20 @@
   "id": 840111693,
   "type": "Feature",
   "properties": {
+    "addr:full":"3740 Florida Ave Kenner LA 70065",
+    "addr:housenumber":"3740",
+    "addr:postcode":"70065",
+    "addr:street":"Florida Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.239953,30.02453,-90.239953,30.02453",
     "geom:latitude":30.02453,
     "geom:longitude":-90.239953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3740 Florida Ave",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125159971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cE5M0w8vfc5Zp84bYeqeA_30.024530_-90.239953@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521462,
-    "wof:geomhash":"b882b8d3cd099b1ad74d6c069576ae40",
+    "wof:geomhash":"25a32ea4010fd5e9c63ecd62ee13f2ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840111693,
-    "wof:lastmodified":1466540824,
+    "wof:lastmodified":1510698870,
     "wof:name":"Orkin Exterminating Co Inc",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

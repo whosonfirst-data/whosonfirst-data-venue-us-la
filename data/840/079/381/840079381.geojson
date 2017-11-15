@@ -2,9 +2,14 @@
   "id": 840079381,
   "type": "Feature",
   "properties": {
+    "addr:full":"90 Marywood Ct New Orleans LA 70128",
+    "addr:housenumber":"90",
+    "addr:postcode":"70128",
+    "addr:street":"Marywood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.968789,30.05005,-89.968789,30.05005",
     "geom:latitude":30.05005,
     "geom:longitude":-89.968789,
@@ -27,7 +32,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A5s12mI8t2e6J0B5ugCsp_30.050050_-89.968789@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463520668,
     "wof:geomhash":"e6f4903c18d0fe102756e26dc83168c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840079381
+        }
+    ],
     "wof:id":840079381,
-    "wof:lastmodified":1466540483,
+    "wof:lastmodified":1486688731,
     "wof:name":"Educentral LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

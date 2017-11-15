@@ -2,9 +2,14 @@
   "id": 840445013,
   "type": "Feature",
   "properties": {
+    "addr:full":"6610 Curran Blvd New Orleans LA 70126",
+    "addr:housenumber":"6610",
+    "addr:postcode":"70126",
+    "addr:street":"Curran Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.016238,30.03292,-90.016238,30.03292",
     "geom:latitude":30.03292,
     "geom:longitude":-90.016238,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746741,
+        85866167,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85847541
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85847541,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746741,
+            "neighbourhood_id":85866167,
             "region_id":85688735,
             "venue_id":840445013
         }
     ],
     "wof:id":840445013,
-    "wof:lastmodified":1466545060,
+    "wof:lastmodified":1486689220,
     "wof:name":"Clifton Jewelers",
-    "wof:parent_id":85847541,
+    "wof:parent_id":1108746741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

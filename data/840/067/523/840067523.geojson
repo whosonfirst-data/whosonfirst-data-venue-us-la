@@ -2,9 +2,14 @@
   "id": 840067523,
   "type": "Feature",
   "properties": {
+    "addr:full":"4915 Freret St New Orleans LA 70115",
+    "addr:housenumber":"4915",
+    "addr:postcode":"70115",
+    "addr:street":"Freret St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.108228,29.935019,-90.108228,29.935019",
     "geom:latitude":29.935019,
     "geom:longitude":-90.108228,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866127,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866127
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866127,
             "region_id":85688735,
             "venue_id":840067523
         }
     ],
     "wof:id":840067523,
-    "wof:lastmodified":1466540364,
+    "wof:lastmodified":1486687145,
     "wof:name":"Kenneth Robin's Defensive",
     "wof:parent_id":85866127,
     "wof:placetype":"venue",

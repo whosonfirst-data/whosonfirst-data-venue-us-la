@@ -2,14 +2,20 @@
   "id": 840273275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1898 Garrett Rd Monroe LA 71202",
+    "addr:housenumber":"1898",
+    "addr:postcode":"71202",
+    "addr:street":"Garrett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.05494,32.485619,-92.05494,32.485619",
     "geom:latitude":32.485619,
     "geom:longitude":-92.05494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1898 Garrett Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125155157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jq7OfRiESDkFB5M1jQwff_32.485619_-92.054940@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525323,
-    "wof:geomhash":"d940e0a3ab19e241d73f5a16b1273e5e",
+    "wof:geomhash":"2bdbfec570a0ad3cb95b7428bc5f3593",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840273275,
-    "wof:lastmodified":1466542122,
+    "wof:lastmodified":1510697623,
     "wof:name":"Maranatha Baptist Church",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

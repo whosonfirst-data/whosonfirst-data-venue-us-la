@@ -2,9 +2,14 @@
   "id": 840451565,
   "type": "Feature",
   "properties": {
+    "addr:full":"3549 General Meyer Ave New Orleans LA 70114",
+    "addr:housenumber":"3549",
+    "addr:postcode":"70114",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019302,29.939199,-90.019302,29.939199",
     "geom:latitude":29.939199,
     "geom:longitude":-90.019302,
@@ -27,7 +32,15 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746805,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xI0DKaLIDyhdEYyaS3SjP_29.939011_-90.019301@1293134755"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463533366,
     "wof:geomhash":"46b13819bc9cfbabb201cf6529479880",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
+            "region_id":85688735,
+            "venue_id":840451565
+        }
+    ],
     "wof:id":840451565,
-    "wof:lastmodified":1466545445,
+    "wof:lastmodified":1486688989,
     "wof:name":"Family Food Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

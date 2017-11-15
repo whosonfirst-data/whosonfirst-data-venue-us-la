@@ -2,14 +2,20 @@
   "id": 840381141,
   "type": "Feature",
   "properties": {
+    "addr:full":"3617 Cypress St West Monroe LA 71291",
+    "addr:housenumber":"3617",
+    "addr:postcode":"71291",
+    "addr:street":"Cypress St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.164844,32.517151,-92.164844,32.517151",
     "geom:latitude":32.517151,
     "geom:longitude":-92.164844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3617 Cypress St",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125152133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5myn1ImEhPh7SVzFOvC6LN_32.517151_-92.164844@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530395,
-    "wof:geomhash":"86f22f254f84f876e55c0159e8766e4a",
+    "wof:geomhash":"475e394ed467211367555b744c1864cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840381141,
-    "wof:lastmodified":1466543956,
+    "wof:lastmodified":1510695267,
     "wof:name":"Cingular Wireless LLC",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

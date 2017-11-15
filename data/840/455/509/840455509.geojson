@@ -2,14 +2,20 @@
   "id": 840455509,
   "type": "Feature",
   "properties": {
+    "addr:full":"7438 Corporate Blvd Baton Rouge LA 70809",
+    "addr:housenumber":"7438",
+    "addr:postcode":"70809",
+    "addr:street":"Corporate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.113488,30.430572,-91.113488,30.430572",
     "geom:latitude":30.430572,
     "geom:longitude":-91.113488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7438 Corporate Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087229,
         85827391
     ],
+    "wof:brand_id":1125152521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n6Q73cvk6R9SAzgdIHBiM_30.430572_-91.113488@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533521,
-    "wof:geomhash":"8d321324a87bddc27d13dd10a553457b",
+    "wof:geomhash":"b92d82c94e7feda84dcd27ac2880b7f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840455509,
-    "wof:lastmodified":1466545455,
+    "wof:lastmodified":1510698920,
     "wof:name":"Dickey's Barbecue Pit",
     "wof:parent_id":85827391,
     "wof:placetype":"venue",

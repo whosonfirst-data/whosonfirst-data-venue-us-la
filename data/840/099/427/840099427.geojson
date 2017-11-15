@@ -2,9 +2,14 @@
   "id": 840099427,
   "type": "Feature",
   "properties": {
+    "addr:full":"7601 Expedition Dr New Orleans LA 70129",
+    "addr:housenumber":"7601",
+    "addr:postcode":"70129",
+    "addr:street":"Expedition Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.926839,30.064007,-89.926839,30.064007",
     "geom:latitude":30.064007,
     "geom:longitude":-89.926839,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LbN4qyAC0IP9h8iRHmLTp_30.064007_-89.926839@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463521198,
     "wof:geomhash":"298c0ab561f1df862cf8520c4ef65ba8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840099427
+        }
+    ],
     "wof:id":840099427,
-    "wof:lastmodified":1466540695,
+    "wof:lastmodified":1486688227,
     "wof:name":"Dang Painter Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

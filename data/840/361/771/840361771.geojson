@@ -2,14 +2,20 @@
   "id": 840361771,
   "type": "Feature",
   "properties": {
+    "addr:full":"3213 17th St Metairie LA 70002",
+    "addr:housenumber":"3213",
+    "addr:postcode":"70002",
+    "addr:street":"17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.157854,30.009341,-90.157854,30.009341",
     "geom:latitude":30.009341,
     "geom:longitude":-90.157854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3213 17th St",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125151845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kAAwIyk284QHnLABUNfCL_30.009341_-90.157854@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529465,
-    "wof:geomhash":"0e670de3045bc81c8de3b2886e68f1c8",
+    "wof:geomhash":"d1851c629f2366d7702ec199bafd9dab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840361771,
-    "wof:lastmodified":1466543696,
+    "wof:lastmodified":1510697629,
     "wof:name":"Joseph A Bank Clothiers",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

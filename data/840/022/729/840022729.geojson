@@ -2,9 +2,14 @@
   "id": 840022729,
   "type": "Feature",
   "properties": {
+    "addr:full":"9301 Lake Forest Blvd New Orleans LA 70127",
+    "addr:housenumber":"9301",
+    "addr:postcode":"70127",
+    "addr:street":"Lake Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.984104,30.028956,-89.984104,30.028956",
     "geom:latitude":30.028956,
     "geom:longitude":-89.984104,
@@ -29,7 +34,15 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855781,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P0MlMqFCUAj3HuPHVME6p_30.028956_-89.984104@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463519462,
     "wof:geomhash":"1fcffda8b338e06528682dc920f5b774",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
+            "region_id":85688735,
+            "venue_id":840022729
+        }
+    ],
     "wof:id":840022729,
-    "wof:lastmodified":1466539854,
+    "wof:lastmodified":1486688247,
     "wof:name":"US Marine Corps Recruiting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

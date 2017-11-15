@@ -2,14 +2,20 @@
   "id": 840301633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1027 Glenwood Dr West Monroe LA 71291",
+    "addr:housenumber":"1027",
+    "addr:postcode":"71291",
+    "addr:street":"Glenwood Dr West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.150222,32.501797,-92.150222,32.501797",
     "geom:latitude":32.501797,
     "geom:longitude":-92.150222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1027 Glenwood Dr",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26V4YFWsNrDQ6c04oz4yQW_32.501797_-92.150222@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526598,
-    "wof:geomhash":"99fb06ab9785db38c5307e7a956c93e3",
+    "wof:geomhash":"5dc23fc429393a93c02e5d8a2c211c6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840301633,
-    "wof:lastmodified":1466542771,
+    "wof:lastmodified":1510602609,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840111935,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Henry Clay Ave New Orleans LA 70118",
+    "addr:housenumber":"200",
+    "addr:postcode":"70118",
+    "addr:street":"Henry Clay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.126986,29.917682,-90.126986,29.917682",
     "geom:latitude":29.917682,
     "geom:longitude":-90.126986,
@@ -28,7 +33,15 @@
         "interest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3349ngvmpsHcpatf1UBYwo_29.917682_-90.126986@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463521467,
     "wof:geomhash":"4cc8fadb672a59aae3cc0d33bc1af2f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840111935
+        }
+    ],
     "wof:id":840111935,
-    "wof:lastmodified":1466540848,
+    "wof:lastmodified":1486689106,
     "wof:name":"Childrens Hospital Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840176429,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 Breard St Monroe LA 71201",
+    "addr:housenumber":"810",
+    "addr:postcode":"71201",
+    "addr:street":"Breard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.112613,32.508835,-92.112613,32.508835",
     "geom:latitude":32.508835,
     "geom:longitude":-92.112613,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"810 Breard St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125150907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c4VLBrZdCTP9PlnOxwrju_32.508835_-92.112613@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522837,
-    "wof:geomhash":"c74a9eebf7309ee94c9ff79a39d001ec",
+    "wof:geomhash":"d0cf7d03beb2fbbab8b6c926225d1739",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840176429,
-    "wof:lastmodified":1466541260,
+    "wof:lastmodified":1510696730,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

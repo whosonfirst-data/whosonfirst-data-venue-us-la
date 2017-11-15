@@ -2,9 +2,14 @@
   "id": 840349677,
   "type": "Feature",
   "properties": {
+    "addr:full":"2434 Saint Charles Ave New Orleans LA 70130",
+    "addr:housenumber":"2434",
+    "addr:postcode":"70130",
+    "addr:street":"Saint Charles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.083122,29.932394,-90.083122,29.932394",
     "geom:latitude":29.932394,
     "geom:longitude":-90.083122,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821037,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821037
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821037,
             "region_id":85688735,
             "venue_id":840349677
         }
     ],
     "wof:id":840349677,
-    "wof:lastmodified":1466543392,
+    "wof:lastmodified":1486688148,
     "wof:name":"2434 Condominium Assn",
     "wof:parent_id":85821037,
     "wof:placetype":"venue",

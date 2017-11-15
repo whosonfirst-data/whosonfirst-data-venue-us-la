@@ -2,14 +2,20 @@
   "id": 840032849,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Airport Blvd Lake Charles LA 70607",
+    "addr:housenumber":"500",
+    "addr:postcode":"70607",
+    "addr:street":"Airport Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.219935,30.122857,-93.219935,30.122857",
     "geom:latitude":30.122857,
     "geom:longitude":-93.219935,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Airport Blvd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125153727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h1HCukToQcfmpqjiRuc96_30.122857_-93.219935@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519691,
-    "wof:geomhash":"cc8fedee627173916fd1e3cc9a5918f1",
+    "wof:geomhash":"f4fc80243eaf16bceca1188f1466c1a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840032849,
-    "wof:lastmodified":1466539979,
+    "wof:lastmodified":1510695747,
     "wof:name":"System Support Center",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

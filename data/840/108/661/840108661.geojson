@@ -2,9 +2,14 @@
   "id": 840108661,
   "type": "Feature",
   "properties": {
+    "addr:full":"7449 Strathmore Dr New Orleans LA 70128",
+    "addr:housenumber":"7449",
+    "addr:postcode":"70128",
+    "addr:street":"Strathmore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.962929,30.051228,-89.962929,30.051228",
     "geom:latitude":30.051228,
     "geom:longitude":-89.962929,
@@ -25,12 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739509,
+        85866167,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866173
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866173,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739509,
+            "neighbourhood_id":85866167,
             "region_id":85688735,
             "venue_id":840108661
         }
     ],
     "wof:id":840108661,
-    "wof:lastmodified":1466540766,
+    "wof:lastmodified":1486689130,
     "wof:name":"Trudis Sch of Dance",
-    "wof:parent_id":85866173,
+    "wof:parent_id":1108739509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

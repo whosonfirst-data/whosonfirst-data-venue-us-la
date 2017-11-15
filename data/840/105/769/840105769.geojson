@@ -2,14 +2,20 @@
   "id": 840105769,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Liberty Ave Lafayette LA 70508",
+    "addr:housenumber":"103",
+    "addr:postcode":"70508",
+    "addr:street":"Liberty Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.040471,30.159871,-92.040471,30.159871",
     "geom:latitude":30.159871,
     "geom:longitude":-92.040471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Liberty Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":420574895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09Oyk9YI5aQxIXRtYAyi20_30.159871_-92.040471@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521349,
-    "wof:geomhash":"05f6a6d0ca41344f850a4f745517f7dc",
+    "wof:geomhash":"24f9a9a187978e6d3be2aaa696794e39",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840105769,
-    "wof:lastmodified":1466540748,
+    "wof:lastmodified":1510603902,
     "wof:name":"Terminix International Co",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

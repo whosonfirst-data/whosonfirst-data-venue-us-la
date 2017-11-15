@@ -2,9 +2,14 @@
   "id": 840345855,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Laharpe St New Orleans LA 70116",
+    "addr:housenumber":"1701",
+    "addr:postcode":"70116",
+    "addr:street":"Laharpe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.068215,29.97311,-90.068215,29.97311",
     "geom:latitude":29.97311,
     "geom:longitude":-90.068215,
@@ -24,7 +29,16 @@
     "sg:postcode":"70116",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74xC61UQfqCOU49Oi2mAjb_29.973110_-90.068215@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463528695,
     "wof:geomhash":"f8fa4aae34b65686962148223c615b35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840345855
+        }
+    ],
     "wof:id":840345855,
-    "wof:lastmodified":1466543365,
+    "wof:lastmodified":1486689207,
     "wof:name":"Mule's Restaurant & Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

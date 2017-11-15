@@ -2,14 +2,20 @@
   "id": 203326351,
   "type": "Feature",
   "properties": {
+    "addr:full":"3341 Highway 90 E Broussard LA 70518",
+    "addr:housenumber":"3341",
+    "addr:postcode":"70518",
+    "addr:street":"Highway 90 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.974497,30.164968,-91.974497,30.164968",
     "geom:latitude":30.164968,
     "geom:longitude":-91.974497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3341 Highway 90 E",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -62,12 +68,13 @@
         102081919,
         85841585
     ],
+    "wof:brand_id":1125157135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kCr34WqQ1RNzjtq78gjyS_30.164968_-91.974497@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"af15974700780e635a215e19efcf2bcc",
+    "wof:geomhash":"e6ee95392a40e0e7ff66af85e67f67e3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -80,7 +87,7 @@
         }
     ],
     "wof:id":203326351,
-    "wof:lastmodified":1466539430,
+    "wof:lastmodified":1510613441,
     "wof:name":"City Electric Supply Co",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

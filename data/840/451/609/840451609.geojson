@@ -2,9 +2,14 @@
   "id": 840451609,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Silver Maple Ct New Orleans LA 70131",
+    "addr:housenumber":"3501",
+    "addr:postcode":"70131",
+    "addr:street":"Silver Maple Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.99896,29.902423,-89.99896,29.902423",
     "geom:latitude":29.902423,
     "geom:longitude":-89.99896,
@@ -22,7 +27,15 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZEDGsbrXl0oRYT9EVuk0Z_29.902423_-89.998960@1294127638"
@@ -30,11 +43,22 @@
     "wof:country":"US",
     "wof:created":1463533367,
     "wof:geomhash":"0e4f894e4be56c910692ba9a9263cbfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840451609
+        }
+    ],
     "wof:id":840451609,
-    "wof:lastmodified":1466545446,
+    "wof:lastmodified":1486689095,
     "wof:name":"Bilbrey Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

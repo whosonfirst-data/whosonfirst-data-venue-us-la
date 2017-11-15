@@ -2,9 +2,14 @@
   "id": 840192271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 Magazine St New Orleans LA 70130",
+    "addr:housenumber":"2216",
+    "addr:postcode":"70130",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077543,29.929006,-90.077543,29.929006",
     "geom:latitude":29.929006,
     "geom:longitude":-90.077543,
@@ -27,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85831571,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nDWAZDAG5UUepFNs8tyqq_29.929006_-90.077543@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463523153,
     "wof:geomhash":"6ee7331f5531972270fbc66fcb574b2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85831571,
+            "region_id":85688735,
+            "venue_id":840192271
+        }
+    ],
     "wof:id":840192271,
-    "wof:lastmodified":1466541364,
+    "wof:lastmodified":1486688176,
     "wof:name":"John Arthur Eaves Law Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

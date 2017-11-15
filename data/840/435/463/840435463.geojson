@@ -2,14 +2,20 @@
   "id": 840435463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Many St Bossier City LA 71112",
+    "addr:housenumber":"1015",
+    "addr:postcode":"71112",
+    "addr:street":"Many St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.711583,32.510622,-93.711583,32.510622",
     "geom:latitude":32.510622,
     "geom:longitude":-93.711583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1015 Many St",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125157687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bt4fySBVceLnS6vTIOaJw_32.510622_-93.711583@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532707,
-    "wof:geomhash":"f6147db563d713af07e60c350000b0d2",
+    "wof:geomhash":"b6faf3bb26f41d0a6971c391d34d324a",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840435463,
-    "wof:lastmodified":1466545084,
+    "wof:lastmodified":1510699514,
     "wof:name":"Novus Auto Glass Repair",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

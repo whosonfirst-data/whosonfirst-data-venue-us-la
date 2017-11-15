@@ -2,9 +2,14 @@
   "id": 203276255,
   "type": "Feature",
   "properties": {
+    "addr:full":"4605 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"4605",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.035896,30.0058,-90.035896,30.0058",
     "geom:latitude":30.0058,
     "geom:longitude":-90.035896,
@@ -26,11 +31,14 @@
     "sg:website":"www.wendys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821299,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +48,28 @@
     "wof:geomhash":"2e402cbecb94fdb4d2fe3fe050a47889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":203276255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821299,
             "region_id":85688735,
             "venue_id":203276255
         }
     ],
     "wof:id":203276255,
-    "wof:lastmodified":1466539354,
+    "wof:lastmodified":1486688069,
     "wof:name":"Wendy's Old Fashioned Hamburgers",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",

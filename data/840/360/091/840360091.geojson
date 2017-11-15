@@ -2,14 +2,20 @@
   "id": 840360091,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Royal St New Orleans LA 70130",
+    "addr:housenumber":"124",
+    "addr:postcode":"70130",
+    "addr:street":"Royal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.068299,29.953814,-90.068299,29.953814",
     "geom:latitude":29.953814,
     "geom:longitude":-90.068299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 Royal St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,35 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85851209
+        85688735
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UzavgEjrp1y0sQZoLMvew_29.953814_-90.068299@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529389,
-    "wof:geomhash":"75f37a4cdf7bcb8543db0e44316bd9a6",
+    "wof:geomhash":"540e8cf3098c750b8429b78d67480ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85851209,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840360091
         }
     ],
     "wof:id":840360091,
-    "wof:lastmodified":1466543594,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
-    "wof:parent_id":85851209,
+    "wof:parent_id":85866107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

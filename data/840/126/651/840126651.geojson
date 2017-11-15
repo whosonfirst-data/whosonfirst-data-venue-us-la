@@ -2,14 +2,20 @@
   "id": 840126651,
   "type": "Feature",
   "properties": {
+    "addr:full":"3525 Perkins Rd Baton Rouge LA 70808",
+    "addr:housenumber":"3525",
+    "addr:postcode":"70808",
+    "addr:street":"Perkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.153056,30.421256,-91.153056,30.421256",
     "geom:latitude":30.421256,
     "geom:longitude":-91.153056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3525 Perkins Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85850249
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RE4xr3P2P1JE0s2351amk_30.421256_-91.153056@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521782,
-    "wof:geomhash":"f806635d59b1f2540c837f967da9f4ab",
+    "wof:geomhash":"55349543022ff0c993a47400cbe91ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840126651,
-    "wof:lastmodified":1466540956,
+    "wof:lastmodified":1510695761,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85850249,
     "wof:placetype":"venue",

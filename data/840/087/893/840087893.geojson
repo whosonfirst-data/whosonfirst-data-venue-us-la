@@ -2,9 +2,14 @@
   "id": 840087893,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 Jefferson Ave New Orleans LA 70115",
+    "addr:housenumber":"902",
+    "addr:postcode":"70115",
+    "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.114873,29.921934,-90.114873,29.921934",
     "geom:latitude":29.921934,
     "geom:longitude":-90.114873,
@@ -28,7 +33,15 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35aI7oUrA0LyNSNiCJAl14_29.921934_-90.114873@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520982,
     "wof:geomhash":"6f1d9ce8097f8b45d1898358d411bd20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840087893
+        }
+    ],
     "wof:id":840087893,
-    "wof:lastmodified":1466540641,
+    "wof:lastmodified":1486688669,
     "wof:name":"Zande Newman Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

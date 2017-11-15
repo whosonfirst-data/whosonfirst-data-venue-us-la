@@ -2,14 +2,20 @@
   "id": 840330365,
   "type": "Feature",
   "properties": {
+    "addr:full":"3435 Ryan St Lake Charles LA 70605",
+    "addr:housenumber":"3435",
+    "addr:postcode":"70605",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218556,30.196061,-93.218556,30.196061",
     "geom:latitude":30.196061,
     "geom:longitude":-93.218556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3435 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h2LCn3CVhftnHO8gBAdl0_30.196061_-93.218556@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527962,
-    "wof:geomhash":"66f8ef939431b44ebd0dd8d123c1c2d6",
+    "wof:geomhash":"663c417454d1fc8e5ec995531a93e67f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840330365,
-    "wof:lastmodified":1466543158,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840076607,
   "type": "Feature",
   "properties": {
+    "addr:full":"4612 Virgilian St New Orleans LA 70126",
+    "addr:housenumber":"4612",
+    "addr:postcode":"70126",
+    "addr:street":"Virgilian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.016794,30.015434,-90.016794,30.015434",
     "geom:latitude":30.015434,
     "geom:longitude":-90.016794,
@@ -28,7 +33,15 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_187oeHnl7rpUwMSHc6aZ8k_30.015434_-90.016794@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520613,
     "wof:geomhash":"146b2a548fddb481f290188bcc027512",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840076607
+        }
+    ],
     "wof:id":840076607,
-    "wof:lastmodified":1466540459,
+    "wof:lastmodified":1486687833,
     "wof:name":"Fairyann From Storyland",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

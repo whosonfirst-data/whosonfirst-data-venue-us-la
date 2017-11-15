@@ -2,14 +2,20 @@
   "id": 840323435,
   "type": "Feature",
   "properties": {
+    "addr:full":"7000 Westbank Expy Marrero LA 70072",
+    "addr:housenumber":"7000",
+    "addr:postcode":"70072",
+    "addr:street":"Westbank Expy Marrero",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.125053,29.893895,-90.125053,29.893895",
     "geom:latitude":29.893895,
     "geom:longitude":-90.125053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7000 Westbank Expy",
     "sg:city":"Marrero",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85866123
     ],
+    "wof:brand_id":1125159953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5br2BGqJMObLFzYJYtg7aO_29.893895_-90.125053@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527648,
-    "wof:geomhash":"7f192855292506335cc4c5476985d3ce",
+    "wof:geomhash":"644c6fcd9d9b9a2a46edc11dd280fb54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840323435,
-    "wof:lastmodified":1466542945,
+    "wof:lastmodified":1510693741,
     "wof:name":"New Earl Scheib Paint & Body",
     "wof:parent_id":85866123,
     "wof:placetype":"venue",

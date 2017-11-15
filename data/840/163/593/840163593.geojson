@@ -2,14 +2,20 @@
   "id": 840163593,
   "type": "Feature",
   "properties": {
+    "addr:full":"5379 Highland Rd Baton Rouge LA 70808",
+    "addr:housenumber":"5379",
+    "addr:postcode":"70808",
+    "addr:street":"Highland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.159433,30.393774,-91.159433,30.393774",
     "geom:latitude":30.393774,
     "geom:longitude":-91.159433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5379 Highland Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85842175
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PI1wjuc2GLI3OwTaHNYOQ_30.393774_-91.159433@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522511,
-    "wof:geomhash":"fe9955a458cf6f9356936cea7c076f2d",
+    "wof:geomhash":"09c04e9890978f396ce07c690450c91b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840163593,
-    "wof:lastmodified":1466541183,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85842175,
     "wof:placetype":"venue",

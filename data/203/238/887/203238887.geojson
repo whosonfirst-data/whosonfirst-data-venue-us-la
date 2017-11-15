@@ -2,9 +2,14 @@
   "id": 203238887,
   "type": "Feature",
   "properties": {
+    "addr:full":"4725 E Judge Perez Dr Meraux LA 70075",
+    "addr:housenumber":"4725",
+    "addr:postcode":"70075",
+    "addr:street":"E Judge Perez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.906898,29.923,-89.906898,29.923",
     "geom:latitude":29.923,
     "geom:longitude":-89.906898,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -39,7 +45,7 @@
     "wof:geomhash":"dd2858042aa9cdace0a52a8c0e554cd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203238887,
-    "wof:lastmodified":1466539313,
+    "wof:lastmodified":1491910643,
     "wof:name":"Quick Check Inc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

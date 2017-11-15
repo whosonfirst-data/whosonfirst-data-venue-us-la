@@ -2,9 +2,14 @@
   "id": 840110779,
   "type": "Feature",
   "properties": {
+    "addr:full":"2108 Walkers Ln Meraux LA 70075",
+    "addr:housenumber":"2108",
+    "addr:postcode":"70075",
+    "addr:street":"Walkers Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.932716,29.93623,-89.932716,29.93623",
     "geom:latitude":29.93623,
     "geom:longitude":-89.932716,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -40,6 +46,7 @@
     "wof:geomhash":"78b54583b007243e503833bf63916c00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840110779,
-    "wof:lastmodified":1466540836,
+    "wof:lastmodified":1491910634,
     "wof:name":"Alverez Kiddie Academy",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

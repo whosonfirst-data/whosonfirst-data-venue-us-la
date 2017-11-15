@@ -2,9 +2,14 @@
   "id": 840453161,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 Behrman Pl New Orleans LA 70114",
+    "addr:housenumber":"4021",
+    "addr:postcode":"70114",
+    "addr:street":"Behrman Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.018218,29.907536,-90.018218,29.907536",
     "geom:latitude":29.907536,
     "geom:longitude":-90.018218,
@@ -30,7 +35,15 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZNo2Vq0ZFI1j0hx6x5sGb_29.907536_-90.018218@1299784598"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463533432,
     "wof:geomhash":"3c16158cd92d29adeec3ab676ff14517",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840453161
+        }
+    ],
     "wof:id":840453161,
-    "wof:lastmodified":1466545341,
+    "wof:lastmodified":1486689098,
     "wof:name":"Quiznos Sub",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

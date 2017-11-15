@@ -2,9 +2,14 @@
   "id": 840328501,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 Eagle St New Orleans LA 70118",
+    "addr:housenumber":"2820",
+    "addr:postcode":"70118",
+    "addr:street":"Eagle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.122671,29.964241,-90.122671,29.964241",
     "geom:latitude":29.964241,
     "geom:longitude":-90.122671,
@@ -29,7 +34,15 @@
         "casting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3foj3mEK6udLWutkrxVwXB_29.964241_-90.122671@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463527877,
     "wof:geomhash":"09691e6c65c59752423aabcf7c0dc5ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840328501
+        }
+    ],
     "wof:id":840328501,
-    "wof:lastmodified":1466543071,
+    "wof:lastmodified":1486689042,
     "wof:name":"Elite Casting & Talent Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

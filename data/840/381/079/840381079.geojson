@@ -2,9 +2,14 @@
   "id": 840381079,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Newton St New Orleans LA 70114",
+    "addr:housenumber":"630",
+    "addr:postcode":"70114",
+    "addr:street":"Newton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049616,29.94564,-90.049616,29.94564",
     "geom:latitude":29.94564,
     "geom:longitude":-90.049616,
@@ -27,7 +32,15 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iSWW7lXOecODkkAwIuk5j_29.945640_-90.049616@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463530393,
     "wof:geomhash":"626bfa818ebfe3f0db2a24bb54ab4fdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840381079
+        }
+    ],
     "wof:id":840381079,
-    "wof:lastmodified":1466543934,
+    "wof:lastmodified":1486689086,
     "wof:name":"Algier's Discount Meat Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

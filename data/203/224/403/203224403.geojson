@@ -2,14 +2,20 @@
   "id": 203224403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 Apollo Ave Harvey LA 70058",
+    "addr:housenumber":"2525",
+    "addr:postcode":"70058",
+    "addr:street":"Apollo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.054604,29.871099,-90.054604,29.871099",
     "geom:latitude":29.871099,
     "geom:longitude":-90.054604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2525 Apollo Ave",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -38,12 +44,13 @@
         85948753,
         102083179
     ],
+    "wof:brand_id":1125156563,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IX3pun8WRemcAjtTfhBUM_29.871099_-90.054604@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"473dc6139e025128123cfa4f09b869db",
+    "wof:geomhash":"afff57be8b7fadc3b7b3261c0583f32f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":203224403,
-    "wof:lastmodified":1466539288,
+    "wof:lastmodified":1510695192,
     "wof:name":"Faith Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

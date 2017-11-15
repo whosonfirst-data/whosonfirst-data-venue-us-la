@@ -2,14 +2,20 @@
   "id": 840406097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"2700",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218663,30.203363,-93.218663,30.203363",
     "geom:latitude":30.203363,
     "geom:longitude":-93.218663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fBDD9bK5JzuecYiWXZDau_30.203363_-93.218663@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531464,
-    "wof:geomhash":"880b3fafccddbe0cd009bc9b16f25656",
+    "wof:geomhash":"b3284769e2ba3123118e1123d4cbf41d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840406097,
-    "wof:lastmodified":1466544541,
+    "wof:lastmodified":1510602401,
     "wof:name":"Stein Mart",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

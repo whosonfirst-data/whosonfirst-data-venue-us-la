@@ -2,9 +2,14 @@
   "id": 203269421,
   "type": "Feature",
   "properties": {
+    "addr:full":"2061 N Miro St New Orleans LA 70119",
+    "addr:housenumber":"2061",
+    "addr:postcode":"70119",
+    "addr:street":"N Miro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.060899,29.979628,-90.060899,29.979628",
     "geom:latitude":29.979628,
     "geom:longitude":-90.060899,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866083,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
+        85688735,
         85866099
     ],
     "wof:breaches":[],
@@ -39,19 +47,30 @@
     "wof:geomhash":"ac84bd9f5a4892fcefd50539c083fb43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866083,
+            "region_id":85688735,
+            "venue_id":203269421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":203269421
         }
     ],
     "wof:id":203269421,
-    "wof:lastmodified":1466539346,
+    "wof:lastmodified":1486688338,
     "wof:name":"Plaisance Kenneth M Attorney",
-    "wof:parent_id":85866099,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

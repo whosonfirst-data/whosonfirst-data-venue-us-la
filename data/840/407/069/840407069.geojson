@@ -2,9 +2,14 @@
   "id": 840407069,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Gravier St New Orleans LA 70119",
+    "addr:housenumber":"2020",
+    "addr:postcode":"70119",
+    "addr:street":"Gravier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.084687,29.957445,-90.084687,29.957445",
     "geom:latitude":29.957445,
     "geom:longitude":-90.084687,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866073,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866073
+        85688735,
+        85866071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,26 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866073,
+            "region_id":85688735,
+            "venue_id":840407069
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866071,
             "region_id":85688735,
             "venue_id":840407069
         }
     ],
     "wof:id":840407069,
-    "wof:lastmodified":1466544526,
+    "wof:lastmodified":1486688291,
     "wof:name":"Charles L Dupin MD",
-    "wof:parent_id":85866073,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840402991,
   "type": "Feature",
   "properties": {
+    "addr:full":"2426 Mistletoe St New Orleans LA 70118",
+    "addr:housenumber":"2426",
+    "addr:postcode":"70118",
+    "addr:street":"Mistletoe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.128975,29.963995,-90.128975,29.963995",
     "geom:latitude":29.963995,
     "geom:longitude":-90.128975,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dknqq4aBmrTauDwdEKWMd_29.963995_-90.128975@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463531342,
     "wof:geomhash":"83729bb85a6353fa6c056b84f7f0131f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840402991
+        }
+    ],
     "wof:id":840402991,
-    "wof:lastmodified":1466544630,
+    "wof:lastmodified":1486689039,
     "wof:name":"Slambeaux Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

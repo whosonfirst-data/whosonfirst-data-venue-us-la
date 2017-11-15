@@ -2,14 +2,20 @@
   "id": 840310125,
   "type": "Feature",
   "properties": {
+    "addr:full":"2025 Southern Ave Shreveport LA 71104",
+    "addr:housenumber":"2025",
+    "addr:postcode":"71104",
+    "addr:street":"Southern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.754536,32.492166,-93.754536,32.492166",
     "geom:latitude":32.492166,
     "geom:longitude":-93.754536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2025 Southern Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85880983
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZQ1M4UsQ0GfGp7QjhMvET_32.492166_-93.754536@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527008,
-    "wof:geomhash":"37aac252f7f016e0277b2613fa260435",
+    "wof:geomhash":"c51843581dc6cd7e8e7460f1a16555d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840310125,
-    "wof:lastmodified":1466542690,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":85880983,
     "wof:placetype":"venue",

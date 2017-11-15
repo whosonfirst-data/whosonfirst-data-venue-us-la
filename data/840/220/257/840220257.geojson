@@ -2,14 +2,20 @@
   "id": 840220257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1611 Martin Luther King Jr Dr Monroe LA 71202",
+    "addr:housenumber":"1611",
+    "addr:postcode":"71202",
+    "addr:street":"Martin Luther King Jr Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.082768,32.489277,-92.082768,32.489277",
     "geom:latitude":32.489277,
     "geom:longitude":-92.082768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1611 Martin Luther King Jr Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SxejGNIDMzQtqadvsBAZ0_32.489277_-92.082768@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523839,
-    "wof:geomhash":"79603a950244ccb1b26ffea25a1d2c3e",
+    "wof:geomhash":"6f4cffa86c5ae12e3f380b5db845ed5d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840220257,
-    "wof:lastmodified":1466541580,
+    "wof:lastmodified":1510699336,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

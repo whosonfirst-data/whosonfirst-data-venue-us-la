@@ -2,9 +2,14 @@
   "id": 203285251,
   "type": "Feature",
   "properties": {
+    "addr:full":"713 St Louis St New Orleans LA 70130",
+    "addr:housenumber":"713",
+    "addr:postcode":"70130",
+    "addr:street":"St Louis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06627,29.956469,-90.06627,29.956469",
     "geom:latitude":29.956469,
     "geom:longitude":-90.06627,
@@ -30,11 +35,13 @@
     "sg:website":"www.antoines.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"f46dd6344f6bebe9f0b83e0a72cfaed6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203285251
         }
     ],
     "wof:id":203285251,
-    "wof:lastmodified":1466539369,
+    "wof:lastmodified":1486687135,
     "wof:name":"Antoine's Restaurant",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

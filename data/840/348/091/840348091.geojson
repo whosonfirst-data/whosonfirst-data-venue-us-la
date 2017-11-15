@@ -2,14 +2,20 @@
   "id": 840348091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1358 South St Baton Rouge LA 70802",
+    "addr:housenumber":"1358",
+    "addr:postcode":"70802",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.174377,30.439629,-91.174377,30.439629",
     "geom:latitude":30.439629,
     "geom:longitude":-91.174377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1358 South St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85823097
     ],
+    "wof:brand_id":1125150403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B8s3yVTDBNfoDKQg1w85r_30.439629_-91.174377@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528812,
-    "wof:geomhash":"35e8c044484d6e05891ec0113b1750e2",
+    "wof:geomhash":"5aaf0b350dd6dbf0ac4bef8f7c1cf551",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840348091,
-    "wof:lastmodified":1466543484,
+    "wof:lastmodified":1510693887,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85823097,
     "wof:placetype":"venue",

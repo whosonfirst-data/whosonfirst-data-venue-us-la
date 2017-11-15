@@ -2,14 +2,20 @@
   "id": 840292635,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Ridgelake Dr Metairie LA 70002",
+    "addr:housenumber":"3200",
+    "addr:postcode":"70002",
+    "addr:street":"Ridgelake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.153387,30.008308,-90.153387,30.008308",
     "geom:latitude":30.008308,
     "geom:longitude":-90.153387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 Ridgelake Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tVZ558RbY2vR9Ncf7GR3U_30.008308_-90.153387@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526181,
-    "wof:geomhash":"371ec0202d3fc1df15449c1bd1cfc79c",
+    "wof:geomhash":"ae35abf6047933e67d61ba3cac62dbd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840292635,
-    "wof:lastmodified":1466542473,
+    "wof:lastmodified":1510602991,
     "wof:name":"IBEW",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

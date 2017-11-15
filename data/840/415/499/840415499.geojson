@@ -2,14 +2,20 @@
   "id": 840415499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1902 Stubbs Ave Monroe LA 71201",
+    "addr:housenumber":"1902",
+    "addr:postcode":"71201",
+    "addr:street":"Stubbs Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.107011,32.521,-92.107011,32.521",
     "geom:latitude":32.521,
     "geom:longitude":-92.107011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1902 Stubbs Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XFGCUcZMKBDUVOK8B2Ikk_32.521000_-92.107011@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531850,
-    "wof:geomhash":"1ab44595dccc101a984cb90cc2d813f7",
+    "wof:geomhash":"fdecabc663431196682e70355ce27372",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840415499,
-    "wof:lastmodified":1466544708,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

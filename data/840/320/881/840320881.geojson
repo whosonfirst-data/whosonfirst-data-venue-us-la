@@ -2,9 +2,14 @@
   "id": 840320881,
   "type": "Feature",
   "properties": {
+    "addr:full":"8138 Jeannette St New Orleans LA 70118",
+    "addr:housenumber":"8138",
+    "addr:postcode":"70118",
+    "addr:street":"Jeannette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.127496,29.949513,-90.127496,29.949513",
     "geom:latitude":29.949513,
     "geom:longitude":-90.127496,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tGkT0I09BbxxYh9DMheUx_29.949513_-90.127496@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463527495,
     "wof:geomhash":"4d8a278612cd05c57671252d82834119",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840320881
+        }
+    ],
     "wof:id":840320881,
-    "wof:lastmodified":1466543036,
+    "wof:lastmodified":1486688981,
     "wof:name":"Frank Faccitonte",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

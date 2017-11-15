@@ -2,9 +2,14 @@
   "id": 840291239,
   "type": "Feature",
   "properties": {
+    "addr:full":"12345 I- 10 Svc Rd New Orleans LA 70128",
+    "addr:housenumber":"12345;10",
+    "addr:postcode":"70128",
+    "addr:street":"I;Svc Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.955362,30.050326,-89.955362,30.050326",
     "geom:latitude":30.050326,
     "geom:longitude":-89.955362,
@@ -28,7 +33,16 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739509,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DpHuwhEUv7TQRbo2ealIw_30.050326_-89.955362@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463526121,
     "wof:geomhash":"dd380c8179661da3561cf37bbd839b72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739509,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840291239
+        }
+    ],
     "wof:id":840291239,
-    "wof:lastmodified":1466542568,
+    "wof:lastmodified":1486689130,
     "wof:name":"Brotherhood Way General Contr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

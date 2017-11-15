@@ -2,9 +2,14 @@
   "id": 840326473,
   "type": "Feature",
   "properties": {
+    "addr:full":"2741 Piety St New Orleans LA 70126",
+    "addr:housenumber":"2741",
+    "addr:postcode":"70126",
+    "addr:street":"Piety St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.036036,29.985158,-90.036036,29.985158",
     "geom:latitude":29.985158,
     "geom:longitude":-90.036036,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521719,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D1IS6cPyG06OIcfxF81LP_29.985158_-90.036036@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463527786,
     "wof:geomhash":"d7709833957f46d606145a682599a937",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420521719,
+            "region_id":85688735,
+            "venue_id":840326473
+        }
+    ],
     "wof:id":840326473,
-    "wof:lastmodified":1466543072,
+    "wof:lastmodified":1486687423,
     "wof:name":"Bynum's Pharmacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

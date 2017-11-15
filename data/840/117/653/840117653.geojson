@@ -2,9 +2,14 @@
   "id": 840117653,
   "type": "Feature",
   "properties": {
+    "addr:full":"3017 Dublin St New Orleans LA 70118",
+    "addr:housenumber":"3017",
+    "addr:postcode":"70118",
+    "addr:street":"Dublin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.116095,29.961599,-90.116095,29.961599",
     "geom:latitude":29.961599,
     "geom:longitude":-90.116095,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866077,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866077
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866077,
             "region_id":85688735,
             "venue_id":840117653
         }
     ],
     "wof:id":840117653,
-    "wof:lastmodified":1466540867,
+    "wof:lastmodified":1486688315,
     "wof:name":"Strip-Ease Of New Orleans Inc",
     "wof:parent_id":85866077,
     "wof:placetype":"venue",

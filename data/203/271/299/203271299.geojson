@@ -2,9 +2,14 @@
   "id": 203271299,
   "type": "Feature",
   "properties": {
+    "addr:full":"3774 Gentilly Blvd New Orleans LA 70122",
+    "addr:housenumber":"3774",
+    "addr:postcode":"70122",
+    "addr:street":"Gentilly Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.04797,30.002793,-90.04797,30.002793",
     "geom:latitude":30.002793,
     "geom:longitude":-90.04797,
@@ -30,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821297,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821297
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +52,28 @@
     "wof:geomhash":"c445649e18362f547fa4f476056b9d52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821297,
+            "region_id":85688735,
+            "venue_id":203271299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821297,
             "region_id":85688735,
             "venue_id":203271299
         }
     ],
     "wof:id":203271299,
-    "wof:lastmodified":1466539348,
+    "wof:lastmodified":1486688011,
     "wof:name":"New Orleans Public Schools",
     "wof:parent_id":85821297,
     "wof:placetype":"venue",

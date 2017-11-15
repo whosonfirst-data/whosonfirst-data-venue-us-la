@@ -2,9 +2,14 @@
   "id": 203261803,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 Orleans St New Orleans LA 70116",
+    "addr:housenumber":"717",
+    "addr:postcode":"70116",
+    "addr:street":"Orleans St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064654,29.958813,-90.064654,29.958813",
     "geom:latitude":29.958813,
     "geom:longitude":-90.064654,
@@ -26,11 +31,13 @@
     "sg:website":"www.bourbonorleans.com/restauran...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"1a0812a67719ecff7da16095ba8f1d31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203261803
         }
     ],
     "wof:id":203261803,
-    "wof:lastmodified":1466539337,
+    "wof:lastmodified":1486686549,
     "wof:name":"Roux on Orleans",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

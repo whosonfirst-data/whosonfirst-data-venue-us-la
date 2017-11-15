@@ -2,14 +2,20 @@
   "id": 840240653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1079 Hwy 454 Pineville LA 71360",
+    "addr:housenumber":"1079",
+    "addr:postcode":"71360",
+    "addr:street":"Hwy 454",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.248308,31.178787,-92.248308,31.178787",
     "geom:latitude":31.178787,
     "geom:longitude":-92.248308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1079 Hwy 454",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125156621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PgdZgD8oFSzqWPBH1VMyY_31.178787_-92.248308@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524378,
-    "wof:geomhash":"ec83b7ab4ae53d554a5ec8c5ceb7a866",
+    "wof:geomhash":"2631f5caa09d89e9985e1d5fe50928fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840240653,
-    "wof:lastmodified":1466541790,
+    "wof:lastmodified":1510698498,
     "wof:name":"Pine Grove Baptist Church",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

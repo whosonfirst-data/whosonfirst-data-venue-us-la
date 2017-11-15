@@ -2,9 +2,14 @@
   "id": 203277453,
   "type": "Feature",
   "properties": {
+    "addr:full":"4551 Knight Dr New Orleans LA 70127",
+    "addr:housenumber":"4551",
+    "addr:postcode":"70127",
+    "addr:street":"Knight Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.982557,30.017359,-89.982557,30.017359",
     "geom:latitude":30.017359,
     "geom:longitude":-89.982557,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866171,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866171
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"2cf7ef613c6d1acf48fdaccb6b74a83b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85866171,
             "region_id":85688735,
             "venue_id":203277453
         }
     ],
     "wof:id":203277453,
-    "wof:lastmodified":1466539358,
+    "wof:lastmodified":1486687795,
     "wof:name":"U Bug Me",
     "wof:parent_id":85866171,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840442213,
   "type": "Feature",
   "properties": {
+    "addr:full":"173 E Pine St Ponchatoula LA 70454",
+    "addr:housenumber":"173",
+    "addr:postcode":"70454",
+    "addr:street":"E Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.44051,30.438874,-90.44051,30.438874",
     "geom:latitude":30.438874,
     "geom:longitude":-90.44051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"173 E Pine St",
     "sg:city":"Ponchatoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083809,
         85839553
     ],
+    "wof:brand_id":1125155927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pyOgYoYktEgatrmHU8pUN_30.438874_-90.440510@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532987,
-    "wof:geomhash":"681536a5738d6669a711276df20a5c7b",
+    "wof:geomhash":"f10f9d0bd292d92f055b1b29214bbda2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840442213,
-    "wof:lastmodified":1466545231,
+    "wof:lastmodified":1510697678,
     "wof:name":"G A B Robins",
     "wof:parent_id":85839553,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840368557,
   "type": "Feature",
   "properties": {
+    "addr:full":"7280 W Bert Kouns Industrial Loop Shreveport LA 71129",
+    "addr:housenumber":"7280",
+    "addr:postcode":"71129",
+    "addr:street":"W Bert Kouns Industrial Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.90014,32.435949,-93.90014,32.435949",
     "geom:latitude":32.435949,
     "geom:longitude":-93.90014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7280 W Bert Kouns Industrial Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85880975,
         102087235
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3p6zKv6cXT2KX5FjtwykiH_32.435949_-93.900140@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529810,
-    "wof:geomhash":"3a1109f66721e76fc255c8f8c510f0de",
+    "wof:geomhash":"37badf0e5a140e60852c9c8cce3f0756",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840368557,
-    "wof:lastmodified":1466543727,
+    "wof:lastmodified":1510602070,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",

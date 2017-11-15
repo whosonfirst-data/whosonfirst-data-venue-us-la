@@ -2,14 +2,20 @@
   "id": 203308579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2207 NW Evangeline Trwy Lafayette LA 70501",
+    "addr:housenumber":"2207",
+    "addr:postcode":"70501",
+    "addr:street":"Nw Evangeline",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.014564,30.252726,-92.014564,30.252726",
     "geom:latitude":30.252726,
     "geom:longitude":-92.014564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2207 NW Evangeline Trwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z17GZLBZoiNh9VXcpMt7O_30.252726_-92.014564@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"10b34d5793f368d8007544209844b476",
+    "wof:geomhash":"e888fc9bab9fcaf277b7dff1c9269143",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":203308579,
-    "wof:lastmodified":1466539405,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

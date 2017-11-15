@@ -2,14 +2,20 @@
   "id": 840428155,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Woodbridge Blvd Hammond LA 70401",
+    "addr:housenumber":"103",
+    "addr:postcode":"70401",
+    "addr:street":"Woodbridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.47552,30.535201,-90.47552,30.535201",
     "geom:latitude":30.535201,
     "geom:longitude":-90.47552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Woodbridge Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102191575,
         85857619
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yzvV8nrSjqPuTZ1DDGSut_30.535201_-90.475520@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532363,
-    "wof:geomhash":"f571f20f55811c122ed1c0c743cd4318",
+    "wof:geomhash":"2120a8408574becaf3751139582dee5d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":840428155,
-    "wof:lastmodified":1466545204,
+    "wof:lastmodified":1510695872,
     "wof:name":"Dominican Sisters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

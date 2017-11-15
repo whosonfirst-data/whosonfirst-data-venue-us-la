@@ -2,9 +2,14 @@
   "id": 840444377,
   "type": "Feature",
   "properties": {
+    "addr:full":"1236 Caffin Ave New Orleans LA 70117",
+    "addr:housenumber":"1236",
+    "addr:postcode":"70117",
+    "addr:street":"Caffin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.015421,29.962798,-90.015421,29.962798",
     "geom:latitude":29.962798,
     "geom:longitude":-90.015421,
@@ -24,7 +29,15 @@
     "sg:postcode":"70117",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746835,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x8Yv1osXZm0U98ysvH8MQ_29.962798_-90.015421@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463533065,
     "wof:geomhash":"b4d068be9a692f333add4bd17d6fb894",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
+            "region_id":85688735,
+            "venue_id":840444377
+        }
+    ],
     "wof:id":840444377,
-    "wof:lastmodified":1466545234,
+    "wof:lastmodified":1486689079,
     "wof:name":"Queen Ester Divine Spiritual",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840455467,
   "type": "Feature",
   "properties": {
+    "addr:full":"7474 Corporate Blvd Baton Rouge LA 70809",
+    "addr:housenumber":"7474",
+    "addr:postcode":"70809",
+    "addr:street":"Corporate Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.112417,30.430632,-91.112417,30.430632",
     "geom:latitude":30.430632,
     "geom:longitude":-91.112417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7474 Corporate Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087229,
         85827391
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hglxn0OKFSQEHEChDyPk1_30.430632_-91.112417@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533520,
-    "wof:geomhash":"5cb516d65e00585fb268601dbbd54770",
+    "wof:geomhash":"6b5864f002025560eb78f7fce5edf200",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840455467,
-    "wof:lastmodified":1466545392,
+    "wof:lastmodified":1510696975,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85827391,
     "wof:placetype":"venue",

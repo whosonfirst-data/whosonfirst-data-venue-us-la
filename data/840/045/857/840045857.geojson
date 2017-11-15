@@ -2,9 +2,14 @@
   "id": 840045857,
   "type": "Feature",
   "properties": {
+    "addr:full":"8401 Olive St New Orleans LA 70118",
+    "addr:housenumber":"8401",
+    "addr:postcode":"70118",
+    "addr:street":"Olive St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11557,29.965294,-90.11557,29.965294",
     "geom:latitude":29.965294,
     "geom:longitude":-90.11557,
@@ -28,7 +33,15 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866077,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6syBPYZm3dcMtF4zfi2zHg_29.965294_-90.115570@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463519962,
     "wof:geomhash":"0d55e83d04fe18f0c934baacdf9008eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840045857
+        }
+    ],
     "wof:id":840045857,
-    "wof:lastmodified":1466540141,
+    "wof:lastmodified":1486688308,
     "wof:name":"Phase III Body Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

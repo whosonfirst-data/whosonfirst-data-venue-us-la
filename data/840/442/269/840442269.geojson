@@ -2,9 +2,14 @@
   "id": 840442269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 S Jefferson Davis Pkwy New Orleans LA 70125",
+    "addr:housenumber":"1100",
+    "addr:postcode":"70125",
+    "addr:street":"S Jefferson Davis Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.103032,29.959087,-90.103032,29.959087",
     "geom:latitude":29.959087,
     "geom:longitude":-90.103032,
@@ -29,7 +34,16 @@
     ],
     "sg:website":"www.whno.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746753,
+        85866077,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s1ZJ0zScRWk9annD3Mq7M_29.959087_-90.103032@1294127638"
@@ -37,11 +51,23 @@
     "wof:country":"US",
     "wof:created":1463532989,
     "wof:geomhash":"c74b610ea9084c3b2d0f068234d054c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746753,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840442269
+        }
+    ],
     "wof:id":840442269,
-    "wof:lastmodified":1466545389,
+    "wof:lastmodified":1486689231,
     "wof:name":"WHNO",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

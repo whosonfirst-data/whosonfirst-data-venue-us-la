@@ -2,14 +2,20 @@
   "id": 840363747,
   "type": "Feature",
   "properties": {
+    "addr:full":"5622 Johnston St Lafayette LA 70503",
+    "addr:housenumber":"5622",
+    "addr:postcode":"70503",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.075158,30.177589,-92.075158,30.177589",
     "geom:latitude":30.177589,
     "geom:longitude":-92.075158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5622 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZVFoz78x8rEGWTiSgVBxx_30.177589_-92.075158@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529556,
-    "wof:geomhash":"cc5384d5cb5e92430d997e13b1e0292a",
+    "wof:geomhash":"375a8f116bc0690580089de26e7e32eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840363747,
-    "wof:lastmodified":1466543765,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

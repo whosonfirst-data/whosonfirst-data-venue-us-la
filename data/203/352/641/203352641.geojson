@@ -2,14 +2,20 @@
   "id": 203352641,
   "type": "Feature",
   "properties": {
+    "addr:full":"5922 Cameron St Scott LA 70583",
+    "addr:housenumber":"5922",
+    "addr:postcode":"70583",
+    "addr:street":"Cameron St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.095176,30.233586,-92.095176,30.233586",
     "geom:latitude":30.233586,
     "geom:longitude":-92.095176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5922 Cameron St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125152917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xwBuQSmKEAfEmuqHQPFyB_30.233586_-92.095176@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"e65db3ecf125e6f86346800282e7e10a",
+    "wof:geomhash":"154978fa05a3c6f2ed60b95f8f47f6e4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203352641,
-    "wof:lastmodified":1466539480,
+    "wof:lastmodified":1510697218,
     "wof:name":"Uncle Bob's Self Storage",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

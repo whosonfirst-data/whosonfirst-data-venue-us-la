@@ -2,14 +2,20 @@
   "id": 840434043,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Richards St Mansfield LA 71052",
+    "addr:housenumber":"139",
+    "addr:postcode":"71052",
+    "addr:street":"Richards St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.712926,32.025796,-93.712926,32.025796",
     "geom:latitude":32.025796,
     "geom:longitude":-93.712926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"139 Richards St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85842867,
         102084887
     ],
+    "wof:brand_id":1125159217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XSWwKewTEMfHhrYaCwtO7_32.025796_-93.712926@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532640,
-    "wof:geomhash":"ecbebeb2490d98f0dcaeddec437031f5",
+    "wof:geomhash":"93722232bc0ee8ebce96e7d59a793df3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840434043,
-    "wof:lastmodified":1466544999,
+    "wof:lastmodified":1510698764,
     "wof:name":"Corinth Baptist Church",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",

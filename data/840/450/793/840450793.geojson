@@ -2,9 +2,14 @@
   "id": 840450793,
   "type": "Feature",
   "properties": {
+    "addr:full":"2408 Walkers Ln Meraux LA 70075",
+    "addr:housenumber":"2408",
+    "addr:postcode":"70075",
+    "addr:street":"Walkers Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.934303,29.933001,-89.934303,29.933001",
     "geom:latitude":29.933001,
     "geom:longitude":-89.934303,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -40,6 +46,7 @@
     "wof:geomhash":"caf267364f3a05008aaba07945d43ba1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840450793,
-    "wof:lastmodified":1466545367,
+    "wof:lastmodified":1491910630,
     "wof:name":"First Asia Baptist Church",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

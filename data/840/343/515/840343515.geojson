@@ -2,14 +2,20 @@
   "id": 840343515,
   "type": "Feature",
   "properties": {
+    "addr:full":"141 W Airline Hwy Kenner LA 70062",
+    "addr:housenumber":"141",
+    "addr:postcode":"70062",
+    "addr:street":"W Airline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.277047,29.979997,-90.277047,29.979997",
     "geom:latitude":29.979997,
     "geom:longitude":-90.277047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"141 W Airline Hwy",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ORBMjgWsyR6PAeGx3N3ZO_29.979997_-90.277047@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528584,
-    "wof:geomhash":"eef9a44b4dbfa55e947d59d6bc6831ed",
+    "wof:geomhash":"5691dc30582b0e76443dfcd2a20a3474",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840343515,
-    "wof:lastmodified":1466543426,
+    "wof:lastmodified":1510698972,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

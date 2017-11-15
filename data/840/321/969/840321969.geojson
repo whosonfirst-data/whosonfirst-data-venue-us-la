@@ -2,14 +2,20 @@
   "id": 840321969,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Arnould Blvd Lafayette LA 70506",
+    "addr:housenumber":"137",
+    "addr:postcode":"70506",
+    "addr:street":"Arnould Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.054216,30.202908,-92.054216,30.202908",
     "geom:latitude":30.202908,
     "geom:longitude":-92.054216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"137 Arnould Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0s0hiLxdj1WlIlRSKNoFO6_30.202908_-92.054216@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527553,
-    "wof:geomhash":"7f67d83e1f0e87ca76b5ed20d4eea5d4",
+    "wof:geomhash":"2b05da548f4ed0d7f5c5eb6fe647f2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840321969,
-    "wof:lastmodified":1466543053,
+    "wof:lastmodified":1510602705,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

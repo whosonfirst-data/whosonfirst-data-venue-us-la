@@ -2,9 +2,14 @@
   "id": 203289423,
   "type": "Feature",
   "properties": {
+    "addr:full":"724 S Peters St New Orleans LA 70130",
+    "addr:housenumber":"724",
+    "addr:postcode":"70130",
+    "addr:street":"S Peters St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065903,29.9457,-90.065903,29.9457",
     "geom:latitude":29.9457,
     "geom:longitude":-90.065903,
@@ -29,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746615,
+        85831571,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866969
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,21 @@
     "wof:geomhash":"3e2f8dbf367d75ef9616180b459a161a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866969,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746615,
+            "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":203289423
         }
     ],
     "wof:id":203289423,
-    "wof:lastmodified":1466539374,
+    "wof:lastmodified":1486689185,
     "wof:name":"K & J Inc",
-    "wof:parent_id":85866969,
+    "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

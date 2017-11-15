@@ -2,9 +2,14 @@
   "id": 840141233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1602 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"1602",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.126079,29.95098,-90.126079,29.95098",
     "geom:latitude":29.95098,
     "geom:longitude":-90.126079,
@@ -27,7 +32,15 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SEKXyBO5XwYeJquSdEbru_29.950980_-90.126079@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463522072,
     "wof:geomhash":"fd4dcc6848d0ab385555fc884dd85fdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840141233
+        }
+    ],
     "wof:id":840141233,
-    "wof:lastmodified":1466539413,
+    "wof:lastmodified":1486688974,
     "wof:name":"Happy Times Day Nursery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

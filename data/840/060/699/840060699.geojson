@@ -2,14 +2,20 @@
   "id": 840060699,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 Lincoln Rd Monroe LA 71203",
+    "addr:housenumber":"550",
+    "addr:postcode":"71203",
+    "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.01623,32.54338,-92.01623,32.54338",
     "geom:latitude":32.54338,
     "geom:longitude":-92.01623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 Lincoln Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03JL9L9nDgg8zsezKMHojj_32.543380_-92.016230@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520290,
-    "wof:geomhash":"7aac5f191579c3bfd15aa74901a919db",
+    "wof:geomhash":"595169a8d421a89660c80f135ab4f352",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840060699,
-    "wof:lastmodified":1466540277,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

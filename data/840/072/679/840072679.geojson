@@ -2,9 +2,14 @@
   "id": 840072679,
   "type": "Feature",
   "properties": {
+    "addr:full":"5914 Canal Blvd New Orleans LA 70124",
+    "addr:housenumber":"5914",
+    "addr:postcode":"70124",
+    "addr:street":"Canal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.108961,29.998986,-90.108961,29.998986",
     "geom:latitude":29.998986,
     "geom:longitude":-90.108961,
@@ -29,12 +34,13 @@
     "sg:website":"www.lpcno.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840072679
         }
     ],
     "wof:id":840072679,
-    "wof:lastmodified":1466540409,
+    "wof:lastmodified":1486687359,
     "wof:name":"Lakeview Presbyterian Church",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

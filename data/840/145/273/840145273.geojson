@@ -2,9 +2,14 @@
   "id": 840145273,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 33rd St New Orleans LA 70124",
+    "addr:housenumber":"421",
+    "addr:postcode":"70124",
+    "addr:street":"33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.120954,30.009638,-90.120954,30.009638",
     "geom:latitude":30.009638,
     "geom:longitude":-90.120954,
@@ -28,7 +33,15 @@
         "chandler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vixb5HwQhYVVO0x9ubCBE_30.009638_-90.120954@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522151,
     "wof:geomhash":"79dfb2c68b70c830b03fc10479f0f83d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840145273
+        }
+    ],
     "wof:id":840145273,
-    "wof:lastmodified":1466539872,
+    "wof:lastmodified":1486689070,
     "wof:name":"United Marine Sales Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

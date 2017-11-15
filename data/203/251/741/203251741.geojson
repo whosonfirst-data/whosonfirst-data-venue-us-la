@@ -2,9 +2,14 @@
   "id": 203251741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1240 Lauradale Dr New Orleans LA 70114",
+    "addr:housenumber":"1240",
+    "addr:postcode":"70114",
+    "addr:street":"Lauradale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.0326,29.942101,-90.0326,29.942101",
     "geom:latitude":29.942101,
     "geom:longitude":-90.0326,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521721,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"e9aae0ee6715d1162ed3ddefb2b13d1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
             "region_id":85688735,
             "venue_id":203251741
         }
     ],
     "wof:id":203251741,
-    "wof:lastmodified":1466539317,
+    "wof:lastmodified":1486688957,
     "wof:name":"Boobie & Sprout Day Care Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840418715,
   "type": "Feature",
   "properties": {
+    "addr:full":"9013 S Claiborne Ave New Orleans LA 70118",
+    "addr:housenumber":"9013",
+    "addr:postcode":"70118",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.128575,29.962705,-90.128575,29.962705",
     "geom:latitude":29.962705,
     "geom:longitude":-90.128575,
@@ -27,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TZFUHPYOwOfRVsLnO4UOP_29.962705_-90.128575@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463531973,
     "wof:geomhash":"5191b8cfd0217619369a54dde513784e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840418715
+        }
+    ],
     "wof:id":840418715,
-    "wof:lastmodified":1466544864,
+    "wof:lastmodified":1486689042,
     "wof:name":"Curklin Atkins",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203264863,
   "type": "Feature",
   "properties": {
+    "addr:full":"5229 Saint Claude Ave New Orleans LA 70117",
+    "addr:housenumber":"5229",
+    "addr:postcode":"70117",
+    "addr:street":"Saint Claude Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019699,29.962299,-90.019699,29.962299",
     "geom:latitude":29.962299,
     "geom:longitude":-90.019699,
@@ -26,10 +31,13 @@
     "sg:website":"www.marksmufflershop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746835,
+        102191575,
+        1108739491,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,20 @@
     "wof:geomhash":"fa057ddbbc68bc7376aa49b5e8c8e249",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
             "region_id":85688735,
             "venue_id":203264863
         }
     ],
     "wof:id":203264863,
-    "wof:lastmodified":1466539340,
+    "wof:lastmodified":1486689077,
     "wof:name":"Mark's Muffler Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

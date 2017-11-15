@@ -2,14 +2,20 @@
   "id": 840153095,
   "type": "Feature",
   "properties": {
+    "addr:full":"14734 S Harrells Ferry Rd Baton Rouge LA 70816",
+    "addr:housenumber":"14734",
+    "addr:postcode":"70816",
+    "addr:street":"S Harrells Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.019999,30.428449,-91.019999,30.428449",
     "geom:latitude":30.428449,
     "geom:longitude":-91.019999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14734 S Harrells Ferry Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85846315
     ],
+    "wof:brand_id":1125155037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52VqdojSZsWYJKUiZJW57x_30.428449_-91.019999@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522312,
-    "wof:geomhash":"024cd7e19b9e167ce1ff657bc4a6e1c0",
+    "wof:geomhash":"3fbe2d22ba7d4f77147886bed33f23f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840153095,
-    "wof:lastmodified":1466540830,
+    "wof:lastmodified":1510694953,
     "wof:name":"New Hope Community Church",
     "wof:parent_id":85846315,
     "wof:placetype":"venue",

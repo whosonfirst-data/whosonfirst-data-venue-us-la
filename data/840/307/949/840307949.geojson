@@ -2,9 +2,14 @@
   "id": 840307949,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 S Claiborne Ave New Orleans LA 70125",
+    "addr:housenumber":"5200",
+    "addr:postcode":"70125",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.109513,29.941277,-90.109513,29.941277",
     "geom:latitude":29.941277,
     "geom:longitude":-90.109513,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866127,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866127
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866127,
             "region_id":85688735,
             "venue_id":840307949
         }
     ],
     "wof:id":840307949,
-    "wof:lastmodified":1466542683,
+    "wof:lastmodified":1486687240,
     "wof:name":"Home Care Supply",
     "wof:parent_id":85866127,
     "wof:placetype":"venue",

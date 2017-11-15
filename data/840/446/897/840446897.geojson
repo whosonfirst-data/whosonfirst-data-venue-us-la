@@ -2,14 +2,20 @@
   "id": 840446897,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Lamar St Houma LA 70360",
+    "addr:housenumber":"105",
+    "addr:postcode":"70360",
+    "addr:street":"Lamar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.728105,29.572764,-90.728105,29.572764",
     "geom:latitude":29.572764,
     "geom:longitude":-90.728105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Lamar St",
     "sg:city":"Houma",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081923,
         85803459
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01nUKdFOk3jADVJuKbkTOF_29.572764_-90.728105@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533159,
-    "wof:geomhash":"debfa1d2d409789a529bdbb11bbc6c5d",
+    "wof:geomhash":"aae1074e415bcd59209129a04d984849",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840446897,
-    "wof:lastmodified":1466545396,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",

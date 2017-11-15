@@ -2,14 +2,20 @@
   "id": 840214625,
   "type": "Feature",
   "properties": {
+    "addr:full":"4460 Lake St Lake Charles LA 70605",
+    "addr:housenumber":"4460",
+    "addr:postcode":"70605",
+    "addr:street":"Lake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.232452,30.180545,-93.232452,30.180545",
     "geom:latitude":30.180545,
     "geom:longitude":-93.232452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4460 Lake St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":420573797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ew8rsaLS9KJNUvm7F1YEN_30.180545_-93.232452@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523720,
-    "wof:geomhash":"826fbee390c0f42887505714ea907ed6",
+    "wof:geomhash":"7e7522f40b5f3a5a207119061de801a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840214625,
-    "wof:lastmodified":1466541580,
+    "wof:lastmodified":1510603470,
     "wof:name":"Walgreens",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

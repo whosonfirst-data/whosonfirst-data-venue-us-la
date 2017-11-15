@@ -2,9 +2,14 @@
   "id": 840429615,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Aurora Dr New Orleans LA 70131",
+    "addr:housenumber":"600",
+    "addr:postcode":"70131",
+    "addr:street":"Aurora Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.9882,29.920503,-89.9882,29.920503",
     "geom:latitude":29.920503,
     "geom:longitude":-89.9882,
@@ -27,7 +32,16 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NleBKppLjGRn39SmNRKAo_29.920503_-89.988200@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463532424,
     "wof:geomhash":"f1a62bb74dfb337f9209c8fb8d5c5c98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840429615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840429615
+        }
+    ],
     "wof:id":840429615,
-    "wof:lastmodified":1466544980,
+    "wof:lastmodified":1486689007,
     "wof:name":"Wiechers Renovation Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

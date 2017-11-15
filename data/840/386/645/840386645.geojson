@@ -2,14 +2,20 @@
   "id": 840386645,
   "type": "Feature",
   "properties": {
+    "addr:full":"3304 Industrial Dr Bossier City LA 71112",
+    "addr:housenumber":"3304",
+    "addr:postcode":"71112",
+    "addr:street":"Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.688178,32.523435,-93.688178,32.523435",
     "geom:latitude":32.523435,
     "geom:longitude":-93.688178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3304 Industrial Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tmmydSSL8sMIpmxVYi4WN_32.523435_-93.688178@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530658,
-    "wof:geomhash":"4bd29883f2a8109c25dec71a9225d8e5",
+    "wof:geomhash":"6cdd7f6294afe36e9a8d16f8edf4fdb0",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840386645,
-    "wof:lastmodified":1466544018,
+    "wof:lastmodified":1510699335,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

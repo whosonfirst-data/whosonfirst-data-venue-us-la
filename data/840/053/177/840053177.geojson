@@ -2,9 +2,14 @@
   "id": 840053177,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Hay Pl New Orleans LA 70124",
+    "addr:housenumber":"119",
+    "addr:postcode":"70124",
+    "addr:street":"Hay Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11565,30.018385,-90.11565,30.018385",
     "geom:latitude":30.018385,
     "geom:longitude":-90.11565,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DF7DRVSXnz244TAEAWQsZ_30.018385_-90.115650@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520111,
     "wof:geomhash":"ee38ddf34726f1b818f159664fbe8caf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840053177
+        }
+    ],
     "wof:id":840053177,
-    "wof:lastmodified":1466540085,
+    "wof:lastmodified":1486689076,
     "wof:name":"Wirtman Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

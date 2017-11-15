@@ -2,14 +2,20 @@
   "id": 840339775,
   "type": "Feature",
   "properties": {
+    "addr:full":"18320 Ferry Lane Ave Baton Rouge LA 70816",
+    "addr:housenumber":"18320",
+    "addr:postcode":"70816",
+    "addr:street":"Ferry Lane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.984797,30.418304,-90.984797,30.418304",
     "geom:latitude":30.418304,
     "geom:longitude":-90.984797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18320 Ferry Lane Ave",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85830403,
         102087229
     ],
+    "wof:brand_id":1125155037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jpM5Va4G7oAGfGz4LFv87_30.418304_-90.984797@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528402,
-    "wof:geomhash":"3c8d9b2b64e5bd830e1ef98f0069d22e",
+    "wof:geomhash":"bfc420f2077f2b1e756e81144477b3af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840339775,
-    "wof:lastmodified":1466543346,
+    "wof:lastmodified":1510694953,
     "wof:name":"New Hope Community Church",
     "wof:parent_id":85830403,
     "wof:placetype":"venue",

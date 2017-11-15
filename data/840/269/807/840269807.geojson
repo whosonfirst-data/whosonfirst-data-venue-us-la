@@ -2,9 +2,14 @@
   "id": 840269807,
   "type": "Feature",
   "properties": {
+    "addr:full":"6844 Memphis St New Orleans LA 70124",
+    "addr:housenumber":"6844",
+    "addr:postcode":"70124",
+    "addr:street":"Memphis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.104704,30.014844,-90.104704,30.014844",
     "geom:latitude":30.014844,
     "geom:longitude":-90.104704,
@@ -29,12 +34,13 @@
     "sg:website":"www.promo-no.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840269807
         }
     ],
     "wof:id":840269807,
-    "wof:lastmodified":1466542159,
+    "wof:lastmodified":1486688171,
     "wof:name":"Hymel/Promotional Marketing",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

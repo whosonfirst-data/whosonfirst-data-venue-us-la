@@ -2,9 +2,14 @@
   "id": 840267723,
   "type": "Feature",
   "properties": {
+    "addr:full":"10713 Chef Menteur Hwy New Orleans LA 70127",
+    "addr:housenumber":"10713",
+    "addr:postcode":"70127",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.959425,30.020806,-89.959425,30.020806",
     "geom:latitude":30.020806,
     "geom:longitude":-89.959425,
@@ -27,7 +32,15 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fKj2CulNULikDVQ281PBA_30.020806_-89.959425@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463525062,
     "wof:geomhash":"e45e3200f2843bfad73649246115f6b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840267723
+        }
+    ],
     "wof:id":840267723,
-    "wof:lastmodified":1466542055,
+    "wof:lastmodified":1486688742,
     "wof:name":"Washington Building Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

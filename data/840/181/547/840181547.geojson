@@ -2,14 +2,20 @@
   "id": 840181547,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 E Miller St Iowa LA 70647",
+    "addr:housenumber":"600",
+    "addr:postcode":"70647",
+    "addr:street":"E Miller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.003143,30.245934,-93.003143,30.245934",
     "geom:latitude":30.245934,
     "geom:longitude":-93.003143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 E Miller St",
     "sg:city":"Iowa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125156875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FTWhA3JD06geru1DxWC3t_30.245934_-93.003143@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522942,
-    "wof:geomhash":"cb0ed749aa732ab88453b1b9c68c23f9",
+    "wof:geomhash":"fb8ffd4ee475df64f5d1e6bf8e03b1dc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840181547,
-    "wof:lastmodified":1466541441,
+    "wof:lastmodified":1510696997,
     "wof:name":"Video Express",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840452705,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Veterans Memorial Blvd Metairie LA 70005",
+    "addr:housenumber":"900",
+    "addr:postcode":"70005",
+    "addr:street":"Veterans Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.132021,30.001512,-90.132021,30.001512",
     "geom:latitude":30.001512,
     "geom:longitude":-90.132021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Veterans Memorial Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85866149
     ],
+    "wof:brand_id":1125152509,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mIKpsQoFpSZdvw7p2fV1r_30.001512_-90.132021@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533411,
-    "wof:geomhash":"f4cb20648bb06d73004eeb380a059b2e",
+    "wof:geomhash":"7d74afb922949a0f05ef5ea0389b84b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840452705,
-    "wof:lastmodified":1466545292,
+    "wof:lastmodified":1510697063,
     "wof:name":"Wing Zone",
     "wof:parent_id":85866149,
     "wof:placetype":"venue",

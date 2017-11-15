@@ -2,14 +2,20 @@
   "id": 840455223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3164 Government St Baton Rouge LA 70806",
+    "addr:housenumber":"3164",
+    "addr:postcode":"70806",
+    "addr:street":"Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.156041,30.444137,-91.156041,30.444137",
     "geom:latitude":30.444137,
     "geom:longitude":-91.156041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3164 Government St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087229,
         85876073
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7adGGIHIxiSp7LIGNtNA7F_30.444137_-91.156041@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533512,
-    "wof:geomhash":"aceee410950166c0e4161d175038f621",
+    "wof:geomhash":"1c1e50520b8cc2da91b6e3167b429506",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840455223,
-    "wof:lastmodified":1466545347,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85876073,
     "wof:placetype":"venue",

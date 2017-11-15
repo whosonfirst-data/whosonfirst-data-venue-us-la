@@ -2,9 +2,14 @@
   "id": 840362011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3321 Audubon St New Orleans LA 70125",
+    "addr:housenumber":"3321",
+    "addr:postcode":"70125",
+    "addr:street":"Audubon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.10832,29.959222,-90.10832,29.959222",
     "geom:latitude":29.959222,
     "geom:longitude":-90.10832,
@@ -28,7 +33,15 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866077,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DkZtZNCEIplhMxlYeWQhJ_29.959222_-90.108320@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463529479,
     "wof:geomhash":"7bb6003bba966869ebee1cf5bfbd0180",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840362011
+        }
+    ],
     "wof:id":840362011,
-    "wof:lastmodified":1466543582,
+    "wof:lastmodified":1486688311,
     "wof:name":"Gert Town Community Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

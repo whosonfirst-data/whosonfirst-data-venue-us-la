@@ -2,14 +2,20 @@
   "id": 840032025,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Central St West Monroe LA 71292",
+    "addr:housenumber":"400",
+    "addr:postcode":"71292",
+    "addr:street":"Central St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.144286,32.484351,-92.144286,32.484351",
     "geom:latitude":32.484351,
     "geom:longitude":-92.144286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Central St",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ChXhZuD6G6vMshfnT2wsB_32.484351_-92.144286@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519672,
-    "wof:geomhash":"5033eef7003c7e48dda38c633e81637a",
+    "wof:geomhash":"735383f068b5a68a8258a3dfd77bbaab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840032025,
-    "wof:lastmodified":1466539845,
+    "wof:lastmodified":1510695398,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

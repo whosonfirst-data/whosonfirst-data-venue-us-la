@@ -2,14 +2,20 @@
   "id": 840352107,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Pujo St Lake Charles LA 70601",
+    "addr:housenumber":"700",
+    "addr:postcode":"70601",
+    "addr:street":"Pujo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.209813,30.226884,-93.209813,30.226884",
     "geom:latitude":30.226884,
     "geom:longitude":-93.209813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Pujo St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125155787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j0wZg4qe7l970F3xtrxEc_30.226884_-93.209813@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529021,
-    "wof:geomhash":"0dfeede04ecaacbf840595fa69f51579",
+    "wof:geomhash":"e28ffd24f68c230270bb461cec0c6172",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840352107,
-    "wof:lastmodified":1466543533,
+    "wof:lastmodified":1510697667,
     "wof:name":"Legg Mason Wood Walker Inc",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

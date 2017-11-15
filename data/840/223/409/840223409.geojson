@@ -2,9 +2,14 @@
   "id": 840223409,
   "type": "Feature",
   "properties": {
+    "addr:full":"7609 Lady Gray St New Orleans LA 70127",
+    "addr:housenumber":"7609",
+    "addr:postcode":"70127",
+    "addr:street":"Lady Gray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.977474,30.048353,-89.977474,30.048353",
     "geom:latitude":30.048353,
     "geom:longitude":-89.977474,
@@ -31,7 +36,15 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eEOyr3jTU1kPtBV1K9Hj4_30.048353_-89.977474@1294127638"
@@ -39,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1463523910,
     "wof:geomhash":"b6b287130f38ddb78cd7c7bc5aa3658c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840223409
+        }
+    ],
     "wof:id":840223409,
-    "wof:lastmodified":1466541823,
+    "wof:lastmodified":1486688723,
     "wof:name":"Mike's Pool Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 840449459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 E Pont Des Mouton Rd Lafayette LA 70507",
+    "addr:housenumber":"1234",
+    "addr:postcode":"70507",
+    "addr:street":"E Pont Des Mouton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840449459,
-    "wof:lastmodified":1466545312,
+    "wof:lastmodified":1472624883,
     "wof:name":"Brown Park Athletics",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

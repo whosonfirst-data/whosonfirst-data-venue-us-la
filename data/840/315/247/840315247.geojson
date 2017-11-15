@@ -2,14 +2,20 @@
   "id": 840315247,
   "type": "Feature",
   "properties": {
+    "addr:full":"43483 S Airport Rd Hammond LA 70403",
+    "addr:housenumber":"43483",
+    "addr:postcode":"70403",
+    "addr:street":"S Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.414615,30.48121,-90.414615,30.48121",
     "geom:latitude":30.48121,
     "geom:longitude":-90.414615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"43483 S Airport Rd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083809,
         85839553
     ],
+    "wof:brand_id":1125159085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rMkrV6bi8RoHkXTU1NCOb_30.481210_-90.414615@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527228,
-    "wof:geomhash":"81447807bf75870dca007306ad540025",
+    "wof:geomhash":"bcb70030dd48153ede6672d55720f98f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840315247,
-    "wof:lastmodified":1466543312,
+    "wof:lastmodified":1510693763,
     "wof:name":"St James AME Church",
     "wof:parent_id":85839553,
     "wof:placetype":"venue",

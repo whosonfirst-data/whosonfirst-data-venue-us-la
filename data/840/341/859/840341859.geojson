@@ -2,9 +2,14 @@
   "id": 840341859,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Brooklyn Ave New Orleans LA 70114",
+    "addr:housenumber":"800",
+    "addr:postcode":"70114",
+    "addr:street":"Brooklyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.05348,29.946433,-90.05348,29.946433",
     "geom:latitude":29.946433,
     "geom:longitude":-90.05348,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F1lZnZJZabMXIdULsJ4th_29.946433_-90.053480@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528497,
     "wof:geomhash":"9d3a870863ccfc920622476374c7bb22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840341859
+        }
+    ],
     "wof:id":840341859,
-    "wof:lastmodified":1466543321,
+    "wof:lastmodified":1486689087,
     "wof:name":"7 Sisters Of Algeries",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

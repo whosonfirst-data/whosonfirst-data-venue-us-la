@@ -2,9 +2,14 @@
   "id": 203289065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 S Peters St Apt 205 New Orleans LA 70130",
+    "addr:housenumber":"1111;205",
+    "addr:postcode":"70130",
+    "addr:street":"S Peters St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065663,29.940002,-90.065663,29.940002",
     "geom:latitude":29.940002,
     "geom:longitude":-90.065663,
@@ -25,11 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746615,
+        85831571,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866969
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"2a664e307dd0e62a4ed8c79fc94d5fab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866969,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746615,
+            "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":203289065
         }
     ],
     "wof:id":203289065,
-    "wof:lastmodified":1466541044,
+    "wof:lastmodified":1486689180,
     "wof:name":"Harris Carolyn M Dr",
-    "wof:parent_id":85866969,
+    "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

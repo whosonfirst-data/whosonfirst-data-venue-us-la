@@ -2,9 +2,14 @@
   "id": 840427369,
   "type": "Feature",
   "properties": {
+    "addr:full":"9113 Apricot St New Orleans LA 70118",
+    "addr:housenumber":"9113",
+    "addr:postcode":"70118",
+    "addr:street":"Apricot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.12614,29.96639,-90.12614,29.96639",
     "geom:latitude":29.96639,
     "geom:longitude":-90.12614,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6blcozTfYeGmd0WXkFQk2W_29.966390_-90.126140@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463532330,
     "wof:geomhash":"d1e43a81d576565a26f77f5c859add6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840427369
+        }
+    ],
     "wof:id":840427369,
-    "wof:lastmodified":1466544923,
+    "wof:lastmodified":1486689041,
     "wof:name":"Solid Ground Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

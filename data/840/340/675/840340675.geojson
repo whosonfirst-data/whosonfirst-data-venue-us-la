@@ -2,14 +2,20 @@
   "id": 840340675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1628 Williamsburg Dr Bossier City LA 71112",
+    "addr:housenumber":"1628",
+    "addr:postcode":"71112",
+    "addr:street":"Williamsburg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.686094,32.510195,-93.686094,32.510195",
     "geom:latitude":32.510195,
     "geom:longitude":-93.686094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1628 Williamsburg Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125153127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rIywy5SS2QrBCfWSUGD4L_32.510195_-93.686094@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528443,
-    "wof:geomhash":"f2a1aeae51b34a8ee4bcbe526d17f43d",
+    "wof:geomhash":"51033015a5c6b19eaad1d2c4d0cc549f",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840340675,
-    "wof:lastmodified":1466542849,
+    "wof:lastmodified":1510699544,
     "wof:name":"Timeless Treasures",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

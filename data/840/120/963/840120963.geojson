@@ -2,14 +2,20 @@
   "id": 840120963,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 S 6th St Ponchatoula LA 70454",
+    "addr:housenumber":"174",
+    "addr:postcode":"70454",
+    "addr:street":"S 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.442613,30.437442,-90.442613,30.437442",
     "geom:latitude":30.437442,
     "geom:longitude":-90.442613,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"174 S 6th St",
     "sg:city":"Ponchatoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083809,
         85839553
     ],
+    "wof:brand_id":1125152367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CAGtY6yBMa12ljmTCKAUX_30.437442_-90.442613@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521659,
-    "wof:geomhash":"bd4f27321fcad6a2683e713817d66043",
+    "wof:geomhash":"1dcec150bc12c2a8106d7aa808c45bfc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840120963,
-    "wof:lastmodified":1466540963,
+    "wof:lastmodified":1510696798,
     "wof:name":"Raymond James Financial Svcs",
     "wof:parent_id":85839553,
     "wof:placetype":"venue",

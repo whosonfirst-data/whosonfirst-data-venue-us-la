@@ -2,9 +2,14 @@
   "id": 840390333,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Coolidge St New Orleans LA 70121",
+    "addr:housenumber":"124",
+    "addr:postcode":"70121",
+    "addr:street":"Coolidge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.143906,29.960253,-90.143906,29.960253",
     "geom:latitude":29.960253,
     "geom:longitude":-90.143906,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891225,
         102191575,
+        1108739491,
         85633793,
-        85948759,
-        102083179,
-        85891225
+        85948111,
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +49,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083179,
-            "locality_id":85948759,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85891225,
             "region_id":85688735,
             "venue_id":840390333
         }
     ],
     "wof:id":840390333,
-    "wof:lastmodified":1466544319,
+    "wof:lastmodified":1491915820,
     "wof:name":"South Pass Aquatics Inc",
     "wof:parent_id":85891225,
     "wof:placetype":"venue",

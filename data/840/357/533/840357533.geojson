@@ -2,14 +2,20 @@
   "id": 840357533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1938 E 70th St Shreveport LA 71105",
+    "addr:housenumber":"1938",
+    "addr:postcode":"71105",
+    "addr:street":"E 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.7101,32.443434,-93.7101,32.443434",
     "geom:latitude":32.443434,
     "geom:longitude":-93.7101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1938 E 70th St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H0dnEmNm8aBCa4h41Jz8R_32.443434_-93.710100@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529275,
-    "wof:geomhash":"bf85163e62090d427720740cc105c260",
+    "wof:geomhash":"afb18f06bccec1d57d5ba2acb7e0dd09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840357533,
-    "wof:lastmodified":1466543658,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

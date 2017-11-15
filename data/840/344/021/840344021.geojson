@@ -2,14 +2,20 @@
   "id": 840344021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 US Hwy 90 Morgan City LA 70380",
+    "addr:housenumber":"1201",
+    "addr:postcode":"70380",
+    "addr:street":"Us Hwy 90 Morgan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.260505,29.682792,-91.260505,29.682792",
     "geom:latitude":29.682792,
     "geom:longitude":-91.260505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 US Hwy 90",
     "sg:city":"Morgan City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125152337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ay6Ix5HGZnhMcjkA5ypve_29.682792_-91.260505@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528609,
-    "wof:geomhash":"70e31fc9faa88925c57eb5d997b8144a",
+    "wof:geomhash":"03ad563505891364a331d332b2970eac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840344021,
-    "wof:lastmodified":1466543327,
+    "wof:lastmodified":1510693921,
     "wof:name":"Express Check Advance",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

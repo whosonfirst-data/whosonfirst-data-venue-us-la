@@ -2,14 +2,20 @@
   "id": 840336433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 S Labarre Rd Metairie LA 70001",
+    "addr:housenumber":"1000",
+    "addr:postcode":"70001",
+    "addr:street":"S Labarre Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.152084,29.973519,-90.152084,29.973519",
     "geom:latitude":29.973519,
     "geom:longitude":-90.152084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 S Labarre Rd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125154375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yng1tnBNcXXELWqHM4g2k_29.973519_-90.152084@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528238,
-    "wof:geomhash":"f378287f531e0b37991c7dbf97df9a34",
+    "wof:geomhash":"8535491d34343280b6104c229384fe5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840336433,
-    "wof:lastmodified":1466543172,
+    "wof:lastmodified":1510699697,
     "wof:name":"US Foodservice",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

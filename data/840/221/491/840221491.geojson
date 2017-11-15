@@ -2,14 +2,20 @@
   "id": 840221491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1521 Corporate Dr Shreveport LA 71107",
+    "addr:housenumber":"1521",
+    "addr:postcode":"71107",
+    "addr:street":"Corporate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.777961,32.535718,-93.777961,32.535718",
     "geom:latitude":32.535718,
     "geom:longitude":-93.777961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1521 Corporate Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087235,
         85880989
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UlMb5mSalA5gGJEfUscSF_32.535718_-93.777961@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523864,
-    "wof:geomhash":"eee339affcce75f5795fd463d55c8498",
+    "wof:geomhash":"3b4074f5350734bf8498c7be4e3b75a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840221491,
-    "wof:lastmodified":1466541824,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85880989,
     "wof:placetype":"venue",

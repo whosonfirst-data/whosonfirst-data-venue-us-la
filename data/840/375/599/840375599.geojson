@@ -2,9 +2,14 @@
   "id": 840375599,
   "type": "Feature",
   "properties": {
+    "addr:full":"5828 Fleur de Lis Dr New Orleans LA 70124",
+    "addr:housenumber":"5828",
+    "addr:postcode":"70124",
+    "addr:street":"Fleur De Lis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.119518,29.998253,-90.119518,29.998253",
     "geom:latitude":29.998253,
     "geom:longitude":-90.119518,
@@ -29,7 +34,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746825,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31Nlcf90R8GBa3BVtyYK2j_29.998253_-90.119518@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463530153,
     "wof:geomhash":"249cca6d413ef12a795a9ad0ccd8eb25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746825,
+            "region_id":85688735,
+            "venue_id":840375599
+        }
+    ],
     "wof:id":840375599,
-    "wof:lastmodified":1466543839,
+    "wof:lastmodified":1486689066,
     "wof:name":"Lakewood Energy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

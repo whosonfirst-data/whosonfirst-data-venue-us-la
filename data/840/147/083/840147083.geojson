@@ -2,9 +2,14 @@
   "id": 840147083,
   "type": "Feature",
   "properties": {
+    "addr:full":"503 Soniat St New Orleans LA 70115",
+    "addr:housenumber":"503",
+    "addr:postcode":"70115",
+    "addr:street":"Soniat St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.110108,29.917482,-90.110108,29.917482",
     "geom:latitude":29.917482,
     "geom:longitude":-90.110108,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.american-limo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uqMDsiCLduUMNJmTGxuz2_29.917482_-90.110108@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522182,
     "wof:geomhash":"7969cb415e92ceb89dec829ecd0cac8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840147083
+        }
+    ],
     "wof:id":840147083,
-    "wof:lastmodified":1466540129,
+    "wof:lastmodified":1486689108,
     "wof:name":"American Luxury Limousines",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

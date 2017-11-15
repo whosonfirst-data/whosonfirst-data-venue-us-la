@@ -2,14 +2,20 @@
   "id": 840346493,
   "type": "Feature",
   "properties": {
+    "addr:full":"718 Jackson St Thibodaux LA 70301",
+    "addr:housenumber":"718",
+    "addr:postcode":"70301",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.822708,29.794062,-90.822708,29.794062",
     "geom:latitude":29.794062,
     "geom:longitude":-90.822708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"718 Jackson St",
     "sg:city":"Thibodaux",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084879,
         85844607
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KviUC0gkGgeIgnpVE43Q6_29.794062_-90.822708@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528722,
-    "wof:geomhash":"ea162ba65b7e54317253a6055059b07e",
+    "wof:geomhash":"d27a93ba95053effec7c746917c08300",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840346493,
-    "wof:lastmodified":1466543523,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85844607,
     "wof:placetype":"venue",

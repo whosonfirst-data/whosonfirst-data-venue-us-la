@@ -2,9 +2,14 @@
   "id": 839999995,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Hammond Hwy New Orleans LA 70124",
+    "addr:housenumber":"303",
+    "addr:postcode":"70124",
+    "addr:street":"Hammond Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.116728,30.019475,-90.116728,30.019475",
     "geom:latitude":30.019475,
     "geom:longitude":-90.116728,
@@ -34,7 +39,15 @@
     ],
     "sg:website":"www.hollywoodcuts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WEe0DecmL8FWklVb0oUFg_30.019475_-90.116728@1294127638"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1463518994,
     "wof:geomhash":"bd3dd45861fa37bab78877b06c87fa1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":839999995
+        }
+    ],
     "wof:id":839999995,
-    "wof:lastmodified":1466539588,
+    "wof:lastmodified":1486689072,
     "wof:name":"Kindred Environmental Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

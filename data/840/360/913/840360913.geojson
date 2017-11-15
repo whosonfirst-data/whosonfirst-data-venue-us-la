@@ -2,14 +2,20 @@
   "id": 840360913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1359 Veterans Memorial Blvd Kenner LA 70062",
+    "addr:housenumber":"1359",
+    "addr:postcode":"70062",
+    "addr:street":"Veterans Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.250066,30.006627,-90.250066,30.006627",
     "geom:latitude":30.006627,
     "geom:longitude":-90.250066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1359 Veterans Memorial Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125155389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03O3KgFcPph91eaNilkKQB_30.006627_-90.250066@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529426,
-    "wof:geomhash":"d379da6ff511b064a9e658bf506be38e",
+    "wof:geomhash":"9256f472bf82fa79060cf1a73e3c4bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840360913,
-    "wof:lastmodified":1466543747,
+    "wof:lastmodified":1510613260,
     "wof:name":"Lumber Liquidators",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

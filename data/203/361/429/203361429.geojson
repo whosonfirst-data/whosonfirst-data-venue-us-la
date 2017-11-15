@@ -2,14 +2,20 @@
   "id": 203361429,
   "type": "Feature",
   "properties": {
+    "addr:full":"4826 Belcher River Rd Belcher LA 71004",
+    "addr:housenumber":"4826",
+    "addr:postcode":"71004",
+    "addr:street":"Belcher River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.821508,32.760898,-93.821508,32.760898",
     "geom:latitude":32.760898,
     "geom:longitude":-93.821508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4826 Belcher River Rd",
     "sg:city":"Belcher",
     "sg:classifiers":[
@@ -43,12 +49,13 @@
         102087235,
         85825193
     ],
+    "wof:brand_id":1125152799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hhHMeZSWMUnedVC0abm1Z_32.760898_-93.821508@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"fc2249269ba88fa9a803fdbc6c2f1946",
+    "wof:geomhash":"df79c3bf05ed0a52a4571d7f9cc588c6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":203361429,
-    "wof:lastmodified":1466539485,
+    "wof:lastmodified":1510697600,
     "wof:name":"New Bethel Baptist Church",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",

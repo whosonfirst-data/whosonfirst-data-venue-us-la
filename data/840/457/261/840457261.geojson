@@ -2,9 +2,14 @@
   "id": 840457261,
   "type": "Feature",
   "properties": {
+    "addr:full":"8330 Earhart Blvd New Orleans LA 70118",
+    "addr:housenumber":"8330",
+    "addr:postcode":"70118",
+    "addr:street":"Earhart Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117323,29.962537,-90.117323,29.962537",
     "geom:latitude":29.962537,
     "geom:longitude":-90.117323,
@@ -29,7 +34,15 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866077,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DFCRJHXwBfZY0ax81hzbD_29.962912_-90.117557@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463533588,
     "wof:geomhash":"eff235ab98565f3e885899ee5dbee9c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840457261
+        }
+    ],
     "wof:id":840457261,
-    "wof:lastmodified":1466545345,
+    "wof:lastmodified":1486688314,
     "wof:name":"Red Star Chinese Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840333763,
   "type": "Feature",
   "properties": {
+    "addr:full":"4921 Pentland Dr New Orleans LA 70128",
+    "addr:housenumber":"4921",
+    "addr:postcode":"70128",
+    "addr:street":"Pentland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.949624,30.027894,-89.949624,30.027894",
     "geom:latitude":30.027894,
     "geom:longitude":-89.949624,
@@ -24,7 +29,15 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DKOSWnaaXpk5dB5PptPD4_30.027894_-89.949624@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528115,
     "wof:geomhash":"549cf850a10081e0f399c7c7540e92b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840333763
+        }
+    ],
     "wof:id":840333763,
-    "wof:lastmodified":1466543237,
+    "wof:lastmodified":1486688744,
     "wof:name":"G Adrain Harris Properties Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

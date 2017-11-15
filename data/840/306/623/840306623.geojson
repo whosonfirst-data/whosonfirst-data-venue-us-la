@@ -2,9 +2,14 @@
   "id": 840306623,
   "type": "Feature",
   "properties": {
+    "addr:full":"4626 Alcee Fortier Blvd New Orleans LA 70129",
+    "addr:housenumber":"4626",
+    "addr:postcode":"70129",
+    "addr:street":"Alcee Fortier Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.911738,30.036523,-89.911738,30.036523",
     "geom:latitude":30.036523,
     "geom:longitude":-89.911738,
@@ -28,7 +33,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IcDnMA79uJd5VzoHLJpAr_30.036523_-89.911738@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463526834,
     "wof:geomhash":"e388c8d60924f917a0e1100c0c634613",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840306623
+        }
+    ],
     "wof:id":840306623,
-    "wof:lastmodified":1466542732,
+    "wof:lastmodified":1486688230,
     "wof:name":"Xuong H Nguyen MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840265447,
   "type": "Feature",
   "properties": {
+    "addr:full":"9616 Airline Hwy Baton Rouge LA 70815",
+    "addr:housenumber":"9616",
+    "addr:postcode":"70815",
+    "addr:street":"Airline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.082265,30.434091,-91.082265,30.434091",
     "geom:latitude":30.434091,
     "geom:longitude":-91.082265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9616 Airline Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087229,
         85826785
     ],
+    "wof:brand_id":420575543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29G7cxktNdtW2ly2ZK7CSx_30.434091_-91.082265@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524952,
-    "wof:geomhash":"f0a6cc3b64af3d58c7607b31bd8c1535",
+    "wof:geomhash":"0dd0865ec24d9e9bd5348b9b4706d13c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840265447,
-    "wof:lastmodified":1466542058,
+    "wof:lastmodified":1510602394,
     "wof:name":"Michaels Arts & Crafts Store",
     "wof:parent_id":85826785,
     "wof:placetype":"venue",

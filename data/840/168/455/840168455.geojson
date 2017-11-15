@@ -2,14 +2,20 @@
   "id": 840168455,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 N Beglis Pkwy Sulphur LA 70663",
+    "addr:housenumber":"504",
+    "addr:postcode":"70663",
+    "addr:street":"N Beglis Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359297,30.242059,-93.359297,30.242059",
     "geom:latitude":30.242059,
     "geom:longitude":-93.359297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 N Beglis Pkwy",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125151085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7brrUgzlZzRQBxrCr6I9Wo_30.242059_-93.359297@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522624,
-    "wof:geomhash":"f47ec2c3f2e861bc21bd4b56d261bf0f",
+    "wof:geomhash":"bbaf4fcfa316479ef4d981fa152a0a51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840168455,
-    "wof:lastmodified":1466541200,
+    "wof:lastmodified":1510695429,
     "wof:name":"Perkins Family Restaurant",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

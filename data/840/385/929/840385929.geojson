@@ -2,9 +2,14 @@
   "id": 840385929,
   "type": "Feature",
   "properties": {
+    "addr:full":"4615 Flake Ave New Orleans LA 70127",
+    "addr:housenumber":"4615",
+    "addr:postcode":"70127",
+    "addr:street":"Flake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.98931,30.019325,-89.98931,30.019325",
     "geom:latitude":30.019325,
     "geom:longitude":-89.98931,
@@ -28,7 +33,15 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866171,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F6S3K8MsbgaZitvxZVGeO_30.019325_-89.989310@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463530632,
     "wof:geomhash":"2ec3135f5436096cab6be3c5b1b7569d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866171,
+            "region_id":85688735,
+            "venue_id":840385929
+        }
+    ],
     "wof:id":840385929,
-    "wof:lastmodified":1466543842,
+    "wof:lastmodified":1486688739,
     "wof:name":"Micah & Michaiah Creations",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

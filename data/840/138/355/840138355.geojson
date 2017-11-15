@@ -2,14 +2,20 @@
   "id": 840138355,
   "type": "Feature",
   "properties": {
+    "addr:full":"11148 Cloverland Ave Baton Rouge LA 70809",
+    "addr:housenumber":"11148",
+    "addr:postcode":"70809",
+    "addr:street":"Cloverland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.057789,30.394995,-91.057789,30.394995",
     "geom:latitude":30.394995,
     "geom:longitude":-91.057789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11148 Cloverland Ave",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85814143,
         102087229
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PBbQ5eVUy4IjfiXLM4uSc_30.394995_-91.057789@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522016,
-    "wof:geomhash":"d65c962b4ab3ee9358cc180e86fb6dca",
+    "wof:geomhash":"105333fc63e7ac938baa9d9281f20ff9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840138355,
-    "wof:lastmodified":1466541098,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85814143,
     "wof:placetype":"venue",

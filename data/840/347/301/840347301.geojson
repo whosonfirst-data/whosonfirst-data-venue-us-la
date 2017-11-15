@@ -2,14 +2,20 @@
   "id": 840347301,
   "type": "Feature",
   "properties": {
+    "addr:full":"4413 Nelson Rd Lake Charles LA 70605",
+    "addr:housenumber":"4413",
+    "addr:postcode":"70605",
+    "addr:street":"Nelson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.249191,30.176247,-93.249191,30.176247",
     "geom:latitude":30.176247,
     "geom:longitude":-93.249191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4413 Nelson Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125157595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26opMSk8Ksj9wuHZnWct6R_30.176247_-93.249191@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528757,
-    "wof:geomhash":"240da1772df28be705f73fb7bc5ba8aa",
+    "wof:geomhash":"1e68575a7c8cc79cffbe8624d37ed34d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840347301,
-    "wof:lastmodified":1466543394,
+    "wof:lastmodified":1510695420,
     "wof:name":"Exotic Nails",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

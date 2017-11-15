@@ -2,9 +2,14 @@
   "id": 840299767,
   "type": "Feature",
   "properties": {
+    "addr:full":"7100 Edgefield Dr New Orleans LA 70128",
+    "addr:housenumber":"7100",
+    "addr:postcode":"70128",
+    "addr:street":"Edgefield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.949154,30.058028,-89.949154,30.058028",
     "geom:latitude":30.058028,
     "geom:longitude":-89.949154,
@@ -28,7 +33,16 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739507,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tFKCgQ6CiiHNjP0vXOhhj_30.058028_-89.949154@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463526477,
     "wof:geomhash":"134a05fdb8c026ea6c66d3fb6076b2c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739507,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840299767
+        }
+    ],
     "wof:id":840299767,
-    "wof:lastmodified":1466542570,
+    "wof:lastmodified":1486689128,
     "wof:name":"L Camp Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

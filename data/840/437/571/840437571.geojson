@@ -2,14 +2,20 @@
   "id": 840437571,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 Matilda St Baton Rouge LA 70802",
+    "addr:housenumber":"1540",
+    "addr:postcode":"70802",
+    "addr:street":"Matilda St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.171445,30.435796,-91.171445,30.435796",
     "geom:latitude":30.435796,
     "geom:longitude":-91.171445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1540 Matilda St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85876087
     ],
+    "wof:brand_id":1125152799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36WDIU8afZ9HNPqP1cF2cb_30.435796_-91.171445@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532789,
-    "wof:geomhash":"36642b844e02316b2090d999cb173dd5",
+    "wof:geomhash":"1fc5bba88285fdd52b71a4f46b65f048",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840437571,
-    "wof:lastmodified":1466545105,
+    "wof:lastmodified":1510697600,
     "wof:name":"New Bethel Baptist Church",
     "wof:parent_id":85876087,
     "wof:placetype":"venue",

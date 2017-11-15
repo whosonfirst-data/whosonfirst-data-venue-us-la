@@ -2,9 +2,14 @@
   "id": 840146767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1017 Reynes St New Orleans LA 70117",
+    "addr:housenumber":"1017",
+    "addr:postcode":"70117",
+    "addr:street":"Reynes St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.022276,29.962434,-90.022276,29.962434",
     "geom:latitude":29.962434,
     "geom:longitude":-90.022276,
@@ -28,7 +33,15 @@
         "advocacy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746821,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gom1e0jVQFfmGTZBpSyrd_29.962434_-90.022276@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522176,
     "wof:geomhash":"3ce0421990e90fdaa2859d00f99db489",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746821,
+            "region_id":85688735,
+            "venue_id":840146767
+        }
+    ],
     "wof:id":840146767,
-    "wof:lastmodified":1466540086,
+    "wof:lastmodified":1486689043,
     "wof:name":"Lower Ninth Ward Advocacy Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

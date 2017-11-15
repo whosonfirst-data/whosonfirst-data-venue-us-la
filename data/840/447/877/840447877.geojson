@@ -2,9 +2,14 @@
   "id": 840447877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Saint Andrew St New Orleans LA 70130",
+    "addr:housenumber":"1020",
+    "addr:postcode":"70130",
+    "addr:street":"Saint Andrew St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.074595,29.93073,-90.074595,29.93073",
     "geom:latitude":29.93073,
     "geom:longitude":-90.074595,
@@ -30,13 +35,13 @@
     "sg:website":"www.stthomasclinic.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85831571,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866109,
-        85831571
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,24 +56,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866109,
-            "region_id":85688735,
-            "venue_id":840447877
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086693,
-            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":840447877
         }
     ],
     "wof:id":840447877,
-    "wof:lastmodified":1466545395,
+    "wof:lastmodified":1491861154,
     "wof:name":"St Thomas Health Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840069043,
   "type": "Feature",
   "properties": {
+    "addr:full":"7815 Dominican St New Orleans LA 70118",
+    "addr:housenumber":"7815",
+    "addr:postcode":"70118",
+    "addr:street":"Dominican St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.133951,29.940272,-90.133951,29.940272",
     "geom:latitude":29.940272,
     "geom:longitude":-90.133951,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746809,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85823083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85823083,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746809,
             "region_id":85688735,
             "venue_id":840069043
         }
     ],
     "wof:id":840069043,
-    "wof:lastmodified":1466540305,
+    "wof:lastmodified":1486689013,
     "wof:name":"Pam Caruso Graphic Design",
-    "wof:parent_id":85823083,
+    "wof:parent_id":1108746809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

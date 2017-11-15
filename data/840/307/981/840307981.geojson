@@ -2,14 +2,20 @@
   "id": 840307981,
   "type": "Feature",
   "properties": {
+    "addr:full":"2906 E Napoleon St Sulphur LA 70663",
+    "addr:housenumber":"2906",
+    "addr:postcode":"70663",
+    "addr:street":"E Napoleon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.339846,30.236814,-93.339846,30.236814",
     "geom:latitude":30.236814,
     "geom:longitude":-93.339846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2906 E Napoleon St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zlwhVIYNkFbWL0TJ31QM5_30.236814_-93.339846@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526894,
-    "wof:geomhash":"ba449b70bd7a7a418deb0134c5b9f882",
+    "wof:geomhash":"c720be2f45035f8a7fb5df8726001592",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840307981,
-    "wof:lastmodified":1466542684,
+    "wof:lastmodified":1510697978,
     "wof:name":"Wingfoot Commercial Tire Systs",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

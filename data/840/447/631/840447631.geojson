@@ -2,14 +2,20 @@
   "id": 840447631,
   "type": "Feature",
   "properties": {
+    "addr:full":"7054 Siegen Ln Baton Rouge LA 70809",
+    "addr:housenumber":"",
+    "addr:postcode":"7054;70809",
+    "addr:street":"Siegen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.064034,30.385803,-91.064034,30.385803",
     "geom:latitude":30.385803,
     "geom:longitude":-91.064034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7054 Siegen Ln",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087229,
         85803941
     ],
+    "wof:brand_id":420575047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5emFESHCHXwqK3Ig1IIBXP_30.385803_-91.064034@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533187,
-    "wof:geomhash":"30f124523bc9c5e0078c6e51915423dd",
+    "wof:geomhash":"3f8902d513636e9f0a346fdec6834de8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840447631,
-    "wof:lastmodified":1466545353,
+    "wof:lastmodified":1510602549,
     "wof:name":"Party City",
     "wof:parent_id":85803941,
     "wof:placetype":"venue",

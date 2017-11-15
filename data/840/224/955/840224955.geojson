@@ -2,14 +2,20 @@
   "id": 840224955,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 Kirkman St Lake Charles LA 70601",
+    "addr:housenumber":"715",
+    "addr:postcode":"70601",
+    "addr:street":"Kirkman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.209771,30.230208,-93.209771,30.230208",
     "geom:latitude":30.230208,
     "geom:longitude":-93.209771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"715 Kirkman St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125155107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XRQvUELSCLw6Tc3WQ3UxY_30.230208_-93.209771@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523950,
-    "wof:geomhash":"a5ac104fe697450f8b41f5f56b27dfa5",
+    "wof:geomhash":"c83d7fc093faa78e58d1c1572e2f905d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840224955,
-    "wof:lastmodified":1466541617,
+    "wof:lastmodified":1510699581,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840071221,
   "type": "Feature",
   "properties": {
+    "addr:full":"9618 Airline Hwy Baton Rouge LA 70815",
+    "addr:housenumber":"9618",
+    "addr:postcode":"70815",
+    "addr:street":"Airline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.082291,30.434134,-91.082291,30.434134",
     "geom:latitude":30.434134,
     "geom:longitude":-91.082291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9618 Airline Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85826785
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25LxyXMubh9uamtnBZ6ftU_30.434134_-91.082291@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520502,
-    "wof:geomhash":"edfdbb016c688e80eb634000b0b96172",
+    "wof:geomhash":"f4751750650b2c3860c0003444e5206b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840071221,
-    "wof:lastmodified":1466540345,
+    "wof:lastmodified":1510602401,
     "wof:name":"Stein Mart",
     "wof:parent_id":85826785,
     "wof:placetype":"venue",

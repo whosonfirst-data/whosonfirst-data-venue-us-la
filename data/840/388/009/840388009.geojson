@@ -2,14 +2,20 @@
   "id": 840388009,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Tulane Ave New Orleans LA 70112",
+    "addr:housenumber":"1111",
+    "addr:postcode":"70112",
+    "addr:street":"Tulane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.074526,29.954602,-90.074526,29.954602",
     "geom:latitude":29.954602,
     "geom:longitude":-90.074526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1111 Tulane Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -26,35 +32,38 @@
     "sg:website":"www.hiberniafunds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85851209
+        85688735
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gVjdDf1xYKCUkjqawxurg_29.954602_-90.074526@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530720,
-    "wof:geomhash":"f4f7e3410eaa8c6536b25bda3e3d3a1d",
+    "wof:geomhash":"329afef3fc8309bd4edb9d2c9030489a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85851209,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840388009
         }
     ],
     "wof:id":840388009,
-    "wof:lastmodified":1466544095,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
-    "wof:parent_id":85851209,
+    "wof:parent_id":85866107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

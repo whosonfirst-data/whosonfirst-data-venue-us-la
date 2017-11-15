@@ -2,9 +2,14 @@
   "id": 840363517,
   "type": "Feature",
   "properties": {
+    "addr:full":"4006 Eden St New Orleans LA 70125",
+    "addr:housenumber":"4006",
+    "addr:postcode":"70125",
+    "addr:street":"Eden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.102001,29.951909,-90.102001,29.951909",
     "geom:latitude":29.951909,
     "geom:longitude":-90.102001,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866139,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866139
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866139,
             "region_id":85688735,
             "venue_id":840363517
         }
     ],
     "wof:id":840363517,
-    "wof:lastmodified":1466543717,
+    "wof:lastmodified":1486687557,
     "wof:name":"Real Design & Graphics",
     "wof:parent_id":85866139,
     "wof:placetype":"venue",

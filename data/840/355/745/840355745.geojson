@@ -2,9 +2,14 @@
   "id": 840355745,
   "type": "Feature",
   "properties": {
+    "addr:full":"1685 N Miro St New Orleans LA 70119",
+    "addr:housenumber":"1685",
+    "addr:postcode":"70119",
+    "addr:street":"N Miro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.070032,29.977384,-90.070032,29.977384",
     "geom:latitude":29.977384,
     "geom:longitude":-90.070032,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866083,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866083,
             "region_id":85688735,
             "venue_id":840355745
         }
     ],
     "wof:id":840355745,
-    "wof:lastmodified":1466543518,
+    "wof:lastmodified":1486687160,
     "wof:name":"Sey Pab Bar & Lounge",
     "wof:parent_id":85866083,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840166067,
   "type": "Feature",
   "properties": {
+    "addr:full":"2604 Magazine St New Orleans LA 70130",
+    "addr:housenumber":"2604",
+    "addr:postcode":"70130",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.08152,29.926636,-90.08152,29.926636",
     "geom:latitude":29.926636,
     "geom:longitude":-90.08152,
@@ -27,7 +32,15 @@
         "periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746823,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IVrxOoTcdgN8tofO754Te_29.926636_-90.081520@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463522564,
     "wof:geomhash":"c47cd6264b45746c487958c20ac81b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746823,
+            "region_id":85688735,
+            "venue_id":840166067
+        }
+    ],
     "wof:id":840166067,
-    "wof:lastmodified":1466541162,
+    "wof:lastmodified":1486689047,
     "wof:name":"2604 Magazine St",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

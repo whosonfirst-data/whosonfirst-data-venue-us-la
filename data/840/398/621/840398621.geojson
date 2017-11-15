@@ -2,14 +2,20 @@
   "id": 840398621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2710 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"2710",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218737,30.203466,-93.218737,30.203466",
     "geom:latitude":30.203466,
     "geom:longitude":-93.218737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2710 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125159715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vHZeHS65Y8iYFgTXUfaJ7_30.203466_-93.218737@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531153,
-    "wof:geomhash":"31c80f8810aa9ee6e73a88ce1d69f073",
+    "wof:geomhash":"1eaa62afe45698f5b6967683b2765808",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840398621,
-    "wof:lastmodified":1466544512,
+    "wof:lastmodified":1510613169,
     "wof:name":"Texas State Optical",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

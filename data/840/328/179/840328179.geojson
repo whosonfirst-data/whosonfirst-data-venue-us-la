@@ -2,9 +2,14 @@
   "id": 840328179,
   "type": "Feature",
   "properties": {
+    "addr:full":"14001 Michoud Blvd New Orleans LA 70129",
+    "addr:housenumber":"14001",
+    "addr:postcode":"70129",
+    "addr:street":"Michoud Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.927495,30.063557,-89.927495,30.063557",
     "geom:latitude":30.063557,
     "geom:longitude":-89.927495,
@@ -28,7 +33,15 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45fTQLkdvPaHRea9qZzFCA_30.063557_-89.927495@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463527866,
     "wof:geomhash":"21b1f76cb402518a44340ca8993a5340",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840328179
+        }
+    ],
     "wof:id":840328179,
-    "wof:lastmodified":1466543064,
+    "wof:lastmodified":1486688231,
     "wof:name":"Minority Support Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

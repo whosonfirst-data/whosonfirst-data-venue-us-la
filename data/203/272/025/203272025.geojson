@@ -2,9 +2,14 @@
   "id": 203272025,
   "type": "Feature",
   "properties": {
+    "addr:full":"2721 Frankfort St New Orleans LA 70122",
+    "addr:housenumber":"2721",
+    "addr:postcode":"70122",
+    "addr:street":"Frankfort St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049103,30.025999,-90.049103,30.025999",
     "geom:latitude":30.025999,
     "geom:longitude":-90.049103,
@@ -25,11 +30,15 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746555,
+        85834475,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85829167
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +48,32 @@
     "wof:geomhash":"8222139c4ccd5bc0fc593cab22a9c589",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829167,
+            "macrohood_id":1108746797,
+            "microhood_id":1108746555,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":203272025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746555,
+            "neighbourhood_id":85834475,
             "region_id":85688735,
             "venue_id":203272025
         }
     ],
     "wof:id":203272025,
-    "wof:lastmodified":1466541042,
+    "wof:lastmodified":1486689149,
     "wof:name":"Sunset Cab Service",
-    "wof:parent_id":85829167,
+    "wof:parent_id":1108746555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

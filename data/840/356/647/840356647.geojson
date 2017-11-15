@@ -2,9 +2,14 @@
   "id": 840356647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2105 Aramis Dr Meraux LA 70075",
+    "addr:housenumber":"2105",
+    "addr:postcode":"70075",
+    "addr:street":"Aramis Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.929756,29.930978,-89.929756,29.930978",
     "geom:latitude":29.930978,
     "geom:longitude":-89.929756,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -46,6 +52,7 @@
     "wof:geomhash":"705daa1e5afd521e19e8c83f98bc7e5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840356647,
-    "wof:lastmodified":1466543512,
+    "wof:lastmodified":1491910626,
     "wof:name":"Burkhardt's Air Conditioning",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

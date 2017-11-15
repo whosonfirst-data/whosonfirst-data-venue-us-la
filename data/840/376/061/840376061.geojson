@@ -2,9 +2,14 @@
   "id": 840376061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Conery St New Orleans LA 70115",
+    "addr:housenumber":"1525",
+    "addr:postcode":"70115",
+    "addr:street":"Conery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.08633,29.930265,-90.08633,29.930265",
     "geom:latitude":29.930265,
     "geom:longitude":-90.08633,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821037,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821037
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821037,
             "region_id":85688735,
             "venue_id":840376061
         }
     ],
     "wof:id":840376061,
-    "wof:lastmodified":1466543866,
+    "wof:lastmodified":1486686904,
     "wof:name":"Rafferty Enterprises Inc",
     "wof:parent_id":85821037,
     "wof:placetype":"venue",

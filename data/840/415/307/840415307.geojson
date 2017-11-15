@@ -2,9 +2,14 @@
   "id": 840415307,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 Carondelet St New Orleans LA 70130",
+    "addr:housenumber":"727",
+    "addr:postcode":"70130",
+    "addr:street":"Carondelet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.072885,29.946592,-90.072885,29.946592",
     "geom:latitude":29.946592,
     "geom:longitude":-90.072885,
@@ -25,12 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746615,
+        85831571,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866107,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746615,
+            "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":840415307
         }
     ],
     "wof:id":840415307,
-    "wof:lastmodified":1466544702,
+    "wof:lastmodified":1486689192,
     "wof:name":"L E Rabouin Career Magnet Schl",
-    "wof:parent_id":85866107,
+    "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

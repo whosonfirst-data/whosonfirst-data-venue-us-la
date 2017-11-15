@@ -2,9 +2,14 @@
   "id": 203274559,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Pineda St New Orleans LA 70126",
+    "addr:housenumber":"",
+    "addr:postcode":"4700;70126",
+    "addr:street":"Pineda St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037468,30.012874,-90.037468,30.012874",
     "geom:latitude":30.012874,
     "geom:longitude":-90.037468,
@@ -30,11 +35,14 @@
     "sg:website":"www.catholiccharitiesusa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821299,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735,
+        1108739491
     ],
     "wof:brand_id":420574609,
     "wof:breaches":[],
@@ -45,17 +53,28 @@
     "wof:geomhash":"c152e93c9867e756d7d331436a5ef8c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":203274559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821299,
             "region_id":85688735,
             "venue_id":203274559
         }
     ],
     "wof:id":203274559,
-    "wof:lastmodified":1466539351,
+    "wof:lastmodified":1486688058,
     "wof:name":"Catholic Charities",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",

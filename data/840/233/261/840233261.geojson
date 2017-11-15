@@ -2,9 +2,14 @@
   "id": 840233261,
   "type": "Feature",
   "properties": {
+    "addr:full":"3458 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"3458",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.090521,29.922358,-90.090521,29.922358",
     "geom:latitude":29.922358,
     "geom:longitude":-90.090521,
@@ -27,7 +32,15 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yChISPNkKVmRZzd9f7O09_29.922358_-90.090521@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463524204,
     "wof:geomhash":"b85e00a8a697e7d4af9ef4e2b548b9a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840233261
+        }
+    ],
     "wof:id":840233261,
-    "wof:lastmodified":1466541707,
+    "wof:lastmodified":1486689024,
     "wof:name":"Magazine Street Animal Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

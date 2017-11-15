@@ -2,14 +2,20 @@
   "id": 840440623,
   "type": "Feature",
   "properties": {
+    "addr:full":"8407 E Cypress Point Ct Baton Rouge LA 70809",
+    "addr:housenumber":"8407",
+    "addr:postcode":"70809",
+    "addr:street":"E Cypress Point Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.0973,30.405773,-91.0973,30.405773",
     "geom:latitude":30.405773,
     "geom:longitude":-91.0973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8407 E Cypress Point Ct",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818233,
         102087229
     ],
+    "wof:brand_id":1125154569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GWmcQbjVE8Ce0RGcPjJRr_30.405773_-91.097300@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532926,
-    "wof:geomhash":"d2dbb9c28391bf3a2b6cfd5356a32d7c",
+    "wof:geomhash":"834df5e4a423500f7b744a5759a28228",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840440623,
-    "wof:lastmodified":1466545118,
+    "wof:lastmodified":1510695259,
     "wof:name":"St Paul Travelers",
     "wof:parent_id":85818233,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840009925,
   "type": "Feature",
   "properties": {
+    "addr:full":"7097 W Tamaron Blvd New Orleans LA 70128",
+    "addr:housenumber":"7097",
+    "addr:postcode":"70128",
+    "addr:street":"W Tamaron Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.948689,30.055339,-89.948689,30.055339",
     "geom:latitude":30.055339,
     "geom:longitude":-89.948689,
@@ -24,7 +29,16 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746613,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tb4aiLhlRTL6Gk5jcE9Xu_30.055339_-89.948689@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463519207,
     "wof:geomhash":"3305145176995474c2884872c4d79c01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746613,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840009925
+        }
+    ],
     "wof:id":840009925,
-    "wof:lastmodified":1466539636,
+    "wof:lastmodified":1486689151,
     "wof:name":"Mc Daniel Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

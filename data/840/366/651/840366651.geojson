@@ -2,9 +2,14 @@
   "id": 840366651,
   "type": "Feature",
   "properties": {
+    "addr:full":"4019 Gibson St New Orleans LA 70122",
+    "addr:housenumber":"4019",
+    "addr:postcode":"70122",
+    "addr:street":"Gibson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.076085,29.99857,-90.076085,29.99857",
     "geom:latitude":29.99857,
     "geom:longitude":-90.076085,
@@ -25,12 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108732587,
+        420521743,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866079
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866079,
+            "macrohood_id":1108739491,
+            "microhood_id":1108732587,
+            "neighbourhood_id":420521743,
             "region_id":85688735,
             "venue_id":840366651
         }
     ],
     "wof:id":840366651,
-    "wof:lastmodified":1466543745,
+    "wof:lastmodified":1486689118,
     "wof:name":"St Bernard Residence Cncl",
-    "wof:parent_id":85866079,
+    "wof:parent_id":1108732587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840310131,
   "type": "Feature",
   "properties": {
+    "addr:full":"11449 Morrison Rd New Orleans LA 70128",
+    "addr:housenumber":"11449",
+    "addr:postcode":"70128",
+    "addr:street":"Morrison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.9691,30.049163,-89.9691,30.049163",
     "geom:latitude":30.049163,
     "geom:longitude":-89.9691,
@@ -28,7 +33,15 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qwt5IcZytqXlFPfb5m8uK_30.049163_-89.969100@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463527008,
     "wof:geomhash":"3624aa6e1d278c11b1296787a8d9ac79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840310131
+        }
+    ],
     "wof:id":840310131,
-    "wof:lastmodified":1466542690,
+    "wof:lastmodified":1486688705,
     "wof:name":"C M Spooner Construction LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

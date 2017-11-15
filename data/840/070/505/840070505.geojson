@@ -2,9 +2,14 @@
   "id": 840070505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 General Taylor St New Orleans LA 70115",
+    "addr:housenumber":"2300",
+    "addr:postcode":"70115",
+    "addr:street":"General Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.098379,29.934645,-90.098379,29.934645",
     "geom:latitude":29.934645,
     "geom:longitude":-90.098379,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866119,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866119
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866119,
             "region_id":85688735,
             "venue_id":840070505
         }
     ],
     "wof:id":840070505,
-    "wof:lastmodified":1466540372,
+    "wof:lastmodified":1486688608,
     "wof:name":"Lawrence D Crocker Elementary",
     "wof:parent_id":85866119,
     "wof:placetype":"venue",

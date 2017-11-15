@@ -2,14 +2,20 @@
   "id": 840001597,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 Murray St Alexandria LA 71301",
+    "addr:housenumber":"1605",
+    "addr:postcode":"71301",
+    "addr:street":"Murray St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.45314,31.303711,-92.45314,31.303711",
     "geom:latitude":31.303711,
     "geom:longitude":-92.45314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1605 Murray St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125157699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oVgn10hljYIbJFEEuzRmW_31.303711_-92.453140@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519025,
-    "wof:geomhash":"114d3615ea857ceec3be350ecf6aaa75",
+    "wof:geomhash":"771fc5c758b98e87e6b03030357f5f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840001597,
-    "wof:lastmodified":1466539604,
+    "wof:lastmodified":1510694902,
     "wof:name":"Physicians Mutual Insurance Co",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

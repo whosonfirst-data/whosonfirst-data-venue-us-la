@@ -2,9 +2,14 @@
   "id": 840433731,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 Lakeshore Dr New Orleans LA 70122",
+    "addr:housenumber":"2222",
+    "addr:postcode":"70122",
+    "addr:street":"Lakeshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.073173,30.031657,-90.073173,30.031657",
     "geom:latitude":30.031657,
     "geom:longitude":-90.073173,
@@ -26,12 +31,15 @@
     "sg:website":"www.bagnola.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739667,
         102191575,
+        1108746799,
         85633793,
         85948111,
         102086693,
-        85842679
+        85688735,
+        1108739491,
+        1108746797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +54,36 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85842679,
+            "macrohood_id":1108746799,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":840433731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":840433731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":1108739667,
             "region_id":85688735,
             "venue_id":840433731
         }
     ],
     "wof:id":840433731,
-    "wof:lastmodified":1466545138,
+    "wof:lastmodified":1486689055,
     "wof:name":"New Orleans Baptist Assoc",
-    "wof:parent_id":85842679,
+    "wof:parent_id":1108739667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

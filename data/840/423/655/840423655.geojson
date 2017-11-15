@@ -2,9 +2,14 @@
   "id": 840423655,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Sullivan Pl New Orleans LA 70131",
+    "addr:housenumber":"16",
+    "addr:postcode":"70131",
+    "addr:street":"Sullivan Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.00372,29.92823,-90.00372,29.92823",
     "geom:latitude":29.92823,
     "geom:longitude":-90.00372,
@@ -27,7 +32,16 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T0DjmdSUjRpVH9VZoby56_29.928230_-90.003720@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463532174,
     "wof:geomhash":"3ef52428e2b322da2990158ad9661847",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840423655
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840423655
+        }
+    ],
     "wof:id":840423655,
-    "wof:lastmodified":1466544962,
+    "wof:lastmodified":1486689007,
     "wof:name":"Summers Marine Consultant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840326569,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 Ockley Dr Shreveport LA 71105",
+    "addr:housenumber":"262",
+    "addr:postcode":"71105",
+    "addr:street":"Ockley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.71901,32.470385,-93.71901,32.470385",
     "geom:latitude":32.470385,
     "geom:longitude":-93.71901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"262 Ockley Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087235,
         85807711
     ],
+    "wof:brand_id":1125154141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BIsRL0gzJKrPLbCII836W_32.470385_-93.719010@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527790,
-    "wof:geomhash":"29f0b3e73bf8fbc4fee811f61d6bd642",
+    "wof:geomhash":"53b24e280a2f55610084980b29bbe77c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840326569,
-    "wof:lastmodified":1466543332,
+    "wof:lastmodified":1510694978,
     "wof:name":"Razor's Edge",
     "wof:parent_id":85807711,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840116167,
   "type": "Feature",
   "properties": {
+    "addr:full":"1602 W Pinhook Rd Lafayette LA 70508",
+    "addr:housenumber":"1602",
+    "addr:postcode":"70508",
+    "addr:street":"W Pinhook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.01621,30.194826,-92.01621,30.194826",
     "geom:latitude":30.194826,
     "geom:longitude":-92.01621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1602 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85841585
     ],
+    "wof:brand_id":1125151319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kyqxHPMRhwBailu9Gwu1J_30.194826_-92.016210@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521557,
-    "wof:geomhash":"f4052ae38d4e5342b267d946664d48e6",
+    "wof:geomhash":"814b58c6bccc016b39cd50f18bcd759f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840116167,
-    "wof:lastmodified":1466540804,
+    "wof:lastmodified":1510696946,
     "wof:name":"Nursefinders",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840087255,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Joseph St New Orleans LA 70115",
+    "addr:housenumber":"801",
+    "addr:postcode":"70115",
+    "addr:street":"Joseph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.116841,29.922106,-90.116841,29.922106",
     "geom:latitude":29.922106,
     "geom:longitude":-90.116841,
@@ -24,7 +29,15 @@
     "sg:postcode":"70115",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LpzJQHnlGzGpeolvRBEtq_29.922106_-90.116841@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463520967,
     "wof:geomhash":"f9f0537fd8e52f0805fd3c4051f4591e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840087255
+        }
+    ],
     "wof:id":840087255,
-    "wof:lastmodified":1466540561,
+    "wof:lastmodified":1486688657,
     "wof:name":"Schween Chiropractic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

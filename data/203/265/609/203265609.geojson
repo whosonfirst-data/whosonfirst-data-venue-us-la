@@ -2,9 +2,14 @@
   "id": 203265609,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Saint Claude Ave New Orleans LA 70117",
+    "addr:housenumber":"3400",
+    "addr:postcode":"70117",
+    "addr:street":"Saint Claude Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.040497,29.9667,-90.040497,29.9667",
     "geom:latitude":29.9667,
     "geom:longitude":-90.040497,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866095,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"f640ffb6bec60a1f27ea0ca539db2c5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866089,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866095,
             "region_id":85688735,
             "venue_id":203265609
         }
     ],
     "wof:id":203265609,
-    "wof:lastmodified":1466539342,
+    "wof:lastmodified":1486688371,
     "wof:name":"Ultimate Foot Care Llc",
-    "wof:parent_id":85866089,
+    "wof:parent_id":85866095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

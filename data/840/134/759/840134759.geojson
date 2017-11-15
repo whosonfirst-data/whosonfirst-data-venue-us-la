@@ -2,9 +2,14 @@
   "id": 840134759,
   "type": "Feature",
   "properties": {
+    "addr:full":"4670 Lennox Blvd New Orleans LA 70131",
+    "addr:housenumber":"4670",
+    "addr:postcode":"70131",
+    "addr:street":"Lennox Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007921,29.901817,-90.007921,29.901817",
     "geom:latitude":29.901817,
     "geom:longitude":-90.007921,
@@ -29,7 +34,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65GhANsmCB4ag7pfbLMTMe_29.901817_-90.007921@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463521944,
     "wof:geomhash":"66129ea1546a64375134dacd1f8d9bbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840134759
+        }
+    ],
     "wof:id":840134759,
-    "wof:lastmodified":1466541097,
+    "wof:lastmodified":1486689097,
     "wof:name":"Daniel & Assoc Marine Engineer",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

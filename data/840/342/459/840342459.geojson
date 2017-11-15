@@ -2,14 +2,20 @@
   "id": 840342459,
   "type": "Feature",
   "properties": {
+    "addr:full":"3700 Canal St New Orleans LA 70119",
+    "addr:housenumber":"3700",
+    "addr:postcode":"70119",
+    "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.097634,29.972486,-90.097634,29.972486",
     "geom:latitude":29.972486,
     "geom:longitude":-90.097634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3700 Canal St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,36 @@
     "sg:website":"www.graceepiscchurch.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85869483
+        85688735
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SMBJTTXFgsr1VAY3F0RNy_29.972486_-90.097634@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528530,
-    "wof:geomhash":"793ce3cad9bf33c17856e162f5149463",
+    "wof:geomhash":"ab7b8c23a2cc92c5f6d7b687842654b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840342459
         }
     ],
     "wof:id":840342459,
-    "wof:lastmodified":1466543413,
+    "wof:lastmodified":1510613227,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":85869483,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840362365,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 Jackson St Exd Alexandria LA 71303",
+    "addr:housenumber":"4900",
+    "addr:postcode":"71303",
+    "addr:street":"Jackson St Exd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.483741,31.27289,-92.483741,31.27289",
     "geom:latitude":31.27289,
     "geom:longitude":-92.483741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4900 Jackson St Exd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sJe2EB7VOtexb2QVZAQP3_31.272890_-92.483741@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529493,
-    "wof:geomhash":"004106929c65e3346dd498f8d04002fc",
+    "wof:geomhash":"cf7e83fae31914b8d64fd2eeeb0dfcf3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840362365,
-    "wof:lastmodified":1466543593,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

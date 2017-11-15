@@ -2,14 +2,20 @@
   "id": 840370283,
   "type": "Feature",
   "properties": {
+    "addr:full":"7742 Office Park Blvd Baton Rouge LA 70809",
+    "addr:housenumber":"7742",
+    "addr:postcode":"70809",
+    "addr:street":"Office Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.103286,30.419273,-91.103286,30.419273",
     "geom:latitude":30.419273,
     "geom:longitude":-91.103286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7742 Office Park Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85806615,
         102087229
     ],
+    "wof:brand_id":1125153645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xeXeFXvBUOxal0NP8OZgy_30.419273_-91.103286@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529910,
-    "wof:geomhash":"7cd9386cf7eb61938a069deaffb3a15f",
+    "wof:geomhash":"bbcb0e3a81cd5e9362311bb023080a3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840370283,
-    "wof:lastmodified":1466543802,
+    "wof:lastmodified":1510694638,
     "wof:name":"Snelling Personnel Svc",
     "wof:parent_id":85806615,
     "wof:placetype":"venue",

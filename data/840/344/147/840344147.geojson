@@ -2,14 +2,20 @@
   "id": 840344147,
   "type": "Feature",
   "properties": {
+    "addr:full":"3499 Masonic Dr Alexandria LA 71301",
+    "addr:housenumber":"3499",
+    "addr:postcode":"71301",
+    "addr:street":"Masonic Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.463128,31.279814,-92.463128,31.279814",
     "geom:latitude":31.279814,
     "geom:longitude":-92.463128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3499 Masonic Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58wL3hcMHVtYjbLne1BwHu_31.279814_-92.463128@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528614,
-    "wof:geomhash":"45e790d2291a0449d2755518cd0bf892",
+    "wof:geomhash":"62c61625fffc9c5d27f643541ad54c5c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840344147,
-    "wof:lastmodified":1466543085,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

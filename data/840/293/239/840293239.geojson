@@ -2,14 +2,20 @@
   "id": 840293239,
   "type": "Feature",
   "properties": {
+    "addr:full":"223 Audubon Blvd Lafayette LA 70503",
+    "addr:housenumber":"223",
+    "addr:postcode":"70503",
+    "addr:street":"Audubon Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.016278,30.204598,-92.016278,30.204598",
     "geom:latitude":30.204598,
     "geom:longitude":-92.016278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"223 Audubon Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09ZJTNnMjZHcA8CRT345Ui_30.204598_-92.016278@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526203,
-    "wof:geomhash":"ca86433e8ffecf8c7bb155de8c7f7be9",
+    "wof:geomhash":"edcf5cb974d7d313be0af9e43de8204b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840293239,
-    "wof:lastmodified":1466542426,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

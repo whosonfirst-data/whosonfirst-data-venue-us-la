@@ -2,9 +2,14 @@
   "id": 840279705,
   "type": "Feature",
   "properties": {
+    "addr:full":"4220 E Judge Perez Dr Meraux LA 70075",
+    "addr:housenumber":"4220",
+    "addr:postcode":"70075",
+    "addr:street":"E Judge Perez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.921761,29.93493,-89.921761,29.93493",
     "geom:latitude":29.93493,
     "geom:longitude":-89.921761,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"32af0bb2b24c5a3c9893b5247c54183a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840279705,
-    "wof:lastmodified":1466542307,
+    "wof:lastmodified":1491910637,
     "wof:name":"Dollar Tree",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

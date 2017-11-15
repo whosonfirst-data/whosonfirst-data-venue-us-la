@@ -2,14 +2,20 @@
   "id": 840285883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Milton St Monroe LA 71201",
+    "addr:housenumber":"1901",
+    "addr:postcode":"71201",
+    "addr:street":"Milton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.11697,32.536629,-92.11697,32.536629",
     "geom:latitude":32.536629,
     "geom:longitude":-92.11697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 Milton St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125152861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QnDtEVmE6fRpzOzSkAKmJ_32.536629_-92.116970@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525883,
-    "wof:geomhash":"008a337ae5f0dadb70c00d39f05dd904",
+    "wof:geomhash":"59098ab054d1c7ca070f7f6c294186fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840285883,
-    "wof:lastmodified":1466542411,
+    "wof:lastmodified":1510613357,
     "wof:name":"Covenant Presbyterian Church",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

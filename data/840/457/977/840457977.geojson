@@ -2,9 +2,14 @@
   "id": 840457977,
   "type": "Feature",
   "properties": {
+    "addr:full":"2017 South Chippewa Street New Orleans LA 70130",
+    "addr:housenumber":"2017",
+    "addr:postcode":"70130",
+    "addr:street":"South Chippewa Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.071597,29.927446,-90.071597,29.927446",
     "geom:latitude":29.927446,
     "geom:longitude":-90.071597,
@@ -46,12 +51,13 @@
     "sg:website":"http://www.facebook.com/GreenInnovations",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866109,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866109
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,13 +72,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866109,
             "region_id":85688735,
             "venue_id":840457977
         }
     ],
     "wof:id":840457977,
-    "wof:lastmodified":1466545430,
+    "wof:lastmodified":1486688588,
     "wof:name":"Green Innovations",
     "wof:parent_id":85866109,
     "wof:placetype":"venue",

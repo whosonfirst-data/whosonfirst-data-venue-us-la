@@ -2,9 +2,14 @@
   "id": 840306741,
   "type": "Feature",
   "properties": {
+    "addr:full":"6121 Camp St New Orleans LA 70118",
+    "addr:housenumber":"6121",
+    "addr:postcode":"70118",
+    "addr:street":"Camp St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.123775,29.924039,-90.123775,29.924039",
     "geom:latitude":29.924039,
     "geom:longitude":-90.123775,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866131,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866131
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866131,
             "region_id":85688735,
             "venue_id":840306741
         }
     ],
     "wof:id":840306741,
-    "wof:lastmodified":1466542743,
+    "wof:lastmodified":1486686669,
     "wof:name":"Belknap Photography",
     "wof:parent_id":85866131,
     "wof:placetype":"venue",

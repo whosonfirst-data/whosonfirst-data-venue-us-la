@@ -2,14 +2,20 @@
   "id": 840366511,
   "type": "Feature",
   "properties": {
+    "addr:full":"3241 NW Evangeline Throughway Lafayette LA 70507",
+    "addr:housenumber":"3241",
+    "addr:postcode":"70507",
+    "addr:street":"Nw Evangeline",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.025133,30.293342,-92.025133,30.293342",
     "geom:latitude":30.293342,
     "geom:longitude":-92.025133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3241 NW Evangeline Throughway",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85822057
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V3KeCe1MvP0aWVruNb0e8_30.293342_-92.025133@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529703,
-    "wof:geomhash":"2a6c36813b574194d5deaf178bba5c82",
+    "wof:geomhash":"424aabde36ee294e88fb1ed7b0d10215",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840366511,
-    "wof:lastmodified":1466543717,
+    "wof:lastmodified":1510602600,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",

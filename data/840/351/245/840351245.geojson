@@ -2,9 +2,14 @@
   "id": 840351245,
   "type": "Feature",
   "properties": {
+    "addr:full":"3143 Ponce de Leon St New Orleans LA 70119",
+    "addr:housenumber":"3143",
+    "addr:postcode":"70119",
+    "addr:street":"Ponce De Leon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.084108,29.980511,-90.084108,29.980511",
     "geom:latitude":29.980511,
     "geom:longitude":-90.084108,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866065
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
             "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":840351245
         }
     ],
     "wof:id":840351245,
-    "wof:lastmodified":1466543539,
+    "wof:lastmodified":1486689204,
     "wof:name":"LA Boulangerie",
-    "wof:parent_id":85866065,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

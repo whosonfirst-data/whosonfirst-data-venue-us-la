@@ -2,9 +2,14 @@
   "id": 203295497,
   "type": "Feature",
   "properties": {
+    "addr:full":"4460 General Degaulle Dr New Orleans LA 70131",
+    "addr:housenumber":"4460",
+    "addr:postcode":"70131",
+    "addr:street":"General Degaulle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.010803,29.9186,-90.010803,29.9186",
     "geom:latitude":29.9186,
     "geom:longitude":-90.010803,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746731,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735,
+        1108746803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"42d5ad0666e61f523958e4198ca4699d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":203295497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
             "region_id":85688735,
             "venue_id":203295497
         }
     ],
     "wof:id":203295497,
-    "wof:lastmodified":1466539386,
+    "wof:lastmodified":1486689009,
     "wof:name":"Richard Gizelle Poche DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

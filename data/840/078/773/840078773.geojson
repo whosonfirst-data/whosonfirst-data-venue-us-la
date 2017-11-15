@@ -2,14 +2,20 @@
   "id": 840078773,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 W Esplanade Ave Metairie LA 70006",
+    "addr:housenumber":"5005",
+    "addr:postcode":"70006",
+    "addr:street":"W Esplanade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.199145,30.017401,-90.199145,30.017401",
     "geom:latitude":30.017401,
     "geom:longitude":-90.199145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5005 W Esplanade Ave",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dCjERiPhOkf2t0VcGWoUL_30.017401_-90.199145@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520654,
-    "wof:geomhash":"178793ebfc0872f7e4b4258f107f903b",
+    "wof:geomhash":"e972ecf7240cc7e81a7e2a24fdf07b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840078773,
-    "wof:lastmodified":1466540535,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

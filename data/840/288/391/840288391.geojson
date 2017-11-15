@@ -2,9 +2,14 @@
   "id": 840288391,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Point Ct New Orleans LA 70128",
+    "addr:housenumber":"101",
+    "addr:postcode":"70128",
+    "addr:street":"E Point Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.945596,30.040084,-89.945596,30.040084",
     "geom:latitude":30.040084,
     "geom:longitude":-89.945596,
@@ -27,7 +32,16 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746735,
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mwvWvIfFVaS4tCp2L2CNm_30.040084_-89.945596@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463525998,
     "wof:geomhash":"362b5a1438b9cc22957cb1dd0733fcc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746735,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840288391
+        }
+    ],
     "wof:id":840288391,
-    "wof:lastmodified":1466542571,
+    "wof:lastmodified":1486689202,
     "wof:name":"ABC To Phd",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

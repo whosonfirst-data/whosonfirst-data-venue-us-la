@@ -2,6 +2,10 @@
   "id": 203321127,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Amesbury Dr Apt 354 Lafayette LA 70507",
+    "addr:housenumber":"315;354",
+    "addr:postcode":"70507",
+    "addr:street":"Amesbury Dr Apt;Lafayette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":203321127,
-    "wof:lastmodified":1466539420,
+    "wof:lastmodified":1472624361,
     "wof:name":"Scalisi Properties Inc",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",

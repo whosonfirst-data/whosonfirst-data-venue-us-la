@@ -2,9 +2,14 @@
   "id": 840264875,
   "type": "Feature",
   "properties": {
+    "addr:full":"7826 Townsend Pl New Orleans LA 70126",
+    "addr:housenumber":"7826",
+    "addr:postcode":"70126",
+    "addr:street":"Townsend Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.028562,30.03011,-90.028562,30.03011",
     "geom:latitude":30.03011,
     "geom:longitude":-90.028562,
@@ -27,7 +32,15 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qXyg9AY2XqRXuwZhnt5YR_30.030110_-90.028562@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463524919,
     "wof:geomhash":"65b7efbe1ac6555c1c92cf9a31f2999e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840264875
+        }
+    ],
     "wof:id":840264875,
-    "wof:lastmodified":1466541875,
+    "wof:lastmodified":1486687874,
     "wof:name":"Mc Coy Dental Lab Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

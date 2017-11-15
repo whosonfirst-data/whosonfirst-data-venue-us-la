@@ -2,14 +2,20 @@
   "id": 840431663,
   "type": "Feature",
   "properties": {
+    "addr:full":"1948 Honeysuckle Ln Sulphur LA 70663",
+    "addr:housenumber":"1948",
+    "addr:postcode":"70663",
+    "addr:street":"Honeysuckle Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.33859,30.232404,-93.33859,30.232404",
     "geom:latitude":30.232404,
     "geom:longitude":-93.33859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1948 Honeysuckle Ln",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wQVyKI53eS2cHyJG91Euc_30.232404_-93.338590@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532524,
-    "wof:geomhash":"241fa942d85f02e15b678fc0c31331fa",
+    "wof:geomhash":"2505a7eea6e97f88c16f3722ac24e84a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840431663,
-    "wof:lastmodified":1466545123,
+    "wof:lastmodified":1510695766,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

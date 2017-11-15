@@ -2,9 +2,14 @@
   "id": 203272923,
   "type": "Feature",
   "properties": {
+    "addr:full":"4533 Mendez St New Orleans LA 70126",
+    "addr:housenumber":"4533",
+    "addr:postcode":"70126",
+    "addr:street":"Mendez St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.038696,30.0168,-90.038696,30.0168",
     "geom:latitude":30.0168,
     "geom:longitude":-90.038696,
@@ -26,11 +31,14 @@
     "sg:website":"www.umc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420784451,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85834475
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +48,30 @@
     "wof:geomhash":"2e12e252dedaae6cf7624135c48a957e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85834475,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":420784451,
+            "region_id":85688735,
+            "venue_id":203272923
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784451,
             "region_id":85688735,
             "venue_id":203272923
         }
     ],
     "wof:id":203272923,
-    "wof:lastmodified":1466539362,
+    "wof:lastmodified":1486688969,
     "wof:name":"Bethany United Methodist Church",
-    "wof:parent_id":85834475,
+    "wof:parent_id":420784451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

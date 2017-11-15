@@ -2,14 +2,20 @@
   "id": 840086153,
   "type": "Feature",
   "properties": {
+    "addr:full":"814 Shreveport Barksdale Hwy Shreveport LA 71105",
+    "addr:housenumber":"814",
+    "addr:postcode":"71105",
+    "addr:street":"Shreveport Barksdale Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.713499,32.480831,-93.713499,32.480831",
     "geom:latitude":32.480831,
     "geom:longitude":-93.713499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"814 Shreveport Barksdale Hwy",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125155141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QlRog2dpBrJj0pXlFK5H1_32.480831_-93.713499@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520940,
-    "wof:geomhash":"c35f6b8022da5e5003322da17d507cd0",
+    "wof:geomhash":"4dea1b51065e634cb017d9c0e230109e",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840086153,
-    "wof:lastmodified":1466540483,
+    "wof:lastmodified":1510699634,
     "wof:name":"Havertys Furniture",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

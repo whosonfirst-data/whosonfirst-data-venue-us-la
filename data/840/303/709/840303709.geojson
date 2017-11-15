@@ -2,9 +2,14 @@
   "id": 840303709,
   "type": "Feature",
   "properties": {
+    "addr:full":"7420 Zimple St New Orleans LA 70118",
+    "addr:housenumber":"7420",
+    "addr:postcode":"70118",
+    "addr:street":"Zimple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.125588,29.942621,-90.125588,29.942621",
     "geom:latitude":29.942621,
     "geom:longitude":-90.125588,
@@ -28,7 +33,15 @@
         "restoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hQxb9L8YXFZFsHUvlUwqW_29.942621_-90.125588@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463526707,
     "wof:geomhash":"6de079dd4d934bf3024d8f6a932a5bb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840303709
+        }
+    ],
     "wof:id":840303709,
-    "wof:lastmodified":1466542688,
+    "wof:lastmodified":1486689018,
     "wof:name":"Uptown Restoration",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

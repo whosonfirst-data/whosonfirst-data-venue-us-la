@@ -2,9 +2,14 @@
   "id": 840333521,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Philip St New Orleans LA 70130",
+    "addr:housenumber":"625",
+    "addr:postcode":"70130",
+    "addr:street":"Philip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.074754,29.925601,-90.074754,29.925601",
     "geom:latitude":29.925601,
     "geom:longitude":-90.074754,
@@ -24,7 +29,15 @@
     "sg:postcode":"70130",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866109,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z7kc00OOwptuVfoiF3lqm_29.925601_-90.074754@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528100,
     "wof:geomhash":"9e4bfe1801b9e8271a472370dcecb705",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840333521
+        }
+    ],
     "wof:id":840333521,
-    "wof:lastmodified":1466543187,
+    "wof:lastmodified":1486688587,
     "wof:name":"Flanagan's Pub",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

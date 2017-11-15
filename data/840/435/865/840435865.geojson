@@ -2,14 +2,20 @@
   "id": 840435865,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Central Ave Monroe LA 71203",
+    "addr:housenumber":"4701",
+    "addr:postcode":"71203",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.060483,32.512639,-92.060483,32.512639",
     "geom:latitude":32.512639,
     "geom:longitude":-92.060483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4701 Central Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125158465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03WOMYMaMWv1hpZp8CMgMz_32.512639_-92.060483@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532726,
-    "wof:geomhash":"74e6762a67a4dd1c18a8f19d7aa2d44e",
+    "wof:geomhash":"810234d89948044d490e338fa46886bf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840435865,
-    "wof:lastmodified":1466545167,
+    "wof:lastmodified":1510613245,
     "wof:name":"Brookshire's",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

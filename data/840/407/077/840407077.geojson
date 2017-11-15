@@ -2,14 +2,20 @@
   "id": 840407077,
   "type": "Feature",
   "properties": {
+    "addr:full":"64380 Hwy 41 Pearl River LA 70452",
+    "addr:housenumber":"64380",
+    "addr:postcode":"70452",
+    "addr:street":"Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.758945,30.367006,-89.758945,30.367006",
     "geom:latitude":30.367006,
     "geom:longitude":-89.758945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"64380 Hwy 41",
     "sg:city":"Pearl River",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85841093,
         102082453
     ],
+    "wof:brand_id":1125155933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CoTgSeECr5AaYrx9oYwvk_30.367006_-89.758945@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531499,
-    "wof:geomhash":"58bc8b79cbfa614e42fccecfc039abf1",
+    "wof:geomhash":"6e24645b2cfef2620dfa79f3caf44a94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840407077,
-    "wof:lastmodified":1466544527,
+    "wof:lastmodified":1510697226,
     "wof:name":"Heads Up",
     "wof:parent_id":85841093,
     "wof:placetype":"venue",

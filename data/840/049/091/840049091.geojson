@@ -2,14 +2,20 @@
   "id": 840049091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1940 I- 10 Svc Rd Kenner LA 70065",
+    "addr:housenumber":"1940;10",
+    "addr:postcode":"70065",
+    "addr:street":"I;Svc Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.241024,30.011899,-90.241024,30.011899",
     "geom:latitude":30.011899,
     "geom:longitude":-90.241024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1940 I- 10 Svc Rd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125156317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48vcSuScxoqFapEHm5YiC7_30.011899_-90.241024@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520019,
-    "wof:geomhash":"45ec8f66c1f0be8555fbbb42882902e9",
+    "wof:geomhash":"d70a30dc19fcd7c17dc452db8830d0e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840049091,
-    "wof:lastmodified":1466540062,
+    "wof:lastmodified":1510693710,
     "wof:name":"United American Insurance Co",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

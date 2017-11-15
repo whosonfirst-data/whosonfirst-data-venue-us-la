@@ -2,14 +2,20 @@
   "id": 840151217,
   "type": "Feature",
   "properties": {
+    "addr:full":"3512 Ryan St Lake Charles LA 70605",
+    "addr:housenumber":"3512",
+    "addr:postcode":"70605",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218693,30.193308,-93.218693,30.193308",
     "geom:latitude":30.193308,
     "geom:longitude":-93.218693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3512 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125154275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uL34VjYKRHzYfKGYoURUk_30.193308_-93.218693@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522271,
-    "wof:geomhash":"3e9a03d6329f170b011d776236a2f524",
+    "wof:geomhash":"2339fae43ec4ffb783e5a3412d54388e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840151217,
-    "wof:lastmodified":1466540648,
+    "wof:lastmodified":1510695874,
     "wof:name":"Alamo Rent-A-Car LLC",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

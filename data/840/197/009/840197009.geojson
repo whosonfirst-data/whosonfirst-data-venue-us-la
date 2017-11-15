@@ -2,9 +2,14 @@
   "id": 840197009,
   "type": "Feature",
   "properties": {
+    "addr:full":"2219 Bartolo St Meraux LA 70075",
+    "addr:housenumber":"",
+    "addr:postcode":"2219;70075",
+    "addr:street":"Bartolo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.932672,29.934802,-89.932672,29.934802",
     "geom:latitude":29.934802,
     "geom:longitude":-89.932672,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -44,6 +50,7 @@
     "wof:geomhash":"fa5459f4b7bd583a2fbf7b8eaeabd996",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840197009,
-    "wof:lastmodified":1466541453,
+    "wof:lastmodified":1491910647,
     "wof:name":"Holm Specialties",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

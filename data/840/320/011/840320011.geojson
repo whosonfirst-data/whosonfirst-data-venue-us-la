@@ -2,14 +2,20 @@
   "id": 840320011,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Roselawn Blvd Lafayette LA 70503",
+    "addr:housenumber":"518",
+    "addr:postcode":"70503",
+    "addr:street":"Roselawn Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.043734,30.19343,-92.043734,30.19343",
     "geom:latitude":30.19343,
     "geom:longitude":-92.043734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 Roselawn Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u0a5Pc2kSjykeN36XRomo_30.193430_-92.043734@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527461,
-    "wof:geomhash":"1039ea3fda3de3a125161c1c258d7f8a",
+    "wof:geomhash":"6cfb1a23a1c9dda399a2c766e32bf0a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840320011,
-    "wof:lastmodified":1466542859,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840352447,
   "type": "Feature",
   "properties": {
+    "addr:full":"2212 Prentiss Ave New Orleans LA 70122",
+    "addr:housenumber":"2212",
+    "addr:postcode":"70122",
+    "addr:street":"Prentiss Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.058444,30.016705,-90.058444,30.016705",
     "geom:latitude":30.016705,
     "geom:longitude":-90.058444,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85834475,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85834475
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +55,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":840352447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85834475,
             "region_id":85688735,
             "venue_id":840352447
         }
     ],
     "wof:id":840352447,
-    "wof:lastmodified":1466543548,
+    "wof:lastmodified":1486688057,
     "wof:name":"St Raphael Church",
     "wof:parent_id":85834475,
     "wof:placetype":"venue",

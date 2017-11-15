@@ -2,9 +2,14 @@
   "id": 840161111,
   "type": "Feature",
   "properties": {
+    "addr:full":"6050 Magazine St New Orleans LA 70118",
+    "addr:housenumber":"6050",
+    "addr:postcode":"70118",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.122561,29.922376,-90.122561,29.922376",
     "geom:latitude":29.922376,
     "geom:longitude":-90.122561,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O6I2svydYlAkXzNcFS7Cy_29.922376_-90.122561@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463522468,
     "wof:geomhash":"9c55177bd223e1b6c3b98a38782dbd64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840161111
+        }
+    ],
     "wof:id":840161111,
-    "wof:lastmodified":1466541286,
+    "wof:lastmodified":1486689115,
     "wof:name":"Circle K",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

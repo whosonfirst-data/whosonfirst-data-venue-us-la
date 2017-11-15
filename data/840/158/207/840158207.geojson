@@ -2,9 +2,14 @@
   "id": 840158207,
   "type": "Feature",
   "properties": {
+    "addr:full":"4553 General Meyer Ave New Orleans LA 70131",
+    "addr:housenumber":"4553",
+    "addr:postcode":"70131",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007728,29.933901,-90.007728,29.933901",
     "geom:latitude":29.933901,
     "geom:longitude":-90.007728,
@@ -27,7 +32,16 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0709IXEy5t6uMbg79TF08p_29.933901_-90.007728@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463522411,
     "wof:geomhash":"6e00a84af8d8a532f5c165dceff663ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840158207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840158207
+        }
+    ],
     "wof:id":840158207,
-    "wof:lastmodified":1466541260,
+    "wof:lastmodified":1486688993,
     "wof:name":"Breaux Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

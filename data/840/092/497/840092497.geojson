@@ -2,9 +2,14 @@
   "id": 840092497,
   "type": "Feature",
   "properties": {
+    "addr:full":"2257 Bayou Rd New Orleans LA 70119",
+    "addr:housenumber":"2257",
+    "addr:postcode":"70119",
+    "addr:street":"Bayou Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.075168,29.974634,-90.075168,29.974634",
     "geom:latitude":29.974634,
     "geom:longitude":-90.075168,
@@ -29,7 +34,16 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66zPJYqrq1arWo4AK9gePj_29.974634_-90.075168@1294127638"
@@ -37,11 +51,23 @@
     "wof:country":"US",
     "wof:created":1463521069,
     "wof:geomhash":"ec2b53433d9a2da72a6986cb4e55f858",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840092497
+        }
+    ],
     "wof:id":840092497,
-    "wof:lastmodified":1466540614,
+    "wof:lastmodified":1486689207,
     "wof:name":"Benachi House",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

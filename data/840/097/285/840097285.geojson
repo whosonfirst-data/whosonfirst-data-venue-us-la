@@ -2,14 +2,20 @@
   "id": 840097285,
   "type": "Feature",
   "properties": {
+    "addr:full":"12021 Florida Blvd Baton Rouge LA 70815",
+    "addr:housenumber":"12021",
+    "addr:postcode":"70815",
+    "addr:street":"Florida Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.051263,30.460009,-91.051263,30.460009",
     "geom:latitude":30.460009,
     "geom:longitude":-91.051263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12021 Florida Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85838033
     ],
+    "wof:brand_id":1125155663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qnDBofKGiNhIHnLag4xvg_30.460009_-91.051263@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521159,
-    "wof:geomhash":"e63832abc64b93f700c2b92c444b42ec",
+    "wof:geomhash":"621bc2d257ffc3fc5cb2e372f8b1ef84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840097285,
-    "wof:lastmodified":1466540621,
+    "wof:lastmodified":1510698985,
     "wof:name":"Princess Nails",
     "wof:parent_id":85838033,
     "wof:placetype":"venue",

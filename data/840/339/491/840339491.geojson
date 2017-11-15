@@ -2,14 +2,20 @@
   "id": 840339491,
   "type": "Feature",
   "properties": {
+    "addr:full":"13365 Coursey Blvd Baton Rouge LA 70816",
+    "addr:housenumber":"13365",
+    "addr:postcode":"70816",
+    "addr:street":"Coursey Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.032545,30.409338,-91.032545,30.409338",
     "geom:latitude":30.409338,
     "geom:longitude":-91.032545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13365 Coursey Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85824817
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Hef0d1Dm3SXYgNjrAZyEO_30.409338_-91.032545@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528384,
-    "wof:geomhash":"8cdff157252e31cd33b079f5eabb8c22",
+    "wof:geomhash":"57e2956dcaf0f74e0d1b79a55b67b6e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840339491,
-    "wof:lastmodified":1466543261,
+    "wof:lastmodified":1510693737,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85824817,
     "wof:placetype":"venue",

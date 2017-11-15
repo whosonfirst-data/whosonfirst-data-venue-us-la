@@ -2,14 +2,20 @@
   "id": 840357641,
   "type": "Feature",
   "properties": {
+    "addr:full":"4705 Johnston St Lafayette LA 70503",
+    "addr:housenumber":"4705",
+    "addr:postcode":"70503",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.066552,30.185947,-92.066552,30.185947",
     "geom:latitude":30.185947,
     "geom:longitude":-92.066552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4705 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pWSWXGIDOAX9gHfaAT87Z_30.185947_-92.066552@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529280,
-    "wof:geomhash":"e48f0e5273fd232ac8ad67b7276dd090",
+    "wof:geomhash":"597d2294f2d830bb57f58928c10263a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840357641,
-    "wof:lastmodified":1466543680,
+    "wof:lastmodified":1510699573,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

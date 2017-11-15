@@ -2,14 +2,20 @@
   "id": 840298807,
   "type": "Feature",
   "properties": {
+    "addr:full":"990 N Corporate Dr Harahan LA 70123",
+    "addr:housenumber":"990",
+    "addr:postcode":"70123",
+    "addr:street":"N Corporate Dr Harahan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.185211,29.956637,-90.185211,29.956637",
     "geom:latitude":29.956637,
     "geom:longitude":-90.185211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"990 N Corporate Dr",
     "sg:city":"Harahan",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1944CI0Eo8qHncI6mJtfNH_29.956637_-90.185211@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526437,
-    "wof:geomhash":"cdb59ee4c6f872f76a1db4efee6606ce",
+    "wof:geomhash":"74596d9c0f3e206e0098348c5b410217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840298807,
-    "wof:lastmodified":1466542236,
+    "wof:lastmodified":1510699945,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

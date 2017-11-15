@@ -2,9 +2,14 @@
   "id": 203302445,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 Toulouse St New Orleans LA 70195",
+    "addr:housenumber":"519",
+    "addr:postcode":"70195",
+    "addr:street":"Toulouse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.063698,29.9562,-90.063698,29.9562",
     "geom:latitude":29.9562,
     "geom:longitude":-90.063698,
@@ -29,11 +34,13 @@
     "sg:website":"www.ralphandkacoos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"366a206c13afe2f4d83fc78b45493b1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203302445
         }
     ],
     "wof:id":203302445,
-    "wof:lastmodified":1466539399,
+    "wof:lastmodified":1486687136,
     "wof:name":"Ralph and Kacoo's",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

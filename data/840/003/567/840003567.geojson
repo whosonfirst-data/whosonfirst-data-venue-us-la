@@ -2,9 +2,14 @@
   "id": 840003567,
   "type": "Feature",
   "properties": {
+    "addr:full":"431 Homer St New Orleans LA 70114",
+    "addr:housenumber":"431",
+    "addr:postcode":"70114",
+    "addr:street":"Homer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051382,29.946456,-90.051382,29.946456",
     "geom:latitude":29.946456,
     "geom:longitude":-90.051382,
@@ -28,7 +33,15 @@
         "night"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w6YDMVShxaTD0ZIaxW9Am_29.946456_-90.051382@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463519067,
     "wof:geomhash":"af418d287e3db2f7c6841d1fc1277006",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840003567
+        }
+    ],
     "wof:id":840003567,
-    "wof:lastmodified":1466539602,
+    "wof:lastmodified":1486689086,
     "wof:name":"Sheilia's",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

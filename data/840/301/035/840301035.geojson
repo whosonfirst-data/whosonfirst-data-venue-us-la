@@ -2,9 +2,14 @@
   "id": 840301035,
   "type": "Feature",
   "properties": {
+    "addr:full":"6065 Magazine St New Orleans LA 70118",
+    "addr:housenumber":"6065",
+    "addr:postcode":"70118",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.122281,29.922428,-90.122281,29.922428",
     "geom:latitude":29.922428,
     "geom:longitude":-90.122281,
@@ -28,7 +33,15 @@
         "court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vENE8PA5iuC6fwDRYG7Qi_29.922428_-90.122281@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463526557,
     "wof:geomhash":"c2d7b4f93b93c7e1886f2d109999715a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840301035
+        }
+    ],
     "wof:id":840301035,
-    "wof:lastmodified":1466542630,
+    "wof:lastmodified":1486688654,
     "wof:name":"Neelis Typing & Transcription",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

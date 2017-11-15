@@ -2,14 +2,20 @@
   "id": 840379207,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 E Washington St Shreveport LA 71104",
+    "addr:housenumber":"400",
+    "addr:postcode":"71104",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.724398,32.484778,-93.724398,32.484778",
     "geom:latitude":32.484778,
     "geom:longitude":-93.724398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 E Washington St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125150609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ucat9UJtUONXzNNkNn6V9_32.484778_-93.724398@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530313,
-    "wof:geomhash":"513bdba2bcc8fdf1be7899e49f27b117",
+    "wof:geomhash":"3850884db868c6597e8acf0ad017f0e7",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840379207,
-    "wof:lastmodified":1466543896,
+    "wof:lastmodified":1510697773,
     "wof:name":"Premier Mortgage Funding",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

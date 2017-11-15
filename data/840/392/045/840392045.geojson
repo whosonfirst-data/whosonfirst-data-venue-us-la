@@ -2,9 +2,14 @@
   "id": 840392045,
   "type": "Feature",
   "properties": {
+    "addr:full":"6224 Milne Blvd New Orleans LA 70124",
+    "addr:housenumber":"6224",
+    "addr:postcode":"70124",
+    "addr:street":"Milne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.112663,30.005003,-90.112663,30.005003",
     "geom:latitude":30.005003,
     "geom:longitude":-90.112663,
@@ -29,12 +34,13 @@
     "sg:website":"www.swleader.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840392045
         }
     ],
     "wof:id":840392045,
-    "wof:lastmodified":1466544289,
+    "wof:lastmodified":1486686917,
     "wof:name":"S W Leader Inc",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

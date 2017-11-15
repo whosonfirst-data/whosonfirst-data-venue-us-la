@@ -2,9 +2,14 @@
   "id": 203264069,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Saint Claude Ave New Orleans LA 70117",
+    "addr:housenumber":"2500",
+    "addr:postcode":"70117",
+    "addr:street":"Saint Claude Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.050797,29.9688,-90.050797,29.9688",
     "geom:latitude":29.9688,
     "geom:longitude":-90.050797,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85819021
+        85688735
     ],
     "wof:brand_id":420574645,
     "wof:breaches":[],
@@ -40,19 +47,20 @@
     "wof:geomhash":"021163f267502a052e19d533e97e8d5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85819021,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203264069
         }
     ],
     "wof:id":203264069,
-    "wof:lastmodified":1466539326,
+    "wof:lastmodified":1486688387,
     "wof:name":"Popeyes Chicken & Biscuits",
-    "wof:parent_id":85819021,
+    "wof:parent_id":85866097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

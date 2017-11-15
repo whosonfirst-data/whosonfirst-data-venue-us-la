@@ -2,9 +2,14 @@
   "id": 840142799,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Saint Charles Ave New Orleans LA 70115",
+    "addr:housenumber":"3000",
+    "addr:postcode":"70115",
+    "addr:street":"Saint Charles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.088886,29.929225,-90.088886,29.929225",
     "geom:latitude":29.929225,
     "geom:longitude":-90.088886,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821037,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821037
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821037,
             "region_id":85688735,
             "venue_id":840142799
         }
     ],
     "wof:id":840142799,
-    "wof:lastmodified":1466539592,
+    "wof:lastmodified":1486686977,
     "wof:name":"Charles House",
     "wof:parent_id":85821037,
     "wof:placetype":"venue",

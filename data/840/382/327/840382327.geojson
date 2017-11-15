@@ -2,14 +2,20 @@
   "id": 840382327,
   "type": "Feature",
   "properties": {
+    "addr:full":"2240 Culpepper Rd Alexandria LA 71301",
+    "addr:housenumber":"2240",
+    "addr:postcode":"71301",
+    "addr:street":"Culpepper Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.472085,31.26626,-92.472085,31.26626",
     "geom:latitude":31.26626,
     "geom:longitude":-92.472085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2240 Culpepper Rd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125157057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52iEnNNfosJCrwpsRfaM9R_31.266260_-92.472085@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530464,
-    "wof:geomhash":"8238087031b1f67d8ca888554274ac72",
+    "wof:geomhash":"43cdc9c43de7862a20e5f36930e5867d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840382327,
-    "wof:lastmodified":1466544012,
+    "wof:lastmodified":1510613520,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

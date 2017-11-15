@@ -2,9 +2,14 @@
   "id": 203267625,
   "type": "Feature",
   "properties": {
+    "addr:full":"833 Poland Avenue New Orleans LA 70117",
+    "addr:housenumber":"833",
+    "addr:postcode":"70117",
+    "addr:street":"Poland Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.03223,29.96186,-90.03223,29.96186",
     "geom:latitude":29.96186,
     "geom:longitude":-90.03223,
@@ -26,11 +31,13 @@
     "sg:website":"lookoutneworleans.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866089,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"639947c8e696933c9358ccef8b95fcb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866089,
             "region_id":85688735,
             "venue_id":203267625
         }
     ],
     "wof:id":203267625,
-    "wof:lastmodified":1466539347,
+    "wof:lastmodified":1486686911,
     "wof:name":"Lookout Inn",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",

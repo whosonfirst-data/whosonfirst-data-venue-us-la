@@ -2,9 +2,14 @@
   "id": 840233635,
   "type": "Feature",
   "properties": {
+    "addr:full":"6390 Eastover Dr New Orleans LA 70128",
+    "addr:housenumber":"6390",
+    "addr:postcode":"70128",
+    "addr:street":"Eastover Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.950817,30.04201,-89.950817,30.04201",
     "geom:latitude":30.04201,
     "geom:longitude":-89.950817,
@@ -31,7 +36,16 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746735,
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LC4UuDm5YblKypy7yKYNA_30.042010_-89.950817@1294127638"
@@ -39,11 +53,23 @@
     "wof:country":"US",
     "wof:created":1463524212,
     "wof:geomhash":"55f45eb4b11ca40991cfa1c12e7dbc36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746735,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840233635
+        }
+    ],
     "wof:id":840233635,
-    "wof:lastmodified":1466541747,
+    "wof:lastmodified":1486689201,
     "wof:name":"M M Moody Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

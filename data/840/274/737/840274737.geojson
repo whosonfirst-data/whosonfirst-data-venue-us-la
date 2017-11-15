@@ -2,9 +2,14 @@
   "id": 840274737,
   "type": "Feature",
   "properties": {
+    "addr:full":"14040 Intrepid St New Orleans LA 70129",
+    "addr:housenumber":"14040",
+    "addr:postcode":"70129",
+    "addr:street":"Intrepid St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.924738,30.062435,-89.924738,30.062435",
     "geom:latitude":30.062435,
     "geom:longitude":-89.924738,
@@ -24,7 +29,15 @@
     "sg:postcode":"70129",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21T8bV8BHQRx6HjonNkIXN_30.062435_-89.924738@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463525379,
     "wof:geomhash":"d134744f8e79bc190f643c25ca294316",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840274737
+        }
+    ],
     "wof:id":840274737,
-    "wof:lastmodified":1466542183,
+    "wof:lastmodified":1486688229,
     "wof:name":"Carmen's Special Touch Florist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

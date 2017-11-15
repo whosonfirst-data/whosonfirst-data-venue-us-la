@@ -2,14 +2,20 @@
   "id": 840226839,
   "type": "Feature",
   "properties": {
+    "addr:full":"1924 Albert St Alexandria LA 71301",
+    "addr:housenumber":"1924",
+    "addr:postcode":"71301",
+    "addr:street":"Albert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.457393,31.300643,-92.457393,31.300643",
     "geom:latitude":31.300643,
     "geom:longitude":-92.457393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1924 Albert St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125155393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oZMSdCDkilDP03MAD5XfB_31.300643_-92.457393@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524011,
-    "wof:geomhash":"1e788d66298fa4f1424ea362d6c88325",
+    "wof:geomhash":"ceb87f6fc4a6960fc865ff4a3a31ca9b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840226839,
-    "wof:lastmodified":1466541758,
+    "wof:lastmodified":1510698646,
     "wof:name":"Massachusetts Mutual Life Ins",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

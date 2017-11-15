@@ -2,9 +2,14 @@
   "id": 840270621,
   "type": "Feature",
   "properties": {
+    "addr:full":"374 Millaudon St New Orleans LA 70118",
+    "addr:housenumber":"374",
+    "addr:postcode":"70118",
+    "addr:street":"Millaudon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.130589,29.936808,-90.130589,29.936808",
     "geom:latitude":29.936808,
     "geom:longitude":-90.130589,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746809,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85823083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85823083,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746809,
             "region_id":85688735,
             "venue_id":840270621
         }
     ],
     "wof:id":840270621,
-    "wof:lastmodified":1466542110,
+    "wof:lastmodified":1486689014,
     "wof:name":"French Language Academy",
-    "wof:parent_id":85823083,
+    "wof:parent_id":1108746809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

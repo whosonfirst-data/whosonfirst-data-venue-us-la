@@ -2,9 +2,14 @@
   "id": 840289647,
   "type": "Feature",
   "properties": {
+    "addr:full":"930 Nashville Ave New Orleans LA 70115",
+    "addr:housenumber":"930",
+    "addr:postcode":"70115",
+    "addr:street":"Nashville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11857,29.923135,-90.11857,29.923135",
     "geom:latitude":29.923135,
     "geom:longitude":-90.11857,
@@ -27,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64wh8wCqJCmXEn1A5thNQA_29.923135_-90.118570@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463526052,
     "wof:geomhash":"d3c37ebccab20f50933ae8852d638b0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840289647
+        }
+    ],
     "wof:id":840289647,
-    "wof:lastmodified":1466542468,
+    "wof:lastmodified":1486688656,
     "wof:name":"Benjamin Hatfield",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

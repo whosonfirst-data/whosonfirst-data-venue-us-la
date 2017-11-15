@@ -2,14 +2,20 @@
   "id": 840235595,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 N 18th St Monroe LA 71201",
+    "addr:housenumber":"1900",
+    "addr:postcode":"71201",
+    "addr:street":"N 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.11607,32.52716,-92.11607,32.52716",
     "geom:latitude":32.52716,
     "geom:longitude":-92.11607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 N 18th St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125153035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gV6TltoeQe5no9rPcFYJ2_32.527160_-92.116070@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524262,
-    "wof:geomhash":"7c07db85c801b389f10365b5e6ec13e1",
+    "wof:geomhash":"e53201e7ec6dd105afacdba1f5760666",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840235595,
-    "wof:lastmodified":1466541750,
+    "wof:lastmodified":1510613162,
     "wof:name":"Lanier Worldwide Inc",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

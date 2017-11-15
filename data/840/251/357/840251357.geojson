@@ -2,14 +2,20 @@
   "id": 840251357,
   "type": "Feature",
   "properties": {
+    "addr:full":"6017 Airline Dr Metairie LA 70003",
+    "addr:housenumber":"6017",
+    "addr:postcode":"70003",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.197434,29.976984,-90.197434,29.976984",
     "geom:latitude":29.976984,
     "geom:longitude":-90.197434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6017 Airline Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125159051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HKGrGghmv1XdnAdll9Ryv_29.976984_-90.197434@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524637,
-    "wof:geomhash":"50016aa8101d308721d01e497f2a987c",
+    "wof:geomhash":"04a4a53ae2fd9490374db0ab31b49c9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840251357,
-    "wof:lastmodified":1466542003,
+    "wof:lastmodified":1510697216,
     "wof:name":"New Life Tabernacle",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

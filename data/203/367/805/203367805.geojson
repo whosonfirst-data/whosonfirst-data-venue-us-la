@@ -2,14 +2,20 @@
   "id": 203367805,
   "type": "Feature",
   "properties": {
+    "addr:full":"1402 Highway 5 Logansport LA 71049",
+    "addr:housenumber":"1402",
+    "addr:postcode":"71049",
+    "addr:street":"Highway 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.995078,31.987307,-93.995078,31.987307",
     "geom:latitude":31.987307,
     "geom:longitude":-93.995078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1402 Highway 5",
     "sg:city":"Logansport",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102084887,
         85842867
     ],
+    "wof:brand_id":1125159863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10y5pKRuIR2js6lPyWcGW7_31.987307_-93.995078@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"85c0b21059f4629bafc2687654d0f668",
+    "wof:geomhash":"055c2613b74cbaffb5c4fd6cb8a09409",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":203367805,
-    "wof:lastmodified":1466539495,
+    "wof:lastmodified":1510694981,
     "wof:name":"Freedom Baptist Church",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",

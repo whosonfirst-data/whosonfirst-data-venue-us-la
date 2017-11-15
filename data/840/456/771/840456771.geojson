@@ -2,14 +2,20 @@
   "id": 840456771,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Constitution Dr West Monroe LA 71292",
+    "addr:housenumber":"201",
+    "addr:postcode":"71292",
+    "addr:street":"Constitution Dr West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.158695,32.505333,-92.158695,32.505333",
     "geom:latitude":32.505333,
     "geom:longitude":-92.158695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Constitution Dr",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qOJ7ewddLGyaQA6O3t06e_32.505333_-92.158695@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533565,
-    "wof:geomhash":"68f3e3efd9f286af7573c0830a82c68a",
+    "wof:geomhash":"946a6f470d9ad28f54b9b82d3ee38fd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840456771,
-    "wof:lastmodified":1466545426,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

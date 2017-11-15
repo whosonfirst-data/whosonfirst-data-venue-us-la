@@ -2,9 +2,14 @@
   "id": 840439275,
   "type": "Feature",
   "properties": {
+    "addr:full":"9201 Palmetto St New Orleans LA 70118",
+    "addr:housenumber":"9201",
+    "addr:postcode":"70118",
+    "addr:street":"Palmetto St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.119718,29.973955,-90.119718,29.973955",
     "geom:latitude":29.973955,
     "geom:longitude":-90.119718,
@@ -28,7 +33,15 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866145,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_158yTx0ss2tToB7O98rMRE_29.973955_-90.119718@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463532858,
     "wof:geomhash":"2e11d97ee749473aa86726c44a42c3fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866145,
+            "region_id":85688735,
+            "venue_id":840439275
+        }
+    ],
     "wof:id":840439275,
-    "wof:lastmodified":1466545046,
+    "wof:lastmodified":1486688689,
     "wof:name":"Gulfstream Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

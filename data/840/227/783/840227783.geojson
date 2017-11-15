@@ -2,9 +2,14 @@
   "id": 840227783,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 Metropolitan St New Orleans LA 70126",
+    "addr:housenumber":"4000",
+    "addr:postcode":"70126",
+    "addr:street":"Metropolitan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.036102,30.001814,-90.036102,30.001814",
     "geom:latitude":30.001814,
     "geom:longitude":-90.036102,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866087
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":840227783
         }
     ],
     "wof:id":840227783,
-    "wof:lastmodified":1466541745,
+    "wof:lastmodified":1486687044,
     "wof:name":"Dependable Automatic Transm",
     "wof:parent_id":85866087,
     "wof:placetype":"venue",

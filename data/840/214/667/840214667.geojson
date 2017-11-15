@@ -2,14 +2,20 @@
   "id": 840214667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1799 Stumpf Blvd Terrytown LA 70056",
+    "addr:housenumber":"1799",
+    "addr:postcode":"70056",
+    "addr:street":"Stumpf Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037826,29.911631,-90.037826,29.911631",
     "geom:latitude":29.911631,
     "geom:longitude":-90.037826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1799 Stumpf Blvd",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85869723
     ],
+    "wof:brand_id":420575737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nsiY7LoEpf2Lad5TmDK8j_29.911631_-90.037826@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523722,
-    "wof:geomhash":"5b15335ed322cb11ca2576685bd56004",
+    "wof:geomhash":"c964a044149c65cc49d1889915a2ab12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840214667,
-    "wof:lastmodified":1466541631,
+    "wof:lastmodified":1510602696,
     "wof:name":"YWCA",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",

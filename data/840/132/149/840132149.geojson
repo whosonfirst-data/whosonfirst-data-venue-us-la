@@ -2,9 +2,14 @@
   "id": 840132149,
   "type": "Feature",
   "properties": {
+    "addr:full":"7016 Neptune Ct New Orleans LA 70126",
+    "addr:housenumber":"7016",
+    "addr:postcode":"70126",
+    "addr:street":"Neptune Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.003105,30.030864,-90.003105,30.030864",
     "geom:latitude":30.030864,
     "geom:longitude":-90.003105,
@@ -29,7 +34,15 @@
         "tinting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VYIs4TUySNrMtAWJyIC5m_30.030864_-90.003105@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463521887,
     "wof:geomhash":"38daa45a797c1c45c442dd925bd2b0f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840132149
+        }
+    ],
     "wof:id":840132149,
-    "wof:lastmodified":1466540972,
+    "wof:lastmodified":1486688714,
     "wof:name":"Authentic Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

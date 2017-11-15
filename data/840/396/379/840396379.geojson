@@ -2,14 +2,20 @@
   "id": 840396379,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 US Hwy 190 Slidell LA 70460",
+    "addr:housenumber":"104",
+    "addr:postcode":"70460",
+    "addr:street":"Us Hwy 190",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.779353,30.286449,-89.779353,30.286449",
     "geom:latitude":30.286449,
     "geom:longitude":-89.779353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 US Hwy 190",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082453,
         85837583
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TdaDWqFUhdTXSmB44sWLC_30.286449_-89.779353@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531073,
-    "wof:geomhash":"771075b99399d35b955349fe20689db0",
+    "wof:geomhash":"d29e1089ef430beec79ecefa63c245a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840396379,
-    "wof:lastmodified":1466544334,
+    "wof:lastmodified":1510698853,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85837583,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840399819,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Lafayette St Lafayette LA 70501",
+    "addr:housenumber":"800",
+    "addr:postcode":"70501",
+    "addr:street":"Lafayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.020776,30.224071,-92.020776,30.224071",
     "geom:latitude":30.224071,
     "geom:longitude":-92.020776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Lafayette St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125157601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iRn2EdPRS9WtDHwPfnF6R_30.224071_-92.020776@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531202,
-    "wof:geomhash":"0a3779fb36d0a39137ed6e1356b1a985",
+    "wof:geomhash":"d8dd7b227d948e05def45bd74ff905f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840399819,
-    "wof:lastmodified":1466544545,
+    "wof:lastmodified":1510695443,
     "wof:name":"Federal Public Defender",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

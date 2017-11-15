@@ -2,14 +2,20 @@
   "id": 840303287,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Champagne St Broussard LA 70501",
+    "addr:housenumber":"106",
+    "addr:postcode":"70501",
+    "addr:street":"Champagne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.99565,30.225033,-91.99565,30.225033",
     "geom:latitude":30.225033,
     "geom:longitude":-91.99565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Champagne St",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46y2toip3f4yroUEBdtIk6_30.225033_-91.995650@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526691,
-    "wof:geomhash":"3bb8a4aeebf79d1358422dfd7c45c72c",
+    "wof:geomhash":"cc6ebc0902b088c9fcb7933edc2139e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840303287,
-    "wof:lastmodified":1466542743,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

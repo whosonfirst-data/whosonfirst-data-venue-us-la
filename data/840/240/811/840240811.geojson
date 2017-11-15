@@ -2,14 +2,20 @@
   "id": 840240811,
   "type": "Feature",
   "properties": {
+    "addr:full":"58224 Meriam St Plaquemine LA 70764",
+    "addr:housenumber":"",
+    "addr:postcode":"58224;70764",
+    "addr:street":"Meriam St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.239123,30.285319,-91.239123,30.285319",
     "geom:latitude":30.285319,
     "geom:longitude":-91.239123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"58224 Meriam St",
     "sg:city":"Plaquemine",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082457,
         85852837
     ],
+    "wof:brand_id":1125150403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D7ujYGMbH31AOzMQCmHfy_30.285319_-91.239123@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524382,
-    "wof:geomhash":"a63a9bbaf822698846ebcc22de946822",
+    "wof:geomhash":"5729d1a3aa75746b7ae7e884a250c35d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840240811,
-    "wof:lastmodified":1466541792,
+    "wof:lastmodified":1510693887,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85852837,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840374093,
   "type": "Feature",
   "properties": {
+    "addr:full":"4850 Lynhuber Dr New Orleans LA 70126",
+    "addr:housenumber":"4850",
+    "addr:postcode":"70126",
+    "addr:street":"Lynhuber Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.01527,30.019043,-90.01527,30.019043",
     "geom:latitude":30.019043,
     "geom:longitude":-90.01527,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_428MfM1iRgGOz8q7Y844VS_30.019043_-90.015270@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463530090,
     "wof:geomhash":"27e13f55548ef91a10eb135942db2748",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840374093
+        }
+    ],
     "wof:id":840374093,
-    "wof:lastmodified":1466544107,
+    "wof:lastmodified":1486687833,
     "wof:name":"Joseph Electric Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

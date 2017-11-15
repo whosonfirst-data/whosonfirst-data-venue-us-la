@@ -2,14 +2,20 @@
   "id": 840396481,
   "type": "Feature",
   "properties": {
+    "addr:full":"122 Saint John St Monroe LA 71201",
+    "addr:housenumber":"122",
+    "addr:postcode":"71201",
+    "addr:street":"Saint John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.116647,32.500691,-92.116647,32.500691",
     "geom:latitude":32.500691,
     "geom:longitude":-92.116647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"122 Saint John St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125154795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XCtPHO8rKNJkTLeiBPWCd_32.500691_-92.116647@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531077,
-    "wof:geomhash":"fd881925a325b957b47c5cce22f7353a",
+    "wof:geomhash":"f3bf2f93cc853309977df5458343211a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840396481,
-    "wof:lastmodified":1466544342,
+    "wof:lastmodified":1510693704,
     "wof:name":"Probation & Parole Ofc",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

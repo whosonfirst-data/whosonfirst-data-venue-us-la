@@ -2,14 +2,20 @@
   "id": 840227887,
   "type": "Feature",
   "properties": {
+    "addr:full":"5141 Citrus Blvd New Orleans LA 70123",
+    "addr:housenumber":"5141",
+    "addr:postcode":"70123",
+    "addr:street":"Citrus Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.188535,29.966194,-90.188535,29.966194",
     "geom:latitude":29.966194,
     "geom:longitude":-90.188535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5141 Citrus Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125150133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lIIwDacR7BngFFmfKTfdN_29.966194_-90.188535@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524046,
-    "wof:geomhash":"d2b0b2f9cdc3c0475c04dd5712e3b52e",
+    "wof:geomhash":"0aea72bd6c72af1f49992677286c0b9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840227887,
-    "wof:lastmodified":1466541755,
+    "wof:lastmodified":1510696875,
     "wof:name":"Linens 'n Things",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

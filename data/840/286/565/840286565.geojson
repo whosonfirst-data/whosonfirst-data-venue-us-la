@@ -2,9 +2,14 @@
   "id": 840286565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2534 Deslonde St New Orleans LA 70117",
+    "addr:housenumber":"2534",
+    "addr:postcode":"70117",
+    "addr:street":"Deslonde St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019151,29.978091,-90.019151,29.978091",
     "geom:latitude":29.978091,
     "geom:longitude":-90.019151,
@@ -27,7 +32,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746835,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_762z1jYxBaLlk6IwCaJ57N_29.978091_-90.019151@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463525915,
     "wof:geomhash":"c6da28368ab75e1fb2d607608164967b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
+            "region_id":85688735,
+            "venue_id":840286565
+        }
+    ],
     "wof:id":840286565,
-    "wof:lastmodified":1466542349,
+    "wof:lastmodified":1486689078,
     "wof:name":"High Expectations A Tslac",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

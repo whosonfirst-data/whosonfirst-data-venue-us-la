@@ -2,9 +2,14 @@
   "id": 840028687,
   "type": "Feature",
   "properties": {
+    "addr:full":"7082 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"7082",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.977814,30.038984,-89.977814,30.038984",
     "geom:latitude":30.038984,
     "geom:longitude":-89.977814,
@@ -28,7 +33,15 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uUQ5NlK8deSCRaYpeqTrp_30.038984_-89.977814@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463519596,
     "wof:geomhash":"f4ef057be52c39544771646a39b1d8df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840028687
+        }
+    ],
     "wof:id":840028687,
-    "wof:lastmodified":1466539861,
+    "wof:lastmodified":1486688722,
     "wof:name":"Kay Bree Wireless Cingular",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

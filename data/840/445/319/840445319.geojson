@@ -2,9 +2,14 @@
   "id": 840445319,
   "type": "Feature",
   "properties": {
+    "addr:full":"2633 Napoleon Ave New Orleans LA 70115",
+    "addr:housenumber":"2633",
+    "addr:postcode":"70115",
+    "addr:street":"Napoleon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.102957,29.936942,-90.102957,29.936942",
     "geom:latitude":29.936942,
     "geom:longitude":-90.102957,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866119,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866127
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866127,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866119,
             "region_id":85688735,
             "venue_id":840445319
         }
     ],
     "wof:id":840445319,
-    "wof:lastmodified":1466545121,
+    "wof:lastmodified":1491913459,
     "wof:name":"Dieffenbach Cosmetic Surgery",
-    "wof:parent_id":85866127,
+    "wof:parent_id":85866119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

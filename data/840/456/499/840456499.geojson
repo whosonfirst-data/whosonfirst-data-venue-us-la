@@ -2,14 +2,20 @@
   "id": 840456499,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Millhaven Rd Monroe LA 71203",
+    "addr:housenumber":"4700",
+    "addr:postcode":"71203",
+    "addr:street":"Millhaven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.057034,32.500052,-92.057034,32.500052",
     "geom:latitude":32.500052,
     "geom:longitude":-92.057034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4700 Millhaven Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32sPk0jd0MHNBnFRrmF54s_32.500052_-92.057034@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533556,
-    "wof:geomhash":"ee8c00346dbbdc5abdc57188a421fae0",
+    "wof:geomhash":"95b969357e5e5d2df5bb67c4b31a76ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840456499,
-    "wof:lastmodified":1466545239,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840426349,
   "type": "Feature",
   "properties": {
+    "addr:full":"2353 Airline Dr Bossier City LA 71111",
+    "addr:housenumber":"2353",
+    "addr:postcode":"71111",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.706763,32.534104,-93.706763,32.534104",
     "geom:latitude":32.534104,
     "geom:longitude":-93.706763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2353 Airline Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084883,
         85811501
     ],
+    "wof:brand_id":1125158155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a0nd4FUkvgo4ZIyRnpgsZ_32.534104_-93.706763@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532288,
-    "wof:geomhash":"1724dc11c1efe21f605dbeddf68dd5da",
+    "wof:geomhash":"22dfeabcbcf7af5b02608e823ca2a2a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840426349,
-    "wof:lastmodified":1466544887,
+    "wof:lastmodified":1510697478,
     "wof:name":"Peoples State Bank",
     "wof:parent_id":85811501,
     "wof:placetype":"venue",

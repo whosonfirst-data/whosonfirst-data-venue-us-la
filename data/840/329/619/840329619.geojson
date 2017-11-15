@@ -2,9 +2,14 @@
   "id": 840329619,
   "type": "Feature",
   "properties": {
+    "addr:full":"8316 Apple St New Orleans LA 70118",
+    "addr:housenumber":"8316",
+    "addr:postcode":"70118",
+    "addr:street":"Apple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121419,29.959389,-90.121419,29.959389",
     "geom:latitude":29.959389,
     "geom:longitude":-90.121419,
@@ -29,7 +34,15 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28EczUrZTfi8f8XukzAs7e_29.959389_-90.121419@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463527926,
     "wof:geomhash":"16cdd794e0e35c6b567d32d36380000c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840329619
+        }
+    ],
     "wof:id":840329619,
-    "wof:lastmodified":1466543208,
+    "wof:lastmodified":1486688984,
     "wof:name":"Nemasa's Place",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840273321,
   "type": "Feature",
   "properties": {
+    "addr:full":"4915 Copernicus St New Orleans LA 70131",
+    "addr:housenumber":"4915",
+    "addr:postcode":"70131",
+    "addr:street":"Copernicus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.002549,29.92982,-90.002549,29.92982",
     "geom:latitude":29.92982,
     "geom:longitude":-90.002549,
@@ -24,7 +29,16 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DooYiXJxinbFVJbi0uzif_29.929820_-90.002549@1294127638"
@@ -32,11 +46,32 @@
     "wof:country":"US",
     "wof:created":1463525325,
     "wof:geomhash":"366de7e71baab78114317a9c917b0bfe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840273321
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840273321
+        }
+    ],
     "wof:id":840273321,
-    "wof:lastmodified":1466542123,
+    "wof:lastmodified":1486689010,
     "wof:name":"Ronald J Magee",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

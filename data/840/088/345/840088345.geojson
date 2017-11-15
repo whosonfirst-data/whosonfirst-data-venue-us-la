@@ -2,14 +2,20 @@
   "id": 840088345,
   "type": "Feature",
   "properties": {
+    "addr:full":"409 Caddo Ave Benton LA 71006",
+    "addr:housenumber":"409",
+    "addr:postcode":"71006",
+    "addr:street":"Caddo Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.742176,32.701471,-93.742176,32.701471",
     "geom:latitude":32.701471,
     "geom:longitude":-93.742176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"409 Caddo Ave",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85808045,
         102084883
     ],
+    "wof:brand_id":420575803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fbZyHjduYWOZoUd4GO3Vr_32.701471_-93.742176@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520990,
-    "wof:geomhash":"9c4f23594711f67815472bacaa11619b",
+    "wof:geomhash":"7a26c72a41fcdc6c7fb6f59a3a48b663",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840088345,
-    "wof:lastmodified":1466540584,
+    "wof:lastmodified":1510602947,
     "wof:name":"Macedonia Baptist Church",
     "wof:parent_id":85808045,
     "wof:placetype":"venue",

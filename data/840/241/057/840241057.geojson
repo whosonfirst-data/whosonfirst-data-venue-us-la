@@ -2,9 +2,14 @@
   "id": 840241057,
   "type": "Feature",
   "properties": {
+    "addr:full":"3875 General Degaulle Dr New Orleans LA 70114",
+    "addr:housenumber":"3875",
+    "addr:postcode":"70114",
+    "addr:street":"General Degaulle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019668,29.923817,-90.019668,29.923817",
     "geom:latitude":29.923817,
     "geom:longitude":-90.019668,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qmd9KsfaLqR2xp5ZVFu6I_29.923817_-90.019668@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463524387,
     "wof:geomhash":"a2914f91b17d50215b9f76a122c3845e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840241057
+        }
+    ],
     "wof:id":840241057,
-    "wof:lastmodified":1466541796,
+    "wof:lastmodified":1486689095,
     "wof:name":"Dryades Savings Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

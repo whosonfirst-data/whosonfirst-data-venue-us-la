@@ -2,9 +2,14 @@
   "id": 840144959,
   "type": "Feature",
   "properties": {
+    "addr:full":"7600 Gannon Rd New Orleans LA 70128",
+    "addr:housenumber":"",
+    "addr:postcode":"7600;70128",
+    "addr:street":"Gannon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.957211,30.060753,-89.957211,30.060753",
     "geom:latitude":30.060753,
     "geom:longitude":-89.957211,
@@ -24,7 +29,15 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jjse9ovG6bg1Ri9klfowb_30.060753_-89.957211@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463522145,
     "wof:geomhash":"9e4a8189c9c8964124f9a4ad8260cf93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840144959
+        }
+    ],
     "wof:id":840144959,
-    "wof:lastmodified":1466539835,
+    "wof:lastmodified":1486688705,
     "wof:name":"St Simon Peter Catholic School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840205901,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 N Peters St New Orleans LA 70130",
+    "addr:housenumber":"406",
+    "addr:postcode":"70130",
+    "addr:street":"N Peters St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064183,29.955041,-90.064183,29.955041",
     "geom:latitude":29.955041,
     "geom:longitude":-90.064183,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840205901
         }
     ],
     "wof:id":840205901,
-    "wof:lastmodified":1466541626,
+    "wof:lastmodified":1486686944,
     "wof:name":"Kites Tails & Toys",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

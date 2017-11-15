@@ -2,9 +2,14 @@
   "id": 840412271,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Eleonore St New Orleans LA 70115",
+    "addr:housenumber":"600",
+    "addr:postcode":"70115",
+    "addr:street":"Eleonore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.120077,29.920868,-90.120077,29.920868",
     "geom:latitude":29.920868,
     "geom:longitude":-90.120077,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4exA7LrgB4gkKyS2j8bTMJ_29.920868_-90.120077@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463531709,
     "wof:geomhash":"53ec6b0c2d27ebb9eae7f491ffe2b810",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840412271
+        }
+    ],
     "wof:id":840412271,
-    "wof:lastmodified":1466544689,
+    "wof:lastmodified":1486689118,
     "wof:name":"St Paul's United Church-Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840450311,
   "type": "Feature",
   "properties": {
+    "addr:full":"7746 Canosa Ct Baton Rouge LA 70817",
+    "addr:housenumber":"7746",
+    "addr:postcode":"70817",
+    "addr:street":"Canosa Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.001416,30.38095,-91.001416,30.38095",
     "geom:latitude":30.38095,
     "geom:longitude":-91.001416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7746 Canosa Ct",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087229,
         85824817
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HYkUYzInQ4489zvTYHaio_30.380950_-91.001416@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533315,
-    "wof:geomhash":"07b9b58e9b6968a1e6cb4398e1a868ea",
+    "wof:geomhash":"e20b42f5cb7b825500f6f54069417b39",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":840450311,
-    "wof:lastmodified":1466545291,
+    "wof:lastmodified":1510697268,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85824817,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840348619,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 Macarthur Blvd New Orleans LA 70114",
+    "addr:housenumber":"3600",
+    "addr:postcode":"70114",
+    "addr:street":"Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019095,29.924758,-90.019095,29.924758",
     "geom:latitude":29.924758,
     "geom:longitude":-90.019095,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76L91ftxkagC6RGut8S94M_29.924758_-90.019095@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528841,
     "wof:geomhash":"0ee7c72e9deb95aa38544a08686559b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840348619
+        }
+    ],
     "wof:id":840348619,
-    "wof:lastmodified":1466543424,
+    "wof:lastmodified":1486688948,
     "wof:name":"Le Washmatique",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

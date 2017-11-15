@@ -2,14 +2,20 @@
   "id": 840370569,
   "type": "Feature",
   "properties": {
+    "addr:full":"3003 Knight St Shreveport LA 71105",
+    "addr:housenumber":"3003",
+    "addr:postcode":"71105",
+    "addr:street":"Knight St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.702741,32.480386,-93.702741,32.480386",
     "geom:latitude":32.480386,
     "geom:longitude":-93.702741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3003 Knight St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087235,
         85807711
     ],
+    "wof:brand_id":1125155505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T4ppWoUtVDoWzfLxEsm1w_32.480386_-93.702741@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529922,
-    "wof:geomhash":"b0a57402dff070dea28c5427ae5efa5a",
+    "wof:geomhash":"9d98c9b8fb0102b4cbc8c7aa57cc7273",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840370569,
-    "wof:lastmodified":1466544119,
+    "wof:lastmodified":1510696755,
     "wof:name":"Junior Achievement",
     "wof:parent_id":85807711,
     "wof:placetype":"venue",

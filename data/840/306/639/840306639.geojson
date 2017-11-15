@@ -2,14 +2,20 @@
   "id": 840306639,
   "type": "Feature",
   "properties": {
+    "addr:full":"2836 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"2836",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.21873,30.204758,-93.21873,30.204758",
     "geom:latitude":30.204758,
     "geom:longitude":-93.21873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2836 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125157595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e9TyVezBEVC1xzikdyreO_30.204758_-93.218730@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526835,
-    "wof:geomhash":"0e90e18d02292e6666953ebc15949009",
+    "wof:geomhash":"0d2f14ad4ce6e538666404ff69950abf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840306639,
-    "wof:lastmodified":1466542734,
+    "wof:lastmodified":1510695419,
     "wof:name":"Exotic Nails",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

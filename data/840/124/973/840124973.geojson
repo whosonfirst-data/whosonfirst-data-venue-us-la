@@ -2,14 +2,20 @@
   "id": 840124973,
   "type": "Feature",
   "properties": {
+    "addr:full":"11655 Reiger Rd Baton Rouge LA 70809",
+    "addr:housenumber":"11655",
+    "addr:postcode":"70809",
+    "addr:street":"Reiger Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.052025,30.37372,-91.052025,30.37372",
     "geom:latitude":30.37372,
     "geom:longitude":-91.052025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11655 Reiger Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":1125153843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ds7VBqEik4qCz8FlGQ8b1_30.373720_-91.052025@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521748,
-    "wof:geomhash":"eeb42b96a7a46263799762ecf61c5f79",
+    "wof:geomhash":"6b5f090e9e421a4996963f916be76c49",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":840124973,
-    "wof:lastmodified":1466540963,
+    "wof:lastmodified":1510699672,
     "wof:name":"Bassett Furniture Direct",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

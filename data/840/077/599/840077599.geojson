@@ -2,9 +2,14 @@
   "id": 840077599,
   "type": "Feature",
   "properties": {
+    "addr:full":"1445 N Derbigny St New Orleans LA 70116",
+    "addr:housenumber":"1445",
+    "addr:postcode":"70116",
+    "addr:street":"N Derbigny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.068149,29.971699,-90.068149,29.971699",
     "geom:latitude":29.971699,
     "geom:longitude":-90.068149,
@@ -28,7 +33,16 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nJbhP4w62PpJ4Lcfh2FR4_29.971699_-90.068149@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463520632,
     "wof:geomhash":"2be6a14d6cb8665fd756086251fca073",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840077599
+        }
+    ],
     "wof:id":840077599,
-    "wof:lastmodified":1466540509,
+    "wof:lastmodified":1486689205,
     "wof:name":"Seasons Of Love Creations",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

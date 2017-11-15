@@ -2,14 +2,20 @@
   "id": 840457831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2203 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"2203",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.101854,32.520622,-92.101854,32.520622",
     "geom:latitude":32.520622,
     "geom:longitude":-92.101854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2203 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D3zTaf3Zi4mlOzeDDt964_32.520733_-92.101822@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533607,
-    "wof:geomhash":"3f9cab4bf22510f288a84aa6fada303b",
+    "wof:geomhash":"c92daf1d3caf23dd58a55477dad96bc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":840457831,
-    "wof:lastmodified":1466545424,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840436529,
   "type": "Feature",
   "properties": {
+    "addr:full":"839 US Hwy 90 Morgan City LA 70380",
+    "addr:housenumber":"839",
+    "addr:postcode":"70380",
+    "addr:street":"Us Hwy 90 Morgan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.272651,29.680624,-91.272651,29.680624",
     "geom:latitude":29.680624,
     "geom:longitude":-91.272651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"839 US Hwy 90",
     "sg:city":"Morgan City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125155261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y3LMGGEiZi66y4ibpTtYW_29.680624_-91.272651@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532753,
-    "wof:geomhash":"eaeb0889806b98ba2edf2809a7022e71",
+    "wof:geomhash":"77c1c1fce7cc5cc7ebf25818b231f5f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840436529,
-    "wof:lastmodified":1466545099,
+    "wof:lastmodified":1510699741,
     "wof:name":"It's Fashion",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

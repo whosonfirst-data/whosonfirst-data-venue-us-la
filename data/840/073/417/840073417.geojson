@@ -2,14 +2,20 @@
   "id": 840073417,
   "type": "Feature",
   "properties": {
+    "addr:full":"4424 Ryan St Lake Charles LA 70605",
+    "addr:housenumber":"4424",
+    "addr:postcode":"70605",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218644,30.176619,-93.218644,30.176619",
     "geom:latitude":30.176619,
     "geom:longitude":-93.218644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4424 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Gj7lf4PvSVdQOAYRjn4cw_30.176619_-93.218644@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520549,
-    "wof:geomhash":"f05bfd799642a7740600b49698ce2535",
+    "wof:geomhash":"3ba6e07de17ebbf783701e03581e0741",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840073417,
-    "wof:lastmodified":1466540379,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

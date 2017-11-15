@@ -2,14 +2,20 @@
   "id": 840453265,
   "type": "Feature",
   "properties": {
+    "addr:full":"8108 Hampson St New Orleans LA 70118",
+    "addr:housenumber":"8108",
+    "addr:postcode":"70118",
+    "addr:street":"Hampson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.133558,29.943881,-90.133558,29.943881",
     "geom:latitude":29.943881,
     "geom:longitude":-90.133558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8108 Hampson St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,19 +34,41 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
+    "wof:brand_id":1125151181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KIgWJGHFfmWmV3PRq7mP5_29.943881_-90.133558@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533435,
-    "wof:geomhash":"04cf555e20bef23d3c1e079a32e3e364",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8413f56f520a8a9462429aef38b4550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840453265
+        }
+    ],
     "wof:id":840453265,
-    "wof:lastmodified":1466545358,
+    "wof:lastmodified":1510697192,
     "wof:name":"Haagen Dazs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

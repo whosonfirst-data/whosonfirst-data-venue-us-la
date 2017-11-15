@@ -2,9 +2,14 @@
   "id": 840023743,
   "type": "Feature",
   "properties": {
+    "addr:full":"6928 Virgilian St New Orleans LA 70126",
+    "addr:housenumber":"6928",
+    "addr:postcode":"70126",
+    "addr:street":"Virgilian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019135,30.025448,-90.019135,30.025448",
     "geom:latitude":30.025448,
     "geom:longitude":-90.019135,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tZCJNpOTUlex2dGQ9Dps1_30.025448_-90.019135@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463519480,
     "wof:geomhash":"b9e4b6ddb251739b5c6ae7d6dc161eba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840023743
+        }
+    ],
     "wof:id":840023743,
-    "wof:lastmodified":1466539855,
+    "wof:lastmodified":1486687624,
     "wof:name":"B & G Electronic Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

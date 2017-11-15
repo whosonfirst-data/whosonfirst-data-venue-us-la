@@ -2,6 +2,10 @@
   "id": 203230963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1818 Manhattan Blvd Ste 10 Harvey LA 70058",
+    "addr:housenumber":"1818;10",
+    "addr:postcode":"70058",
+    "addr:street":"Manhattan Blvd Ste;Harvey La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":203230963,
-    "wof:lastmodified":1466539298,
+    "wof:lastmodified":1472624327,
     "wof:name":"Smoothie Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

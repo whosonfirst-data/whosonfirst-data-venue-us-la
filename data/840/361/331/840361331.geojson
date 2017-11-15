@@ -2,9 +2,14 @@
   "id": 840361331,
   "type": "Feature",
   "properties": {
+    "addr:full":"4850 Schindler Dr New Orleans LA 70127",
+    "addr:housenumber":"4850",
+    "addr:postcode":"70127",
+    "addr:street":"Schindler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.96351,30.023329,-89.96351,30.023329",
     "geom:latitude":30.023329,
     "geom:longitude":-89.96351,
@@ -29,7 +34,15 @@
         "awareness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GhMCk9jTCD7CI0VZrwSmU_30.023329_-89.963510@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463529449,
     "wof:geomhash":"d3f97a256595dbbd01850467a1035c7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840361331
+        }
+    ],
     "wof:id":840361331,
-    "wof:lastmodified":1466544094,
+    "wof:lastmodified":1486688746,
     "wof:name":"Taylors Alliance Center Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840380079,
   "type": "Feature",
   "properties": {
+    "addr:full":"11201 N Idlewood Ct New Orleans LA 70128",
+    "addr:housenumber":"11201",
+    "addr:postcode":"70128",
+    "addr:street":"N Idlewood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.9587,30.032812,-89.9587,30.032812",
     "geom:latitude":30.032812,
     "geom:longitude":-89.9587,
@@ -27,7 +32,16 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739505,
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wbh2zIgKoGIGWlUuShTwQ_30.032812_-89.958700@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463530352,
     "wof:geomhash":"39c7827893c4ac0a2df2bcebe8997ee6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739505,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840380079
+        }
+    ],
     "wof:id":840380079,
-    "wof:lastmodified":1466543870,
+    "wof:lastmodified":1486689127,
     "wof:name":"Open Door Travel Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

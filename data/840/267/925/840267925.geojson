@@ -2,14 +2,20 @@
   "id": 840267925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 Southwood Dr Lake Charles LA 70605",
+    "addr:housenumber":"1910",
+    "addr:postcode":"70605",
+    "addr:street":"Southwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.24945,30.178454,-93.24945,30.178454",
     "geom:latitude":30.178454,
     "geom:longitude":-93.24945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1910 Southwood Dr",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125154815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZUc0dQ8iu14KmsBGxw9Wg_30.178454_-93.249450@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525081,
-    "wof:geomhash":"92fbc9fd9bf50f5a3b9918a8aee58431",
+    "wof:geomhash":"330ba48574c68ac669520916146a029a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840267925,
-    "wof:lastmodified":1466542119,
+    "wof:lastmodified":1510695891,
     "wof:name":"Total Look",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

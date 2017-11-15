@@ -2,14 +2,20 @@
   "id": 840169569,
   "type": "Feature",
   "properties": {
+    "addr:full":"11670 Airline Hwy Baton Rouge LA 70816",
+    "addr:housenumber":"11670",
+    "addr:postcode":"70816",
+    "addr:street":"Airline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.053884,30.398689,-91.053884,30.398689",
     "geom:latitude":30.398689,
     "geom:longitude":-91.053884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11670 Airline Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85814143,
         102087229
     ],
+    "wof:brand_id":1125151057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nNEr2pvy85U2jhhW5SBjo_30.398689_-91.053884@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522660,
-    "wof:geomhash":"15f1d1a3e5c18043969fe4a7dc256b38",
+    "wof:geomhash":"7fbdd5f3b22df5016bf7930e209004f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840169569,
-    "wof:lastmodified":1466541212,
+    "wof:lastmodified":1510613132,
     "wof:name":"Uncle Bob's Self-Storage",
     "wof:parent_id":85814143,
     "wof:placetype":"venue",

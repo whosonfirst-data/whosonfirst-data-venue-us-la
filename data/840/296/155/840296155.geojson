@@ -2,14 +2,20 @@
   "id": 840296155,
   "type": "Feature",
   "properties": {
+    "addr:full":"6703 Masonic Dr Alexandria LA 71301",
+    "addr:housenumber":"6703",
+    "addr:postcode":"71301",
+    "addr:street":"Masonic Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.48425,31.247386,-92.48425,31.247386",
     "geom:latitude":31.247386,
     "geom:longitude":-92.48425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6703 Masonic Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HDRklswJil3kQLAqhSCOV_31.247386_-92.484250@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526324,
-    "wof:geomhash":"22f1f3b5d5ff4b3f73e3154f690ecf7d",
+    "wof:geomhash":"a72722920bd047828fb06813ee9423c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840296155,
-    "wof:lastmodified":1466542491,
+    "wof:lastmodified":1510602991,
     "wof:name":"IBEW",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

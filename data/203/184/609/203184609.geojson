@@ -2,14 +2,20 @@
   "id": 203184609,
   "type": "Feature",
   "properties": {
+    "addr:full":"8400 W Judge Perez Dr Chalmette LA 70043",
+    "addr:housenumber":"8400",
+    "addr:postcode":"70043",
+    "addr:street":"W Judge Perez Dr Chalmette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.983803,29.9552,-89.983803,29.9552",
     "geom:latitude":29.9552,
     "geom:longitude":-89.983803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8400 W Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102082447,
         85853675
     ],
+    "wof:brand_id":1125150455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nT7mvszbUxeExS9upIlPh_29.955200_-89.983803@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"eedfe6d6ae5c3244e6f55571f2d8f731",
+    "wof:geomhash":"8699a4a316954c616df529bdd7f1d02c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203184609,
-    "wof:lastmodified":1466540965,
+    "wof:lastmodified":1510695308,
     "wof:name":"American General Financial Services",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

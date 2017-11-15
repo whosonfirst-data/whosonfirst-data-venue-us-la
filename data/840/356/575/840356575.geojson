@@ -2,9 +2,14 @@
   "id": 840356575,
   "type": "Feature",
   "properties": {
+    "addr:full":"2523 Bayou Rd New Orleans LA 70119",
+    "addr:housenumber":"2523",
+    "addr:postcode":"70119",
+    "addr:street":"Bayou Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.07675,29.977046,-90.07675,29.977046",
     "geom:latitude":29.977046,
     "geom:longitude":-90.07675,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866065
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
             "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":840356575
         }
     ],
     "wof:id":840356575,
-    "wof:lastmodified":1466543562,
+    "wof:lastmodified":1486689217,
     "wof:name":"Book Center Community",
-    "wof:parent_id":85866065,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

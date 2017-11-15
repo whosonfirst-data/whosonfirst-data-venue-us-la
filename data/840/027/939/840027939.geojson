@@ -2,9 +2,14 @@
   "id": 840027939,
   "type": "Feature",
   "properties": {
+    "addr:full":"3145 Clouet St New Orleans LA 70126",
+    "addr:housenumber":"3145",
+    "addr:postcode":"70126",
+    "addr:street":"Clouet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037656,29.988816,-90.037656,29.988816",
     "geom:latitude":29.988816,
     "geom:longitude":-90.037656,
@@ -24,7 +29,16 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866087,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        420521719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z2bH3b82NopNqDj7BJbh8_29.988816_-90.037656@1294127638"
@@ -32,11 +46,32 @@
     "wof:country":"US",
     "wof:created":1463519577,
     "wof:geomhash":"5b40f8ed6be22ff7240c2e56e9170681",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
+            "region_id":85688735,
+            "venue_id":840027939
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420521719,
+            "region_id":85688735,
+            "venue_id":840027939
+        }
+    ],
     "wof:id":840027939,
-    "wof:lastmodified":1466539893,
+    "wof:lastmodified":1486688348,
     "wof:name":"Money & Honey One Stop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

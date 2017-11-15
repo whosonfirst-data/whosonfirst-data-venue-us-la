@@ -2,14 +2,20 @@
   "id": 840379089,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Arnould Blvd Lafayette LA 70506",
+    "addr:housenumber":"117",
+    "addr:postcode":"70506",
+    "addr:street":"Arnould Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.054487,30.203256,-92.054487,30.203256",
     "geom:latitude":30.203256,
     "geom:longitude":-92.054487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 Arnould Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125153419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s7DFhCb88V7XFnRSXdIEk_30.203256_-92.054487@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530308,
-    "wof:geomhash":"868af5a8e72362d80db7b41698671823",
+    "wof:geomhash":"851c0440767d2b6dcfd0cec6f507c521",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840379089,
-    "wof:lastmodified":1466543872,
+    "wof:lastmodified":1510695032,
     "wof:name":"Style America",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840173199,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Cypress Grove Ct New Orleans LA 70131",
+    "addr:housenumber":"73",
+    "addr:postcode":"70131",
+    "addr:street":"Cypress Grove Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.995117,29.900557,-89.995117,29.900557",
     "geom:latitude":29.900557,
     "geom:longitude":-89.995117,
@@ -30,7 +35,15 @@
         "offer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PXvsYRxxPYown5jP9cXqy_29.900557_-89.995117@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463522755,
     "wof:geomhash":"18ded99a96073ab606e92c837d70824b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840173199
+        }
+    ],
     "wof:id":840173199,
-    "wof:lastmodified":1466541233,
+    "wof:lastmodified":1486689092,
     "wof:name":"Social Services Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

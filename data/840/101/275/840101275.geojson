@@ -2,14 +2,20 @@
   "id": 840101275,
   "type": "Feature",
   "properties": {
+    "addr:full":"3206 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"3206",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218724,30.199382,-93.218724,30.199382",
     "geom:latitude":30.199382,
     "geom:longitude":-93.218724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3206 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125152143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2njNudRFiquP3EWvTaEcOg_30.199382_-93.218724@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521248,
-    "wof:geomhash":"4d185540b6b6a863d9ead52eb58fa66b",
+    "wof:geomhash":"67d0a099098d60d22f7e588bc0400630",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840101275,
-    "wof:lastmodified":1466540685,
+    "wof:lastmodified":1510693736,
     "wof:name":"Glamour Nails",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

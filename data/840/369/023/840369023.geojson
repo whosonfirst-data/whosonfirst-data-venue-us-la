@@ -2,14 +2,20 @@
   "id": 840369023,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 River Rd Westwego LA 70094",
+    "addr:housenumber":"933",
+    "addr:postcode":"70094",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.139985,29.914641,-90.139985,29.914641",
     "geom:latitude":29.914641,
     "geom:longitude":-90.139985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"933 River Rd",
     "sg:city":"Westwego",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85866123
     ],
+    "wof:brand_id":1125156529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FbMUhgli2ZeRkJI7RWYuc_29.914641_-90.139985@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529832,
-    "wof:geomhash":"6c70ae7af71f961bc85b6321b66bea80",
+    "wof:geomhash":"8ca83249de929c0436b9c23e1955bc62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840369023,
-    "wof:lastmodified":1466543746,
+    "wof:lastmodified":1510696821,
     "wof:name":"Cargill",
     "wof:parent_id":85866123,
     "wof:placetype":"venue",

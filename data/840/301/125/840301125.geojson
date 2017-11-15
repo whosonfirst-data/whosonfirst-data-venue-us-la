@@ -2,14 +2,20 @@
   "id": 840301125,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Camp Livingston Rd Ball LA 71405",
+    "addr:housenumber":"125",
+    "addr:postcode":"71405",
+    "addr:street":"Camp Livingston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.399631,31.417065,-92.399631,31.417065",
     "geom:latitude":31.417065,
     "geom:longitude":-92.399631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Camp Livingston Rd",
     "sg:city":"Ball",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125154885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qVuHpgQJdFsqPaHepGkqD_31.417065_-92.399631@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526561,
-    "wof:geomhash":"1148acf6dae544aec8a1956bd0d954b8",
+    "wof:geomhash":"47a7a3000efccc8f80df67f71b180273",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840301125,
-    "wof:lastmodified":1466542637,
+    "wof:lastmodified":1510697716,
     "wof:name":"Harmony Baptist Church",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

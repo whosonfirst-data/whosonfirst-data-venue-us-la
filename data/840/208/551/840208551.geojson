@@ -2,14 +2,20 @@
   "id": 840208551,
   "type": "Feature",
   "properties": {
+    "addr:full":"9225 Lake Forest Blvd New Orleans LA 70127",
+    "addr:housenumber":"9225",
+    "addr:postcode":"70127",
+    "addr:street":"Lake Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.984741,30.028859,-89.984741,30.028859",
     "geom:latitude":30.028859,
     "geom:longitude":-89.984741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9225 Lake Forest Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,19 +34,39 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855781,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
+    "wof:brand_id":1125155311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fDZL5R3S7sHPZHE7k5oVZ_30.028859_-89.984741@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523598,
-    "wof:geomhash":"1ac246a460662c06097cd22cd40b99ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9adac90f520f4267a49edb6c24169436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
+            "region_id":85688735,
+            "venue_id":840208551
+        }
+    ],
     "wof:id":840208551,
-    "wof:lastmodified":1466541623,
+    "wof:lastmodified":1510696062,
     "wof:name":"Speedee Oil Change & Tune Up",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

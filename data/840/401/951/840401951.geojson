@@ -2,14 +2,20 @@
   "id": 840401951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Division St Metairie LA 70001",
+    "addr:housenumber":"1201",
+    "addr:postcode":"70001",
+    "addr:street":"Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.164352,29.984018,-90.164352,29.984018",
     "geom:latitude":29.984018,
     "geom:longitude":-90.164352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Division St",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125152783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IOmLqh6uUIu8Ev7zyNQ7U_29.984018_-90.164352@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531287,
-    "wof:geomhash":"7a593914087706cc2a560f939f319e2b",
+    "wof:geomhash":"726d9e1225efb3f4a317646ac6d01edb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840401951,
-    "wof:lastmodified":1466544567,
+    "wof:lastmodified":1510697425,
     "wof:name":"Hair Flair",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

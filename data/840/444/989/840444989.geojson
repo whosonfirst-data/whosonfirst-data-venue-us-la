@@ -2,14 +2,20 @@
   "id": 840444989,
   "type": "Feature",
   "properties": {
+    "addr:full":"6023 Leslie Ln Lake Charles LA 70615",
+    "addr:housenumber":"6023",
+    "addr:postcode":"70615",
+    "addr:street":"Leslie Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.11933,30.234449,-93.11933,30.234449",
     "geom:latitude":30.234449,
     "geom:longitude":-93.11933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6023 Leslie Ln",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rxVEGASKngQIqIWtFbmXF_30.234449_-93.119330@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533089,
-    "wof:geomhash":"bb2728e67046d6456bb57b7eea46ccea",
+    "wof:geomhash":"5d6001b402652551a2e1b29e49d06a5d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840444989,
-    "wof:lastmodified":1466545055,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

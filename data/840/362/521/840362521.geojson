@@ -2,9 +2,14 @@
   "id": 840362521,
   "type": "Feature",
   "properties": {
+    "addr:full":"4016 Canal St New Orleans LA 70119",
+    "addr:housenumber":"4016",
+    "addr:postcode":"70119",
+    "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.100501,29.974237,-90.100501,29.974237",
     "geom:latitude":29.974237,
     "geom:longitude":-90.100501,
@@ -26,12 +31,13 @@
     "sg:website":"www.coastalcollege.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85869483
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840362521
         }
     ],
     "wof:id":840362521,
-    "wof:lastmodified":1466543598,
+    "wof:lastmodified":1486688899,
     "wof:name":"Coastal Truck Driving Training",
     "wof:parent_id":85869483,
     "wof:placetype":"venue",

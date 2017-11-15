@@ -2,14 +2,20 @@
   "id": 840011041,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 N Arnoult Rd Metairie LA 70001",
+    "addr:housenumber":"508",
+    "addr:postcode":"70001",
+    "addr:street":"N Arnoult Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.1617,29.979102,-90.1617,29.979102",
     "geom:latitude":29.979102,
     "geom:longitude":-90.1617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"508 N Arnoult Rd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125156261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JiQMljl4lTzw3tbTQcXSn_29.979102_-90.161700@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519230,
-    "wof:geomhash":"b9f5dc4dbbb699c162ec2de30d35a50b",
+    "wof:geomhash":"d81c723c1883a1dbca28c969f5b4ccd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840011041,
-    "wof:lastmodified":1466539650,
+    "wof:lastmodified":1510699969,
     "wof:name":"Jehovahs Wtnesses Kingdom Hall",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

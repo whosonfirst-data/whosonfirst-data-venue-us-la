@@ -2,9 +2,14 @@
   "id": 840435169,
   "type": "Feature",
   "properties": {
+    "addr:full":"8225 Birch St New Orleans LA 70118",
+    "addr:housenumber":"8225",
+    "addr:postcode":"70118",
+    "addr:street":"Birch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.128258,29.9515,-90.128258,29.9515",
     "geom:latitude":29.9515,
     "geom:longitude":-90.128258,
@@ -27,7 +32,15 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TOFae16cAux1bzeoJvmF4_29.951500_-90.128258@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463532691,
     "wof:geomhash":"1b6d8ec7d973f6191964e3483bd150ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840435169
+        }
+    ],
     "wof:id":840435169,
-    "wof:lastmodified":1466545024,
+    "wof:lastmodified":1486688978,
     "wof:name":"Cooper-Stratton Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

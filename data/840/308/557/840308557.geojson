@@ -2,14 +2,20 @@
   "id": 840308557,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Cajundome Blvd Lafayette LA 70506",
+    "addr:housenumber":"700",
+    "addr:postcode":"70506",
+    "addr:street":"Cajundome Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.044944,30.223301,-92.044944,30.223301",
     "geom:latitude":30.223301,
     "geom:longitude":-92.044944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Cajundome Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125151649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VhGumnLrPxWrkoHWZiXWN_30.223301_-92.044944@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526921,
-    "wof:geomhash":"33732534cfaa014ed6678663066bf9dd",
+    "wof:geomhash":"a67d108703731dd1a72e7467926b649c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840308557,
-    "wof:lastmodified":1466542751,
+    "wof:lastmodified":1510695201,
     "wof:name":"Johnson Controls Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

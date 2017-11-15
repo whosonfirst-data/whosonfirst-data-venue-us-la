@@ -2,14 +2,20 @@
   "id": 840360757,
   "type": "Feature",
   "properties": {
+    "addr:full":"5359 Tchoupitoulas St New Orleans LA 70115",
+    "addr:housenumber":"5359",
+    "addr:postcode":"70115",
+    "addr:street":"Tchoupitoulas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11582,29.916554,-90.11582,29.916554",
     "geom:latitude":29.916554,
     "geom:longitude":-90.11582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5359 Tchoupitoulas St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -27,19 +33,39 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
+    "wof:brand_id":420574781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4j0Iq7iDBoXEezEhR0hDR4_29.916554_-90.115820@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529419,
-    "wof:geomhash":"1870623571f62f51146a50215cf15f40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db658607b9d9bac3781a724da742c1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840360757
+        }
+    ],
     "wof:id":840360757,
-    "wof:lastmodified":1466543715,
+    "wof:lastmodified":1510608432,
     "wof:name":"EB Games",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

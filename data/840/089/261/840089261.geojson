@@ -2,9 +2,14 @@
   "id": 840089261,
   "type": "Feature",
   "properties": {
+    "addr:full":"6215 S Miro St New Orleans LA 70125",
+    "addr:housenumber":"6215",
+    "addr:postcode":"70125",
+    "addr:street":"S Miro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11337,29.94673,-90.11337,29.94673",
     "geom:latitude":29.94673,
     "geom:longitude":-90.11337,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866137,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866177
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866177,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866137,
             "region_id":85688735,
             "venue_id":840089261
         }
     ],
     "wof:id":840089261,
-    "wof:lastmodified":1466540582,
+    "wof:lastmodified":1486688679,
     "wof:name":"Forstall Art Supplies",
-    "wof:parent_id":85866177,
+    "wof:parent_id":85866137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

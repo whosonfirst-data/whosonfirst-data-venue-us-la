@@ -2,9 +2,14 @@
   "id": 840305339,
   "type": "Feature",
   "properties": {
+    "addr:full":"13060 N Lake Carmel Dr New Orleans LA 70128",
+    "addr:housenumber":"13060",
+    "addr:postcode":"70128",
+    "addr:street":"N Lake Carmel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.955355,30.056538,-89.955355,30.056538",
     "geom:latitude":30.056538,
     "geom:longitude":-89.955355,
@@ -27,7 +32,16 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739509,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ny3BVX08bYryXAz1Ic6z1_30.056538_-89.955355@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463526778,
     "wof:geomhash":"151fd9855614fc19fdebdf9d59c4d138",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739509,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840305339
+        }
+    ],
     "wof:id":840305339,
-    "wof:lastmodified":1466542695,
+    "wof:lastmodified":1486689131,
     "wof:name":"GMCC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

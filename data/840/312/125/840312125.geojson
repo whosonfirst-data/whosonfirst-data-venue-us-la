@@ -2,14 +2,20 @@
   "id": 840312125,
   "type": "Feature",
   "properties": {
+    "addr:full":"7037 Canal Blvd New Orleans LA 70124",
+    "addr:housenumber":"7037",
+    "addr:postcode":"70124",
+    "addr:street":"Canal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.106066,30.01945,-90.106066,30.01945",
     "geom:latitude":30.01945,
     "geom:longitude":-90.106066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7037 Canal Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829329
+        85688735
     ],
+    "wof:brand_id":1125150061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D6cDJY7xeoz5RQ4LSym8e_30.019450_-90.106066@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527097,
-    "wof:geomhash":"da92507f3efd8e1a62db72d69ce249fa",
+    "wof:geomhash":"8652b490259481de7aba0973f9126e70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829329,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840312125
         }
     ],
     "wof:id":840312125,
-    "wof:lastmodified":1466542813,
+    "wof:lastmodified":1510695809,
     "wof:name":"Stewart Title Co",
-    "wof:parent_id":85829329,
+    "wof:parent_id":85829431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

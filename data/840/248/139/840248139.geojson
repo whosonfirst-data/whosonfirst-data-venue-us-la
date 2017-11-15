@@ -2,9 +2,14 @@
   "id": 840248139,
   "type": "Feature",
   "properties": {
+    "addr:full":"10050 Morrison Rd New Orleans LA 70127",
+    "addr:housenumber":"10050",
+    "addr:postcode":"70127",
+    "addr:street":"Morrison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.979885,30.043041,-89.979885,30.043041",
     "geom:latitude":30.043041,
     "geom:longitude":-89.979885,
@@ -34,7 +39,15 @@
         "gymnastics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59L9xsVhpfMG2PL1C61Q93_30.043041_-89.979885@1294127638"
@@ -42,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1463524560,
     "wof:geomhash":"ce01f771f54e60afc7a8c1ef5139fad8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840248139
+        }
+    ],
     "wof:id":840248139,
-    "wof:lastmodified":1466541704,
+    "wof:lastmodified":1486687721,
     "wof:name":"Studio G Dance & Gymnastics Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

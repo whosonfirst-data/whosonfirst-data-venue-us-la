@@ -2,14 +2,20 @@
   "id": 840208201,
   "type": "Feature",
   "properties": {
+    "addr:full":"2230 Gause Blvd W Slidell LA 70460",
+    "addr:housenumber":"2230",
+    "addr:postcode":"70460",
+    "addr:street":"Gause Blvd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.833688,30.301935,-89.833688,30.301935",
     "geom:latitude":30.301935,
     "geom:longitude":-89.833688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2230 Gause Blvd W",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85852271,
         102082453
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yCb4rlRBWvylRmOQuq8lu_30.301935_-89.833688@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523592,
-    "wof:geomhash":"040582f3fec6117e69fc338ceffa0ec7",
+    "wof:geomhash":"3d647a9741aaa9381f6640b80bc48870",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840208201,
-    "wof:lastmodified":1466541508,
+    "wof:lastmodified":1510697331,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85852271,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840320493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2304 Meraux Ln Violet LA 70092",
+    "addr:housenumber":"2304",
+    "addr:postcode":"70092",
+    "addr:street":"Meraux Ln Violet La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.904546,29.920316,-89.904546,29.920316",
     "geom:latitude":29.920316,
     "geom:longitude":-89.904546,
@@ -28,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948813,
+        102082447,
+        85850917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w4wgIfBVU0PacdwBW4Iti_29.920316_-89.904546@1294127638"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1463527480,
     "wof:geomhash":"0de16ae155abc61127dbfa32fe416a88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082447,
+            "locality_id":85948813,
+            "neighbourhood_id":85850917,
+            "region_id":85688735,
+            "venue_id":840320493
+        }
+    ],
     "wof:id":840320493,
-    "wof:lastmodified":1466542957,
+    "wof:lastmodified":1491910632,
     "wof:name":"Armstrongs Carpentry Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85850917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

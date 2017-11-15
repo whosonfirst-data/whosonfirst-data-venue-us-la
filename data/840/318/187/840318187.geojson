@@ -2,9 +2,14 @@
   "id": 840318187,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 Philip St New Orleans LA 70130",
+    "addr:housenumber":"539",
+    "addr:postcode":"70130",
+    "addr:street":"Philip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.073937,29.92463,-90.073937,29.92463",
     "geom:latitude":29.92463,
     "geom:longitude":-90.073937,
@@ -24,7 +29,15 @@
     "sg:postcode":"70130",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866109,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QmVm2Sun6jIVlFObv88Y0_29.924630_-90.073937@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463527370,
     "wof:geomhash":"69fd2ece71d99f5b303e25b010f791d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866109,
+            "region_id":85688735,
+            "venue_id":840318187
+        }
+    ],
     "wof:id":840318187,
-    "wof:lastmodified":1466542895,
+    "wof:lastmodified":1486688589,
     "wof:name":"Irene's Cuisine",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

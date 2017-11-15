@@ -2,14 +2,20 @@
   "id": 840282441,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Madison St Mansfield LA 71052",
+    "addr:housenumber":"106",
+    "addr:postcode":"71052",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.708338,32.038144,-93.708338,32.038144",
     "geom:latitude":32.038144,
     "geom:longitude":-93.708338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Madison St",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084887,
         85813793
     ],
+    "wof:brand_id":420574621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vXhjgVCqGnzeVeFPJ8NnI_32.038144_-93.708338@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525735,
-    "wof:geomhash":"84c264ccc96616172d5d43bdc6ecf706",
+    "wof:geomhash":"e297bc54d27775f837f3fca045f3bda7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840282441,
-    "wof:lastmodified":1466542208,
+    "wof:lastmodified":1510604665,
     "wof:name":"A Cut Above",
     "wof:parent_id":85813793,
     "wof:placetype":"venue",

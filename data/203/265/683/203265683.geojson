@@ -2,9 +2,14 @@
   "id": 203265683,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 Elysian Fields New Orleans LA 70117",
+    "addr:housenumber":"527",
+    "addr:postcode":"70117",
+    "addr:street":"Elysian Fields",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.056043,29.963409,-90.056043,29.963409",
     "geom:latitude":29.963409,
     "geom:longitude":-90.056043,
@@ -25,11 +30,13 @@
     "sg:website":"www.facebook.com/event.php?eid=1...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"fb5b3732b5540532b595bbf53f87a935",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203265683
         }
     ],
     "wof:id":203265683,
-    "wof:lastmodified":1466539344,
+    "wof:lastmodified":1486686844,
     "wof:name":"Elysian Fleas",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",

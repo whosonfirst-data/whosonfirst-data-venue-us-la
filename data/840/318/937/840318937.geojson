@@ -2,9 +2,14 @@
   "id": 840318937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 S Claiborne Ave New Orleans LA 70125",
+    "addr:housenumber":"1600",
+    "addr:postcode":"70125",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.088505,29.945995,-90.088505,29.945995",
     "geom:latitude":29.945995,
     "geom:longitude":-90.088505,
@@ -24,7 +29,15 @@
     "sg:postcode":"70125",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OIfcbfcF81K1MUMbFi2Ec_29.945995_-90.088505@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463527409,
     "wof:geomhash":"a00c7d28f609126c39e8a85cd1c9a915",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840318937
+        }
+    ],
     "wof:id":840318937,
-    "wof:lastmodified":1466543048,
+    "wof:lastmodified":1486688636,
     "wof:name":"Church's Chicken",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

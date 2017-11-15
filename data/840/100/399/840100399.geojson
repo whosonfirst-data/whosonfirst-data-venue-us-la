@@ -2,9 +2,14 @@
   "id": 840100399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 S Gayoso St New Orleans LA 70125",
+    "addr:housenumber":"1601",
+    "addr:postcode":"70125",
+    "addr:street":"S Gayoso St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.102903,29.952489,-90.102903,29.952489",
     "geom:latitude":29.952489,
     "geom:longitude":-90.102903,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866139,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866139
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866139,
             "region_id":85688735,
             "venue_id":840100399
         }
     ],
     "wof:id":840100399,
-    "wof:lastmodified":1466540693,
+    "wof:lastmodified":1486688686,
     "wof:name":"Ed Blancher Air Cond & Heating",
     "wof:parent_id":85866139,
     "wof:placetype":"venue",

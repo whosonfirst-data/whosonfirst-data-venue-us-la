@@ -2,9 +2,14 @@
   "id": 203291077,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Chartres St New Orleans LA 70130",
+    "addr:housenumber":"625",
+    "addr:postcode":"70130",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064176,29.95707,-90.064176,29.95707",
     "geom:latitude":29.95707,
     "geom:longitude":-90.064176,
@@ -36,11 +41,13 @@
     "sg:website":"www.sylvainnola.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +57,18 @@
     "wof:geomhash":"6ffa4c44459b68b2c3b93f11bbba1d0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203291077
         }
     ],
     "wof:id":203291077,
-    "wof:lastmodified":1466539369,
+    "wof:lastmodified":1486688411,
     "wof:name":"Sylvain",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

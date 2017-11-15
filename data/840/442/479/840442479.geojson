@@ -2,14 +2,20 @@
   "id": 840442479,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Jefferson Blvd Lafayette LA 70501",
+    "addr:housenumber":"800",
+    "addr:postcode":"70501",
+    "addr:street":"Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.007809,30.230583,-92.007809,30.230583",
     "geom:latitude":30.230583,
     "geom:longitude":-92.007809,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Jefferson Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125150947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uPE5gsh1GAP80R1qOqe6r_30.230583_-92.007809@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532997,
-    "wof:geomhash":"f71549c6c12009c3c37d0045e1dbfa1a",
+    "wof:geomhash":"0bed73d6369a3611501fad1b4a41f5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840442479,
-    "wof:lastmodified":1466545413,
+    "wof:lastmodified":1510693716,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840448711,
   "type": "Feature",
   "properties": {
+    "addr:full":"839 Nunez St New Orleans LA 70114",
+    "addr:housenumber":"839",
+    "addr:postcode":"70114",
+    "addr:street":"Nunez St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.050903,29.946699,-90.050903,29.946699",
     "geom:latitude":29.946699,
     "geom:longitude":-90.050903,
@@ -30,7 +35,15 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cHneQd3HmPMW6JbW8KLPT_29.946959_-90.051162@1293134755"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463533237,
     "wof:geomhash":"29fae8732970dd5637ede9303a7c8005",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840448711
+        }
+    ],
     "wof:id":840448711,
-    "wof:lastmodified":1466545449,
+    "wof:lastmodified":1486689089,
     "wof:name":"Stafford's Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

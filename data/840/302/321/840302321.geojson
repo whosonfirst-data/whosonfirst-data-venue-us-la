@@ -2,9 +2,14 @@
   "id": 840302321,
   "type": "Feature",
   "properties": {
+    "addr:full":"9930 Lake Forest Blvd New Orleans LA 70127",
+    "addr:housenumber":"9930",
+    "addr:postcode":"70127",
+    "addr:street":"Lake Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.976073,30.03094,-89.976073,30.03094",
     "geom:latitude":30.03094,
     "geom:longitude":-89.976073,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85891213
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891213,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":840302321
         }
     ],
     "wof:id":840302321,
-    "wof:lastmodified":1466542743,
+    "wof:lastmodified":1486688239,
     "wof:name":"Sports Bar Daiquiri & Grill",
-    "wof:parent_id":85891213,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

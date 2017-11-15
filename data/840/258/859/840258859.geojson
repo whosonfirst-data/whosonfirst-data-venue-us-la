@@ -2,9 +2,14 @@
   "id": 840258859,
   "type": "Feature",
   "properties": {
+    "addr:full":"7188 Florita Ct New Orleans LA 70126",
+    "addr:housenumber":"7188",
+    "addr:postcode":"70126",
+    "addr:street":"Florita Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.024895,30.02492,-90.024895,30.02492",
     "geom:latitude":30.02492,
     "geom:longitude":-90.024895,
@@ -28,7 +33,15 @@
         "studio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MVugcx5nviWfAE5meKe7q_30.024920_-90.024895@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463524790,
     "wof:geomhash":"55bd1b93a33544631fc6d50440eaa5e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840258859
+        }
+    ],
     "wof:id":840258859,
-    "wof:lastmodified":1466541921,
+    "wof:lastmodified":1486687786,
     "wof:name":"Artistic Recording Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

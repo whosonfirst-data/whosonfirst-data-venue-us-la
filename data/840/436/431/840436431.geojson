@@ -2,9 +2,14 @@
   "id": 840436431,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 N Gayoso St New Orleans LA 70119",
+    "addr:housenumber":"1212",
+    "addr:postcode":"70119",
+    "addr:street":"N Gayoso St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.082705,29.977978,-90.082705,29.977978",
     "geom:latitude":29.977978,
     "geom:longitude":-90.082705,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866065
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
             "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":840436431
         }
     ],
     "wof:id":840436431,
-    "wof:lastmodified":1466545078,
+    "wof:lastmodified":1486689211,
     "wof:name":"Fun",
-    "wof:parent_id":85866065,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

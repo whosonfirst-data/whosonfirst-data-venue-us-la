@@ -2,14 +2,20 @@
   "id": 840093749,
   "type": "Feature",
   "properties": {
+    "addr:full":"3103 North Blvd Baton Rouge LA 70806",
+    "addr:housenumber":"3103",
+    "addr:postcode":"70806",
+    "addr:street":"North Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.155909,30.448254,-91.155909,30.448254",
     "geom:latitude":30.448254,
     "geom:longitude":-91.155909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3103 North Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85876073
     ],
+    "wof:brand_id":1125155305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kcG0rBCGQ4Y9rWxcE85YO_30.448254_-91.155909@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521092,
-    "wof:geomhash":"10d231f4d18799e0d574733a8a101a74",
+    "wof:geomhash":"cd42deda587823a26a0b15b4c5105e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840093749,
-    "wof:lastmodified":1466540641,
+    "wof:lastmodified":1510699916,
     "wof:name":"Schindler Elevator Corp",
     "wof:parent_id":85876073,
     "wof:placetype":"venue",

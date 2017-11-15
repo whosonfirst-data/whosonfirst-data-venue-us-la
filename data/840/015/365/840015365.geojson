@@ -2,14 +2,20 @@
   "id": 840015365,
   "type": "Feature",
   "properties": {
+    "addr:full":"8728 Kiowa Dr Baton Rouge LA 70815",
+    "addr:housenumber":"8728",
+    "addr:postcode":"70815",
+    "addr:street":"Kiowa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.095349,30.469683,-91.095349,30.469683",
     "geom:latitude":30.469683,
     "geom:longitude":-91.095349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8728 Kiowa Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85822275
     ],
+    "wof:brand_id":1125159767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M151a8CeXN715LDg71kIe_30.469683_-91.095349@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519319,
-    "wof:geomhash":"e952d837367b84d31fb0f09368d967b9",
+    "wof:geomhash":"b0eadf822cf3c711847a5fe9fea2a4a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840015365,
-    "wof:lastmodified":1466539699,
+    "wof:lastmodified":1510697203,
     "wof:name":"AAA Cooper Transportation",
     "wof:parent_id":85822275,
     "wof:placetype":"venue",

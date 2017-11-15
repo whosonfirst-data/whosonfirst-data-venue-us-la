@@ -2,14 +2,20 @@
   "id": 840404865,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"315",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.121958,32.507835,-92.121958,32.507835",
     "geom:latitude":32.507835,
     "geom:longitude":-92.121958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125155683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZSmYLLWldbSR6lmTAcOZP_32.507835_-92.121958@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531419,
-    "wof:geomhash":"b84e15e1a1b6afb3c381bbce3ef62102",
+    "wof:geomhash":"7565ff06328e84f2abc72886d5fa39bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840404865,
-    "wof:lastmodified":1466544625,
+    "wof:lastmodified":1510699660,
     "wof:name":"Sunbelt Credit",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

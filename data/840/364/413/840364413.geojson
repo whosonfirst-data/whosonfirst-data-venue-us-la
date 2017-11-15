@@ -2,9 +2,14 @@
   "id": 840364413,
   "type": "Feature",
   "properties": {
+    "addr:full":"10090 Almonaster Ave New Orleans LA 70126",
+    "addr:housenumber":"10090",
+    "addr:postcode":"70126",
+    "addr:street":"Almonaster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.967165,30.010087,-89.967165,30.010087",
     "geom:latitude":30.010087,
     "geom:longitude":-89.967165,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.containercare.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XaCFMKJy2IpOLbZxyz9tI_30.010087_-89.967165@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463529606,
     "wof:geomhash":"173cf2d1fd17f623b5ae4e9511a08fe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840364413
+        }
+    ],
     "wof:id":840364413,
-    "wof:lastmodified":1466543696,
+    "wof:lastmodified":1486688855,
     "wof:name":"Container-Care New Orleans",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

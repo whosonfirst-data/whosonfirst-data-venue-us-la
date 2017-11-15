@@ -2,14 +2,20 @@
   "id": 840242449,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Whisperwood Blvd Slidell LA 70458",
+    "addr:housenumber":"80",
+    "addr:postcode":"70458",
+    "addr:street":"Whisperwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.755822,30.310827,-89.755822,30.310827",
     "geom:latitude":30.310827,
     "geom:longitude":-89.755822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"80 Whisperwood Blvd",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102082453,
         85836599
     ],
+    "wof:brand_id":420574687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CLMMBUZMW854u9lTeBQxy_30.310827_-89.755822@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524413,
-    "wof:geomhash":"2b50476f7e0aad75c3a0a6154364da94",
+    "wof:geomhash":"1ec5f32c094884fb935221007067aa1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840242449,
-    "wof:lastmodified":1466541818,
+    "wof:lastmodified":1510604336,
     "wof:name":"Prudential Insurance Co",
     "wof:parent_id":85836599,
     "wof:placetype":"venue",

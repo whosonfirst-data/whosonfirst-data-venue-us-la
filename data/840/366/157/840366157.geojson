@@ -2,14 +2,20 @@
   "id": 840366157,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Westmark Blvd Lafayette LA 70506",
+    "addr:housenumber":"102",
+    "addr:postcode":"70506",
+    "addr:street":"Westmark Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.070152,30.182515,-92.070152,30.182515",
     "geom:latitude":30.182515,
     "geom:longitude":-92.070152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Westmark Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YiHKbjMJbL4OzcSLQhyeq_30.182515_-92.070152@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529687,
-    "wof:geomhash":"39e47623a47d14f6b7d9002bb5af11e2",
+    "wof:geomhash":"7340621924ea6ea6d24d401ec5941510",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840366157,
-    "wof:lastmodified":1466543644,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

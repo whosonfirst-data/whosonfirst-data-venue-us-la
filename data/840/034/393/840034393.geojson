@@ -2,14 +2,20 @@
   "id": 840034393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1131 Evergreen St West Monroe LA 71292",
+    "addr:housenumber":"1131",
+    "addr:postcode":"71292",
+    "addr:street":"Evergreen St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.167455,32.471549,-92.167455,32.471549",
     "geom:latitude":32.471549,
     "geom:longitude":-92.167455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1131 Evergreen St",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125156999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zIB1UU9iaS7rIDcuwTTln_32.471549_-92.167455@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519721,
-    "wof:geomhash":"7a0bdc1ddb2f19a8d46de8539ea605cc",
+    "wof:geomhash":"42fa334182e632feb950f21daf522718",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840034393,
-    "wof:lastmodified":1466539936,
+    "wof:lastmodified":1510697506,
     "wof:name":"Landmark Baptist Church",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

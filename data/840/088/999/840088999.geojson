@@ -2,14 +2,20 @@
   "id": 840088999,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 W Woodlawn Ranch Rd Houma LA 70363",
+    "addr:housenumber":"104",
+    "addr:postcode":"70363",
+    "addr:street":"W Woodlawn Ranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.680228,29.554356,-90.680228,29.554356",
     "geom:latitude":29.554356,
     "geom:longitude":-90.680228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 W Woodlawn Ranch Rd",
     "sg:city":"Houma",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081923,
         85803459
     ],
+    "wof:brand_id":1125157057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PPICHbBRh9NIFJTYN73dp_29.554356_-90.680228@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521003,
-    "wof:geomhash":"fd1ed98a4403532ef0d1b17e70593f6c",
+    "wof:geomhash":"a058c38e23ea7d36170a540789ed720e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840088999,
-    "wof:lastmodified":1466540653,
+    "wof:lastmodified":1510613520,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",

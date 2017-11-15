@@ -2,14 +2,20 @@
   "id": 840314867,
   "type": "Feature",
   "properties": {
+    "addr:full":"4324 E Judge Perez Dr Meraux LA 70075",
+    "addr:housenumber":"4324",
+    "addr:postcode":"70075",
+    "addr:street":"E Judge Perez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.912885,29.927924,-89.912885,29.927924",
     "geom:latitude":29.927924,
     "geom:longitude":-89.912885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4324 E Judge Perez Dr",
     "sg:city":"Meraux",
     "sg:classifiers":[
@@ -32,20 +38,23 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
         85850917
     ],
+    "wof:brand_id":420575575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UXo2WOu9dYxT4kSakgDRH_29.927924_-89.912885@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527213,
-    "wof:geomhash":"ce3bb6ae319f513b118a77970540743d",
+    "wof:geomhash":"ae9af85067eef8cb79930c1f34d807ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":840314867,
-    "wof:lastmodified":1466542956,
+    "wof:lastmodified":1510601945,
     "wof:name":"Leslie's Swimming Pool Supply",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

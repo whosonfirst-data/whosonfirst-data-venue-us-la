@@ -2,9 +2,14 @@
   "id": 840054709,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Perdido St New Orleans LA 70112",
+    "addr:housenumber":"1300",
+    "addr:postcode":"70112",
+    "addr:street":"Perdido St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077364,29.952693,-90.077364,29.952693",
     "geom:latitude":29.952693,
     "geom:longitude":-90.077364,
@@ -29,12 +34,13 @@
     "sg:website":"www.new-orleans.la.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840054709
         }
     ],
     "wof:id":840054709,
-    "wof:lastmodified":1466540229,
+    "wof:lastmodified":1486688502,
     "wof:name":"New Orleans Civil Svc Dept",
     "wof:parent_id":85866107,
     "wof:placetype":"venue",

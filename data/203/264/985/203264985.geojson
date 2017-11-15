@@ -2,9 +2,14 @@
   "id": 203264985,
   "type": "Feature",
   "properties": {
+    "addr:full":"3056 Laussat Pl New Orleans LA 70117",
+    "addr:housenumber":"3056",
+    "addr:postcode":"70117",
+    "addr:street":"Laussat Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.039904,29.983748,-90.039904,29.983748",
     "geom:latitude":29.983748,
     "geom:longitude":-90.039904,
@@ -26,11 +31,13 @@
     "sg:website":"www.miraclefaithhealinganddelive...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746815,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866091
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +47,20 @@
     "wof:geomhash":"3ef1a60b9883474dae81ca7194e5fad4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866091,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746815,
             "region_id":85688735,
             "venue_id":203264985
         }
     ],
     "wof:id":203264985,
-    "wof:lastmodified":1466539342,
+    "wof:lastmodified":1486689037,
     "wof:name":"Miracle Faith Healing and Deliverance Temple",
-    "wof:parent_id":85866091,
+    "wof:parent_id":1108746815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

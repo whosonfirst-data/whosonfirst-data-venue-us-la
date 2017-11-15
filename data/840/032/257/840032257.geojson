@@ -2,14 +2,20 @@
   "id": 840032257,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Johnston St Lafayette LA 70501",
+    "addr:housenumber":"105",
+    "addr:postcode":"70501",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.014408,30.224335,-92.014408,30.224335",
     "geom:latitude":30.224335,
     "geom:longitude":-92.014408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GomQpu32fZe1f7nNe4egN_30.224335_-92.014408@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519677,
-    "wof:geomhash":"02962a613c05528cca6cbc4ebf4ab0de",
+    "wof:geomhash":"20e189f1838c1d09c25e0ae814374d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840032257,
-    "wof:lastmodified":1466539873,
+    "wof:lastmodified":1510601965,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

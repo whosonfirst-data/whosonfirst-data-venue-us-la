@@ -2,14 +2,20 @@
   "id": 840297169,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 Millerville Rd Baton Rouge LA 70816",
+    "addr:housenumber":"1050",
+    "addr:postcode":"70816",
+    "addr:street":"Millerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.024584,30.449153,-91.024584,30.449153",
     "geom:latitude":30.449153,
     "geom:longitude":-91.024584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1050 Millerville Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848349,
         102087229
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cwPxGA7RtQUwYxHSWNJtd_30.449153_-91.024584@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526369,
-    "wof:geomhash":"2a03d968668c459a996b28c175d9de96",
+    "wof:geomhash":"98f977a1cd565590fb76b0b5029d101f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840297169,
-    "wof:lastmodified":1466542492,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85848349,
     "wof:placetype":"venue",

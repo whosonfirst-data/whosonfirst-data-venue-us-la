@@ -2,14 +2,20 @@
   "id": 840426209,
   "type": "Feature",
   "properties": {
+    "addr:full":"3222 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"3222",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.113825,29.962301,-90.113825,29.962301",
     "geom:latitude":29.962301,
     "geom:longitude":-90.113825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3222 S Carrollton Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -25,33 +31,36 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866077,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866077
+        85688735
     ],
+    "wof:brand_id":1125156463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h3Fa9EGBkA7GrdiZaoPaF_29.962301_-90.113825@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532283,
-    "wof:geomhash":"b5d112923d0edf58c6f2f1aec3ab4d10",
+    "wof:geomhash":"06a4f4456ef2867d57e1b1315ba061b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866077,
             "region_id":85688735,
             "venue_id":840426209
         }
     ],
     "wof:id":840426209,
-    "wof:lastmodified":1466544883,
+    "wof:lastmodified":1510699332,
     "wof:name":"Rally's Hamburgers Inc",
     "wof:parent_id":85866077,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203267449,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 Florida Ave New Orleans LA 70117",
+    "addr:housenumber":"3800",
+    "addr:postcode":"70117",
+    "addr:street":"Florida Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.032402,29.9828,-90.032402,29.9828",
     "geom:latitude":29.9828,
     "geom:longitude":-90.032402,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866085,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866085
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"836f036f045102ac71bc18946dddc889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866085,
             "region_id":85688735,
             "venue_id":203267449
         }
     ],
     "wof:id":203267449,
-    "wof:lastmodified":1466539344,
+    "wof:lastmodified":1486686859,
     "wof:name":"Zezulka Kenneth H Atty",
     "wof:parent_id":85866085,
     "wof:placetype":"venue",

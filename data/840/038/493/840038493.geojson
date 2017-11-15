@@ -2,14 +2,20 @@
   "id": 840038493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3438 Drusilla Ln Baton Rouge LA 70809",
+    "addr:housenumber":"3438",
+    "addr:postcode":"70809",
+    "addr:street":"Drusilla Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.088823,30.419242,-91.088823,30.419242",
     "geom:latitude":30.419242,
     "geom:longitude":-91.088823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3438 Drusilla Ln",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85809547
     ],
+    "wof:brand_id":420575223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tyrbjX00ry1UawCEcJIL4_30.419242_-91.088823@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519805,
-    "wof:geomhash":"7e65964c0444270121abdc932fb6461b",
+    "wof:geomhash":"6aed675077699d76bd801511c711e9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840038493,
-    "wof:lastmodified":1466540002,
+    "wof:lastmodified":1510602904,
     "wof:name":"China Wok",
     "wof:parent_id":85809547,
     "wof:placetype":"venue",

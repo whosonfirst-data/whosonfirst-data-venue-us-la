@@ -2,9 +2,14 @@
   "id": 840161861,
   "type": "Feature",
   "properties": {
+    "addr:full":"3632 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"3632",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.091637,29.922091,-90.091637,29.922091",
     "geom:latitude":29.922091,
     "geom:longitude":-90.091637,
@@ -28,7 +33,15 @@
         "boutique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MODm1KCRl51LjXkuiQ5tW_29.922091_-90.091637@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522481,
     "wof:geomhash":"1dd6c966d730506dc25e55e134b15e3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840161861
+        }
+    ],
     "wof:id":840161861,
-    "wof:lastmodified":1466541214,
+    "wof:lastmodified":1486689028,
     "wof:name":"Beauvoir A Woman's Btq LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

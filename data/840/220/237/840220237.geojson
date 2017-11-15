@@ -2,14 +2,20 @@
   "id": 840220237,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Edwards Ave New Orleans LA 70123",
+    "addr:housenumber":"300",
+    "addr:postcode":"70123",
+    "addr:street":"Edwards Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.188232,29.947319,-90.188232,29.947319",
     "geom:latitude":29.947319,
     "geom:longitude":-90.188232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Edwards Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125159437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VgUmPGLNMLQJ3mf98MaB3_29.947319_-90.188232@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523839,
-    "wof:geomhash":"0fe6db9ac13f9dc57d9cc740f1726242",
+    "wof:geomhash":"5c994dbb1ecc17b5027ad9ccd24bade8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840220237,
-    "wof:lastmodified":1466541629,
+    "wof:lastmodified":1510697978,
     "wof:name":"Wingfoot Commercial Tire Systs",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

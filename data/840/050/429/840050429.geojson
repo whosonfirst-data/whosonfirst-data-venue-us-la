@@ -2,9 +2,14 @@
   "id": 840050429,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Joseph St New Orleans LA 70115",
+    "addr:housenumber":"502",
+    "addr:postcode":"70115",
+    "addr:street":"Joseph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117643,29.91936,-90.117643,29.91936",
     "geom:latitude":29.91936,
     "geom:longitude":-90.117643,
@@ -28,7 +33,15 @@
         "investment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AMDt5YkvvMr1XKWhl1WFd_29.919360_-90.117643@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520057,
     "wof:geomhash":"096e1dc4dbf5237d95bb9df6266f7718",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840050429
+        }
+    ],
     "wof:id":840050429,
-    "wof:lastmodified":1466540110,
+    "wof:lastmodified":1486689117,
     "wof:name":"Ironman Energy Capital LP",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

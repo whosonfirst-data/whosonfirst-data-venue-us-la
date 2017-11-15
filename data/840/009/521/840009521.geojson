@@ -2,9 +2,14 @@
   "id": 840009521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1340 Calhoun St New Orleans LA 70118",
+    "addr:housenumber":"1340",
+    "addr:postcode":"70118",
+    "addr:street":"Calhoun St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.123095,29.928455,-90.123095,29.928455",
     "geom:latitude":29.928455,
     "geom:longitude":-90.123095,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866131,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866131
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866131,
             "region_id":85688735,
             "venue_id":840009521
         }
     ],
     "wof:id":840009521,
-    "wof:lastmodified":1466539587,
+    "wof:lastmodified":1486686655,
     "wof:name":"William H Mc Arthur Jr Inc",
     "wof:parent_id":85866131,
     "wof:placetype":"venue",

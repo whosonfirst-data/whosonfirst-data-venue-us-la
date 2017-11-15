@@ -2,14 +2,20 @@
   "id": 840213203,
   "type": "Feature",
   "properties": {
+    "addr:full":"1511 Sampson St Westlake LA 70669",
+    "addr:housenumber":"1511",
+    "addr:postcode":"70669",
+    "addr:street":"Sampson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.258149,30.251897,-93.258149,30.251897",
     "geom:latitude":30.251897,
     "geom:longitude":-93.258149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1511 Sampson St",
     "sg:city":"Westlake",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Q91w0asyywPeJm9YVomzf_30.251897_-93.258149@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523691,
-    "wof:geomhash":"62a29874b586a2e0ab169a81100ba988",
+    "wof:geomhash":"e14268f0bf489e1374b93e50a9b04684",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840213203,
-    "wof:lastmodified":1466541559,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

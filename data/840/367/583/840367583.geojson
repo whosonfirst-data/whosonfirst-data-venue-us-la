@@ -2,9 +2,14 @@
   "id": 840367583,
   "type": "Feature",
   "properties": {
+    "addr:full":"3566 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"3566",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.111545,29.964469,-90.111545,29.964469",
     "geom:latitude":29.964469,
     "geom:longitude":-90.111545,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866077,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866077
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866077,
             "region_id":85688735,
             "venue_id":840367583
         }
     ],
     "wof:id":840367583,
-    "wof:lastmodified":1466543732,
+    "wof:lastmodified":1486688304,
     "wof:name":"Wig World",
     "wof:parent_id":85866077,
     "wof:placetype":"venue",

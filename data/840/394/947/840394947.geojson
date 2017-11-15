@@ -2,14 +2,20 @@
   "id": 840394947,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 N Beglis Pkwy Sulphur LA 70663",
+    "addr:housenumber":"211",
+    "addr:postcode":"70663",
+    "addr:street":"N Beglis Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359466,30.23778,-93.359466,30.23778",
     "geom:latitude":30.23778,
     "geom:longitude":-93.359466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 N Beglis Pkwy",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125156577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FhfSzsO5Uyz1JvvsF7x4Q_30.237780_-93.359466@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531014,
-    "wof:geomhash":"97e4dd32c73cf3b42908638d3d2f460e",
+    "wof:geomhash":"7a1da2a4714e59a0f42d3928299e216b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840394947,
-    "wof:lastmodified":1466544216,
+    "wof:lastmodified":1510696822,
     "wof:name":"Hagemeyer",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840404755,
   "type": "Feature",
   "properties": {
+    "addr:full":"5417 Jackson St Exd Alexandria LA 71303",
+    "addr:housenumber":"5417",
+    "addr:postcode":"71303",
+    "addr:street":"Jackson St Exd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.485303,31.270318,-92.485303,31.270318",
     "geom:latitude":31.270318,
     "geom:longitude":-92.485303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5417 Jackson St Exd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":420574967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bJzork6UdhwCuahEPJg8a_31.270318_-92.485303@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531414,
-    "wof:geomhash":"aa5b1865f4e68f3050eac6bc2427f585",
+    "wof:geomhash":"068ec0f868615c4e2c278be96846fcf4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840404755,
-    "wof:lastmodified":1466544524,
+    "wof:lastmodified":1510688566,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

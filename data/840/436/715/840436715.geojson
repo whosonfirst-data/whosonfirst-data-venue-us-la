@@ -2,9 +2,14 @@
   "id": 840436715,
   "type": "Feature",
   "properties": {
+    "addr:full":"6220 la Salle Pl New Orleans LA 70118",
+    "addr:housenumber":"6220",
+    "addr:postcode":"70118",
+    "addr:street":"La Salle Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.944068,30.070667,-89.944068,30.070667",
     "geom:latitude":30.070667,
     "geom:longitude":-89.944068,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.hnjchurch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lNdzJ57RpAIUW3UQWcpdW_30.070667_-89.944068@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463532759,
     "wof:geomhash":"9fe80f6111b02173dd710975928dc5ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840436715
+        }
+    ],
     "wof:id":840436715,
-    "wof:lastmodified":1466545136,
+    "wof:lastmodified":1486688724,
     "wof:name":"Holy Name Of Jesus Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

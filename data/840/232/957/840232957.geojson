@@ -2,9 +2,14 @@
   "id": 840232957,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 Pelican Ave New Orleans LA 70114",
+    "addr:housenumber":"335",
+    "addr:postcode":"70114",
+    "addr:street":"Pelican Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.052564,29.952215,-90.052564,29.952215",
     "geom:latitude":29.952215,
     "geom:longitude":-90.052564,
@@ -31,12 +36,13 @@
     "sg:website":"www.houseoftherisingsunbnb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866153,
         102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866153
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739497,
             "neighbourhood_id":85866153,
             "region_id":85688735,
             "venue_id":840232957
         }
     ],
     "wof:id":840232957,
-    "wof:lastmodified":1466541776,
+    "wof:lastmodified":1486687936,
     "wof:name":"House Of The Rising Sun B & B",
     "wof:parent_id":85866153,
     "wof:placetype":"venue",

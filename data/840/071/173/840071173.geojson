@@ -2,9 +2,14 @@
   "id": 840071173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 Nashville Ave New Orleans LA 70115",
+    "addr:housenumber":"1036",
+    "addr:postcode":"70115",
+    "addr:street":"Nashville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.118346,29.924001,-90.118346,29.924001",
     "geom:latitude":29.924001,
     "geom:longitude":-90.118346,
@@ -28,7 +33,15 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kzKUUOylqnYYO6WJ5K1w0_29.924001_-90.118346@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520500,
     "wof:geomhash":"5de22af35271a51e9d5ed89da7ea73d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840071173
+        }
+    ],
     "wof:id":840071173,
-    "wof:lastmodified":1466540338,
+    "wof:lastmodified":1486688656,
     "wof:name":"Bonner Jim Advertising Art",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

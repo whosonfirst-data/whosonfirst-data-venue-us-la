@@ -2,9 +2,14 @@
   "id": 840127837,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 Webster St Meraux LA 70075",
+    "addr:housenumber":"2009",
+    "addr:postcode":"70075",
+    "addr:street":"Webster St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.924941,29.92786,-89.924941,29.92786",
     "geom:latitude":29.92786,
     "geom:longitude":-89.924941,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -46,6 +52,7 @@
     "wof:geomhash":"07226951bbe914997a53416837b66de8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840127837,
-    "wof:lastmodified":1466540973,
+    "wof:lastmodified":1491910629,
     "wof:name":"Rusk Air Conditioning & Htg",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

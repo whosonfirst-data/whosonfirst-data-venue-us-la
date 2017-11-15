@@ -2,9 +2,14 @@
   "id": 840162595,
   "type": "Feature",
   "properties": {
+    "addr:full":"8618 Forshey St New Orleans LA 70118",
+    "addr:housenumber":"8618",
+    "addr:postcode":"70118",
+    "addr:street":"Forshey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.118587,29.966322,-90.118587,29.966322",
     "geom:latitude":29.966322,
     "geom:longitude":-90.118587,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746817,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N91753ZswQarsDjc3Ny5Q_29.966322_-90.118587@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522494,
     "wof:geomhash":"891e3e75ea061db56cf81939a836edd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
+            "region_id":85688735,
+            "venue_id":840162595
+        }
+    ],
     "wof:id":840162595,
-    "wof:lastmodified":1466541181,
+    "wof:lastmodified":1486689041,
     "wof:name":"Tommie Hodge Truck Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

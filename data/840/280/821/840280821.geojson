@@ -2,9 +2,14 @@
   "id": 840280821,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 France Rd New Orleans LA 70126",
+    "addr:housenumber":"2700",
+    "addr:postcode":"70126",
+    "addr:street":"France Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.027776,29.983224,-90.027776,29.983224",
     "geom:latitude":29.983224,
     "geom:longitude":-90.027776,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866087,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H2VgZ0tE3CBS61V8kLggE_29.983224_-90.027776@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463525659,
     "wof:geomhash":"afd42e2896718cf45659cb7d62bec206",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
+            "region_id":85688735,
+            "venue_id":840280821
+        }
+    ],
     "wof:id":840280821,
-    "wof:lastmodified":1466542345,
+    "wof:lastmodified":1486688348,
     "wof:name":"Us Maritime Operations",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

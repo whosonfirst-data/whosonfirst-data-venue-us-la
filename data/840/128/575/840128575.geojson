@@ -2,14 +2,20 @@
   "id": 840128575,
   "type": "Feature",
   "properties": {
+    "addr:full":"537 Apollo Rd Scott LA 70583",
+    "addr:housenumber":"537",
+    "addr:postcode":"70583",
+    "addr:street":"Apollo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.107508,30.243081,-92.107508,30.243081",
     "geom:latitude":30.243081,
     "geom:longitude":-92.107508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"537 Apollo Rd",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125155507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23SL0TKRDQmq7K9qk6br81_30.243081_-92.107508@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521822,
-    "wof:geomhash":"252a5f11e05713114730343c2a6f3cf1",
+    "wof:geomhash":"966cc634453151e7b7a65d48f18e815c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840128575,
-    "wof:lastmodified":1466540953,
+    "wof:lastmodified":1510696756,
     "wof:name":"KOA Kampgrounds",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

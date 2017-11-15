@@ -2,14 +2,20 @@
   "id": 840395035,
   "type": "Feature",
   "properties": {
+    "addr:full":"8009 Jefferson Hwy Baton Rouge LA 70809",
+    "addr:housenumber":"8009",
+    "addr:postcode":"70809",
+    "addr:street":"Jefferson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.104368,30.424343,-91.104368,30.424343",
     "geom:latitude":30.424343,
     "geom:longitude":-91.104368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8009 Jefferson Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85840241
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37T2r1T3kwnFODzVCPpktt_30.424343_-91.104368@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531017,
-    "wof:geomhash":"9a035e4f57922b0222745b298ba650cd",
+    "wof:geomhash":"f85d1b25323d814469f0a18626906c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840395035,
-    "wof:lastmodified":1466544370,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85840241,
     "wof:placetype":"venue",

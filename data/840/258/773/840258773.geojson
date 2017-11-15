@@ -2,14 +2,20 @@
   "id": 840258773,
   "type": "Feature",
   "properties": {
+    "addr:full":"3835 US Hwy 90 Broussard LA 70518",
+    "addr:housenumber":"3835",
+    "addr:postcode":"70518",
+    "addr:street":"Us Hwy 90",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.962119,30.154276,-91.962119,30.154276",
     "geom:latitude":30.154276,
     "geom:longitude":-91.962119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3835 US Hwy 90",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85806101
     ],
+    "wof:brand_id":1125157057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j7Q15m5wbdmjgnhXiG9FD_30.154276_-91.962119@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524788,
-    "wof:geomhash":"18c9c87bea679b2291b7534207b08776",
+    "wof:geomhash":"c43d3fd11d82c9a1d5391a4b05727012",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840258773,
-    "wof:lastmodified":1466541919,
+    "wof:lastmodified":1510613520,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",

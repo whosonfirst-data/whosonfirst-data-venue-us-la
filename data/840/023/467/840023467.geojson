@@ -2,9 +2,14 @@
   "id": 840023467,
   "type": "Feature",
   "properties": {
+    "addr:full":"5020 Good Dr New Orleans LA 70127",
+    "addr:housenumber":"5020",
+    "addr:postcode":"70127",
+    "addr:street":"Good Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.962361,30.026407,-89.962361,30.026407",
     "geom:latitude":30.026407,
     "geom:longitude":-89.962361,
@@ -30,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qjp8cjbF9gY6LIy4xRIGd_30.026407_-89.962361@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463519475,
     "wof:geomhash":"a681caa9fff4970c31ede3afad4b5bbf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840023467
+        }
+    ],
     "wof:id":840023467,
-    "wof:lastmodified":1466539822,
+    "wof:lastmodified":1486688741,
     "wof:name":"Arcane Base One Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

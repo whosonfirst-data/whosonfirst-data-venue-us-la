@@ -2,9 +2,14 @@
   "id": 840225929,
   "type": "Feature",
   "properties": {
+    "addr:full":"2818 Blomquist Dr Meraux LA 70075",
+    "addr:housenumber":"",
+    "addr:postcode":"2818;70075",
+    "addr:street":"Blomquist Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.921591,29.938285,-89.921591,29.938285",
     "geom:latitude":29.938285,
     "geom:longitude":-89.921591,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -40,6 +46,7 @@
     "wof:geomhash":"48fb6d36cd4696a64b57186f66181df8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840225929,
-    "wof:lastmodified":1466541680,
+    "wof:lastmodified":1491910639,
     "wof:name":"Cypress Garden Gym",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

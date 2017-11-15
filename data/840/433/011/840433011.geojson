@@ -2,14 +2,20 @@
   "id": 840433011,
   "type": "Feature",
   "properties": {
+    "addr:full":"2952 Johnston St Lafayette LA 70503",
+    "addr:housenumber":"2952",
+    "addr:postcode":"70503",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.044077,30.204618,-92.044077,30.204618",
     "geom:latitude":30.204618,
     "geom:longitude":-92.044077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2952 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125150153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qfZIF6J3Kmkut57F68dkO_30.204618_-92.044077@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532602,
-    "wof:geomhash":"a493e57254286ec916036061c91660f3",
+    "wof:geomhash":"1388a8dd8e33f520fe712900490f4752",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840433011,
-    "wof:lastmodified":1466544991,
+    "wof:lastmodified":1510604955,
     "wof:name":"First Franklin Financial Corp",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

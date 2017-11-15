@@ -2,9 +2,14 @@
   "id": 203261675,
   "type": "Feature",
   "properties": {
+    "addr:full":"534 Frenchmen St New Orleans LA 70116",
+    "addr:housenumber":"534",
+    "addr:postcode":"70116",
+    "addr:street":"Frenchmen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057602,29.963301,-90.057602,29.963301",
     "geom:latitude":29.963301,
     "geom:longitude":-90.057602,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"cd8d6dcb2859f4a827cc6b55f8073557",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203261675
         }
     ],
     "wof:id":203261675,
-    "wof:lastmodified":1466539335,
+    "wof:lastmodified":1486688387,
     "wof:name":"Blue Nile",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",

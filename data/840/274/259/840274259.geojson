@@ -2,14 +2,20 @@
   "id": 840274259,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Johnston St Lafayette LA 70503",
+    "addr:housenumber":"3200",
+    "addr:postcode":"70503",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.050182,30.203044,-92.050182,30.203044",
     "geom:latitude":30.203044,
     "geom:longitude":-92.050182,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DzbSLTuOTCzbXdvKMLFNF_30.203044_-92.050182@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525360,
-    "wof:geomhash":"3b0fd8c539fb1eacee1c46c8f0b7308e",
+    "wof:geomhash":"0795747debee4b16c0326d55726cf097",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840274259,
-    "wof:lastmodified":1466542171,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

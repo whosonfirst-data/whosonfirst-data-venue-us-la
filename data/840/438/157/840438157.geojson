@@ -2,9 +2,14 @@
   "id": 840438157,
   "type": "Feature",
   "properties": {
+    "addr:full":"6610 Fleur de Lis Dr New Orleans LA 70124",
+    "addr:housenumber":"6610",
+    "addr:postcode":"70124",
+    "addr:street":"Fleur De Lis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11836,30.012068,-90.11836,30.012068",
     "geom:latitude":30.012068,
     "geom:longitude":-90.11836,
@@ -27,7 +32,15 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DzQqCwDD5IMtZjqAVNehD_30.012068_-90.118360@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463532813,
     "wof:geomhash":"c6001165416f55c737676a4ddd88c2a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840438157
+        }
+    ],
     "wof:id":840438157,
-    "wof:lastmodified":1466545022,
+    "wof:lastmodified":1486689068,
     "wof:name":"Rabee's Discount Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

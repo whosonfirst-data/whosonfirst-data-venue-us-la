@@ -2,14 +2,20 @@
   "id": 840261833,
   "type": "Feature",
   "properties": {
+    "addr:full":"13441 Tiger Bend Rd Baton Rouge LA 70817",
+    "addr:housenumber":"13441",
+    "addr:postcode":"70817",
+    "addr:street":"Tiger Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.035013,30.392351,-91.035013,30.392351",
     "geom:latitude":30.392351,
     "geom:longitude":-91.035013,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13441 Tiger Bend Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85840737
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VggKSleDcm3wIeWsphtJN_30.392351_-91.035013@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524852,
-    "wof:geomhash":"00d81c35a5fa145013951e42d9415ab1",
+    "wof:geomhash":"6888657bb4326257fee15e593bb30670",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840261833,
-    "wof:lastmodified":1466541989,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85840737,
     "wof:placetype":"venue",

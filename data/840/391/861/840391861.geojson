@@ -2,9 +2,14 @@
   "id": 840391861,
   "type": "Feature",
   "properties": {
+    "addr:full":"3711 General Degaulle Dr New Orleans LA 70114",
+    "addr:housenumber":"3711",
+    "addr:postcode":"70114",
+    "addr:street":"General Degaulle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021348,29.924649,-90.021348,29.924649",
     "geom:latitude":29.924649,
     "geom:longitude":-90.021348,
@@ -27,7 +32,15 @@
         "uniform"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68e3eiHNM5DtW12ke6ZVVW_29.924649_-90.021348@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463530874,
     "wof:geomhash":"4d62fd33966717b625a9dfb3e0213516",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840391861
+        }
+    ],
     "wof:id":840391861,
-    "wof:lastmodified":1466544361,
+    "wof:lastmodified":1486689092,
     "wof:name":"Soul Train Uniforms",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

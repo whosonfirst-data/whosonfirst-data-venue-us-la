@@ -2,9 +2,14 @@
   "id": 840449683,
   "type": "Feature",
   "properties": {
+    "addr:full":"347 Verret St New Orleans LA 70114",
+    "addr:housenumber":"347",
+    "addr:postcode":"70114",
+    "addr:street":"Verret St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051232,29.952623,-90.051232,29.952623",
     "geom:latitude":29.952623,
     "geom:longitude":-90.051232,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866153,
         102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866153
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739497,
             "neighbourhood_id":85866153,
             "region_id":85688735,
             "venue_id":840449683
         }
     ],
     "wof:id":840449683,
-    "wof:lastmodified":1466545351,
+    "wof:lastmodified":1486687913,
     "wof:name":"Tout De Suite Cafe",
     "wof:parent_id":85866153,
     "wof:placetype":"venue",

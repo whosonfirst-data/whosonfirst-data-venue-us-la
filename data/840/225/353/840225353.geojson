@@ -2,9 +2,14 @@
   "id": 840225353,
   "type": "Feature",
   "properties": {
+    "addr:full":"4568 Werner Dr New Orleans LA 70126",
+    "addr:housenumber":"4568",
+    "addr:postcode":"70126",
+    "addr:street":"Werner Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.993415,30.016236,-89.993415,30.016236",
     "geom:latitude":30.016236,
     "geom:longitude":-89.993415,
@@ -27,7 +32,15 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866169,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Uf7sGYYYaX5XW0I9GkSS_30.016236_-89.993415@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463523962,
     "wof:geomhash":"1dd2adf17b5f6ebe758e7cf1e5b674b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866169,
+            "region_id":85688735,
+            "venue_id":840225353
+        }
+    ],
     "wof:id":840225353,
-    "wof:lastmodified":1466541674,
+    "wof:lastmodified":1486688733,
     "wof:name":"Willing Hands Janitorial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

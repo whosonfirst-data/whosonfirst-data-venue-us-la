@@ -2,9 +2,14 @@
   "id": 203243749,
   "type": "Feature",
   "properties": {
+    "addr:full":"3712 General Meyer Ave New Orleans LA 70114",
+    "addr:housenumber":"3712",
+    "addr:postcode":"70114",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017303,29.938101,-90.017303,29.938101",
     "geom:latitude":29.938101,
     "geom:longitude":-90.017303,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521721,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"1961c837322216142383d2532483178d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
             "region_id":85688735,
             "venue_id":203243749
         }
     ],
     "wof:id":203243749,
-    "wof:lastmodified":1466539309,
+    "wof:lastmodified":1486688945,
     "wof:name":"Aurora Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

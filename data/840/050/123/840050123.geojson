@@ -2,14 +2,20 @@
   "id": 840050123,
   "type": "Feature",
   "properties": {
+    "addr:full":"2333 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"2333",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.09932,32.522327,-92.09932,32.522327",
     "geom:latitude":32.522327,
     "geom:longitude":-92.09932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2333 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kLjarIVmvp06b6DUl2cDx_32.522327_-92.099320@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520047,
-    "wof:geomhash":"5f3ea838778bbbd101fd8a46aca5e67a",
+    "wof:geomhash":"268dd48b726af8d163a2ecf0b44accaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840050123,
-    "wof:lastmodified":1466540068,
+    "wof:lastmodified":1510695861,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

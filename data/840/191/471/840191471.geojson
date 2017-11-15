@@ -2,9 +2,14 @@
   "id": 840191471,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 S Roadway St New Orleans LA 70124",
+    "addr:housenumber":"424",
+    "addr:postcode":"70124",
+    "addr:street":"S Roadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.119328,30.023681,-90.119328,30.023681",
     "geom:latitude":30.023681,
     "geom:longitude":-90.119328,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746829,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829325
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829325,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
             "region_id":85688735,
             "venue_id":840191471
         }
     ],
     "wof:id":840191471,
-    "wof:lastmodified":1466541384,
+    "wof:lastmodified":1486689072,
     "wof:name":"Top To Bottom Inc",
-    "wof:parent_id":85829325,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

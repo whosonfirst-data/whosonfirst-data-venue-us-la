@@ -2,14 +2,20 @@
   "id": 840321149,
   "type": "Feature",
   "properties": {
+    "addr:full":"6040 Bullard Ave New Orleans LA 70128",
+    "addr:housenumber":"6040",
+    "addr:postcode":"70128",
+    "addr:street":"Bullard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.959396,30.04372,-89.959396,30.04372",
     "geom:latitude":30.04372,
     "geom:longitude":-89.959396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6040 Bullard Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866173,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866173
+        85688735
     ],
+    "wof:brand_id":1125151735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5klg8Dmb6p2CjCWjOQMQb2_30.043720_-89.959396@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527507,
-    "wof:geomhash":"3ee5c2b92385fd4721056bca99b4602f",
+    "wof:geomhash":"568bd6679290fb44d197434bd63e683b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85866173,
             "region_id":85688735,
             "venue_id":840321149
         }
     ],
     "wof:id":840321149,
-    "wof:lastmodified":1466542886,
+    "wof:lastmodified":1510698806,
     "wof:name":"Internal Medicine Assoc",
     "wof:parent_id":85866173,
     "wof:placetype":"venue",

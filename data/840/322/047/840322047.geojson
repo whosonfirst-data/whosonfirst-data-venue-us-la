@@ -2,14 +2,20 @@
   "id": 840322047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3636 S I- 10 Svc Rd W Metairie LA 70001",
+    "addr:housenumber":"3636;10",
+    "addr:postcode":"70001",
+    "addr:street":"S I;Svc Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.163821,29.997355,-90.163821,29.997355",
     "geom:latitude":29.997355,
     "geom:longitude":-90.163821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3636 S I- 10 Svc Rd W",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125155631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68lcrzVmkWSK9yydqN2m9s_29.997355_-90.163821@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527557,
-    "wof:geomhash":"aca465146c330ed4a9bdc4bbab593d75",
+    "wof:geomhash":"d5a40a24ea10b4383d1212f83a4b20bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840322047,
-    "wof:lastmodified":1466542866,
+    "wof:lastmodified":1510699709,
     "wof:name":"Leukemia & Lymphoma Society",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

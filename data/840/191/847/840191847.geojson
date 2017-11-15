@@ -2,14 +2,20 @@
   "id": 840191847,
   "type": "Feature",
   "properties": {
+    "addr:full":"5120 Hwy 56 Chauvin LA 70344",
+    "addr:housenumber":"5120",
+    "addr:postcode":"70344",
+    "addr:street":"Hwy 56 Chauvin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.588212,29.472196,-90.588212,29.472196",
     "geom:latitude":29.472196,
     "geom:longitude":-90.588212,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5120 Hwy 56",
     "sg:city":"Chauvin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081923,
         85803459
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vn8YxiSup6UMaNcKxeQtN_29.472196_-90.588212@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523145,
-    "wof:geomhash":"db3d6d517b79370412c2edb1a9269209",
+    "wof:geomhash":"f6fec8e8f4bfc4da04864929fd14f6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840191847,
-    "wof:lastmodified":1466541421,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",

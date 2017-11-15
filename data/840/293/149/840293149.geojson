@@ -2,14 +2,20 @@
   "id": 840293149,
   "type": "Feature",
   "properties": {
+    "addr:full":"913 Beverly St Monroe LA 71202",
+    "addr:housenumber":"913",
+    "addr:postcode":"71202",
+    "addr:street":"Beverly St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.09243,32.470364,-92.09243,32.470364",
     "geom:latitude":32.470364,
     "geom:longitude":-92.09243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"913 Beverly St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85822879,
         102081027
     ],
+    "wof:brand_id":1125155283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fooiu43E30i0s2hqXCgAt_32.470364_-92.092430@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526199,
-    "wof:geomhash":"b5b51c443a0af613f466a80a746c6c12",
+    "wof:geomhash":"527920844f8d659898d19fec4eddfec2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840293149,
-    "wof:lastmodified":1466542409,
+    "wof:lastmodified":1510695023,
     "wof:name":"Mount Calvary Baptist Church",
     "wof:parent_id":85822879,
     "wof:placetype":"venue",

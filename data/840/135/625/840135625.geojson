@@ -2,9 +2,14 @@
   "id": 840135625,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Olympia Cir New Orleans LA 70114",
+    "addr:housenumber":"800",
+    "addr:postcode":"70114",
+    "addr:street":"Olympia Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.025748,29.946472,-90.025748,29.946472",
     "geom:latitude":29.946472,
     "geom:longitude":-90.025748,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746805,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pLf6yHx4gmxnExrxBlSWh_29.946472_-90.025748@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463521965,
     "wof:geomhash":"3544361a17046dfd9d7fbd4d311d309b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
+            "region_id":85688735,
+            "venue_id":840135625
+        }
+    ],
     "wof:id":840135625,
-    "wof:lastmodified":1466541099,
+    "wof:lastmodified":1486688989,
     "wof:name":"Linzeez Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

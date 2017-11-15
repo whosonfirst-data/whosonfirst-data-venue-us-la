@@ -2,14 +2,20 @@
   "id": 840149157,
   "type": "Feature",
   "properties": {
+    "addr:full":"639 Loyola Ave New Orleans LA 70113",
+    "addr:housenumber":"639",
+    "addr:postcode":"70113",
+    "addr:street":"Loyola Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.076601,29.948508,-90.076601,29.948508",
     "geom:latitude":29.948508,
     "geom:longitude":-90.076601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"639 Loyola Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
+    "wof:brand_id":420574433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NfKFPXmTLmIPhvLaVzM8S_29.948508_-90.076601@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522226,
-    "wof:geomhash":"2b76be2705dfae6563ca7232f89bfdbd",
+    "wof:geomhash":"41a9d572eaa9436214c2e09872721d64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840149157
         }
     ],
     "wof:id":840149157,
-    "wof:lastmodified":1466540404,
+    "wof:lastmodified":1510603930,
     "wof:name":"Morgan Stanley",
     "wof:parent_id":85866107,
     "wof:placetype":"venue",

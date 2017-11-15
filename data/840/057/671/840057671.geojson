@@ -2,14 +2,20 @@
   "id": 840057671,
   "type": "Feature",
   "properties": {
+    "addr:full":"9070 Mansfield Rd Shreveport LA 71118",
+    "addr:housenumber":"9070",
+    "addr:postcode":"71118",
+    "addr:street":"Mansfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.796813,32.410077,-93.796813,32.410077",
     "geom:latitude":32.410077,
     "geom:longitude":-93.796813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9070 Mansfield Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880999
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y7Hy6yy9dBUCnh6T3HYBC_32.410077_-93.796813@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520215,
-    "wof:geomhash":"92c6eba44b101cc6876c93a01fd8f9dd",
+    "wof:geomhash":"76befbe447db7fa770cbe564396984b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840057671,
-    "wof:lastmodified":1466540254,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",

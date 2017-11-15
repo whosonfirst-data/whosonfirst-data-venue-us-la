@@ -2,9 +2,14 @@
   "id": 840331621,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 S Rendon St New Orleans LA 70125",
+    "addr:housenumber":"1401",
+    "addr:postcode":"70125",
+    "addr:street":"S Rendon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.104318,29.9554,-90.104318,29.9554",
     "geom:latitude":29.9554,
     "geom:longitude":-90.104318,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866077,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866139
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866139,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866077,
             "region_id":85688735,
             "venue_id":840331621
         }
     ],
     "wof:id":840331621,
-    "wof:lastmodified":1466543209,
+    "wof:lastmodified":1491861184,
     "wof:name":"Coffee Roasters Of New Orleans",
-    "wof:parent_id":85866139,
+    "wof:parent_id":85866077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

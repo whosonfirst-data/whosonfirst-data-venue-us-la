@@ -2,9 +2,14 @@
   "id": 840389863,
   "type": "Feature",
   "properties": {
+    "addr:full":"6051 Brighton Pl New Orleans LA 70131",
+    "addr:housenumber":"6051",
+    "addr:postcode":"70131",
+    "addr:street":"Brighton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.990145,29.92323,-89.990145,29.92323",
     "geom:latitude":29.92323,
     "geom:longitude":-89.990145,
@@ -29,7 +34,16 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03bPNwPPRT1YdoXKvFxlCu_29.923230_-89.990145@1294127638"
@@ -37,11 +51,32 @@
     "wof:country":"US",
     "wof:created":1463530798,
     "wof:geomhash":"13918d27d36a3750481f3dfa5e12bc50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840389863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840389863
+        }
+    ],
     "wof:id":840389863,
-    "wof:lastmodified":1466544363,
+    "wof:lastmodified":1486689010,
     "wof:name":"Mel's Ice Cream",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

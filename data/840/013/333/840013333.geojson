@@ -2,14 +2,20 @@
   "id": 840013333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1426 Macarthur Dr Alexandria LA 71301",
+    "addr:housenumber":"1426",
+    "addr:postcode":"71301",
+    "addr:street":"Macarthur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.473447,31.281714,-92.473447,31.281714",
     "geom:latitude":31.281714,
     "geom:longitude":-92.473447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1426 Macarthur Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":420575789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K9jNfOhiIVKlVvZP7hz0x_31.281714_-92.473447@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519277,
-    "wof:geomhash":"5a5b91737c362e5b11a6710b24081624",
+    "wof:geomhash":"98fb92673c9ee2459b4452dbba1c5e70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840013333,
-    "wof:lastmodified":1466539697,
+    "wof:lastmodified":1510602089,
     "wof:name":"Catherines Plus Sizes",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

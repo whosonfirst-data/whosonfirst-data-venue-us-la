@@ -2,14 +2,20 @@
   "id": 840279891,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 Palmisano Blvd Chalmette LA 70043",
+    "addr:housenumber":"2015",
+    "addr:postcode":"70043",
+    "addr:street":"Palmisano Blvd Chalmette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.955778,29.931598,-89.955778,29.931598",
     "geom:latitude":29.931598,
     "geom:longitude":-89.955778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2015 Palmisano Blvd",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082447,
         85853675
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4B0GjblbVwbFCf8cUnvb99_29.931598_-89.955778@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525611,
-    "wof:geomhash":"a6aef2c072c6d34f24fad37e1384798d",
+    "wof:geomhash":"34dcf0967936b9d47fb0d36c602a12b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840279891,
-    "wof:lastmodified":1466542344,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

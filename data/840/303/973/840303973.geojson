@@ -2,9 +2,14 @@
   "id": 840303973,
   "type": "Feature",
   "properties": {
+    "addr:full":"3648 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"3648",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.09308,29.921618,-90.09308,29.921618",
     "geom:latitude":29.921618,
     "geom:longitude":-90.09308,
@@ -29,7 +34,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dft0AwdlBwXmqXJEQLkkC_29.921618_-90.093080@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463526718,
     "wof:geomhash":"991cb1bb692fe164b74cff0623359b01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840303973
+        }
+    ],
     "wof:id":840303973,
-    "wof:lastmodified":1466542720,
+    "wof:lastmodified":1486689026,
     "wof:name":"Galerie Royale LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

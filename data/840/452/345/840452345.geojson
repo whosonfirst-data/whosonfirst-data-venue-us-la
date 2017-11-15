@@ -2,9 +2,14 @@
   "id": 840452345,
   "type": "Feature",
   "properties": {
+    "addr:full":"3801 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"3801",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021101,30.00899,-90.021101,30.00899",
     "geom:latitude":30.00899,
     "geom:longitude":-90.021101,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"www.enterprise.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L30woMM4Gj3Mlb2OBwVFM_30.009450_-90.020775@1293134755"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463533397,
     "wof:geomhash":"1609cd33d94935b83cdda02aad448c9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840452345
+        }
+    ],
     "wof:id":840452345,
-    "wof:lastmodified":1466545270,
+    "wof:lastmodified":1491863976,
     "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

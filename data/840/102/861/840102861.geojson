@@ -2,14 +2,20 @@
   "id": 840102861,
   "type": "Feature",
   "properties": {
+    "addr:full":"18222 Petroleum Dr Baton Rouge LA 70809",
+    "addr:housenumber":"",
+    "addr:postcode":"18222;70809",
+    "addr:street":"Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.019957,30.350442,-91.019957,30.350442",
     "geom:latitude":30.350442,
     "geom:longitude":-91.019957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18222 Petroleum Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":1125154587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YsOl5SN4Jof8BR8RVdPpa_30.350442_-91.019957@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521277,
-    "wof:geomhash":"357e7703f5124e734bebf2a45813934f",
+    "wof:geomhash":"7e6c092c20781b1a0163da289dd2c33f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840102861,
-    "wof:lastmodified":1466540755,
+    "wof:lastmodified":1510613338,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

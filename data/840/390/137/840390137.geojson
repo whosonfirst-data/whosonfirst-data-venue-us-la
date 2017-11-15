@@ -2,14 +2,20 @@
   "id": 840390137,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Fannin St Shreveport LA 71101",
+    "addr:housenumber":"300",
+    "addr:postcode":"71101",
+    "addr:street":"Fannin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.750391,32.515189,-93.750391,32.515189",
     "geom:latitude":32.515189,
     "geom:longitude":-93.750391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Fannin St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880993
     ],
+    "wof:brand_id":1125152687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5844czIEBBlnPiGO6YVn4i_32.515189_-93.750391@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530813,
-    "wof:geomhash":"6be6a8d948994441d03fb7f63afc4c67",
+    "wof:geomhash":"3cff784a57937e7d7703dd91109fb0bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840390137,
-    "wof:lastmodified":1466544298,
+    "wof:lastmodified":1510697341,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840289875,
   "type": "Feature",
   "properties": {
+    "addr:full":"3409 Debouchel Blvd Meraux LA 70075",
+    "addr:housenumber":"3409",
+    "addr:postcode":"70075",
+    "addr:street":"Debouchel Blvd Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.916194,29.941915,-89.916194,29.941915",
     "geom:latitude":29.941915,
     "geom:longitude":-89.916194,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"89610dd76540ad49cb3f7a9fa0f20295",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840289875,
-    "wof:lastmodified":1466542514,
+    "wof:lastmodified":1491910645,
     "wof:name":"Kenneth Martinez",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

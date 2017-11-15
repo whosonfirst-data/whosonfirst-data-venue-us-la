@@ -2,9 +2,14 @@
   "id": 840279911,
   "type": "Feature",
   "properties": {
+    "addr:full":"7550 Horizon Ct New Orleans LA 70129",
+    "addr:housenumber":"7550",
+    "addr:postcode":"70129",
+    "addr:street":"Horizon Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.926854,30.058642,-89.926854,30.058642",
     "geom:latitude":30.058642,
     "geom:longitude":-89.926854,
@@ -27,7 +32,15 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ck7BHf7DxUj7VwZaT3Qfq_30.058642_-89.926854@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463525612,
     "wof:geomhash":"268d346df4a7dc88b415ca8147e326ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840279911
+        }
+    ],
     "wof:id":840279911,
-    "wof:lastmodified":1466542348,
+    "wof:lastmodified":1486688235,
     "wof:name":"Talon Cleaning Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840398385,
   "type": "Feature",
   "properties": {
+    "addr:full":"3566 W Pinhook Rd Lafayette LA 70508",
+    "addr:housenumber":"3566",
+    "addr:postcode":"70508",
+    "addr:street":"W Pinhook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.99195,30.161459,-91.99195,30.161459",
     "geom:latitude":30.161459,
     "geom:longitude":-91.99195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3566 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081919,
         85841585
     ],
+    "wof:brand_id":1125153419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12F4wCsXQ67aFSrV5xPBce_30.161459_-91.991950@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531144,
-    "wof:geomhash":"c53098e4e5e3614e2cdc506e3bfd5129",
+    "wof:geomhash":"e4b651e1485dc538a4d8dc1dd912aa15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840398385,
-    "wof:lastmodified":1466544459,
+    "wof:lastmodified":1510695032,
     "wof:name":"Style America",
     "wof:parent_id":85841585,
     "wof:placetype":"venue",

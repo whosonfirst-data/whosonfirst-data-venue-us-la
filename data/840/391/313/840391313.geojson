@@ -2,9 +2,14 @@
   "id": 840391313,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 Stroelitz St New Orleans LA 70125",
+    "addr:housenumber":"7300",
+    "addr:postcode":"70125",
+    "addr:street":"Stroelitz St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.108421,29.963513,-90.108421,29.963513",
     "geom:latitude":29.963513,
     "geom:longitude":-90.108421,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866077,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866077
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866077,
             "region_id":85688735,
             "venue_id":840391313
         }
     ],
     "wof:id":840391313,
-    "wof:lastmodified":1466544236,
+    "wof:lastmodified":1486687523,
     "wof:name":"Jackson's Flower Shoppe",
     "wof:parent_id":85866077,
     "wof:placetype":"venue",

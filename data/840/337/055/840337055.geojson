@@ -2,14 +2,20 @@
   "id": 840337055,
   "type": "Feature",
   "properties": {
+    "addr:full":"4118 Jackson St Exd Alexandria LA 71303",
+    "addr:housenumber":"4118",
+    "addr:postcode":"71303",
+    "addr:street":"Jackson St Exd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.478806,31.280753,-92.478806,31.280753",
     "geom:latitude":31.280753,
     "geom:longitude":-92.478806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4118 Jackson St Exd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125156277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TvGWeOBUI4YHs8uY8bXD5_31.280753_-92.478806@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528261,
-    "wof:geomhash":"6cdcaccd7d39c2538b7f39b1452395b1",
+    "wof:geomhash":"9b5ebcc0e65d0853d74b9c206ca4a6a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840337055,
-    "wof:lastmodified":1466543148,
+    "wof:lastmodified":1510694866,
     "wof:name":"My Favorite Things",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

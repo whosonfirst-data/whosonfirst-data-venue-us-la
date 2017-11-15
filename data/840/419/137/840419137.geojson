@@ -2,14 +2,20 @@
   "id": 840419137,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Northwest Blvd Franklin LA 70538",
+    "addr:housenumber":"301",
+    "addr:postcode":"70538",
+    "addr:street":"Northwest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.515466,29.811199,-91.515466,29.811199",
     "geom:latitude":29.811199,
     "geom:longitude":-91.515466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Northwest Blvd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_239MVKqkhO5PIeCVKXapLk_29.811199_-91.515466@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531988,
-    "wof:geomhash":"d827b7cf4e12d2ddb3f19deeb3788985",
+    "wof:geomhash":"54225ad14da22ffc1f643460cc110a37",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840419137,
-    "wof:lastmodified":1466544816,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

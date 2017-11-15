@@ -2,14 +2,20 @@
   "id": 840341819,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Lichen Ln Lafayette LA 70507",
+    "addr:housenumber":"101",
+    "addr:postcode":"70507",
+    "addr:street":"Lichen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.043722,30.284734,-92.043722,30.284734",
     "geom:latitude":30.284734,
     "geom:longitude":-92.043722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Lichen Ln",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85835903
     ],
+    "wof:brand_id":1125155645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yhzV7RBciYG3AElzGkgNE_30.284734_-92.043722@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528496,
-    "wof:geomhash":"114462a6c75893a4543fd8fff48ecc32",
+    "wof:geomhash":"94d7d1e26fb683c70e3b4e225df1362d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840341819,
-    "wof:lastmodified":1466543062,
+    "wof:lastmodified":1510697975,
     "wof:name":"PHH Mortgage",
     "wof:parent_id":85835903,
     "wof:placetype":"venue",

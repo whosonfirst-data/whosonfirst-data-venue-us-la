@@ -2,14 +2,20 @@
   "id": 840456001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1133 Saint Vincent Ave Shreveport LA 71104",
+    "addr:housenumber":"1133",
+    "addr:postcode":"71104",
+    "addr:street":"Saint Vincent Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.752823,32.479704,-93.752823,32.479704",
     "geom:latitude":32.479704,
     "geom:longitude":-93.752823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1133 Saint Vincent Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087235,
         85880983
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5whLP403DyW7NcjUdiLaZC_32.479704_-93.752823@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533538,
-    "wof:geomhash":"a943546d51cdb9756ba8482b61ed4805",
+    "wof:geomhash":"59cec98fd8a87489cb7b22f4b32d2617",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840456001,
-    "wof:lastmodified":1466545218,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85880983,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203274421,
   "type": "Feature",
   "properties": {
+    "addr:full":"4141 Leavell Ln New Orleans LA 70126",
+    "addr:housenumber":"",
+    "addr:postcode":"4141;70126",
+    "addr:street":"Leavell Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.043701,30.007099,-90.043701,30.007099",
     "geom:latitude":30.007099,
     "geom:longitude":-90.043701,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821299,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +50,28 @@
     "wof:geomhash":"37e5dc60e5c2b1cc8bec50b6c5fb9340",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":203274421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821299,
             "region_id":85688735,
             "venue_id":203274421
         }
     ],
     "wof:id":203274421,
-    "wof:lastmodified":1466539350,
+    "wof:lastmodified":1486688030,
     "wof:name":"William Carey College School of Nrsngnw Orlns Cmps",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",

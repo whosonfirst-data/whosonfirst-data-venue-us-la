@@ -2,14 +2,20 @@
   "id": 840017719,
   "type": "Feature",
   "properties": {
+    "addr:full":"10930 Ellerbe Rd Shreveport LA 71115",
+    "addr:housenumber":"10930",
+    "addr:postcode":"71115",
+    "addr:street":"Ellerbe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.687384,32.358425,-93.687384,32.358425",
     "geom:latitude":32.358425,
     "geom:longitude":-93.687384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10930 Ellerbe Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":1125155171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gZAzjkaKiYEbY8bv2FoT0_32.358425_-93.687384@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519361,
-    "wof:geomhash":"f027075ff16eb7e097ecc318f73dd9dd",
+    "wof:geomhash":"cf88acd1f8b378d0418a9b40e87f8ac7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840017719,
-    "wof:lastmodified":1466539744,
+    "wof:lastmodified":1510699385,
     "wof:name":"Mt Pleasant Baptist Church",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

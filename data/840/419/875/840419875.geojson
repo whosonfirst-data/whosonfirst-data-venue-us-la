@@ -2,14 +2,20 @@
   "id": 840419875,
   "type": "Feature",
   "properties": {
+    "addr:full":"5151 Plank Rd Baton Rouge LA 70805",
+    "addr:housenumber":"5151",
+    "addr:postcode":"70805",
+    "addr:street":"Plank Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.154548,30.495653,-91.154548,30.495653",
     "geom:latitude":30.495653,
     "geom:longitude":-91.154548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5151 Plank Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85814223
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63QiTaJKDoSOA3aNCdufxf_30.495653_-91.154548@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532026,
-    "wof:geomhash":"10742e916a05acd72169c9807104daed",
+    "wof:geomhash":"bb16b3bf326326be6e14d46ac50e51c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840419875,
-    "wof:lastmodified":1466544820,
+    "wof:lastmodified":1510697395,
     "wof:name":"Color Tyme",
     "wof:parent_id":85814223,
     "wof:placetype":"venue",

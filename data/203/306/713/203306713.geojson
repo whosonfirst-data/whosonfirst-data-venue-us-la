@@ -2,14 +2,20 @@
   "id": 203306713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 NW Evangeline Trwy Lafayette LA 70501",
+    "addr:housenumber":"1215",
+    "addr:postcode":"70501",
+    "addr:street":"Nw Evangeline",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.0131,30.239201,-92.0131,30.239201",
     "geom:latitude":30.239201,
     "geom:longitude":-92.0131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 NW Evangeline Trwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125150455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GsVENWFjG0ClRtfeLkSgv_30.239201_-92.013100@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"daf45f1aee3d564f4541b7ae99eac309",
+    "wof:geomhash":"b7fa9a22460c6115245e4d3334c2e55b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203306713,
-    "wof:lastmodified":1466539409,
+    "wof:lastmodified":1510695308,
     "wof:name":"American General Financial Services",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

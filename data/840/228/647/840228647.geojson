@@ -2,9 +2,14 @@
   "id": 840228647,
   "type": "Feature",
   "properties": {
+    "addr:full":"5201 Tullis Dr New Orleans LA 70131",
+    "addr:housenumber":"5201",
+    "addr:postcode":"70131",
+    "addr:street":"Tullis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.00133,29.900858,-90.00133,29.900858",
     "geom:latitude":29.900858,
     "geom:longitude":-90.00133,
@@ -28,7 +33,15 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21IngInurQXQFa466PA2lL_29.900858_-90.001330@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463524076,
     "wof:geomhash":"7f7b355fd44798c749435bc86a1b5a21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840228647
+        }
+    ],
     "wof:id":840228647,
-    "wof:lastmodified":1466541720,
+    "wof:lastmodified":1486689100,
     "wof:name":"Louisiana Mortgage Specialist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

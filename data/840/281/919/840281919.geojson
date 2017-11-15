@@ -2,9 +2,14 @@
   "id": 840281919,
   "type": "Feature",
   "properties": {
+    "addr:full":"6800 Deanne St New Orleans LA 70126",
+    "addr:housenumber":"6800",
+    "addr:postcode":"70126",
+    "addr:street":"Deanne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021434,30.020321,-90.021434,30.020321",
     "geom:latitude":30.020321,
     "geom:longitude":-90.021434,
@@ -31,7 +36,15 @@
         "an"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ymEvPl2ysMNyyJ4woscCe_30.020321_-90.021434@1294127638"
@@ -39,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1463525710,
     "wof:geomhash":"55760fc0caa6b9d361822cffcec417f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840281919
+        }
+    ],
     "wof:id":840281919,
-    "wof:lastmodified":1466542336,
+    "wof:lastmodified":1486687736,
     "wof:name":"Frenchmans Wharf Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

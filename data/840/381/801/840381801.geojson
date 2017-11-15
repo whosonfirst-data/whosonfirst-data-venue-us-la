@@ -2,14 +2,20 @@
   "id": 840381801,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Christian Ln Slidell LA 70458",
+    "addr:housenumber":"102",
+    "addr:postcode":"70458",
+    "addr:street":"Christian Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.756541,30.301904,-89.756541,30.301904",
     "geom:latitude":30.301904,
     "geom:longitude":-89.756541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Christian Ln",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082453,
         85803935
     ],
+    "wof:brand_id":420574045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o2IXXv4cZ6vleFHCLWQvy_30.301904_-89.756541@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530430,
-    "wof:geomhash":"06a57f54c8fda9ae3a0f5cd6c74333a5",
+    "wof:geomhash":"53c7ab118e5e2b7c271560edf6ed6b99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840381801,
-    "wof:lastmodified":1466544164,
+    "wof:lastmodified":1510604136,
     "wof:name":"First Christian Church",
     "wof:parent_id":85803935,
     "wof:placetype":"venue",

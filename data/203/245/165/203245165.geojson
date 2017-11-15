@@ -2,9 +2,14 @@
   "id": 203245165,
   "type": "Feature",
   "properties": {
+    "addr:full":"3221 Behrman Pl Ste 105 New Orleans LA 70114",
+    "addr:housenumber":"3221;105",
+    "addr:postcode":"70114",
+    "addr:street":"Behrman Pl Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017502,29.922001,-90.017502,29.922001",
     "geom:latitude":29.922001,
     "geom:longitude":-90.017502,
@@ -34,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +55,20 @@
     "wof:geomhash":"db434970596bd2844c82ed3575ae0e89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203245165
         }
     ],
     "wof:id":203245165,
-    "wof:lastmodified":1466539303,
+    "wof:lastmodified":1486689102,
     "wof:name":"First Bank & Trust Mortgage Lending Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

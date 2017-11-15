@@ -2,9 +2,14 @@
   "id": 840252587,
   "type": "Feature",
   "properties": {
+    "addr:full":"6085 Wilton Dr New Orleans LA 70122",
+    "addr:housenumber":"6085",
+    "addr:postcode":"70122",
+    "addr:street":"Wilton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066734,30.02158,-90.066734,30.02158",
     "geom:latitude":30.02158,
     "geom:longitude":-90.066734,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866063,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866063
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +56,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":840252587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866063,
             "region_id":85688735,
             "venue_id":840252587
         }
     ],
     "wof:id":840252587,
-    "wof:lastmodified":1466541897,
+    "wof:lastmodified":1486688032,
     "wof:name":"Marianites Of Holy Cross",
     "wof:parent_id":85866063,
     "wof:placetype":"venue",

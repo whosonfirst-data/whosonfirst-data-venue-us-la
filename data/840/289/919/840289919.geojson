@@ -2,14 +2,20 @@
   "id": 840289919,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Macarthur Dr Alexandria LA 71303",
+    "addr:housenumber":"205",
+    "addr:postcode":"71303",
+    "addr:street":"Macarthur Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.478976,31.297606,-92.478976,31.297606",
     "geom:latitude":31.297606,
     "geom:longitude":-92.478976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Macarthur Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3quNckvaa5RpqZeSheDdqP_31.297606_-92.478976@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526065,
-    "wof:geomhash":"8ae51c5bc893fd8c0c0090ac0da42697",
+    "wof:geomhash":"f26e9808e23d0bec3009d8da400829fa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840289919,
-    "wof:lastmodified":1466542523,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840392767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1435 N Beglis Pkwy Sulphur LA 70663",
+    "addr:housenumber":"1435",
+    "addr:postcode":"70663",
+    "addr:street":"N Beglis Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360783,30.259903,-93.360783,30.259903",
     "geom:latitude":30.259903,
     "geom:longitude":-93.360783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1435 N Beglis Pkwy",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125152115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hPRtxv31r7xcYtslv4pm2_30.259903_-93.360783@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530913,
-    "wof:geomhash":"cb6844126394681c49db8b224baaa31c",
+    "wof:geomhash":"006b572917f1d69fbba59d77b304b33b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840392767,
-    "wof:lastmodified":1466544350,
+    "wof:lastmodified":1510628021,
     "wof:name":"US Navy Recruiting",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

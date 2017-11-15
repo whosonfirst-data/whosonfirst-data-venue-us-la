@@ -2,14 +2,20 @@
   "id": 840151145,
   "type": "Feature",
   "properties": {
+    "addr:full":"167 Northshore Blvd Slidell LA 70460",
+    "addr:housenumber":"167",
+    "addr:postcode":"70460",
+    "addr:street":"Northshore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.825863,30.305122,-89.825863,30.305122",
     "geom:latitude":30.305122,
     "geom:longitude":-89.825863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"167 Northshore Blvd",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082453,
         85849001
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BBSIfLZFRmc6k1PUxJ09M_30.305122_-89.825863@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522267,
-    "wof:geomhash":"65e70cc8b7f92408d6eb38ee074cb6ca",
+    "wof:geomhash":"1eff7187986847e43532d4fd2303b6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840151145,
-    "wof:lastmodified":1466540641,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85849001,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840168275,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 S Jefferson Davis Pkwy New Orleans LA 70125",
+    "addr:housenumber":"900",
+    "addr:postcode":"70125",
+    "addr:street":"S Jefferson Davis Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.101852,29.960707,-90.101852,29.960707",
     "geom:latitude":29.960707,
     "geom:longitude":-90.101852,
@@ -27,7 +32,16 @@
         "university"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746753,
+        85866077,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JORNaANeIssZKhcJDBVcb_29.960707_-90.101852@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463522619,
     "wof:geomhash":"124edfe19578cb7517cc867854022f35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746753,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840168275
+        }
+    ],
     "wof:id":840168275,
-    "wof:lastmodified":1466541182,
+    "wof:lastmodified":1486689228,
     "wof:name":"Tulane University",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

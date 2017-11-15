@@ -2,6 +2,10 @@
   "id": 840428195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Albertson Pkwy Broussard LA 70518",
+    "addr:housenumber":"1000",
+    "addr:postcode":"70518",
+    "addr:street":"Albertson Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840428195,
-    "wof:lastmodified":1466545206,
+    "wof:lastmodified":1472624853,
     "wof:name":"Reliable Packer Sales & Svc",
     "wof:parent_id":85806101,
     "wof:placetype":"venue",

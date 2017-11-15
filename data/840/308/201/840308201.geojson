@@ -2,14 +2,20 @@
   "id": 840308201,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Sterlington Rd Monroe LA 71203",
+    "addr:housenumber":"608",
+    "addr:postcode":"71203",
+    "addr:street":"Sterlington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.080997,32.527944,-92.080997,32.527944",
     "geom:latitude":32.527944,
     "geom:longitude":-92.080997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"608 Sterlington Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125154409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04OwWjSm7NZ82H3d4hlJOB_32.527944_-92.080997@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526908,
-    "wof:geomhash":"c4965b971dd2cfccab888ae8bb242716",
+    "wof:geomhash":"900bd0a9840f7aa75f4aa45c9042777d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840308201,
-    "wof:lastmodified":1466542712,
+    "wof:lastmodified":1510697806,
     "wof:name":"China Garden Restaurant",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

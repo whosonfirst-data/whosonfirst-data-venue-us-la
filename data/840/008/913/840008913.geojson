@@ -2,9 +2,14 @@
   "id": 840008913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1418 Kerlerec St New Orleans LA 70116",
+    "addr:housenumber":"1418",
+    "addr:postcode":"70116",
+    "addr:street":"Kerlerec St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066822,29.969458,-90.066822,29.969458",
     "geom:latitude":29.969458,
     "geom:longitude":-90.066822,
@@ -27,7 +32,16 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42ieaPz62YRE9vbgkJhf8r_29.969458_-90.066822@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463519185,
     "wof:geomhash":"6ed4279467301e3fd055c080a3a0ff85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840008913
+        }
+    ],
     "wof:id":840008913,
-    "wof:lastmodified":1466539647,
+    "wof:lastmodified":1486689211,
     "wof:name":"Gallery of Braids",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

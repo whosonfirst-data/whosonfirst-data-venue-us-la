@@ -2,14 +2,20 @@
   "id": 840420799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Sterlington Rd Monroe LA 71203",
+    "addr:housenumber":"1500",
+    "addr:postcode":"71203",
+    "addr:street":"Sterlington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.07995,32.533879,-92.07995,32.533879",
     "geom:latitude":32.533879,
     "geom:longitude":-92.07995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Sterlington Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125159513,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TGaJA8c9g4AzyCThdBBS9_32.533879_-92.079950@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532064,
-    "wof:geomhash":"c6d493521b5960a3bc4295e30356107a",
+    "wof:geomhash":"485ef09178b21bfe5f317ca5f8850de9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840420799,
-    "wof:lastmodified":1466544790,
+    "wof:lastmodified":1510698879,
     "wof:name":"Community Trust Bank",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

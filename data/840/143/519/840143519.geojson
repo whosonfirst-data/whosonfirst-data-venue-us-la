@@ -2,14 +2,20 @@
   "id": 840143519,
   "type": "Feature",
   "properties": {
+    "addr:full":"3327 Jackson St Alexandria LA 71301",
+    "addr:housenumber":"3327",
+    "addr:postcode":"71301",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.473358,31.287421,-92.473358,31.287421",
     "geom:latitude":31.287421,
     "geom:longitude":-92.473358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3327 Jackson St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mU9hRsu17sM68Bi6RYrbb_31.287421_-92.473358@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522115,
-    "wof:geomhash":"06c507d572762d28ddda687a43dcfbb3",
+    "wof:geomhash":"046a6dc791d4221df4267375ae523df0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840143519,
-    "wof:lastmodified":1466539679,
+    "wof:lastmodified":1510699753,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

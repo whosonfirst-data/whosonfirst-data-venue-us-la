@@ -2,9 +2,14 @@
   "id": 840380837,
   "type": "Feature",
   "properties": {
+    "addr:full":"7624 Maple St New Orleans LA 70118",
+    "addr:housenumber":"7624",
+    "addr:postcode":"70118",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.12934,29.941674,-90.12934,29.941674",
     "geom:latitude":29.941674,
     "geom:longitude":-90.12934,
@@ -30,7 +35,15 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wimiXAiGwGWZYiHuh8vk5_29.941674_-90.129340@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463530384,
     "wof:geomhash":"7e7596a30971a1d758bc2ef5d6236fef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840380837
+        }
+    ],
     "wof:id":840380837,
-    "wof:lastmodified":1466544059,
+    "wof:lastmodified":1486689020,
     "wof:name":"First Church-Christ Scientist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

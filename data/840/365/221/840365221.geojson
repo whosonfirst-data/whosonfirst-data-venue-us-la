@@ -2,9 +2,14 @@
   "id": 840365221,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Imperial Dr New Orleans LA 70122",
+    "addr:housenumber":"53",
+    "addr:postcode":"70122",
+    "addr:street":"Imperial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.084673,29.994703,-90.084673,29.994703",
     "geom:latitude":29.994703,
     "geom:longitude":-90.084673,
@@ -29,12 +34,13 @@
     "sg:website":"www.hano.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521743,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866079
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866079,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420521743,
             "region_id":85688735,
             "venue_id":840365221
         }
     ],
     "wof:id":840365221,
-    "wof:lastmodified":1466543657,
+    "wof:lastmodified":1486688960,
     "wof:name":"Imperial Court Maintenance",
-    "wof:parent_id":85866079,
+    "wof:parent_id":420521743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

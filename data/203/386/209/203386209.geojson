@@ -2,14 +2,20 @@
   "id": 203386209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2715 Mackey Pl Shreveport LA 71118",
+    "addr:housenumber":"2715",
+    "addr:postcode":"71118",
+    "addr:street":"Mackey Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.799049,32.411072,-93.799049,32.411072",
     "geom:latitude":32.411072,
     "geom:longitude":-93.799049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2715 Mackey Pl",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -43,12 +49,13 @@
         102087235,
         85880999
     ],
+    "wof:brand_id":1125156325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y1fAlbZAjlezw2puErSms_32.411072_-93.799049@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ce09fe6a438e3e3189b271185133ecb",
+    "wof:geomhash":"6cc7f43e4256d23d78d500f2a3032c52",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":203386209,
-    "wof:lastmodified":1466539506,
+    "wof:lastmodified":1510697782,
     "wof:name":"Whataburger Restaurants",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840280675,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 Forsythe Ave Monroe LA 71201",
+    "addr:housenumber":"2221",
+    "addr:postcode":"71201",
+    "addr:street":"Forsythe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.105542,32.536484,-92.105542,32.536484",
     "geom:latitude":32.536484,
     "geom:longitude":-92.105542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2221 Forsythe Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lS6xChBzhBxjf2y4NkPUY_32.536484_-92.105542@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525649,
-    "wof:geomhash":"397ff1fc8008025ed9b13433bf3c5bb8",
+    "wof:geomhash":"0499bc09b6d5d2549411686fd0decf31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840280675,
-    "wof:lastmodified":1466542315,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

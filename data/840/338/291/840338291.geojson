@@ -2,14 +2,20 @@
   "id": 840338291,
   "type": "Feature",
   "properties": {
+    "addr:full":"3208 Georgia Ave Kenner LA 70065",
+    "addr:housenumber":"3208",
+    "addr:postcode":"70065",
+    "addr:street":"Georgia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.238551,30.015778,-90.238551,30.015778",
     "geom:latitude":30.015778,
     "geom:longitude":-90.238551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3208 Georgia Ave",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EGYMnWfwcG7VxK1UNW9np_30.015778_-90.238551@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528335,
-    "wof:geomhash":"ac29c5980ea7069285d14ba977d2f687",
+    "wof:geomhash":"5400502c0041345efad3a6eefa7ab621",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840338291,
-    "wof:lastmodified":1466543206,
+    "wof:lastmodified":1510696652,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

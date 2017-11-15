@@ -2,14 +2,20 @@
   "id": 840152875,
   "type": "Feature",
   "properties": {
+    "addr:full":"522 Lincoln Rd Monroe LA 71203",
+    "addr:housenumber":"522",
+    "addr:postcode":"71203",
+    "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.018008,32.541587,-92.018008,32.541587",
     "geom:latitude":32.541587,
     "geom:longitude":-92.018008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"522 Lincoln Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":420575635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U9dHl6jvOq7Md1lYAlr8d_32.541587_-92.018008@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522308,
-    "wof:geomhash":"8fdeca4d6891aa0b34f70b689191d257",
+    "wof:geomhash":"406145a18c87e5f4da1cc4ff3499535a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840152875,
-    "wof:lastmodified":1466540809,
+    "wof:lastmodified":1510602488,
     "wof:name":"Fred's Store",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840388859,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 N Market St Shreveport LA 71107",
+    "addr:housenumber":"3000",
+    "addr:postcode":"71107",
+    "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.783535,32.558105,-93.783535,32.558105",
     "geom:latitude":32.558105,
     "geom:longitude":-93.783535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3000 N Market St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880989
     ],
+    "wof:brand_id":1125151847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jhuY0MKX0ZtHBhSuLHlKO_32.558105_-93.783535@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530752,
-    "wof:geomhash":"83afe4be5cf66e3235d15f20b3da3386",
+    "wof:geomhash":"5dcb5792550bfea9e2318b26fcea5de1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840388859,
-    "wof:lastmodified":1466544193,
+    "wof:lastmodified":1510697630,
     "wof:name":"Le Nails",
     "wof:parent_id":85880989,
     "wof:placetype":"venue",

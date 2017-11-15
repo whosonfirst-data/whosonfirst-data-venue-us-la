@@ -2,14 +2,20 @@
   "id": 840437763,
   "type": "Feature",
   "properties": {
+    "addr:full":"5441 Johnston St Lafayette LA 70503",
+    "addr:housenumber":"5441",
+    "addr:postcode":"70503",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.073372,30.179317,-92.073372,30.179317",
     "geom:latitude":30.179317,
     "geom:longitude":-92.073372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5441 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125153033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Kw9Fg08JFwfvUIpUhIn7E_30.179317_-92.073372@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532796,
-    "wof:geomhash":"ef4f4673c665dfa3b6acd22c1089adf7",
+    "wof:geomhash":"5b8bbf4b0db25beb5ccc8d2af1f62bc9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840437763,
-    "wof:lastmodified":1466545145,
+    "wof:lastmodified":1510613164,
     "wof:name":"Kumon",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840363109,
   "type": "Feature",
   "properties": {
+    "addr:full":"5921 Dover Pl New Orleans LA 70131",
+    "addr:housenumber":"5921",
+    "addr:postcode":"70131",
+    "addr:street":"Dover Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.992371,29.920501,-89.992371,29.920501",
     "geom:latitude":29.920501,
     "geom:longitude":-89.992371,
@@ -28,7 +33,16 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lmpdXhmpzXXIEkAZwEC3v_29.920501_-89.992371@1294127638"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1463529525,
     "wof:geomhash":"0892f24a04e0460bf2b6ad76f4b64617",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840363109
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840363109
+        }
+    ],
     "wof:id":840363109,
-    "wof:lastmodified":1466543634,
+    "wof:lastmodified":1486688993,
     "wof:name":"Fav-R Investments LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

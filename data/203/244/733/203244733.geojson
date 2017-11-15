@@ -2,9 +2,14 @@
   "id": 203244733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3708 Garden Oaks Dr New Orleans LA 70114",
+    "addr:housenumber":"3708",
+    "addr:postcode":"70114",
+    "addr:street":"Garden Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.036903,29.9356,-90.036903,29.9356",
     "geom:latitude":29.9356,
     "geom:longitude":-90.036903,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521721,
+        102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866151
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +56,20 @@
     "wof:geomhash":"ec41887e4e8d20f9e11bf604eb3031d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866151,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
             "region_id":85688735,
             "venue_id":203244733
         }
     ],
     "wof:id":203244733,
-    "wof:lastmodified":1466539310,
+    "wof:lastmodified":1486688949,
     "wof:name":"Forest Park Apartments",
-    "wof:parent_id":85866151,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

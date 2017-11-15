@@ -2,9 +2,14 @@
   "id": 840367951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 S Roman St New Orleans LA 70125",
+    "addr:housenumber":"1201",
+    "addr:postcode":"70125",
+    "addr:street":"S Roman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.089328,29.948877,-90.089328,29.948877",
     "geom:latitude":29.948877,
     "geom:longitude":-90.089328,
@@ -26,12 +31,13 @@
     "sg:website":"www.nops.k12.la.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866073,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85891209
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891209,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866073,
             "region_id":85688735,
             "venue_id":840367951
         }
     ],
     "wof:id":840367951,
-    "wof:lastmodified":1466543808,
+    "wof:lastmodified":1486688300,
     "wof:name":"Booker T Washington Sr High",
-    "wof:parent_id":85891209,
+    "wof:parent_id":85866073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

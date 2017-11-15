@@ -2,14 +2,20 @@
   "id": 840360137,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 E Louisiana Ave Vivian LA 71082",
+    "addr:housenumber":"105",
+    "addr:postcode":"71082",
+    "addr:street":"E Louisiana Ave Vivian",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.986572,32.872419,-93.986572,32.872419",
     "geom:latitude":32.872419,
     "geom:longitude":-93.986572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 E Louisiana Ave",
     "sg:city":"Vivian",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087235,
         85825193
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DyxXROG5FOQFd0kqI0Qw5_32.872419_-93.986572@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529391,
-    "wof:geomhash":"9d95c3755ac135ba5960e9e939629df6",
+    "wof:geomhash":"40b04fa66c7f260f9f7dc28872f078f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840360137,
-    "wof:lastmodified":1466544082,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",

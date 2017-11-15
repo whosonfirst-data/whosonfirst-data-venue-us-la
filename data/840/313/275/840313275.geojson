@@ -2,14 +2,20 @@
   "id": 840313275,
   "type": "Feature",
   "properties": {
+    "addr:full":"951 Main St Lake Charles LA 70615",
+    "addr:housenumber":"951",
+    "addr:postcode":"70615",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.163351,30.225511,-93.163351,30.225511",
     "geom:latitude":30.225511,
     "geom:longitude":-93.163351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"951 Main St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zp1KsDXZTxqpASf4j7xV9_30.225511_-93.163351@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527143,
-    "wof:geomhash":"b2caeeed936665feb542830885c41f65",
+    "wof:geomhash":"be1f070d73686e158b23f18b90b944e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840313275,
-    "wof:lastmodified":1466542853,
+    "wof:lastmodified":1510602601,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

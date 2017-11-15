@@ -2,9 +2,14 @@
   "id": 840326401,
   "type": "Feature",
   "properties": {
+    "addr:full":"5630 Old Gentilly Rd New Orleans LA 70126",
+    "addr:housenumber":"5630",
+    "addr:postcode":"70126",
+    "addr:street":"Old Gentilly Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.022164,30.006752,-90.022164,30.006752",
     "geom:latitude":30.006752,
     "geom:longitude":-90.022164,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866175,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85821299,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
             "region_id":85688735,
             "venue_id":840326401
         }
     ],
     "wof:id":840326401,
-    "wof:lastmodified":1466543068,
+    "wof:lastmodified":1486688868,
     "wof:name":"Heritage Gallerie Inc",
-    "wof:parent_id":85821299,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

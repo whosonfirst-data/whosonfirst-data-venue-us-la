@@ -2,9 +2,14 @@
   "id": 203292149,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Religious St New Orleans LA 70130",
+    "addr:housenumber":"1501",
+    "addr:postcode":"70130",
+    "addr:street":"Religious St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066584,29.933094,-90.066584,29.933094",
     "geom:latitude":29.933094,
     "geom:longitude":-90.066584,
@@ -36,12 +41,13 @@
     "sg:website":"www.monkeyroom.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85831571,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866109,
-        85831571
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,28 +57,20 @@
     "wof:geomhash":"28e3f7ce0e865c7579f51d9887671ecb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866109,
-            "region_id":85688735,
-            "venue_id":203292149
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086693,
-            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":203292149
         }
     ],
     "wof:id":203292149,
-    "wof:lastmodified":1466539371,
+    "wof:lastmodified":1491860952,
     "wof:name":"Monkey Room",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203189899,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 3rd St Gretna LA 70053",
+    "addr:housenumber":"910",
+    "addr:postcode":"70053",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066171,29.915761,-90.066171,29.915761",
     "geom:latitude":29.915761,
     "geom:longitude":-90.066171,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891219,
+        102191575,
+        1108739491,
         85633793,
-        85948301,
-        102083179,
-        85891219
+        85948111,
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"831e2b332a8391a022a3ae35201afb90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083179,
-            "locality_id":85948301,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85891219,
             "region_id":85688735,
             "venue_id":203189899
         }
     ],
     "wof:id":203189899,
-    "wof:lastmodified":1466541004,
+    "wof:lastmodified":1491919428,
     "wof:name":"Mapp Construction",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",

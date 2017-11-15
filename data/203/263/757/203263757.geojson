@@ -2,9 +2,14 @@
   "id": 203263757,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 Burgundy St New Orleans LA 70117",
+    "addr:housenumber":"4301",
+    "addr:postcode":"70117",
+    "addr:street":"Burgundy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.033172,29.962923,-90.033172,29.962923",
     "geom:latitude":29.962923,
     "geom:longitude":-90.033172,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866089,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"2555cbc0c2da90d1a15adee2f03aa357",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866089,
             "region_id":85688735,
             "venue_id":203263757
         }
     ],
     "wof:id":203263757,
-    "wof:lastmodified":1466539337,
+    "wof:lastmodified":1486688358,
     "wof:name":"B J's",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",

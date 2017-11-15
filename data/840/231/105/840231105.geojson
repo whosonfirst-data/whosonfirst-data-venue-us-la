@@ -2,9 +2,14 @@
   "id": 840231105,
   "type": "Feature",
   "properties": {
+    "addr:full":"2621 General Meyer Ave New Orleans LA 70114",
+    "addr:housenumber":"2621",
+    "addr:postcode":"70114",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.027589,29.942487,-90.027589,29.942487",
     "geom:latitude":29.942487,
     "geom:longitude":-90.027589,
@@ -28,7 +33,15 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fmNgMWcHD9uiRBy81daXM_29.942487_-90.027589@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463524135,
     "wof:geomhash":"0fdf21c6aa44286c6a0af6deedc3bfc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840231105
+        }
+    ],
     "wof:id":840231105,
-    "wof:lastmodified":1466541702,
+    "wof:lastmodified":1486688945,
     "wof:name":"Touro Shakespeare Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

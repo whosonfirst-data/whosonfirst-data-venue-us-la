@@ -2,6 +2,10 @@
   "id": 840114301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 Hwy 1207 Deville LA 71328",
+    "addr:housenumber":"1022",
+    "addr:postcode":"1207;71328",
+    "addr:street":"Hwy;Deville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840114301,
-    "wof:lastmodified":1466540801,
+    "wof:lastmodified":1472624417,
     "wof:name":"Saint John Catholic Hall",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

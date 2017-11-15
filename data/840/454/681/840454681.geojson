@@ -2,14 +2,20 @@
   "id": 840454681,
   "type": "Feature",
   "properties": {
+    "addr:full":"635 W Prien Lake Rd Lake Charles LA 70601",
+    "addr:housenumber":"635",
+    "addr:postcode":"70601",
+    "addr:street":"W Prien Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.228798,30.19826,-93.228798,30.19826",
     "geom:latitude":30.19826,
     "geom:longitude":-93.228798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"635 W Prien Lake Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k7wdhoQ2wyTLxwf9g0gjY_30.198260_-93.228798@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533492,
-    "wof:geomhash":"38caa176d30a51784880aaa452538756",
+    "wof:geomhash":"5b6024319da0ee42f3d69b3ac1e667af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840454681,
-    "wof:lastmodified":1466545463,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

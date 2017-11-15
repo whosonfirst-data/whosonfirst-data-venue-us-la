@@ -2,9 +2,14 @@
   "id": 840016735,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 Perdido St New Orleans LA 70119",
+    "addr:housenumber":"3101",
+    "addr:postcode":"70119",
+    "addr:street":"Perdido St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.097867,29.962038,-90.097867,29.962038",
     "geom:latitude":29.962038,
     "geom:longitude":-90.097867,
@@ -27,7 +32,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85869483,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OD292BzMnwBakregA6bG2_29.962038_-90.097867@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463519344,
     "wof:geomhash":"ee477514030502357875a5cf104b08a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85869483,
+            "region_id":85688735,
+            "venue_id":840016735
+        }
+    ],
     "wof:id":840016735,
-    "wof:lastmodified":1466539746,
+    "wof:lastmodified":1486688879,
     "wof:name":"T & S Truck Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

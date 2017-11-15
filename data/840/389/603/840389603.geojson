@@ -2,14 +2,20 @@
   "id": 840389603,
   "type": "Feature",
   "properties": {
+    "addr:full":"2715 Gadsden Ave Kenner LA 70062",
+    "addr:housenumber":"2715",
+    "addr:postcode":"70062",
+    "addr:street":"Gadsden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.263398,30.00534,-90.263398,30.00534",
     "geom:latitude":30.00534,
     "geom:longitude":-90.263398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2715 Gadsden Ave",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125155037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sNXZujRCoYJ49Ixvegx56_30.005340_-90.263398@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530784,
-    "wof:geomhash":"b7de23ebd9ea5ad2bae8d50fea83300f",
+    "wof:geomhash":"b64252a12fc66406b461b70db736b12e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840389603,
-    "wof:lastmodified":1466544270,
+    "wof:lastmodified":1510694953,
     "wof:name":"New Hope Community Church",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

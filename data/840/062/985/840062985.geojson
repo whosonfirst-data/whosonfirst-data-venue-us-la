@@ -2,9 +2,14 @@
   "id": 840062985,
   "type": "Feature",
   "properties": {
+    "addr:full":"740 Dante St New Orleans LA 70118",
+    "addr:housenumber":"740",
+    "addr:postcode":"70118",
+    "addr:street":"Dante St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.134789,29.945817,-90.134789,29.945817",
     "geom:latitude":29.945817,
     "geom:longitude":-90.134789,
@@ -27,7 +32,16 @@
         "psychotherapist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JQtMoHyxZI9CZ9jd4oj6a_29.945817_-90.134789@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463520336,
     "wof:geomhash":"0df71574e19267279c49248d8ef1dbfc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840062985
+        }
+    ],
     "wof:id":840062985,
-    "wof:lastmodified":1466540327,
+    "wof:lastmodified":1486689235,
     "wof:name":"Bein Philip Bcsw",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

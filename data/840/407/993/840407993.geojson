@@ -2,14 +2,20 @@
   "id": 840407993,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 W Mary Lee St Plain Dealing LA 71064",
+    "addr:housenumber":"302",
+    "addr:postcode":"71064",
+    "addr:street":"W Mary Lee St Plain",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.703523,32.906565,-93.703523,32.906565",
     "geom:latitude":32.906565,
     "geom:longitude":-93.703523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 W Mary Lee St",
     "sg:city":"Plain Dealing",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85808045,
         102084883
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oInCW3H1zDtF4abKwByvO_32.906565_-93.703523@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531544,
-    "wof:geomhash":"8d415cc4596edf89788f235d5c9e8d3c",
+    "wof:geomhash":"6b936ca8de416dab32b85f036954c35f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840407993,
-    "wof:lastmodified":1466544413,
+    "wof:lastmodified":1510619441,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85808045,
     "wof:placetype":"venue",

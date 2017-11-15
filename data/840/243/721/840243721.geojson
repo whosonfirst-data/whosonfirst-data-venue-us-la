@@ -2,9 +2,14 @@
   "id": 840243721,
   "type": "Feature",
   "properties": {
+    "addr:full":"3420 Sullen Pl New Orleans LA 70131",
+    "addr:housenumber":"3420",
+    "addr:postcode":"70131",
+    "addr:street":"Sullen Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.98571,29.917881,-89.98571,29.917881",
     "geom:latitude":29.917881,
     "geom:longitude":-89.98571,
@@ -24,7 +29,16 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521765,
+        102191575,
+        1108746803,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108739497
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GjYL3N7IimKwPZh3Hx0FS_29.917881_-89.985710@1294127638"
@@ -32,11 +46,32 @@
     "wof:country":"US",
     "wof:created":1463524443,
     "wof:geomhash":"1f0c7ee36a31335823bb6c1d41d92a03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840243721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840243721
+        }
+    ],
     "wof:id":840243721,
-    "wof:lastmodified":1466541881,
+    "wof:lastmodified":1486688967,
     "wof:name":"Cinderella Day Care & Preschol",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

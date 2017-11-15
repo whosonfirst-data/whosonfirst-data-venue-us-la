@@ -2,14 +2,20 @@
   "id": 840141121,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 Florida Blvd Baton Rouge LA 70806",
+    "addr:housenumber":"5005",
+    "addr:postcode":"70806",
+    "addr:street":"Florida Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.137572,30.451035,-91.137572,30.451035",
     "geom:latitude":30.451035,
     "geom:longitude":-91.137572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5005 Florida Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85876073
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27e6eoQYrXKniHPy3ayOeV_30.451035_-91.137572@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522070,
-    "wof:geomhash":"09ea67886343fcbe6e32a63cb168614c",
+    "wof:geomhash":"310214f5758988e9755324cf14d185fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840141121,
-    "wof:lastmodified":1466539400,
+    "wof:lastmodified":1510699574,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85876073,
     "wof:placetype":"venue",

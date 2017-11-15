@@ -2,9 +2,14 @@
   "id": 840401609,
   "type": "Feature",
   "properties": {
+    "addr:full":"4711 Sherwood Dr New Orleans LA 70128",
+    "addr:housenumber":"4711",
+    "addr:postcode":"70128",
+    "addr:street":"Sherwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.951968,30.026108,-89.951968,30.026108",
     "geom:latitude":30.026108,
     "geom:longitude":-89.951968,
@@ -28,7 +33,15 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ModpPrIGK0rN8rg5ZMCUv_30.026108_-89.951968@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463531272,
     "wof:geomhash":"89d2679434a60a38eeded75bb3802ec7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840401609
+        }
+    ],
     "wof:id":840401609,
-    "wof:lastmodified":1466544494,
+    "wof:lastmodified":1486688746,
     "wof:name":"Professional Tax Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840356543,
   "type": "Feature",
   "properties": {
+    "addr:full":"9030 Lake Forest Blvd New Orleans LA 70127",
+    "addr:housenumber":"9030",
+    "addr:postcode":"70127",
+    "addr:street":"Lake Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.986087,30.028648,-89.986087,30.028648",
     "geom:latitude":30.028648,
     "geom:longitude":-89.986087,
@@ -27,7 +32,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855781,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72j11MITdpZ81orCQzdkKK_30.028648_-89.986087@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463529234,
     "wof:geomhash":"d503b454edf24b85f1dbcbddc55fca44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
+            "region_id":85688735,
+            "venue_id":840356543
+        }
+    ],
     "wof:id":840356543,
-    "wof:lastmodified":1466543560,
+    "wof:lastmodified":1486688247,
     "wof:name":"Tender Wanders Day Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

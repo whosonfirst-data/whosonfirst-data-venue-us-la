@@ -2,14 +2,20 @@
   "id": 840100619,
   "type": "Feature",
   "properties": {
+    "addr:full":"1960 Laurel St Shreveport LA 71103",
+    "addr:housenumber":"1960",
+    "addr:postcode":"71103",
+    "addr:street":"Laurel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.770343,32.495775,-93.770343,32.495775",
     "geom:latitude":32.495775,
     "geom:longitude":-93.770343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1960 Laurel St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85814935
     ],
+    "wof:brand_id":1125159621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zw9ve2LrZAbF158aYCjVI_32.495775_-93.770343@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521227,
-    "wof:geomhash":"77a33b65a3f3f2b86deb3958e0841686",
+    "wof:geomhash":"bc43b2f3037460e9ee2183fa74f0ebd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840100619,
-    "wof:lastmodified":1466540715,
+    "wof:lastmodified":1510696712,
     "wof:name":"Mt Sinai Baptist Church",
     "wof:parent_id":85814935,
     "wof:placetype":"venue",

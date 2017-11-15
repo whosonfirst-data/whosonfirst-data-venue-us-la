@@ -2,14 +2,20 @@
   "id": 840316397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Parkview Dr New Iberia LA 70563",
+    "addr:housenumber":"1000",
+    "addr:postcode":"70563",
+    "addr:street":"Parkview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.803277,30.002976,-91.803277,30.002976",
     "geom:latitude":30.002976,
     "geom:longitude":-91.803277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Parkview Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125152535,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cXAm7jXfYtxEwZ3e5SFSG_30.002976_-91.803277@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527279,
-    "wof:geomhash":"52dab30ba31535fd71835372d8efdb65",
+    "wof:geomhash":"ddefe5b4fdd7f0a600907b8bd2442b1f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840316397,
-    "wof:lastmodified":1466542843,
+    "wof:lastmodified":1510696759,
     "wof:name":"Monumental Life Insurance Co",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

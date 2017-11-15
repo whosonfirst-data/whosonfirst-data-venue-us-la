@@ -2,14 +2,20 @@
   "id": 840419695,
   "type": "Feature",
   "properties": {
+    "addr:full":"13380 Coursey Blvd Baton Rouge LA 70816",
+    "addr:housenumber":"13380",
+    "addr:postcode":"70816",
+    "addr:street":"Coursey Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.032748,30.409264,-91.032748,30.409264",
     "geom:latitude":30.409264,
     "geom:longitude":-91.032748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13380 Coursey Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85848353
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sxOO8XzdW4WwmiOaQ0Nqc_30.409264_-91.032748@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532015,
-    "wof:geomhash":"d693df67bdbf486d2701db7a3a4ff3f9",
+    "wof:geomhash":"dd3ba3f135c99d027c091a5cce3b15ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840419695,
-    "wof:lastmodified":1466544858,
+    "wof:lastmodified":1510694223,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85848353,
     "wof:placetype":"venue",

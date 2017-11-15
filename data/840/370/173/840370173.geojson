@@ -2,14 +2,20 @@
   "id": 840370173,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 2nd St Franklin LA 70538",
+    "addr:housenumber":"135",
+    "addr:postcode":"70538",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.499528,29.783968,-91.499528,29.783968",
     "geom:latitude":29.783968,
     "geom:longitude":-91.499528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 2nd St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125154483,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xRW3xmptxnV0GIohkqF3m_29.783968_-91.499528@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529906,
-    "wof:geomhash":"094828e4e3d12ce96316ef5f75175a01",
+    "wof:geomhash":"69e332578c243032f1188f233d80747c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840370173,
-    "wof:lastmodified":1466543779,
+    "wof:lastmodified":1510695956,
     "wof:name":"Shear Designs",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

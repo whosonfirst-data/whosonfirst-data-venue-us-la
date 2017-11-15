@@ -2,14 +2,20 @@
   "id": 840225509,
   "type": "Feature",
   "properties": {
+    "addr:full":"16970 Jefferson Hwy Baton Rouge LA 70817",
+    "addr:housenumber":"16970",
+    "addr:postcode":"70817",
+    "addr:street":"Jefferson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.001618,30.361959,-91.001618,30.361959",
     "geom:latitude":30.361959,
     "geom:longitude":-91.001618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16970 Jefferson Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087229,
         85824817
     ],
+    "wof:brand_id":1125159069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50MNMBTzsIMjBIpS6dLRzu_30.361959_-91.001618@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523965,
-    "wof:geomhash":"d9d31c3804938947893cf1b2bb58d9ed",
+    "wof:geomhash":"48eca2f921dc3ca24bd6052bc8364d10",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840225509,
-    "wof:lastmodified":1466541676,
+    "wof:lastmodified":1510694261,
     "wof:name":"Prestige Cleaners",
     "wof:parent_id":85824817,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840446629,
   "type": "Feature",
   "properties": {
+    "addr:full":"7676 Airline Hwy Baton Rouge LA 70814",
+    "addr:housenumber":"7676",
+    "addr:postcode":"70814",
+    "addr:street":"Airline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.109959,30.472905,-91.109959,30.472905",
     "geom:latitude":30.472905,
     "geom:longitude":-91.109959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7676 Airline Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087229,
         85876071
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OGQzpiAIDDVS4zXaZvCHD_30.472905_-91.109959@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533150,
-    "wof:geomhash":"c4cefb856472a10db7212731cd04aa9c",
+    "wof:geomhash":"f7846ab0e11a347abf24ad5a34bb22d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840446629,
-    "wof:lastmodified":1466545348,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85876071,
     "wof:placetype":"venue",

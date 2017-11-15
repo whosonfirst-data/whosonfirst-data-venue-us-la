@@ -2,9 +2,14 @@
   "id": 840448739,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"4401",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.0214,30.0144,-90.0214,30.0144",
     "geom:latitude":30.0144,
     "geom:longitude":-90.0214,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.acehardware.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dZQ8fUgn6OU1Bdwkp87dg_30.014985_-90.021356@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463533238,
     "wof:geomhash":"7bda25a7e510ba83e6fc7f3921aae8f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840448739
+        }
+    ],
     "wof:id":840448739,
-    "wof:lastmodified":1466545450,
+    "wof:lastmodified":1486687688,
     "wof:name":"Eddie's Ace Hardware",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

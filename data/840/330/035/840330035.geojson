@@ -2,9 +2,14 @@
   "id": 840330035,
   "type": "Feature",
   "properties": {
+    "addr:full":"830 Constantinople St New Orleans LA 70115",
+    "addr:housenumber":"830",
+    "addr:postcode":"70115",
+    "addr:street":"Constantinople St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.096889,29.920832,-90.096889,29.920832",
     "geom:latitude":29.920832,
     "geom:longitude":-90.096889,
@@ -27,7 +32,15 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hVCRLkyAwwQ5DqB6lecuM_29.920832_-90.096889@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463527949,
     "wof:geomhash":"a895574aea34f14310ee7aa4df246e64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840330035
+        }
+    ],
     "wof:id":840330035,
-    "wof:lastmodified":1466543090,
+    "wof:lastmodified":1486689032,
     "wof:name":"French Qtr MGT No LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

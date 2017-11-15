@@ -2,14 +2,20 @@
   "id": 840449305,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 E Judge Perez Dr Chalmette LA 70043",
+    "addr:housenumber":"2001",
+    "addr:postcode":"70043",
+    "addr:street":"E Judge Perez Dr Chalmette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.944603,29.937799,-89.944603,29.937799",
     "geom:latitude":29.937799,
     "geom:longitude":-89.944603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2001 E Judge Perez Dr",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082447,
         85853675
     ],
+    "wof:brand_id":1125150923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IMkQPtmrPHJatTcnB520F_29.937840_-89.944743@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533266,
-    "wof:geomhash":"774105f2bd58f342ba9481b2f595608e",
+    "wof:geomhash":"d7cb84c6f3987cfc0e0e4dc9bb34d785",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840449305,
-    "wof:lastmodified":1466545296,
+    "wof:lastmodified":1510694584,
     "wof:name":"Modern Nails",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

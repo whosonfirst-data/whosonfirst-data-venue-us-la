@@ -2,14 +2,20 @@
   "id": 840292289,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Williams Blvd Kenner LA 70062",
+    "addr:housenumber":"2201",
+    "addr:postcode":"70062",
+    "addr:street":"Williams Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.24131,29.997617,-90.24131,29.997617",
     "geom:latitude":29.997617,
     "geom:longitude":-90.24131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 Williams Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125155779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pF99vJ7sYBGiGjdcCNvBZ_29.997617_-90.241310@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526162,
-    "wof:geomhash":"9d24f87d1e35b46456c451572c96bf03",
+    "wof:geomhash":"0c5f284fcc76402d6b7378cf72e72136",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840292289,
-    "wof:lastmodified":1466542425,
+    "wof:lastmodified":1510695340,
     "wof:name":"Laundry Basket",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

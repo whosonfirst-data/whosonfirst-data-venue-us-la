@@ -2,14 +2,20 @@
   "id": 203385739,
   "type": "Feature",
   "properties": {
+    "addr:full":"9478 Mansfield Rd Shreveport LA 71118",
+    "addr:housenumber":"9478",
+    "addr:postcode":"71118",
+    "addr:street":"Mansfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.814339,32.39053,-93.814339,32.39053",
     "geom:latitude":32.39053,
     "geom:longitude":-93.814339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9478 Mansfield Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087235,
         85880999
     ],
+    "wof:brand_id":1125158699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZtGS4w3puaYXognNStAwy_32.390530_-93.814339@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"146571edfb9c3595a50094d35098dc46",
+    "wof:geomhash":"f4b7a36e19fedde577741362c1a0dcf2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":203385739,
-    "wof:lastmodified":1466539515,
+    "wof:lastmodified":1510613456,
     "wof:name":"Allstate Insurance Companies",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",

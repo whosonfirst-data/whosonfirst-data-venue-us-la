@@ -2,9 +2,14 @@
   "id": 840128761,
   "type": "Feature",
   "properties": {
+    "addr:full":"1259 Shirley Dr New Orleans LA 70114",
+    "addr:housenumber":"1259",
+    "addr:postcode":"70114",
+    "addr:street":"Shirley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.031731,29.941718,-90.031731,29.941718",
     "geom:latitude":29.941718,
     "geom:longitude":-90.031731,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2748UMILqLtzAMk58SgqnX_29.941718_-90.031731@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463521825,
     "wof:geomhash":"1028722a6f2ba8be68122035bd897ea0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840128761
+        }
+    ],
     "wof:id":840128761,
-    "wof:lastmodified":1466540970,
+    "wof:lastmodified":1486688945,
     "wof:name":"Willies Taxes & Bookeeping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203244643,
   "type": "Feature",
   "properties": {
+    "addr:full":"2975 Behrman Hwy New Orleans LA 70114",
+    "addr:housenumber":"",
+    "addr:postcode":"2975;70114",
+    "addr:street":"Behrman Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.029472,29.922561,-90.029472,29.922561",
     "geom:latitude":29.922561,
     "geom:longitude":-90.029472,
@@ -39,10 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +60,20 @@
     "wof:geomhash":"755cd87c28ffb862eaeff75967886d31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203244643
         }
     ],
     "wof:id":203244643,
-    "wof:lastmodified":1466539310,
+    "wof:lastmodified":1486689103,
     "wof:name":"Kay's Montessori School",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

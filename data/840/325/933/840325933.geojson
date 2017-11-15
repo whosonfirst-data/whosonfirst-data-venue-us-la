@@ -2,14 +2,20 @@
   "id": 840325933,
   "type": "Feature",
   "properties": {
+    "addr:full":"915 N Morrison Blvd Hammond LA 70401",
+    "addr:housenumber":"915",
+    "addr:postcode":"70401",
+    "addr:street":"N Morrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.482665,30.509804,-90.482665,30.509804",
     "geom:latitude":30.509804,
     "geom:longitude":-90.482665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"915 N Morrison Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102191575,
         85857619
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Fkyiggxp6DexaWAURCxWx_30.509804_-90.482665@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527764,
-    "wof:geomhash":"af403e9c4ea18f8c1d4a844e637759db",
+    "wof:geomhash":"4888bce6c1fbf5f310ed27443d23f915",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":840325933,
-    "wof:lastmodified":1466543124,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

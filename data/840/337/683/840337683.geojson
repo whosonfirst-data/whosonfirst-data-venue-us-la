@@ -2,9 +2,14 @@
   "id": 840337683,
   "type": "Feature",
   "properties": {
+    "addr:full":"5501 Edenbord Rd New Orleans LA 70127",
+    "addr:housenumber":"",
+    "addr:postcode":"5501;70127",
+    "addr:street":"Edenbord Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.983249,30.028139,-89.983249,30.028139",
     "geom:latitude":30.028139,
     "geom:longitude":-89.983249,
@@ -28,7 +33,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855781,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35GYQvfU9zZjj1sVS9ic2z_30.028139_-89.983249@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463528295,
     "wof:geomhash":"6412dbe8e2b66e8e5d64e200993839e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
+            "region_id":85688735,
+            "venue_id":840337683
+        }
+    ],
     "wof:id":840337683,
-    "wof:lastmodified":1466543277,
+    "wof:lastmodified":1486688260,
     "wof:name":"NGNG Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

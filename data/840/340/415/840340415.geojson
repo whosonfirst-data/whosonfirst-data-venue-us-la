@@ -2,9 +2,14 @@
   "id": 840340415,
   "type": "Feature",
   "properties": {
+    "addr:full":"4410 San Remo Dr New Orleans LA 70129",
+    "addr:housenumber":"4410",
+    "addr:postcode":"70129",
+    "addr:street":"San Remo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.81645,30.06973,-89.81645,30.06973",
     "geom:latitude":30.06973,
     "geom:longitude":-89.81645,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869397,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85869397
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85869397,
             "region_id":85688735,
             "venue_id":840340415
         }
     ],
     "wof:id":840340415,
-    "wof:lastmodified":1466543296,
+    "wof:lastmodified":1486687627,
     "wof:name":"Rebennack Studio",
     "wof:parent_id":85869397,
     "wof:placetype":"venue",

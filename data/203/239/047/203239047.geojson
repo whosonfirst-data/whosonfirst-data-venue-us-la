@@ -2,9 +2,14 @@
   "id": 203239047,
   "type": "Feature",
   "properties": {
+    "addr:full":"3112 E Saint Bernard Hwy Meraux LA 70075",
+    "addr:housenumber":"3112",
+    "addr:postcode":"70075",
+    "addr:street":"E Saint Bernard Hwy Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.93409,29.929975,-89.93409,29.929975",
     "geom:latitude":29.929975,
     "geom:longitude":-89.93409,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -39,7 +45,7 @@
     "wof:geomhash":"1c728a7a8cd2a24b4f4762660fa52d07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":203239047,
-    "wof:lastmodified":1466539299,
+    "wof:lastmodified":1491910640,
     "wof:name":"Meraux Quick Stop",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840286275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1903 Poydras St New Orleans LA 70112",
+    "addr:housenumber":"1903",
+    "addr:postcode":"70112",
+    "addr:street":"Poydras St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.083818,29.954336,-90.083818,29.954336",
     "geom:latitude":29.954336,
     "geom:longitude":-90.083818,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866071,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866073
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866073,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866071,
             "region_id":85688735,
             "venue_id":840286275
         }
     ],
     "wof:id":840286275,
-    "wof:lastmodified":1466542290,
+    "wof:lastmodified":1491861137,
     "wof:name":"Signs Now",
-    "wof:parent_id":85866073,
+    "wof:parent_id":85866071,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

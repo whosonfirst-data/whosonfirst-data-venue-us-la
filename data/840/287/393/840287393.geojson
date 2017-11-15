@@ -2,9 +2,14 @@
   "id": 840287393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1041 S Jefferson Davis Pkwy New Orleans LA 70125",
+    "addr:housenumber":"1041",
+    "addr:postcode":"70125",
+    "addr:street":"S Jefferson Davis Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.103508,29.959456,-90.103508,29.959456",
     "geom:latitude":29.959456,
     "geom:longitude":-90.103508,
@@ -27,7 +32,15 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866077,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e1a6DLlglXmYjQEbmPXWh_29.959456_-90.103508@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463525956,
     "wof:geomhash":"3aaebce6fdb7b131c93aa63fadd41835",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866077,
+            "region_id":85688735,
+            "venue_id":840287393
+        }
+    ],
     "wof:id":840287393,
-    "wof:lastmodified":1466542423,
+    "wof:lastmodified":1486688316,
     "wof:name":"World Delivery Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840233689,
   "type": "Feature",
   "properties": {
+    "addr:full":"517 Harrison St Monroe LA 71201",
+    "addr:housenumber":"517",
+    "addr:postcode":"71201",
+    "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.112512,32.503618,-92.112512,32.503618",
     "geom:latitude":32.503618,
     "geom:longitude":-92.112512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"517 Harrison St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qjXbczVqqUGEWvG1ximEi_32.503618_-92.112512@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524213,
-    "wof:geomhash":"a798343461245ab74f0e7ac263c7cd05",
+    "wof:geomhash":"b432e5cdc1a584ae89ccef5b42df1c93",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840233689,
-    "wof:lastmodified":1466541752,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

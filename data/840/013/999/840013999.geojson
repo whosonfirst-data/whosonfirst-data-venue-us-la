@@ -2,9 +2,14 @@
   "id": 840013999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1477 N Robertson St New Orleans LA 70116",
+    "addr:housenumber":"1477",
+    "addr:postcode":"70116",
+    "addr:street":"N Robertson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.06662,29.969957,-90.06662,29.969957",
     "geom:latitude":29.969957,
     "geom:longitude":-90.06662,
@@ -24,7 +29,16 @@
     "sg:postcode":"70116",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VJiFg61iuOkm4Ptp2gDnO_29.969957_-90.066620@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463519290,
     "wof:geomhash":"2445b460b953617dc53a87c6c794ed9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840013999
+        }
+    ],
     "wof:id":840013999,
-    "wof:lastmodified":1466539787,
+    "wof:lastmodified":1486689216,
     "wof:name":"Christian Mssion Baptst Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

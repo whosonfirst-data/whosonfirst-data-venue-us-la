@@ -2,9 +2,14 @@
   "id": 840102875,
   "type": "Feature",
   "properties": {
+    "addr:full":"3112 5th St Metairie LA 70002",
+    "addr:housenumber":"3112",
+    "addr:postcode":"70002",
+    "addr:street":"5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.154426,30.018682,-90.154426,30.018682",
     "geom:latitude":30.018682,
     "geom:longitude":-90.154426,
@@ -31,6 +36,9 @@
         85688735,
         102191575,
         85633793,
+        85948111,
+        102086693,
+        85855393,
         85948757,
         102083179,
         85806017
@@ -46,6 +54,15 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85855393,
+            "region_id":85688735,
+            "venue_id":840102875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102083179,
             "locality_id":85948757,
             "neighbourhood_id":85806017,
@@ -54,9 +71,9 @@
         }
     ],
     "wof:id":840102875,
-    "wof:lastmodified":1466541073,
+    "wof:lastmodified":1491910657,
     "wof:name":"Bonner Group",
-    "wof:parent_id":85806017,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

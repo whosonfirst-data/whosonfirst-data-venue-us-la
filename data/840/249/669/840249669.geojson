@@ -2,9 +2,14 @@
   "id": 840249669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2436 Ursulines Ave New Orleans LA 70119",
+    "addr:housenumber":"2436",
+    "addr:postcode":"70119",
+    "addr:street":"Ursulines Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077306,29.971794,-90.077306,29.971794",
     "geom:latitude":29.971794,
     "geom:longitude":-90.077306,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891223,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866069
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866069,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85891223,
             "region_id":85688735,
             "venue_id":840249669
         }
     ],
     "wof:id":840249669,
-    "wof:lastmodified":1466541872,
+    "wof:lastmodified":1486688921,
     "wof:name":"Ideal Food Store",
-    "wof:parent_id":85866069,
+    "wof:parent_id":85891223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

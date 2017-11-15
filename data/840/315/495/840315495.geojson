@@ -2,9 +2,14 @@
   "id": 840315495,
   "type": "Feature",
   "properties": {
+    "addr:full":"3920 General Meyer Ave New Orleans LA 70114",
+    "addr:housenumber":"3920",
+    "addr:postcode":"70114",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.013605,29.936665,-90.013605,29.936665",
     "geom:latitude":29.936665,
     "geom:longitude":-90.013605,
@@ -24,7 +29,16 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fzjSHTvPYr7O9XqyWQI4q_29.936665_-90.013605@1294127638"
@@ -32,11 +46,32 @@
     "wof:country":"US",
     "wof:created":1463527238,
     "wof:geomhash":"08a3633745819fd53bc302a2de545357",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840315495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840315495
+        }
+    ],
     "wof:id":840315495,
-    "wof:lastmodified":1466542892,
+    "wof:lastmodified":1486689003,
     "wof:name":"Cloud Lawn Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

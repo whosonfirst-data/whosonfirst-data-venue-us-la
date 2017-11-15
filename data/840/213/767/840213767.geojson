@@ -2,9 +2,14 @@
   "id": 840213767,
   "type": "Feature",
   "properties": {
+    "addr:full":"7534 Plum St New Orleans LA 70118",
+    "addr:housenumber":"7534",
+    "addr:postcode":"70118",
+    "addr:street":"Plum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.124353,29.944094,-90.124353,29.944094",
     "geom:latitude":29.944094,
     "geom:longitude":-90.124353,
@@ -27,7 +32,15 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40y6ck1wxqXS8MnAPWwVKf_29.944094_-90.124353@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463523701,
     "wof:geomhash":"06aadbcb5afd97dfa6390452b5987a97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840213767
+        }
+    ],
     "wof:id":840213767,
-    "wof:lastmodified":1466541635,
+    "wof:lastmodified":1486689019,
     "wof:name":"Joseph Bosse",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

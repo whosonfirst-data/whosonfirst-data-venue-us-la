@@ -2,14 +2,20 @@
   "id": 840113513,
   "type": "Feature",
   "properties": {
+    "addr:full":"9526 Cortana Pl Baton Rouge LA 70815",
+    "addr:housenumber":"9526",
+    "addr:postcode":"70815",
+    "addr:street":"Cortana Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.096749,30.459046,-91.096749,30.459046",
     "geom:latitude":30.459046,
     "geom:longitude":-91.096749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9526 Cortana Pl",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85822275
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D5GfQJpdywkWxysdaWZ2k_30.459046_-91.096749@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521496,
-    "wof:geomhash":"452551c51b2ee50f36c5a0bdf58580cf",
+    "wof:geomhash":"bba30d9556544b9db5fac904ab539481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840113513,
-    "wof:lastmodified":1466540815,
+    "wof:lastmodified":1510695762,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85822275,
     "wof:placetype":"venue",

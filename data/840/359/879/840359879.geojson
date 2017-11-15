@@ -2,14 +2,20 @@
   "id": 840359879,
   "type": "Feature",
   "properties": {
+    "addr:full":"1314 Eraste Landry Rd Lafayette LA 70506",
+    "addr:housenumber":"1314",
+    "addr:postcode":"70506",
+    "addr:street":"Eraste Landry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.060415,30.223565,-92.060415,30.223565",
     "geom:latitude":30.223565,
     "geom:longitude":-92.060415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1314 Eraste Landry Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":420575743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51IBcwjckyjhHRtPmhq0tu_30.223565_-92.060415@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529377,
-    "wof:geomhash":"b7650dadfef25265927abfb17133c8fa",
+    "wof:geomhash":"1dcb7bb3abc083c1ea3802e3f774cdd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840359879,
-    "wof:lastmodified":1466543738,
+    "wof:lastmodified":1510602482,
     "wof:name":"Coca-Cola Bottling Co",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

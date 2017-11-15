@@ -2,9 +2,14 @@
   "id": 840319005,
   "type": "Feature",
   "properties": {
+    "addr:full":"8370 Lake Forest Blvd New Orleans LA 70126",
+    "addr:housenumber":"8370",
+    "addr:postcode":"70126",
+    "addr:street":"Lake Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.992296,30.026667,-89.992296,30.026667",
     "geom:latitude":30.026667,
     "geom:longitude":-89.992296,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85855781
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":840319005
         }
     ],
     "wof:id":840319005,
-    "wof:lastmodified":1466542858,
+    "wof:lastmodified":1486687806,
     "wof:name":"Kims Income Tax Service",
     "wof:parent_id":85855781,
     "wof:placetype":"venue",

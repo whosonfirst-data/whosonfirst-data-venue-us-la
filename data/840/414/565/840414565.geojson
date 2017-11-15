@@ -2,9 +2,14 @@
   "id": 840414565,
   "type": "Feature",
   "properties": {
+    "addr:full":"5163 General Degaulle Dr New Orleans LA 70131",
+    "addr:housenumber":"5163",
+    "addr:postcode":"70131",
+    "addr:street":"General Degaulle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.001605,29.912556,-90.001605,29.912556",
     "geom:latitude":29.912556,
     "geom:longitude":-90.001605,
@@ -28,7 +33,15 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a3jLdZjSQS7rQyiLFseT5_29.912556_-90.001605@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463531804,
     "wof:geomhash":"5b4a6f5409209ac21466eb42bf1260de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840414565
+        }
+    ],
     "wof:id":840414565,
-    "wof:lastmodified":1466544681,
+    "wof:lastmodified":1486689098,
     "wof:name":"Fed Ex",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

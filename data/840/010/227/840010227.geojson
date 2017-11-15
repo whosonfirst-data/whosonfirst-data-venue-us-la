@@ -2,14 +2,20 @@
   "id": 840010227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1058 Bethel Rd Frierson LA 71027",
+    "addr:housenumber":"1058",
+    "addr:postcode":"71027",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.7107,32.246353,-93.7107,32.246353",
     "geom:latitude":32.246353,
     "geom:longitude":-93.7107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1058 Bethel Rd",
     "sg:city":"Frierson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084887,
         85813793
     ],
+    "wof:brand_id":420574663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MV9Ovi8QldhtOCQvdJvMh_32.246353_-93.710700@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519213,
-    "wof:geomhash":"ec401334babcdea489fd33a8e3b07837",
+    "wof:geomhash":"63d2a63a20ac6f0a2e8b5d8da2fe0d38",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840010227,
-    "wof:lastmodified":1466539615,
+    "wof:lastmodified":1510604367,
     "wof:name":"Bethel Baptist Church",
     "wof:parent_id":85813793,
     "wof:placetype":"venue",

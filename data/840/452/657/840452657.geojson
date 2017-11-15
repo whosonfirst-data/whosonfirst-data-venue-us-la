@@ -2,14 +2,20 @@
   "id": 840452657,
   "type": "Feature",
   "properties": {
+    "addr:full":"8908 Veterans Memorial Blvd Metairie LA 70003",
+    "addr:housenumber":"8908",
+    "addr:postcode":"70003",
+    "addr:street":"Veterans Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.228033,30.00559,-90.228033,30.00559",
     "geom:latitude":30.00559,
     "geom:longitude":-90.228033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8908 Veterans Memorial Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uOEkf65Q3WC1pb1EprnTP_30.005590_-90.228033@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533409,
-    "wof:geomhash":"d8fb0c14ebafb93260880d12952e178f",
+    "wof:geomhash":"0a615b4f03ceee7d590b8e679df67f31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840452657,
-    "wof:lastmodified":1466545211,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

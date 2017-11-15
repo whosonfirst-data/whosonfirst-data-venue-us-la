@@ -2,14 +2,20 @@
   "id": 840386015,
   "type": "Feature",
   "properties": {
+    "addr:full":"9650 Mansfield Rd Shreveport LA 71118",
+    "addr:housenumber":"9650",
+    "addr:postcode":"71118",
+    "addr:street":"Mansfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.818682,32.383256,-93.818682,32.383256",
     "geom:latitude":32.383256,
     "geom:longitude":-93.818682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9650 Mansfield Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880999
     ],
+    "wof:brand_id":1125159549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29QfhfL1hLNHhfbFlCVnOr_32.383256_-93.818682@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530636,
-    "wof:geomhash":"455273450efd71d096ec7eeb73a05133",
+    "wof:geomhash":"b384f12d3ec27af0a6b3f6f89d6812df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840386015,
-    "wof:lastmodified":1466544125,
+    "wof:lastmodified":1510699960,
     "wof:name":"Family First Mortgage Corp",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",

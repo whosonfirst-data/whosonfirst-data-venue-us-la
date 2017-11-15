@@ -2,9 +2,14 @@
   "id": 840363251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2711 Piety St New Orleans LA 70126",
+    "addr:housenumber":"2711",
+    "addr:postcode":"70126",
+    "addr:street":"Piety St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.03595,29.98548,-90.03595,29.98548",
     "geom:latitude":29.98548,
     "geom:longitude":-90.03595,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521719,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mqjjRdfq7OhZzakuVC5w3_29.985480_-90.035950@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463529530,
     "wof:geomhash":"fd813a943a72377551bc3acce96f519b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420521719,
+            "region_id":85688735,
+            "venue_id":840363251
+        }
+    ],
     "wof:id":840363251,
-    "wof:lastmodified":1466543663,
+    "wof:lastmodified":1486687235,
     "wof:name":"Desire Florida Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

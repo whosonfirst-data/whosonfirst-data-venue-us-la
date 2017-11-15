@@ -2,14 +2,20 @@
   "id": 840335109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Fairfield Ave Shreveport LA 71101",
+    "addr:housenumber":"1525",
+    "addr:postcode":"71101",
+    "addr:street":"Fairfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.752351,32.497367,-93.752351,32.497367",
     "geom:latitude":32.497367,
     "geom:longitude":-93.752351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1525 Fairfield Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85881001
     ],
+    "wof:brand_id":420575587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1orzMKMyBFP1bNjim7potz_32.497367_-93.752351@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528179,
-    "wof:geomhash":"4e8b7d9a2750f58136712cbd125a7498",
+    "wof:geomhash":"0b4383dd276f1db08f41dc3801c33616",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840335109,
-    "wof:lastmodified":1466543105,
+    "wof:lastmodified":1510602890,
     "wof:name":"Revenue Dept",
     "wof:parent_id":85881001,
     "wof:placetype":"venue",

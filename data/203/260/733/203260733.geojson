@@ -2,9 +2,14 @@
   "id": 203260733,
   "type": "Feature",
   "properties": {
+    "addr:full":"713 Royal St New Orleans LA 70116",
+    "addr:housenumber":"713",
+    "addr:postcode":"70116",
+    "addr:street":"Royal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064634,29.958356,-90.064634,29.958356",
     "geom:latitude":29.958356,
     "geom:longitude":-90.064634,
@@ -26,11 +31,13 @@
     "sg:website":"www.gallery713.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"20b4ac88b98d533f4058a58652a3e00f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203260733
         }
     ],
     "wof:id":203260733,
-    "wof:lastmodified":1466539335,
+    "wof:lastmodified":1486686983,
     "wof:name":"Gallery 713",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

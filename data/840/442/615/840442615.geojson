@@ -2,9 +2,14 @@
   "id": 840442615,
   "type": "Feature",
   "properties": {
+    "addr:full":"1318 Teche St New Orleans LA 70114",
+    "addr:housenumber":"1318",
+    "addr:postcode":"70114",
+    "addr:street":"Teche St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051839,29.941419,-90.051839,29.941419",
     "geom:latitude":29.941419,
     "geom:longitude":-90.051839,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a5HEnu9mXyGxw2UO72j9a_29.941419_-90.051839@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463533002,
     "wof:geomhash":"378961a1035ed609dee20e0f330c1b6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840442615
+        }
+    ],
     "wof:id":840442615,
-    "wof:lastmodified":1466545419,
+    "wof:lastmodified":1486689087,
     "wof:name":"Wings & Things",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840309571,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 N Jefferson Ave Port Allen LA 70767",
+    "addr:housenumber":"312",
+    "addr:postcode":"70767",
+    "addr:street":"N Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.205516,30.455355,-91.205516,30.455355",
     "geom:latitude":30.455355,
     "geom:longitude":-91.205516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 N Jefferson Ave",
     "sg:city":"Port Allen",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086695,
         85809421
     ],
+    "wof:brand_id":1125156975,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s6gl85wL53i5XwouVO2au_30.455355_-91.205516@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526978,
-    "wof:geomhash":"98f82ebe07fd60fbe50132b42f7389d5",
+    "wof:geomhash":"415576e73e6233727c37f097f4f5a7a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840309571,
-    "wof:lastmodified":1466542753,
+    "wof:lastmodified":1510699774,
     "wof:name":"Holy Family Catholic Church",
     "wof:parent_id":85809421,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840387799,
   "type": "Feature",
   "properties": {
+    "addr:full":"5752 Bellaire Dr New Orleans LA 70124",
+    "addr:housenumber":"5752",
+    "addr:postcode":"70124",
+    "addr:street":"Bellaire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.122287,29.996766,-90.122287,29.996766",
     "geom:latitude":29.996766,
     "geom:longitude":-90.122287,
@@ -24,7 +29,15 @@
     "sg:postcode":"70124",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746825,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61qtgW6Kvx7CR7MVFweNq5_29.996766_-90.122287@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463530709,
     "wof:geomhash":"35edebf23833d417796542f46e58cb23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746825,
+            "region_id":85688735,
+            "venue_id":840387799
+        }
+    ],
     "wof:id":840387799,
-    "wof:lastmodified":1466544281,
+    "wof:lastmodified":1486689065,
     "wof:name":"Bosworth Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840294443,
   "type": "Feature",
   "properties": {
+    "addr:full":"3130 Mercedes Dr Monroe LA 71201",
+    "addr:housenumber":"3130",
+    "addr:postcode":"71201",
+    "addr:street":"Mercedes Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.090093,32.527127,-92.090093,32.527127",
     "geom:latitude":32.527127,
     "geom:longitude":-92.090093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3130 Mercedes Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":420574967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xA1E3GFNTyc04SyP0pA2j_32.527127_-92.090093@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526254,
-    "wof:geomhash":"12dcd637b22aaf52d6a303482f0fad04",
+    "wof:geomhash":"834faa8773d7ac0df8ccdb0495917364",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840294443,
-    "wof:lastmodified":1466542598,
+    "wof:lastmodified":1510619647,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

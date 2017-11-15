@@ -2,6 +2,10 @@
   "id": 840027469,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 E University Ave Lafayette LA 70503",
+    "addr:housenumber":"900",
+    "addr:postcode":"70503",
+    "addr:street":"E University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840027469,
-    "wof:lastmodified":1466539835,
+    "wof:lastmodified":1472624316,
     "wof:name":"Lafayette Police Accidents",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

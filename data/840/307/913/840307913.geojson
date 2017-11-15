@@ -2,14 +2,20 @@
   "id": 840307913,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 Ruth St Sulphur LA 70663",
+    "addr:housenumber":"802",
+    "addr:postcode":"70663",
+    "addr:street":"Ruth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.376273,30.231342,-93.376273,30.231342",
     "geom:latitude":30.231342,
     "geom:longitude":-93.376273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"802 Ruth St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":420574285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kfFneFZzXN233dxRohFgf_30.231342_-93.376273@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526891,
-    "wof:geomhash":"9be2555e7344801555548ee10d1455f2",
+    "wof:geomhash":"315c19759f656870b2ded77b0bea9fd3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840307913,
-    "wof:lastmodified":1466542681,
+    "wof:lastmodified":1510603882,
     "wof:name":"Shelter Insurance",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

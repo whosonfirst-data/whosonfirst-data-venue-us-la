@@ -2,14 +2,20 @@
   "id": 840453271,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"624",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.134032,29.943346,-90.134032,29.943346",
     "geom:latitude":29.943346,
     "geom:longitude":-90.134032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"624 S Carrollton Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -30,19 +36,41 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60K9Vl5ovXCBn1uKSQqMoY_29.943346_-90.134032@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533435,
-    "wof:geomhash":"549eedb489e48df5237160c639068331",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97bd63ef10738cfd3e34b9e3565f9f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840453271
+        }
+    ],
     "wof:id":840453271,
-    "wof:lastmodified":1466545360,
+    "wof:lastmodified":1510601935,
     "wof:name":"Cold Stone Creamery",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

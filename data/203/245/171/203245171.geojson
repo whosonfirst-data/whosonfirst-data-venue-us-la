@@ -2,9 +2,14 @@
   "id": 203245171,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Odeon Ave New Orleans LA 70114",
+    "addr:housenumber":"1100",
+    "addr:postcode":"70114",
+    "addr:street":"Odeon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.022499,29.943501,-90.022499,29.943501",
     "geom:latitude":29.943501,
     "geom:longitude":-90.022499,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746805,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"9db6357183aa5d6d1af19e6ccce4316d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
             "region_id":85688735,
             "venue_id":203245171
         }
     ],
     "wof:id":203245171,
-    "wof:lastmodified":1466539304,
+    "wof:lastmodified":1486688991,
     "wof:name":"St Joseph Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203281127,
   "type": "Feature",
   "properties": {
+    "addr:full":"6759 Tara Ln New Orleans LA 70127",
+    "addr:housenumber":"6759",
+    "addr:postcode":"70127",
+    "addr:street":"Tara Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.984815,30.030134,-89.984815,30.030134",
     "geom:latitude":30.030134,
     "geom:longitude":-89.984815,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85855781,
+        102191575,
+        1108739495,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"b3715b7ffa5fa56cdf4237c94872544d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
             "region_id":85688735,
             "venue_id":203281127
         }
     ],
     "wof:id":203281127,
-    "wof:lastmodified":1466539358,
+    "wof:lastmodified":1486688247,
     "wof:name":"Plaza Park Apts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203299451,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Huntlee Dr New Orleans LA 70131",
+    "addr:housenumber":"210",
+    "addr:postcode":"70131",
+    "addr:street":"Huntlee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.003304,29.931499,-90.003304,29.931499",
     "geom:latitude":29.931499,
     "geom:longitude":-90.003304,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746731,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735,
+        1108746803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"d8b5feaff9e27ec7610bbef9d5515a3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":203299451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
             "region_id":85688735,
             "venue_id":203299451
         }
     ],
     "wof:id":203299451,
-    "wof:lastmodified":1466539392,
+    "wof:lastmodified":1486689006,
     "wof:name":"New Orleans Garden Center & Landscape",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 337288541,
   "type": "Feature",
   "properties": {
+    "addr:full":"4819 Friar Tuck Dr New Orleans LA 70128",
+    "addr:housenumber":"4819",
+    "addr:postcode":"70128",
+    "addr:street":"Friar Tuck Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.952516,30.024966,-89.952516,30.024966",
     "geom:latitude":30.024966,
     "geom:longitude":-89.952516,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866173,
+        102191575,
+        1108739495,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"33af4a22df9a3638e8eac31e6a45b3a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
             "region_id":85688735,
             "venue_id":337288541
         }
     ],
     "wof:id":337288541,
-    "wof:lastmodified":1466541061,
+    "wof:lastmodified":1486688742,
     "wof:name":"Romain Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

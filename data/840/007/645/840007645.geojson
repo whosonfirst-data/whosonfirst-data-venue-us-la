@@ -2,14 +2,20 @@
   "id": 840007645,
   "type": "Feature",
   "properties": {
+    "addr:full":"4204 Airline Dr Bossier City LA 71111",
+    "addr:housenumber":"4204",
+    "addr:postcode":"71111",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.714033,32.57766,-93.714033,32.57766",
     "geom:latitude":32.57766,
     "geom:longitude":-93.714033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4204 Airline Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85808045,
         102084883
     ],
+    "wof:brand_id":1125151937,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Et1yG4OmHvu53KTMdac0o_32.577660_-93.714033@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519155,
-    "wof:geomhash":"2f490df1eb9ff815fe7a8b0d25c6ecec",
+    "wof:geomhash":"5b8a0471b1cc064040d6c91034533c4a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840007645,
-    "wof:lastmodified":1466539638,
+    "wof:lastmodified":1510695317,
     "wof:name":"Childtime Learning Ctr",
     "wof:parent_id":85808045,
     "wof:placetype":"venue",

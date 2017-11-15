@@ -2,9 +2,14 @@
   "id": 203293405,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Decatur St New Orleans LA 70130",
+    "addr:housenumber":"309",
+    "addr:postcode":"70130",
+    "addr:street":"Decatur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065576,29.953657,-90.065576,29.953657",
     "geom:latitude":29.953657,
     "geom:longitude":-90.065576,
@@ -40,11 +45,13 @@
     "sg:website":"hookah-club.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +61,18 @@
     "wof:geomhash":"41109bf3cba1169ac10da2db95d55776",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203293405
         }
     ],
     "wof:id":203293405,
-    "wof:lastmodified":1466539386,
+    "wof:lastmodified":1486686876,
     "wof:name":"The Hookah",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

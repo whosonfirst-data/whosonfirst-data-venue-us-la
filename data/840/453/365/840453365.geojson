@@ -2,14 +2,20 @@
   "id": 840453365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 Hickory Ave New Orleans LA 70123",
+    "addr:housenumber":"1915",
+    "addr:postcode":"70123",
+    "addr:street":"Hickory Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.206546,29.966267,-90.206546,29.966267",
     "geom:latitude":29.966267,
     "geom:longitude":-90.206546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1915 Hickory Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125151939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jXTmEdOGdkFcbf9YhtGKM_29.966267_-90.206546@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533438,
-    "wof:geomhash":"27a9c1d944f6fe14cf7d8ec3cc93e21b",
+    "wof:geomhash":"78f6a4a6e927cdf15ca7eba64f681e19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840453365,
-    "wof:lastmodified":1466545451,
+    "wof:lastmodified":1510695320,
     "wof:name":"China Palace",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

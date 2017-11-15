@@ -2,9 +2,14 @@
   "id": 840142849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1040 Calhoun St New Orleans LA 70118",
+    "addr:housenumber":"1040",
+    "addr:postcode":"70118",
+    "addr:street":"Calhoun St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.124266,29.925807,-90.124266,29.925807",
     "geom:latitude":29.925807,
     "geom:longitude":-90.124266,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866131,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866131
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866131,
             "region_id":85688735,
             "venue_id":840142849
         }
     ],
     "wof:id":840142849,
-    "wof:lastmodified":1466539598,
+    "wof:lastmodified":1486688664,
     "wof:name":"Alvin Cohen MD",
     "wof:parent_id":85866131,
     "wof:placetype":"venue",

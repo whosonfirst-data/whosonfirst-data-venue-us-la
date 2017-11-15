@@ -2,14 +2,20 @@
   "id": 840281419,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 Millhaven Rd Monroe LA 71203",
+    "addr:housenumber":"4800",
+    "addr:postcode":"71203",
+    "addr:street":"Millhaven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.062962,32.500496,-92.062962,32.500496",
     "geom:latitude":32.500496,
     "geom:longitude":-92.062962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4800 Millhaven Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":420574199,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T2tYqrOCb8cS8SZMVwPfl_32.500496_-92.062962@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525692,
-    "wof:geomhash":"e01246f57ef60dbd4e42e79a85002b5e",
+    "wof:geomhash":"730536d68ab6699929aed8cb028c9e22",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840281419,
-    "wof:lastmodified":1466542235,
+    "wof:lastmodified":1510604851,
     "wof:name":"Miracle-Ear",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

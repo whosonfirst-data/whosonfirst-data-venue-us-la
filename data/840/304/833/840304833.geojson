@@ -2,9 +2,14 @@
   "id": 840304833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1626 Monroe St New Orleans LA 70118",
+    "addr:housenumber":"1626",
+    "addr:postcode":"70118",
+    "addr:street":"Monroe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.131239,29.954806,-90.131239,29.954806",
     "geom:latitude":29.954806,
     "geom:longitude":-90.131239,
@@ -28,7 +33,15 @@
         "outreach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qaNDriNbtECftYK61YuNz_29.954806_-90.131239@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463526756,
     "wof:geomhash":"bb1bcf1d0be4f34eafa8bd5676eeae49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840304833
+        }
+    ],
     "wof:id":840304833,
-    "wof:lastmodified":1466542649,
+    "wof:lastmodified":1486688986,
     "wof:name":"Unity In Christ Through Love",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

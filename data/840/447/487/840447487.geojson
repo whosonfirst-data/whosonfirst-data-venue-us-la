@@ -2,9 +2,14 @@
   "id": 840447487,
   "type": "Feature",
   "properties": {
+    "addr:full":"7166 Crowder Blvd New Orleans LA 70127",
+    "addr:housenumber":"7166",
+    "addr:postcode":"70127",
+    "addr:street":"Crowder Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.996765,30.035176,-89.996765,30.035176",
     "geom:latitude":30.035176,
     "geom:longitude":-89.996765,
@@ -28,7 +33,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CzhHiLsUMeyCadq97bk9U_30.035176_-89.996765@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463533182,
     "wof:geomhash":"562aac9550331dc2b7db036d08ff9e61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840447487
+        }
+    ],
     "wof:id":840447487,
-    "wof:lastmodified":1466545328,
+    "wof:lastmodified":1486688711,
     "wof:name":"People's Institute-Survival",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

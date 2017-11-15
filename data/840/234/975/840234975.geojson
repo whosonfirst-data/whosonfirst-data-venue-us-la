@@ -2,14 +2,20 @@
   "id": 840234975,
   "type": "Feature",
   "properties": {
+    "addr:full":"3808 Ambassador Caffery Pkwy Lafayette LA 70503",
+    "addr:housenumber":"3808",
+    "addr:postcode":"70503",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.06228,30.167984,-92.06228,30.167984",
     "geom:latitude":30.167984,
     "geom:longitude":-92.06228,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3808 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":420575035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zaBpinkyWlUGt8BCUeYPj_30.167984_-92.062280@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524245,
-    "wof:geomhash":"082f53a5625dee3845d5fcb2d9583831",
+    "wof:geomhash":"fed507391ff9a4d15efe0cfe077e4da3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840234975,
-    "wof:lastmodified":1466541858,
+    "wof:lastmodified":1510602546,
     "wof:name":"Fed Ex Kinko's Ofc & Print Ctr",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

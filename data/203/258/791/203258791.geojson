@@ -2,9 +2,14 @@
   "id": 203258791,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Esplanade Ave New Orleans LA 70116",
+    "addr:housenumber":"435",
+    "addr:postcode":"70116",
+    "addr:street":"Esplanade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057391,29.961706,-90.057391,29.961706",
     "geom:latitude":29.961706,
     "geom:longitude":-90.057391,
@@ -26,11 +31,13 @@
     "sg:website":"www.myspace.com/dragonsdennola",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +47,20 @@
     "wof:geomhash":"f6131d58e2f0a2fa1c405c41b160228c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866097,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203258791
         }
     ],
     "wof:id":203258791,
-    "wof:lastmodified":1466539337,
+    "wof:lastmodified":1486688433,
     "wof:name":"Dragon's Den",
-    "wof:parent_id":85866097,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

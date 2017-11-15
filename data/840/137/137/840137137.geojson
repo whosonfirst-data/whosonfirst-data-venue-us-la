@@ -2,9 +2,14 @@
   "id": 840137137,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Yellowstone Ct New Orleans LA 70131",
+    "addr:housenumber":"2",
+    "addr:postcode":"70131",
+    "addr:street":"Yellowstone Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.011558,29.91835,-90.011558,29.91835",
     "geom:latitude":29.91835,
     "geom:longitude":-90.011558,
@@ -24,7 +29,16 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746751,
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WevXbhn735tJBYaBiMX0i_29.918350_-90.011558@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463521993,
     "wof:geomhash":"4d4e6396b00bb10c43f6a3a82083d57b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "microhood_id":1108746751,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840137137
+        }
+    ],
     "wof:id":840137137,
-    "wof:lastmodified":1466541005,
+    "wof:lastmodified":1486689226,
     "wof:name":"Millie McAndless Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840378903,
   "type": "Feature",
   "properties": {
+    "addr:full":"4041 Tulane Ave New Orleans LA 70119",
+    "addr:housenumber":"4041",
+    "addr:postcode":"70119",
+    "addr:street":"Tulane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105621,29.968737,-90.105621,29.968737",
     "geom:latitude":29.968737,
     "geom:longitude":-90.105621,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85869483
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840378903
         }
     ],
     "wof:id":840378903,
-    "wof:lastmodified":1466544067,
+    "wof:lastmodified":1486687050,
     "wof:name":"US Marine Corps Recruiting",
     "wof:parent_id":85869483,
     "wof:placetype":"venue",

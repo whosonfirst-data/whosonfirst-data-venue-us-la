@@ -2,9 +2,14 @@
   "id": 840021463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Canal St New Orleans LA 70130",
+    "addr:housenumber":"2",
+    "addr:postcode":"70130",
+    "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064413,29.950375,-90.064413,29.950375",
     "geom:latitude":29.950375,
     "geom:longitude":-90.064413,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840021463
         }
     ],
     "wof:id":840021463,
-    "wof:lastmodified":1466539778,
+    "wof:lastmodified":1486688457,
     "wof:name":"Consul General Of Dominican",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

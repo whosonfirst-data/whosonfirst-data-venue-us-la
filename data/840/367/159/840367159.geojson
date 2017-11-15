@@ -2,14 +2,20 @@
   "id": 840367159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1124 Stephens St Gretna LA 70053",
+    "addr:housenumber":"1124",
+    "addr:postcode":"70053",
+    "addr:street":"Stephens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.042925,29.915892,-90.042925,29.915892",
     "geom:latitude":29.915892,
     "geom:longitude":-90.042925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1124 Stephens St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083179,
         85885345
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25z1n7fpc1QIxdvxKfpXVQ_29.915892_-90.042925@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529742,
-    "wof:geomhash":"8110b2a2de37ef92fddd670c3f8ddfa6",
+    "wof:geomhash":"7fcce434626433529b45983bc3e766e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":840367159,
-    "wof:lastmodified":1466543647,
+    "wof:lastmodified":1510695390,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

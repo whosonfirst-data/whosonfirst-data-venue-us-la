@@ -2,9 +2,14 @@
   "id": 840364091,
   "type": "Feature",
   "properties": {
+    "addr:full":"13123 I- 10 Svc Rd New Orleans LA 70128",
+    "addr:housenumber":"13123;10",
+    "addr:postcode":"70128",
+    "addr:street":"I;Svc Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.948699,30.054519,-89.948699,30.054519",
     "geom:latitude":30.054519,
     "geom:longitude":-89.948699,
@@ -28,7 +33,16 @@
     ],
     "sg:website":"www.faithchurch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746613,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Rhuw168fSxIlKZkOMSNok_30.054519_-89.948699@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463529584,
     "wof:geomhash":"4f953f26f4c655c6e0d84d2b54955382",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746613,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840364091
+        }
+    ],
     "wof:id":840364091,
-    "wof:lastmodified":1466543630,
+    "wof:lastmodified":1486689151,
     "wof:name":"Faith Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

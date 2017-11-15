@@ -2,14 +2,20 @@
   "id": 840404359,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Millhaven Rd Monroe LA 71201",
+    "addr:housenumber":"2200",
+    "addr:postcode":"71201",
+    "addr:street":"Millhaven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.087533,32.502339,-92.087533,32.502339",
     "geom:latitude":32.502339,
     "geom:longitude":-92.087533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 Millhaven Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10Z52NOlObVPw1zUQ0yWC6_32.502339_-92.087533@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531398,
-    "wof:geomhash":"9b77e48f1b7ef273f57b081ceb579b3b",
+    "wof:geomhash":"7153976d9d06782aacf8bf067cf924fc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840404359,
-    "wof:lastmodified":1466544605,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840158273,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 N Kinney Ave Iowa LA 70647",
+    "addr:housenumber":"510",
+    "addr:postcode":"70647",
+    "addr:street":"N Kinney Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.01221,30.243544,-93.01221,30.243544",
     "geom:latitude":30.243544,
     "geom:longitude":-93.01221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 N Kinney Ave",
     "sg:city":"Iowa",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45Tsfc7gc890TAjbq3ZQup_30.243544_-93.012210@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522412,
-    "wof:geomhash":"7a109f9440d1b4ea716ce2cdd3f53304",
+    "wof:geomhash":"62c0fe1900b6cbf604a2b95b55a13438",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840158273,
-    "wof:lastmodified":1466541126,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

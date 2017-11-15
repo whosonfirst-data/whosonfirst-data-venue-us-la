@@ -2,14 +2,20 @@
   "id": 840238327,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Shreveport Hwy Pineville LA 71360",
+    "addr:housenumber":"5101",
+    "addr:postcode":"71360",
+    "addr:street":"Shreveport Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.436504,31.390597,-92.436504,31.390597",
     "geom:latitude":31.390597,
     "geom:longitude":-92.436504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5101 Shreveport Hwy",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XAxmp13DdoFqvkz4QeRj8_31.390597_-92.436504@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524327,
-    "wof:geomhash":"649cff376078a8e4b7e1afe3f7bd7cd1",
+    "wof:geomhash":"2321f5c4517dc0667067a6a006f3bd16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840238327,
-    "wof:lastmodified":1466541762,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

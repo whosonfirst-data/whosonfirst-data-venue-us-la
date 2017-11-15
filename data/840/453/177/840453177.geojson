@@ -2,9 +2,14 @@
   "id": 840453177,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Arabella St New Orleans LA 70115",
+    "addr:housenumber":"321",
+    "addr:postcode":"70115",
+    "addr:street":"Arabella St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11903,29.91684,-90.11903,29.91684",
     "geom:latitude":29.91684,
     "geom:longitude":-90.11903,
@@ -29,7 +34,15 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iUWrsNx9MoR60eiJYwvL3_29.916840_-90.119030@1299784598"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463533432,
     "wof:geomhash":"827e810d2039aa39ac3af01882bb9cd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840453177
+        }
+    ],
     "wof:id":840453177,
-    "wof:lastmodified":1466545344,
+    "wof:lastmodified":1486689112,
     "wof:name":"Franky & Johnny's",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

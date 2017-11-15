@@ -2,9 +2,14 @@
   "id": 203256825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1736 McShane Pl New Orleans LA 70116",
+    "addr:housenumber":"1736",
+    "addr:postcode":"70116",
+    "addr:street":"Mcshane Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.062103,29.9673,-90.062103,29.9673",
     "geom:latitude":29.9673,
     "geom:longitude":-90.062103,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"b306dda9d57eaa16c0d30a2b77fc4c89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203256825
         }
     ],
     "wof:id":203256825,
-    "wof:lastmodified":1466539329,
+    "wof:lastmodified":1486686599,
     "wof:name":"Economical Dry Cleaners",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",

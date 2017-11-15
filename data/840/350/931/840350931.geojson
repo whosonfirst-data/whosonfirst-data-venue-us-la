@@ -2,14 +2,20 @@
   "id": 840350931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1520 Edwards Ave New Orleans LA 70123",
+    "addr:housenumber":"1520",
+    "addr:postcode":"70123",
+    "addr:street":"Edwards Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.195625,29.962433,-90.195625,29.962433",
     "geom:latitude":29.962433,
     "geom:longitude":-90.195625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1520 Edwards Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63oOsk1OMvkvCMg564oZXn_29.962433_-90.195625@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528955,
-    "wof:geomhash":"16839a2887fe426a0cc5bd8205109c78",
+    "wof:geomhash":"f72cf1bdb2ebaf1101fce286494c99a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840350931,
-    "wof:lastmodified":1466543529,
+    "wof:lastmodified":1510695389,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

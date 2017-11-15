@@ -2,14 +2,20 @@
   "id": 840143235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1897 Rattan Rd Florien LA 71429",
+    "addr:housenumber":"1897",
+    "addr:postcode":"71429",
+    "addr:street":"Rattan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.51848,31.336894,-93.51848,31.336894",
     "geom:latitude":31.336894,
     "geom:longitude":-93.51848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1897 Rattan Rd",
     "sg:city":"Florien",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081409,
         85806377
     ],
+    "wof:brand_id":1125151189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2abPbazaiSuiBoRQ42qaB5_31.336894_-93.518480@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522110,
-    "wof:geomhash":"72643ecb5d67973585df5a1ad20afd84",
+    "wof:geomhash":"27d0e685afe2b1022607c7f09cd15183",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840143235,
-    "wof:lastmodified":1466539645,
+    "wof:lastmodified":1510697195,
     "wof:name":"Pleasant Hill Baptist Church",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",

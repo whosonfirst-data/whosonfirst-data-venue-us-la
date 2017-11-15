@@ -2,9 +2,14 @@
   "id": 840449775,
   "type": "Feature",
   "properties": {
+    "addr:full":"8300 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"8300",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.989601,30.0138,-89.989601,30.0138",
     "geom:latitude":30.0138,
     "geom:longitude":-89.989601,
@@ -28,7 +33,15 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gXDEfRclz4RswOsk3wENE_30.013996_-89.989078@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463533293,
     "wof:geomhash":"b77bf213f28f38dc9da5f38d5c1acc78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840449775
+        }
+    ],
     "wof:id":840449775,
-    "wof:lastmodified":1466545367,
+    "wof:lastmodified":1486688861,
     "wof:name":"Eveque's Tires & Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

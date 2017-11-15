@@ -2,9 +2,14 @@
   "id": 203271127,
   "type": "Feature",
   "properties": {
+    "addr:full":"6210 Franklin Ave New Orleans LA 70122",
+    "addr:housenumber":"6210",
+    "addr:postcode":"70122",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051804,30.0229,-90.051804,30.0229",
     "geom:latitude":30.0229,
     "geom:longitude":-90.051804,
@@ -28,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746555,
+        85834475,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85834475
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,32 @@
     "wof:geomhash":"e4ddf0f6fcae07a601993339c7802a07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "microhood_id":1108746555,
+            "neighbourhood_id":85834475,
+            "region_id":85688735,
+            "venue_id":203271127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746555,
             "neighbourhood_id":85834475,
             "region_id":85688735,
             "venue_id":203271127
         }
     ],
     "wof:id":203271127,
-    "wof:lastmodified":1466539344,
+    "wof:lastmodified":1486689149,
     "wof:name":"Little Hands Preschool",
-    "wof:parent_id":85834475,
+    "wof:parent_id":1108746555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

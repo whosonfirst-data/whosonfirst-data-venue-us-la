@@ -2,9 +2,14 @@
   "id": 840430507,
   "type": "Feature",
   "properties": {
+    "addr:full":"4540 Elysian Fields Ave New Orleans LA 70122",
+    "addr:housenumber":"4540",
+    "addr:postcode":"70122",
+    "addr:street":"Elysian Fields Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.059906,30.004606,-90.059906,30.004606",
     "geom:latitude":30.004606,
     "geom:longitude":-90.059906,
@@ -32,12 +37,14 @@
     "sg:website":"www.boshf.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866059,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821297
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +59,26 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85821297,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":840430507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866059,
             "region_id":85688735,
             "venue_id":840430507
         }
     ],
     "wof:id":840430507,
-    "wof:lastmodified":1466545091,
+    "wof:lastmodified":1486688267,
     "wof:name":"Brothers Of The Sacred Heart",
-    "wof:parent_id":85821297,
+    "wof:parent_id":85866059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840020889,
   "type": "Feature",
   "properties": {
+    "addr:full":"5748 Wickfield Dr New Orleans LA 70122",
+    "addr:housenumber":"5748",
+    "addr:postcode":"70122",
+    "addr:street":"Wickfield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.068893,30.018474,-90.068893,30.018474",
     "geom:latitude":30.018474,
     "geom:longitude":-90.068893,
@@ -25,12 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866063,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866063
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +52,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866063,
+            "region_id":85688735,
+            "venue_id":840020889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866063,
             "region_id":85688735,
             "venue_id":840020889
         }
     ],
     "wof:id":840020889,
-    "wof:lastmodified":1466539757,
+    "wof:lastmodified":1486688061,
     "wof:name":"Schmitt Dorren",
     "wof:parent_id":85866063,
     "wof:placetype":"venue",

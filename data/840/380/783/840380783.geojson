@@ -2,14 +2,20 @@
   "id": 840380783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1044 Oneal Ln Baton Rouge LA 70816",
+    "addr:housenumber":"1044",
+    "addr:postcode":"70816",
+    "addr:street":"Oneal Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.008185,30.451247,-91.008185,30.451247",
     "geom:latitude":30.451247,
     "geom:longitude":-91.008185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1044 Oneal Ln",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85844741,
         102087229
     ],
+    "wof:brand_id":420574337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qceMQhOHb5txNEn2nfxow_30.451247_-91.008185@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530382,
-    "wof:geomhash":"e74652e89e502db7d9444ecf7d46236c",
+    "wof:geomhash":"bc6b0d6add2d6a2eac7d2285ae801ce7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840380783,
-    "wof:lastmodified":1466544048,
+    "wof:lastmodified":1510604655,
     "wof:name":"Fantastic Sam's",
     "wof:parent_id":85844741,
     "wof:placetype":"venue",

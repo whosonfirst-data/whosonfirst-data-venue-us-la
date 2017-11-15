@@ -2,9 +2,14 @@
   "id": 840306253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1124 S Liberty St New Orleans LA 70113",
+    "addr:housenumber":"1124",
+    "addr:postcode":"70113",
+    "addr:street":"S Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.080742,29.945369,-90.080742,29.945369",
     "geom:latitude":29.945369,
     "geom:longitude":-90.080742,
@@ -29,7 +34,15 @@
         "repairer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67lgIw2bRjkP4zDMNLt590_29.945369_-90.080742@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463526821,
     "wof:geomhash":"70013ed916573d5c18302037838601a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840306253
+        }
+    ],
     "wof:id":840306253,
-    "wof:lastmodified":1466542685,
+    "wof:lastmodified":1486688638,
     "wof:name":"Millennium Diesel Chrome Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

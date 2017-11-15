@@ -2,14 +2,20 @@
   "id": 840449017,
   "type": "Feature",
   "properties": {
+    "addr:full":"3740 Elysian Fields Ave New Orleans LA 70122",
+    "addr:housenumber":"3740",
+    "addr:postcode":"70122",
+    "addr:street":"Elysian Fields Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.059097,29.995899,-90.059097,29.995899",
     "geom:latitude":29.995899,
     "geom:longitude":-90.059097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3740 Elysian Fields Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -26,35 +32,49 @@
     "sg:website":"www.whitneybank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821297,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866059
+        85688735,
+        1108739491
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V8NJSrtXlAoL3hZdSiwdb_29.996501_-90.059251@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533255,
-    "wof:geomhash":"3e6c18d8bafbbd3bf66e1512d23bb649",
+    "wof:geomhash":"8548d18d4f7a312cb1b1ce00e1717af0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866059,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821297,
+            "region_id":85688735,
+            "venue_id":840449017
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85821297,
             "region_id":85688735,
             "venue_id":840449017
         }
     ],
     "wof:id":840449017,
-    "wof:lastmodified":1466545251,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
-    "wof:parent_id":85866059,
+    "wof:parent_id":85821297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

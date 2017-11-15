@@ -2,14 +2,20 @@
   "id": 840164005,
   "type": "Feature",
   "properties": {
+    "addr:full":"1814 N Morrison Blvd Hammond LA 70401",
+    "addr:housenumber":"1814",
+    "addr:postcode":"70401",
+    "addr:street":"N Morrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.482702,30.518581,-90.482702,30.518581",
     "geom:latitude":30.518581,
     "geom:longitude":-90.482702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1814 N Morrison Blvd",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102191575,
         85857619
     ],
+    "wof:brand_id":1125154165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M5bFcF4pMJCIctG6tO0aQ_30.518581_-90.482702@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522520,
-    "wof:geomhash":"2e34540f3538ddeb3f16c74ad802e86a",
+    "wof:geomhash":"8200ac49969ac41af86172d730b84354",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":840164005,
-    "wof:lastmodified":1466541141,
+    "wof:lastmodified":1510697576,
     "wof:name":"Western-Southern Life Ins Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

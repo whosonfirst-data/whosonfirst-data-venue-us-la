@@ -2,14 +2,20 @@
   "id": 840436555,
   "type": "Feature",
   "properties": {
+    "addr:full":"5117 Hunters Grove Ln Alexandria LA 71303",
+    "addr:housenumber":"5117",
+    "addr:postcode":"71303",
+    "addr:street":"Hunters Grove Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.497471,31.277692,-92.497471,31.277692",
     "geom:latitude":31.277692,
     "geom:longitude":-92.497471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5117 Hunters Grove Ln",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125153949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B0GSSd5LNLYEKOM7mh75O_31.277692_-92.497471@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532753,
-    "wof:geomhash":"aa14f28d87bd89006655926b06f86700",
+    "wof:geomhash":"770f1c3234d4ea0dd832effc6edb0099",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840436555,
-    "wof:lastmodified":1466545104,
+    "wof:lastmodified":1510695232,
     "wof:name":"Decorating Den Interiors",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

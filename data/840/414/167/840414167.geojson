@@ -2,14 +2,20 @@
   "id": 840414167,
   "type": "Feature",
   "properties": {
+    "addr:full":"3999 S Sherwood Forest Blvd Baton Rouge LA 70816",
+    "addr:housenumber":"3999",
+    "addr:postcode":"70816",
+    "addr:street":"S Sherwood Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.051378,30.416708,-91.051378,30.416708",
     "geom:latitude":30.416708,
     "geom:longitude":-91.051378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3999 S Sherwood Forest Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85828423
     ],
+    "wof:brand_id":420575705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UNVn4GZaJ0cXKd0nI1Hnp_30.416708_-91.051378@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531787,
-    "wof:geomhash":"4ffa92b516d5918c8d5c683e441f23a3",
+    "wof:geomhash":"865f4459c09f638d276cf2915b1783c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840414167,
-    "wof:lastmodified":1466544623,
+    "wof:lastmodified":1510601955,
     "wof:name":"Westaff",
     "wof:parent_id":85828423,
     "wof:placetype":"venue",

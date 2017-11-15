@@ -2,14 +2,20 @@
   "id": 840331475,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Mike Hooks Rd Westlake LA 70669",
+    "addr:housenumber":"206",
+    "addr:postcode":"70669",
+    "addr:street":"Mike Hooks Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.253083,30.23418,-93.253083,30.23418",
     "geom:latitude":30.23418,
     "geom:longitude":-93.253083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 Mike Hooks Rd",
     "sg:city":"Westlake",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125152099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nMhN0T3qgml8NXpj0D9o9_30.234180_-93.253083@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528012,
-    "wof:geomhash":"b0d850adef3648b1e2f3ef1a449d3757",
+    "wof:geomhash":"87b8686cf17ca9b062140b0d168778a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840331475,
-    "wof:lastmodified":1466543179,
+    "wof:lastmodified":1510696863,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

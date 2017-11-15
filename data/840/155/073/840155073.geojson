@@ -2,14 +2,20 @@
   "id": 840155073,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Elmwood Park Blvd New Orleans LA 70123",
+    "addr:housenumber":"530",
+    "addr:postcode":"70123",
+    "addr:street":"Elmwood Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.183415,29.94932,-90.183415,29.94932",
     "geom:latitude":29.94932,
     "geom:longitude":-90.183415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"530 Elmwood Park Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125157281,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pzRIt1naSVd6BBfMqNGRA_29.949320_-90.183415@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522350,
-    "wof:geomhash":"41a1d324202476c7c3ab586ee8003f48",
+    "wof:geomhash":"da7ad36db9b13c94e069a65ddf15dfed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840155073,
-    "wof:lastmodified":1466541095,
+    "wof:lastmodified":1510696752,
     "wof:name":"Trane Co",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

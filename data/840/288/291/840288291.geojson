@@ -2,9 +2,14 @@
   "id": 840288291,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 S Claiborne Ave New Orleans LA 70125",
+    "addr:housenumber":"5401",
+    "addr:postcode":"70125",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.110427,29.942186,-90.110427,29.942186",
     "geom:latitude":29.942186,
     "geom:longitude":-90.110427,
@@ -29,12 +34,13 @@
     "sg:website":"www.firstpc.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866137,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866127
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866127,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866137,
             "region_id":85688735,
             "venue_id":840288291
         }
     ],
     "wof:id":840288291,
-    "wof:lastmodified":1466542418,
+    "wof:lastmodified":1486688677,
     "wof:name":"First Presbyterian Church",
-    "wof:parent_id":85866127,
+    "wof:parent_id":85866137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

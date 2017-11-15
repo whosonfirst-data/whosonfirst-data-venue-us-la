@@ -2,14 +2,20 @@
   "id": 840440095,
   "type": "Feature",
   "properties": {
+    "addr:full":"1513 Grand Caillou Rd Houma LA 70363",
+    "addr:housenumber":"1513",
+    "addr:postcode":"70363",
+    "addr:street":"Grand Caillou Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.682916,29.571422,-90.682916,29.571422",
     "geom:latitude":29.571422,
     "geom:longitude":-90.682916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1513 Grand Caillou Rd",
     "sg:city":"Houma",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081923,
         85803459
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E84dc6s2e7B2HwtciFlGr_29.571422_-90.682916@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532905,
-    "wof:geomhash":"db2d9143206521439bfec261bba2ee9a",
+    "wof:geomhash":"973adf5f5b80ad263dc15876ec82dc3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840440095,
-    "wof:lastmodified":1466545009,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",

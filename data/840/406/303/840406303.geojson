@@ -2,9 +2,14 @@
   "id": 840406303,
   "type": "Feature",
   "properties": {
+    "addr:full":"8244 S Claiborne Ave New Orleans LA 70118",
+    "addr:housenumber":"8244",
+    "addr:postcode":"70118",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.122156,29.956926,-90.122156,29.956926",
     "geom:latitude":29.956926,
     "geom:longitude":-90.122156,
@@ -28,7 +33,15 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56kJyGcSMO1cd8m5i0rI5c_29.956926_-90.122156@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463531471,
     "wof:geomhash":"9571e227b6230a02d81e43112ef83340",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840406303
+        }
+    ],
     "wof:id":840406303,
-    "wof:lastmodified":1466544632,
+    "wof:lastmodified":1486688973,
     "wof:name":"Uptown Beauty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

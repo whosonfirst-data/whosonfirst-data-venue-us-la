@@ -2,9 +2,14 @@
   "id": 840189857,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 Dauphine St New Orleans LA 70116",
+    "addr:housenumber":"1220",
+    "addr:postcode":"70116",
+    "addr:street":"Dauphine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.062317,29.963804,-90.062317,29.963804",
     "geom:latitude":29.963804,
     "geom:longitude":-90.062317,
@@ -30,12 +35,13 @@
     "sg:website":"www.maisonhospitaliere.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866097,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840189857
         }
     ],
     "wof:id":840189857,
-    "wof:lastmodified":1466541475,
+    "wof:lastmodified":1486688423,
     "wof:name":"Maison Hospitaliere",
-    "wof:parent_id":85866097,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

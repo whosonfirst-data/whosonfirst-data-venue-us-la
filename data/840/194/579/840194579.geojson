@@ -2,9 +2,14 @@
   "id": 840194579,
   "type": "Feature",
   "properties": {
+    "addr:full":"5300 Timber Crest Dr New Orleans LA 70131",
+    "addr:housenumber":"5300",
+    "addr:postcode":"70131",
+    "addr:street":"Timber Crest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.999829,29.899027,-89.999829,29.899027",
     "geom:latitude":29.899027,
     "geom:longitude":-89.999829,
@@ -30,7 +35,15 @@
         "transporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739499,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dWD9rjmy7KR8pI1YVEDdi_29.899027_-89.999829@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463523207,
     "wof:geomhash":"658741a624a0a6bf7dd4aa1908d6c78f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
+            "region_id":85688735,
+            "venue_id":840194579
+        }
+    ],
     "wof:id":840194579,
-    "wof:lastmodified":1466541396,
+    "wof:lastmodified":1486689095,
     "wof:name":"D&Dtransportation Express LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840169299,
   "type": "Feature",
   "properties": {
+    "addr:full":"2927 S Sherwood Forest Blvd Baton Rouge LA 70816",
+    "addr:housenumber":"2927",
+    "addr:postcode":"70816",
+    "addr:street":"S Sherwood Forest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.051418,30.42433,-91.051418,30.42433",
     "geom:latitude":30.42433,
     "geom:longitude":-91.051418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2927 S Sherwood Forest Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85828423
     ],
+    "wof:brand_id":1125154051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67jJ3xeY3tNq5vjOB01ZVW_30.424330_-91.051418@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522655,
-    "wof:geomhash":"c5389412d7c1eb435a086ee611cb01bd",
+    "wof:geomhash":"30d231e0834ae209655efbaa3a0f983c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840169299,
-    "wof:lastmodified":1466541185,
+    "wof:lastmodified":1510694224,
     "wof:name":"Hancock Bank",
     "wof:parent_id":85828423,
     "wof:placetype":"venue",

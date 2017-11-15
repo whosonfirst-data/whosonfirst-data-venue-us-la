@@ -2,14 +2,20 @@
   "id": 840192649,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 N Broad St New Orleans LA 70119",
+    "addr:housenumber":"407",
+    "addr:postcode":"70119",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.084913,29.968732,-90.084913,29.968732",
     "geom:latitude":29.968732,
     "geom:longitude":-90.084913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 N Broad St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866065
+        85688735
     ],
+    "wof:brand_id":1125157677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yq86wnCgMjEM0InWC7ivV_29.968732_-90.084913@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523163,
-    "wof:geomhash":"76339b586b92f63a6d2e3eb32047facb",
+    "wof:geomhash":"a4453ee546644cd36d16c0117752d970",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866065,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840192649
         }
     ],
     "wof:id":840192649,
-    "wof:lastmodified":1466541415,
+    "wof:lastmodified":1510695835,
     "wof:name":"Mighty Auto Parts",
-    "wof:parent_id":85866065,
+    "wof:parent_id":85869483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

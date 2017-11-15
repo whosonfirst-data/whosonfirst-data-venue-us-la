@@ -2,14 +2,20 @@
   "id": 840450243,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Gause Blvd W Slidell LA 70460",
+    "addr:housenumber":"109",
+    "addr:postcode":"70460",
+    "addr:street":"Gause Blvd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.779639,30.286439,-89.779639,30.286439",
     "geom:latitude":30.286439,
     "geom:longitude":-89.779639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 Gause Blvd W",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082453,
         85837583
     ],
+    "wof:brand_id":1125155883,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D8i28ZWF8nDqefUQic4dt_30.286441_-89.779523@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533313,
-    "wof:geomhash":"323a8a9737b1d7290bcd2b77de929b2f",
+    "wof:geomhash":"784d833bce3e1a903742ceb43c8cfde7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":840450243,
-    "wof:lastmodified":1466545281,
+    "wof:lastmodified":1510700024,
     "wof:name":"Beauty World",
     "wof:parent_id":85837583,
     "wof:placetype":"venue",

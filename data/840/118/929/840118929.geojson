@@ -2,9 +2,14 @@
   "id": 840118929,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Robert E Lee Blvd New Orleans LA 70124",
+    "addr:housenumber":"1100",
+    "addr:postcode":"70124",
+    "addr:street":"Robert E Lee Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.095316,30.018413,-90.095316,30.018413",
     "geom:latitude":30.018413,
     "geom:longitude":-90.095316,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521707,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866053
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866053,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420521707,
             "region_id":85688735,
             "venue_id":840118929
         }
     ],
     "wof:id":840118929,
-    "wof:lastmodified":1466540883,
+    "wof:lastmodified":1486688930,
     "wof:name":"Us Dept Of Agriculture Library",
-    "wof:parent_id":85866053,
+    "wof:parent_id":420521707,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

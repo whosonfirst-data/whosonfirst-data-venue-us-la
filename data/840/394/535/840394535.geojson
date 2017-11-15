@@ -2,14 +2,20 @@
   "id": 840394535,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Lobdell Hwy Port Allen LA 70767",
+    "addr:housenumber":"234",
+    "addr:postcode":"70767",
+    "addr:street":"Lobdell Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.245308,30.450737,-91.245308,30.450737",
     "geom:latitude":30.450737,
     "geom:longitude":-91.245308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"234 Lobdell Hwy",
     "sg:city":"Port Allen",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85876063,
         102086695
     ],
+    "wof:brand_id":1125155307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cOpIFFAZhPePgZPekOxmX_30.450737_-91.245308@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530999,
-    "wof:geomhash":"7b298fc4a7da05b962552f89520b2dfa",
+    "wof:geomhash":"9228200bbe330d3605f914d3d91493b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840394535,
-    "wof:lastmodified":1466544268,
+    "wof:lastmodified":1510699917,
     "wof:name":"Shoney's",
     "wof:parent_id":85876063,
     "wof:placetype":"venue",

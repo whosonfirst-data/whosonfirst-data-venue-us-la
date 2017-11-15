@@ -2,9 +2,14 @@
   "id": 840083101,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Louisa St New Orleans LA 70126",
+    "addr:housenumber":"2727",
+    "addr:postcode":"70126",
+    "addr:street":"Louisa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037157,29.984593,-90.037157,29.984593",
     "geom:latitude":29.984593,
     "geom:longitude":-90.037157,
@@ -27,7 +32,15 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866087,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r4rUaw9NbmWWxPi4yHVO9_29.984593_-90.037157@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463520867,
     "wof:geomhash":"e3f714c56cb9f598cd76112c5653ac31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
+            "region_id":85688735,
+            "venue_id":840083101
+        }
+    ],
     "wof:id":840083101,
-    "wof:lastmodified":1466540465,
+    "wof:lastmodified":1491860986,
     "wof:name":"N R Peace",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

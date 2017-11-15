@@ -2,14 +2,20 @@
   "id": 840384539,
   "type": "Feature",
   "properties": {
+    "addr:full":"12134 Doverwood Dr Baton Rouge LA 70807",
+    "addr:housenumber":"12134",
+    "addr:postcode":"70807",
+    "addr:street":"Doverwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.172974,30.556365,-91.172974,30.556365",
     "geom:latitude":30.556365,
     "geom:longitude":-91.172974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12134 Doverwood Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85840811
     ],
+    "wof:brand_id":1125158215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KzeA6pBNOPWpKTklWkm3B_30.556365_-91.172974@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530572,
-    "wof:geomhash":"a9a6918cfa73e7bbe97f8fa6a111a12d",
+    "wof:geomhash":"42b3d0d7a08949bd95be7b61bf1e461d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840384539,
-    "wof:lastmodified":1466544056,
+    "wof:lastmodified":1510699387,
     "wof:name":"Village Green Apartments",
     "wof:parent_id":85840811,
     "wof:placetype":"venue",

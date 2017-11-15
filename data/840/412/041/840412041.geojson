@@ -2,14 +2,20 @@
   "id": 840412041,
   "type": "Feature",
   "properties": {
+    "addr:full":"935 Gravier St New Orleans LA 70112",
+    "addr:housenumber":"935",
+    "addr:postcode":"70112",
+    "addr:street":"Gravier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.073138,29.952787,-90.073138,29.952787",
     "geom:latitude":29.952787,
     "geom:longitude":-90.073138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"935 Gravier St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,35 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85851209
+        85688735
     ],
+    "wof:brand_id":1125151351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wWaGI8G2qYWzKRcfJF4Cy_29.952787_-90.073138@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531698,
-    "wof:geomhash":"a76192acc847fa3897ae925631b85ed0",
+    "wof:geomhash":"686042f16fa6a98471c2a2c391306c93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85851209,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":840412041
         }
     ],
     "wof:id":840412041,
-    "wof:lastmodified":1466544731,
+    "wof:lastmodified":1510695180,
     "wof:name":"Charles Schwab & Co",
-    "wof:parent_id":85851209,
+    "wof:parent_id":85866107,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

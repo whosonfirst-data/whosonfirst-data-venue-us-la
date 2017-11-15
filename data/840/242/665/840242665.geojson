@@ -2,9 +2,14 @@
   "id": 840242665,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 S Alexander St New Orleans LA 70119",
+    "addr:housenumber":"307",
+    "addr:postcode":"70119",
+    "addr:street":"S Alexander St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.106425,29.974432,-90.106425,29.974432",
     "geom:latitude":29.974432,
     "geom:longitude":-90.106425,
@@ -30,12 +35,13 @@
     "sg:website":"www.musicschoolbus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866145
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866145,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840242665
         }
     ],
     "wof:id":840242665,
-    "wof:lastmodified":1466541829,
+    "wof:lastmodified":1486688903,
     "wof:name":"Professional Music Svc Inc",
-    "wof:parent_id":85866145,
+    "wof:parent_id":85869483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

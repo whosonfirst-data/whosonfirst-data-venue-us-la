@@ -2,9 +2,14 @@
   "id": 840382481,
   "type": "Feature",
   "properties": {
+    "addr:full":"4643 Shalimar Dr New Orleans LA 70126",
+    "addr:housenumber":"4643",
+    "addr:postcode":"70126",
+    "addr:street":"Shalimar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017579,30.016029,-90.017579,30.016029",
     "geom:latitude":30.016029,
     "geom:longitude":-90.017579,
@@ -27,7 +32,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M83KEb9VPV7d3IhT12aBJ_30.016029_-90.017579@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463530471,
     "wof:geomhash":"841857fc63f22e44994cca9c403351d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840382481
+        }
+    ],
     "wof:id":840382481,
-    "wof:lastmodified":1466544047,
+    "wof:lastmodified":1486687653,
     "wof:name":"Hurst Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

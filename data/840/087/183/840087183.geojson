@@ -2,14 +2,20 @@
   "id": 840087183,
   "type": "Feature",
   "properties": {
+    "addr:full":"11777 Industriplex Blvd Baton Rouge LA 70809",
+    "addr:housenumber":"11777",
+    "addr:postcode":"70809",
+    "addr:street":"Industriplex Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.053266,30.386922,-91.053266,30.386922",
     "geom:latitude":30.386922,
     "geom:longitude":-91.053266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11777 Industriplex Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O3zIK84WC6ZkgVDiwFRJD_30.386922_-91.053266@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520965,
-    "wof:geomhash":"4bf77010336aaa851871970ab1b5f13b",
+    "wof:geomhash":"11e294fb300a5c27ed1e01baefd361bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840087183,
-    "wof:lastmodified":1466540545,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

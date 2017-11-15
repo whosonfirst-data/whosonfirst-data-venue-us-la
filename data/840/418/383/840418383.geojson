@@ -2,9 +2,14 @@
   "id": 840418383,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 W Harrison Ave New Orleans LA 70124",
+    "addr:housenumber":"203",
+    "addr:postcode":"70124",
+    "addr:street":"W Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117343,30.005742,-90.117343,30.005742",
     "geom:latitude":30.005742,
     "geom:longitude":-90.117343,
@@ -24,7 +29,15 @@
     "sg:postcode":"70124",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YNP4tRYYoF5Ip6h4OJbAU_30.005742_-90.117343@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463531960,
     "wof:geomhash":"8f4ec9b7372bdf10bbc5b565d985641b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840418383
+        }
+    ],
     "wof:id":840418383,
-    "wof:lastmodified":1466544771,
+    "wof:lastmodified":1486689071,
     "wof:name":"Keith Noonan's Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

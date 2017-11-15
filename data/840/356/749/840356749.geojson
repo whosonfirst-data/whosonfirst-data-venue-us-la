@@ -2,14 +2,20 @@
   "id": 840356749,
   "type": "Feature",
   "properties": {
+    "addr:full":"10238 Glen View Ave Baton Rouge LA 70809",
+    "addr:housenumber":"10238",
+    "addr:postcode":"70809",
+    "addr:street":"Glen View Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.074935,30.39189,-91.074935,30.39189",
     "geom:latitude":30.39189,
     "geom:longitude":-91.074935,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10238 Glen View Ave",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85803941
     ],
+    "wof:brand_id":1125151275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H6jso79yjlAUwRN0syMxm_30.391890_-91.074935@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529243,
-    "wof:geomhash":"8cb693908934baf8661c046dc44eaeb0",
+    "wof:geomhash":"c3ad8118ccefae764224563edae8d918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840356749,
-    "wof:lastmodified":1466543524,
+    "wof:lastmodified":1510699622,
     "wof:name":"Lucent Technologies Inc",
     "wof:parent_id":85803941,
     "wof:placetype":"venue",

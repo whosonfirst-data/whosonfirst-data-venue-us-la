@@ -2,14 +2,20 @@
   "id": 840321385,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 Sam Houston Jones Pkwy Lake Charles LA 70611",
+    "addr:housenumber":"407",
+    "addr:postcode":"70611",
+    "addr:street":"Sam Houston Jones Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.201747,30.300684,-93.201747,30.300684",
     "geom:latitude":30.300684,
     "geom:longitude":-93.201747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 Sam Houston Jones Pkwy",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":420573779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64bbdIDDq9Il71VsrWo9Nl_30.300684_-93.201747@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527520,
-    "wof:geomhash":"0a91304e3adb610b8227d9a2759791c1",
+    "wof:geomhash":"a3c17747dc96778d44134c1fa2f349c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840321385,
-    "wof:lastmodified":1466542935,
+    "wof:lastmodified":1510603552,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

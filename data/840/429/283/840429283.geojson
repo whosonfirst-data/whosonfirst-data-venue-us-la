@@ -2,9 +2,14 @@
   "id": 840429283,
   "type": "Feature",
   "properties": {
+    "addr:full":"3222 de Armas St New Orleans LA 70114",
+    "addr:housenumber":"3222",
+    "addr:postcode":"70114",
+    "addr:street":"De Armas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021457,29.942707,-90.021457,29.942707",
     "geom:latitude":29.942707,
     "geom:longitude":-90.021457,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746805,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t7xrDYrQirP8DShsrf4TG_29.942707_-90.021457@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463532408,
     "wof:geomhash":"1b503605ca8c80ec2f9e3f2527513e8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
+            "region_id":85688735,
+            "venue_id":840429283
+        }
+    ],
     "wof:id":840429283,
-    "wof:lastmodified":1466544967,
+    "wof:lastmodified":1486688990,
     "wof:name":"Olive BR Baptst Church Algiers",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840046561,
   "type": "Feature",
   "properties": {
+    "addr:full":"2123 Ursulines Ave New Orleans LA 70116",
+    "addr:housenumber":"2123",
+    "addr:postcode":"70116",
+    "addr:street":"Ursulines Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.074692,29.970254,-90.074692,29.970254",
     "geom:latitude":29.970254,
     "geom:longitude":-90.074692,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891223,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866069
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866069,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85891223,
             "region_id":85688735,
             "venue_id":840046561
         }
     ],
     "wof:id":840046561,
-    "wof:lastmodified":1466540110,
+    "wof:lastmodified":1486688923,
     "wof:name":"St Ann Apartments",
-    "wof:parent_id":85866069,
+    "wof:parent_id":85891223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

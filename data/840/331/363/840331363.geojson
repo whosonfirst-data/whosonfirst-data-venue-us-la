@@ -2,14 +2,20 @@
   "id": 840331363,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Old Spanish Trl Slidell LA 70458",
+    "addr:housenumber":"440",
+    "addr:postcode":"70458",
+    "addr:street":"Old Spanish Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.78506,30.265711,-89.78506,30.265711",
     "geom:latitude":30.265711,
     "geom:longitude":-89.78506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"440 Old Spanish Trl",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102082453,
         85840247
     ],
+    "wof:brand_id":1125150657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0czfPfB4Aenko6ZV4WlKbi_30.265711_-89.785060@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528007,
-    "wof:geomhash":"9311990b2731a9cfd9ecb14f3a602cbd",
+    "wof:geomhash":"b67de6227063ecad2884f532d99568b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840331363,
-    "wof:lastmodified":1466543156,
+    "wof:lastmodified":1510695187,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":85840247,
     "wof:placetype":"venue",

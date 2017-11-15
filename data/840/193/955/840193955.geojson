@@ -2,9 +2,14 @@
   "id": 840193955,
   "type": "Feature",
   "properties": {
+    "addr:full":"908 Harrison Ave New Orleans LA 70124",
+    "addr:housenumber":"908",
+    "addr:postcode":"70124",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.103651,30.004134,-90.103651,30.004134",
     "geom:latitude":30.004134,
     "geom:longitude":-90.103651,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840193955
         }
     ],
     "wof:id":840193955,
-    "wof:lastmodified":1466541418,
+    "wof:lastmodified":1486686964,
     "wof:name":"Joe's Cobbler Workbench Inc",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

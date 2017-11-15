@@ -2,9 +2,14 @@
   "id": 840451879,
   "type": "Feature",
   "properties": {
+    "addr:full":"3641 Rue Denise New Orleans LA 70131",
+    "addr:housenumber":"3641",
+    "addr:postcode":"70131",
+    "addr:street":"Rue Denise",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.996696,29.9153,-89.996696,29.9153",
     "geom:latitude":29.9153,
     "geom:longitude":-89.996696,
@@ -24,7 +29,17 @@
     "sg:postcode":"70131",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746733,
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JWf7zwCe0hmi4s52QK8HS_29.915375_-89.996820@1293134755"
@@ -32,11 +47,34 @@
     "wof:country":"US",
     "wof:created":1463533380,
     "wof:geomhash":"4b27fb176bb173c79f7fdf6e85fc9912",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840451879
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840451879
+        }
+    ],
     "wof:id":840451879,
-    "wof:lastmodified":1466545389,
+    "wof:lastmodified":1486689198,
     "wof:name":"Automatik Design Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

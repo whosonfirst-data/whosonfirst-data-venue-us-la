@@ -2,9 +2,14 @@
   "id": 840450563,
   "type": "Feature",
   "properties": {
+    "addr:full":"1242 Vallette St New Orleans LA 70114",
+    "addr:housenumber":"1242",
+    "addr:postcode":"70114",
+    "addr:street":"Vallette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049797,29.942499,-90.049797,29.942499",
     "geom:latitude":29.942499,
     "geom:longitude":-90.049797,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xT0Lm2Dfx3trPxqxzXN5e_29.942565_-90.049533@1293134755"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463533330,
     "wof:geomhash":"1cf469cb1363ce55108799ebac459a7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840450563
+        }
+    ],
     "wof:id":840450563,
-    "wof:lastmodified":1466545329,
+    "wof:lastmodified":1486689087,
     "wof:name":"Greater Morning Star Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

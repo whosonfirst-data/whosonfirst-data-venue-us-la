@@ -2,9 +2,14 @@
   "id": 203190373,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 7th St Gretna LA 70053",
+    "addr:housenumber":"600",
+    "addr:postcode":"70053",
+    "addr:street":"7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.060997,29.9144,-90.060997,29.9144",
     "geom:latitude":29.9144,
     "geom:longitude":-90.060997,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891219,
+        102191575,
+        1108739491,
         85633793,
-        85948301,
-        102083179,
-        85891219
+        85948111,
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"d0c026153271f727ddc05c1b0621b6e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083179,
-            "locality_id":85948301,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85891219,
             "region_id":85688735,
             "venue_id":203190373
         }
     ],
     "wof:id":203190373,
-    "wof:lastmodified":1466539258,
+    "wof:lastmodified":1491919445,
     "wof:name":"St Joseph Apartments",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",

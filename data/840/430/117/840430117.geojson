@@ -2,14 +2,20 @@
   "id": 840430117,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Service Rd Ruston LA 71203",
+    "addr:housenumber":"315",
+    "addr:postcode":"71203",
+    "addr:street":"Service Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.080605,32.516807,-92.080605,32.516807",
     "geom:latitude":32.516807,
     "geom:longitude":-92.080605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 Service Rd",
     "sg:city":"Ruston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":1125155311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nu2NOtRzDpgJejcorUwym_32.516807_-92.080605@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532454,
-    "wof:geomhash":"622ed0c0d8a8a9268aa04b9475e465bd",
+    "wof:geomhash":"40adfc3d89d372f5a51456708afabba2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840430117,
-    "wof:lastmodified":1466545013,
+    "wof:lastmodified":1510696062,
     "wof:name":"Speedee Oil Change & Tune Up",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 203316793,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 W University Ave Lafayette LA 70506",
+    "addr:housenumber":"2009",
+    "addr:postcode":"70506",
+    "addr:street":"W University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.031998,30.2314,-92.031998,30.2314",
     "geom:latitude":30.2314,
     "geom:longitude":-92.031998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2009 W University Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125157153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A6JhIiv9f3bNwhte1tEr9_30.231400_-92.031998@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6dfcb8068d43715719ded5da478c019",
+    "wof:geomhash":"16e31f7d7e522bf63f484e75f7ae9c27",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":203316793,
-    "wof:lastmodified":1466539421,
+    "wof:lastmodified":1510694091,
     "wof:name":"Family Dollar Stores Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

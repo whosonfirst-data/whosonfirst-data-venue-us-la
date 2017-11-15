@@ -2,9 +2,14 @@
   "id": 840440975,
   "type": "Feature",
   "properties": {
+    "addr:full":"3722 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"3722",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.02091,30.009214,-90.02091,30.009214",
     "geom:latitude":30.009214,
     "geom:longitude":-90.02091,
@@ -29,7 +34,15 @@
         "radiator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19AvsGvkih9u5cDYu8bwrS_30.009214_-90.020910@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463532939,
     "wof:geomhash":"bce979b2d1647cefd57223c5fb0ec139",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840440975
+        }
+    ],
     "wof:id":840440975,
-    "wof:lastmodified":1466545189,
+    "wof:lastmodified":1491863980,
     "wof:name":"Radiator Shop Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

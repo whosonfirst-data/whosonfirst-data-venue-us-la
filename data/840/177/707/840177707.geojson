@@ -2,9 +2,14 @@
   "id": 840177707,
   "type": "Feature",
   "properties": {
+    "addr:full":"229 10th St New Orleans LA 70124",
+    "addr:housenumber":"229",
+    "addr:postcode":"70124",
+    "addr:street":"10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117414,30.000403,-90.117414,30.000403",
     "geom:latitude":30.000403,
     "geom:longitude":-90.117414,
@@ -28,7 +33,15 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HjkJGOa2OkTaN9RZxfZPl_30.000403_-90.117414@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463522860,
     "wof:geomhash":"09d772cb77de5f71d552515757e6fdba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840177707
+        }
+    ],
     "wof:id":840177707,
-    "wof:lastmodified":1466541441,
+    "wof:lastmodified":1486689076,
     "wof:name":"E Rusich Seafood Brokerage",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

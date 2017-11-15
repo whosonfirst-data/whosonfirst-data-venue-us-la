@@ -2,14 +2,20 @@
   "id": 840457569,
   "type": "Feature",
   "properties": {
+    "addr:full":"3539 Ryan St Lake Charles LA 70605",
+    "addr:housenumber":"3539",
+    "addr:postcode":"70605",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218571,30.193515,-93.218571,30.193515",
     "geom:latitude":30.193515,
     "geom:longitude":-93.218571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3539 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6262UeEqulnuGu3K223wov_30.193619_-93.218544@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533598,
-    "wof:geomhash":"cb6a40005027217d0f35e70fdaf8a4ff",
+    "wof:geomhash":"4cc8dca114501cd14cd5de092b4b71be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840457569,
-    "wof:lastmodified":1466545402,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

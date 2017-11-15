@@ -2,14 +2,20 @@
   "id": 840084699,
   "type": "Feature",
   "properties": {
+    "addr:full":"5220 Government St Baton Rouge LA 70806",
+    "addr:housenumber":"5220",
+    "addr:postcode":"70806",
+    "addr:street":"Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.135804,30.444496,-91.135804,30.444496",
     "geom:latitude":30.444496,
     "geom:longitude":-91.135804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5220 Government St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85809373
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZElELElEsl9bxiCZ9I7gk_30.444496_-91.135804@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520902,
-    "wof:geomhash":"92a046fb0139fae53de02363037626a4",
+    "wof:geomhash":"c12069b27d6c38c4dfd28d412e127f07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840084699,
-    "wof:lastmodified":1466540535,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85809373,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840380673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1417 Nunez St New Orleans LA 70114",
+    "addr:housenumber":"1417",
+    "addr:postcode":"70114",
+    "addr:street":"Nunez St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.050725,29.940405,-90.050725,29.940405",
     "geom:latitude":29.940405,
     "geom:longitude":-90.050725,
@@ -27,7 +32,15 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746807,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_264kRz3sfObenRjCV136xA_29.940405_-90.050725@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463530378,
     "wof:geomhash":"5a51a7747503cf3a35847fc32b25e46c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746807,
+            "region_id":85688735,
+            "venue_id":840380673
+        }
+    ],
     "wof:id":840380673,
-    "wof:lastmodified":1466544136,
+    "wof:lastmodified":1486689089,
     "wof:name":"Home Again",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746807,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

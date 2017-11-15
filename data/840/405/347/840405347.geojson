@@ -2,9 +2,14 @@
   "id": 840405347,
   "type": "Feature",
   "properties": {
+    "addr:full":"7900 Lafourche St New Orleans LA 70127",
+    "addr:housenumber":"7900",
+    "addr:postcode":"70127",
+    "addr:street":"Lafourche St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.978845,30.052007,-89.978845,30.052007",
     "geom:latitude":30.052007,
     "geom:longitude":-89.978845,
@@ -24,7 +29,15 @@
     "sg:postcode":"70127",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g1lquv1lVBm6KD06p7omz_30.052007_-89.978845@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463531436,
     "wof:geomhash":"10a63c0527c280e0420a83094a783956",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840405347
+        }
+    ],
     "wof:id":840405347,
-    "wof:lastmodified":1466544425,
+    "wof:lastmodified":1486688716,
     "wof:name":"M M E Consultants  LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

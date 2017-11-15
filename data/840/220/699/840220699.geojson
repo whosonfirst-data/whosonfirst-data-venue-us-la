@@ -2,14 +2,20 @@
   "id": 840220699,
   "type": "Feature",
   "properties": {
+    "addr:full":"6920 Bluebonnet Blvd Baton Rouge LA 70810",
+    "addr:housenumber":"6920",
+    "addr:postcode":"70810",
+    "addr:street":"Bluebonnet Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.093826,30.387128,-91.093826,30.387128",
     "geom:latitude":30.387128,
     "geom:longitude":-91.093826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6920 Bluebonnet Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85832997
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41J396G2Vz5vLhtiYAlqpc_30.387128_-91.093826@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523849,
-    "wof:geomhash":"40beb7993bea487bfea0f17e54d18fb0",
+    "wof:geomhash":"88a67db9368cf1a50bdb95a7ad687222",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840220699,
-    "wof:lastmodified":1466541641,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85832997,
     "wof:placetype":"venue",

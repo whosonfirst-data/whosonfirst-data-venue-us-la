@@ -2,14 +2,20 @@
   "id": 840161733,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Elizabeth St Many LA 71449",
+    "addr:housenumber":"215",
+    "addr:postcode":"71449",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.488037,31.566548,-93.488037,31.566548",
     "geom:latitude":31.566548,
     "geom:longitude":-93.488037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Elizabeth St",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081409,
         85806377
     ],
+    "wof:brand_id":1125154615,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38lTuqWhVDVLwa3aajQHNe_31.566548_-93.488037@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522479,
-    "wof:geomhash":"21ef0989f29da1e186a8e1f3f2c3a008",
+    "wof:geomhash":"1c6db23d0bc6dbbb5f6686904a10ea20",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840161733,
-    "wof:lastmodified":1466541201,
+    "wof:lastmodified":1510698973,
     "wof:name":"Centennial Wireless",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",

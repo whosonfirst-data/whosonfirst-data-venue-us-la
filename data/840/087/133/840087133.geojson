@@ -2,14 +2,20 @@
   "id": 840087133,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Lee Ave Lafayette LA 70501",
+    "addr:housenumber":"911",
+    "addr:postcode":"70501",
+    "addr:street":"Lee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.018668,30.221244,-92.018668,30.221244",
     "geom:latitude":30.221244,
     "geom:longitude":-92.018668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"911 Lee Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HApY4ZcLixnIWRfB0hU6F_30.221244_-92.018668@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520963,
-    "wof:geomhash":"047eae816f828bb9066b9c44b142d505",
+    "wof:geomhash":"f92e313526b249c59835fa2d509fd924",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840087133,
-    "wof:lastmodified":1466540533,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840376927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Caton St New Orleans LA 70122",
+    "addr:housenumber":"2111",
+    "addr:postcode":"70122",
+    "addr:street":"Caton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.060783,29.998934,-90.060783,29.998934",
     "geom:latitude":29.998934,
     "geom:longitude":-90.060783,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866059,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866059
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +56,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":840376927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866059,
             "region_id":85688735,
             "venue_id":840376927
         }
     ],
     "wof:id":840376927,
-    "wof:lastmodified":1466544073,
+    "wof:lastmodified":1486688011,
     "wof:name":"Allen Coleman",
     "wof:parent_id":85866059,
     "wof:placetype":"venue",

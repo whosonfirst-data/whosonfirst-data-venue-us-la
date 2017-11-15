@@ -2,9 +2,14 @@
   "id": 840360143,
   "type": "Feature",
   "properties": {
+    "addr:full":"8128 Plum St New Orleans LA 70118",
+    "addr:housenumber":"8128",
+    "addr:postcode":"70118",
+    "addr:street":"Plum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.129735,29.94853,-90.129735,29.94853",
     "geom:latitude":29.94853,
     "geom:longitude":-90.129735,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZvG7fWrmzmKjjdHlCS9W7_29.948530_-90.129735@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463529391,
     "wof:geomhash":"7f35973c671f2e1a6a7484820d0ff148",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840360143
+        }
+    ],
     "wof:id":840360143,
-    "wof:lastmodified":1466544083,
+    "wof:lastmodified":1486688973,
     "wof:name":"Mater Dolorosa Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

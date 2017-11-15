@@ -2,14 +2,20 @@
   "id": 840322679,
   "type": "Feature",
   "properties": {
+    "addr:full":"8932 Jewella Ave Shreveport LA 71118",
+    "addr:housenumber":"8932",
+    "addr:postcode":"71118",
+    "addr:street":"Jewella Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.79754,32.415604,-93.79754,32.415604",
     "geom:latitude":32.415604,
     "geom:longitude":-93.79754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8932 Jewella Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087235,
         85880999
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d57cW4SnC7DuDQcadT7MR_32.415604_-93.797540@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527588,
-    "wof:geomhash":"7ce4b788438685ed1af4e66b571b5eea",
+    "wof:geomhash":"d56454989c9a725d069c30d30feaf971",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840322679,
-    "wof:lastmodified":1466542994,
+    "wof:lastmodified":1510695761,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",

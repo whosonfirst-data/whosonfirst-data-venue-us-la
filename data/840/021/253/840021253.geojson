@@ -2,14 +2,20 @@
   "id": 840021253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1128 Louisiana Ave Shreveport LA 71101",
+    "addr:housenumber":"1128",
+    "addr:postcode":"71101",
+    "addr:street":"Louisiana Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.745142,32.504362,-93.745142,32.504362",
     "geom:latitude":32.504362,
     "geom:longitude":-93.745142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1128 Louisiana Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85881001
     ],
+    "wof:brand_id":1125151735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06fW59iPQqza5bUNnbG1Qy_32.504362_-93.745142@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519435,
-    "wof:geomhash":"7eba01b054a03fa344e4d76a06abd90c",
+    "wof:geomhash":"9a57bafe7f63d075000bbd2feca46852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840021253,
-    "wof:lastmodified":1466539753,
+    "wof:lastmodified":1510698805,
     "wof:name":"Internal Medicine Assoc",
     "wof:parent_id":85881001,
     "wof:placetype":"venue",

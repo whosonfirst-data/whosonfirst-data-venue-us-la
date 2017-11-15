@@ -2,14 +2,20 @@
   "id": 840112933,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 1st St Franklin LA 70538",
+    "addr:housenumber":"805",
+    "addr:postcode":"70538",
+    "addr:street":"1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.502265,29.794126,-91.502265,29.794126",
     "geom:latitude":29.794126,
     "geom:longitude":-91.502265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"805 1st St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125157255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZAWlp8AKbIEvY2f5CNhKj_29.794126_-91.502265@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521486,
-    "wof:geomhash":"1374a5537c9a39a2c5d9e3b9ba22c65c",
+    "wof:geomhash":"b88dab7805be3ea76acd63faef4f3153",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840112933,
-    "wof:lastmodified":1466540856,
+    "wof:lastmodified":1510697179,
     "wof:name":"St Mary's Episcopal Church",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

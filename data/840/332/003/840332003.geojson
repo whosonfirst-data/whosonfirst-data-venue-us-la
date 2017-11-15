@@ -2,9 +2,14 @@
   "id": 840332003,
   "type": "Feature",
   "properties": {
+    "addr:full":"5109 N Claiborne Ave New Orleans LA 70117",
+    "addr:housenumber":"5109",
+    "addr:postcode":"70117",
+    "addr:street":"N Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019598,29.967536,-90.019598,29.967536",
     "geom:latitude":29.967536,
     "geom:longitude":-90.019598,
@@ -24,7 +29,15 @@
     "sg:postcode":"70117",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746835,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dhcB8p0pp9LMTifFfPTqz_29.967536_-90.019598@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528036,
     "wof:geomhash":"c54ba975b5096c8b56a6301e736a9a14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
+            "region_id":85688735,
+            "venue_id":840332003
+        }
+    ],
     "wof:id":840332003,
-    "wof:lastmodified":1466543083,
+    "wof:lastmodified":1486689082,
     "wof:name":"Harvey's Barber Stylist Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

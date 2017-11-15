@@ -2,9 +2,14 @@
   "id": 840381693,
   "type": "Feature",
   "properties": {
+    "addr:full":"4314 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"4314",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021242,30.012867,-90.021242,30.012867",
     "geom:latitude":30.012867,
     "geom:longitude":-90.021242,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02A0htXd8DB7O7tJH4rVw8_30.012867_-90.021242@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463530423,
     "wof:geomhash":"5ec6a2ac7399e7d7d6b7b4b4769108ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840381693
+        }
+    ],
     "wof:id":840381693,
-    "wof:lastmodified":1466544092,
+    "wof:lastmodified":1486687758,
     "wof:name":"Family Dollar Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

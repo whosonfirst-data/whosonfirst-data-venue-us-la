@@ -2,14 +2,20 @@
   "id": 840437693,
   "type": "Feature",
   "properties": {
+    "addr:full":"2319 3rd St New Orleans LA 70113",
+    "addr:housenumber":"2319",
+    "addr:postcode":"70113",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.089048,29.938336,-90.089048,29.938336",
     "geom:latitude":29.938336,
     "geom:longitude":-90.089048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2319 3rd St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,33 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866121,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866121
+        85688735
     ],
+    "wof:brand_id":1125152965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M5gHOpmM9LZLySOm15ISd_29.938336_-90.089048@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532794,
-    "wof:geomhash":"2842f25ab77f927c7a7830e96163da51",
+    "wof:geomhash":"300e24a954622ac38867c9ff314d3b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866121,
             "region_id":85688735,
             "venue_id":840437693
         }
     ],
     "wof:id":840437693,
-    "wof:lastmodified":1466545131,
+    "wof:lastmodified":1510612914,
     "wof:name":"New Zion Baptist Church",
     "wof:parent_id":85866121,
     "wof:placetype":"venue",

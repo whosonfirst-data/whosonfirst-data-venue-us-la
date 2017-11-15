@@ -2,9 +2,14 @@
   "id": 840189163,
   "type": "Feature",
   "properties": {
+    "addr:full":"12930 Jeanne Ct New Orleans LA 70128",
+    "addr:housenumber":"12930",
+    "addr:postcode":"70128",
+    "addr:street":"Jeanne Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.955909,30.054166,-89.955909,30.054166",
     "geom:latitude":30.054166,
     "geom:longitude":-89.955909,
@@ -27,7 +32,16 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739509,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rhoYTLxMKQOoD5zcJ8JFz_30.054166_-89.955909@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463523096,
     "wof:geomhash":"45011cbc00e0ad551efb6cb35b3965cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739509,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840189163
+        }
+    ],
     "wof:id":840189163,
-    "wof:lastmodified":1466541352,
+    "wof:lastmodified":1486689130,
     "wof:name":"Dining Car Employees",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

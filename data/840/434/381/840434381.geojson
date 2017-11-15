@@ -2,14 +2,20 @@
   "id": 840434381,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 Airline Dr Metairie LA 70001",
+    "addr:housenumber":"414",
+    "addr:postcode":"70001",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.130028,29.97235,-90.130028,29.97235",
     "geom:latitude":29.97235,
     "geom:longitude":-90.130028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"414 Airline Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85866143
     ],
+    "wof:brand_id":1125156463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XSkbPT1tjhAQgq8uZM589_29.972350_-90.130028@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532658,
-    "wof:geomhash":"783f8703ac0502506be33fae85775f84",
+    "wof:geomhash":"e080b7715f2e62b7eda6be9890bf0219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840434381,
-    "wof:lastmodified":1466545068,
+    "wof:lastmodified":1510699332,
     "wof:name":"Rally's Hamburgers Inc",
     "wof:parent_id":85866143,
     "wof:placetype":"venue",

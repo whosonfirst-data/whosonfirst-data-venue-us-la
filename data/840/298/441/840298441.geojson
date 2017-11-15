@@ -2,14 +2,20 @@
   "id": 840298441,
   "type": "Feature",
   "properties": {
+    "addr:full":"7370 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"7370",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.001627,30.011863,-90.001627,30.011863",
     "geom:latitude":30.011863,
     "geom:longitude":-90.001627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7370 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -25,35 +31,38 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866175,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JnY4C5hxE8ytg2fM9uSrF_30.011863_-90.001627@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526419,
-    "wof:geomhash":"ac2a1a04303558683dcd263f1dea510d",
+    "wof:geomhash":"8550f38102fd2c8b78a33a49d037c607",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866169,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
             "region_id":85688735,
             "venue_id":840298441
         }
     ],
     "wof:id":840298441,
-    "wof:lastmodified":1466542529,
+    "wof:lastmodified":1510697718,
     "wof:name":"International Union-Oper Engrs",
-    "wof:parent_id":85866169,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

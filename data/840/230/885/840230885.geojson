@@ -2,14 +2,20 @@
   "id": 840230885,
   "type": "Feature",
   "properties": {
+    "addr:full":"2840 Covington Cir Shreveport LA 71106",
+    "addr:housenumber":"2840",
+    "addr:postcode":"71106",
+    "addr:street":"Covington Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.703531,32.367653,-93.703531,32.367653",
     "geom:latitude":32.367653,
     "geom:longitude":-93.703531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2840 Covington Cir",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wWETxLDDPe8wOTuwPQT6K_32.367653_-93.703531@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524131,
-    "wof:geomhash":"7518c26bfb0a47e46ca70d458b0bf5ba",
+    "wof:geomhash":"1c7e37ce8598331e97195094b96c3ab1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840230885,
-    "wof:lastmodified":1466541780,
+    "wof:lastmodified":1510696926,
     "wof:name":"International Paper Co",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

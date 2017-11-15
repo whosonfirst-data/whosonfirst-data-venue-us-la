@@ -2,9 +2,14 @@
   "id": 840321967,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 Livaccari Dr Meraux LA 70092",
+    "addr:housenumber":"2520",
+    "addr:postcode":"70092",
+    "addr:street":"Livaccari Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.909541,29.919862,-89.909541,29.919862",
     "geom:latitude":29.919862,
     "geom:longitude":-89.909541,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -46,6 +52,7 @@
     "wof:geomhash":"0079c1495c601e1c8f17de7845bf7daa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840321967,
-    "wof:lastmodified":1466543053,
+    "wof:lastmodified":1491910639,
     "wof:name":"A Breit & Co Inc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

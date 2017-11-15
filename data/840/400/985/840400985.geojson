@@ -2,14 +2,20 @@
   "id": 840400985,
   "type": "Feature",
   "properties": {
+    "addr:full":"3619 Ambassador Caffery Pkwy Lafayette LA 70503",
+    "addr:housenumber":"3619",
+    "addr:postcode":"70503",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.06993,30.17441,-92.06993,30.17441",
     "geom:latitude":30.17441,
     "geom:longitude":-92.06993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3619 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":420574963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bggMa5jAZ34w77QxiNTHx_30.174410_-92.069930@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531249,
-    "wof:geomhash":"b82baeb1130063cd72f4be320af0d1b0",
+    "wof:geomhash":"6ca5935f8257ae2982973e78d8dd38c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840400985,
-    "wof:lastmodified":1466544631,
+    "wof:lastmodified":1510604160,
     "wof:name":"Wells Fargo Financial Accptnce",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

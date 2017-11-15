@@ -2,14 +2,20 @@
   "id": 840311543,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Frontage Rd Monroe LA 71202",
+    "addr:housenumber":"5400",
+    "addr:postcode":"71202",
+    "addr:street":"Frontage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.052188,32.493464,-92.052188,32.493464",
     "geom:latitude":32.493464,
     "geom:longitude":-92.052188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5400 Frontage Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":420575241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rH13qTWmD2EEfmx4JC6DJ_32.493464_-92.052188@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527070,
-    "wof:geomhash":"a17ded07ca74a171d7c492e065bad326",
+    "wof:geomhash":"dc48023496d1168f027b0110e1a727da",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840311543,
-    "wof:lastmodified":1466542785,
+    "wof:lastmodified":1510602380,
     "wof:name":"Sam's Club",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

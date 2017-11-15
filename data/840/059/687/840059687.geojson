@@ -2,14 +2,20 @@
   "id": 840059687,
   "type": "Feature",
   "properties": {
+    "addr:full":"2047 Metairie Rd Metairie LA 70005",
+    "addr:housenumber":"2047",
+    "addr:postcode":"70005",
+    "addr:street":"Metairie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.145045,29.985607,-90.145045,29.985607",
     "geom:latitude":29.985607,
     "geom:longitude":-90.145045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2047 Metairie Rd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125158475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6anIUIstYR89pLJgvOsNEv_29.985607_-90.145045@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520266,
-    "wof:geomhash":"59fdab749aeea2fb40257f729df981e0",
+    "wof:geomhash":"0556903a7bb59aa85afc3c3fb44da629",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840059687,
-    "wof:lastmodified":1466540283,
+    "wof:lastmodified":1510699304,
     "wof:name":"Children's Orchard",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840380189,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Earnest Odom Rd Pitkin LA 70656",
+    "addr:housenumber":"39",
+    "addr:postcode":"70656",
+    "addr:street":"Earnest Odom Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.728815,30.904793,-92.728815,30.904793",
     "geom:latitude":30.904793,
     "geom:longitude":-92.728815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 Earnest Odom Rd",
     "sg:city":"Pitkin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125156255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cBOzlpygowdKLWALpJlja_30.904793_-92.728815@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530357,
-    "wof:geomhash":"70d649004655d4b4eec4d5d029353c22",
+    "wof:geomhash":"e0d1bf83ef62fa93d85e8a9f6ce4dcbd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840380189,
-    "wof:lastmodified":1466543893,
+    "wof:lastmodified":1510696913,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840320653,
   "type": "Feature",
   "properties": {
+    "addr:full":"3521 18th St Metairie LA 70002",
+    "addr:housenumber":"3521",
+    "addr:postcode":"70002",
+    "addr:street":"18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.159569,30.008606,-90.159569,30.008606",
     "geom:latitude":30.008606,
     "geom:longitude":-90.159569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3521 18th St",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125150221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nK6bHhpR3Lsltv7SclNXW_30.008606_-90.159569@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527487,
-    "wof:geomhash":"d3fcd76d5a847ac8aa1978fed53724c2",
+    "wof:geomhash":"34a847b90fda4a36cf23dcc7d9afad52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840320653,
-    "wof:lastmodified":1466542990,
+    "wof:lastmodified":1510699322,
     "wof:name":"Natural Nails",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

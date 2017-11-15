@@ -2,9 +2,14 @@
   "id": 840427755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 S Salcedo St New Orleans LA 70125",
+    "addr:housenumber":"2010",
+    "addr:postcode":"70125",
+    "addr:street":"S Salcedo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105925,29.949996,-90.105925,29.949996",
     "geom:latitude":29.949996,
     "geom:longitude":-90.105925,
@@ -27,7 +32,15 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866139,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JoGCGcUM7Wvp3WmTj1vuD_29.949996_-90.105925@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463532347,
     "wof:geomhash":"dd40cb05eb3b704e63236ad0b954b8ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866139,
+            "region_id":85688735,
+            "venue_id":840427755
+        }
+    ],
     "wof:id":840427755,
-    "wof:lastmodified":1466544878,
+    "wof:lastmodified":1486688686,
     "wof:name":"John Clancy Appraisals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866139,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

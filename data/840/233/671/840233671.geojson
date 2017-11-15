@@ -2,14 +2,20 @@
   "id": 840233671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Millhaven Rd Monroe LA 71203",
+    "addr:housenumber":"4700",
+    "addr:postcode":"71203",
+    "addr:street":"Millhaven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.06481,32.500639,-92.06481,32.500639",
     "geom:latitude":32.500639,
     "geom:longitude":-92.06481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4700 Millhaven Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125151485,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gEiGt9Tcsibl7qqAULeHc_32.500639_-92.064810@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524213,
-    "wof:geomhash":"ef0cbf93c81e1302175ed5caddadbb49",
+    "wof:geomhash":"c38f93762ce391e3dea6e90a9ba388e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840233671,
-    "wof:lastmodified":1466541751,
+    "wof:lastmodified":1510696694,
     "wof:name":"Sears Portrait Studio",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

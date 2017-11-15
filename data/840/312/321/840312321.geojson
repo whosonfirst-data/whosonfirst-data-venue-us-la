@@ -2,9 +2,14 @@
   "id": 840312321,
   "type": "Feature",
   "properties": {
+    "addr:full":"8212 Oak St New Orleans LA 70118",
+    "addr:housenumber":"8212",
+    "addr:postcode":"70118",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.131513,29.948627,-90.131513,29.948627",
     "geom:latitude":29.948627,
     "geom:longitude":-90.131513,
@@ -24,7 +29,16 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nshV9cryqWwvh9zDWTHoQ_29.948627_-90.131513@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463527104,
     "wof:geomhash":"d26a78737373eb20c1a634fd978c9af0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840312321
+        }
+    ],
     "wof:id":840312321,
-    "wof:lastmodified":1466542821,
+    "wof:lastmodified":1486689238,
     "wof:name":"Lafleurs Cajun Food & Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

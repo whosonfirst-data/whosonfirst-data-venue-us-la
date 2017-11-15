@@ -2,14 +2,20 @@
   "id": 840372947,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Poydras St New Orleans LA 70130",
+    "addr:housenumber":"1100",
+    "addr:postcode":"70130",
+    "addr:street":"Poydras St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.075612,29.950643,-90.075612,29.950643",
     "geom:latitude":29.950643,
     "geom:longitude":-90.075612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Poydras St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,35 +35,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746615,
+        85831571,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
+    "wof:brand_id":420574515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NNsfdImIqHNFcFF0jzmEZ_29.950643_-90.075612@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530027,
-    "wof:geomhash":"73d4b1a85d4e6ff8d8c55fa10377e7a5",
+    "wof:geomhash":"4bef387480236d908a906c03efeae3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866107,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746615,
+            "neighbourhood_id":85831571,
             "region_id":85688735,
             "venue_id":840372947
         }
     ],
     "wof:id":840372947,
-    "wof:lastmodified":1466543931,
+    "wof:lastmodified":1510604443,
     "wof:name":"Fidelity National Title",
-    "wof:parent_id":85866107,
+    "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840035783,
   "type": "Feature",
   "properties": {
+    "addr:full":"8400 Oak St New Orleans LA 70118",
+    "addr:housenumber":"8400",
+    "addr:postcode":"70118",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.133173,29.950089,-90.133173,29.950089",
     "geom:latitude":29.950089,
     "geom:longitude":-90.133173,
@@ -25,7 +30,16 @@
     "sg:province":"LA",
     "sg:website":"www.zacharysrestaurant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gJ4PUo9epUMDG3jTLVlDp_29.950089_-90.133173@1294127638"
@@ -33,11 +47,23 @@
     "wof:country":"US",
     "wof:created":1463519746,
     "wof:geomhash":"6ee1c1edddced1fded0d5832298ba597",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840035783
+        }
+    ],
     "wof:id":840035783,
-    "wof:lastmodified":1466540008,
+    "wof:lastmodified":1486689241,
     "wof:name":"Zachary's Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

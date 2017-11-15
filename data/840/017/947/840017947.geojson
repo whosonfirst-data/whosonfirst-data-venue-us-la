@@ -2,14 +2,20 @@
   "id": 840017947,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Derbigny St Gretna LA 70053",
+    "addr:housenumber":"300",
+    "addr:postcode":"70053",
+    "addr:street":"Derbigny St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066177,29.9147,-90.066177,29.9147",
     "geom:latitude":29.9147,
     "geom:longitude":-90.066177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Derbigny St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -28,33 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891219,
         102191575,
+        1108739491,
         85633793,
-        85948301,
-        102083179,
-        85891219
+        85948111,
+        102086693,
+        85688735
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DRecIOrD87fOwrLeep7ah_29.914700_-90.066177@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519365,
-    "wof:geomhash":"f125c047032534d8955ffd80b8c3618a",
+    "wof:geomhash":"df8c7c3bb7aa543ef47226a6b4411e5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083179,
-            "locality_id":85948301,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85891219,
             "region_id":85688735,
             "venue_id":840017947
         }
     ],
     "wof:id":840017947,
-    "wof:lastmodified":1466539774,
+    "wof:lastmodified":1510607666,
     "wof:name":"Central Parking System",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",

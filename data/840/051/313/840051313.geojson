@@ -2,14 +2,20 @@
   "id": 840051313,
   "type": "Feature",
   "properties": {
+    "addr:full":"5651 Hwy 165 Byp Monroe LA 71202",
+    "addr:housenumber":"5651",
+    "addr:postcode":"71202",
+    "addr:street":"Hwy 165 Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.087321,32.442564,-92.087321,32.442564",
     "geom:latitude":32.442564,
     "geom:longitude":-92.087321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5651 Hwy 165 Byp",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125158153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zOo6Dn2I8jMnwfFH7z74h_32.442564_-92.087321@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520074,
-    "wof:geomhash":"82ea648443a9049b228a1e6ded4692fd",
+    "wof:geomhash":"fc57d3057a2228a04720ec0eed5ee19b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840051313,
-    "wof:lastmodified":1466540097,
+    "wof:lastmodified":1510697479,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

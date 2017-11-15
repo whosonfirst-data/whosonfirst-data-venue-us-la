@@ -2,14 +2,20 @@
   "id": 840006903,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 SW Evangeline Thruway Lafayette LA 70501",
+    "addr:housenumber":"1227",
+    "addr:postcode":"70501",
+    "addr:street":"Sw Evangeline",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.005095,30.217486,-92.005095,30.217486",
     "geom:latitude":30.217486,
     "geom:longitude":-92.005095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1227 SW Evangeline Thruway",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WOk2RglCrgx15jMwTgVrr_30.217486_-92.005095@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519136,
-    "wof:geomhash":"16cf30c71c9a44247c55319f9b18be42",
+    "wof:geomhash":"3170422b20d833e3238efebf8ae4197d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840006903,
-    "wof:lastmodified":1466539645,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

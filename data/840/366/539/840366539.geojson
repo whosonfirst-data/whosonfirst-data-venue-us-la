@@ -2,14 +2,20 @@
   "id": 840366539,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 Crockett St Shreveport LA 71101",
+    "addr:housenumber":"512",
+    "addr:postcode":"71101",
+    "addr:street":"Crockett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.748943,32.51065,-93.748943,32.51065",
     "geom:latitude":32.51065,
     "geom:longitude":-93.748943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"512 Crockett St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087235,
         85880977
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0glq158R00QfMYAx9m4RUB_32.510650_-93.748943@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529705,
-    "wof:geomhash":"1a425f21600a71db98f27109167ccc60",
+    "wof:geomhash":"f5d5039a2543a9a60b4b06c671fbc4db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840366539,
-    "wof:lastmodified":1466543722,
+    "wof:lastmodified":1510602838,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85880977,
     "wof:placetype":"venue",

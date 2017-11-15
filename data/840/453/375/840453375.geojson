@@ -2,9 +2,14 @@
   "id": 840453375,
   "type": "Feature",
   "properties": {
+    "addr:full":"2856 S Claiborne Ave New Orleans LA 70125",
+    "addr:housenumber":"2856",
+    "addr:postcode":"70125",
+    "addr:street":"S Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.094862,29.942107,-90.094862,29.942107",
     "geom:latitude":29.942107,
     "geom:longitude":-90.094862,
@@ -28,7 +33,16 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746375,
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SHBemU9Es5NWs3JyK8JHj_29.942107_-90.094862@1299784598"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463533439,
     "wof:geomhash":"6f898caa7fbcd9efdc1a23bb45c5de76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746375,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840453375
+        }
+    ],
     "wof:id":840453375,
-    "wof:lastmodified":1466545376,
+    "wof:lastmodified":1486689142,
     "wof:name":"McDonald's",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840419491,
   "type": "Feature",
   "properties": {
+    "addr:full":"14736 Peltier Dr New Orleans LA 70129",
+    "addr:housenumber":"14736",
+    "addr:postcode":"70129",
+    "addr:street":"Peltier Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.910166,30.040736,-89.910166,30.040736",
     "geom:latitude":30.040736,
     "geom:longitude":-89.910166,
@@ -25,7 +30,15 @@
     "sg:province":"LA",
     "sg:website":"www.totalcommunityaction.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qvGuQhS3KrXOpgFprAbv7_30.040736_-89.910166@1294127638"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1463532004,
     "wof:geomhash":"b076f4902de4eca8db237d60d77727c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840419491
+        }
+    ],
     "wof:id":840419491,
-    "wof:lastmodified":1466544846,
+    "wof:lastmodified":1486688230,
     "wof:name":"Total Community Action Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 203175995,
   "type": "Feature",
   "properties": {
+    "addr:full":"7896 Highway 23 Belle Chasse LA 70037",
+    "addr:housenumber":"7896",
+    "addr:postcode":"70037",
+    "addr:street":"Highway 23",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.995903,29.862101,-89.995903,29.862101",
     "geom:latitude":29.862101,
     "geom:longitude":-89.995903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7896 Highway 23",
     "sg:city":"Belle Chasse",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         85948575,
         102082451
     ],
+    "wof:brand_id":1125157153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xSxKa6VFmK89qQE89HNSa_29.862101_-89.995903@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c2ba281a85d21e2df61df1b29183194",
+    "wof:geomhash":"79775bbab93a236655f0226c76fcdaf2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":203175995,
-    "wof:lastmodified":1466540760,
+    "wof:lastmodified":1510694091,
     "wof:name":"Family Dollar Stores Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

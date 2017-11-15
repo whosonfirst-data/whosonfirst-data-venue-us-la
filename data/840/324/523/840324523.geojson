@@ -2,14 +2,20 @@
   "id": 840324523,
   "type": "Feature",
   "properties": {
+    "addr:full":"1516 Hospital Ave Franklin LA 70538",
+    "addr:housenumber":"1516",
+    "addr:postcode":"70538",
+    "addr:street":"Hospital Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.499102,29.803604,-91.499102,29.803604",
     "geom:latitude":29.803604,
     "geom:longitude":-91.499102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1516 Hospital Ave",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":420574687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25VQtPnPBeuxfhqh1TnhlP_29.803604_-91.499102@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527702,
-    "wof:geomhash":"2d88224f367cdebb92a40c1670f2f06d",
+    "wof:geomhash":"70014b01002df774638d90dd3c953ec6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840324523,
-    "wof:lastmodified":1466542964,
+    "wof:lastmodified":1510604336,
     "wof:name":"Prudential Insurance Co",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

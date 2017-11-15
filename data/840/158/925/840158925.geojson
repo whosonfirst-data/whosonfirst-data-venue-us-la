@@ -2,14 +2,20 @@
   "id": 840158925,
   "type": "Feature",
   "properties": {
+    "addr:full":"198 Saxon St Ponchatoula LA 70454",
+    "addr:housenumber":"198",
+    "addr:postcode":"70454",
+    "addr:street":"Saxon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.428818,30.439318,-90.428818,30.439318",
     "geom:latitude":30.439318,
     "geom:longitude":-90.428818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"198 Saxon St",
     "sg:city":"Ponchatoula",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083809,
         85839553
     ],
+    "wof:brand_id":1125154727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iS3sYeWul0kiuwkj45MdJ_30.439318_-90.428818@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522428,
-    "wof:geomhash":"a41fe5e4ac03e6679c8545558ccf38df",
+    "wof:geomhash":"59cd316f0a799e3d2c5fddeb042cc479",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840158925,
-    "wof:lastmodified":1466541270,
+    "wof:lastmodified":1510695867,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":85839553,
     "wof:placetype":"venue",

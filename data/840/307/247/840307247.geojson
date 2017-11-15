@@ -2,9 +2,14 @@
   "id": 840307247,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 3rd St Gretna LA 70053",
+    "addr:housenumber":"618",
+    "addr:postcode":"70053",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.064205,29.916986,-90.064205,29.916986",
     "geom:latitude":29.916986,
     "geom:longitude":-90.064205,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891219,
         102191575,
+        1108739491,
         85633793,
-        85948301,
-        102083179,
-        85891219
+        85948111,
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083179,
-            "locality_id":85948301,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85891219,
             "region_id":85688735,
             "venue_id":840307247
         }
     ],
     "wof:id":840307247,
-    "wof:lastmodified":1466542661,
+    "wof:lastmodified":1491919439,
     "wof:name":"Happitogz",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",

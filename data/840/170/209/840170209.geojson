@@ -2,9 +2,14 @@
   "id": 840170209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Whitney Ave New Orleans LA 70114",
+    "addr:housenumber":"1401",
+    "addr:postcode":"70114",
+    "addr:street":"Whitney Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.041271,29.940002,-90.041271,29.940002",
     "geom:latitude":29.940002,
     "geom:longitude":-90.041271,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866159,
         102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866151
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866151,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":85866159,
             "region_id":85688735,
             "venue_id":840170209
         }
     ],
     "wof:id":840170209,
-    "wof:lastmodified":1466541176,
+    "wof:lastmodified":1486688694,
     "wof:name":"New England Insurance Inc",
-    "wof:parent_id":85866151,
+    "wof:parent_id":85866159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

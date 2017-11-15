@@ -2,14 +2,20 @@
   "id": 840046417,
   "type": "Feature",
   "properties": {
+    "addr:full":"816 N Lakeshore Dr Lake Charles LA 70601",
+    "addr:housenumber":"816",
+    "addr:postcode":"70601",
+    "addr:street":"N Lakeshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.232088,30.23747,-93.232088,30.23747",
     "geom:latitude":30.23747,
     "geom:longitude":-93.232088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"816 N Lakeshore Dr",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85822313
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KgBpPt8kJr53y3vRmiDqi_30.237470_-93.232088@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519971,
-    "wof:geomhash":"823a4c81512c0c75b16b44b07dc92b71",
+    "wof:geomhash":"846f2de66760d981fe98c4ff087b45ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840046417,
-    "wof:lastmodified":1466540090,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":85822313,
     "wof:placetype":"venue",

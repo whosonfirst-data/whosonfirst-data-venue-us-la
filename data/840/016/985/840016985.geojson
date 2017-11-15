@@ -2,14 +2,20 @@
   "id": 840016985,
   "type": "Feature",
   "properties": {
+    "addr:full":"3515 Louisa St New Orleans LA 70126",
+    "addr:housenumber":"3515",
+    "addr:postcode":"70126",
+    "addr:street":"Louisa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.034496,29.993154,-90.034496,29.993154",
     "geom:latitude":29.993154,
     "geom:longitude":-90.034496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3515 Louisa St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -25,35 +31,38 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521719,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866087
+        85688735
     ],
+    "wof:brand_id":1125155725,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OIF9IwpwqKly813gqx8l1_29.993154_-90.034496@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519348,
-    "wof:geomhash":"ec9ab760fdcb164d4596c11e94f0e98d",
+    "wof:geomhash":"90134e15521fdb9295ce3292cabe8764",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866087,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420521719,
             "region_id":85688735,
             "venue_id":840016985
         }
     ],
     "wof:id":840016985,
-    "wof:lastmodified":1466539775,
+    "wof:lastmodified":1510697284,
     "wof:name":"Bethel Lutheran Church",
-    "wof:parent_id":85866087,
+    "wof:parent_id":420521719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

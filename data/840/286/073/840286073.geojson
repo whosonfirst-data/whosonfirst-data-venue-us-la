@@ -2,9 +2,14 @@
   "id": 840286073,
   "type": "Feature",
   "properties": {
+    "addr:full":"46 Fairway Oaks Dr New Orleans LA 70131",
+    "addr:housenumber":"46",
+    "addr:postcode":"70131",
+    "addr:street":"Fairway Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.955186,29.910616,-89.955186,29.910616",
     "geom:latitude":29.910616,
     "geom:longitude":-89.955186,
@@ -27,7 +32,16 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521765,
+        102191575,
+        1108746803,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108739497
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZETXQhOMVHh4tJMBixnJR_29.910616_-89.955186@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463525891,
     "wof:geomhash":"94b36bd0b2f2d79314892ac850b01b54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840286073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840286073
+        }
+    ],
     "wof:id":840286073,
-    "wof:lastmodified":1466542249,
+    "wof:lastmodified":1486688126,
     "wof:name":"Cascade Medical",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

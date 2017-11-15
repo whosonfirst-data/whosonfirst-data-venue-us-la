@@ -2,9 +2,14 @@
   "id": 840031917,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Broadway St New Orleans LA 70118",
+    "addr:housenumber":"170",
+    "addr:postcode":"70118",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.133238,29.929156,-90.133238,29.929156",
     "geom:latitude":29.929156,
     "geom:longitude":-90.133238,
@@ -27,7 +32,15 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746809,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01fGycnGfA8fb0i7EpXwyO_29.929156_-90.133238@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463519670,
     "wof:geomhash":"18e79b2f6019648d073ef34891687336",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746809,
+            "region_id":85688735,
+            "venue_id":840031917
+        }
+    ],
     "wof:id":840031917,
-    "wof:lastmodified":1466539908,
+    "wof:lastmodified":1486689013,
     "wof:name":"Hopper's Wines & Spirits",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

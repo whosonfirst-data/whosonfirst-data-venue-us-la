@@ -2,14 +2,20 @@
   "id": 840408091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Hudson Ln Monroe LA 71201",
+    "addr:housenumber":"1800",
+    "addr:postcode":"71201",
+    "addr:street":"Hudson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.10696,32.519489,-92.10696,32.519489",
     "geom:latitude":32.519489,
     "geom:longitude":-92.10696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 Hudson Ln",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125159513,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EolhdupNqw9iwvoCv1ojF_32.519489_-92.106960@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531548,
-    "wof:geomhash":"3482584bef44f313e59b6cf64c32dfc2",
+    "wof:geomhash":"9e41a83d8f05068e74ba840af13b82b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840408091,
-    "wof:lastmodified":1466544439,
+    "wof:lastmodified":1510698879,
     "wof:name":"Community Trust Bank",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

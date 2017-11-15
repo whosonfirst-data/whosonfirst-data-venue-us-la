@@ -2,9 +2,14 @@
   "id": 840153259,
   "type": "Feature",
   "properties": {
+    "addr:full":"14500 Chef Menteur Hwy New Orleans LA 70129",
+    "addr:housenumber":"14500",
+    "addr:postcode":"70129",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.908661,30.037229,-89.908661,30.037229",
     "geom:latitude":30.037229,
     "geom:longitude":-89.908661,
@@ -28,7 +33,16 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746553,
+        85866175,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32xWzdwdzUIyacm7ys8XfB_30.037229_-89.908661@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463522316,
     "wof:geomhash":"23803e83ff3faca6c1204026428c6193",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746553,
+            "neighbourhood_id":85866175,
+            "region_id":85688735,
+            "venue_id":840153259
+        }
+    ],
     "wof:id":840153259,
-    "wof:lastmodified":1466540848,
+    "wof:lastmodified":1486689144,
     "wof:name":"A Storage Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

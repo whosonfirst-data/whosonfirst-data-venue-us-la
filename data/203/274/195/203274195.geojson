@@ -2,9 +2,14 @@
   "id": 203274195,
   "type": "Feature",
   "properties": {
+    "addr:full":"4306 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"4306",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.038872,30.004077,-90.038872,30.004077",
     "geom:latitude":30.004077,
     "geom:longitude":-90.038872,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"859179836727104be81c0b7ee55c288c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85821299,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203274195
         }
     ],
     "wof:id":203274195,
-    "wof:lastmodified":1466539346,
+    "wof:lastmodified":1486688349,
     "wof:name":"Studio 504 Barber and Beauty Salon",
-    "wof:parent_id":85821299,
+    "wof:parent_id":85866087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

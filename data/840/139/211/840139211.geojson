@@ -2,9 +2,14 @@
   "id": 840139211,
   "type": "Feature",
   "properties": {
+    "addr:full":"7230 Salem Dr New Orleans LA 70127",
+    "addr:housenumber":"7230",
+    "addr:postcode":"70127",
+    "addr:street":"Salem Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.987887,30.035908,-89.987887,30.035908",
     "geom:latitude":30.035908,
     "geom:longitude":-89.987887,
@@ -30,7 +35,15 @@
         "dev"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UtA0aiFUPWEZ3Bkd7HMGP_30.035908_-89.987887@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463522031,
     "wof:geomhash":"ecc29bc570cd89edf4c191ae17b320c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840139211
+        }
+    ],
     "wof:id":840139211,
-    "wof:lastmodified":1466541023,
+    "wof:lastmodified":1486688723,
     "wof:name":"Salem Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840353467,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Winn St Alexandria LA 71301",
+    "addr:housenumber":"705",
+    "addr:postcode":"71301",
+    "addr:street":"Winn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.444464,31.306086,-92.444464,31.306086",
     "geom:latitude":31.306086,
     "geom:longitude":-92.444464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"705 Winn St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125155993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hS1gQNG2ANZWhGHEyhB47_31.306086_-92.444464@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529083,
-    "wof:geomhash":"049b255fe32d4f1cdd881169529142a7",
+    "wof:geomhash":"2a3ccb5636e4c67d773f5d6866c30ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840353467,
-    "wof:lastmodified":1466543485,
+    "wof:lastmodified":1510694033,
     "wof:name":"St James Catholic Church",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

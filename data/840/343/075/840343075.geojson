@@ -2,14 +2,20 @@
   "id": 840343075,
   "type": "Feature",
   "properties": {
+    "addr:full":"1595 US Hwy 171 Stonewall LA 71078",
+    "addr:housenumber":"1595",
+    "addr:postcode":"71078",
+    "addr:street":"Us Hwy 171",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.823245,32.266675,-93.823245,32.266675",
     "geom:latitude":32.266675,
     "geom:longitude":-93.823245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1595 US Hwy 171",
     "sg:city":"Stonewall",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084887,
         85813793
     ],
+    "wof:brand_id":1125156999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b7USCj9AsrC5KH5vATEl5_32.266675_-93.823245@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528554,
-    "wof:geomhash":"6e7791b8a6d090468cb30588283746c6",
+    "wof:geomhash":"bd4ca74373b805729fb718e4628a77b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840343075,
-    "wof:lastmodified":1466543391,
+    "wof:lastmodified":1510697506,
     "wof:name":"Landmark Baptist Church",
     "wof:parent_id":85813793,
     "wof:placetype":"venue",

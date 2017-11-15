@@ -2,14 +2,20 @@
   "id": 840442659,
   "type": "Feature",
   "properties": {
+    "addr:full":"64457 Hwy 3081 Pearl River LA 70452",
+    "addr:housenumber":"64457",
+    "addr:postcode":"70452",
+    "addr:street":"Hwy 3081",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.746276,30.37159,-89.746276,30.37159",
     "geom:latitude":30.37159,
     "geom:longitude":-89.746276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"64457 Hwy 3081",
     "sg:city":"Pearl River",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85841093,
         102082453
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11XyYsmlS2iJGBroEovKJk_30.371590_-89.746276@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533004,
-    "wof:geomhash":"0b32233ae11d061f408c6187dffd832a",
+    "wof:geomhash":"bbb927b7ad873df97703f1621ed43193",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840442659,
-    "wof:lastmodified":1466545422,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85841093,
     "wof:placetype":"venue",

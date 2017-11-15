@@ -2,14 +2,20 @@
   "id": 203273771,
   "type": "Feature",
   "properties": {
+    "addr:full":"4126 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"4126",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.040604,30.0035,-90.040604,30.0035",
     "geom:latitude":30.0035,
     "geom:longitude":-90.040604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4126 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,37 @@
     "sg:website":"www.goodyear.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735
     ],
+    "wof:brand_id":1125153449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78Zo42Vzd6WcFpFjr5fIbx_30.003500_-90.040604@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"44bb9ff593849494d879f22d44b6ade3",
+    "wof:geomhash":"a4f9738547f5ea9557066b20e4613406",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85821299,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203273771
         }
     ],
     "wof:id":203273771,
-    "wof:lastmodified":1466539351,
+    "wof:lastmodified":1510699408,
     "wof:name":"Goodyear Auto Service Centers",
-    "wof:parent_id":85821299,
+    "wof:parent_id":85866087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

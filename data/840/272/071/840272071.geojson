@@ -2,14 +2,20 @@
   "id": 840272071,
   "type": "Feature",
   "properties": {
+    "addr:full":"11129 Jefferson Hwy New Orleans LA 70123",
+    "addr:housenumber":"11129",
+    "addr:postcode":"70123",
+    "addr:street":"Jefferson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.23452,29.970008,-90.23452,29.970008",
     "geom:latitude":29.970008,
     "geom:longitude":-90.23452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11129 Jefferson Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125155507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hNHsXkWB6M3BpGvZT7Jqw_29.970008_-90.234520@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525268,
-    "wof:geomhash":"a7d11902ca41dba40c23341e4e74c101",
+    "wof:geomhash":"a9d0f54f31c18b0b79e7aac993c5df13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840272071,
-    "wof:lastmodified":1466542068,
+    "wof:lastmodified":1510696756,
     "wof:name":"KOA Kampgrounds",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840231323,
   "type": "Feature",
   "properties": {
+    "addr:full":"5024 Pontchartrain Expy New Orleans LA 70118",
+    "addr:housenumber":"5024",
+    "addr:postcode":"70118",
+    "addr:street":"Pontchartrain Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.11252,29.977616,-90.11252,29.977616",
     "geom:latitude":29.977616,
     "geom:longitude":-90.11252,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746825,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866145
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866145,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746825,
             "region_id":85688735,
             "venue_id":840231323
         }
     ],
     "wof:id":840231323,
-    "wof:lastmodified":1466541722,
+    "wof:lastmodified":1486689064,
     "wof:name":"New Orleans Country Club",
-    "wof:parent_id":85866145,
+    "wof:parent_id":1108746825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

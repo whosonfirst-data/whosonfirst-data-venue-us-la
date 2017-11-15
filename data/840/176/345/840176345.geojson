@@ -2,14 +2,20 @@
   "id": 840176345,
   "type": "Feature",
   "properties": {
+    "addr:full":"2206 Providence Rd Leesville LA 71446",
+    "addr:housenumber":"2206",
+    "addr:postcode":"71446",
+    "addr:street":"Providence Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.205263,30.958386,-93.205263,30.958386",
     "geom:latitude":30.958386,
     "geom:longitude":-93.205263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2206 Providence Rd",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086691,
         85810535
     ],
+    "wof:brand_id":1125151193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BF90qGxYYe6jSSx4G2Dt8_30.958386_-93.205263@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522835,
-    "wof:geomhash":"361cf58130b9fa7b4f5887a93a4c3441",
+    "wof:geomhash":"1819756afa7e86da520fe78d4008e156",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840176345,
-    "wof:lastmodified":1466541122,
+    "wof:lastmodified":1510697360,
     "wof:name":"Providence Baptist Church",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",

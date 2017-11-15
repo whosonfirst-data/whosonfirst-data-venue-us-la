@@ -2,9 +2,14 @@
   "id": 203238291,
   "type": "Feature",
   "properties": {
+    "addr:full":"8000 W Saint Bernard Hwy Meraux LA 70075",
+    "addr:housenumber":"8000",
+    "addr:postcode":"70075",
+    "addr:street":"W Saint Bernard Hwy Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.923401,29.930799,-89.923401,29.930799",
     "geom:latitude":29.930799,
     "geom:longitude":-89.923401,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -42,7 +48,7 @@
     "wof:geomhash":"e87379a9bb1c031f7bedf7d1cd6d7ba9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":203238291,
-    "wof:lastmodified":1466539300,
+    "wof:lastmodified":1491910632,
     "wof:name":"Metalpro Industries Llc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

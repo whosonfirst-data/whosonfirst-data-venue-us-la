@@ -2,14 +2,20 @@
   "id": 840026859,
   "type": "Feature",
   "properties": {
+    "addr:full":"2611 Greenway Dr Alexandria LA 71301",
+    "addr:housenumber":"2611",
+    "addr:postcode":"71301",
+    "addr:street":"Greenway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.462003,31.269303,-92.462003,31.269303",
     "geom:latitude":31.269303,
     "geom:longitude":-92.462003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2611 Greenway Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125159887,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PgR16lE6cyrdKNaiE4Zxk_31.269303_-92.462003@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519545,
-    "wof:geomhash":"e536b9507cfa98a452b78acb37cd69ff",
+    "wof:geomhash":"26c48d6593f7f33d89dfeaf5a84b8416",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840026859,
-    "wof:lastmodified":1466539864,
+    "wof:lastmodified":1510697985,
     "wof:name":"House Of Style",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

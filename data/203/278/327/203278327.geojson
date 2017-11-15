@@ -2,9 +2,14 @@
   "id": 203278327,
   "type": "Feature",
   "properties": {
+    "addr:full":"8808 Chef Menteur Hwy New Orleans LA 70127",
+    "addr:housenumber":"8808",
+    "addr:postcode":"70127",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.982597,30.014999,-89.982597,30.014999",
     "geom:latitude":30.014999,
     "geom:longitude":-89.982597,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866175,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866171
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"3b44b120f52f4333e8663ce3fd8e12a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866171,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
             "region_id":85688735,
             "venue_id":203278327
         }
     ],
     "wof:id":203278327,
-    "wof:lastmodified":1466539357,
+    "wof:lastmodified":1486688861,
     "wof:name":"J & B Cleaners",
-    "wof:parent_id":85866171,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

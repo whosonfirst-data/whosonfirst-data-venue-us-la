@@ -2,14 +2,20 @@
   "id": 840039995,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 C E Galloway Blvd Shreveport LA 71104",
+    "addr:housenumber":"2100",
+    "addr:postcode":"71104",
+    "addr:street":"C E Galloway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.72108,32.492202,-93.72108,32.492202",
     "geom:latitude":32.492202,
     "geom:longitude":-93.72108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 C E Galloway Blvd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125156255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kmNWIRSzfw12O7jfPBSTj_32.492202_-93.721080@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519845,
-    "wof:geomhash":"41330b4965862bfec507125441258114",
+    "wof:geomhash":"f5eac139fffd0f29fad15965ac77a8a0",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840039995,
-    "wof:lastmodified":1466540050,
+    "wof:lastmodified":1510696913,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840437365,
   "type": "Feature",
   "properties": {
+    "addr:full":"5933 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"5933",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121042,29.922077,-90.121042,29.922077",
     "geom:latitude":29.922077,
     "geom:longitude":-90.121042,
@@ -24,7 +29,15 @@
     "sg:postcode":"70115",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AeHSkj8zfHMQNqP1tHq7n_29.922077_-90.121042@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463532781,
     "wof:geomhash":"3b1aa21fcc0bccda83b58ae699942562",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840437365
+        }
+    ],
     "wof:id":840437365,
-    "wof:lastmodified":1466545063,
+    "wof:lastmodified":1486688661,
     "wof:name":"Palm Patch",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

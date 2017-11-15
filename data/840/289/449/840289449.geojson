@@ -2,14 +2,20 @@
   "id": 840289449,
   "type": "Feature",
   "properties": {
+    "addr:full":"5021 Fairfield St Metairie LA 70006",
+    "addr:housenumber":"5021",
+    "addr:postcode":"70006",
+    "addr:street":"Fairfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.200375,30.016141,-90.200375,30.016141",
     "geom:latitude":30.016141,
     "geom:longitude":-90.200375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5021 Fairfield St",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125156795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gc2Wlm6OIRHWpMirAn3GR_30.016141_-90.200375@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526041,
-    "wof:geomhash":"410521696f2cff0d1c181a821f16ac85",
+    "wof:geomhash":"7d3fdc112a61ff818ddf26b0c6001655",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840289449,
-    "wof:lastmodified":1466542444,
+    "wof:lastmodified":1510695701,
     "wof:name":"Novastar Home Mortgage Inc",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

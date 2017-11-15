@@ -2,9 +2,14 @@
   "id": 840158553,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"1114",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.129936,29.947303,-90.129936,29.947303",
     "geom:latitude":29.947303,
     "geom:longitude":-90.129936,
@@ -27,7 +32,16 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H9BxdEubU3K8YJx2xJDMF_29.947303_-90.129936@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463522420,
     "wof:geomhash":"0078e14399bd46ea803d0f4460c93cfc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840158553
+        }
+    ],
     "wof:id":840158553,
-    "wof:lastmodified":1466541265,
+    "wof:lastmodified":1486689239,
     "wof:name":"Maurice French Pastries",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

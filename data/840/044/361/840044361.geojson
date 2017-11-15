@@ -2,14 +2,20 @@
   "id": 840044361,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 Gus Kaplan Dr Alexandria LA 71301",
+    "addr:housenumber":"2015",
+    "addr:postcode":"71301",
+    "addr:street":"Gus Kaplan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.473,31.275032,-92.473,31.275032",
     "geom:latitude":31.275032,
     "geom:longitude":-92.473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2015 Gus Kaplan Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":420575705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gGzHg7t4bP6pBBdHWXfSq_31.275032_-92.473000@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519935,
-    "wof:geomhash":"8482041960da0139327e69e8f0bbc259",
+    "wof:geomhash":"f886acb67b05081242871aa697bd3623",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840044361,
-    "wof:lastmodified":1466540068,
+    "wof:lastmodified":1510601955,
     "wof:name":"Westaff",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

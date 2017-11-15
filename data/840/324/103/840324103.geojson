@@ -2,9 +2,14 @@
   "id": 840324103,
   "type": "Feature",
   "properties": {
+    "addr:full":"7510 Pearl St New Orleans LA 70118",
+    "addr:housenumber":"7510",
+    "addr:postcode":"70118",
+    "addr:street":"Pearl St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.130948,29.939018,-90.130948,29.939018",
     "geom:latitude":29.939018,
     "geom:longitude":-90.130948,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746809,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85823083
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85823083,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746809,
             "region_id":85688735,
             "venue_id":840324103
         }
     ],
     "wof:id":840324103,
-    "wof:lastmodified":1466542878,
+    "wof:lastmodified":1486689012,
     "wof:name":"Williams Methodist Church",
-    "wof:parent_id":85823083,
+    "wof:parent_id":1108746809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

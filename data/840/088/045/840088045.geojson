@@ -2,14 +2,20 @@
   "id": 840088045,
   "type": "Feature",
   "properties": {
+    "addr:full":"6620 Riverside Dr Metairie LA 70003",
+    "addr:housenumber":"6620",
+    "addr:postcode":"70003",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.216716,30.00922,-90.216716,30.00922",
     "geom:latitude":30.00922,
     "geom:longitude":-90.216716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6620 Riverside Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125156637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JrUWrGhn1X32JjNqlBlEA_30.009220_-90.216716@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520985,
-    "wof:geomhash":"0dc9de156ff56a2dd7f9c6025c8e7e5f",
+    "wof:geomhash":"e4fe7161418dd5e4da267bd807edc111",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840088045,
-    "wof:lastmodified":1466540554,
+    "wof:lastmodified":1510697172,
     "wof:name":"Rehabilitation Service",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840402667,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Jefferson St Lafayette LA 70501",
+    "addr:housenumber":"555",
+    "addr:postcode":"70501",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840402667,
-    "wof:lastmodified":1466544507,
+    "wof:lastmodified":1472624825,
     "wof:name":"Antlers",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

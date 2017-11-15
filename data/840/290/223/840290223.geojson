@@ -2,9 +2,14 @@
   "id": 840290223,
   "type": "Feature",
   "properties": {
+    "addr:full":"5650 Hayne Blvd New Orleans LA 70126",
+    "addr:housenumber":"5650",
+    "addr:postcode":"70126",
+    "addr:street":"Hayne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.030259,30.031899,-90.030259,30.031899",
     "geom:latitude":30.031899,
     "geom:longitude":-90.030259,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.neofabrics.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57STMFOPRyOXcZxLN9XJ63_30.031899_-90.030259@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463526077,
     "wof:geomhash":"7ba04aa59ba0c1fdd2c69a4cddde6450",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840290223
+        }
+    ],
     "wof:id":840290223,
-    "wof:lastmodified":1466542408,
+    "wof:lastmodified":1486687691,
     "wof:name":"Neo Fabrics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

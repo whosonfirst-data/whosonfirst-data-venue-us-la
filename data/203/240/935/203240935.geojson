@@ -2,9 +2,14 @@
   "id": 203240935,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Meadow Violet New Orleans LA 70112",
+    "addr:housenumber":"2800",
+    "addr:postcode":"70112",
+    "addr:street":"Meadow Violet",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.904733,29.922348,-89.904733,29.922348",
     "geom:latitude":29.922348,
     "geom:longitude":-89.904733,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -49,7 +55,7 @@
     "wof:geomhash":"b30a95496232a7a48d953e2854c57df8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":203240935,
-    "wof:lastmodified":1466539308,
+    "wof:lastmodified":1491910627,
     "wof:name":"Schultz Errol Photography",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

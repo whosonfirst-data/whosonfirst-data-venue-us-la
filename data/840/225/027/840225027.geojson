@@ -2,14 +2,20 @@
   "id": 840225027,
   "type": "Feature",
   "properties": {
+    "addr:full":"5736 Citrus Blvd New Orleans LA 70123",
+    "addr:housenumber":"5736",
+    "addr:postcode":"70123",
+    "addr:street":"Citrus Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.200006,29.964029,-90.200006,29.964029",
     "geom:latitude":29.964029,
     "geom:longitude":-90.200006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5736 Citrus Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WDR17evDmyE97wBfTABpb_29.964029_-90.200006@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523952,
-    "wof:geomhash":"97e798e930e75441eb9451359c7031fa",
+    "wof:geomhash":"dabb585c0eb748930ceae4304c54e66b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840225027,
-    "wof:lastmodified":1466541667,
+    "wof:lastmodified":1510602382,
     "wof:name":"PIP Printing",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

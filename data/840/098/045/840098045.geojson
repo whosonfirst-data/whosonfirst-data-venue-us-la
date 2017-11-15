@@ -2,14 +2,20 @@
   "id": 840098045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 Tolmak Rd Shreveport LA 71107",
+    "addr:housenumber":"1212",
+    "addr:postcode":"71107",
+    "addr:street":"Tolmak Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.851262,32.551207,-93.851262,32.551207",
     "geom:latitude":32.551207,
     "geom:longitude":-93.851262,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1212 Tolmak Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087235,
         85825193
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AWlLDIBBv82xxjfPCO238_32.551207_-93.851262@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521173,
-    "wof:geomhash":"63d11de4c36395ff487d4c3c5d8f3ce4",
+    "wof:geomhash":"da7cde95920dd5bcc0697f61f46efa1a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840098045,
-    "wof:lastmodified":1466540654,
+    "wof:lastmodified":1510696926,
     "wof:name":"International Paper Co",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",

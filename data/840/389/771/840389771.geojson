@@ -2,9 +2,14 @@
   "id": 840389771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2904 Marquez Dr Meraux LA 70075",
+    "addr:housenumber":"2904",
+    "addr:postcode":"70075",
+    "addr:street":"Marquez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.919087,29.936049,-89.919087,29.936049",
     "geom:latitude":29.936049,
     "geom:longitude":-89.919087,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a1d6b6117ec9413c7e319e109c099731",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840389771,
-    "wof:lastmodified":1466544289,
+    "wof:lastmodified":1491910642,
     "wof:name":"S S Sheetrock",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

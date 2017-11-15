@@ -2,14 +2,20 @@
   "id": 840305165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 E Bert Kouns Industrial Loop Shreveport LA 71105",
+    "addr:housenumber":"1605",
+    "addr:postcode":"71105",
+    "addr:street":"E Bert Kouns Industrial Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.715692,32.429974,-93.715692,32.429974",
     "geom:latitude":32.429974,
     "geom:longitude":-93.715692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1605 E Bert Kouns Industrial Loop",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UI7KI2GNPEtrO9fmCNvND_32.429974_-93.715692@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526771,
-    "wof:geomhash":"059e092c3f9012a6fa82238cf728075d",
+    "wof:geomhash":"43220a1a0aac38988c0519fe34885560",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840305165,
-    "wof:lastmodified":1466542761,
+    "wof:lastmodified":1510693710,
     "wof:name":"Tony Romas",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840427081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1760 W Prien Lake Rd Lake Charles LA 70601",
+    "addr:housenumber":"1760",
+    "addr:postcode":"70601",
+    "addr:street":"W Prien Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.246231,30.197663,-93.246231,30.197663",
     "geom:latitude":30.197663,
     "geom:longitude":-93.246231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1760 W Prien Lake Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Vsu0NlECZxDc1d2jfUiDr_30.197663_-93.246231@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532314,
-    "wof:geomhash":"dbfa897161cc89a5d07875542d7cdbf5",
+    "wof:geomhash":"0e28e177a29a7be268b980f52129e743",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840427081,
-    "wof:lastmodified":1466544860,
+    "wof:lastmodified":1510696977,
     "wof:name":"Rack Room Shoes",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

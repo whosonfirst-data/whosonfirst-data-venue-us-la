@@ -2,9 +2,14 @@
   "id": 840418201,
   "type": "Feature",
   "properties": {
+    "addr:full":"3403 Paris Ave New Orleans LA 70122",
+    "addr:housenumber":"3403",
+    "addr:postcode":"70122",
+    "addr:street":"Paris Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.072983,29.992053,-90.072983,29.992053",
     "geom:latitude":29.992053,
     "geom:longitude":-90.072983,
@@ -31,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866059,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866081
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +58,26 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866081,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":840418201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866059,
             "region_id":85688735,
             "venue_id":840418201
         }
     ],
     "wof:id":840418201,
-    "wof:lastmodified":1466544753,
+    "wof:lastmodified":1491861145,
     "wof:name":"Gimmick Cd's & Tapes",
-    "wof:parent_id":85866081,
+    "wof:parent_id":85866059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

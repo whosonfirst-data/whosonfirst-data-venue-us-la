@@ -2,14 +2,20 @@
   "id": 840449741,
   "type": "Feature",
   "properties": {
+    "addr:full":"6646 Youree Dr Shreveport LA 71105",
+    "addr:housenumber":"6646",
+    "addr:postcode":"71105",
+    "addr:street":"Youree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.719438,32.444646,-93.719438,32.444646",
     "geom:latitude":32.444646,
     "geom:longitude":-93.719438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6646 Youree Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eUyxJLwkKM6OnWTr2G0gM_32.444458_-93.719306@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533292,
-    "wof:geomhash":"48b0500c95df40e65b489e465f874f42",
+    "wof:geomhash":"72d67a886441a7fd39a2b4843aba40f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840449741,
-    "wof:lastmodified":1466545360,
+    "wof:lastmodified":1510604031,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

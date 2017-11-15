@@ -2,9 +2,14 @@
   "id": 840320507,
   "type": "Feature",
   "properties": {
+    "addr:full":"9015 Airline Hwy New Orleans LA 70118",
+    "addr:housenumber":"9015",
+    "addr:postcode":"70118",
+    "addr:street":"Airline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117612,29.971708,-90.117612,29.971708",
     "geom:latitude":29.971708,
     "geom:longitude":-90.117612,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746817,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866145
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866145,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746817,
             "region_id":85688735,
             "venue_id":840320507
         }
     ],
     "wof:id":840320507,
-    "wof:lastmodified":1466542960,
+    "wof:lastmodified":1486689042,
     "wof:name":"APE American Police Equip",
-    "wof:parent_id":85866145,
+    "wof:parent_id":1108746817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

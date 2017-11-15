@@ -2,9 +2,14 @@
   "id": 203255455,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Decatur St New Orleans LA 70116",
+    "addr:housenumber":"1201",
+    "addr:postcode":"70116",
+    "addr:street":"Decatur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.0592,29.960646,-90.0592,29.960646",
     "geom:latitude":29.960646,
     "geom:longitude":-90.0592,
@@ -30,11 +35,13 @@
     "sg:website":"www.wickedorleans.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +51,20 @@
     "wof:geomhash":"59091065aa8cc2f7e5fcc9ae25693ee5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866097,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203255455
         }
     ],
     "wof:id":203255455,
-    "wof:lastmodified":1466539323,
+    "wof:lastmodified":1486688456,
     "wof:name":"Wicked Orleans",
-    "wof:parent_id":85866097,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

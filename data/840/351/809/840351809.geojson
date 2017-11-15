@@ -2,9 +2,14 @@
   "id": 840351809,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 Rodriguez Ln Meraux LA 70075",
+    "addr:housenumber":"",
+    "addr:postcode":"1900;70075",
+    "addr:street":"Rodriguez Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.916499,29.917808,-89.916499,29.917808",
     "geom:latitude":29.917808,
     "geom:longitude":-89.916499,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -44,6 +50,7 @@
     "wof:geomhash":"a4aaeb6c48e99d850f271c2a6cd27c67",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840351809,
-    "wof:lastmodified":1466543515,
+    "wof:lastmodified":1491910632,
     "wof:name":"Classique Baskets Inc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840120415,
   "type": "Feature",
   "properties": {
+    "addr:full":"4433 Olive St Meraux LA 70075",
+    "addr:housenumber":"4433",
+    "addr:postcode":"70075",
+    "addr:street":"Olive St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.913944,29.940831,-89.913944,29.940831",
     "geom:latitude":29.940831,
     "geom:longitude":-89.913944,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"10e84e0af5bf3a6169dde1f5588de8f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840120415,
-    "wof:lastmodified":1466540903,
+    "wof:lastmodified":1491910646,
     "wof:name":"Professional Home Inspection",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840324343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2017 Elizardi Blvd New Orleans LA 70114",
+    "addr:housenumber":"2017",
+    "addr:postcode":"70114",
+    "addr:street":"Elizardi Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.026822,29.932907,-90.026822,29.932907",
     "geom:latitude":29.932907,
     "geom:longitude":-90.026822,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OvfWky0XYx8Zhb6jJvyK3_29.932907_-90.026822@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463527693,
     "wof:geomhash":"c97eff61ddf5cda7b3e0180fad9ffe20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840324343
+        }
+    ],
     "wof:id":840324343,
-    "wof:lastmodified":1466542927,
+    "wof:lastmodified":1486688959,
     "wof:name":"Amandas Boutique",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

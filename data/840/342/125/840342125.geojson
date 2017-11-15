@@ -2,9 +2,14 @@
   "id": 840342125,
   "type": "Feature",
   "properties": {
+    "addr:full":"939 Tricou St New Orleans LA 70117",
+    "addr:housenumber":"939",
+    "addr:postcode":"70117",
+    "addr:street":"Tricou St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.009788,29.957599,-90.009788,29.957599",
     "geom:latitude":29.957599,
     "geom:longitude":-90.009788,
@@ -24,7 +29,15 @@
     "sg:postcode":"70117",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746821,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vWmdnAitSlEaTK1Wzf5QO_29.957599_-90.009788@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463528511,
     "wof:geomhash":"b658a6f069d2658c373e212ce929d3d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746821,
+            "region_id":85688735,
+            "venue_id":840342125
+        }
+    ],
     "wof:id":840342125,
-    "wof:lastmodified":1466543390,
+    "wof:lastmodified":1486689044,
     "wof:name":"Carls Spicy Turkey",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

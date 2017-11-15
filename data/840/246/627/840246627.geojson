@@ -2,9 +2,14 @@
   "id": 840246627,
   "type": "Feature",
   "properties": {
+    "addr:full":"6033 Magazine St New Orleans LA 70118",
+    "addr:housenumber":"6033",
+    "addr:postcode":"70118",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.122794,29.92263,-90.122794,29.92263",
     "geom:latitude":29.92263,
     "geom:longitude":-90.122794,
@@ -27,7 +32,15 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z8TnYETpgXCBKu6zCPfNS_29.922630_-90.122794@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463524524,
     "wof:geomhash":"588aa96423c8eb5fd48adc0d52e0d44d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840246627
+        }
+    ],
     "wof:id":840246627,
-    "wof:lastmodified":1466541892,
+    "wof:lastmodified":1486688659,
     "wof:name":"Odelice French Bakery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

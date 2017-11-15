@@ -2,9 +2,14 @@
   "id": 840325457,
   "type": "Feature",
   "properties": {
+    "addr:full":"14300 Chef Menteur Hwy New Orleans LA 70129",
+    "addr:housenumber":"14300",
+    "addr:postcode":"70129",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.91287,30.035825,-89.91287,30.035825",
     "geom:latitude":30.035825,
     "geom:longitude":-89.91287,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746553,
+        85866175,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85833951
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85833951,
+            "macrohood_id":1108739495,
+            "microhood_id":1108746553,
+            "neighbourhood_id":85866175,
             "region_id":85688735,
             "venue_id":840325457
         }
     ],
     "wof:id":840325457,
-    "wof:lastmodified":1466543321,
+    "wof:lastmodified":1486689145,
     "wof:name":"Meyers Warehouse Inc",
-    "wof:parent_id":85833951,
+    "wof:parent_id":1108746553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

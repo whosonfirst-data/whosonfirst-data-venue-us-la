@@ -2,9 +2,14 @@
   "id": 840170023,
   "type": "Feature",
   "properties": {
+    "addr:full":"13903 Linden St New Orleans LA 70128",
+    "addr:housenumber":"13903",
+    "addr:postcode":"70128",
+    "addr:street":"Linden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.949297,30.067602,-89.949297,30.067602",
     "geom:latitude":30.067602,
     "geom:longitude":-89.949297,
@@ -27,7 +32,15 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O379Ke9GTYMU0c2ZFk3QZ_30.067602_-89.949297@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463522672,
     "wof:geomhash":"5997c717ce6022af626576f603f5dc91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840170023
+        }
+    ],
     "wof:id":840170023,
-    "wof:lastmodified":1466541157,
+    "wof:lastmodified":1486688714,
     "wof:name":"Exquisite Cleaning Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

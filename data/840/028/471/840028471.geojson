@@ -2,14 +2,20 @@
   "id": 840028471,
   "type": "Feature",
   "properties": {
+    "addr:full":"3240 State Rte 14 Lake Charles LA 70607",
+    "addr:housenumber":"3240",
+    "addr:postcode":"70607",
+    "addr:street":"State Rte 14",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.15855,30.15829,-93.15855,30.15829",
     "geom:latitude":30.15829,
     "geom:longitude":-93.15855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3240 State Rte 14",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sV5frrycSBss6qVU8KIrj_30.158290_-93.158550@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519591,
-    "wof:geomhash":"26e187ac0ecb98a8b272fa53b752e528",
+    "wof:geomhash":"ede8c5c8f31cd27d28fce15a0e77a89c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840028471,
-    "wof:lastmodified":1466539835,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

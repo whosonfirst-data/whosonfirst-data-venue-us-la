@@ -2,9 +2,14 @@
   "id": 203242709,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Elmira Ave New Orleans LA 70114",
+    "addr:housenumber":"500",
+    "addr:postcode":"70114",
+    "addr:street":"Elmira Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.047096,29.950701,-90.047096,29.950701",
     "geom:latitude":29.950701,
     "geom:longitude":-90.047096,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866153,
+        102191575,
+        1108739497,
         85633793,
         85948111,
         102086693,
-        85866153
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ea2c76e8282fe14c3e7c7e83b0f27159",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739497,
             "neighbourhood_id":85866153,
             "region_id":85688735,
             "venue_id":203242709
         }
     ],
     "wof:id":203242709,
-    "wof:lastmodified":1466539308,
+    "wof:lastmodified":1486687987,
     "wof:name":"Algiers Cheers",
     "wof:parent_id":85866153,
     "wof:placetype":"venue",

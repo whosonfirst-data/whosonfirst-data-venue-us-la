@@ -2,14 +2,20 @@
   "id": 840336643,
   "type": "Feature",
   "properties": {
+    "addr:full":"8540 Millhaven Rd Monroe LA 71203",
+    "addr:housenumber":"8540",
+    "addr:postcode":"71203",
+    "addr:street":"Millhaven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.020026,32.497188,-92.020026,32.497188",
     "geom:latitude":32.497188,
     "geom:longitude":-92.020026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8540 Millhaven Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125159767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DixgtNfhH3wOhkcQtGtgo_32.497188_-92.020026@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528245,
-    "wof:geomhash":"f242de5ea2ab3a7db49a50e3cc68b5ed",
+    "wof:geomhash":"f48d72128027f44d3a365dfb562125f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840336643,
-    "wof:lastmodified":1466543216,
+    "wof:lastmodified":1510697202,
     "wof:name":"AAA Cooper Transportation",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

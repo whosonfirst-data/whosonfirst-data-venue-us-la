@@ -2,14 +2,20 @@
   "id": 840397979,
   "type": "Feature",
   "properties": {
+    "addr:full":"190 Texas Hwy Many LA 71449",
+    "addr:housenumber":"190",
+    "addr:postcode":"71449",
+    "addr:street":"Texas Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.492776,31.564857,-93.492776,31.564857",
     "geom:latitude":31.564857,
     "geom:longitude":-93.492776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"190 Texas Hwy",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081409,
         85806377
     ],
+    "wof:brand_id":420575927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13jWZMcTd1dxivkQkaEM4I_31.564857_-93.492776@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531129,
-    "wof:geomhash":"f4e34e58dad27b555ba3f6eb8e54a23d",
+    "wof:geomhash":"8ae997f234377417185ee650ca34e8d8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840397979,
-    "wof:lastmodified":1466544576,
+    "wof:lastmodified":1510601914,
     "wof:name":"Hair Gallery",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",

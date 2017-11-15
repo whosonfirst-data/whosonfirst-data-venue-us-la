@@ -2,14 +2,20 @@
   "id": 840391571,
   "type": "Feature",
   "properties": {
+    "addr:full":"4811 Wes Berry Rd Dequincy LA 70633",
+    "addr:housenumber":"4811",
+    "addr:postcode":"70633",
+    "addr:street":"Wes Berry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.410677,30.393134,-93.410677,30.393134",
     "geom:latitude":30.393134,
     "geom:longitude":-93.410677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4811 Wes Berry Rd",
     "sg:city":"Dequincy",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125156621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04qC0xF0aod5kztb3ASg4K_30.393134_-93.410677@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530865,
-    "wof:geomhash":"21ecadf7046c7bf0d90f5ad6504ef350",
+    "wof:geomhash":"5d1442237a267e7ab1962e603dcd4622",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840391571,
-    "wof:lastmodified":1466544263,
+    "wof:lastmodified":1510698498,
     "wof:name":"Pine Grove Baptist Church",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

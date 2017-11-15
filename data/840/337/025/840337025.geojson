@@ -2,9 +2,14 @@
   "id": 840337025,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 French Mkt Pl New Orleans LA 70116",
+    "addr:housenumber":"47",
+    "addr:postcode":"70116",
+    "addr:street":"French",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.0596,29.959833,-90.0596,29.959833",
     "geom:latitude":29.959833,
     "geom:longitude":-90.0596,
@@ -25,13 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097,
-        85853777
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866097,
-            "region_id":85688735,
-            "venue_id":840337025
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086693,
-            "locality_id":85948111,
-            "neighbourhood_id":85853777,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840337025
         }
     ],
     "wof:id":840337025,
-    "wof:lastmodified":1466543142,
+    "wof:lastmodified":1486688406,
     "wof:name":"Mardi Gras Gift Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

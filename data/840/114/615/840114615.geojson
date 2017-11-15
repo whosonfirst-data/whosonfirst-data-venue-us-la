@@ -2,9 +2,14 @@
   "id": 840114615,
   "type": "Feature",
   "properties": {
+    "addr:full":"5973 Dreux Ave New Orleans LA 70126",
+    "addr:housenumber":"5973",
+    "addr:postcode":"70126",
+    "addr:street":"Dreux Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.019939,30.016435,-90.019939,30.016435",
     "geom:latitude":30.016435,
     "geom:longitude":-90.019939,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mJIVATj3XAkGemo3fO8Sj_30.016435_-90.019939@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463521525,
     "wof:geomhash":"e9582bcbbd41fa31d12e6b7132ca7c13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840114615
+        }
+    ],
     "wof:id":840114615,
-    "wof:lastmodified":1466540835,
+    "wof:lastmodified":1486687835,
     "wof:name":"Dean Electric Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

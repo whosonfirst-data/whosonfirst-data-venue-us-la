@@ -2,14 +2,20 @@
   "id": 840438919,
   "type": "Feature",
   "properties": {
+    "addr:full":"3520 Patrick St Lake Charles LA 70605",
+    "addr:housenumber":"3520",
+    "addr:postcode":"70605",
+    "addr:street":"Patrick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217197,30.192458,-93.217197,30.192458",
     "geom:latitude":30.192458,
     "geom:longitude":-93.217197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3520 Patrick St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125152929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xKoWxt4pzeH9CrK209GjH_30.192458_-93.217197@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532844,
-    "wof:geomhash":"4ff14b41e71b5f66c4649a9502a6156e",
+    "wof:geomhash":"a7c391d127d8f68900ddf5d32cda9498",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840438919,
-    "wof:lastmodified":1466545179,
+    "wof:lastmodified":1510695334,
     "wof:name":"Avaya Inc",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

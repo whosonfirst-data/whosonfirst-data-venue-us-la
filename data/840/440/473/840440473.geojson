@@ -2,14 +2,20 @@
   "id": 840440473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1104 S 3rd St Leesville LA 71446",
+    "addr:housenumber":"1104",
+    "addr:postcode":"71446",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263223,31.133367,-93.263223,31.133367",
     "geom:latitude":31.133367,
     "geom:longitude":-93.263223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1104 S 3rd St",
     "sg:city":"Leesville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086691,
         85810535
     ],
+    "wof:brand_id":420575857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vf5yacPXWkN6G0tRSoAiz_31.133367_-93.263223@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532921,
-    "wof:geomhash":"2e158cb37940a58274c9741d2617a77e",
+    "wof:geomhash":"001d691157b6baf1d6848c3c291b3652",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840440473,
-    "wof:lastmodified":1466545087,
+    "wof:lastmodified":1510602601,
     "wof:name":"Motor Vehicle Dept",
     "wof:parent_id":85810535,
     "wof:placetype":"venue",

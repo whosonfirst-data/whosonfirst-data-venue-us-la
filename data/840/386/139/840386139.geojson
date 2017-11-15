@@ -2,14 +2,20 @@
   "id": 840386139,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 S Clearview Pkwy Jefferson LA 70121",
+    "addr:housenumber":"835",
+    "addr:postcode":"70121",
+    "addr:street":"S Clearview Pkwy Jefferson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.183208,29.959148,-90.183208,29.959148",
     "geom:latitude":29.959148,
     "geom:longitude":-90.183208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"835 S Clearview Pkwy",
     "sg:city":"Jefferson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":420575403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NMDFIrK8WTqi5HQGlM5NB_29.959148_-90.183208@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530640,
-    "wof:geomhash":"0a01a6ae06725548d21818893e0b50c4",
+    "wof:geomhash":"c3956078c2b89b95c38a2938b5c1a5e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840386139,
-    "wof:lastmodified":1466543877,
+    "wof:lastmodified":1510607570,
     "wof:name":"Pep Boys Supercenter",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

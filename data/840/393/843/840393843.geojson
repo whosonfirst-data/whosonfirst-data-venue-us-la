@@ -2,14 +2,20 @@
   "id": 840393843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1441 Metairie Rd Metairie LA 70005",
+    "addr:housenumber":"1441",
+    "addr:postcode":"70005",
+    "addr:street":"Metairie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.138679,29.987593,-90.138679,29.987593",
     "geom:latitude":29.987593,
     "geom:longitude":-90.138679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1441 Metairie Rd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z0hwV4UqXJ05yLQtoFKwk_29.987593_-90.138679@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530966,
-    "wof:geomhash":"638c45479e27288c5cfac96909cd86cf",
+    "wof:geomhash":"baa4c8dbe0123cde216fd45671c18b17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840393843,
-    "wof:lastmodified":1466544230,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840224667,
   "type": "Feature",
   "properties": {
+    "addr:full":"11724 Industriplex Blvd Baton Rouge LA 70809",
+    "addr:housenumber":"11724",
+    "addr:postcode":"70809",
+    "addr:street":"Industriplex Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.053106,30.386236,-91.053106,30.386236",
     "geom:latitude":30.386236,
     "geom:longitude":-91.053106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11724 Industriplex Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":1125157691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hgh2kZmiQYBFUha77HUWG_30.386236_-91.053106@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523942,
-    "wof:geomhash":"a91cd4a21b67bd46d9a067d891d729b0",
+    "wof:geomhash":"9c69b6999914383d5903c48deddddeb2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840224667,
-    "wof:lastmodified":1466541659,
+    "wof:lastmodified":1510694901,
     "wof:name":"Oakwood Corporate Housing",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

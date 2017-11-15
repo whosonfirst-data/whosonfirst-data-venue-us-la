@@ -2,14 +2,20 @@
   "id": 840310885,
   "type": "Feature",
   "properties": {
+    "addr:full":"8412 Jefferson Hwy Harahan LA 70123",
+    "addr:housenumber":"8412",
+    "addr:postcode":"70123",
+    "addr:street":"Jefferson Hwy Harahan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.212657,29.938548,-90.212657,29.938548",
     "geom:latitude":29.938548,
     "geom:longitude":-90.212657,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8412 Jefferson Hwy",
     "sg:city":"Harahan",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125154165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DDfO3VSUjqIpDCTwGaO7Z_29.938548_-90.212657@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527040,
-    "wof:geomhash":"089a4641251c4af92238c9b829a134c9",
+    "wof:geomhash":"d595ec98aea4a37ee94d087d80380418",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840310885,
-    "wof:lastmodified":1466542650,
+    "wof:lastmodified":1510697576,
     "wof:name":"Western-Southern Life Ins Co",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

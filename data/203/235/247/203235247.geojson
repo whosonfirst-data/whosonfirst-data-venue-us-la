@@ -2,9 +2,14 @@
   "id": 203235247,
   "type": "Feature",
   "properties": {
+    "addr:full":"651 Leson Ct Harvey LA 70058",
+    "addr:housenumber":"651",
+    "addr:postcode":"70058",
+    "addr:street":"Leson Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066399,29.907801,-90.066399,29.907801",
     "geom:latitude":29.907801,
     "geom:longitude":-90.066399,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85891219,
+        102191575,
+        1108739491,
         85633793,
-        85948301,
-        102083179,
-        85891219
+        85948111,
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"0126269fdb1745b2f0ee80250302d657",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083179,
-            "locality_id":85948301,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85891219,
             "region_id":85688735,
             "venue_id":203235247
         }
     ],
     "wof:id":203235247,
-    "wof:lastmodified":1466539294,
+    "wof:lastmodified":1491919436,
     "wof:name":"Ultimate Marketing Inc",
     "wof:parent_id":85891219,
     "wof:placetype":"venue",

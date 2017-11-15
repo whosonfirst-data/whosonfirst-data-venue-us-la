@@ -2,9 +2,14 @@
   "id": 840014501,
   "type": "Feature",
   "properties": {
+    "addr:full":"3337 Somerset Dr New Orleans LA 70131",
+    "addr:housenumber":"3337",
+    "addr:postcode":"70131",
+    "addr:street":"Somerset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.002205,29.920133,-90.002205,29.920133",
     "geom:latitude":29.920133,
     "geom:longitude":-90.002205,
@@ -29,7 +34,16 @@
     ],
     "sg:website":"www.jehovah.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06R6AGlFUF18fWpKXiipWR_29.920133_-90.002205@1294127638"
@@ -37,11 +51,32 @@
     "wof:country":"US",
     "wof:created":1463519300,
     "wof:geomhash":"61d9b4c61bd2515155f50b176b198db3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840014501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840014501
+        }
+    ],
     "wof:id":840014501,
-    "wof:lastmodified":1466539718,
+    "wof:lastmodified":1486689005,
     "wof:name":"Best Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

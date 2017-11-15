@@ -2,9 +2,14 @@
   "id": 203256607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1017 Touro St New Orleans LA 70116",
+    "addr:housenumber":"1017",
+    "addr:postcode":"70116",
+    "addr:street":"Touro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.059034,29.967532,-90.059034,29.967532",
     "geom:latitude":29.967532,
     "geom:longitude":-90.059034,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85819021
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"555d1cc7cbd76a742b5643e590abba07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85819021,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203256607
         }
     ],
     "wof:id":203256607,
-    "wof:lastmodified":1466539325,
+    "wof:lastmodified":1486688386,
     "wof:name":"New Friendly Touch the",
-    "wof:parent_id":85819021,
+    "wof:parent_id":85866097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

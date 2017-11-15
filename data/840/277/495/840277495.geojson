@@ -2,14 +2,20 @@
   "id": 840277495,
   "type": "Feature",
   "properties": {
+    "addr:full":"2019 Ruth St Sulphur LA 70663",
+    "addr:housenumber":"2019",
+    "addr:postcode":"70663",
+    "addr:street":"Ruth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.376331,30.219726,-93.376331,30.219726",
     "geom:latitude":30.219726,
     "geom:longitude":-93.376331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2019 Ruth St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125152861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Sa9QaEXW4bGoJN2Ev3Cf6_30.219726_-93.376331@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525503,
-    "wof:geomhash":"dfad0488e616a5845f51e939c0d0a579",
+    "wof:geomhash":"fa84bf98b0b798cbc7fe3f1e8d2411c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840277495,
-    "wof:lastmodified":1466542263,
+    "wof:lastmodified":1510613358,
     "wof:name":"Covenant Presbyterian Church",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

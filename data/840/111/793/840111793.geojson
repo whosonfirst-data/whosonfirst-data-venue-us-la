@@ -2,14 +2,20 @@
   "id": 840111793,
   "type": "Feature",
   "properties": {
+    "addr:full":"64519 Hwy 41 Pearl River LA 70452",
+    "addr:housenumber":"64519",
+    "addr:postcode":"70452",
+    "addr:street":"Hwy 41",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.761122,30.368761,-89.761122,30.368761",
     "geom:latitude":30.368761,
     "geom:longitude":-89.761122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"64519 Hwy 41",
     "sg:city":"Pearl River",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85841093,
         102082453
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O5Mg1zMcHRRV0Pc0hf7vp_30.368761_-89.761122@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521464,
-    "wof:geomhash":"01f4e2a2e7ee7d5c6125fef5034b64f4",
+    "wof:geomhash":"3c876371b1af9c57fc13d6a69edc4b01",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840111793,
-    "wof:lastmodified":1466540834,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85841093,
     "wof:placetype":"venue",

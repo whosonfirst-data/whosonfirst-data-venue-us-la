@@ -2,14 +2,20 @@
   "id": 840342297,
   "type": "Feature",
   "properties": {
+    "addr:full":"916 N Peters St New Orleans LA 70116",
+    "addr:housenumber":"916",
+    "addr:postcode":"70116",
+    "addr:street":"N Peters St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.060503,29.958883,-90.060503,29.958883",
     "geom:latitude":29.958883,
     "geom:longitude":-90.060503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"916 N Peters St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,45 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85853777,
-        85866105
+        85688735
     ],
+    "wof:brand_id":1125155405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mx6ImAT1XNxKoN8bVS2lV_29.958883_-90.060503@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528522,
-    "wof:geomhash":"a94042fd10908601a0d56f4bc65a61fd",
+    "wof:geomhash":"26464b0135c59bf24dc164d99ec1c4f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85853777,
-            "region_id":85688735,
-            "venue_id":840342297
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086693,
-            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840342297
         }
     ],
     "wof:id":840342297,
-    "wof:lastmodified":1466543402,
+    "wof:lastmodified":1510695073,
     "wof:name":"National Park Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

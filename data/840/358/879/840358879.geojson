@@ -2,14 +2,20 @@
   "id": 840358879,
   "type": "Feature",
   "properties": {
+    "addr:full":"3627 14th St Alexandria LA 71302",
+    "addr:housenumber":"3627",
+    "addr:postcode":"71302",
+    "addr:street":"14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.429185,31.286573,-92.429185,31.286573",
     "geom:latitude":31.286573,
     "geom:longitude":-92.429185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3627 14th St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125155283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YEATnqBaMf2srU0D55W8l_31.286573_-92.429185@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529335,
-    "wof:geomhash":"6996a4f1d36ac10cb4466d864bc654aa",
+    "wof:geomhash":"85322714e637da45aa3d11f3f7096532",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840358879,
-    "wof:lastmodified":1466543717,
+    "wof:lastmodified":1510695023,
     "wof:name":"Mount Calvary Baptist Church",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

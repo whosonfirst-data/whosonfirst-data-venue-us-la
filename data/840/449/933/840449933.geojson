@@ -2,14 +2,20 @@
   "id": 840449933,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Castille Ave Lafayette LA 70501",
+    "addr:housenumber":"106",
+    "addr:postcode":"70501",
+    "addr:street":"Castille Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.012528,30.248654,-92.012528,30.248654",
     "geom:latitude":30.248654,
     "geom:longitude":-92.012528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Castille Ave",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qD5KrV8fPgddVVNYFxtaN_30.248831_-92.012406@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533298,
-    "wof:geomhash":"5c4103667c0ae412c0ce44b3d770469e",
+    "wof:geomhash":"0272c45ff3ffb6d0bed5107d8ec964fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840449933,
-    "wof:lastmodified":1466545397,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

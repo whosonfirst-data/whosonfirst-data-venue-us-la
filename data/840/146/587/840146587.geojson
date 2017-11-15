@@ -2,14 +2,20 @@
   "id": 840146587,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Travis St Shreveport LA 71101",
+    "addr:housenumber":"333",
+    "addr:postcode":"71101",
+    "addr:street":"Travis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.749256,32.514554,-93.749256,32.514554",
     "geom:latitude":32.514554,
     "geom:longitude":-93.749256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 Travis St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087235,
         85880993
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ABkqQ1uZTypIgpbPzy2eU_32.514554_-93.749256@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522173,
-    "wof:geomhash":"3d07714df645a4332fd3b47f854f07ad",
+    "wof:geomhash":"951fcc6cd0cb099a89b96a8d4cc6947b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840146587,
-    "wof:lastmodified":1466540061,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",

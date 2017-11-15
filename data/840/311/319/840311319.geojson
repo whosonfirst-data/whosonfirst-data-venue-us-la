@@ -2,9 +2,14 @@
   "id": 840311319,
   "type": "Feature",
   "properties": {
+    "addr:full":"6780 Bundy Rd New Orleans LA 70127",
+    "addr:housenumber":"6780",
+    "addr:postcode":"70127",
+    "addr:street":"Bundy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.985773,30.033723,-89.985773,30.033723",
     "geom:latitude":30.033723,
     "geom:longitude":-89.985773,
@@ -27,7 +32,15 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ykMZWC9No39doP0QbXrfo_30.033723_-89.985773@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463527061,
     "wof:geomhash":"6321335f89f4f48e27df0ed95e7fc679",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840311319
+        }
+    ],
     "wof:id":840311319,
-    "wof:lastmodified":1466542687,
+    "wof:lastmodified":1486688712,
     "wof:name":"Patrick's Place East",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

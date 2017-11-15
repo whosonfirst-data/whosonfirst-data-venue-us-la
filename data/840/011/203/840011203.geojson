@@ -2,9 +2,14 @@
   "id": 840011203,
   "type": "Feature",
   "properties": {
+    "addr:full":"11227 Asphodel Dr New Orleans LA 70128",
+    "addr:housenumber":"11227",
+    "addr:postcode":"70128",
+    "addr:street":"Asphodel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.952326,30.032158,-89.952326,30.032158",
     "geom:latitude":30.032158,
     "geom:longitude":-89.952326,
@@ -27,7 +32,15 @@
         "publisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KXna3SRsMLsYR8T1gwA5k_30.032158_-89.952326@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463519234,
     "wof:geomhash":"80e7a5b51e139ff22f63078c52062336",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840011203
+        }
+    ],
     "wof:id":840011203,
-    "wof:lastmodified":1466539668,
+    "wof:lastmodified":1486688749,
     "wof:name":"I G Easy Network-Sm Publishers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

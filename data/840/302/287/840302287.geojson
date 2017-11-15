@@ -2,14 +2,20 @@
   "id": 840302287,
   "type": "Feature",
   "properties": {
+    "addr:full":"10420 Ellerbe Rd Shreveport LA 71106",
+    "addr:housenumber":"10420",
+    "addr:postcode":"71106",
+    "addr:street":"Ellerbe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.700294,32.372587,-93.700294,32.372587",
     "geom:latitude":32.372587,
     "geom:longitude":-93.700294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10420 Ellerbe Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":1125152587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aeeuitu5kbC6vCdxx90YU_32.372587_-93.700294@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526638,
-    "wof:geomhash":"22cd4eeeec4a76fa35fba4248f3884b7",
+    "wof:geomhash":"4f9411771ee8b4541eeb582752dfe82a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840302287,
-    "wof:lastmodified":1466542740,
+    "wof:lastmodified":1510695991,
     "wof:name":"Creative Designs",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

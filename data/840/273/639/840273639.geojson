@@ -2,9 +2,14 @@
   "id": 840273639,
   "type": "Feature",
   "properties": {
+    "addr:full":"10801 Kinneil Rd New Orleans LA 70127",
+    "addr:housenumber":"10801",
+    "addr:postcode":"70127",
+    "addr:street":"Kinneil Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.972054,30.044848,-89.972054,30.044848",
     "geom:latitude":30.044848,
     "geom:longitude":-89.972054,
@@ -29,7 +34,15 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NzexIBT3xCWrVRAIv3eo4_30.044848_-89.972054@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463525337,
     "wof:geomhash":"4f6c842185ca4ec0b7b36b6377915b65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840273639
+        }
+    ],
     "wof:id":840273639,
-    "wof:lastmodified":1466542140,
+    "wof:lastmodified":1486688724,
     "wof:name":"Grass Man",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

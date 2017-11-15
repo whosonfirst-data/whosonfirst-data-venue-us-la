@@ -2,14 +2,20 @@
   "id": 840315111,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Ambassador Caffery Pkwy Lafayette LA 70508",
+    "addr:housenumber":"4401",
+    "addr:postcode":"70508",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.048405,30.156655,-92.048405,30.156655",
     "geom:latitude":30.156655,
     "geom:longitude":-92.048405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4401 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TSmvxO02yD5lgfETTrsPb_30.156655_-92.048405@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527222,
-    "wof:geomhash":"d3117affa1a8d2c689527cd7a6493805",
+    "wof:geomhash":"9fe891661f01c95b27d93074fb9416ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840315111,
-    "wof:lastmodified":1466542841,
+    "wof:lastmodified":1510696977,
     "wof:name":"Rack Room Shoes",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

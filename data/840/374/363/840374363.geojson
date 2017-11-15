@@ -2,9 +2,14 @@
   "id": 840374363,
   "type": "Feature",
   "properties": {
+    "addr:full":"7433 Mercier St New Orleans LA 70128",
+    "addr:housenumber":"7433",
+    "addr:postcode":"70128",
+    "addr:street":"Mercier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.971069,30.049251,-89.971069,30.049251",
     "geom:latitude":30.049251,
     "geom:longitude":-89.971069,
@@ -24,7 +29,15 @@
     "sg:postcode":"70128",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DBfqVAObBB7SvseKsPB7K_30.049251_-89.971069@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463530105,
     "wof:geomhash":"754761342985a6899c2863524458f6d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840374363
+        }
+    ],
     "wof:id":840374363,
-    "wof:lastmodified":1466543863,
+    "wof:lastmodified":1486688716,
     "wof:name":"Diversified Marketing Concepts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

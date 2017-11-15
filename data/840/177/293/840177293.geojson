@@ -2,14 +2,20 @@
   "id": 840177293,
   "type": "Feature",
   "properties": {
+    "addr:full":"3489 Masonic Dr Alexandria LA 71301",
+    "addr:housenumber":"3489",
+    "addr:postcode":"71301",
+    "addr:street":"Masonic Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.463234,31.279676,-92.463234,31.279676",
     "geom:latitude":31.279676,
     "geom:longitude":-92.463234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3489 Masonic Dr",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125151553,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GfkNt1yTqYuljzRTBE0X7_31.279676_-92.463234@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522853,
-    "wof:geomhash":"57f1b579612979b2bb74912a0373fc9b",
+    "wof:geomhash":"1b241bfddc898ca9e94135526c9feb21",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840177293,
-    "wof:lastmodified":1466541428,
+    "wof:lastmodified":1510699753,
     "wof:name":"Gordon's Jewelers",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

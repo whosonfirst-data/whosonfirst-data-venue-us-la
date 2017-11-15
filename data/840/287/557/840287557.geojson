@@ -2,9 +2,14 @@
   "id": 840287557,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 Laharpe St New Orleans LA 70116",
+    "addr:housenumber":"2021",
+    "addr:postcode":"70116",
+    "addr:street":"Laharpe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.07063,29.974841,-90.07063,29.974841",
     "geom:latitude":29.974841,
     "geom:longitude":-90.07063,
@@ -24,7 +29,16 @@
     "sg:postcode":"70116",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DNqRgGlM6S6Bx4yCzpkEn_29.974841_-90.070630@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463525966,
     "wof:geomhash":"b5fc8ef1a6c5a593a190f6d16767c098",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840287557
+        }
+    ],
     "wof:id":840287557,
-    "wof:lastmodified":1466542580,
+    "wof:lastmodified":1486689207,
     "wof:name":"Joy Hotel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

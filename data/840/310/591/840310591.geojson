@@ -2,14 +2,20 @@
   "id": 840310591,
   "type": "Feature",
   "properties": {
+    "addr:full":"860 Ridge Rd Duson LA 70529",
+    "addr:housenumber":"860",
+    "addr:postcode":"70529",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.111126,30.181471,-92.111126,30.181471",
     "geom:latitude":30.181471,
     "geom:longitude":-92.111126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"860 Ridge Rd",
     "sg:city":"Duson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125151979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OwWWMWkIoiRNDhvrdauNu_30.181471_-92.111126@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527028,
-    "wof:geomhash":"861969e819c73797e8bf4e3b711bde5b",
+    "wof:geomhash":"8e13bbae2eb11e6dcb484959e3d609cc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840310591,
-    "wof:lastmodified":1466542721,
+    "wof:lastmodified":1510695913,
     "wof:name":"Cleaning Authority",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

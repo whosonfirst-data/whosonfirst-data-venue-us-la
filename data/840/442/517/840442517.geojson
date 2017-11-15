@@ -2,14 +2,20 @@
   "id": 840442517,
   "type": "Feature",
   "properties": {
+    "addr:full":"2910 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"2910",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218727,30.2025,-93.218727,30.2025",
     "geom:latitude":30.2025,
     "geom:longitude":-93.218727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2910 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YVR2idAvSIwB9uPUD1sOe_30.202500_-93.218727@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532999,
-    "wof:geomhash":"c6f94fa99bf3a36bf3409b45606d455c",
+    "wof:geomhash":"4d531efc6502ceda76da9e4b1d69a733",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840442517,
-    "wof:lastmodified":1466545414,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

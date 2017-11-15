@@ -2,14 +2,20 @@
   "id": 840320207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Pierre Ave Shreveport LA 71103",
+    "addr:housenumber":"1800",
+    "addr:postcode":"71103",
+    "addr:street":"Pierre Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.763162,32.493752,-93.763162,32.493752",
     "geom:latitude":32.493752,
     "geom:longitude":-93.763162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 Pierre Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087235,
         85880983
     ],
+    "wof:brand_id":1125158565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42LmiFvt4XfRZMUj2bDmH3_32.493752_-93.763162@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527469,
-    "wof:geomhash":"b54de1435c911ab2865804ab9759696a",
+    "wof:geomhash":"c90f0950a69903fa5d7e9de537436b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840320207,
-    "wof:lastmodified":1466542898,
+    "wof:lastmodified":1510698988,
     "wof:name":"Lamar Outdoor Advertising",
     "wof:parent_id":85880983,
     "wof:placetype":"venue",

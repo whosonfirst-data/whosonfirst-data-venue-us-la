@@ -2,9 +2,14 @@
   "id": 840186275,
   "type": "Feature",
   "properties": {
+    "addr:full":"2919 6th St New Orleans LA 70115",
+    "addr:housenumber":"2919",
+    "addr:postcode":"70115",
+    "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.095399,29.941276,-90.095399,29.941276",
     "geom:latitude":29.941276,
     "geom:longitude":-90.095399,
@@ -27,7 +32,16 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746375,
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LWU8OksST0OHyPsk3W248_29.941276_-90.095399@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463523041,
     "wof:geomhash":"caf3326f2e72f8d3fb1c800462bd9dac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746375,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840186275
+        }
+    ],
     "wof:id":840186275,
-    "wof:lastmodified":1466541358,
+    "wof:lastmodified":1486689142,
     "wof:name":"First Mt Calvary Baptist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

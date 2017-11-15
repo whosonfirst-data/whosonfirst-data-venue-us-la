@@ -2,9 +2,14 @@
   "id": 840405767,
   "type": "Feature",
   "properties": {
+    "addr:full":"3630 General Degaulle Dr New Orleans LA 70114",
+    "addr:housenumber":"3630",
+    "addr:postcode":"70114",
+    "addr:street":"General Degaulle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021965,29.925627,-90.021965,29.925627",
     "geom:latitude":29.925627,
     "geom:longitude":-90.021965,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y4L9Vnq0CeBk8KW6rGcEY_29.925627_-90.021965@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463531453,
     "wof:geomhash":"a5ec2097a2c2a8a64a3ad0317387d563",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840405767
+        }
+    ],
     "wof:id":840405767,
-    "wof:lastmodified":1466544489,
+    "wof:lastmodified":1486688951,
     "wof:name":"Hung's Coiffures",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

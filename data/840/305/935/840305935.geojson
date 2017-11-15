@@ -2,14 +2,20 @@
   "id": 840305935,
   "type": "Feature",
   "properties": {
+    "addr:full":"9656 Burbank Dr Baton Rouge LA 70810",
+    "addr:housenumber":"9656",
+    "addr:postcode":"70810",
+    "addr:street":"Burbank Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.122463,30.359453,-91.122463,30.359453",
     "geom:latitude":30.359453,
     "geom:longitude":-91.122463,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9656 Burbank Dr",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85825083
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47SrRzD48Qz971CW5Emkew_30.359453_-91.122463@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526802,
-    "wof:geomhash":"1cdbf873ae5a0d1a66ea6d4282d90879",
+    "wof:geomhash":"a869f81eb4dfc4547c51f71cd0f1beed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840305935,
-    "wof:lastmodified":1466542804,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85825083,
     "wof:placetype":"venue",

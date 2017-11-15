@@ -2,9 +2,14 @@
   "id": 840304045,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"7300",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.978951,30.040528,-89.978951,30.040528",
     "geom:latitude":30.040528,
     "geom:longitude":-89.978951,
@@ -29,7 +34,15 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PBnnk0mjIDNOuRwmaBWFP_30.040528_-89.978951@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463526721,
     "wof:geomhash":"06b040fa2d7b8efe5966e6ce27f3f6f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840304045
+        }
+    ],
     "wof:id":840304045,
-    "wof:lastmodified":1466542587,
+    "wof:lastmodified":1486688703,
     "wof:name":"Baskin-Robbins",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

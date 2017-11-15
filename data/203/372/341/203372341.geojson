@@ -2,14 +2,20 @@
   "id": 203372341,
   "type": "Feature",
   "properties": {
+    "addr:full":"813 Reynolds St Springhill LA 71075",
+    "addr:housenumber":"813",
+    "addr:postcode":"71075",
+    "addr:street":"Reynolds St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.450144,33.000031,-93.450144,33.000031",
     "geom:latitude":33.000031,
     "geom:longitude":-93.450144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"813 Reynolds St",
     "sg:city":"Springhill",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         85947897,
         102085925
     ],
+    "wof:brand_id":1125154727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wSiIZmeD2IKwwUNA4WvKF_33.000031_-93.450144@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"53ab8ec846ac5dab7079b0c0366f8797",
+    "wof:geomhash":"0bae5f454bce02cbd5ddb62f8d501733",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":203372341,
-    "wof:lastmodified":1466539493,
+    "wof:lastmodified":1510695867,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

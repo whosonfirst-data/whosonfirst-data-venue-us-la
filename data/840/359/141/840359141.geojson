@@ -2,14 +2,20 @@
   "id": 840359141,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Brent Rd West Monroe LA 71292",
+    "addr:housenumber":"107",
+    "addr:postcode":"71292",
+    "addr:street":"Brent Rd West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.163901,32.501605,-92.163901,32.501605",
     "geom:latitude":32.501605,
     "geom:longitude":-92.163901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 Brent Rd",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zGauIZmalU9AiE4K799tb_32.501605_-92.163901@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529346,
-    "wof:geomhash":"8775132d6b814b4fdac9867aed9f4dfd",
+    "wof:geomhash":"e5ef2b7ad21365f46b4d48f3979a4435",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840359141,
-    "wof:lastmodified":1466544079,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840435059,
   "type": "Feature",
   "properties": {
+    "addr:full":"14321 Chef Menteur Hwy New Orleans LA 70129",
+    "addr:housenumber":"14321",
+    "addr:postcode":"70129",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.912733,30.036122,-89.912733,30.036122",
     "geom:latitude":30.036122,
     "geom:longitude":-89.912733,
@@ -30,7 +35,15 @@
         "cassette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85853823,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sUMDo0M75DVtQcy8CoSPW_30.036122_-89.912733@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463532687,
     "wof:geomhash":"8a179b9356c0d89bdf3f032c76fb6773",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85853823,
+            "region_id":85688735,
+            "venue_id":840435059
+        }
+    ],
     "wof:id":840435059,
-    "wof:lastmodified":1466545001,
+    "wof:lastmodified":1486688231,
     "wof:name":"Video One",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

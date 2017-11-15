@@ -2,14 +2,20 @@
   "id": 840436699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1419 Winnsboro Rd Monroe LA 71202",
+    "addr:housenumber":"1419",
+    "addr:postcode":"71202",
+    "addr:street":"Winnsboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.087435,32.484712,-92.087435,32.484712",
     "geom:latitude":32.484712,
     "geom:longitude":-92.087435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1419 Winnsboro Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125153361,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TKHKyx1V0TuwyoM5g4MRT_32.484712_-92.087435@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532759,
-    "wof:geomhash":"ec170308e27d5eec7632dcefd42b9767",
+    "wof:geomhash":"9f5015792efb235c9d8d47fa8b6a2818",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840436699,
-    "wof:lastmodified":1466545133,
+    "wof:lastmodified":1510699402,
     "wof:name":"China Chef",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

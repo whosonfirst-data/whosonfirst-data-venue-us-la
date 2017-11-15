@@ -2,14 +2,20 @@
   "id": 840206453,
   "type": "Feature",
   "properties": {
+    "addr:full":"7970 Jefferson Hwy Baton Rouge LA 70809",
+    "addr:housenumber":"7970",
+    "addr:postcode":"70809",
+    "addr:street":"Jefferson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.106349,30.426528,-91.106349,30.426528",
     "geom:latitude":30.426528,
     "geom:longitude":-91.106349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7970 Jefferson Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85840241
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01aW2tCiAZMXQIaSbCg9FE_30.426528_-91.106349@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523557,
-    "wof:geomhash":"6f94cebbbf50664a702c87a307f127e3",
+    "wof:geomhash":"02149c13dcc99124563da8fd97163644",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840206453,
-    "wof:lastmodified":1466541533,
+    "wof:lastmodified":1510693737,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85840241,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840264955,
   "type": "Feature",
   "properties": {
+    "addr:full":"5353 Laurel St New Orleans LA 70115",
+    "addr:housenumber":"5353",
+    "addr:postcode":"70115",
+    "addr:street":"Laurel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.115598,29.918528,-90.115598,29.918528",
     "geom:latitude":29.918528,
     "geom:longitude":-90.115598,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.noltc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u0xvNDRFXtFzrLG1KFCTU_29.918528_-90.115598@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463524927,
     "wof:geomhash":"80c8baf52f28fb00a3c483babcf79829",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840264955
+        }
+    ],
     "wof:id":840264955,
-    "wof:lastmodified":1466541988,
+    "wof:lastmodified":1486689112,
     "wof:name":"New Orleans Lawn Tennis Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

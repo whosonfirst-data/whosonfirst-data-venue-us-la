@@ -2,14 +2,20 @@
   "id": 840331803,
   "type": "Feature",
   "properties": {
+    "addr:full":"709 N 32nd St Monroe LA 71201",
+    "addr:housenumber":"709",
+    "addr:postcode":"71201",
+    "addr:street":"N 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.087974,32.529743,-92.087974,32.529743",
     "geom:latitude":32.529743,
     "geom:longitude":-92.087974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"709 N 32nd St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rUzfYFFa3BDAhqA61G3v9_32.529743_-92.087974@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528024,
-    "wof:geomhash":"08145b1bf98afe8db220dbbca361844e",
+    "wof:geomhash":"e62a6aad7903c7d44a719978a40466db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840331803,
-    "wof:lastmodified":1466543246,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

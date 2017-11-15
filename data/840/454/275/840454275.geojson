@@ -2,14 +2,20 @@
   "id": 840454275,
   "type": "Feature",
   "properties": {
+    "addr:full":"3533 Ambassador Caffery Pkwy Lafayette LA 70503",
+    "addr:housenumber":"3533",
+    "addr:postcode":"70503",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.072815,30.176671,-92.072815,30.176671",
     "geom:latitude":30.176671,
     "geom:longitude":-92.072815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3533 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dGjzAnsv7gDRnxbxw8AoE_30.176671_-92.072815@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533478,
-    "wof:geomhash":"92c88c282cf4a42a5381ef1e5e467d74",
+    "wof:geomhash":"e2c5bdd574e8254322cfbd336fb68a1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840454275,
-    "wof:lastmodified":1466545359,
+    "wof:lastmodified":1510696976,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

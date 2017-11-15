@@ -2,14 +2,20 @@
   "id": 840386671,
   "type": "Feature",
   "properties": {
+    "addr:full":"2424 Williams Blvd Kenner LA 70062",
+    "addr:housenumber":"2424",
+    "addr:postcode":"70062",
+    "addr:street":"Williams Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.240817,30.001036,-90.240817,30.001036",
     "geom:latitude":30.001036,
     "geom:longitude":-90.240817,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2424 Williams Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125152931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KFQcKhIXTHTd1qmT7Cv3U_30.001036_-90.240817@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530659,
-    "wof:geomhash":"ced1f70396c93d7a84f9ef6ade71fdc3",
+    "wof:geomhash":"ed5e2a6de75bccaaca53e4f6cece8193",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840386671,
-    "wof:lastmodified":1466544024,
+    "wof:lastmodified":1510697466,
     "wof:name":"Beneficial Finance",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

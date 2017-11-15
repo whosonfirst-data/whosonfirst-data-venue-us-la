@@ -2,9 +2,14 @@
   "id": 840043185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2529 Walkers Ln Meraux LA 70075",
+    "addr:housenumber":"2529",
+    "addr:postcode":"70075",
+    "addr:street":"Walkers Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.935426,29.931018,-89.935426,29.931018",
     "geom:latitude":29.931018,
     "geom:longitude":-89.935426,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -44,6 +50,7 @@
     "wof:geomhash":"e8cd471f2f20aa8523595453a8f32072",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840043185,
-    "wof:lastmodified":1466540028,
+    "wof:lastmodified":1491910628,
     "wof:name":"United States Maritime Svc Inc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

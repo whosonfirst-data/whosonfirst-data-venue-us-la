@@ -2,9 +2,14 @@
   "id": 203263311,
   "type": "Feature",
   "properties": {
+    "addr:full":"2483 Royal Street New Orleans LA 70117",
+    "addr:housenumber":"2483",
+    "addr:postcode":"70117",
+    "addr:street":"Royal Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.052151,29.964877,-90.052151,29.964877",
     "geom:latitude":29.964877,
     "geom:longitude":-90.052151,
@@ -26,11 +31,13 @@
     "sg:website":"www.balconyguesthouse.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85819021
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +47,20 @@
     "wof:geomhash":"b802a59eba894ee7d51c7d69aa83a560",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85819021,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203263311
         }
     ],
     "wof:id":203263311,
-    "wof:lastmodified":1466539328,
+    "wof:lastmodified":1486688379,
     "wof:name":"Balcony Guest House",
-    "wof:parent_id":85819021,
+    "wof:parent_id":85866097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

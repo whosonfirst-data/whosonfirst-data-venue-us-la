@@ -2,14 +2,20 @@
   "id": 840047863,
   "type": "Feature",
   "properties": {
+    "addr:full":"337 Coach Baldwin Ln Mansfield LA 71052",
+    "addr:housenumber":"337",
+    "addr:postcode":"71052",
+    "addr:street":"Coach Baldwin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.717052,32.028408,-93.717052,32.028408",
     "geom:latitude":32.028408,
     "geom:longitude":-93.717052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"337 Coach Baldwin Ln",
     "sg:city":"Mansfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85842867,
         102084887
     ],
+    "wof:brand_id":1125159085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FX8xXpjsmfZtnlDiyahFr_32.028408_-93.717052@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519997,
-    "wof:geomhash":"3748097233e056c18592f4b5122806df",
+    "wof:geomhash":"fa5f1ee0fa0000cf3cdb3371403a65ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840047863,
-    "wof:lastmodified":1466540164,
+    "wof:lastmodified":1510693763,
     "wof:name":"St James AME Church",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",

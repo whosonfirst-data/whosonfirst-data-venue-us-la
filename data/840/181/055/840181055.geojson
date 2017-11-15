@@ -2,9 +2,14 @@
   "id": 840181055,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 O Keefe Ave New Orleans LA 70113",
+    "addr:housenumber":"334",
+    "addr:postcode":"70113",
+    "addr:street":"O Keefe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.006968,30.027127,-90.006968,30.027127",
     "geom:latitude":30.027127,
     "geom:longitude":-90.006968,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866167,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85847541
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85847541,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
             "region_id":85688735,
             "venue_id":840181055
         }
     ],
     "wof:id":840181055,
-    "wof:lastmodified":1466541276,
+    "wof:lastmodified":1486688727,
     "wof:name":"Buy You Mama's",
-    "wof:parent_id":85847541,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

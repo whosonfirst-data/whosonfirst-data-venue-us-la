@@ -2,9 +2,14 @@
   "id": 840406211,
   "type": "Feature",
   "properties": {
+    "addr:full":"7040 Ridgefield Dr New Orleans LA 70128",
+    "addr:housenumber":"7040",
+    "addr:postcode":"70128",
+    "addr:street":"Ridgefield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.946932,30.05882,-89.946932,30.05882",
     "geom:latitude":30.05882,
     "geom:longitude":-89.946932,
@@ -30,7 +35,16 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108739507,
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RK3FtN8LcARiIRYBXeRdr_30.058820_-89.946932@1294127638"
@@ -38,11 +52,23 @@
     "wof:country":"US",
     "wof:created":1463531468,
     "wof:geomhash":"519dc90c608b38fcf938602c86958b4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "microhood_id":1108739507,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840406211
+        }
+    ],
     "wof:id":840406211,
-    "wof:lastmodified":1466544628,
+    "wof:lastmodified":1486689128,
     "wof:name":"Virtuosew",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

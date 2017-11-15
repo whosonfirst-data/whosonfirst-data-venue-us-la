@@ -2,14 +2,20 @@
   "id": 840400307,
   "type": "Feature",
   "properties": {
+    "addr:full":"8704 Jefferson Hwy Baton Rouge LA 70809",
+    "addr:housenumber":"8704",
+    "addr:postcode":"70809",
+    "addr:street":"Jefferson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.091376,30.418095,-91.091376,30.418095",
     "geom:latitude":30.418095,
     "geom:longitude":-91.091376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8704 Jefferson Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85809547
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K59C9q0rNEm6I9uHEz9UB_30.418095_-91.091376@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531222,
-    "wof:geomhash":"8d53501baa1e11321b54a09b3ce5a4dc",
+    "wof:geomhash":"7203d02950c07507c2847de02225dc84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840400307,
-    "wof:lastmodified":1466544604,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85809547,
     "wof:placetype":"venue",

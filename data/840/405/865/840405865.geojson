@@ -2,9 +2,14 @@
   "id": 840405865,
   "type": "Feature",
   "properties": {
+    "addr:full":"6025 Coliseum St New Orleans LA 70118",
+    "addr:housenumber":"6025",
+    "addr:postcode":"70118",
+    "addr:street":"Coliseum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121816,29.925303,-90.121816,29.925303",
     "geom:latitude":29.925303,
     "geom:longitude":-90.121816,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866131,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866131
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866131,
             "region_id":85688735,
             "venue_id":840405865
         }
     ],
     "wof:id":840405865,
-    "wof:lastmodified":1466544506,
+    "wof:lastmodified":1486686905,
     "wof:name":"Cosmo Public Relations Inc",
     "wof:parent_id":85866131,
     "wof:placetype":"venue",

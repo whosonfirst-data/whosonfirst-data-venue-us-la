@@ -2,6 +2,10 @@
   "id": 840446229,
   "type": "Feature",
   "properties": {
+    "addr:full":"4420 S I- 10 Svc Rd W Metairie LA 70001",
+    "addr:housenumber":"4420;10",
+    "addr:postcode":"70001",
+    "addr:street":"S I;Svc Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840446229,
-    "wof:lastmodified":1466545280,
+    "wof:lastmodified":1472624876,
     "wof:name":"K & G",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

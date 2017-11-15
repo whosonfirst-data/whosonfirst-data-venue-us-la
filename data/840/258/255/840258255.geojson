@@ -2,14 +2,20 @@
   "id": 840258255,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 Southeast Blvd Morgan City LA 70380",
+    "addr:housenumber":"445",
+    "addr:postcode":"70380",
+    "addr:street":"Southeast Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.265065,29.691205,-91.265065,29.691205",
     "geom:latitude":29.691205,
     "geom:longitude":-91.265065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"445 Southeast Blvd",
     "sg:city":"Morgan City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125156165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VsnDrRGY0EhaDLi2f7Uz4_29.691205_-91.265065@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524779,
-    "wof:geomhash":"3d805e2a70f30f2cd5570ddc100a6801",
+    "wof:geomhash":"47bced95a4b77d2cc4d81825f370d2d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840258255,
-    "wof:lastmodified":1466541910,
+    "wof:lastmodified":1510613145,
     "wof:name":"Vital Signs",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840371801,
   "type": "Feature",
   "properties": {
+    "addr:full":"1023 Cambronne St New Orleans LA 70118",
+    "addr:housenumber":"1023",
+    "addr:postcode":"70118",
+    "addr:street":"Cambronne St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.133209,29.948511,-90.133209,29.948511",
     "geom:latitude":29.948511,
     "geom:longitude":-90.133209,
@@ -28,7 +33,16 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fOBwatksqZjEtJFK5N4oR_29.948511_-90.133209@1294127638"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1463529978,
     "wof:geomhash":"9db473522686b0ffaa95f33af516d8b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840371801
+        }
+    ],
     "wof:id":840371801,
-    "wof:lastmodified":1466543898,
+    "wof:lastmodified":1486689239,
     "wof:name":"Guy Chenevert Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

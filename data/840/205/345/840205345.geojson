@@ -2,14 +2,20 @@
   "id": 840205345,
   "type": "Feature",
   "properties": {
+    "addr:full":"2605 Mackey Ln Shreveport LA 71118",
+    "addr:housenumber":"2605",
+    "addr:postcode":"71118",
+    "addr:street":"Mackey Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.798399,32.41212,-93.798399,32.41212",
     "geom:latitude":32.41212,
     "geom:longitude":-93.798399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2605 Mackey Ln",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087235,
         85880999
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OQF1muH0SBTQb5S3EdBcr_32.412120_-93.798399@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523522,
-    "wof:geomhash":"a99bc3230844fd2297fe68b01432328a",
+    "wof:geomhash":"cd0193353ef310927195e762be3649e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840205345,
-    "wof:lastmodified":1466541515,
+    "wof:lastmodified":1510694975,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85880999,
     "wof:placetype":"venue",

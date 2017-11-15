@@ -2,14 +2,20 @@
   "id": 840017515,
   "type": "Feature",
   "properties": {
+    "addr:full":"3939 Veterans Memorial Blvd Metairie LA 70006",
+    "addr:housenumber":"3939",
+    "addr:postcode":"70006",
+    "addr:street":"Veterans Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.173423,30.004693,-90.173423,30.004693",
     "geom:latitude":30.004693,
     "geom:longitude":-90.173423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3939 Veterans Memorial Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jnlThiLjBaTSm5fJbDR7H_30.004693_-90.173423@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519358,
-    "wof:geomhash":"fbaf58b3103bc4afc01c2cc8d1dba0e8",
+    "wof:geomhash":"7fe86e80ace50475e2fb7ce1159b88a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840017515,
-    "wof:lastmodified":1466539720,
+    "wof:lastmodified":1510696789,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

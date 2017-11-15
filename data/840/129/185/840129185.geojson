@@ -2,14 +2,20 @@
   "id": 840129185,
   "type": "Feature",
   "properties": {
+    "addr:full":"6737 Corbina Rd Lake Charles LA 70607",
+    "addr:housenumber":"6737",
+    "addr:postcode":"70607",
+    "addr:street":"Corbina Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.162724,30.140863,-93.162724,30.140863",
     "geom:latitude":30.140863,
     "geom:longitude":-93.162724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6737 Corbina Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125154531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SNg2L2dFdiTy091KjJrFM_30.140863_-93.162724@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521832,
-    "wof:geomhash":"e6836695d3be4dcce1ea98928dc1a40b",
+    "wof:geomhash":"185aee6c2bd4c1a756dc3caca8309259",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840129185,
-    "wof:lastmodified":1466540918,
+    "wof:lastmodified":1510693202,
     "wof:name":"Faith Bible Church",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

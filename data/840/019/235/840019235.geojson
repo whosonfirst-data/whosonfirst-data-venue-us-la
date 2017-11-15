@@ -2,14 +2,20 @@
   "id": 840019235,
   "type": "Feature",
   "properties": {
+    "addr:full":"4547 Johnston St Lafayette LA 70503",
+    "addr:housenumber":"4547",
+    "addr:postcode":"70503",
+    "addr:street":"Johnston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.059131,30.193182,-92.059131,30.193182",
     "geom:latitude":30.193182,
     "geom:longitude":-92.059131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4547 Johnston St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125155663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K4637JhwLeiw8uypxdEa2_30.193182_-92.059131@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519387,
-    "wof:geomhash":"238699fcf57e52ef7990d60f616e6b4e",
+    "wof:geomhash":"7df5732f9bba883b04efb8650a140b13",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840019235,
-    "wof:lastmodified":1466539690,
+    "wof:lastmodified":1510698985,
     "wof:name":"Princess Nails",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

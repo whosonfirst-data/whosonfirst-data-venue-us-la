@@ -2,14 +2,20 @@
   "id": 840430923,
   "type": "Feature",
   "properties": {
+    "addr:full":"1123 E Admiral Doyle Dr New Iberia LA 70560",
+    "addr:housenumber":"1123",
+    "addr:postcode":"70560",
+    "addr:street":"E Admiral Doyle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.815112,29.982581,-91.815112,29.982581",
     "geom:latitude":29.982581,
     "geom:longitude":-91.815112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1123 E Admiral Doyle Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125155307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58Sa7sBsXdb5y8TRSW9vQf_29.982581_-91.815112@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532483,
-    "wof:geomhash":"0779357c900086cb6506a2bb78ba9397",
+    "wof:geomhash":"fe53574bfaf158819bff5c4358759c26",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840430923,
-    "wof:lastmodified":1466545177,
+    "wof:lastmodified":1510699917,
     "wof:name":"Shoney's",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

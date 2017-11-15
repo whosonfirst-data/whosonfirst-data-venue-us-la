@@ -2,6 +2,10 @@
   "id": 840270155,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Paris Rd Chalmette LA 70043",
+    "addr:housenumber":"5000",
+    "addr:postcode":"70043",
+    "addr:street":"Paris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840270155,
-    "wof:lastmodified":1466542075,
+    "wof:lastmodified":1472624563,
     "wof:name":"Chalmette Electric Motor Svc",
     "wof:parent_id":85853675,
     "wof:placetype":"venue",

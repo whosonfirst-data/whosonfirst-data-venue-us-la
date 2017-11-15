@@ -2,9 +2,14 @@
   "id": 840327313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 Homestead Ave Metairie LA 70005",
+    "addr:housenumber":"1209",
+    "addr:postcode":"70005",
+    "addr:street":"Homestead Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.137397,30.013381,-90.137397,30.013381",
     "geom:latitude":30.013381,
     "geom:longitude":-90.137397,
@@ -28,7 +33,15 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688735,
+        102191575,
+        85633793,
+        85948111,
+        102086693,
+        85866149,
+        85855393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O0ytiYkKS7JaiGlzJNhNG_30.013381_-90.137397@1294127638"
@@ -36,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1463527832,
     "wof:geomhash":"f0d62a2d79eb6de0fc72650ad84cdf5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85866149,
+            "region_id":85688735,
+            "venue_id":840327313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "neighbourhood_id":85855393,
+            "region_id":85688735,
+            "venue_id":840327313
+        }
+    ],
     "wof:id":840327313,
-    "wof:lastmodified":1466543058,
+    "wof:lastmodified":1491910655,
     "wof:name":"East Jefferson Business Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840377059,
   "type": "Feature",
   "properties": {
+    "addr:full":"6927 Soda Point Dr Shreveport LA 71107",
+    "addr:housenumber":"6927",
+    "addr:postcode":"71107",
+    "addr:street":"Soda Point Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.896521,32.646875,-93.896521,32.646875",
     "geom:latitude":32.646875,
     "geom:longitude":-93.896521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6927 Soda Point Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85825193
     ],
+    "wof:brand_id":1125159773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38r7bIfLxfoiMvdNs3JccC_32.646875_-93.896521@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530224,
-    "wof:geomhash":"b6fc615537873705e4ff2e9f8e49e315",
+    "wof:geomhash":"d13ceadc5db6c288de7c5b89f217359c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840377059,
-    "wof:lastmodified":1466543866,
+    "wof:lastmodified":1510699930,
     "wof:name":"Affordable Plumbing",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",

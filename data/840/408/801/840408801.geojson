@@ -2,14 +2,20 @@
   "id": 840408801,
   "type": "Feature",
   "properties": {
+    "addr:full":"819 Benton Rd Bossier City LA 71111",
+    "addr:housenumber":"819",
+    "addr:postcode":"71111",
+    "addr:street":"Benton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.718498,32.52797,-93.718498,32.52797",
     "geom:latitude":32.52797,
     "geom:longitude":-93.718498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"819 Benton Rd",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nBqTo14gVZWkkJ8efDK8c_32.527970_-93.718498@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531578,
-    "wof:geomhash":"bf7c50c64dbde9ae07590189f8bfbd41",
+    "wof:geomhash":"9acc094bd577a906f45415b68b0c10ac",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840408801,
-    "wof:lastmodified":1466544632,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

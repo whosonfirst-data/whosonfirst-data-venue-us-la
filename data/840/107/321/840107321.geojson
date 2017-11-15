@@ -2,9 +2,14 @@
   "id": 840107321,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Ringold St New Orleans LA 70124",
+    "addr:housenumber":"201",
+    "addr:postcode":"70124",
+    "addr:street":"Ringold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.113422,30.00257,-90.113422,30.00257",
     "geom:latitude":30.00257,
     "geom:longitude":-90.113422,
@@ -30,12 +35,13 @@
     "sg:website":"www.moonshinestudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840107321
         }
     ],
     "wof:id":840107321,
-    "wof:lastmodified":1466540723,
+    "wof:lastmodified":1486686741,
     "wof:name":"Moon Shine Studio",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

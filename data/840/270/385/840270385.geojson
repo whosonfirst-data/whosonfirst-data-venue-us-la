@@ -2,14 +2,20 @@
   "id": 840270385,
   "type": "Feature",
   "properties": {
+    "addr:full":"7117 Perkins Rd Baton Rouge LA 70808",
+    "addr:housenumber":"7117",
+    "addr:postcode":"70808",
+    "addr:street":"Perkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.115047,30.398619,-91.115047,30.398619",
     "geom:latitude":30.398619,
     "geom:longitude":-91.115047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7117 Perkins Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85876081
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nyAOvnUMZyIl2N606zk1w_30.398619_-91.115047@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525198,
-    "wof:geomhash":"4345e45a2f1d33be20851f0b75348f50",
+    "wof:geomhash":"cc8ec9ff7d67ca22c716151bb8c858e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840270385,
-    "wof:lastmodified":1466542144,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85876081,
     "wof:placetype":"venue",

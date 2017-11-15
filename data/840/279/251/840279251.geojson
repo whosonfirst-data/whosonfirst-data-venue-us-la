@@ -2,14 +2,20 @@
   "id": 840279251,
   "type": "Feature",
   "properties": {
+    "addr:full":"959 US Hwy 90 Morgan City LA 70380",
+    "addr:housenumber":"959",
+    "addr:postcode":"70380",
+    "addr:street":"Us Hwy 90 Morgan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.268494,29.681483,-91.268494,29.681483",
     "geom:latitude":29.681483,
     "geom:longitude":-91.268494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"959 US Hwy 90",
     "sg:city":"Morgan City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35ownRmelbkB42Y8S6xS9T_29.681483_-91.268494@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525586,
-    "wof:geomhash":"908f27b8327c595f19cdf4bfdbfba483",
+    "wof:geomhash":"1cfa97b9c7589527fd5e819787423d3f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840279251,
-    "wof:lastmodified":1466542223,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

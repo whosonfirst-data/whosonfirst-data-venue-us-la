@@ -2,14 +2,20 @@
   "id": 840327063,
   "type": "Feature",
   "properties": {
+    "addr:full":"1659 E 70th St Shreveport LA 71105",
+    "addr:housenumber":"1659",
+    "addr:postcode":"71105",
+    "addr:street":"E 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.719492,32.443547,-93.719492,32.443547",
     "geom:latitude":32.443547,
     "geom:longitude":-93.719492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1659 E 70th St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":1125151859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H9TKM33PSFNnITrY3pcto_32.443547_-93.719492@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527817,
-    "wof:geomhash":"2ec3b9a8b727ca2ff48b646d6ab140f8",
+    "wof:geomhash":"517d258853b79519c7888bda71cc06a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840327063,
-    "wof:lastmodified":1466543007,
+    "wof:lastmodified":1510696692,
     "wof:name":"Scottrade Inc",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

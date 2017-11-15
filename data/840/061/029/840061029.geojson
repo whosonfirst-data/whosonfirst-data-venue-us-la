@@ -2,14 +2,20 @@
   "id": 840061029,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 N Market St Shreveport LA 71107",
+    "addr:housenumber":"1500",
+    "addr:postcode":"71107",
+    "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.768899,32.535454,-93.768899,32.535454",
     "geom:latitude":32.535454,
     "geom:longitude":-93.768899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 N Market St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85880993
     ],
+    "wof:brand_id":1125156341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AZqq2khgUtdWpJjW6ukpn_32.535454_-93.768899@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520299,
-    "wof:geomhash":"b8d28a88b0c8e0a4d054cb447192a53a",
+    "wof:geomhash":"149bb58b457bd0f7951ff90cc4dc6bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840061029,
-    "wof:lastmodified":1466540191,
+    "wof:lastmodified":1510699937,
     "wof:name":"Allied Home Mtg Capital Corp",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",

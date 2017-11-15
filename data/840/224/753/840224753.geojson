@@ -2,14 +2,20 @@
   "id": 840224753,
   "type": "Feature",
   "properties": {
+    "addr:full":"11066 Hwy 71 S Bunkie LA 71325",
+    "addr:housenumber":"11066",
+    "addr:postcode":"71325",
+    "addr:street":"Hwy 71 S Bunkie",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.224092,30.993427,-92.224092,30.993427",
     "geom:latitude":30.993427,
     "geom:longitude":-92.224092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11066 Hwy 71 S",
     "sg:city":"Bunkie",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125156305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q5nht2a2Y9TzTCV6h5Opl_30.993427_-92.224092@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523944,
-    "wof:geomhash":"009be3656e208809f329941bc438d8a9",
+    "wof:geomhash":"d2ca6916e22dfbc41a6e61d59753aa8c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840224753,
-    "wof:lastmodified":1466541660,
+    "wof:lastmodified":1510698776,
     "wof:name":"St James Baptist Church",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

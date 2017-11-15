@@ -2,14 +2,20 @@
   "id": 840062531,
   "type": "Feature",
   "properties": {
+    "addr:full":"1107 General Pershing St New Orleans LA 70115",
+    "addr:housenumber":"1107",
+    "addr:postcode":"70115",
+    "addr:street":"General Pershing St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.100417,29.923701,-90.100417,29.923701",
     "geom:latitude":29.923701,
     "geom:longitude":-90.100417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1107 General Pershing St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,33 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866115,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866115
+        85688735
     ],
+    "wof:brand_id":1125157501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0erBXrqcB4MA91tAjHTof3_29.923701_-90.100417@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520327,
-    "wof:geomhash":"16dc7cce655b76a6a1c2dee8264c8d80",
+    "wof:geomhash":"ebc5772754f0a8762a964de24ffcc70e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866115,
             "region_id":85688735,
             "venue_id":840062531
         }
     ],
     "wof:id":840062531,
-    "wof:lastmodified":1466540259,
+    "wof:lastmodified":1510694027,
     "wof:name":"Sisters Of St Francis",
     "wof:parent_id":85866115,
     "wof:placetype":"venue",

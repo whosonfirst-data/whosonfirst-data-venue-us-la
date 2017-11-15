@@ -2,9 +2,14 @@
   "id": 840352909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1633 Columbus St New Orleans LA 70116",
+    "addr:housenumber":"1633",
+    "addr:postcode":"70116",
+    "addr:street":"Columbus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.067783,29.971588,-90.067783,29.971588",
     "geom:latitude":29.971588,
     "geom:longitude":-90.067783,
@@ -27,7 +32,16 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54pKRqre4Nz28SjngRoyxi_29.971588_-90.067783@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463529058,
     "wof:geomhash":"e007a7370cfbbd2b05b597371db2017a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840352909
+        }
+    ],
     "wof:id":840352909,
-    "wof:lastmodified":1466543525,
+    "wof:lastmodified":1486689215,
     "wof:name":"Columbus Supermarket Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840435917,
   "type": "Feature",
   "properties": {
+    "addr:full":"8106 Earhart Blvd New Orleans LA 70118",
+    "addr:housenumber":"8106",
+    "addr:postcode":"70118",
+    "addr:street":"Earhart Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.115866,29.961875,-90.115866,29.961875",
     "geom:latitude":29.961875,
     "geom:longitude":-90.115866,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866077,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866077
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866077,
             "region_id":85688735,
             "venue_id":840435917
         }
     ],
     "wof:id":840435917,
-    "wof:lastmodified":1466545177,
+    "wof:lastmodified":1486687524,
     "wof:name":"Electric Ladyland Tattoo",
     "wof:parent_id":85866077,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203270089,
   "type": "Feature",
   "properties": {
+    "addr:full":"3021 Franklin Ave New Orleans LA 70122",
+    "addr:housenumber":"3021",
+    "addr:postcode":"70122",
+    "addr:street":"Franklin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049301,29.989599,-90.049301,29.989599",
     "geom:latitude":29.989599,
     "geom:longitude":-90.049301,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866099,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866099
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"5a74a5fa174cc145e9a3a5cdc8fa9074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":203270089
         }
     ],
     "wof:id":203270089,
-    "wof:lastmodified":1466539343,
+    "wof:lastmodified":1486686769,
     "wof:name":"Pittman C R Construction Co Inc",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",

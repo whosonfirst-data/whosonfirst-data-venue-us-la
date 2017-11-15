@@ -2,9 +2,14 @@
   "id": 203298589,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Woodland Dr New Orleans LA 70131",
+    "addr:housenumber":"5000",
+    "addr:postcode":"70131",
+    "addr:street":"Woodland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.991302,29.9041,-89.991302,29.9041",
     "geom:latitude":29.9041,
     "geom:longitude":-89.991302,
@@ -29,10 +34,14 @@
     "sg:website":"www.forestisle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739501,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,21 @@
     "wof:geomhash":"4c5b09f374828b4730a246086603ca15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "microhood_id":1108739501,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203298589
         }
     ],
     "wof:id":203298589,
-    "wof:lastmodified":1466539392,
+    "wof:lastmodified":1486689123,
     "wof:name":"Forest Isle",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

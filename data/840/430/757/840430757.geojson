@@ -2,9 +2,14 @@
   "id": 840430757,
   "type": "Feature",
   "properties": {
+    "addr:full":"6346 Bellaire Dr New Orleans LA 70124",
+    "addr:housenumber":"6346",
+    "addr:postcode":"70124",
+    "addr:street":"Bellaire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.121327,30.007527,-90.121327,30.007527",
     "geom:latitude":30.007527,
     "geom:longitude":-90.121327,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p4Y8t95mxlTR1WHdiquuU_30.007527_-90.121327@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463532475,
     "wof:geomhash":"5321dbe0fecc8fa13266999effef894d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840430757
+        }
+    ],
     "wof:id":840430757,
-    "wof:lastmodified":1466545142,
+    "wof:lastmodified":1486689069,
     "wof:name":"Mascari's Construction Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

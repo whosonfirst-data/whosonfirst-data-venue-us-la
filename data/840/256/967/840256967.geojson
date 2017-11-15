@@ -2,9 +2,14 @@
   "id": 840256967,
   "type": "Feature",
   "properties": {
+    "addr:full":"7246 Downman Rd New Orleans LA 70126",
+    "addr:housenumber":"7246",
+    "addr:postcode":"70126",
+    "addr:street":"Downman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.024392,30.025601,-90.024392,30.025601",
     "geom:latitude":30.025601,
     "geom:longitude":-90.024392,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I1YWA7Stc7ZTNk89jsi6f_30.025601_-90.024392@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463524757,
     "wof:geomhash":"383dffe5c4c3047b75938645d84b3e61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840256967
+        }
+    ],
     "wof:id":840256967,
-    "wof:lastmodified":1466541986,
+    "wof:lastmodified":1486687631,
     "wof:name":"Mc Donald's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

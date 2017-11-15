@@ -2,14 +2,20 @@
   "id": 840256589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1680 Barataria Blvd Marrero LA 70072",
+    "addr:housenumber":"1680",
+    "addr:postcode":"70072",
+    "addr:street":"Barataria Blvd Marrero",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.098815,29.880691,-90.098815,29.880691",
     "geom:latitude":29.880691,
     "geom:longitude":-90.098815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1680 Barataria Blvd",
     "sg:city":"Marrero",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85866123
     ],
+    "wof:brand_id":1125154653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZePae5jNICdlWDxVDQrFP_29.880691_-90.098815@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524750,
-    "wof:geomhash":"1a0ea06a4c38e2e4c6d21ba4ccb057b4",
+    "wof:geomhash":"a57a12b0c9517b47034f4f75a1335544",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840256589,
-    "wof:lastmodified":1466541954,
+    "wof:lastmodified":1510694718,
     "wof:name":"Jerry's Barber Shop",
     "wof:parent_id":85866123,
     "wof:placetype":"venue",

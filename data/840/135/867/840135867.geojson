@@ -2,9 +2,14 @@
   "id": 840135867,
   "type": "Feature",
   "properties": {
+    "addr:full":"2734 Metropolitan St New Orleans LA 70126",
+    "addr:housenumber":"2734",
+    "addr:postcode":"70126",
+    "addr:street":"Metropolitan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.03789,29.985636,-90.03789,29.985636",
     "geom:latitude":29.985636,
     "geom:longitude":-90.03789,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866087,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QHPwaiA6nAKO6w3lHERsZ_29.985636_-90.037890@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463521969,
     "wof:geomhash":"3d29dcf4bc5a32729e60c79c546bbc8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866087,
+            "region_id":85688735,
+            "venue_id":840135867
+        }
+    ],
     "wof:id":840135867,
-    "wof:lastmodified":1466541107,
+    "wof:lastmodified":1491860987,
     "wof:name":"Grtr Guiding Lgt Mssnry Bapt",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840010449,
   "type": "Feature",
   "properties": {
+    "addr:full":"4313 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"4313",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.040016,30.004004,-90.040016,30.004004",
     "geom:latitude":30.004004,
     "geom:longitude":-90.040016,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85821299,
         102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85821299
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +55,24 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85821299,
+            "region_id":85688735,
+            "venue_id":840010449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85821299,
             "region_id":85688735,
             "venue_id":840010449
         }
     ],
     "wof:id":840010449,
-    "wof:lastmodified":1466539650,
+    "wof:lastmodified":1486688045,
     "wof:name":"Mack's Mens Wear",
     "wof:parent_id":85821299,
     "wof:placetype":"venue",

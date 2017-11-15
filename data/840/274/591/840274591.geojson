@@ -2,14 +2,20 @@
   "id": 840274591,
   "type": "Feature",
   "properties": {
+    "addr:full":"1412 Hospital Ave Franklin LA 70538",
+    "addr:housenumber":"1412",
+    "addr:postcode":"70538",
+    "addr:street":"Hospital Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.500116,29.802921,-91.500116,29.802921",
     "geom:latitude":29.802921,
     "geom:longitude":-91.500116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1412 Hospital Ave",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qojWjYoIWBYBHpi8gF2oV_29.802921_-91.500116@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525373,
-    "wof:geomhash":"009047970cfaf985f35e5926a6aa32db",
+    "wof:geomhash":"0a19e7d7a56fb2081adfe141a59f5270",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840274591,
-    "wof:lastmodified":1466542180,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

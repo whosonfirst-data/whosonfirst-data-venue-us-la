@@ -2,14 +2,20 @@
   "id": 840308461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 N 18th St Monroe LA 71201",
+    "addr:housenumber":"1900",
+    "addr:postcode":"71201",
+    "addr:street":"N 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.11607,32.52716,-92.11607,32.52716",
     "geom:latitude":32.52716,
     "geom:longitude":-92.11607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1900 N 18th St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125155399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63iVmjRAAs5NagoqprB0hq_32.527160_-92.116070@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526918,
-    "wof:geomhash":"7c07db85c801b389f10365b5e6ec13e1",
+    "wof:geomhash":"e53201e7ec6dd105afacdba1f5760666",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840308461,
-    "wof:lastmodified":1466542743,
+    "wof:lastmodified":1510698647,
     "wof:name":"Money Concepts",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

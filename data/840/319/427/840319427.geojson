@@ -2,14 +2,20 @@
   "id": 840319427,
   "type": "Feature",
   "properties": {
+    "addr:full":"15228 George Oneal Rd Baton Rouge LA 70817",
+    "addr:housenumber":"15228",
+    "addr:postcode":"70817",
+    "addr:street":"George Oneal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.011895,30.407641,-91.011895,30.407641",
     "geom:latitude":30.407641,
     "geom:longitude":-91.011895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15228 George Oneal Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85824817
     ],
+    "wof:brand_id":1125158475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wWvILMm5cEefkhUIDfEV1_30.407641_-91.011895@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527438,
-    "wof:geomhash":"dda4dfa09c1c57dd4cd21337414ed6fc",
+    "wof:geomhash":"5c6907a46ebcbb1c4e1e553c76b10232",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840319427,
-    "wof:lastmodified":1466542944,
+    "wof:lastmodified":1510699304,
     "wof:name":"Children's Orchard",
     "wof:parent_id":85824817,
     "wof:placetype":"venue",

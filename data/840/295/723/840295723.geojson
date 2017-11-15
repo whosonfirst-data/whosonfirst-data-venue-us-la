@@ -2,14 +2,20 @@
   "id": 840295723,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 Northwood Dr Pineville LA 71360",
+    "addr:housenumber":"191",
+    "addr:postcode":"71360",
+    "addr:street":"Northwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.378894,31.347013,-92.378894,31.347013",
     "geom:latitude":31.347013,
     "geom:longitude":-92.378894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"191 Northwood Dr",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125157699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bdura74AHLuyCI2iEQKbE_31.347013_-92.378894@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526307,
-    "wof:geomhash":"25dfac3b95c81800c925bce50eed4508",
+    "wof:geomhash":"d3484c2171490a5434ce06e4b32adc2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840295723,
-    "wof:lastmodified":1466542609,
+    "wof:lastmodified":1510694902,
     "wof:name":"Physicians Mutual Insurance Co",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

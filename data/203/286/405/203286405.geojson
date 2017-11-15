@@ -2,9 +2,14 @@
   "id": 203286405,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Chartres St New Orleans LA 70130",
+    "addr:housenumber":"518",
+    "addr:postcode":"70130",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065126,29.955967,-90.065126,29.955967",
     "geom:latitude":29.955967,
     "geom:longitude":-90.065126,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"def4997daae9308454d8f43f8d074f97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203286405
         }
     ],
     "wof:id":203286405,
-    "wof:lastmodified":1466539372,
+    "wof:lastmodified":1486688410,
     "wof:name":"United Apparel Liquidators",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

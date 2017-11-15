@@ -2,14 +2,20 @@
   "id": 840323621,
   "type": "Feature",
   "properties": {
+    "addr:full":"875 Harrison Ave New Orleans LA 70124",
+    "addr:housenumber":"875",
+    "addr:postcode":"70124",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.104169,30.004579,-90.104169,30.004579",
     "geom:latitude":30.004579,
     "geom:longitude":-90.104169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"875 Harrison Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -26,33 +32,36 @@
     "sg:website":"www.whitneybank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6siYra5er7uaXCA5KVPDar_30.004579_-90.104169@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527657,
-    "wof:geomhash":"85c49b9d1bfc2625ff6a1caeb3ab419b",
+    "wof:geomhash":"ff28c3e8af78db04d6acaf25ac5a0704",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840323621
         }
     ],
     "wof:id":840323621,
-    "wof:lastmodified":1466542981,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

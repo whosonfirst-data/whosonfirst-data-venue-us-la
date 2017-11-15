@@ -2,9 +2,14 @@
   "id": 203261819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1931 Saint Claude Ave New Orleans LA 70116",
+    "addr:housenumber":"1931",
+    "addr:postcode":"70116",
+    "addr:street":"Saint Claude Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.059402,29.9685,-90.059402,29.9685",
     "geom:latitude":29.9685,
     "geom:longitude":-90.059402,
@@ -31,11 +36,13 @@
     "sg:website":"www.sweetlorrainesjazzclub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866083,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,20 @@
     "wof:geomhash":"73b221e4b8847ab6cc1fb17a23d0eac5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866097,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866083,
             "region_id":85688735,
             "venue_id":203261819
         }
     ],
     "wof:id":203261819,
-    "wof:lastmodified":1466539338,
+    "wof:lastmodified":1491860956,
     "wof:name":"Sweet Lorraine's",
-    "wof:parent_id":85866097,
+    "wof:parent_id":85866083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

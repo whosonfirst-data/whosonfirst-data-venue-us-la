@@ -2,14 +2,20 @@
   "id": 203395125,
   "type": "Feature",
   "properties": {
+    "addr:full":"15908 Hughes Chapel Rd Bastrop LA 71220",
+    "addr:housenumber":"15908",
+    "addr:postcode":"71220",
+    "addr:street":"Hughes Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.905686,32.944164,-91.905686,32.944164",
     "geom:latitude":32.944164,
     "geom:longitude":-91.905686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15908 Hughes Chapel Rd",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         85633793,
         85688735
     ],
+    "wof:brand_id":1125159217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dZg2BKL0xIuAHfP7G27GA_32.944164_-91.905686@1303262947"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ef8e1ad94a68cba7a3306650f115843",
+    "wof:geomhash":"633125b425654accace606ff4f87e1da",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":203395125,
-    "wof:lastmodified":1466539519,
+    "wof:lastmodified":1510698764,
     "wof:name":"Corinth Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

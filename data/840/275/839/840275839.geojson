@@ -2,9 +2,14 @@
   "id": 840275839,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Jefferson Ave New Orleans LA 70115",
+    "addr:housenumber":"900",
+    "addr:postcode":"70115",
+    "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.114795,29.921937,-90.114795,29.921937",
     "geom:latitude":29.921937,
     "geom:longitude":-90.114795,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"www.ccscoffee.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866125,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63gGTtzO4HPmSy4TPDLJHu_29.921937_-90.114795@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463525437,
     "wof:geomhash":"2659373e51243467d92a8cdc82eefe06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866125,
+            "region_id":85688735,
+            "venue_id":840275839
+        }
+    ],
     "wof:id":840275839,
-    "wof:lastmodified":1466542334,
+    "wof:lastmodified":1486688643,
     "wof:name":"C C's Coffee House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

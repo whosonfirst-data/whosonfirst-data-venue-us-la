@@ -2,9 +2,14 @@
   "id": 203253087,
   "type": "Feature",
   "properties": {
+    "addr:full":"3801 General Degaulle Dr Ste B New Orleans LA 70114",
+    "addr:housenumber":"3801",
+    "addr:postcode":"70114",
+    "addr:street":"General Degaulle Dr Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.020322,29.924189,-90.020322,29.924189",
     "geom:latitude":29.924189,
     "geom:longitude":-90.020322,
@@ -25,10 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739499,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"6ef105cae7e38ce8f4f63796713d6e02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108739499,
             "region_id":85688735,
             "venue_id":203253087
         }
     ],
     "wof:id":203253087,
-    "wof:lastmodified":1466539313,
+    "wof:lastmodified":1486689103,
     "wof:name":"Urgent Chiropractor",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108739499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

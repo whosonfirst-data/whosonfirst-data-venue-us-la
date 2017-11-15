@@ -2,6 +2,10 @@
   "id": 840319207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 S Cities Service Hwy Sulphur LA 70663",
+    "addr:housenumber":"1500",
+    "addr:postcode":"70663",
+    "addr:street":"S;Hwy Sulphur La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":840319207,
-    "wof:lastmodified":1466542899,
+    "wof:lastmodified":1472624642,
     "wof:name":"Cities Service Auto",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

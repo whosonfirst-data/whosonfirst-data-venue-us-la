@@ -2,9 +2,14 @@
   "id": 840435637,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 Alabama St New Orleans LA 70126",
+    "addr:housenumber":"7300",
+    "addr:postcode":"70126",
+    "addr:street":"Alabama St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.02492,30.029867,-90.02492,30.029867",
     "geom:latitude":30.029867,
     "geom:longitude":-90.02492,
@@ -24,7 +29,15 @@
     "sg:postcode":"70126",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ORi9h1ikf6yzakVg4s9jQ_30.029867_-90.024920@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463532713,
     "wof:geomhash":"59e26b6e8a686cfcfac87610dcc2ab90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840435637
+        }
+    ],
     "wof:id":840435637,
-    "wof:lastmodified":1466545120,
+    "wof:lastmodified":1491863952,
     "wof:name":"G's Hair Designers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

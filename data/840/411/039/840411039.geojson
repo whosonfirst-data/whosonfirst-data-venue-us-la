@@ -2,9 +2,14 @@
   "id": 840411039,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 Piety St New Orleans LA 70117",
+    "addr:housenumber":"2400",
+    "addr:postcode":"70117",
+    "addr:street":"Piety St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037241,29.981457,-90.037241,29.981457",
     "geom:latitude":29.981457,
     "geom:longitude":-90.037241,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746815,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866091
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866091,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746815,
             "region_id":85688735,
             "venue_id":840411039
         }
     ],
     "wof:id":840411039,
-    "wof:lastmodified":1466544729,
+    "wof:lastmodified":1486689035,
     "wof:name":"Destiny Productions",
-    "wof:parent_id":85866091,
+    "wof:parent_id":1108746815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

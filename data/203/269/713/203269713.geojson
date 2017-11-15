@@ -2,9 +2,14 @@
   "id": 203269713,
   "type": "Feature",
   "properties": {
+    "addr:full":"3020 Gentilly Blvd New Orleans LA 70122",
+    "addr:housenumber":"3020",
+    "addr:postcode":"70122",
+    "addr:street":"Gentilly Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.061302,29.997,-90.061302,29.997",
     "geom:latitude":29.997,
     "geom:longitude":-90.061302,
@@ -25,11 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866059,
+        102191575,
+        1108746797,
         85633793,
         85948111,
         102086693,
-        85866059
+        85688735,
+        1108739491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +47,28 @@
     "wof:geomhash":"bc44754461dae32ee0bfaa47f9179a18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":85866059,
+            "region_id":85688735,
+            "venue_id":203269713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866059,
             "region_id":85688735,
             "venue_id":203269713
         }
     ],
     "wof:id":203269713,
-    "wof:lastmodified":1466539351,
+    "wof:lastmodified":1486688052,
     "wof:name":"Angelo's Transmissions & Auto Repair Inc",
     "wof:parent_id":85866059,
     "wof:placetype":"venue",

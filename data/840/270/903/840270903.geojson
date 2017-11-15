@@ -2,14 +2,20 @@
   "id": 840270903,
   "type": "Feature",
   "properties": {
+    "addr:full":"8030 Florida Blvd Baton Rouge LA 70806",
+    "addr:housenumber":"8030",
+    "addr:postcode":"70806",
+    "addr:street":"Florida Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.109376,30.451809,-91.109376,30.451809",
     "geom:latitude":30.451809,
     "geom:longitude":-91.109376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8030 Florida Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85802347
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s4LVHBc42aORj7yGQfzVn_30.451809_-91.109376@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525218,
-    "wof:geomhash":"f3fff4c63e17f64f9f0183e7f8d7d6fd",
+    "wof:geomhash":"77dc5be72c85bfe39f005b84fde1a8aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840270903,
-    "wof:lastmodified":1466542174,
+    "wof:lastmodified":1510694614,
     "wof:name":"Rentway",
     "wof:parent_id":85802347,
     "wof:placetype":"venue",

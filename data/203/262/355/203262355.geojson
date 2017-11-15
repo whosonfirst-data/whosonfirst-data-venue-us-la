@@ -2,9 +2,14 @@
   "id": 203262355,
   "type": "Feature",
   "properties": {
+    "addr:full":"2256 St Claude Ave New Orleans LA 70117",
+    "addr:housenumber":"2256",
+    "addr:postcode":"70117",
+    "addr:street":"St Claude Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.05521,29.968651,-90.05521,29.968651",
     "geom:latitude":29.968651,
     "geom:longitude":-90.05521,
@@ -39,11 +44,13 @@
     "sg:website":"kajunpub.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85819021
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +60,20 @@
     "wof:geomhash":"99f8cc1d8c41090d1b40fd3c7f87be8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85819021,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203262355
         }
     ],
     "wof:id":203262355,
-    "wof:lastmodified":1466539326,
+    "wof:lastmodified":1486688382,
     "wof:name":"Kajun's Pub",
-    "wof:parent_id":85819021,
+    "wof:parent_id":85866097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

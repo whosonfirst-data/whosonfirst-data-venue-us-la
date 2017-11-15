@@ -2,9 +2,14 @@
   "id": 840404927,
   "type": "Feature",
   "properties": {
+    "addr:full":"7311 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"7311",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.978601,30.040791,-89.978601,30.040791",
     "geom:latitude":30.040791,
     "geom:longitude":-89.978601,
@@ -27,7 +32,15 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19jzKV9QBTmiqhjRTRJzLj_30.040791_-89.978601@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463531421,
     "wof:geomhash":"07a127c8d913841d4288e1ed0cc3a7da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840404927
+        }
+    ],
     "wof:id":840404927,
-    "wof:lastmodified":1466544627,
+    "wof:lastmodified":1486688704,
     "wof:name":"Seven Brothers Janitorial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

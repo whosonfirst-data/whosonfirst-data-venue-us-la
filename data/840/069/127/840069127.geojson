@@ -2,9 +2,14 @@
   "id": 840069127,
   "type": "Feature",
   "properties": {
+    "addr:full":"2733 Annette St New Orleans LA 70119",
+    "addr:housenumber":"2733",
+    "addr:postcode":"70119",
+    "addr:street":"Annette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.063976,29.985104,-90.063976,29.985104",
     "geom:latitude":29.985104,
     "geom:longitude":-90.063976,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866083,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866099
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866099,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866083,
             "region_id":85688735,
             "venue_id":840069127
         }
     ],
     "wof:id":840069127,
-    "wof:lastmodified":1466540316,
+    "wof:lastmodified":1491860787,
     "wof:name":"Ferbos Sheet Metal Works",
-    "wof:parent_id":85866099,
+    "wof:parent_id":85866083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

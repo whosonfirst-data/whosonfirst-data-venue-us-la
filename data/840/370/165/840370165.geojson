@@ -2,9 +2,14 @@
   "id": 840370165,
   "type": "Feature",
   "properties": {
+    "addr:full":"4737 Tchoupitoulas St New Orleans LA 70115",
+    "addr:housenumber":"4737",
+    "addr:postcode":"70115",
+    "addr:street":"Tchoupitoulas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105368,29.916905,-90.105368,29.916905",
     "geom:latitude":29.916905,
     "geom:longitude":-90.105368,
@@ -27,7 +32,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NO1NDnmOAdmAx2zf1h5HF_29.916905_-90.105368@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463529906,
     "wof:geomhash":"691b3b513a372432da920eb97e1811f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840370165
+        }
+    ],
     "wof:id":840370165,
-    "wof:lastmodified":1466543778,
+    "wof:lastmodified":1486689106,
     "wof:name":"Mc Keown Books & Difficult Msc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

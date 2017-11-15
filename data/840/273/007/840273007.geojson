@@ -2,9 +2,14 @@
   "id": 840273007,
   "type": "Feature",
   "properties": {
+    "addr:full":"1228 Burdette St New Orleans LA 70118",
+    "addr:housenumber":"1228",
+    "addr:postcode":"70118",
+    "addr:street":"Burdette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.126742,29.945871,-90.126742,29.945871",
     "geom:latitude":29.945871,
     "geom:longitude":-90.126742,
@@ -27,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ja7JgQN7Fgn74LKpYKT9N_29.945871_-90.126742@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463525312,
     "wof:geomhash":"e64494b41fffc496bed6673b8ec80dc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840273007
+        }
+    ],
     "wof:id":840273007,
-    "wof:lastmodified":1466542110,
+    "wof:lastmodified":1486689016,
     "wof:name":"Second Free Mission Baptist",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

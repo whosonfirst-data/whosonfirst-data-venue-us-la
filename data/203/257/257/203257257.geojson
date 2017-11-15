@@ -2,9 +2,14 @@
   "id": 203257257,
   "type": "Feature",
   "properties": {
+    "addr:full":"1008 N Peters St New Orleans LA 70116",
+    "addr:housenumber":"1008",
+    "addr:postcode":"70116",
+    "addr:street":"N Peters St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.059601,29.9596,-90.059601,29.9596",
     "geom:latitude":29.9596,
     "geom:longitude":-90.059601,
@@ -39,12 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105,
-        85853777
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,28 +60,20 @@
     "wof:geomhash":"d66e44dca19b9187175a3e0d2ae80baa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
-            "region_id":85688735,
-            "venue_id":203257257
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086693,
-            "locality_id":85948111,
-            "neighbourhood_id":85853777,
             "region_id":85688735,
             "venue_id":203257257
         }
     ],
     "wof:id":203257257,
-    "wof:lastmodified":1466539318,
+    "wof:lastmodified":1486686856,
     "wof:name":"Upper Pontalba Restoration Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

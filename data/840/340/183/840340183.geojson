@@ -2,14 +2,20 @@
   "id": 840340183,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Evans Rd New Orleans LA 70123",
+    "addr:housenumber":"201",
+    "addr:postcode":"70123",
+    "addr:street":"Evans Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.181619,29.943585,-90.181619,29.943585",
     "geom:latitude":29.943585,
     "geom:longitude":-90.181619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Evans Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125151903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FxJVgi7s6MZHzL65Ksa2C_29.943585_-90.181619@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528421,
-    "wof:geomhash":"8747ba0074b88fe496c95795763f68fb",
+    "wof:geomhash":"bb83ec3f44d7e4dd349ac000d477dec0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840340183,
-    "wof:lastmodified":1466543291,
+    "wof:lastmodified":1510697316,
     "wof:name":"Muscular Dystrophy Assn",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

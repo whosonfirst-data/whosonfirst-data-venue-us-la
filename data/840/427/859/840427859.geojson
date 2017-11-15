@@ -2,14 +2,20 @@
   "id": 840427859,
   "type": "Feature",
   "properties": {
+    "addr:full":"2004 W Pinhook Rd Lafayette LA 70508",
+    "addr:housenumber":"2004",
+    "addr:postcode":"70508",
+    "addr:street":"W Pinhook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.01023,30.185343,-92.01023,30.185343",
     "geom:latitude":30.185343,
     "geom:longitude":-92.01023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2004 W Pinhook Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85803337
     ],
+    "wof:brand_id":1125151651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ab8U0KNBHLc4Uo9YxmZrq_30.185343_-92.010230@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532352,
-    "wof:geomhash":"915dc0bcb59876bbd7baa03845578932",
+    "wof:geomhash":"24e02006ea9b3efe4549ecafd699a943",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840427859,
-    "wof:lastmodified":1466544944,
+    "wof:lastmodified":1510695900,
     "wof:name":"KWIK KOPY Printing",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",

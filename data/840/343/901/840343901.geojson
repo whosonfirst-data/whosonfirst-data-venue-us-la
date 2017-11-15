@@ -2,14 +2,20 @@
   "id": 840343901,
   "type": "Feature",
   "properties": {
+    "addr:full":"5175 Plank Rd Baton Rouge LA 70805",
+    "addr:housenumber":"5175",
+    "addr:postcode":"70805",
+    "addr:street":"Plank Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.154111,30.496695,-91.154111,30.496695",
     "geom:latitude":30.496695,
     "geom:longitude":-91.154111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5175 Plank Rd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087229,
         85814223
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qkpAV8CdVBJrmPD2a0FzL_30.496695_-91.154111@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528604,
-    "wof:geomhash":"9201ede1a4a26a646459706d70e8a2f5",
+    "wof:geomhash":"07b190eebe434ccf606e7ead614fe16b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840343901,
-    "wof:lastmodified":1466543374,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85814223,
     "wof:placetype":"venue",

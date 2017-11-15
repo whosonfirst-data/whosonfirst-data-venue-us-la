@@ -2,9 +2,14 @@
   "id": 203260471,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 Frenchmen St New Orleans LA 70116",
+    "addr:housenumber":"611",
+    "addr:postcode":"70116",
+    "addr:street":"Frenchmen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057899,29.9641,-90.057899,29.9641",
     "geom:latitude":29.9641,
     "geom:longitude":-90.057899,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866097,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"c7a320544e27228c80480c7edd0b4b40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866097,
             "region_id":85688735,
             "venue_id":203260471
         }
     ],
     "wof:id":203260471,
-    "wof:lastmodified":1466539329,
+    "wof:lastmodified":1486688388,
     "wof:name":"Adolfo's",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",

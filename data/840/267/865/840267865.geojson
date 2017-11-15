@@ -2,14 +2,20 @@
   "id": 840267865,
   "type": "Feature",
   "properties": {
+    "addr:full":"4855 Line Ave Shreveport LA 71106",
+    "addr:housenumber":"4855",
+    "addr:postcode":"71106",
+    "addr:street":"Line Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.745971,32.458147,-93.745971,32.458147",
     "geom:latitude":32.458147,
     "geom:longitude":-93.745971,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4855 Line Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087235,
         85880995
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01lb1hFjrDQSVjOXGkm7rR_32.458147_-93.745971@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525079,
-    "wof:geomhash":"026b11b6f29e4d71faa395332113b349",
+    "wof:geomhash":"fadd406b36f7f8468df8a8074494c3bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840267865,
-    "wof:lastmodified":1466542116,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85880995,
     "wof:placetype":"venue",

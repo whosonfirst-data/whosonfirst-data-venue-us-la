@@ -2,9 +2,14 @@
   "id": 840439761,
   "type": "Feature",
   "properties": {
+    "addr:full":"3450 Mansfield Ave New Orleans LA 70131",
+    "addr:housenumber":"3450",
+    "addr:postcode":"70131",
+    "addr:street":"Mansfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.981336,29.918592,-89.981336,29.918592",
     "geom:latitude":29.918592,
     "geom:longitude":-89.981336,
@@ -29,7 +34,16 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521765,
+        102191575,
+        1108746803,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108739497
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y0xlwH54oCtd7pKcUCmx8_29.918592_-89.981336@1294127638"
@@ -37,11 +51,32 @@
     "wof:country":"US",
     "wof:created":1463532884,
     "wof:geomhash":"12bdfc7632a95acb44891af45b0cd6d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840439761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840439761
+        }
+    ],
     "wof:id":840439761,
-    "wof:lastmodified":1466545145,
+    "wof:lastmodified":1486688966,
     "wof:name":"Expert Delivery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

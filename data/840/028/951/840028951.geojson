@@ -2,9 +2,14 @@
   "id": 840028951,
   "type": "Feature",
   "properties": {
+    "addr:full":"2545 Paul Dr Meraux LA 70075",
+    "addr:housenumber":"2545",
+    "addr:postcode":"70075",
+    "addr:street":"Paul Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.925453,29.93513,-89.925453,29.93513",
     "geom:latitude":29.93513,
     "geom:longitude":-89.925453,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"fe1dcd4c48316fd76b64d1c8f1f2ef8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840028951,
-    "wof:lastmodified":1466539894,
+    "wof:lastmodified":1491910628,
     "wof:name":"Animal Adoption Society Inc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

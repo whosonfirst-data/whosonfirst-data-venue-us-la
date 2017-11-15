@@ -2,14 +2,20 @@
   "id": 840304939,
   "type": "Feature",
   "properties": {
+    "addr:full":"9510 Greenwood Rd Greenwood LA 71033",
+    "addr:housenumber":"9510",
+    "addr:postcode":"71033",
+    "addr:street":"Greenwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.976352,32.443646,-93.976352,32.443646",
     "geom:latitude":32.443646,
     "geom:longitude":-93.976352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9510 Greenwood Rd",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85880975,
         102087235
     ],
+    "wof:brand_id":1125153383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01NjS5p2OKwYcKOmokDNjY_32.443646_-93.976352@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526761,
-    "wof:geomhash":"9f21571316852f63191827ae01920dc8",
+    "wof:geomhash":"e48f058f74dbb9f5fd6f0aa07fd5f2f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840304939,
-    "wof:lastmodified":1466542652,
+    "wof:lastmodified":1510695717,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":85880975,
     "wof:placetype":"venue",

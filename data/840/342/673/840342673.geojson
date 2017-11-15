@@ -2,14 +2,20 @@
   "id": 840342673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1880 Airline Dr Bossier City LA 71112",
+    "addr:housenumber":"1880",
+    "addr:postcode":"71112",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.697186,32.522666,-93.697186,32.522666",
     "geom:latitude":32.522666,
     "geom:longitude":-93.697186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1880 Airline Dr",
     "sg:city":"Bossier City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084883,
         85688735
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tUVHw0wa5ZOGQyhCkT7KB_32.522666_-93.697186@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528538,
-    "wof:geomhash":"c5974a412281a4ae516804d583cf0ae5",
+    "wof:geomhash":"717209a485cc22bfe7713bd5289c6462",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840342673,
-    "wof:lastmodified":1466543361,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",

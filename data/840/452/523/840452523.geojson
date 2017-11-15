@@ -2,14 +2,20 @@
   "id": 840452523,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Airline Dr Metairie LA 70001",
+    "addr:housenumber":"2701",
+    "addr:postcode":"70001",
+    "addr:street":"Airline Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.151096,29.974306,-90.151096,29.974306",
     "geom:latitude":29.974306,
     "geom:longitude":-90.151096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2701 Airline Dr",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_106Rt9adKJwdilutm4PTtl_29.974306_-90.151096@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533403,
-    "wof:geomhash":"ab273a9b27fe5856148a570b24c8467c",
+    "wof:geomhash":"eaff036cf89b8c5b232a9f985d07e38b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840452523,
-    "wof:lastmodified":1466545281,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

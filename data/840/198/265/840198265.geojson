@@ -2,14 +2,20 @@
   "id": 840198265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1743 Convention St Baton Rouge LA 70802",
+    "addr:housenumber":"1743",
+    "addr:postcode":"70802",
+    "addr:street":"Convention St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.170818,30.448837,-91.170818,30.448837",
     "geom:latitude":30.448837,
     "geom:longitude":-91.170818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1743 Convention St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85823097
     ],
+    "wof:brand_id":1125155171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZlcsHfD8ck537YXMt0b3V_30.448837_-91.170818@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523285,
-    "wof:geomhash":"c59ee707a12a84a4020ee419b1a3a1c7",
+    "wof:geomhash":"362fb49ca00adbc828b908d47d6398e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840198265,
-    "wof:lastmodified":1466541456,
+    "wof:lastmodified":1510699385,
     "wof:name":"Mt Pleasant Baptist Church",
     "wof:parent_id":85823097,
     "wof:placetype":"venue",

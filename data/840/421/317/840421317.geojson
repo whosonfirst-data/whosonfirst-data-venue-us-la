@@ -2,9 +2,14 @@
   "id": 840421317,
   "type": "Feature",
   "properties": {
+    "addr:full":"8119 Green St New Orleans LA 70118",
+    "addr:housenumber":"8119",
+    "addr:postcode":"70118",
+    "addr:street":"Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.126686,29.951553,-90.126686,29.951553",
     "geom:latitude":29.951553,
     "geom:longitude":-90.126686,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PW4nzwxithnH5JRsFCNKk_29.951553_-90.126686@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463532092,
     "wof:geomhash":"6e6b786d369f0b55d7b2366dec0e8201",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840421317
+        }
+    ],
     "wof:id":840421317,
-    "wof:lastmodified":1466544882,
+    "wof:lastmodified":1486688986,
     "wof:name":"Bowen Pt Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

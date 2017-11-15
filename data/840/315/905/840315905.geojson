@@ -2,9 +2,14 @@
   "id": 840315905,
   "type": "Feature",
   "properties": {
+    "addr:full":"5761 Pembrook Dr New Orleans LA 70131",
+    "addr:housenumber":"5761",
+    "addr:postcode":"70131",
+    "addr:street":"Pembrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.994876,29.925269,-89.994876,29.925269",
     "geom:latitude":29.925269,
     "geom:longitude":-89.994876,
@@ -27,7 +32,16 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QSyZTwHooxJdvYMPIKCVu_29.925269_-89.994876@1294127638"
@@ -35,11 +49,32 @@
     "wof:country":"US",
     "wof:created":1463527260,
     "wof:geomhash":"33d1af6fe97e28301baa6d8612554d65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840315905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840315905
+        }
+    ],
     "wof:id":840315905,
-    "wof:lastmodified":1466542975,
+    "wof:lastmodified":1486689005,
     "wof:name":"Sam Joffray",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

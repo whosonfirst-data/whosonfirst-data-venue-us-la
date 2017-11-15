@@ -2,14 +2,20 @@
   "id": 840342883,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 US Hwy 90 Morgan City LA 70380",
+    "addr:housenumber":"904",
+    "addr:postcode":"70380",
+    "addr:street":"Us Hwy 90 Morgan",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.26856,29.68103,-91.26856,29.68103",
     "geom:latitude":29.68103,
     "geom:longitude":-91.26856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"904 US Hwy 90",
     "sg:city":"Morgan City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125157595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LlPb3Mg03843nUoaVk2zv_29.681030_-91.268560@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528546,
-    "wof:geomhash":"ab6707ce1b79ae1a16ee5bb3508c8ccb",
+    "wof:geomhash":"81933e20321904ffba0f2b47f71de9e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840342883,
-    "wof:lastmodified":1466543485,
+    "wof:lastmodified":1510695419,
     "wof:name":"Exotic Nails",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

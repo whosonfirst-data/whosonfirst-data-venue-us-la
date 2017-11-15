@@ -2,14 +2,20 @@
   "id": 203349467,
   "type": "Feature",
   "properties": {
+    "addr:full":"914 Alfred St Scott LA 70583",
+    "addr:housenumber":"914",
+    "addr:postcode":"70583",
+    "addr:street":"Alfred St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.093965,30.233665,-92.093965,30.233665",
     "geom:latitude":30.233665,
     "geom:longitude":-92.093965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"914 Alfred St",
     "sg:city":"Scott",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125155245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nK2LBNFpHTufmTgO9iF4V_30.233665_-92.093965@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"374e83858e2009adcda6cb735ac600ce",
+    "wof:geomhash":"38feb70736e5cf6eb2875d3345b87b85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":203349467,
-    "wof:lastmodified":1466539468,
+    "wof:lastmodified":1510697006,
     "wof:name":"Don's Barber Shop",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

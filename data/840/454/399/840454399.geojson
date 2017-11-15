@@ -2,14 +2,20 @@
   "id": 840454399,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Ambassador Caffery Pkwy Lafayette LA 70508",
+    "addr:housenumber":"4321",
+    "addr:postcode":"70508",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.052759,30.160083,-92.052759,30.160083",
     "geom:latitude":30.160083,
     "geom:longitude":-92.052759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4321 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125153581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HgqIwWGPI6gOUOiefLzIe_30.160083_-92.052759@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533483,
-    "wof:geomhash":"a95f6dff22e5c1f7372f1c653b9d6fce",
+    "wof:geomhash":"d1931e350811d353fd2942af1444d450",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840454399,
-    "wof:lastmodified":1466545382,
+    "wof:lastmodified":1510697327,
     "wof:name":"Carino's Italian Grill",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

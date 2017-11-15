@@ -2,9 +2,14 @@
   "id": 840308385,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 Broadway St New Orleans LA 70125",
+    "addr:housenumber":"2801",
+    "addr:postcode":"70125",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.112248,29.956092,-90.112248,29.956092",
     "geom:latitude":29.956092,
     "geom:longitude":-90.112248,
@@ -27,7 +32,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866137,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mWvHgu7VJ8d2DIzWHOgMc_29.956092_-90.112248@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463526915,
     "wof:geomhash":"18d084e8caecf54f913ff35737a40ddb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866137,
+            "region_id":85688735,
+            "venue_id":840308385
+        }
+    ],
     "wof:id":840308385,
-    "wof:lastmodified":1466542737,
+    "wof:lastmodified":1486688678,
     "wof:name":"Creative II Hair Designers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

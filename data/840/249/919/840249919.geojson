@@ -2,9 +2,14 @@
   "id": 840249919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2645 Conti St New Orleans LA 70119",
+    "addr:housenumber":"2645",
+    "addr:postcode":"70119",
+    "addr:street":"Conti St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.084419,29.967688,-90.084419,29.967688",
     "geom:latitude":29.967688,
     "geom:longitude":-90.084419,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866071,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866071
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866071,
             "region_id":85688735,
             "venue_id":840249919
         }
     ],
     "wof:id":840249919,
-    "wof:lastmodified":1466541879,
+    "wof:lastmodified":1486687157,
     "wof:name":"Check Service",
     "wof:parent_id":85866071,
     "wof:placetype":"venue",

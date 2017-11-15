@@ -2,14 +2,20 @@
   "id": 840062543,
   "type": "Feature",
   "properties": {
+    "addr:full":"5750 Youree Dr Shreveport LA 71105",
+    "addr:housenumber":"5750",
+    "addr:postcode":"71105",
+    "addr:street":"Youree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.722169,32.456559,-93.722169,32.456559",
     "geom:latitude":32.456559,
     "geom:longitude":-93.722169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5750 Youree Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087235,
         85807711
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fAdoA280QA56x5QgV0Stp_32.456559_-93.722169@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520327,
-    "wof:geomhash":"0280d752afa9f29ab4cfd9f8f6cdb8c5",
+    "wof:geomhash":"132565d66e7f8c55dfa780a110e95150",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840062543,
-    "wof:lastmodified":1466540261,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85807711,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840260995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3630 General Meyer Ave New Orleans LA 70114",
+    "addr:housenumber":"3630",
+    "addr:postcode":"70114",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.018183,29.938695,-90.018183,29.938695",
     "geom:latitude":29.938695,
     "geom:longitude":-90.018183,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746805,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b4VxivWKzu5i4xSelmWNS_29.938695_-90.018183@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463524837,
     "wof:geomhash":"2acc940a9695ee42aba230f6d95a74ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746805,
+            "region_id":85688735,
+            "venue_id":840260995
+        }
+    ],
     "wof:id":840260995,
-    "wof:lastmodified":1466541990,
+    "wof:lastmodified":1486688989,
     "wof:name":"Westchester Realty Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

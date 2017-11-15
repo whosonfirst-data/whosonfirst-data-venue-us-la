@@ -2,9 +2,14 @@
   "id": 840453389,
   "type": "Feature",
   "properties": {
+    "addr:full":"10001 I 10 Service Rd New Orleans LA 70127",
+    "addr:housenumber":"10001;10",
+    "addr:postcode":"70127",
+    "addr:street":"I;Service Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.976889,30.038294,-89.976889,30.038294",
     "geom:latitude":30.038294,
     "geom:longitude":-89.976889,
@@ -28,7 +33,15 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GjS06IGEDAxJpavN4LRMa_30.038294_-89.976889@1299784598"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463533439,
     "wof:geomhash":"ac127a5fbb990974b37be30e33bc3f84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840453389
+        }
+    ],
     "wof:id":840453389,
-    "wof:lastmodified":1466545378,
+    "wof:lastmodified":1486688713,
     "wof:name":"McDonald's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

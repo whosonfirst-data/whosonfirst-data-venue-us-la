@@ -2,14 +2,20 @@
   "id": 840388607,
   "type": "Feature",
   "properties": {
+    "addr:full":"3146 Ambassador Caffery Pkwy Lafayette LA 70506",
+    "addr:housenumber":"3146",
+    "addr:postcode":"70506",
+    "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.07509,30.187174,-92.07509,30.187174",
     "geom:latitude":30.187174,
     "geom:longitude":-92.07509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3146 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TeKwwzDnFGh5gUp2y6iy0_30.187174_-92.075090@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530744,
-    "wof:geomhash":"d9c378605058a59b311bea37ae2e8b97",
+    "wof:geomhash":"552ad1dc8f10993c661c929a47e415d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840388607,
-    "wof:lastmodified":1466544186,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

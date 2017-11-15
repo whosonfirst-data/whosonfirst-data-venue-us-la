@@ -2,9 +2,14 @@
   "id": 840422469,
   "type": "Feature",
   "properties": {
+    "addr:full":"3137 General Meyer Ave New Orleans LA 70114",
+    "addr:housenumber":"3137",
+    "addr:postcode":"70114",
+    "addr:street":"General Meyer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.02262,29.940465,-90.02262,29.940465",
     "geom:latitude":29.940465,
     "geom:longitude":-90.02262,
@@ -27,7 +32,15 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521721,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VI9PXFkrSQtVMBEY2LbgD_29.940465_-90.022620@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463532132,
     "wof:geomhash":"9daaca933053de48bbb75143866245d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
+            "region_id":85688735,
+            "venue_id":840422469
+        }
+    ],
     "wof:id":840422469,
-    "wof:lastmodified":1466544843,
+    "wof:lastmodified":1486688947,
     "wof:name":"Tropic Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

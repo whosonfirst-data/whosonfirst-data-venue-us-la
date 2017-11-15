@@ -2,9 +2,14 @@
   "id": 840405713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1115 de Armas St New Orleans LA 70114",
+    "addr:housenumber":"1115",
+    "addr:postcode":"70114",
+    "addr:street":"De Armas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.044687,29.94316,-90.044687,29.94316",
     "geom:latitude":29.94316,
     "geom:longitude":-90.044687,
@@ -24,7 +29,15 @@
     "sg:postcode":"70114",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866159,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wu87Rjl1SnPfS7TxbkAUk_29.943160_-90.044687@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463531451,
     "wof:geomhash":"d81294213195a48413210a8fc0c69fde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":85866159,
+            "region_id":85688735,
+            "venue_id":840405713
+        }
+    ],
     "wof:id":840405713,
-    "wof:lastmodified":1466544484,
+    "wof:lastmodified":1486688694,
     "wof:name":"GE Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840394301,
   "type": "Feature",
   "properties": {
+    "addr:full":"6558 Memphis St New Orleans LA 70124",
+    "addr:housenumber":"6558",
+    "addr:postcode":"70124",
+    "addr:street":"Memphis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105369,30.00917,-90.105369,30.00917",
     "geom:latitude":30.00917,
     "geom:longitude":-90.105369,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85829431,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85829431
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +51,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85829431,
             "region_id":85688735,
             "venue_id":840394301
         }
     ],
     "wof:id":840394301,
-    "wof:lastmodified":1466544176,
+    "wof:lastmodified":1486687413,
     "wof:name":"Harry T Holladay Attorney",
     "wof:parent_id":85829431,
     "wof:placetype":"venue",

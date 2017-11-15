@@ -2,14 +2,20 @@
   "id": 840374025,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 2nd St Grand Cane LA 71032",
+    "addr:housenumber":"525",
+    "addr:postcode":"71032",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.808003,32.087877,-93.808003,32.087877",
     "geom:latitude":32.087877,
     "geom:longitude":-93.808003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 2nd St",
     "sg:city":"Grand Cane",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85842867,
         102084887
     ],
+    "wof:brand_id":1125152965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12ytHdRKg3kXRsbupKZ6FF_32.087877_-93.808003@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530086,
-    "wof:geomhash":"e9120585f38909cf1b40e98d089dd26d",
+    "wof:geomhash":"d8da3c4c5404835d7eb0889a7b55d149",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840374025,
-    "wof:lastmodified":1466543818,
+    "wof:lastmodified":1510612914,
     "wof:name":"New Zion Baptist Church",
     "wof:parent_id":85842867,
     "wof:placetype":"venue",

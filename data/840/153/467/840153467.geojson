@@ -2,14 +2,20 @@
   "id": 840153467,
   "type": "Feature",
   "properties": {
+    "addr:full":"497 Terry Pkwy Terrytown LA 70056",
+    "addr:housenumber":"497",
+    "addr:postcode":"70056",
+    "addr:street":"Terry Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.029728,29.908155,-90.029728,29.908155",
     "geom:latitude":29.908155,
     "geom:longitude":-90.029728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"497 Terry Pkwy",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85869723
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b1CXOl9sYclz5whAvCIBa_29.908155_-90.029728@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522320,
-    "wof:geomhash":"7e8c4484862f66643eb226261e88f7ae",
+    "wof:geomhash":"dae1bfe50ccd178b9a9ce650d24a1b30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840153467,
-    "wof:lastmodified":1466540868,
+    "wof:lastmodified":1510693737,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",

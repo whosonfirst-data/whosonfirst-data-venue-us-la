@@ -2,14 +2,20 @@
   "id": 840164993,
   "type": "Feature",
   "properties": {
+    "addr:full":"5308 Hwy 56 Chauvin LA 70344",
+    "addr:housenumber":"5308",
+    "addr:postcode":"70344",
+    "addr:street":"Hwy 56 Chauvin",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.591625,29.453377,-90.591625,29.453377",
     "geom:latitude":29.453377,
     "geom:longitude":-90.591625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5308 Hwy 56",
     "sg:city":"Chauvin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081923,
         85803459
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zjlVWRA0NlziaoIXwh2RN_29.453377_-90.591625@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522544,
-    "wof:geomhash":"abecd62f757c7292ffd66f4be2a5fb17",
+    "wof:geomhash":"21f91e026471edbe46812cae6d495cad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840164993,
-    "wof:lastmodified":1466541232,
+    "wof:lastmodified":1510619441,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",

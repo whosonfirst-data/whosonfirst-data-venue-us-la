@@ -2,14 +2,20 @@
   "id": 840390123,
   "type": "Feature",
   "properties": {
+    "addr:full":"4523 Lee St Alexandria LA 71302",
+    "addr:housenumber":"4523",
+    "addr:postcode":"71302",
+    "addr:street":"Lee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.445917,31.265423,-92.445917,31.265423",
     "geom:latitude":31.265423,
     "geom:longitude":-92.445917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4523 Lee St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081039,
         85802677
     ],
+    "wof:brand_id":1125150689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nxYnoRiDYkmnpUZYOcdYe_31.265423_-92.445917@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530807,
-    "wof:geomhash":"a2f6bb195e33f74f2f221b3bedf10454",
+    "wof:geomhash":"d28f8ecde700f00330bb2359cd65ccfc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840390123,
-    "wof:lastmodified":1466544298,
+    "wof:lastmodified":1510698856,
     "wof:name":"Simply Fashions",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",

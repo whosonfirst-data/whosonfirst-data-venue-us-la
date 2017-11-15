@@ -2,14 +2,20 @@
   "id": 840452513,
   "type": "Feature",
   "properties": {
+    "addr:full":"899 Jefferson Ave Metairie LA 70001",
+    "addr:housenumber":"899",
+    "addr:postcode":"70001",
+    "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.14651,29.975642,-90.14651,29.975642",
     "geom:latitude":29.975642,
     "geom:longitude":-90.14651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"899 Jefferson Ave",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125152509,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V78QWu08GhMlVTRYPEB4W_29.975642_-90.146510@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533403,
-    "wof:geomhash":"826a3ccd7d1d2df170e8fdabff05ac64",
+    "wof:geomhash":"ff6d40909603eb8aa642b5e52b95a244",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840452513,
-    "wof:lastmodified":1466545208,
+    "wof:lastmodified":1510697063,
     "wof:name":"Wing Zone",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

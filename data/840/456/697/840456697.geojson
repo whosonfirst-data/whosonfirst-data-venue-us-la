@@ -2,14 +2,20 @@
   "id": 840456697,
   "type": "Feature",
   "properties": {
+    "addr:full":"198 Thomas Rd West Monroe LA 71291",
+    "addr:housenumber":"198",
+    "addr:postcode":"71291",
+    "addr:street":"Thomas Rd West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.157495,32.513505,-92.157495,32.513505",
     "geom:latitude":32.513505,
     "geom:longitude":-92.157495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"198 Thomas Rd",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bBgj7DRhptXwdNOyWCnxx_32.513505_-92.157495@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533562,
-    "wof:geomhash":"e01453fbe90daf046c1b0c447ff15457",
+    "wof:geomhash":"77af969dffb347e7c8954408008cc219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":840456697,
-    "wof:lastmodified":1466545259,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

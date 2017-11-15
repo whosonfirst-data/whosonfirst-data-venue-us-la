@@ -2,9 +2,14 @@
   "id": 203266423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1815 Elysian Fields New Orleans LA 70117",
+    "addr:housenumber":"1815",
+    "addr:postcode":"70117",
+    "addr:street":"Elysian Fields",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057212,29.976061,-90.057212,29.976061",
     "geom:latitude":29.976061,
     "geom:longitude":-90.057212,
@@ -35,11 +40,13 @@
     "sg:website":"www.confederacyofcruisers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866099,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866099
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +56,18 @@
     "wof:geomhash":"c6b6db303a916b3641e8555e019f7c96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":203266423
         }
     ],
     "wof:id":203266423,
-    "wof:lastmodified":1466539343,
+    "wof:lastmodified":1486688396,
     "wof:name":"Confederacy of Cruisers Bicycle Tours",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",

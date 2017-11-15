@@ -2,9 +2,14 @@
   "id": 840270913,
   "type": "Feature",
   "properties": {
+    "addr:full":"7508 Saturn St Violet LA 70092",
+    "addr:housenumber":"7508",
+    "addr:postcode":"70092",
+    "addr:street":"Saturn St Violet La",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.911106,29.916353,-89.911106,29.916353",
     "geom:latitude":29.916353,
     "geom:longitude":-89.911106,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"727beab46718ae34b0ae6174dbda57d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840270913,
-    "wof:lastmodified":1466542174,
+    "wof:lastmodified":1491910645,
     "wof:name":"Bivonas Remodeling",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

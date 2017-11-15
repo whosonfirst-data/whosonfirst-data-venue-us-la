@@ -2,9 +2,14 @@
   "id": 840102161,
   "type": "Feature",
   "properties": {
+    "addr:full":"5918 Babylon St New Orleans LA 70126",
+    "addr:housenumber":"5918",
+    "addr:postcode":"70126",
+    "addr:street":"Babylon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021612,30.020018,-90.021612,30.020018",
     "geom:latitude":30.020018,
     "geom:longitude":-90.021612,
@@ -27,7 +32,15 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521717,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45HrJvwmI7m7uzoAAGsJTu_30.020018_-90.021612@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463521265,
     "wof:geomhash":"81f1467707bfd32cc3b4e048eb666966",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":420521717,
+            "region_id":85688735,
+            "venue_id":840102161
+        }
+    ],
     "wof:id":840102161,
-    "wof:lastmodified":1466540685,
+    "wof:lastmodified":1486687675,
     "wof:name":"Cresent City Lodge 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

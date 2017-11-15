@@ -2,9 +2,14 @@
   "id": 203242875,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 MacArthur Blvd New Orleans LA 70114",
+    "addr:housenumber":"3620",
+    "addr:postcode":"70114",
+    "addr:street":"Macarthur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.020699,29.9249,-90.020699,29.9249",
     "geom:latitude":29.9249,
     "geom:longitude":-90.020699,
@@ -26,10 +31,13 @@
     "sg:website":"www.familydollar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521721,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:brand_id":420573889,
     "wof:breaches":[],
@@ -40,19 +48,20 @@
     "wof:geomhash":"f482622665df90137692832eef10021f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521721,
             "region_id":85688735,
             "venue_id":203242875
         }
     ],
     "wof:id":203242875,
-    "wof:lastmodified":1466539310,
+    "wof:lastmodified":1486688957,
     "wof:name":"Family Dollar Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

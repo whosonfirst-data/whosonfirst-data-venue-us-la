@@ -2,14 +2,20 @@
   "id": 203327693,
   "type": "Feature",
   "properties": {
+    "addr:full":"1169 Wall Rd Broussard LA 70518",
+    "addr:housenumber":"1169",
+    "addr:postcode":"70518",
+    "addr:street":"Wall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.930022,30.079884,-91.930022,30.079884",
     "geom:latitude":30.079884,
     "geom:longitude":-91.930022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1169 Wall Rd",
     "sg:city":"Broussard",
     "sg:classifiers":[
@@ -28,12 +34,13 @@
         85633793,
         85688735
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LrRgRJtpXDf17IeYfYz5U_30.079884_-91.930022@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb775d44b942799dba6964c3a6b1c380",
+    "wof:geomhash":"93626ea68d06aa51dbcf29c9ce0db16c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":203327693,
-    "wof:lastmodified":1466539438,
+    "wof:lastmodified":1510697768,
     "wof:name":"Kraft Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

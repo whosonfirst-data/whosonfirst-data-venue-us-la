@@ -2,14 +2,20 @@
   "id": 840001809,
   "type": "Feature",
   "properties": {
+    "addr:full":"31665 Hwy 191 Many LA 71449",
+    "addr:housenumber":"31665",
+    "addr:postcode":"71449",
+    "addr:street":"Hwy 191 Many",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.667271,31.47489,-93.667271,31.47489",
     "geom:latitude":31.47489,
     "geom:longitude":-93.667271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31665 Hwy 191",
     "sg:city":"Many",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081409,
         85806377
     ],
+    "wof:brand_id":1125154605,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XvqS0nZ6JGmIX3CxB2q4Z_31.474890_-93.667271@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519029,
-    "wof:geomhash":"bbc45155f0633b94f2bf071ae7fa0b7f",
+    "wof:geomhash":"2553497cc94aed0950ac5363ef9db5eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840001809,
-    "wof:lastmodified":1466539631,
+    "wof:lastmodified":1510694000,
     "wof:name":"Beulah Baptist Church",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",

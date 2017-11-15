@@ -2,14 +2,20 @@
   "id": 840354959,
   "type": "Feature",
   "properties": {
+    "addr:full":"12015 Justice Ave Baton Rouge LA 70816",
+    "addr:housenumber":"12015",
+    "addr:postcode":"70816",
+    "addr:street":"Justice Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.049773,30.42422,-91.049773,30.42422",
     "geom:latitude":30.42422,
     "geom:longitude":-91.049773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12015 Justice Ave",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85828423
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pk0QGOuchMbzu0I30CpiE_30.424220_-91.049773@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529154,
-    "wof:geomhash":"922718d6cec18ccaa878961843b6dd64",
+    "wof:geomhash":"8954c72f67ee298adc15144f93ea1630",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840354959,
-    "wof:lastmodified":1466543533,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85828423,
     "wof:placetype":"venue",

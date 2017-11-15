@@ -2,6 +2,10 @@
   "id": 840317899,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 S I- 10 Svc Rd W Metairie LA 70001",
+    "addr:housenumber":"4200;10",
+    "addr:postcode":"70001",
+    "addr:street":"S I;Svc Rd W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":840317899,
-    "wof:lastmodified":1466543039,
+    "wof:lastmodified":1472624661,
     "wof:name":"Executive Training Ctr",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

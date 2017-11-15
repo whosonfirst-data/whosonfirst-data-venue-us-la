@@ -2,14 +2,20 @@
   "id": 840075029,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 Louisville Ave Monroe LA 71201",
+    "addr:housenumber":"2820",
+    "addr:postcode":"71201",
+    "addr:street":"Louisville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.091586,32.524439,-92.091586,32.524439",
     "geom:latitude":32.524439,
     "geom:longitude":-92.091586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2820 Louisville Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125153507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ncjo6I5ch96HpS5I5WOAF_32.524439_-92.091586@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520582,
-    "wof:geomhash":"d0e5dbceca2ddb5928c3ba381022d90c",
+    "wof:geomhash":"11f1ec16e446e008fbb1c478e257d941",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840075029,
-    "wof:lastmodified":1466540336,
+    "wof:lastmodified":1510696029,
     "wof:name":"China Cafe",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

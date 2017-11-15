@@ -2,14 +2,20 @@
   "id": 203379965,
   "type": "Feature",
   "properties": {
+    "addr:full":"4901 Pine Hill Rd Shreveport LA 71107",
+    "addr:housenumber":"4901",
+    "addr:postcode":"71107",
+    "addr:street":"Pine Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.824819,32.583912,-93.824819,32.583912",
     "geom:latitude":32.583912,
     "geom:longitude":-93.824819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4901 Pine Hill Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102087235,
         85825193
     ],
+    "wof:brand_id":1125157381,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PY6TOoQCIYHiWKLaU6i8e_32.583912_-93.824819@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"0a7bf0efa6261abb66db7e188940119a",
+    "wof:geomhash":"5faf826627eddbf4d8c6d2cd6e7f9fa5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":203379965,
-    "wof:lastmodified":1466539515,
+    "wof:lastmodified":1510699695,
     "wof:name":"Faith Tabernacle Church",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",

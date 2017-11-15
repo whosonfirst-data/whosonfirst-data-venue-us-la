@@ -2,9 +2,14 @@
   "id": 840395489,
   "type": "Feature",
   "properties": {
+    "addr:full":"2624 Munster Blvd Meraux LA 70075",
+    "addr:housenumber":"2624",
+    "addr:postcode":"70075",
+    "addr:street":"Munster Blvd Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.932978,29.938081,-89.932978,29.938081",
     "geom:latitude":29.938081,
     "geom:longitude":-89.932978,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -45,6 +51,7 @@
     "wof:geomhash":"014b3208aa21350e4e96785b72dcd839",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840395489,
-    "wof:lastmodified":1466544428,
+    "wof:lastmodified":1491910646,
     "wof:name":"Xtreme Car Audio",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

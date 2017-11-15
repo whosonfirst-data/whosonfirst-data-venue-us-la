@@ -2,14 +2,20 @@
   "id": 840367837,
   "type": "Feature",
   "properties": {
+    "addr:full":"1991 Wooddale Blvd Baton Rouge LA 70806",
+    "addr:housenumber":"1991",
+    "addr:postcode":"70806",
+    "addr:street":"Wooddale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.11347,30.465767,-91.11347,30.465767",
     "geom:latitude":30.465767,
     "geom:longitude":-91.11347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1991 Wooddale Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087229,
         85876071
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tZap4M3t5heTM6k6pQ8bm_30.465767_-91.113470@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529770,
-    "wof:geomhash":"c9d7de6d417fda9a2d478a68762f6573",
+    "wof:geomhash":"add183b1570243b83b5b276791136acf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840367837,
-    "wof:lastmodified":1466543785,
+    "wof:lastmodified":1510694940,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":85876071,
     "wof:placetype":"venue",

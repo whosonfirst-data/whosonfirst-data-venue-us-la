@@ -2,9 +2,14 @@
   "id": 203266337,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 Saint Maurice Ave New Orleans LA 70117",
+    "addr:housenumber":"2401",
+    "addr:postcode":"70117",
+    "addr:street":"Saint Maurice Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.003998,29.9725,-90.003998,29.9725",
     "geom:latitude":29.9725,
     "geom:longitude":-90.003998,
@@ -30,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746835,
+        102191575,
+        1108739491,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +51,20 @@
     "wof:geomhash":"7b81f47e71a3667b59b69f35bc664c68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746835,
             "region_id":85688735,
             "venue_id":203266337
         }
     ],
     "wof:id":203266337,
-    "wof:lastmodified":1466539341,
+    "wof:lastmodified":1486689080,
     "wof:name":"Orleans Parish School Board",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746835,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840302839,
   "type": "Feature",
   "properties": {
+    "addr:full":"2609 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"2609",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.21858,30.206013,-93.21858,30.206013",
     "geom:latitude":30.206013,
     "geom:longitude":-93.21858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2609 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125159271,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43RTG07PSwJ2cWgDq1CAWm_30.206013_-93.218580@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526662,
-    "wof:geomhash":"09e7cf4dee1d16b895cd41eea0f46885",
+    "wof:geomhash":"10705c9ecd1909f81196f083667db117",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840302839,
-    "wof:lastmodified":1466542713,
+    "wof:lastmodified":1510604898,
     "wof:name":"Guys & Dolls",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

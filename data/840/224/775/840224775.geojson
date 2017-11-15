@@ -2,14 +2,20 @@
   "id": 840224775,
   "type": "Feature",
   "properties": {
+    "addr:full":"2421 Clouet St New Orleans LA 70117",
+    "addr:housenumber":"2421",
+    "addr:postcode":"70117",
+    "addr:street":"Clouet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.039847,29.981816,-90.039847,29.981816",
     "geom:latitude":29.981816,
     "geom:longitude":-90.039847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2421 Clouet St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -25,35 +31,38 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746815,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866091
+        85688735
     ],
+    "wof:brand_id":1125152833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y06K1nz8A092FY4wm39fA_29.981816_-90.039847@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523945,
-    "wof:geomhash":"1fd6e74644500badfd94ee83c6c9b855",
+    "wof:geomhash":"ff39afee189711f43837f8182d839eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866091,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746815,
             "region_id":85688735,
             "venue_id":840224775
         }
     ],
     "wof:id":840224775,
-    "wof:lastmodified":1466541661,
+    "wof:lastmodified":1510695931,
     "wof:name":"Whitney National Bank",
-    "wof:parent_id":85866091,
+    "wof:parent_id":1108746815,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

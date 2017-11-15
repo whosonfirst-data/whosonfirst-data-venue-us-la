@@ -2,14 +2,20 @@
   "id": 840457389,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 W Thomas St Hammond LA 70401",
+    "addr:housenumber":"1701",
+    "addr:postcode":"70401",
+    "addr:street":"W Thomas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.478426,30.500926,-90.478426,30.500926",
     "geom:latitude":30.500926,
     "geom:longitude":-90.478426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1701 W Thomas St",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102083809,
         85853177
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ga493wL3CC9XgZF32ns8u_30.500936_-90.478419@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463533593,
-    "wof:geomhash":"bfaa5a1dba461b5cb898eda5cab5b073",
+    "wof:geomhash":"a554948568ddfa2796c3c0c2a77df7b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":840457389,
-    "wof:lastmodified":1466545368,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85853177,
     "wof:placetype":"venue",

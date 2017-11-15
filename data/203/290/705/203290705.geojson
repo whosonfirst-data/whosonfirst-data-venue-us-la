@@ -2,9 +2,14 @@
   "id": 203290705,
   "type": "Feature",
   "properties": {
+    "addr:full":"365 Canal St New Orleans LA 70130",
+    "addr:housenumber":"365",
+    "addr:postcode":"70130",
+    "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066002,29.9513,-90.066002,29.9513",
     "geom:latitude":29.9513,
     "geom:longitude":-90.066002,
@@ -25,11 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85891211
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +46,20 @@
     "wof:geomhash":"9c273248f13fbf8575cce39bd4c04d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85891211,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203290705
         }
     ],
     "wof:id":203290705,
-    "wof:lastmodified":1466539385,
+    "wof:lastmodified":1486688425,
     "wof:name":"Niblock Eliza B",
-    "wof:parent_id":85891211,
+    "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

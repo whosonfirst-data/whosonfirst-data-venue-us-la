@@ -2,14 +2,20 @@
   "id": 840442127,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Thomas Ave Monroe LA 71202",
+    "addr:housenumber":"200",
+    "addr:postcode":"71202",
+    "addr:street":"Thomas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.11287,32.47076,-92.11287,32.47076",
     "geom:latitude":32.47076,
     "geom:longitude":-92.11287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Thomas Ave",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vXkzhg4be92yw1NGyV0jq_32.470760_-92.112870@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532983,
-    "wof:geomhash":"48c896fc9364383785ae804eed4a3bef",
+    "wof:geomhash":"2d51d90f581a03fbf5e57eed91ac98b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840442127,
-    "wof:lastmodified":1466545226,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 840305197,
   "type": "Feature",
   "properties": {
+    "addr:full":"3067 6th St Berwick LA 70342",
+    "addr:housenumber":"3067",
+    "addr:postcode":"70342",
+    "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.220659,29.690959,-91.220659,29.690959",
     "geom:latitude":29.690959,
     "geom:longitude":-91.220659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3067 6th St",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084873,
         85851007
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61cqRxI7cB4KV1M7AmYFUN_29.690959_-91.220659@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526773,
-    "wof:geomhash":"862503f6112353a8fa1a46f439993d66",
+    "wof:geomhash":"4c3373b02e788046a076d1bb48532b4e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840305197,
-    "wof:lastmodified":1466542677,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",

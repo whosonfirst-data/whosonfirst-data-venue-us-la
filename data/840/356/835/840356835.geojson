@@ -2,9 +2,14 @@
   "id": 840356835,
   "type": "Feature",
   "properties": {
+    "addr:full":"7007 Read Blvd New Orleans LA 70127",
+    "addr:housenumber":"7007",
+    "addr:postcode":"70127",
+    "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.978155,30.039523,-89.978155,30.039523",
     "geom:latitude":30.039523,
     "geom:longitude":-89.978155,
@@ -24,7 +29,15 @@
     "sg:postcode":"70127",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Bnyh8U0QgnudcZeq2tMeJ_30.039523_-89.978155@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463529246,
     "wof:geomhash":"d80700b9df2b679bea99c30eb2466cdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840356835
+        }
+    ],
     "wof:id":840356835,
-    "wof:lastmodified":1466543576,
+    "wof:lastmodified":1486688700,
     "wof:name":"Tobacco Shak",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

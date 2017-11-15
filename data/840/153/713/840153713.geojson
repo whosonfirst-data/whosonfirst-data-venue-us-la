@@ -2,14 +2,20 @@
   "id": 840153713,
   "type": "Feature",
   "properties": {
+    "addr:full":"11422 Industriplex Blvd Baton Rouge LA 70809",
+    "addr:housenumber":"11422",
+    "addr:postcode":"70809",
+    "addr:street":"Industriplex Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.054876,30.387808,-91.054876,30.387808",
     "geom:latitude":30.387808,
     "geom:longitude":-91.054876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11422 Industriplex Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85811509,
         102087229
     ],
+    "wof:brand_id":1125157641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zDOfSnwt0dWoRI2PpOa3J_30.387808_-91.054876@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522325,
-    "wof:geomhash":"dc0f6bcdc73cb330d531b92321c4d308",
+    "wof:geomhash":"78471400fbc668e0abaa32533db8cdef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840153713,
-    "wof:lastmodified":1466540893,
+    "wof:lastmodified":1510613447,
     "wof:name":"Imagistics International Inc",
     "wof:parent_id":85811509,
     "wof:placetype":"venue",

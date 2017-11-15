@@ -2,9 +2,14 @@
   "id": 840340829,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Jackson Barracks New Orleans LA 70117",
+    "addr:housenumber":"57;barracks",
+    "addr:postcode":"70117",
+    "addr:street":"Jackson",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.009444,29.954169,-90.009444,29.954169",
     "geom:latitude":29.954169,
     "geom:longitude":-90.009444,
@@ -25,7 +30,15 @@
     "sg:province":"LA",
     "sg:website":"www.langfcu.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746821,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4joElsfCKIHGUhg9060I5E_29.954169_-90.009444@1294127638"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1463528454,
     "wof:geomhash":"257c6861f555bdf324ab65c7a1b17ed5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746821,
+            "region_id":85688735,
+            "venue_id":840340829
+        }
+    ],
     "wof:id":840340829,
-    "wof:lastmodified":1466542865,
+    "wof:lastmodified":1486689045,
     "wof:name":"Louisiana Natl Guard Fcu",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840000125,
   "type": "Feature",
   "properties": {
+    "addr:full":"4109 S Carrollton Ave New Orleans LA 70119",
+    "addr:housenumber":"4109",
+    "addr:postcode":"70119",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.105947,29.969709,-90.105947,29.969709",
     "geom:latitude":29.969709,
     "geom:longitude":-90.105947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4109 S Carrollton Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,33 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869483,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85869483
+        85688735
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S5mYfTIPhdkTaDIWy01zg_29.969709_-90.105947@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463518998,
-    "wof:geomhash":"14c42ce9e50729aa03fb9f6b95e0af55",
+    "wof:geomhash":"0398ce971f91f5c0fa9f0b32b3de1f3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85869483,
             "region_id":85688735,
             "venue_id":840000125
         }
     ],
     "wof:id":840000125,
-    "wof:lastmodified":1466539559,
+    "wof:lastmodified":1510697395,
     "wof:name":"Color Tyme",
     "wof:parent_id":85869483,
     "wof:placetype":"venue",

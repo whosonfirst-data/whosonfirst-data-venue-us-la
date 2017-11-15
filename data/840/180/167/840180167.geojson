@@ -2,14 +2,20 @@
   "id": 840180167,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Martin Luther King Jr Dr Monroe LA 71201",
+    "addr:housenumber":"116",
+    "addr:postcode":"71201",
+    "addr:street":"Martin Luther King Jr Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.080682,32.521003,-92.080682,32.521003",
     "geom:latitude":32.521003,
     "geom:longitude":-92.080682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 Martin Luther King Jr Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081027,
         85807169
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CWLq1yQ3JaLuhDZ4uHRGv_32.521003_-92.080682@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522910,
-    "wof:geomhash":"4721cd5c6736261f508635364cac5112",
+    "wof:geomhash":"a478ab20899f0384e1af62f902b13324",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840180167,
-    "wof:lastmodified":1466541280,
+    "wof:lastmodified":1510602990,
     "wof:name":"Labor Finders",
     "wof:parent_id":85807169,
     "wof:placetype":"venue",

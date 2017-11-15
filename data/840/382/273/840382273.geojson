@@ -2,9 +2,14 @@
   "id": 840382273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 Pine St New Orleans LA 70118",
+    "addr:housenumber":"1235",
+    "addr:postcode":"70118",
+    "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.123152,29.94313,-90.123152,29.94313",
     "geom:latitude":29.94313,
     "geom:longitude":-90.123152,
@@ -28,7 +33,15 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866131,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35MAZ42G8lsIYWU6a6eMmZ_29.943130_-90.123152@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463530462,
     "wof:geomhash":"6555540792aef6ad698561df81ac2853",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866131,
+            "region_id":85688735,
+            "venue_id":840382273
+        }
+    ],
     "wof:id":840382273,
-    "wof:lastmodified":1466544002,
+    "wof:lastmodified":1486688670,
     "wof:name":"Ramke Equipment Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

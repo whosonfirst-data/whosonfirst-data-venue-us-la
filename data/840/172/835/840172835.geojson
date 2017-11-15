@@ -2,14 +2,20 @@
   "id": 840172835,
   "type": "Feature",
   "properties": {
+    "addr:full":"6638 Veterans Memorial Blvd Metairie LA 70003",
+    "addr:housenumber":"6638",
+    "addr:postcode":"70003",
+    "addr:street":"Veterans Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.208948,30.005317,-90.208948,30.005317",
     "geom:latitude":30.005317,
     "geom:longitude":-90.208948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6638 Veterans Memorial Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":420575403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AYmDrc7EtLumU6a7iSZil_30.005317_-90.208948@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522746,
-    "wof:geomhash":"6d1c47dca858fea33290566df7710036",
+    "wof:geomhash":"74dc51314612bde5129433191d45491f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840172835,
-    "wof:lastmodified":1466541303,
+    "wof:lastmodified":1510602498,
     "wof:name":"Pep Boys Supercenter",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

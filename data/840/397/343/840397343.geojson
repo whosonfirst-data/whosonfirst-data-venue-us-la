@@ -2,9 +2,14 @@
   "id": 840397343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2240 Lakeshore Dr New Orleans LA 70122",
+    "addr:housenumber":"2240",
+    "addr:postcode":"70122",
+    "addr:street":"Lakeshore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.071332,30.032273,-90.071332,30.032273",
     "geom:latitude":30.032273,
     "geom:longitude":-90.071332,
@@ -29,12 +34,15 @@
     "sg:website":"www.southernlcms.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108739667,
         102191575,
+        1108746799,
         85633793,
         85948111,
         102086693,
-        85842679
+        85688735,
+        1108739491,
+        1108746797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +57,36 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85842679,
+            "macrohood_id":1108746799,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":840397343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108739667,
+            "region_id":85688735,
+            "venue_id":840397343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746797,
+            "neighbourhood_id":1108739667,
             "region_id":85688735,
             "venue_id":840397343
         }
     ],
     "wof:id":840397343,
-    "wof:lastmodified":1466544444,
+    "wof:lastmodified":1486689057,
     "wof:name":"Southern Dist Luth Ch Ms Synod",
-    "wof:parent_id":85842679,
+    "wof:parent_id":1108739667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

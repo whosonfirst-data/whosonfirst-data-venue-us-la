@@ -2,14 +2,20 @@
   "id": 840143275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1855 Country Club Rd Lake Charles LA 70607",
+    "addr:housenumber":"1855",
+    "addr:postcode":"70607",
+    "addr:street":"Country Club Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.245551,30.168801,-93.245551,30.168801",
     "geom:latitude":30.168801,
     "geom:longitude":-93.245551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1855 Country Club Rd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q7jWBCoyxuiGuiGhihA1S_30.168801_-93.245551@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522111,
-    "wof:geomhash":"0d94074ef6bd02e8e5187db15aa1b576",
+    "wof:geomhash":"693bb08cbd9d7a1d389131034897ffa8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840143275,
-    "wof:lastmodified":1466539650,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

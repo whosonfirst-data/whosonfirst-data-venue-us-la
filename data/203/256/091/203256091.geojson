@@ -2,9 +2,14 @@
   "id": 203256091,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Saint Bernard Ave New Orleans LA 70116",
+    "addr:housenumber":"1701",
+    "addr:postcode":"70116",
+    "addr:street":"Saint Bernard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066498,29.9741,-90.066498,29.9741",
     "geom:latitude":29.9741,
     "geom:longitude":-90.066498,
@@ -28,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85882373
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,21 @@
     "wof:geomhash":"6efbe7a27cad98d9f70ca8e1bf90f3d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85882373,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":203256091
         }
     ],
     "wof:id":203256091,
-    "wof:lastmodified":1466539314,
+    "wof:lastmodified":1486689214,
     "wof:name":"Celebration Hall",
-    "wof:parent_id":85882373,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

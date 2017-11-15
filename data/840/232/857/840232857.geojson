@@ -2,14 +2,20 @@
   "id": 840232857,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 N Pine St Dequincy LA 70633",
+    "addr:housenumber":"102",
+    "addr:postcode":"70633",
+    "addr:street":"N Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.43509,30.450836,-93.43509,30.450836",
     "geom:latitude":30.450836,
     "geom:longitude":-93.43509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 N Pine St",
     "sg:city":"Dequincy",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ECfopk6AlpYpKTDsSzDoJ_30.450836_-93.435090@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524184,
-    "wof:geomhash":"a18c76a8b82bff56fa4f071e09944124",
+    "wof:geomhash":"63c9f0b85c63fe6ae70f070a11f02048",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840232857,
-    "wof:lastmodified":1466541770,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

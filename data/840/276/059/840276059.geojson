@@ -2,9 +2,14 @@
   "id": 840276059,
   "type": "Feature",
   "properties": {
+    "addr:full":"3814 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"3814",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.094836,29.921245,-90.094836,29.921245",
     "geom:latitude":29.921245,
     "geom:longitude":-90.094836,
@@ -30,7 +35,15 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746813,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f89lLOhNyXDJsIcp4KTwq_29.921245_-90.094836@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463525448,
     "wof:geomhash":"4b0dfb024d4da67f38b74d8e6e24a100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746813,
+            "region_id":85688735,
+            "venue_id":840276059
+        }
+    ],
     "wof:id":840276059,
-    "wof:lastmodified":1466542196,
+    "wof:lastmodified":1486689024,
     "wof:name":"Interior Designs Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

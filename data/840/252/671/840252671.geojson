@@ -2,14 +2,20 @@
   "id": 840252671,
   "type": "Feature",
   "properties": {
+    "addr:full":"6125 2nd Ave Marrero LA 70072",
+    "addr:housenumber":"6125",
+    "addr:postcode":"70072",
+    "addr:street":"2Nd Ave Marrero",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.111515,29.89276,-90.111515,29.89276",
     "geom:latitude":29.89276,
     "geom:longitude":-90.111515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6125 2nd Ave",
     "sg:city":"Marrero",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083179,
         85866123
     ],
+    "wof:brand_id":1125152057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2apeCcY3mQAEZmFCa8BJdL_29.892760_-90.111515@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524664,
-    "wof:geomhash":"a336950dba20c11db12d28a230515dcb",
+    "wof:geomhash":"fd6c107abe71190837159bddb2224f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840252671,
-    "wof:lastmodified":1466541898,
+    "wof:lastmodified":1510697074,
     "wof:name":"Morning Star Baptist Church",
     "wof:parent_id":85866123,
     "wof:placetype":"venue",

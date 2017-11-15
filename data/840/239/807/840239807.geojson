@@ -2,9 +2,14 @@
   "id": 840239807,
   "type": "Feature",
   "properties": {
+    "addr:full":"2116 Aramis Dr Meraux LA 70075",
+    "addr:housenumber":"",
+    "addr:postcode":"2116;70075",
+    "addr:street":"Aramis Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.929637,29.930873,-89.929637,29.930873",
     "geom:latitude":29.930873,
     "geom:longitude":-89.929637,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -44,6 +50,7 @@
     "wof:geomhash":"c440610ee527111f63c056ef4c856f25",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840239807,
-    "wof:lastmodified":1466541801,
+    "wof:lastmodified":1491910629,
     "wof:name":"Arcement Boat Rentals Inc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

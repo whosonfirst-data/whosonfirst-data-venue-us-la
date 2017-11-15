@@ -2,9 +2,14 @@
   "id": 840034383,
   "type": "Feature",
   "properties": {
+    "addr:full":"9879 Andover Dr New Orleans LA 70127",
+    "addr:housenumber":"9879",
+    "addr:postcode":"70127",
+    "addr:street":"Andover Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.980013,30.038642,-89.980013,30.038642",
     "geom:latitude":30.038642,
     "geom:longitude":-89.980013,
@@ -29,7 +34,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hD0DkyC0U6Vk5m2e6TVhb_30.038642_-89.980013@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463519721,
     "wof:geomhash":"2592db457747721842e1cda35d05c72f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840034383
+        }
+    ],
     "wof:id":840034383,
-    "wof:lastmodified":1466539934,
+    "wof:lastmodified":1486688718,
     "wof:name":"Holloway Trucking Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

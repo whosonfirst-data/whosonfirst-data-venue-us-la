@@ -2,9 +2,14 @@
   "id": 840362137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3730 Rue Andree New Orleans LA 70131",
+    "addr:housenumber":"3730",
+    "addr:postcode":"70131",
+    "addr:street":"Rue Andree",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.994263,29.914741,-89.994263,29.914741",
     "geom:latitude":29.914741,
     "geom:longitude":-89.994263,
@@ -27,7 +32,17 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746733,
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25EucSXHI3IZTtSLK33idz_29.914741_-89.994263@1294127638"
@@ -35,11 +50,34 @@
     "wof:country":"US",
     "wof:created":1463529484,
     "wof:geomhash":"5b83115d5b682b214bb2e6ac778e258e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840362137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840362137
+        }
+    ],
     "wof:id":840362137,
-    "wof:lastmodified":1466543586,
+    "wof:lastmodified":1486689197,
     "wof:name":"New Generation Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

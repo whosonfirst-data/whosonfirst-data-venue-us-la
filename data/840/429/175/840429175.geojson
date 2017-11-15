@@ -2,14 +2,20 @@
   "id": 840429175,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Armand St Monroe LA 71201",
+    "addr:housenumber":"3001",
+    "addr:postcode":"71201",
+    "addr:street":"Armand St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.08961,32.52868,-92.08961,32.52868",
     "geom:latitude":32.52868,
     "geom:longitude":-92.08961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3001 Armand St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85819355
     ],
+    "wof:brand_id":1125156637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tgklNFfyG0uaRorYeuTBs_32.528680_-92.089610@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532404,
-    "wof:geomhash":"b97946ccefcbc5bcac36d17028e87f4c",
+    "wof:geomhash":"3e011941f07418ddac1061f27efab76a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840429175,
-    "wof:lastmodified":1466544912,
+    "wof:lastmodified":1510697172,
     "wof:name":"Rehabilitation Service",
     "wof:parent_id":85819355,
     "wof:placetype":"venue",

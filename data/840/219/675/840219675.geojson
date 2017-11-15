@@ -2,9 +2,14 @@
   "id": 840219675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 Simon Bolivar Ave New Orleans LA 70113",
+    "addr:housenumber":"1301",
+    "addr:postcode":"70113",
+    "addr:street":"Simon Bolivar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.080046,29.944744,-90.080046,29.944744",
     "geom:latitude":29.944744,
     "geom:longitude":-90.080046,
@@ -24,7 +29,15 @@
     "sg:postcode":"70113",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866121,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71W2vgVtBTvO2k1GWoCzIJ_29.944744_-90.080046@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463523826,
     "wof:geomhash":"31a3ac4f5a59bba1f8d03fe8a580b5fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866121,
+            "region_id":85688735,
+            "venue_id":840219675
+        }
+    ],
     "wof:id":840219675,
-    "wof:lastmodified":1466541526,
+    "wof:lastmodified":1486688614,
     "wof:name":"Halo Health Ctr 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

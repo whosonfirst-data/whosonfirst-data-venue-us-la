@@ -2,9 +2,14 @@
   "id": 840248423,
   "type": "Feature",
   "properties": {
+    "addr:full":"2900 Winston St New Orleans LA 70131",
+    "addr:housenumber":"2900",
+    "addr:postcode":"70131",
+    "addr:street":"Winston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.973931,29.921051,-89.973931,29.921051",
     "geom:latitude":29.921051,
     "geom:longitude":-89.973931,
@@ -28,7 +33,16 @@
         "paper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420521765,
+        102191575,
+        1108746803,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108739497
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bzkSt54mxacUIsFddLVXa_29.921051_-89.973931@1294127638"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1463524565,
     "wof:geomhash":"d9f338f3205837c55bb910c6390bb458",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840248423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":420521765,
+            "region_id":85688735,
+            "venue_id":840248423
+        }
+    ],
     "wof:id":840248423,
-    "wof:lastmodified":1466541733,
+    "wof:lastmodified":1486688966,
     "wof:name":"Crescent Paper Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420521765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

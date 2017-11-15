@@ -2,9 +2,14 @@
   "id": 840390043,
   "type": "Feature",
   "properties": {
+    "addr:full":"538 Nashville Ave New Orleans LA 70115",
+    "addr:housenumber":"538",
+    "addr:postcode":"70115",
+    "addr:street":"Nashville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.119547,29.919404,-90.119547,29.919404",
     "geom:latitude":29.919404,
     "geom:longitude":-90.119547,
@@ -28,7 +33,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O7WUzY4h2W18BDDB3gePm_29.919404_-90.119547@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463530804,
     "wof:geomhash":"1e824fb84ac2a0678dc55d7f819a5abc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840390043
+        }
+    ],
     "wof:id":840390043,
-    "wof:lastmodified":1466544291,
+    "wof:lastmodified":1486689109,
     "wof:name":"Pampered Soul & Body Day Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 203272521,
   "type": "Feature",
   "properties": {
+    "addr:full":"2082 Benefit St New Orleans LA 70122",
+    "addr:housenumber":"2082",
+    "addr:postcode":"70122",
+    "addr:street":"Benefit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.061203,29.990601,-90.061203,29.990601",
     "geom:latitude":29.990601,
     "geom:longitude":-90.061203,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866099,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866059
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +49,20 @@
     "wof:geomhash":"38c3e17e427e37f8b6940bdfd15f81f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866059,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":203272521
         }
     ],
     "wof:id":203272521,
-    "wof:lastmodified":1466539355,
+    "wof:lastmodified":1486688395,
     "wof:name":"Francois Cleveland A Sr Elec Contr",
-    "wof:parent_id":85866059,
+    "wof:parent_id":85866099,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

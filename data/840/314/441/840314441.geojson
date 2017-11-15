@@ -2,14 +2,20 @@
   "id": 840314441,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 Stone Rd Slidell LA 70460",
+    "addr:housenumber":"252",
+    "addr:postcode":"70460",
+    "addr:street":"Stone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.781016,30.301983,-89.781016,30.301983",
     "geom:latitude":30.301983,
     "geom:longitude":-89.781016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"252 Stone Rd",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082453,
         85837583
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46R74Jx396JwUymIQKgMjl_30.301983_-89.781016@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527196,
-    "wof:geomhash":"c518f8dbe12acabddb2b996f524a613c",
+    "wof:geomhash":"9d0b0229eabbc60566ecff4ccd914925",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840314441,
-    "wof:lastmodified":1466542867,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85837583,
     "wof:placetype":"venue",

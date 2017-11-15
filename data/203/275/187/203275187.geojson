@@ -2,9 +2,14 @@
   "id": 203275187,
   "type": "Feature",
   "properties": {
+    "addr:full":"4045 France Rd New Orleans LA 70126",
+    "addr:housenumber":"4045",
+    "addr:postcode":"70126",
+    "addr:street":"France Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.028503,30.001801,-90.028503,30.001801",
     "geom:latitude":30.001801,
     "geom:longitude":-90.028503,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866087,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866087
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e6d8a7b820e8e68e63ecfa101514d470",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866087,
             "region_id":85688735,
             "venue_id":203275187
         }
     ],
     "wof:id":203275187,
-    "wof:lastmodified":1466539346,
+    "wof:lastmodified":1486686958,
     "wof:name":"Boh Bros Construction Co Llc",
     "wof:parent_id":85866087,
     "wof:placetype":"venue",

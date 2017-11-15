@@ -2,9 +2,14 @@
   "id": 840377621,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Milton St New Orleans LA 70122",
+    "addr:housenumber":"1300",
+    "addr:postcode":"70122",
+    "addr:street":"Milton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.079436,29.995689,-90.079436,29.995689",
     "geom:latitude":29.995689,
     "geom:longitude":-90.079436,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        420521743,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866079
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866079,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":420521743,
             "region_id":85688735,
             "venue_id":840377621
         }
     ],
     "wof:id":840377621,
-    "wof:lastmodified":1466544014,
+    "wof:lastmodified":1486688961,
     "wof:name":"Union Baptist Theological",
-    "wof:parent_id":85866079,
+    "wof:parent_id":420521743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

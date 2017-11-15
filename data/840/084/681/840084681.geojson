@@ -2,14 +2,20 @@
   "id": 840084681,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 S Clearview Pkwy New Orleans LA 70123",
+    "addr:housenumber":"1200",
+    "addr:postcode":"70123",
+    "addr:street":"S Clearview Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.18474,29.962441,-90.18474,29.962441",
     "geom:latitude":29.962441,
     "geom:longitude":-90.18474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 S Clearview Pkwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":420575315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mV9KZNYHUJoj4KODhny7G_29.962441_-90.184740@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520902,
-    "wof:geomhash":"2f7995ab6a678bda5450544dc409ddce",
+    "wof:geomhash":"d792acb93dc285178c858b3324ab258e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840084681,
-    "wof:lastmodified":1466540533,
+    "wof:lastmodified":1510602476,
     "wof:name":"T J Maxx",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

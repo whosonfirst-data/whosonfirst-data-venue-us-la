@@ -2,9 +2,14 @@
   "id": 203294249,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Chartres St New Orleans LA 70130",
+    "addr:housenumber":"500",
+    "addr:postcode":"70130",
+    "addr:street":"Chartres St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.065002,29.955799,-90.065002,29.955799",
     "geom:latitude":29.955799,
     "geom:longitude":-90.065002,
@@ -43,11 +48,13 @@
     "sg:website":"www.napoleonhouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +64,18 @@
     "wof:geomhash":"bb11bde0a295987825318b8b7d6eb60b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203294249
         }
     ],
     "wof:id":203294249,
-    "wof:lastmodified":1466539382,
+    "wof:lastmodified":1486688412,
     "wof:name":"Napoleon House Bar & Cafe",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 840061579,
   "type": "Feature",
   "properties": {
+    "addr:full":"7441 Scottsdale Dr New Orleans LA 70127",
+    "addr:housenumber":"7441",
+    "addr:postcode":"70127",
+    "addr:street":"Scottsdale Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.995537,30.038488,-89.995537,30.038488",
     "geom:latitude":30.038488,
     "geom:longitude":-89.995537,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866167,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85829105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85829105,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
             "region_id":85688735,
             "venue_id":840061579
         }
     ],
     "wof:id":840061579,
-    "wof:lastmodified":1466540262,
+    "wof:lastmodified":1486688714,
     "wof:name":"Chauffer Club Social Svc",
-    "wof:parent_id":85829105,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

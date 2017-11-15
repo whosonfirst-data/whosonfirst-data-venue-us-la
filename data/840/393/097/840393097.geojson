@@ -2,14 +2,20 @@
   "id": 840393097,
   "type": "Feature",
   "properties": {
+    "addr:full":"4613 Palm St Baton Rouge LA 70808",
+    "addr:housenumber":"4613",
+    "addr:postcode":"70808",
+    "addr:street":"Palm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.146,30.410257,-91.146,30.410257",
     "geom:latitude":30.410257,
     "geom:longitude":-91.146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4613 Palm St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85850249
     ],
+    "wof:brand_id":1125150721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I8anEJk5inuh5ROrvPzuo_30.410257_-91.146000@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530926,
-    "wof:geomhash":"c3ad62b4e1ddbfd0e8755c7746050d86",
+    "wof:geomhash":"0d78d20bc21345e7fd37e4e89c78606e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840393097,
-    "wof:lastmodified":1466544200,
+    "wof:lastmodified":1510695862,
     "wof:name":"Southside Baptist Church",
     "wof:parent_id":85850249,
     "wof:placetype":"venue",

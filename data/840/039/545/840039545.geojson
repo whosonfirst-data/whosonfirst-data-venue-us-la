@@ -2,9 +2,14 @@
   "id": 840039545,
   "type": "Feature",
   "properties": {
+    "addr:full":"2572 N Rocheblave St New Orleans LA 70117",
+    "addr:housenumber":"2572",
+    "addr:postcode":"70117",
+    "addr:street":"N Rocheblave St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.053053,29.98201,-90.053053,29.98201",
     "geom:latitude":29.98201,
     "geom:longitude":-90.053053,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866099,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866099
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866099,
             "region_id":85688735,
             "venue_id":840039545
         }
     ],
     "wof:id":840039545,
-    "wof:lastmodified":1466539991,
+    "wof:lastmodified":1486688392,
     "wof:name":"R & K Food Store",
     "wof:parent_id":85866099,
     "wof:placetype":"venue",

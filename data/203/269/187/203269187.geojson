@@ -2,9 +2,14 @@
   "id": 203269187,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Royal St New Orleans LA 70117",
+    "addr:housenumber":"3300",
+    "addr:postcode":"70117",
+    "addr:street":"Royal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.042603,29.9627,-90.042603,29.9627",
     "geom:latitude":29.9627,
     "geom:longitude":-90.042603,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866089,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"beb8c6a0b551b0cc2111a36d5ddb0b91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866089,
             "region_id":85688735,
             "venue_id":203269187
         }
     ],
     "wof:id":203269187,
-    "wof:lastmodified":1466539342,
+    "wof:lastmodified":1486688360,
     "wof:name":"Giordano Furniture & Manufacturing & Wholesale Co",
     "wof:parent_id":85866089,
     "wof:placetype":"venue",

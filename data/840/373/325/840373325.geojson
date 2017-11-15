@@ -2,14 +2,20 @@
   "id": 840373325,
   "type": "Feature",
   "properties": {
+    "addr:full":"906 Executive Ct Pineville LA 71360",
+    "addr:housenumber":"906",
+    "addr:postcode":"71360",
+    "addr:street":"Executive Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.432555,31.350634,-92.432555,31.350634",
     "geom:latitude":31.350634,
     "geom:longitude":-92.432555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"906 Executive Ct",
     "sg:city":"Pineville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081039,
         85820213
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JToqFxXxxZMX66w0PhdGX_31.350634_-92.432555@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530042,
-    "wof:geomhash":"37b9dd89c3cba89e7488117f889ee586",
+    "wof:geomhash":"b097e98f441869e9cfcb266dd1139178",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840373325,
-    "wof:lastmodified":1466543825,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 840001237,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Claiborne Ave Shreveport LA 71103",
+    "addr:housenumber":"2345",
+    "addr:postcode":"71103",
+    "addr:street":"Claiborne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":840001237,
-    "wof:lastmodified":1466539560,
+    "wof:lastmodified":1472624282,
     "wof:name":"Claiborne Fundmntl Elementary",
     "wof:parent_id":85881005,
     "wof:placetype":"venue",

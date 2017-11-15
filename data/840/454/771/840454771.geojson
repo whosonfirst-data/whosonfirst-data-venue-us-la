@@ -2,14 +2,20 @@
   "id": 840454771,
   "type": "Feature",
   "properties": {
+    "addr:full":"3509 Gerstner Memorial Blvd Lake Charles LA 70607",
+    "addr:housenumber":"3509",
+    "addr:postcode":"70607",
+    "addr:street":"Gerstner Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.179943,30.194287,-93.179943,30.194287",
     "geom:latitude":30.194287,
     "geom:longitude":-93.179943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3509 Gerstner Memorial Blvd",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dKW7ETPQx5xZR8X5szToT_30.194287_-93.179943@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533496,
-    "wof:geomhash":"d2a8672c37ab1400ee14d56996154a77",
+    "wof:geomhash":"9634a20372b3fb9cb5e44f41c43e81c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840454771,
-    "wof:lastmodified":1466545467,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",

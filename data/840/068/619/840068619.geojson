@@ -2,14 +2,20 @@
   "id": 840068619,
   "type": "Feature",
   "properties": {
+    "addr:full":"8559 Sabine St Pleasant Hill LA 71065",
+    "addr:housenumber":"8559",
+    "addr:postcode":"71065",
+    "addr:street":"Sabine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.518013,31.819286,-93.518013,31.819286",
     "geom:latitude":31.819286,
     "geom:longitude":-93.518013,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8559 Sabine St",
     "sg:city":"Pleasant Hill",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081409,
         85806377
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57mmgofgSlt6qvrxBaWtz7_31.819286_-93.518013@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520453,
-    "wof:geomhash":"328a67d32f2c7cb2556fcc5d579c9968",
+    "wof:geomhash":"699fab95ce443f15f913861c399496a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840068619,
-    "wof:lastmodified":1466540397,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85806377,
     "wof:placetype":"venue",

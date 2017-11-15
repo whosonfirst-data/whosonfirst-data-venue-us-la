@@ -2,9 +2,14 @@
   "id": 840352945,
   "type": "Feature",
   "properties": {
+    "addr:full":"6853 Lake Willow Dr New Orleans LA 70126",
+    "addr:housenumber":"6853",
+    "addr:postcode":"70126",
+    "addr:street":"Lake Willow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.996813,30.031125,-89.996813,30.031125",
     "geom:latitude":30.031125,
     "geom:longitude":-89.996813,
@@ -28,7 +33,15 @@
         "rebuilt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866167,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zxGnPhYA2G4MEznku1ZGN_30.031125_-89.996813@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463529060,
     "wof:geomhash":"607ff885811f5924c93e68f02b94f1fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866167,
+            "region_id":85688735,
+            "venue_id":840352945
+        }
+    ],
     "wof:id":840352945,
-    "wof:lastmodified":1466543575,
+    "wof:lastmodified":1486688705,
     "wof:name":"Cal Hingle Auto & Truck Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

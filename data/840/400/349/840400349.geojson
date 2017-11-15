@@ -2,14 +2,20 @@
   "id": 840400349,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 N 7th St West Monroe LA 71291",
+    "addr:housenumber":"1905",
+    "addr:postcode":"71291",
+    "addr:street":"N 7Th St West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.146819,32.51213,-92.146819,32.51213",
     "geom:latitude":32.51213,
     "geom:longitude":-92.146819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1905 N 7th St",
     "sg:city":"West Monroe",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081027,
         85840783
     ],
+    "wof:brand_id":1125150421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D7p46zez7pkNemcdwhTO1_32.512130_-92.146819@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463531224,
-    "wof:geomhash":"415866f43f0dc8d9164c80b7ec56914a",
+    "wof:geomhash":"73b502b43a9f03bc92eca2c208ae08a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840400349,
-    "wof:lastmodified":1466544607,
+    "wof:lastmodified":1510694666,
     "wof:name":"Hibernia National Bank",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

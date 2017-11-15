@@ -2,14 +2,20 @@
   "id": 840162073,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Laval Rd Lafayette LA 70507",
+    "addr:housenumber":"143",
+    "addr:postcode":"70507",
+    "addr:street":"Laval Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.988594,30.280537,-91.988594,30.280537",
     "geom:latitude":30.280537,
     "geom:longitude":-91.988594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"143 Laval Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85822057
     ],
+    "wof:brand_id":1125158585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RlByFmZLFiUefxXySqBOF_30.280537_-91.988594@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522485,
-    "wof:geomhash":"9cacbae23b5ebac4bb92816fc631d9ac",
+    "wof:geomhash":"2d029611591c5346260d9afd964635f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840162073,
-    "wof:lastmodified":1466541145,
+    "wof:lastmodified":1510697459,
     "wof:name":"Mr Fix It",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",

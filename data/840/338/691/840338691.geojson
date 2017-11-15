@@ -2,9 +2,14 @@
   "id": 840338691,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 Joseph St New Orleans LA 70115",
+    "addr:housenumber":"733",
+    "addr:postcode":"70115",
+    "addr:street":"Joseph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.117058,29.920886,-90.117058,29.920886",
     "geom:latitude":29.920886,
     "geom:longitude":-90.117058,
@@ -27,7 +32,15 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t191WiRSU6Te71fYa5Gb0_29.920886_-90.117058@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463528351,
     "wof:geomhash":"71ace15970b49c164b89e3cefd9f8349",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840338691
+        }
+    ],
     "wof:id":840338691,
-    "wof:lastmodified":1466543286,
+    "wof:lastmodified":1486689110,
     "wof:name":"Delta Personnel Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

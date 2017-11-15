@@ -2,14 +2,20 @@
   "id": 840056619,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 Williams Blvd Kenner LA 70062",
+    "addr:housenumber":"2610",
+    "addr:postcode":"70062",
+    "addr:street":"Williams Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.240492,30.004837,-90.240492,30.004837",
     "geom:latitude":30.004837,
     "geom:longitude":-90.240492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2610 Williams Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083179,
         85842683
     ],
+    "wof:brand_id":1125150945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b8lqfVd7N5z3vTH80pLVK_30.004837_-90.240492@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520193,
-    "wof:geomhash":"9aa3150202dc2c96b03c7cf7a8ac67ca",
+    "wof:geomhash":"339afea909e81b5d7e8e026c9e44bc3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":840056619,
-    "wof:lastmodified":1466540242,
+    "wof:lastmodified":1510693714,
     "wof:name":"LA Quinta Inn",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",

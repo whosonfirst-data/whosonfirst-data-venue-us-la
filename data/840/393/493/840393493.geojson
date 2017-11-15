@@ -2,14 +2,20 @@
   "id": 840393493,
   "type": "Feature",
   "properties": {
+    "addr:full":"5828 Line Ave Shreveport LA 71106",
+    "addr:housenumber":"5828",
+    "addr:postcode":"71106",
+    "addr:street":"Line Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.74612,32.455972,-93.74612,32.455972",
     "geom:latitude":32.455972,
     "geom:longitude":-93.74612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5828 Line Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087235,
         85880995
     ],
+    "wof:brand_id":1125158465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61ESysU80xAHoH9dMADyBT_32.455972_-93.746120@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530947,
-    "wof:geomhash":"e02935cd0801c82297b09ed6b0522fd5",
+    "wof:geomhash":"ca4f94773b866ba063d2a10aeb1ed3ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840393493,
-    "wof:lastmodified":1466544147,
+    "wof:lastmodified":1510613245,
     "wof:name":"Brookshire's",
     "wof:parent_id":85880995,
     "wof:placetype":"venue",

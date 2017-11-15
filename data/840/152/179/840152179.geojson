@@ -2,9 +2,14 @@
   "id": 840152179,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 E Judge Perez Dr Meraux LA 70075",
+    "addr:housenumber":"4242",
+    "addr:postcode":"70075",
+    "addr:street":"E Judge Perez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.919716,29.933875,-89.919716,29.933875",
     "geom:latitude":29.933875,
     "geom:longitude":-89.919716,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -40,6 +46,7 @@
     "wof:geomhash":"057ec4aafdb1464f9a3becc89de47266",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840152179,
-    "wof:lastmodified":1466540743,
+    "wof:lastmodified":1491910646,
     "wof:name":"Burger King",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

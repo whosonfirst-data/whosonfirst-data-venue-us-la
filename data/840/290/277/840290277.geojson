@@ -2,9 +2,14 @@
   "id": 840290277,
   "type": "Feature",
   "properties": {
+    "addr:full":"5256 Magazine St New Orleans LA 70115",
+    "addr:housenumber":"5256",
+    "addr:postcode":"70115",
+    "addr:street":"Magazine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.112553,29.920426,-90.112553,29.920426",
     "geom:latitude":29.920426,
     "geom:longitude":-90.112553,
@@ -29,7 +34,15 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746839,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_264zO7vq3z1JbWrjzaKy2E_29.920426_-90.112553@1294127638"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463526079,
     "wof:geomhash":"56ebc4fbe3798284f85e501ab68a3231",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746839,
+            "region_id":85688735,
+            "venue_id":840290277
+        }
+    ],
     "wof:id":840290277,
-    "wof:lastmodified":1466542418,
+    "wof:lastmodified":1486689118,
     "wof:name":"New Orleans Academy-Fine Arts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

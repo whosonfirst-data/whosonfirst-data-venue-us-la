@@ -2,14 +2,20 @@
   "id": 840178499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 University Pl Shreveport LA 71115",
+    "addr:housenumber":"1",
+    "addr:postcode":"71115",
+    "addr:street":"University Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.708241,32.426905,-93.708241,32.426905",
     "geom:latitude":32.426905,
     "geom:longitude":-93.708241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 University Pl",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UyXjKlzgZZ0Zhg2O9MNtf_32.426905_-93.708241@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522875,
-    "wof:geomhash":"cc589b7bc421781428a97604f46b47ce",
+    "wof:geomhash":"23ddabb9d9f381eab58b46f1b6de73d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840178499,
-    "wof:lastmodified":1466541295,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

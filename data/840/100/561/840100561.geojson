@@ -2,14 +2,20 @@
   "id": 840100561,
   "type": "Feature",
   "properties": {
+    "addr:full":"544 Government St Baton Rouge LA 70802",
+    "addr:housenumber":"544",
+    "addr:postcode":"70802",
+    "addr:street":"Government St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.184086,30.443337,-91.184086,30.443337",
     "geom:latitude":30.443337,
     "geom:longitude":-91.184086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"544 Government St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85805113
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P3fIvJe1sqWwZZpiAVwWC_30.443337_-91.184086@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521224,
-    "wof:geomhash":"121acdabe1c361166e83024c9c999cc8",
+    "wof:geomhash":"86189ba44b898f8a7028e6d9f1f68028",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840100561,
-    "wof:lastmodified":1466540709,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85805113,
     "wof:placetype":"venue",

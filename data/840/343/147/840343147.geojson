@@ -2,9 +2,14 @@
   "id": 840343147,
   "type": "Feature",
   "properties": {
+    "addr:full":"4727 Sierra Madre St New Orleans LA 70127",
+    "addr:housenumber":"4727",
+    "addr:postcode":"70127",
+    "addr:street":"Sierra Madre St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.964938,30.024802,-89.964938,30.024802",
     "geom:latitude":30.024802,
     "geom:longitude":-89.964938,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dRegrtkkt0VllSwmGpIYI_30.024802_-89.964938@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463528556,
     "wof:geomhash":"1700986a99f62ccee0756a4800c34cd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840343147
+        }
+    ],
     "wof:id":840343147,
-    "wof:lastmodified":1466543396,
+    "wof:lastmodified":1486688746,
     "wof:name":"G & J Concrete Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 840195903,
   "type": "Feature",
   "properties": {
+    "addr:full":"4396 Genoa Rd New Orleans LA 70129",
+    "addr:housenumber":"4396",
+    "addr:postcode":"70129",
+    "addr:street":"Genoa Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.815104,30.070089,-89.815104,30.070089",
     "geom:latitude":30.070089,
     "geom:longitude":-89.815104,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85869397,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85869397
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85869397,
             "region_id":85688735,
             "venue_id":840195903
         }
     ],
     "wof:id":840195903,
-    "wof:lastmodified":1466541412,
+    "wof:lastmodified":1486687849,
     "wof:name":"Louisiana Premium Seafoods Inc",
     "wof:parent_id":85869397,
     "wof:placetype":"venue",

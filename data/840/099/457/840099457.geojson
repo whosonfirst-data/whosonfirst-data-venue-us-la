@@ -2,9 +2,14 @@
   "id": 840099457,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 E Judge Perez Dr Meraux LA 70075",
+    "addr:housenumber":"3200",
+    "addr:postcode":"70075",
+    "addr:street":"E Judge Perez Dr Meraux",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.928615,29.937389,-89.928615,29.937389",
     "geom:latitude":29.937389,
     "geom:longitude":-89.928615,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -47,6 +53,7 @@
     "wof:geomhash":"2b65d8206d9af494fa3eb6e2428b8ed6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":840099457,
-    "wof:lastmodified":1466540698,
+    "wof:lastmodified":1491910643,
     "wof:name":"Rick's Swimming Pool Svc",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

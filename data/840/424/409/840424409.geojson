@@ -2,14 +2,20 @@
   "id": 840424409,
   "type": "Feature",
   "properties": {
+    "addr:full":"2619 Ruth St Sulphur LA 70665",
+    "addr:housenumber":"2619",
+    "addr:postcode":"70665",
+    "addr:street":"Ruth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.376125,30.213288,-93.376125,30.213288",
     "geom:latitude":30.213288,
     "geom:longitude":-93.376125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2619 Ruth St",
     "sg:city":"Sulphur",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102081035,
         85825987
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eHDmW8891f07A34UvUOJ0_30.213288_-93.376125@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532211,
-    "wof:geomhash":"eb8b5f08332bfe8c04ebca06f493a5e4",
+    "wof:geomhash":"f2165f79f502db945785c8e253a67329",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":840424409,
-    "wof:lastmodified":1466544956,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85825987,
     "wof:placetype":"venue",

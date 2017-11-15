@@ -2,14 +2,20 @@
   "id": 840338555,
   "type": "Feature",
   "properties": {
+    "addr:full":"666 Travis St Shreveport LA 71101",
+    "addr:housenumber":"666",
+    "addr:postcode":"71101",
+    "addr:street":"Travis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.751962,32.512838,-93.751962,32.512838",
     "geom:latitude":32.512838,
     "geom:longitude":-93.751962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"666 Travis St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087235,
         85880993
     ],
+    "wof:brand_id":1125150855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LkKTTee4B2rvbcTPWKXwf_32.512838_-93.751962@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528346,
-    "wof:geomhash":"72c2fa4ded83f0e59028ac43c83bdfc8",
+    "wof:geomhash":"b6e2bd2d98d9582e2b1b82d77dcddf71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840338555,
-    "wof:lastmodified":1466543259,
+    "wof:lastmodified":1510694212,
     "wof:name":"Bankers Life & Casualty Co",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",

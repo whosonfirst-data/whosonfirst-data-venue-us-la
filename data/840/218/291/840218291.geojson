@@ -2,14 +2,20 @@
   "id": 840218291,
   "type": "Feature",
   "properties": {
+    "addr:full":"14274 W University Ave Hammond LA 70401",
+    "addr:housenumber":"14274",
+    "addr:postcode":"70401",
+    "addr:street":"W University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.492799,30.519048,-90.492799,30.519048",
     "geom:latitude":30.519048,
     "geom:longitude":-90.492799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14274 W University Ave",
     "sg:city":"Hammond",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85856811,
         102083809
     ],
+    "wof:brand_id":1125150053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oODbeNs6c1vxDIpsKCh77_30.519048_-90.492799@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523798,
-    "wof:geomhash":"f99b7533b319e637353bb1083ad02745",
+    "wof:geomhash":"0da5c00ed91a9ecab7eb92970c49d9dc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":840218291,
-    "wof:lastmodified":1466541611,
+    "wof:lastmodified":1510695755,
     "wof:name":"Shear Perfection",
     "wof:parent_id":85856811,
     "wof:placetype":"venue",

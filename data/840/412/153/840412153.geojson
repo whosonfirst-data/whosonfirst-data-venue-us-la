@@ -2,9 +2,14 @@
   "id": 840412153,
   "type": "Feature",
   "properties": {
+    "addr:full":"2229 Bayou Rd New Orleans LA 70119",
+    "addr:housenumber":"2229",
+    "addr:postcode":"70119",
+    "addr:street":"Bayou Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.074096,29.973407,-90.074096,29.973407",
     "geom:latitude":29.973407,
     "geom:longitude":-90.074096,
@@ -24,7 +29,16 @@
     "sg:postcode":"70119",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VNVB8ldy1o3Ugg2cPVMv9_29.973407_-90.074096@1294127638"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1463531702,
     "wof:geomhash":"573b6d77b22248f4b660da6f8b31ae89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
+            "region_id":85688735,
+            "venue_id":840412153
+        }
+    ],
     "wof:id":840412153,
-    "wof:lastmodified":1466544677,
+    "wof:lastmodified":1486689210,
     "wof:name":"Toval Rec/Prod Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

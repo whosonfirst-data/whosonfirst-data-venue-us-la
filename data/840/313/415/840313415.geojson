@@ -2,9 +2,14 @@
   "id": 840313415,
   "type": "Feature",
   "properties": {
+    "addr:full":"2931 Broadway St New Orleans LA 70125",
+    "addr:housenumber":"2931",
+    "addr:postcode":"70125",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.111907,29.956324,-90.111907,29.956324",
     "geom:latitude":29.956324,
     "geom:longitude":-90.111907,
@@ -27,7 +32,15 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866137,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wEPr768kwywmHG7LaJ1I5_29.956324_-90.111907@1294127638"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463527148,
     "wof:geomhash":"af930c835f4a955b1e61c9ef07d92ce2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866137,
+            "region_id":85688735,
+            "venue_id":840313415
+        }
+    ],
     "wof:id":840313415,
-    "wof:lastmodified":1466542872,
+    "wof:lastmodified":1486688679,
     "wof:name":"CTN Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

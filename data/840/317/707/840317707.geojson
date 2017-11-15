@@ -2,14 +2,20 @@
   "id": 840317707,
   "type": "Feature",
   "properties": {
+    "addr:full":"816 E Admiral Doyle Dr New Iberia LA 70560",
+    "addr:housenumber":"816",
+    "addr:postcode":"70560",
+    "addr:street":"E Admiral Doyle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.821481,29.985789,-91.821481,29.985789",
     "geom:latitude":29.985789,
     "geom:longitude":-91.821481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"816 E Admiral Doyle Dr",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125155001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26RaRtRcltLPjc8e0tcZnl_29.985789_-91.821481@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527344,
-    "wof:geomhash":"6a266c3630cb2ca3f2e20496e50a4c99",
+    "wof:geomhash":"8ce643a0dd6690fc6de180dc789b0808",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840317707,
-    "wof:lastmodified":1466542999,
+    "wof:lastmodified":1510699953,
     "wof:name":"Golden Wok",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

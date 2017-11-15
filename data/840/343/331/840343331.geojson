@@ -2,14 +2,20 @@
   "id": 840343331,
   "type": "Feature",
   "properties": {
+    "addr:full":"3003 Jefferson Hwy New Orleans LA 70121",
+    "addr:housenumber":"3003",
+    "addr:postcode":"70121",
+    "addr:street":"Jefferson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.157014,29.963188,-90.157014,29.963188",
     "geom:latitude":29.963188,
     "geom:longitude":-90.157014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3003 Jefferson Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083179,
         85806017
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ryGJXugd1CB7XDNqzD6Oj_29.963188_-90.157014@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528571,
-    "wof:geomhash":"c007d26df271f1d1949726adb15d4be6",
+    "wof:geomhash":"73a1a04015103f4f9d0871c03bc89e41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840343331,
-    "wof:lastmodified":1466543347,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85806017,
     "wof:placetype":"venue",

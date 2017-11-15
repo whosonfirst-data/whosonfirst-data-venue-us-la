@@ -2,9 +2,14 @@
   "id": 840052529,
   "type": "Feature",
   "properties": {
+    "addr:full":"5786 Crowder Blvd New Orleans LA 70127",
+    "addr:housenumber":"5786",
+    "addr:postcode":"70127",
+    "addr:street":"Crowder Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.992623,30.028381,-89.992623,30.028381",
     "geom:latitude":30.028381,
     "geom:longitude":-89.992623,
@@ -28,7 +33,15 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855781,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07fjjNKgtHsZ92MLs1oLAo_30.028381_-89.992623@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463520097,
     "wof:geomhash":"ce5e9bdb1de9104241c2097238ad37a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85855781,
+            "region_id":85688735,
+            "venue_id":840052529
+        }
+    ],
     "wof:id":840052529,
-    "wof:lastmodified":1466540130,
+    "wof:lastmodified":1486688240,
     "wof:name":"Total Hair Zone",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

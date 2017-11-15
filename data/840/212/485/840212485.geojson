@@ -2,9 +2,14 @@
   "id": 840212485,
   "type": "Feature",
   "properties": {
+    "addr:full":"3630 Rue Nichole New Orleans LA 70131",
+    "addr:housenumber":"3630",
+    "addr:postcode":"70131",
+    "addr:street":"Rue Nichole",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.997503,29.915299,-89.997503,29.915299",
     "geom:latitude":29.915299,
     "geom:longitude":-89.997503,
@@ -27,7 +32,17 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746733,
+        1108746731,
+        102191575,
+        1108739497,
+        85633793,
+        85948111,
+        102086693,
+        85688735,
+        1108746803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QcDs9wxABoLWHJnDy97u0_29.915299_-89.997503@1294127638"
@@ -35,11 +50,34 @@
     "wof:country":"US",
     "wof:created":1463523678,
     "wof:geomhash":"f27156fd86b8fb99d1cf629730a28e59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739497,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840212485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "microhood_id":1108746733,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":840212485
+        }
+    ],
     "wof:id":840212485,
-    "wof:lastmodified":1466541524,
+    "wof:lastmodified":1486689197,
     "wof:name":"Joan L Bicocchi",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

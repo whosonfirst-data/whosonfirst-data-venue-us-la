@@ -2,9 +2,14 @@
   "id": 840058583,
   "type": "Feature",
   "properties": {
+    "addr:full":"2528 Maureen Ln Meraux LA 70075",
+    "addr:housenumber":"2528",
+    "addr:postcode":"70075",
+    "addr:street":"Maureen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.911032,29.925283,-89.911032,29.925283",
     "geom:latitude":29.925283,
     "geom:longitude":-89.911032,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688735,
+        102191575,
         85633793,
         85948813,
         102082447,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c46365058a6552d5e75ffaebe9d4610c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082447,
             "locality_id":85948813,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":840058583,
-    "wof:lastmodified":1466540253,
+    "wof:lastmodified":1491910633,
     "wof:name":"Navarro's Ornamental Iron WRKS",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",

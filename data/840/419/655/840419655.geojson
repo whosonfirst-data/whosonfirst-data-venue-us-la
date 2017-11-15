@@ -2,14 +2,20 @@
   "id": 840419655,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Catalpa St Monroe LA 71201",
+    "addr:housenumber":"301",
+    "addr:postcode":"71201",
+    "addr:street":"Catalpa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.11366,32.500659,-92.11366,32.500659",
     "geom:latitude":32.500659,
     "geom:longitude":-92.11366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Catalpa St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081027,
         85816661
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55ClFvo1lGlIcc7NgqLtJc_32.500659_-92.113660@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532013,
-    "wof:geomhash":"e1141ca78287c7f52b1f9f23eec960da",
+    "wof:geomhash":"6a9b7fce58ab0d9f0c968113e585d8f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840419655,
-    "wof:lastmodified":1466544796,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85816661,
     "wof:placetype":"venue",

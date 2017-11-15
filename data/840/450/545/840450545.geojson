@@ -2,9 +2,14 @@
   "id": 840450545,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 Toulouse St New Orleans LA 70130",
+    "addr:housenumber":"719",
+    "addr:postcode":"70130",
+    "addr:street":"Toulouse St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.066101,29.9575,-90.066101,29.9575",
     "geom:latitude":29.9575,
     "geom:longitude":-90.066101,
@@ -26,12 +31,13 @@
     "sg:website":"www.wehmeiers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":840450545
         }
     ],
     "wof:id":840450545,
-    "wof:lastmodified":1466545327,
+    "wof:lastmodified":1486687139,
     "wof:name":"Wehmeier's Belt Shop",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

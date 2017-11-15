@@ -2,9 +2,14 @@
   "id": 840271849,
   "type": "Feature",
   "properties": {
+    "addr:full":"1439 Alvar St New Orleans LA 70117",
+    "addr:housenumber":"1439",
+    "addr:postcode":"70117",
+    "addr:street":"Alvar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.035188,29.969472,-90.035188,29.969472",
     "geom:latitude":29.969472,
     "geom:longitude":-90.035188,
@@ -25,12 +30,13 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866095,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866089
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866089,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":85866095,
             "region_id":85688735,
             "venue_id":840271849
         }
     ],
     "wof:id":840271849,
-    "wof:lastmodified":1466542168,
+    "wof:lastmodified":1486688370,
     "wof:name":"Rock of Ages Church",
-    "wof:parent_id":85866089,
+    "wof:parent_id":85866095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

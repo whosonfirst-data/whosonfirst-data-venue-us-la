@@ -2,14 +2,20 @@
   "id": 840201765,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 Harrell Dr Lafayette LA 70503",
+    "addr:housenumber":"335",
+    "addr:postcode":"70503",
+    "addr:street":"Harrell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.062971,30.179544,-92.062971,30.179544",
     "geom:latitude":30.179544,
     "geom:longitude":-92.062971,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"335 Harrell Dr",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081919,
         85865249
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XKtKo9A1NzcPERy80VSga_30.179544_-92.062971@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463523392,
-    "wof:geomhash":"0341e3f7fedb18a509ae381f818e37a1",
+    "wof:geomhash":"b62f8ab7537e77ab0d5ea6847bf3bdba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":840201765,
-    "wof:lastmodified":1466541492,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",

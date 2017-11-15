@@ -2,14 +2,20 @@
   "id": 840309087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Lindberg Dr Slidell LA 70458",
+    "addr:housenumber":"1400",
+    "addr:postcode":"70458",
+    "addr:street":"Lindberg Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.754048,30.282458,-89.754048,30.282458",
     "geom:latitude":30.282458,
     "geom:longitude":-89.754048,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 Lindberg Dr",
     "sg:city":"Slidell",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082453,
         85810457
     ],
+    "wof:brand_id":1125153511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CvtTbWOU8UmzzsyTNXZDc_30.282458_-89.754048@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526951,
-    "wof:geomhash":"599fcd5e20e74aabba220c216ed2e450",
+    "wof:geomhash":"0d8403721988cddc7106b8d47f7f7e52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840309087,
-    "wof:lastmodified":1466542694,
+    "wof:lastmodified":1510698962,
     "wof:name":"Da Vita Inc",
     "wof:parent_id":85810457,
     "wof:placetype":"venue",

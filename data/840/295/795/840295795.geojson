@@ -2,14 +2,20 @@
   "id": 840295795,
   "type": "Feature",
   "properties": {
+    "addr:full":"6570 Youree Dr Shreveport LA 71105",
+    "addr:housenumber":"6570",
+    "addr:postcode":"71105",
+    "addr:street":"Youree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.720116,32.445717,-93.720116,32.445717",
     "geom:latitude":32.445717,
     "geom:longitude":-93.720116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6570 Youree Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":420574929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EuRIbNSwjyuWTEogcZ3Am_32.445717_-93.720116@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463526310,
-    "wof:geomhash":"3e927c1d9cc47d7f0530b79f5a50d973",
+    "wof:geomhash":"d934c62b0f03df3b0a2e30fcb2f68202",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840295795,
-    "wof:lastmodified":1466542559,
+    "wof:lastmodified":1510608691,
     "wof:name":"AAA Insurance",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

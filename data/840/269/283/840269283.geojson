@@ -2,9 +2,14 @@
   "id": 840269283,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Lake Marina Ave New Orleans LA 70124",
+    "addr:housenumber":"300",
+    "addr:postcode":"70124",
+    "addr:street":"Lake Marina Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.119341,30.021315,-90.119341,30.021315",
     "geom:latitude":30.021315,
     "geom:longitude":-90.119341,
@@ -28,7 +33,15 @@
         "psychiatrist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746829,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79UwlKu4qitnd6S5XKpsQa_30.021315_-90.119341@1294127638"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463525144,
     "wof:geomhash":"af1cf7d49896583c5af13c1e43726caa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746829,
+            "region_id":85688735,
+            "venue_id":840269283
+        }
+    ],
     "wof:id":840269283,
-    "wof:lastmodified":1466542080,
+    "wof:lastmodified":1486689069,
     "wof:name":"Nancy R Haslett MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

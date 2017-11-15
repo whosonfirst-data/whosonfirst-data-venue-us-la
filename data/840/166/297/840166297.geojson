@@ -2,9 +2,14 @@
   "id": 840166297,
   "type": "Feature",
   "properties": {
+    "addr:full":"7934 Maple St New Orleans LA 70118",
+    "addr:housenumber":"7934",
+    "addr:postcode":"70118",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.131634,29.943504,-90.131634,29.943504",
     "geom:latitude":29.943504,
     "geom:longitude":-90.131634,
@@ -24,7 +29,15 @@
     "sg:postcode":"70118",
     "sg:province":"LA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746811,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tk6y9vg8LMXY3f57ZTMwo_29.943504_-90.131634@1294127638"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463522570,
     "wof:geomhash":"9e900f6e5ac3b7d70a8728f9ff376647",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "neighbourhood_id":1108746811,
+            "region_id":85688735,
+            "venue_id":840166297
+        }
+    ],
     "wof:id":840166297,
-    "wof:lastmodified":1466541199,
+    "wof:lastmodified":1486689018,
     "wof:name":"Prudential Gardner Realtors",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

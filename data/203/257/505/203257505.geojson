@@ -2,9 +2,14 @@
   "id": 203257505,
   "type": "Feature",
   "properties": {
+    "addr:full":"635 Saint Ann St New Orleans LA 70116",
+    "addr:housenumber":"635",
+    "addr:postcode":"70116",
+    "addr:street":"Saint Ann St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.063286,29.958563,-90.063286,29.958563",
     "geom:latitude":29.958563,
     "geom:longitude":-90.063286,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866105,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866105
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"223da6039f4e06e5c478f291ecf57d5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866105,
             "region_id":85688735,
             "venue_id":203257505
         }
     ],
     "wof:id":203257505,
-    "wof:lastmodified":1466539323,
+    "wof:lastmodified":1486688430,
     "wof:name":"Nawlins Cigar and Coffee",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",

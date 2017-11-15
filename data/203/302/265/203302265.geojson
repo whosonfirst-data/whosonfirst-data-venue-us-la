@@ -2,9 +2,14 @@
   "id": 203302265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Nie Pkwy New Orleans LA 70131",
+    "addr:housenumber":"1600",
+    "addr:postcode":"70131",
+    "addr:street":"Nie Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.005898,29.9373,-90.005898,29.9373",
     "geom:latitude":29.9373,
     "geom:longitude":-90.005898,
@@ -25,10 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746731,
+        102191575,
+        1108739497,
         85633793,
         85948111,
-        102086693
+        102086693,
+        85688735,
+        1108746803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"03bff246160bd338014aadea135f5bc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108739497,
+            "neighbourhood_id":1108746731,
+            "region_id":85688735,
+            "venue_id":203302265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108746803,
+            "neighbourhood_id":1108746731,
             "region_id":85688735,
             "venue_id":203302265
         }
     ],
     "wof:id":203302265,
-    "wof:lastmodified":1466539397,
+    "wof:lastmodified":1486688993,
     "wof:name":"McNaughton E Eean Archt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

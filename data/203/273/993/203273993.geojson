@@ -2,9 +2,14 @@
   "id": 203273993,
   "type": "Feature",
   "properties": {
+    "addr:full":"6746 Chef Menteur Hwy New Orleans LA 70126",
+    "addr:housenumber":"6746",
+    "addr:postcode":"70126",
+    "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.0093,30.011,-90.0093,30.011",
     "geom:latitude":30.011,
     "geom:longitude":-90.0093,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866175,
+        102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,20 @@
     "wof:geomhash":"64b6d266f33be1ff262048fda1211565",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866169,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866175,
             "region_id":85688735,
             "venue_id":203273993
         }
     ],
     "wof:id":203273993,
-    "wof:lastmodified":1466539355,
+    "wof:lastmodified":1486688852,
     "wof:name":"Pro-Audio",
-    "wof:parent_id":85866169,
+    "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

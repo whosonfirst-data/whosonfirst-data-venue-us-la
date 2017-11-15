@@ -2,9 +2,14 @@
   "id": 203258591,
   "type": "Feature",
   "properties": {
+    "addr:full":"1143 Saint Bernard Ave New Orleans LA 70116",
+    "addr:housenumber":"1143",
+    "addr:postcode":"70116",
+    "addr:street":"Saint Bernard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.062798,29.9678,-90.062798,29.9678",
     "geom:latitude":29.9678,
     "geom:longitude":-90.062798,
@@ -25,11 +30,14 @@
     "sg:province":"LA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        1108746737,
+        85866065,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866097
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +47,21 @@
     "wof:geomhash":"cdd5caaae1d23d075132d03dddb4eb67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
-            "neighbourhood_id":85866097,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746737,
+            "neighbourhood_id":85866065,
             "region_id":85688735,
             "venue_id":203258591
         }
     ],
     "wof:id":203258591,
-    "wof:lastmodified":1466539330,
+    "wof:lastmodified":1486689216,
     "wof:name":"King Supermarket",
-    "wof:parent_id":85866097,
+    "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

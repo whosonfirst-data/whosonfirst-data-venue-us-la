@@ -2,14 +2,20 @@
   "id": 840147125,
   "type": "Feature",
   "properties": {
+    "addr:full":"6413 Blueberry St Baton Rouge LA 70806",
+    "addr:housenumber":"6413",
+    "addr:postcode":"70806",
+    "addr:street":"Blueberry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.12448,30.46877,-91.12448,30.46877",
     "geom:latitude":30.46877,
     "geom:longitude":-91.12448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6413 Blueberry St",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087229,
         85876071
     ],
+    "wof:brand_id":1125152965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2db5lDIc5BVMZ06hRjcDed_30.468770_-91.124480@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522182,
-    "wof:geomhash":"aa8b6cf00110ca9e7622bf392ef9caec",
+    "wof:geomhash":"2edcec3d63ebcebc2ee206ed41ecd889",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":840147125,
-    "wof:lastmodified":1466540135,
+    "wof:lastmodified":1510612914,
     "wof:name":"New Zion Baptist Church",
     "wof:parent_id":85876071,
     "wof:placetype":"venue",

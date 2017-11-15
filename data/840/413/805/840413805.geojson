@@ -2,6 +2,10 @@
   "id": 840413805,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Western Ave West Monroe LA 71291",
+    "addr:housenumber":"123",
+    "addr:postcode":"71291",
+    "addr:street":"Western Ave West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":840413805,
-    "wof:lastmodified":1466544805,
+    "wof:lastmodified":1472624837,
     "wof:name":"ABC Electric",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",

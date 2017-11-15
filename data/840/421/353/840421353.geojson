@@ -2,9 +2,14 @@
   "id": 840421353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1307 Lyons St New Orleans LA 70115",
+    "addr:housenumber":"1307",
+    "addr:postcode":"70115",
+    "addr:street":"Lyons St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.107544,29.924538,-90.107544,29.924538",
     "geom:latitude":29.924538,
     "geom:longitude":-90.107544,
@@ -30,12 +35,13 @@
     "sg:website":"www.kingpinbar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866125,
         102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866125
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866125,
             "region_id":85688735,
             "venue_id":840421353
         }
     ],
     "wof:id":840421353,
-    "wof:lastmodified":1466544885,
+    "wof:lastmodified":1486687072,
     "wof:name":"Kingpin",
     "wof:parent_id":85866125,
     "wof:placetype":"venue",

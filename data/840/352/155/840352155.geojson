@@ -2,14 +2,20 @@
   "id": 840352155,
   "type": "Feature",
   "properties": {
+    "addr:full":"6425 Youree Dr Shreveport LA 71105",
+    "addr:housenumber":"6425",
+    "addr:postcode":"71105",
+    "addr:street":"Youree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.721182,32.448276,-93.721182,32.448276",
     "geom:latitude":32.448276,
     "geom:longitude":-93.721182,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6425 Youree Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087235,
         85807711
     ],
+    "wof:brand_id":1125151351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wY56OAfQeUzd9hSRY5B8D_32.448276_-93.721182@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463529023,
-    "wof:geomhash":"18736b13464a4476fe22edf876a1c31a",
+    "wof:geomhash":"ed0b598a641e2de874f4528b82f1a061",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840352155,
-    "wof:lastmodified":1466543434,
+    "wof:lastmodified":1510695180,
     "wof:name":"Charles Schwab & Co",
     "wof:parent_id":85807711,
     "wof:placetype":"venue",

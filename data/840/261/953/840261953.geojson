@@ -2,14 +2,20 @@
   "id": 840261953,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 E Saint Peter St New Iberia LA 70560",
+    "addr:housenumber":"426",
+    "addr:postcode":"70560",
+    "addr:street":"E Saint Peter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.815404,30.000777,-91.815404,30.000777",
     "geom:latitude":30.000777,
     "geom:longitude":-91.815404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"426 E Saint Peter St",
     "sg:city":"New Iberia",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102084881,
         85851347
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_375UK4NOOggT7vg983UpGr_30.000777_-91.815404@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524855,
-    "wof:geomhash":"67574449528f4aaf969903b00f535a34",
+    "wof:geomhash":"7c00226abdec67140152441a0635260b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840261953,
-    "wof:lastmodified":1466542042,
+    "wof:lastmodified":1510696872,
     "wof:name":"Mane Attraction",
     "wof:parent_id":85851347,
     "wof:placetype":"venue",

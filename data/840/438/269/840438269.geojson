@@ -2,14 +2,20 @@
   "id": 840438269,
   "type": "Feature",
   "properties": {
+    "addr:full":"8080 Airline Hwy Baton Rouge LA 70815",
+    "addr:housenumber":"8080",
+    "addr:postcode":"70815",
+    "addr:street":"Airline Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.102667,30.46247,-91.102667,30.46247",
     "geom:latitude":30.46247,
     "geom:longitude":-91.102667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8080 Airline Hwy",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087229,
         85822275
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25jietJz8d1nAET0lv54Ao_30.462470_-91.102667@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532817,
-    "wof:geomhash":"a4dcaa76c0c2d007efbcea8667d4e4d9",
+    "wof:geomhash":"c0f7d5b174273cd0d1fe9b1699554862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840438269,
-    "wof:lastmodified":1466545044,
+    "wof:lastmodified":1510698971,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85822275,
     "wof:placetype":"venue",

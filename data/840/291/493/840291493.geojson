@@ -2,9 +2,14 @@
   "id": 840291493,
   "type": "Feature",
   "properties": {
+    "addr:full":"7228 Warfield St New Orleans LA 70126",
+    "addr:housenumber":"7228",
+    "addr:postcode":"70126",
+    "addr:street":"Warfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.001602,30.01417,-90.001602,30.01417",
     "geom:latitude":30.01417,
     "geom:longitude":-90.001602,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866169,
         102191575,
+        1108739495,
         85633793,
         85948111,
         102086693,
-        85866169
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +54,14 @@
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739495,
             "neighbourhood_id":85866169,
             "region_id":85688735,
             "venue_id":840291493
         }
     ],
     "wof:id":840291493,
-    "wof:lastmodified":1466542583,
+    "wof:lastmodified":1486687805,
     "wof:name":"Budget Landscape",
     "wof:parent_id":85866169,
     "wof:placetype":"venue",

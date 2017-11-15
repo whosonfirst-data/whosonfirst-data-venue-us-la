@@ -2,9 +2,14 @@
   "id": 840428491,
   "type": "Feature",
   "properties": {
+    "addr:full":"4616 Wright Rd New Orleans LA 70128",
+    "addr:housenumber":"4616",
+    "addr:postcode":"70128",
+    "addr:street":"Wright Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.956131,30.023529,-89.956131,30.023529",
     "geom:latitude":30.023529,
     "geom:longitude":-89.956131,
@@ -30,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85866173,
+        102191575,
+        1108739495,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HAPGniZN0TSeXhPBaE1eb_30.023529_-89.956131@1294127638"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463532375,
     "wof:geomhash":"85423aab2b16e43e839b4520984d2950",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739495,
+            "neighbourhood_id":85866173,
+            "region_id":85688735,
+            "venue_id":840428491
+        }
+    ],
     "wof:id":840428491,
-    "wof:lastmodified":1466545218,
+    "wof:lastmodified":1486688746,
     "wof:name":"Johnson's Air Conditioning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85866173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 840110847,
   "type": "Feature",
   "properties": {
+    "addr:full":"7400 Youree Dr Shreveport LA 71105",
+    "addr:housenumber":"7400",
+    "addr:postcode":"71105",
+    "addr:street":"Youree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.716602,32.440514,-93.716602,32.440514",
     "geom:latitude":32.440514,
     "geom:longitude":-93.716602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7400 Youree Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087235,
         85880981
     ],
+    "wof:brand_id":420575241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k0ugvMOcmpAObotY6pfKo_32.440514_-93.716602@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463521445,
-    "wof:geomhash":"512e13a3d328fd5936be0d8ff6d648ea",
+    "wof:geomhash":"b21e84f3e4af534bcf88d6bbe3b73ef2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":840110847,
-    "wof:lastmodified":1466540843,
+    "wof:lastmodified":1510602381,
     "wof:name":"Sam's Club",
     "wof:parent_id":85880981,
     "wof:placetype":"venue",

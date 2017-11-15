@@ -2,9 +2,14 @@
   "id": 840260873,
   "type": "Feature",
   "properties": {
+    "addr:full":"860 S Carrollton Ave New Orleans LA 70118",
+    "addr:housenumber":"860",
+    "addr:postcode":"70118",
+    "addr:street":"S Carrollton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.132484,29.944877,-90.132484,29.944877",
     "geom:latitude":29.944877,
     "geom:longitude":-90.132484,
@@ -27,7 +32,16 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108746795,
+        420784465,
+        102191575,
+        1108739491,
+        85633793,
+        85948111,
+        102086693,
+        85688735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PeXbS7JlBWnSzYo3f2IEH_29.944877_-90.132484@1294127638"
@@ -35,11 +49,23 @@
     "wof:country":"US",
     "wof:created":1463524834,
     "wof:geomhash":"4c506f1c5cdb79b4a4be050b368d7da0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086693,
+            "locality_id":85948111,
+            "macrohood_id":1108739491,
+            "microhood_id":1108746795,
+            "neighbourhood_id":420784465,
+            "region_id":85688735,
+            "venue_id":840260873
+        }
+    ],
     "wof:id":840260873,
-    "wof:lastmodified":1466541985,
+    "wof:lastmodified":1486689239,
     "wof:name":"New Orleans Harrell Stadium",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108746795,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],

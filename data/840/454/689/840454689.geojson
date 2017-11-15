@@ -2,14 +2,20 @@
   "id": 840454689,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 Ryan St Lake Charles LA 70601",
+    "addr:housenumber":"3100",
+    "addr:postcode":"70601",
+    "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218587,30.200368,-93.218587,30.200368",
     "geom:latitude":30.200368,
     "geom:longitude":-93.218587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3100 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081035,
         85853189
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wn9SGrs7xBlP4mLwbPmhb_30.200368_-93.218587@1299784598"
     },
     "wof:country":"US",
     "wof:created":1463533493,
-    "wof:geomhash":"dd1afc0b6fc4a9f3acfc3767ccdc8595",
+    "wof:geomhash":"52e55b7220ef6411f9e26cfe5cd5a7fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":840454689,
-    "wof:lastmodified":1466545418,
+    "wof:lastmodified":1510696976,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",
