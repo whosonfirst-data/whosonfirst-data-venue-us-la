@@ -7,13 +7,16 @@
     "addr:postcode":"71105",
     "addr:street":"Barksdale Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.705796,32.487118,-93.705796,32.487118",
     "geom:latitude":32.487118,
     "geom:longitude":-93.705796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1236 Shreveport Barksdale Hwy",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463527436,
-    "wof:geomhash":"9493bb7f3526bb0bda2ad25de27b1681",
+    "wof:geomhash":"f63e8a44c4898924ba9bc883e479b2ee",
     "wof:hierarchy":[
         {
             "campus_id":102529577,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":840319387,
-    "wof:lastmodified":1472624648,
+    "wof:lastmodified":1510942695,
     "wof:name":"Arbys",
     "wof:parent_id":102529577,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840457781
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.517125,31.345088,-92.517125,31.345088",
     "geom:latitude":31.345088,
     "geom:longitude":-92.517125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6021 Old Boyce Rd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463533569,
-    "wof:geomhash":"a0a7cc066f1a6bb9e9082f68f186ab38",
+    "wof:geomhash":"b9b0b6fd489b790106850332f313c5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840456853,
-    "wof:lastmodified":1472624898,
+    "wof:lastmodified":1510943273,
     "wof:name":"McDonald's",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840090595
+    ],
     "wof:tags":[
         "burger",
         "american"

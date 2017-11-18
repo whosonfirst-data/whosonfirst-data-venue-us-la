@@ -7,13 +7,16 @@
     "addr:postcode":"71303",
     "addr:street":"Old Boyce Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.519782,31.345343,-92.519782,31.345343",
     "geom:latitude":31.345343,
     "geom:longitude":-92.519782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6021 Old Boyce Rd",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463521031,
-    "wof:geomhash":"0bae662cd6ad83f3258ce1dde38f9231",
+    "wof:geomhash":"d2512657972d97716208c28ceba1f32e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":840090595,
-    "wof:lastmodified":1472624409,
+    "wof:lastmodified":1510943273,
     "wof:name":"McDonalds",
     "wof:parent_id":85820213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840456853
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

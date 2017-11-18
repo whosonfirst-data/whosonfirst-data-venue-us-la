@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.270621,30.022928,-90.270621,30.022928",
     "geom:latitude":30.022928,
     "geom:longitude":-90.270621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 W Esplanade Ave",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463531621,
-    "wof:geomhash":"88194b0e2f2d6971fff974c8d2e58eb6",
+    "wof:geomhash":"f932deec258fac09ba0499e2f9b32bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":840409957,
-    "wof:lastmodified":1472624834,
+    "wof:lastmodified":1510941522,
     "wof:name":"LSU Health Care Network",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840185997
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

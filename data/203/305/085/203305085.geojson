@@ -7,13 +7,16 @@
     "addr:postcode":"70360",
     "addr:street":"Martin Luther King Jr Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.755316,29.612459,-90.755316,29.612459",
     "geom:latitude":29.612459,
     "geom:longitude":-90.755316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1731 Martin Luther King Jr Blvd",
     "sg:city":"Houma",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_10FFXk8KUSNePqhmhmEXvA_29.612459_-90.755316@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"ecb511bf0b4f2aaa4047cea6400e707a",
+    "wof:geomhash":"9d8f17ebefb6c8d475d41e8759418cfc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":203305085,
-    "wof:lastmodified":1472624355,
+    "wof:lastmodified":1510944145,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840168065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

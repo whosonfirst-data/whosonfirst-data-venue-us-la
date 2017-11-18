@@ -7,6 +7,7 @@
     "addr:postcode":"70130",
     "addr:street":"Canal St Ste 2600",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.065903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"365 Canal St Ste 2600",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5idQAhIzzOvEw6wgbXOD0N_29.951300_-90.065903@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"98b9c88bc31b392348cc2050f6278197",
+    "wof:geomhash":"933dc824b08a68e0688b2625af8290bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":203285909,
-    "wof:lastmodified":1486688440,
+    "wof:lastmodified":1510941230,
     "wof:name":"Foley & Judell",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840136065
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

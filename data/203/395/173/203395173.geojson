@@ -7,13 +7,16 @@
     "addr:postcode":"71220",
     "addr:street":"E Madison Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.90044,32.781584,-91.90044,32.781584",
     "geom:latitude":32.781584,
     "geom:longitude":-91.90044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1528 E Madison Ave",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
         "sg:id":"SG_2dEEGSW6hUJSAjeejjDyNE_32.781584_-91.900440@1303262947"
     },
     "wof:country":"US",
-    "wof:geomhash":"a359332e4792b2eb5b2eb5677f0c747d",
+    "wof:geomhash":"86f8295236ed05acf383df3db596536a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":203395173,
-    "wof:lastmodified":1472624375,
+    "wof:lastmodified":1510944083,
     "wof:name":"Payless Shoesource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840076951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory",

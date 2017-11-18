@@ -7,13 +7,16 @@
     "addr:postcode":"71129",
     "addr:street":"Financial Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.859955,32.451049,-93.859955,32.451049",
     "geom:latitude":32.451049,
     "geom:longitude":-93.859955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6007 Financial Plz",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_5eRPuiRFEk6CJVGCqhg1j0_32.451049_-93.859955@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce0484de54f113c5fca21436a23cec45",
+    "wof:geomhash":"8643fae28371215e583cc3e6c68cb892",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":203392441,
-    "wof:lastmodified":1472624373,
+    "wof:lastmodified":1510942010,
     "wof:name":"Care Plus Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840358325
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

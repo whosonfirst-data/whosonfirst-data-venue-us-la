@@ -7,13 +7,16 @@
     "addr:postcode":"71101",
     "addr:street":"Travis St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.750532,32.513689,-93.750532,32.513689",
     "geom:latitude":32.513689,
     "geom:longitude":-93.750532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Travis St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463523188,
-    "wof:geomhash":"97e438e2dceb92cb8ef1b3adb104f373",
+    "wof:geomhash":"f49cc31028941dcb7eb835e9d087f020",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":840193675,
-    "wof:lastmodified":1472624498,
+    "wof:lastmodified":1510941546,
     "wof:name":"JPD Energy Inc",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840309467
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "land",

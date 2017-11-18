@@ -7,6 +7,7 @@
     "addr:postcode":"70116",
     "addr:street":"St. Peter St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.064936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"718 St. Peter St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_1bUSQaEaKCwB7gGIVVb4kc_29.958108_-90.064936@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"28052fb079ae612a102e36e4fbf06574",
+    "wof:geomhash":"73dc4305e47ec7aebd30f548b062fa88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":203261345,
-    "wof:lastmodified":1486686874,
+    "wof:lastmodified":1510942144,
     "wof:name":"Pat O'Briens",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840453227
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"70053",
     "addr:street":"Westbank Expy Ste 1105",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.053639,29.911924,-90.053639,29.911924",
     "geom:latitude":29.911924,
     "geom:longitude":-90.053639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"197 Westbank Expy Ste 1105",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_6T7aVKg20YdNMpChkseByy_29.911924_-90.053639@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"05b8cfa09854ce3f41e949d338bd3a48",
+    "wof:geomhash":"2a5bd2a189480dfaaa07164aa90c2d78",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":203189335,
-    "wof:lastmodified":1472624291,
+    "wof:lastmodified":1510942353,
     "wof:name":"Lady Foot Locker",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840169423
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "store"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.755403,29.612355,-90.755403,29.612355",
     "geom:latitude":29.612355,
     "geom:longitude":-90.755403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1731 Martin Luther King Blvd",
     "sg:city":"Houma",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1463522613,
-    "wof:geomhash":"5549be2abb4addf25b25330832117176",
+    "wof:geomhash":"d8da53e22a99ae8465b8d7d80a4d4683",
     "wof:hierarchy":[],
     "wof:id":840168065,
-    "wof:lastmodified":1472624471,
+    "wof:lastmodified":1510944145,
     "wof:name":"Starbucks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203305085
+    ],
     "wof:tags":[
         "shop",
         "coffee"

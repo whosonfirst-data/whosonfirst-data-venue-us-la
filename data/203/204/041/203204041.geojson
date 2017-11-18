@@ -7,13 +7,16 @@
     "addr:postcode":"70056",
     "addr:street":"Whitney Ave Ste 612",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.042142,29.919711,-90.042142,29.919711",
     "geom:latitude":29.919711,
     "geom:longitude":-90.042142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 Whitney Ave Ste 612",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_7TXOZxQIDsf3Vcza1aS8HY_29.919711_-90.042142@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"df089ab919449ed6818400ffc82c70bd",
+    "wof:geomhash":"0db00a82f53228f47b2614bebeed804f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -69,12 +72,14 @@
         }
     ],
     "wof:id":203204041,
-    "wof:lastmodified":1472624307,
+    "wof:lastmodified":1510942803,
     "wof:name":"Ram Capital Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840314807
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",
