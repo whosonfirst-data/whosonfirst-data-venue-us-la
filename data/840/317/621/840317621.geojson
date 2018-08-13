@@ -2,19 +2,25 @@
   "id": 840317621,
   "type": "Feature",
   "properties": {
-    "addr:full":"2030 Constance St New Orleans LA 70130",
+    "addr:city":"New Orleans",
+    "addr:full":"2030 Constance St New Orleans, La 70130",
+    "addr:house_number":"2030",
     "addr:housenumber":"2030",
+    "addr:phone":"+1 504-525-2495",
     "addr:postcode":"70130",
+    "addr:road":"Constance St",
+    "addr:state":"LA",
     "addr:street":"Constance St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.07464,29.929603,-90.07464,29.929603",
-    "geom:latitude":29.929603,
-    "geom:longitude":-90.07464,
+    "geom:bbox":"-90.07446,29.92967,-90.07446,29.92967",
+    "geom:latitude":29.92967,
+    "geom:longitude":-90.07446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2030 Constance St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -32,7 +38,12 @@
         "shrine"
     ],
     "sg:website":"www.seelos.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         85866109,
         102191575,
@@ -44,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200079,
         "sg:id":"SG_0yirbHvPTbqkO2NUUhi10M_29.929603_-90.074640@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463527338,
-    "wof:geomhash":"57c5dd5e2a4e49f910055ab39976bdfa",
+    "wof:geomhash":"b5628529abd027b98bc1e8041852a507",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +74,8 @@
         }
     ],
     "wof:id":840317621,
-    "wof:lastmodified":1486688589,
-    "wof:name":"Blessed Francis Seelos Shire",
+    "wof:lastmodified":1534187159,
+    "wof:name":"Blessed Francis Seelos Shrine",
     "wof:parent_id":85866109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -74,10 +86,10 @@
     ]
 },
   "bbox": [
-    -90.07464,
-    29.929603,
-    -90.07464,
-    29.929603
+    -90.07446,
+    29.92967,
+    -90.07446,
+    29.92967
 ],
-  "geometry": {"coordinates":[-90.07464,29.929603],"type":"Point"}
+  "geometry": {"coordinates":[-90.07446,29.92967],"type":"Point"}
 }

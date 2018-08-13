@@ -2,19 +2,25 @@
   "id": 840340901,
   "type": "Feature",
   "properties": {
-    "addr:full":"917 Conti St New Orleans LA 70112",
+    "addr:city":"New Orleans",
+    "addr:full":"917 Conti St New Orleans, La 70112",
+    "addr:house_number":"917",
     "addr:housenumber":"917",
+    "addr:phone":"+1 504-525-2605",
     "addr:postcode":"70112",
+    "addr:road":"Conti St",
+    "addr:state":"LA",
     "addr:street":"Conti St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.069351,29.957451,-90.069351,29.957451",
-    "geom:latitude":29.957451,
-    "geom:longitude":-90.069351,
+    "geom:bbox":"-90.06945,29.95755,-90.06945,29.95755",
+    "geom:latitude":29.95755,
+    "geom:longitude":-90.06945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"917 Conti St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,7 +35,12 @@
     "sg:postcode":"70112",
     "sg:province":"LA",
     "sg:website":"www.get-waxed.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         85866105,
         102191575,
@@ -41,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200046,
         "sg:id":"SG_4Qu9oD2TPTezZeBj3kq5IO_29.957451_-90.069351@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463528457,
-    "wof:geomhash":"8f51b96d07071c9d9132b4ef0c8dd968",
+    "wof:geomhash":"787f343344101ccc92f2f8ce324ed005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":840340901,
-    "wof:lastmodified":1486688445,
+    "wof:lastmodified":1534187160,
     "wof:name":"Musee Conti Wax Museum",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
@@ -69,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.069351,
-    29.957451,
-    -90.069351,
-    29.957451
+    -90.06945,
+    29.95755,
+    -90.06945,
+    29.95755
 ],
-  "geometry": {"coordinates":[-90.069351,29.957451],"type":"Point"}
+  "geometry": {"coordinates":[-90.06945,29.95755],"type":"Point"}
 }

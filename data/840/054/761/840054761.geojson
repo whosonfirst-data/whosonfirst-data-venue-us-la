@@ -7,6 +7,7 @@
     "addr:postcode":"71107",
     "addr:street":"N Lakeshore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.890942,32.529237,-93.890942,32.529237",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.890942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6511 N Lakeshore Dr",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463520142,
-    "wof:geomhash":"5415cae606a61fbb107bd5ed9784b79b",
+    "wof:geomhash":"fd0c4fde7246d833ce85b81ee9af44ed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":840054761,
-    "wof:lastmodified":1472624359,
+    "wof:lastmodified":1534187158,
     "wof:name":"Ron Carroll Roofing",
     "wof:parent_id":85857989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203380697
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

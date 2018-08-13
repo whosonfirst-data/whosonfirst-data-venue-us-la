@@ -7,6 +7,7 @@
     "addr:postcode":"70006",
     "addr:street":"Houma Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.181686,30.0156,-90.181686,30.0156",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.181686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4224 Houma Blvd",
     "sg:city":"Metairie",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463525831,
-    "wof:geomhash":"e605111b00550299db8cb4c1a0b2cce8",
+    "wof:geomhash":"40324204aa5436d862398e99cab52dad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":840284663,
-    "wof:lastmodified":1472624598,
+    "wof:lastmodified":1534187159,
     "wof:name":"Griffin & McCarthy",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840273571
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

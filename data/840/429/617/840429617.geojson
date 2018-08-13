@@ -7,6 +7,7 @@
     "addr:postcode":"70058",
     "addr:street":"Peters Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.060471,29.851513,-90.060471,29.851513",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.060471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3434 Peters Rd",
     "sg:city":"Harvey",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1463532424,
-    "wof:geomhash":"a82319bb214c48c0e52a71440b7a3d8a",
+    "wof:geomhash":"81d6c999572460747fbd084741d053c0",
     "wof:hierarchy":[],
     "wof:id":840429617,
-    "wof:lastmodified":1472624864,
+    "wof:lastmodified":1534187158,
     "wof:name":"Chet Morrison Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203231951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general",

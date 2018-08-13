@@ -7,6 +7,7 @@
     "addr:postcode":"70520",
     "addr:street":"N University Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.04942,30.315331,-92.04942,30.315331",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.04942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4102 N University Ave",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1463520137,
-    "wof:geomhash":"bb957d2606dcd4fd1018e3388cb012ff",
+    "wof:geomhash":"f98d52fad23291265a23d91d7c46dc1a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":840054553,
-    "wof:lastmodified":1472624357,
+    "wof:lastmodified":1534187157,
     "wof:name":"Papa's Place",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203331129
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

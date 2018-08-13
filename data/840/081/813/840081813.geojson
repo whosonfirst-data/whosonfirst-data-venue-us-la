@@ -2,19 +2,25 @@
   "id": 840081813,
   "type": "Feature",
   "properties": {
-    "addr:full":"2003 Carondelet St New Orleans LA 70130",
+    "addr:city":"New Orleans",
+    "addr:full":"2003 Carondelet St New Orleans, La 70130-5310",
+    "addr:house_number":"2003",
     "addr:housenumber":"2003",
-    "addr:postcode":"70130",
+    "addr:phone":"+1 504-586-7432",
+    "addr:postcode":"70130-5310",
+    "addr:road":"Carondelet St",
+    "addr:state":"LA",
     "addr:street":"Carondelet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.080589,29.935909,-90.080589,29.935909",
-    "geom:latitude":29.935909,
-    "geom:longitude":-90.080589,
+    "geom:bbox":"-90.07999,29.93631,-90.07999,29.93631",
+    "geom:latitude":29.93631,
+    "geom:longitude":-90.07999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2003 Carondelet St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,7 +34,12 @@
     "sg:phone":"+1 504 588 9833",
     "sg:postcode":"70130",
     "sg:province":"LA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         85866121,
         102191575,
@@ -40,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200104,
         "sg:id":"SG_0ayR11ND1fJQiy63CIA1qZ_29.935909_-90.080589@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520729,
-    "wof:geomhash":"d9a1503f72038f38e7e2766fa6e2092d",
+    "wof:geomhash":"418857daf0bd3b74b719370bb2020f97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +70,8 @@
         }
     ],
     "wof:id":840081813,
-    "wof:lastmodified":1486687393,
-    "wof:name":"Mc Kenna Museum Of Art",
+    "wof:lastmodified":1534187158,
+    "wof:name":"Mckenna Museum Of African-American Art",
     "wof:parent_id":85866121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.080589,
-    29.935909,
-    -90.080589,
-    29.935909
+    -90.07999,
+    29.93631,
+    -90.07999,
+    29.93631
 ],
-  "geometry": {"coordinates":[-90.080589,29.935909],"type":"Point"}
+  "geometry": {"coordinates":[-90.07999,29.93631],"type":"Point"}
 }

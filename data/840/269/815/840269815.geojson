@@ -14,6 +14,7 @@
     "geom:longitude":-93.74635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"820 Jordan St",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463525170,
-    "wof:geomhash":"23d1b6df755decf0707fb7a0b83297e3",
+    "wof:geomhash":"850aa2d6c9a9f50225df5bd1263be2bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":840269815,
-    "wof:lastmodified":1472624594,
+    "wof:lastmodified":1534187159,
     "wof:name":"AARP Senior Community Svc",
     "wof:parent_id":85881001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840400549
+    ],
     "wof:tags":[
         "organization",
         "welfare"

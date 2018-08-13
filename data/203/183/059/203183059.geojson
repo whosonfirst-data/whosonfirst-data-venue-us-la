@@ -7,6 +7,7 @@
     "addr:postcode":"70043",
     "addr:street":"E St Bernard Hwy Chalmette",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.954994,29.930764,-89.954994,29.930764",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.954994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1351 E St Bernard Hwy",
     "sg:city":"Chalmette",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_71cxHpBUzFA7Ant0TaCdPH_29.930764_-89.954994@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d77122474914448fc524b5d8918b583",
+    "wof:geomhash":"6adb54001ef8f82c28e5fe1d2821bb52",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":203183059,
-    "wof:lastmodified":1472624287,
+    "wof:lastmodified":1534187158,
     "wof:name":"Wherehouse Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203182637
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

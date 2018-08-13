@@ -15,6 +15,7 @@
     "geom:longitude":-90.09167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 Tulane Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463523612,
-    "wof:geomhash":"40e17847353e9981cd22b74bc21abe3a",
+    "wof:geomhash":"c837a15decf47ba3011a89a0a7575ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":840209275,
-    "wof:lastmodified":1486688874,
+    "wof:lastmodified":1534187159,
     "wof:name":"New Orleans Coroner",
     "wof:parent_id":85869483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840406453
+    ],
     "wof:tags":[
         "village"
     ]

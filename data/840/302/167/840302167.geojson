@@ -7,6 +7,7 @@
     "addr:postcode":"70130",
     "addr:street":"Camp St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.069559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"500 Camp St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463526633,
-    "wof:geomhash":"f8eef1486e3e74f9f3c20ad136753760",
+    "wof:geomhash":"3b5cf971b93e24a38e2f8cc5f2860f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":840302167,
-    "wof:lastmodified":1486689181,
+    "wof:lastmodified":1534187159,
     "wof:name":"Adrian G Duplantier",
     "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840346751
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

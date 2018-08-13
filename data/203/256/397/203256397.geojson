@@ -2,19 +2,25 @@
   "id": 203256397,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Esplanade Ave New Orleans LA 70116",
+    "addr:city":"New Orleans",
+    "addr:full":"400 Esplanade Ave New Orleans, La 70116",
+    "addr:house_number":"400",
     "addr:housenumber":"400",
+    "addr:phone":"+1 504-568-6968",
     "addr:postcode":"70116",
+    "addr:road":"Esplanade Ave",
+    "addr:state":"LA",
     "addr:street":"Esplanade Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.057825,29.961401,-90.057825,29.961401",
-    "geom:latitude":29.961401,
-    "geom:longitude":-90.057825,
+    "geom:bbox":"-90.05804,29.96189,-90.05804,29.96189",
+    "geom:latitude":29.96189,
+    "geom:longitude":-90.05804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"400 Esplanade Ave",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,7 +35,12 @@
     "sg:postcode":"70116",
     "sg:province":"LA",
     "sg:website":"lsm.crt.state.la.us/Mintex.htm",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         85866105,
         102191575,
@@ -41,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200017,
         "sg:id":"SG_3jLtVNUlT8Fpo7OCA5eVXg_29.961401_-90.057825@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b9a9a6fbeaf03f0c6dfbe3694e5dcf0",
+    "wof:geomhash":"08fd052961c9d4ecc0e994adfaaccf57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +70,8 @@
         }
     ],
     "wof:id":203256397,
-    "wof:lastmodified":1486688451,
-    "wof:name":"Old U.S. Mint",
+    "wof:lastmodified":1534187158,
+    "wof:name":"Old Us Mint",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.057825,
-    29.961401,
-    -90.057825,
-    29.961401
+    -90.05804,
+    29.96189,
+    -90.05804,
+    29.96189
 ],
-  "geometry": {"coordinates":[-90.05782499999999,29.961401],"type":"Point"}
+  "geometry": {"coordinates":[-90.05804000000001,29.96189],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 840441541,
   "type": "Feature",
   "properties": {
-    "addr:full":"13034 River Rd Destrehan LA 70047",
+    "addr:city":"Destrehan",
+    "addr:full":"13034 River Rd Destrehan, La 70047-5202",
+    "addr:house_number":"13034",
     "addr:housenumber":"13034",
-    "addr:postcode":"70047",
+    "addr:phone":"+1 985-764-9315",
+    "addr:postcode":"70047-5202",
+    "addr:road":"River Rd",
+    "addr:state":"LA",
     "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.370952,29.947357,-90.370952,29.947357",
-    "geom:latitude":29.947357,
-    "geom:longitude":-90.370952,
+    "geom:bbox":"-90.36795,29.9461,-90.36795,29.9461",
+    "geom:latitude":29.9461,
+    "geom:longitude":-90.36795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"13034 River Rd",
     "sg:city":"Destrehan",
     "sg:classifiers":[
@@ -31,18 +37,22 @@
         "historical"
     ],
     "sg:website":"www.destrehanplantation.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200232,
         "sg:id":"SG_4Pu2DU1jCqcMAS6IZJilv9_29.947357_-90.370952@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532961,
-    "wof:geomhash":"4d4e5f7d464525bfb5d17e6cf9bf745f",
+    "wof:geomhash":"bf2e52f4e8741e10dcf0a26622327d89",
     "wof:hierarchy":[],
     "wof:id":840441541,
-    "wof:lastmodified":1472624882,
+    "wof:lastmodified":1534187160,
     "wof:name":"River Road Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -54,10 +64,10 @@
     ]
 },
   "bbox": [
-    -90.370952,
-    29.947357,
-    -90.370952,
-    29.947357
+    -90.36795,
+    29.9461,
+    -90.36795,
+    29.9461
 ],
-  "geometry": {"coordinates":[-90.370952,29.947357],"type":"Point"}
+  "geometry": {"coordinates":[-90.36794999999999,29.9461],"type":"Point"}
 }

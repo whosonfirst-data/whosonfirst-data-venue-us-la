@@ -2,18 +2,24 @@
   "id": 840374647,
   "type": "Feature",
   "properties": {
-    "addr:full":"3806 Linwood Ave Shreveport LA 71103",
+    "addr:city":"Shreveport",
+    "addr:full":"3806 Linwood Ave Shreveport, La 71103-4518",
+    "addr:house_number":"3806",
     "addr:housenumber":"3806",
-    "addr:postcode":"71103",
+    "addr:phone":"+1 318-227-1971",
+    "addr:postcode":"71103-4518",
+    "addr:road":"Linwood Ave",
+    "addr:state":"LA",
     "addr:street":"Linwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.762929,32.472973,-93.762929,32.472973",
-    "geom:latitude":32.472973,
-    "geom:longitude":-93.762929,
+    "geom:bbox":"-93.76294,32.47359,-93.76294,32.47359",
+    "geom:latitude":32.47359,
+    "geom:longitude":-93.76294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3806 Linwood Ave",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -32,7 +38,12 @@
         "arts",
         "information"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526755,
+        102526807,
+        102529577
+    ],
     "wof:belongsto":[
         85688735,
         102191575,
@@ -43,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200301,
         "sg:id":"SG_2y1RFyHxivg9J0jJibO6j0_32.472973_-93.762929@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463530116,
-    "wof:geomhash":"20b783edb5a9e3c952458e113b9f67be",
+    "wof:geomhash":"a8a2f87bbb12fb8d25b012bacd30d0f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":840374647,
-    "wof:lastmodified":1472624757,
+    "wof:lastmodified":1534187160,
     "wof:name":"Pamoja Art Society",
     "wof:parent_id":85881005,
     "wof:placetype":"venue",
@@ -74,10 +86,10 @@
     ]
 },
   "bbox": [
-    -93.762929,
-    32.472973,
-    -93.762929,
-    32.472973
+    -93.76294,
+    32.47359,
+    -93.76294,
+    32.47359
 ],
-  "geometry": {"coordinates":[-93.762929,32.472973],"type":"Point"}
+  "geometry": {"coordinates":[-93.76294,32.47359],"type":"Point"}
 }

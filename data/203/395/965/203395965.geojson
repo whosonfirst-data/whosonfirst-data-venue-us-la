@@ -14,6 +14,7 @@
     "geom:longitude":-91.90044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2057 E Madison Ave",
     "sg:city":"Bastrop",
     "sg:classifiers":[
@@ -56,7 +57,7 @@
         "sg:id":"SG_3n7oHsC07NWIMfOj89vHjU_32.781584_-91.900440@1303262947"
     },
     "wof:country":"US",
-    "wof:geomhash":"a359332e4792b2eb5b2eb5677f0c747d",
+    "wof:geomhash":"86f8295236ed05acf383df3db596536a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":203395965,
-    "wof:lastmodified":1472624378,
+    "wof:lastmodified":1534187158,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840456545
+    ],
     "wof:tags":[
         "delivery",
         "take",

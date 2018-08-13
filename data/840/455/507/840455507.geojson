@@ -14,6 +14,7 @@
     "geom:longitude":-91.112501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7474 Corporate Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463533521,
-    "wof:geomhash":"abb83e5cb8ec439f2b73e90a18d17ccc",
+    "wof:geomhash":"f4ddc02aa0a3e8370777fce09e55a189",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":840455507,
-    "wof:lastmodified":1472624895,
+    "wof:lastmodified":1534187160,
     "wof:name":"Louisiana Pizza Kitchen",
     "wof:parent_id":85827391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840352633
+    ],
     "wof:tags":[
         "american",
         "pizza"

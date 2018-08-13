@@ -2,18 +2,24 @@
   "id": 840431375,
   "type": "Feature",
   "properties": {
-    "addr:full":"624 Williams Blvd Kenner LA 70062",
+    "addr:city":"Kenner",
+    "addr:full":"624 Williams Blvd Kenner, La 70062",
+    "addr:house_number":"624",
     "addr:housenumber":"624",
+    "addr:phone":"+1 504-468-7293",
     "addr:postcode":"70062",
+    "addr:road":"Williams Blvd",
+    "addr:state":"LA",
     "addr:street":"Williams Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.245315,29.977658,-90.245315,29.977658",
-    "geom:latitude":29.977658,
-    "geom:longitude":-90.245315,
+    "geom:bbox":"-90.24229,29.98951,-90.24229,29.98951",
+    "geom:latitude":29.98951,
+    "geom:longitude":-90.24229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"624 Williams Blvd",
     "sg:city":"Kenner",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102525981
+    ],
     "wof:belongsto":[
         85688735,
         102191575,
@@ -41,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200403,
         "sg:id":"SG_3V6qZf4N2s9pEp2pFsXPFA_29.977658_-90.245315@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463532508,
-    "wof:geomhash":"67acbe1fdbc1c37bc374a61a9cc3117c",
+    "wof:geomhash":"73ca196fbe5b0ca2560161e4c74db889",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":840431375,
-    "wof:lastmodified":1472624858,
-    "wof:name":"Kenner Community Svc",
+    "wof:lastmodified":1534187160,
+    "wof:name":"Kenner Louisiana",
     "wof:parent_id":85842683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -70,10 +81,10 @@
     ]
 },
   "bbox": [
-    -90.245315,
-    29.977658,
-    -90.245315,
-    29.977658
+    -90.24229,
+    29.98951,
+    -90.24229,
+    29.98951
 ],
-  "geometry": {"coordinates":[-90.24531500000001,29.977658],"type":"Point"}
+  "geometry": {"coordinates":[-90.24229,29.98951],"type":"Point"}
 }

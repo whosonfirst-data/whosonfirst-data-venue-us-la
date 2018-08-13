@@ -2,19 +2,25 @@
   "id": 203293561,
   "type": "Feature",
   "properties": {
-    "addr:full":"National Park Service, U.S. Dept. of the Interior 419 Decatur Street New Orleans LA 70130",
+    "addr:city":"New Orleans",
+    "addr:full":"419 Decatur Street New Orleans, La 70130",
+    "addr:house_number":"419",
     "addr:housenumber":"419",
+    "addr:phone":"+1 504-589-4806",
     "addr:postcode":"70130",
+    "addr:road":"Decatur Street",
+    "addr:state":"LA",
     "addr:street":"Decatur Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.064833,29.954526,-90.064833,29.954526",
-    "geom:latitude":29.954526,
-    "geom:longitude":-90.064833,
+    "geom:bbox":"-90.0649,29.95456,-90.0649,29.95456",
+    "geom:latitude":29.95456,
+    "geom:longitude":-90.0649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"National Park Service, U.S. Dept. of the Interior 419 Decatur Street",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -33,7 +39,12 @@
         "historical"
     ],
     "sg:website":"www.nps.gov/jazz",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         85866105,
         102191575,
@@ -45,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200437,
         "sg:id":"SG_25oX4H6iXU4tUCVblPm3Nu_29.954526_-90.064833@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"12e6b2abd0ba57a6b1260a811e8fba81",
+    "wof:geomhash":"e018b975230ffd81f7ff5723bb157b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":203293561,
-    "wof:lastmodified":1486686876,
+    "wof:lastmodified":1534187158,
     "wof:name":"New Orleans Jazz National Historical Park",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
@@ -75,10 +87,10 @@
     ]
 },
   "bbox": [
-    -90.064833,
-    29.954526,
-    -90.064833,
-    29.954526
+    -90.0649,
+    29.95456,
+    -90.0649,
+    29.95456
 ],
-  "geometry": {"coordinates":[-90.06483299999999,29.954526],"type":"Point"}
+  "geometry": {"coordinates":[-90.06489999999999,29.95456],"type":"Point"}
 }

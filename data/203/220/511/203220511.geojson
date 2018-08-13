@@ -14,6 +14,7 @@
     "geom:longitude":-90.042297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 Whitney Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
         "sg:id":"SG_2zkhTRBYAhy6uBVwz7iO61_29.919901_-90.042297@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"170568dc836b3bcfdfe5d1b1ad26e41c",
+    "wof:geomhash":"2aca4b555ccbd087a10de761203ab837",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":203220511,
-    "wof:lastmodified":1472624322,
+    "wof:lastmodified":1534187158,
     "wof:name":"Bourgeois & Associates Mortgage Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840374645
+    ],
     "wof:tags":[
         "broker",
         "mortgage"

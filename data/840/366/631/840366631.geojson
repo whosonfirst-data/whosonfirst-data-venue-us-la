@@ -7,6 +7,7 @@
     "addr:postcode":"70520",
     "addr:street":"N University Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.049425,30.316706,-92.049425,30.316706",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.049425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4306 N University Ave",
     "sg:city":"Carencro",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463529714,
-    "wof:geomhash":"1f57b712123c92d80376eaae5b18df32",
+    "wof:geomhash":"079e987f109b0cdf27317b714a272a8d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":840366631,
-    "wof:lastmodified":1472624740,
+    "wof:lastmodified":1534187157,
     "wof:name":"Michele Lavergne DDS",
     "wof:parent_id":85822057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203331291
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

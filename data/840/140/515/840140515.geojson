@@ -2,18 +2,24 @@
   "id": 840140515,
   "type": "Feature",
   "properties": {
-    "addr:full":"2006 Riverside Dr Monroe LA 71201",
+    "addr:city":"Monroe",
+    "addr:full":"2006 Riverside Drive Monroe, La 71201",
+    "addr:house_number":"2006",
     "addr:housenumber":"2006",
+    "addr:phone":"+1 318-387-5281",
     "addr:postcode":"71201",
+    "addr:road":"Riverside Drive",
+    "addr:state":"LA",
     "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.13157,32.519525,-92.13157,32.519525",
-    "geom:latitude":32.519525,
-    "geom:longitude":-92.13157,
+    "geom:bbox":"-92.13119,32.51877,-92.13119,32.51877",
+    "geom:latitude":32.51877,
+    "geom:longitude":-92.13119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2006 Riverside Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"71201",
     "sg:province":"LA",
     "sg:website":"www.bmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531021
+    ],
     "wof:belongsto":[
         85688735,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200084,
         "sg:id":"SG_17IP8MOAJjp8UVnb2Td3XG_32.519525_-92.131570@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463522057,
-    "wof:geomhash":"925196f3b12a69c81d88e300b77d5ebc",
+    "wof:geomhash":"8067b8368d03e73587113fbed1702606",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":840140515,
-    "wof:lastmodified":1472624454,
-    "wof:name":"Biedenharn Museum & Gardens",
+    "wof:lastmodified":1534187158,
+    "wof:name":"Biedenharn Museum And Garden",
     "wof:parent_id":85840783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.13157,
-    32.519525,
-    -92.13157,
-    32.519525
+    -92.13119,
+    32.51877,
+    -92.13119,
+    32.51877
 ],
-  "geometry": {"coordinates":[-92.13157,32.519525],"type":"Point"}
+  "geometry": {"coordinates":[-92.13119,32.51877],"type":"Point"}
 }

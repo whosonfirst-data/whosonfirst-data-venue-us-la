@@ -7,6 +7,7 @@
     "addr:postcode":"70056",
     "addr:street":"Whitney Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.042297,29.919901,-90.042297,29.919901",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.042297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"401 Whitney Ave",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_3H3LOUA0ipGIQdxLksBeAJ_29.919901_-90.042297@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"170568dc836b3bcfdfe5d1b1ad26e41c",
+    "wof:geomhash":"2aca4b555ccbd087a10de761203ab837",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":203208809,
-    "wof:lastmodified":1472624313,
+    "wof:lastmodified":1534187158,
     "wof:name":"Sun Financial Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840144999
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

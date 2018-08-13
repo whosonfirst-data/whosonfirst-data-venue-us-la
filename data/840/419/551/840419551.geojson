@@ -7,6 +7,7 @@
     "addr:postcode":"70127",
     "addr:street":"Read Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-89.972217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5640 Read Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463532007,
-    "wof:geomhash":"ade7d16133d50a3bfcbf1ec89f86c1ae",
+    "wof:geomhash":"6657a48034b68183e072910345a09ede",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":840419551,
-    "wof:lastmodified":1486688241,
+    "wof:lastmodified":1534187158,
     "wof:name":"Washington Bryan Sr & Assoc",
     "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203280387
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -2,18 +2,24 @@
   "id": 840034819,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Cedar St Madisonville LA 70447",
+    "addr:city":"Madisonville",
+    "addr:full":"201 Cedar St Madisonville, La 70447",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
+    "addr:phone":"+1 985-845-2100",
     "addr:postcode":"70447",
+    "addr:road":"Cedar St",
+    "addr:state":"LA",
     "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.158926,30.40983,-90.158926,30.40983",
-    "geom:latitude":30.40983,
-    "geom:longitude":-90.158926,
+    "geom:bbox":"-90.15885,30.40879,-90.15885,30.40879",
+    "geom:latitude":30.40879,
+    "geom:longitude":-90.15885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 Cedar St",
     "sg:city":"Madisonville",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200044,
         "sg:id":"SG_0wLP0gJWJlK1U2INFZbDqt_30.409830_-90.158926@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463519729,
-    "wof:geomhash":"a06dc640f21ac25c756cdc89589250f0",
+    "wof:geomhash":"075f27a6c1fc37c8d66a1ef86b111b6e",
     "wof:hierarchy":[],
     "wof:id":840034819,
-    "wof:lastmodified":1472624343,
+    "wof:lastmodified":1534187160,
     "wof:name":"Madisonville Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -90.158926,
-    30.40983,
-    -90.158926,
-    30.40983
+    -90.15885,
+    30.40879,
+    -90.15885,
+    30.40879
 ],
-  "geometry": {"coordinates":[-90.15892599999999,30.40983],"type":"Point"}
+  "geometry": {"coordinates":[-90.15885,30.40879],"type":"Point"}
 }

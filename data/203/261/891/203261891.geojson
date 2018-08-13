@@ -15,6 +15,7 @@
     "geom:longitude":-90.065697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"519 Frenchmen St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_02JA847bqb8I4oy67iFLvd_29.969500_-90.065697@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"905c01285a29a8d3cdc71c8d8f8c4929",
+    "wof:geomhash":"bea2e0d68b04fcd013cd55df3cab7cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":203261891,
-    "wof:lastmodified":1486689210,
+    "wof:lastmodified":1534187158,
     "wof:name":"Frenchmen Street Orleans",
     "wof:parent_id":1108746737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840131797
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -14,6 +14,7 @@
     "geom:longitude":-92.01489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Asma Blvd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463527132,
-    "wof:geomhash":"07fc7743518a6d7c1c5a1e7666361ca3",
+    "wof:geomhash":"cb350068c146524b9048492d18ff058d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":840313009,
-    "wof:lastmodified":1472624630,
+    "wof:lastmodified":1534187159,
     "wof:name":"Magnum Mud Equipment Inc",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840267485
+    ],
     "wof:tags":[
         "oil",
         "well",

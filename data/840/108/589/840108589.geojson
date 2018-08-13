@@ -7,6 +7,7 @@
     "addr:postcode":"70130",
     "addr:street":"Poydras St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.070094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"650 Poydras St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1463521402,
-    "wof:geomhash":"0faf080a0a28863d3a6e332a4515cfd2",
+    "wof:geomhash":"161ca7a406dbae8e8c01b3333785163f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":840108589,
-    "wof:lastmodified":1486689171,
+    "wof:lastmodified":1534187159,
     "wof:name":"Sooner Pipe & Supply Corp",
     "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840301381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "field",

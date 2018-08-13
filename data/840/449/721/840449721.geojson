@@ -2,19 +2,25 @@
   "id": 840449721,
   "type": "Feature",
   "properties": {
-    "addr:full":"537 S Peters St New Orleans LA 70130",
+    "addr:city":"New Orleans",
+    "addr:full":"537 S Peters St New Orleans, La 70130-1628",
+    "addr:house_number":"537",
     "addr:housenumber":"537",
-    "addr:postcode":"70130",
+    "addr:phone":"+1 504-522-7294",
+    "addr:postcode":"70130-1628",
+    "addr:road":"S Peters St",
+    "addr:state":"LA",
     "addr:street":"S Peters St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.065697,29.9478,-90.065697,29.9478",
-    "geom:latitude":29.9478,
-    "geom:longitude":-90.065697,
+    "geom:bbox":"-90.06596,29.94799,-90.06596,29.94799",
+    "geom:latitude":29.94799,
+    "geom:longitude":-90.06596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"537 S Peters St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -28,7 +34,12 @@
     "sg:phone":"+1 504 522 7294",
     "sg:postcode":"70130",
     "sg:province":"LA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         1108746615,
         85831571,
@@ -41,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200243,
         "sg:id":"SG_2dA2WUHcf74PXAltGSngei_29.947677_-90.065949@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533291,
-    "wof:geomhash":"6d7ae04ecce5ebdf64f84eabeed99159",
+    "wof:geomhash":"d9bef04f0db1da9f464cf2b7579b02c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +72,8 @@
         }
     ],
     "wof:id":840449721,
-    "wof:lastmodified":1486689159,
-    "wof:name":"American Italian Renaissance Foundation",
+    "wof:lastmodified":1534187160,
+    "wof:name":"American-Italian Renaissance Foundation",
     "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -70,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.065697,
-    29.9478,
-    -90.065697,
-    29.9478
+    -90.06596,
+    29.94799,
+    -90.06596,
+    29.94799
 ],
-  "geometry": {"coordinates":[-90.065697,29.9478],"type":"Point"}
+  "geometry": {"coordinates":[-90.06596,29.94799],"type":"Point"}
 }

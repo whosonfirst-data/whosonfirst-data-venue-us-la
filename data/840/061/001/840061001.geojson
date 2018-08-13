@@ -7,6 +7,7 @@
     "addr:postcode":"70503",
     "addr:street":"Ambassador Caffery Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.070096,30.174568,-92.070096,30.174568",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.070096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3639 Ambassador Caffery Pkwy",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1463520298,
-    "wof:geomhash":"b38a4cee77e5a8570626592de6bb76d4",
+    "wof:geomhash":"b7988853064770886d824fd91c5f39e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":840061001,
-    "wof:lastmodified":1472624366,
+    "wof:lastmodified":1534187159,
     "wof:name":"Michael Schilling",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840288061
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

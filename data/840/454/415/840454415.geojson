@@ -7,6 +7,7 @@
     "addr:postcode":"70510",
     "addr:street":"Veterans Memorial Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-92.126936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"720 Veterans Memorial Dr",
     "sg:city":"Abbeville",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"9307146a1a785cd508ed06ab58088309",
     "wof:hierarchy":[],
     "wof:id":840454415,
-    "wof:lastmodified":1511321168,
+    "wof:lastmodified":1534187158,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840078471
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -2,19 +2,25 @@
   "id": 840067369,
   "type": "Feature",
   "properties": {
-    "addr:full":"420 Julia St New Orleans LA 70130",
+    "addr:city":"New Orleans",
+    "addr:full":"420 Julia St New Orleans, La 70156-6128",
+    "addr:house_number":"420",
     "addr:housenumber":"420",
-    "addr:postcode":"new;70130",
+    "addr:phone":"+1 504-523-1357",
+    "addr:postcode":"70156-6128",
+    "addr:road":"Julia St",
+    "addr:state":"LA",
     "addr:street":"Julia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.067793,29.944914,-90.067793,29.944914",
-    "geom:latitude":29.944914,
-    "geom:longitude":-90.067793,
+    "geom:bbox":"-90.07662,29.94845,-90.07662,29.94845",
+    "geom:latitude":29.94845,
+    "geom:longitude":-90.07662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"420 Julia St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,7 +35,12 @@
     "sg:postcode":"70130",
     "sg:province":"LA",
     "sg:website":"www.lcm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         1108746615,
         85831571,
@@ -42,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200254,
         "sg:id":"SG_5jZB8n7KxuLqwB7EEbc3O2_29.944914_-90.067793@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520424,
-    "wof:geomhash":"ff16904a2d2b19187a861d3404c8227c",
+    "wof:geomhash":"747f0592353829640dd59cc6444bbcaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +73,8 @@
         }
     ],
     "wof:id":840067369,
-    "wof:lastmodified":1486689186,
-    "wof:name":"Louisiana Children's Museum",
+    "wof:lastmodified":1534187158,
+    "wof:name":"Louisiana Children'S Museum",
     "wof:parent_id":1108746615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -71,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.067793,
-    29.944914,
-    -90.067793,
-    29.944914
+    -90.07662,
+    29.94845,
+    -90.07662,
+    29.94845
 ],
-  "geometry": {"coordinates":[-90.06779299999999,29.944914],"type":"Point"}
+  "geometry": {"coordinates":[-90.07662000000001,29.94845],"type":"Point"}
 }

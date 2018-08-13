@@ -2,18 +2,24 @@
   "id": 840235721,
   "type": "Feature",
   "properties": {
-    "addr:full":"3015 Greenwood Rd Shreveport LA 71109",
+    "addr:city":"Shreveport",
+    "addr:full":"3015 Greenwood Rd Shreveport, La 71133-8356",
+    "addr:house_number":"3015",
     "addr:housenumber":"3015",
-    "addr:postcode":"71109",
+    "addr:phone":"+1 318-632-2020",
+    "addr:postcode":"71133-8356",
+    "addr:road":"Greenwood Rd",
+    "addr:state":"LA",
     "addr:street":"Greenwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.786294,32.48029,-93.786294,32.48029",
-    "geom:latitude":32.48029,
-    "geom:longitude":-93.786294,
+    "geom:bbox":"-93.78541,32.48067,-93.78541,32.48067",
+    "geom:latitude":32.48067,
+    "geom:longitude":-93.78541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3015 Greenwood Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[
@@ -27,7 +33,12 @@
     "sg:phone":"+1 318 632 2020",
     "sg:postcode":"71109",
     "sg:province":"LA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526755,
+        102526807,
+        102529577
+    ],
     "wof:belongsto":[
         85688735,
         102191575,
@@ -38,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200037,
         "sg:id":"SG_5g0pqCvxEtjoVXJvdwUanc_32.480290_-93.786294@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463524264,
-    "wof:geomhash":"f41d09fea80b74c3a68848c9de3eb585",
+    "wof:geomhash":"91c7b85083f35f570dc51d465024b2aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +67,8 @@
         }
     ],
     "wof:id":840235721,
-    "wof:lastmodified":1472624548,
-    "wof:name":"Exhibit Museum",
+    "wof:lastmodified":1534187159,
+    "wof:name":"Louisiana State Exhibit Museum",
     "wof:parent_id":85881003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -65,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.786294,
-    32.48029,
-    -93.786294,
-    32.48029
+    -93.78541,
+    32.48067,
+    -93.78541,
+    32.48067
 ],
-  "geometry": {"coordinates":[-93.786294,32.48029],"type":"Point"}
+  "geometry": {"coordinates":[-93.78541,32.48067],"type":"Point"}
 }

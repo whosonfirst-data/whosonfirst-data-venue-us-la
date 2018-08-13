@@ -7,6 +7,7 @@
     "addr:postcode":"70056",
     "addr:street":"Stumpf Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.036697,29.911301,-90.036697,29.911301",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.036697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1799 Stumpf Blvd",
     "sg:city":"Terrytown",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_7BjB9AWn23XUb73EmuFP3r_29.911301_-90.036697@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"c882d1701d6514b20c2fdb5af84bd953",
+    "wof:geomhash":"38238c7cd70029aead0753bd2fbc9f21",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +58,15 @@
         }
     ],
     "wof:id":203203823,
-    "wof:lastmodified":1472624311,
+    "wof:lastmodified":1534187159,
     "wof:name":"Westbank Kumon Math and Reading Center",
     "wof:parent_id":85869723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840010831,
+        840302621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tutoring"

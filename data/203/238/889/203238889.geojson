@@ -7,6 +7,7 @@
     "addr:postcode":"70075",
     "addr:street":"Le Blanc Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-89.923401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1910 Le Blanc Rd",
     "sg:city":"Meraux",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
         "sg:id":"SG_2oyXG76bRYzej22Le9VnbU_29.930799_-89.923401@1303262944"
     },
     "wof:country":"US",
-    "wof:geomhash":"e87379a9bb1c031f7bedf7d1cd6d7ba9",
+    "wof:geomhash":"bf9b70a5a4b6e12da4345b966319fa79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":203238889,
-    "wof:lastmodified":1491910648,
+    "wof:lastmodified":1534187159,
     "wof:name":"Mel's Car Care",
     "wof:parent_id":85850917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840329719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

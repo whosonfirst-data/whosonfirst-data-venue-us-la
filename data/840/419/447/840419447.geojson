@@ -7,6 +7,7 @@
     "addr:postcode":"70438",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.147542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1621 Washington St",
     "sg:city":"Franklinton",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"6c347658bd6d37f6a8acba57a695ad5e",
     "wof:hierarchy":[],
     "wof:id":840419447,
-    "wof:lastmodified":1511324432,
+    "wof:lastmodified":1534187160,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840453901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

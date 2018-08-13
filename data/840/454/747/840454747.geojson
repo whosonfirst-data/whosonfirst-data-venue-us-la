@@ -7,6 +7,7 @@
     "addr:postcode":"70605",
     "addr:street":"Ryan St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-93.218535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4212 Ryan St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":840454747,
-    "wof:lastmodified":1512142921,
+    "wof:lastmodified":1534187158,
     "wof:name":"McDonald's",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840170695
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

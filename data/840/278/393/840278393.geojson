@@ -2,19 +2,25 @@
   "id": 840278393,
   "type": "Feature",
   "properties": {
-    "addr:full":"7 Bamboo Rd New Orleans LA 70124",
+    "addr:city":"New Orleans",
+    "addr:full":"7 Bamboo Road New Orleans, La 70124",
+    "addr:house_number":"7",
     "addr:housenumber":"7",
+    "addr:phone":"+1 504-486-7740",
     "addr:postcode":"70124",
+    "addr:road":"Bamboo Road",
+    "addr:state":"LA",
     "addr:street":"Bamboo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.12397,29.979025,-90.12397,29.979025",
-    "geom:latitude":29.979025,
-    "geom:longitude":-90.12397,
+    "geom:bbox":"-90.12413,29.97627,-90.12413,29.97627",
+    "geom:latitude":29.97627,
+    "geom:longitude":-90.12413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7 Bamboo Rd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -29,7 +35,12 @@
     "sg:postcode":"70124",
     "sg:province":"LA",
     "sg:website":"www.longuevue.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         1108746825,
         102191575,
@@ -41,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200053,
         "sg:id":"SG_50JxxiunJMN6K7kQwR0tRk_29.979025_-90.123970@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463525541,
-    "wof:geomhash":"c558bdf17078654aed093dd857453f95",
+    "wof:geomhash":"5968e870edda8deeb8566fead38a0de2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +71,8 @@
         }
     ],
     "wof:id":840278393,
-    "wof:lastmodified":1486689066,
-    "wof:name":"Longue Vue House & Gardens",
+    "wof:lastmodified":1534187159,
+    "wof:name":"Longue Vue House And Gardens",
     "wof:parent_id":1108746825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -69,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.12397,
-    29.979025,
-    -90.12397,
-    29.979025
+    -90.12413,
+    29.97627,
+    -90.12413,
+    29.97627
 ],
-  "geometry": {"coordinates":[-90.12397,29.979025],"type":"Point"}
+  "geometry": {"coordinates":[-90.12412999999999,29.97627],"type":"Point"}
 }

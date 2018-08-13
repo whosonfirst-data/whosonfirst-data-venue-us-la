@@ -2,19 +2,25 @@
   "id": 840450265,
   "type": "Feature",
   "properties": {
-    "addr:full":"739 Bourbon St New Orleans LA 70116",
+    "addr:city":"New Orleans",
+    "addr:full":"739 Bourbon St New Orleans, La 70116",
+    "addr:house_number":"739",
     "addr:housenumber":"739",
+    "addr:phone":"+1 504-581-3751",
     "addr:postcode":"70116",
+    "addr:road":"Bourbon St",
+    "addr:state":"LA",
     "addr:street":"Bourbon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-90.065002,29.959499,-90.065002,29.959499",
-    "geom:latitude":29.959499,
-    "geom:longitude":-90.065002,
+    "geom:bbox":"-90.06523,29.9592,-90.06523,29.9592",
+    "geom:latitude":29.9592,
+    "geom:longitude":-90.06523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"739 Bourbon St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -32,7 +38,12 @@
         "shopping"
     ],
     "sg:website":"www.voodooneworleans.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530009,
+        102530037,
+        102525981
+    ],
     "wof:belongsto":[
         85866105,
         102191575,
@@ -44,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200051,
         "sg:id":"SG_3eMGai0Ia5tTKLJEo33jfV_29.959422_-90.064993@1293134755"
     },
     "wof:country":"US",
     "wof:created":1463533313,
-    "wof:geomhash":"c93d17fe6e0ef0c6a719ed99c501647c",
+    "wof:geomhash":"9ec23713ac7edb0bc04ff37a9b219b67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +74,8 @@
         }
     ],
     "wof:id":840450265,
-    "wof:lastmodified":1486687535,
-    "wof:name":"Marie Laveau House of Voodoo",
+    "wof:lastmodified":1534187160,
+    "wof:name":"Marie Laveau House Of Voodoo",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
@@ -74,10 +86,10 @@
     ]
 },
   "bbox": [
-    -90.065002,
-    29.959499,
-    -90.065002,
-    29.959499
+    -90.06523,
+    29.9592,
+    -90.06523,
+    29.9592
 ],
-  "geometry": {"coordinates":[-90.06500200000001,29.959499],"type":"Point"}
+  "geometry": {"coordinates":[-90.06523,29.9592],"type":"Point"}
 }

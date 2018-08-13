@@ -15,6 +15,7 @@
     "geom:longitude":-89.972298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5640 Read Blvd",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
         "sg:id":"SG_4Q15UsvdZexXkEnTGMSt1d_30.031601_-89.972298@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"348dc9c8a804d70adac36d56f8810ba4",
+    "wof:geomhash":"99d0b03be966284fc61a788ada6b1fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":203280387,
-    "wof:lastmodified":1486688258,
+    "wof:lastmodified":1534187158,
     "wof:name":"Bryan Washington Sr Dr & Associates",
     "wof:parent_id":85855781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840419551
+    ],
     "wof:tags":[
         "obstetrician",
         "gynecologist"

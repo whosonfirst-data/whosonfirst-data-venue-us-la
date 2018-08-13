@@ -7,6 +7,7 @@
     "addr:postcode":"70506",
     "addr:street":"W Willow St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.054398,30.243401,-92.054398,30.243401",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.054398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1455 W Willow St",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
         "sg:id":"SG_6gXqRJAos7Tj6IRCGQEYfx_30.243401_-92.054398@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"f55e5003d63504843a1fffa5862894c3",
+    "wof:geomhash":"55fc1b9297298fa678153c23270c4f65",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":203317609,
-    "wof:lastmodified":1472624361,
+    "wof:lastmodified":1534187158,
     "wof:name":"Section 705 Federal Credit Union",
     "wof:parent_id":85803337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840182365
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"70126",
     "addr:street":"Chef Menteur Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.017948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4008 Chef Menteur Hwy",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_3BjU3wlsBzwHnJCGtVCgzP_30.010162_-90.017948@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"2507685803fb296d8abb658594983626",
+    "wof:geomhash":"9a3bd5ec7d181a27417fb640284ed794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":203274061,
-    "wof:lastmodified":1486688859,
+    "wof:lastmodified":1534187159,
     "wof:name":"Kim's Food Store",
     "wof:parent_id":85866175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840322591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

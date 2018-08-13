@@ -7,6 +7,7 @@
     "addr:postcode":"71108",
     "addr:street":"Meriwether Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.789157,32.42027,-93.789157,32.42027",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.789157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2015 Meriwether Rd",
     "sg:city":"Shreveport",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
         "sg:id":"SG_4vam5ZpZ2H0vMSOXJtKUZ1_32.420270_-93.789157@1303262946"
     },
     "wof:country":"US",
-    "wof:geomhash":"0143c58f20411903a4271b460adf28d6",
+    "wof:geomhash":"f582db1db1a9c48c887881cd6068e532",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +50,14 @@
         }
     ],
     "wof:id":203383031,
-    "wof:lastmodified":1472624374,
+    "wof:lastmodified":1534187159,
     "wof:name":"Plex The",
     "wof:parent_id":85828353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840288121
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"70130",
     "addr:street":"Canal St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.066002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"365 Canal St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_5hbIv6qox81Ug49kUzounM_29.951300_-90.066002@1303262945"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c273248f13fbf8575cce39bd4c04d9a",
+    "wof:geomhash":"fe6063f2b2b591d15705d0a86bd90006",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":203294275,
-    "wof:lastmodified":1486688466,
+    "wof:lastmodified":1534187159,
     "wof:name":"Maginnis Michael J Atty",
     "wof:parent_id":85866105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840321619
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

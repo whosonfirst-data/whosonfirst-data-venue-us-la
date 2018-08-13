@@ -7,6 +7,7 @@
     "addr:postcode":"70116",
     "addr:street":"Frenchmen St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.057652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"519 Frenchmen St",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463521880,
-    "wof:geomhash":"e841a05724b7ec74162b8734e278ad12",
+    "wof:geomhash":"4b78622f99e434bc3e99d3212e907cff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":840131797,
-    "wof:lastmodified":1486687368,
+    "wof:lastmodified":1534187158,
     "wof:name":"Frenchmen Street Orleans",
     "wof:parent_id":85866097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203261891
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

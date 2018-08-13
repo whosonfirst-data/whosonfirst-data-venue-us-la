@@ -2,18 +2,24 @@
   "id": 840076761,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 W Sallier St Lake Charles LA 70601",
+    "addr:city":"Lake Charles",
+    "addr:full":"204 West Sallier Street I Lake Charles, La 70601-5844",
+    "addr:house_number":"204",
     "addr:housenumber":"204",
-    "addr:postcode":"70601",
+    "addr:phone":"+1 318-439-3793",
+    "addr:postcode":"70601-5844",
+    "addr:road":"West Sallier Street I",
+    "addr:state":"LA",
     "addr:street":"W Sallier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.223957,30.213123,-93.223957,30.213123",
-    "geom:latitude":30.213123,
-    "geom:longitude":-93.223957,
+    "geom:bbox":"-93.22248,30.21313,-93.22248,30.21313",
+    "geom:latitude":30.21313,
+    "geom:longitude":-93.22248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"204 W Sallier St",
     "sg:city":"Lake Charles",
     "sg:classifiers":[
@@ -27,21 +33,26 @@
     "sg:phone":"+1 337 439 3797",
     "sg:postcode":"70601",
     "sg:province":"LA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526033,
+        102531259
+    ],
     "wof:belongsto":[
-        85688735,
+        85853189,
         85633793,
         85948165,
         102081035,
-        85853189
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402200223,
         "sg:id":"SG_1N3DzYrz4LQPlNc3tVcKdP_30.213123_-93.223957@1294127638"
     },
     "wof:country":"US",
     "wof:created":1463520615,
-    "wof:geomhash":"fbef484e9a2be338b23ef21d209c3d6c",
+    "wof:geomhash":"c6606f2655e00489090ecf9091ff094f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +64,7 @@
         }
     ],
     "wof:id":840076761,
-    "wof:lastmodified":1472624394,
+    "wof:lastmodified":1534187158,
     "wof:name":"Imperial Calcasieu Museum",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.223957,
-    30.213123,
-    -93.223957,
-    30.213123
+    -93.22248,
+    30.21313,
+    -93.22248,
+    30.21313
 ],
-  "geometry": {"coordinates":[-93.223957,30.213123],"type":"Point"}
+  "geometry": {"coordinates":[-93.22248,30.21313],"type":"Point"}
 }

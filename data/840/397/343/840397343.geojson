@@ -7,6 +7,7 @@
     "addr:postcode":"70122",
     "addr:street":"Lakeshore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.071332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2240 Lakeshore Dr",
     "sg:city":"New Orleans",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1463531107,
-    "wof:geomhash":"6dc34abccfb5184d6a9ced30ab473699",
+    "wof:geomhash":"13289144ddd93a46a62bb590deec0c18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,12 +86,14 @@
         }
     ],
     "wof:id":840397343,
-    "wof:lastmodified":1486689057,
+    "wof:lastmodified":1534187158,
     "wof:name":"Southern Dist Luth Ch Ms Synod",
     "wof:parent_id":1108739667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203272099
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

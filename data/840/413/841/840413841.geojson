@@ -14,6 +14,7 @@
     "geom:longitude":-91.051402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3233 S Sherwood Forest Blvd",
     "sg:city":"Baton Rouge",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463531771,
-    "wof:geomhash":"345af4d23f1325a4aac2056de0ee49f4",
+    "wof:geomhash":"f7cd41d0e6df44bd4f160a37c18d7e6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":840413841,
-    "wof:lastmodified":1472624837,
+    "wof:lastmodified":1534187160,
     "wof:name":"United Home Care Services LLC",
     "wof:parent_id":85828423,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840396723
+    ],
     "wof:tags":[
         "home",
         "agency"

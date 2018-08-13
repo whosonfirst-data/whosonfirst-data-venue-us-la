@@ -7,6 +7,7 @@
     "addr:postcode":"70053",
     "addr:street":"Westbank Expy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.053311,29.912077,-90.053311,29.912077",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.053311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"197 Westbank Expy",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463521803,
-    "wof:geomhash":"6e941c7ca014f488874fde8320019b1e",
+    "wof:geomhash":"5176fc47de8dfc59eef49cdc27718bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":840127577,
-    "wof:lastmodified":1472624445,
+    "wof:lastmodified":1534187157,
     "wof:name":"Oakwood Nail Salon",
     "wof:parent_id":85885345,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203193951
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"

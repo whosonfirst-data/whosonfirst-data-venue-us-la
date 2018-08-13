@@ -7,6 +7,7 @@
     "addr:postcode":"70714",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-91.170348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"200 Main St",
     "sg:city":"Baker",
     "sg:classifiers":[
@@ -62,12 +63,14 @@
         }
     ],
     "wof:id":840454879,
-    "wof:lastmodified":1512142867,
+    "wof:lastmodified":1534187157,
     "wof:name":"McDonald's",
     "wof:parent_id":85840811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840114899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

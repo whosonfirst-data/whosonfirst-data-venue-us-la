@@ -7,6 +7,7 @@
     "addr:postcode":"70508",
     "addr:street":"Kaliste Saloom Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.030848,30.171858,-92.030848,30.171858",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.030848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1720 Kaliste Saloom Rd",
     "sg:city":"Lafayette",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1463531473,
-    "wof:geomhash":"6a59685c6588ab5e7c2a8846941e008c",
+    "wof:geomhash":"1075ca72203b9645b3263744037909a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":840406357,
-    "wof:lastmodified":1472624815,
+    "wof:lastmodified":1534187158,
     "wof:name":"Bellone Emilia J Msw Lcsw",
     "wof:parent_id":85865249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-la",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        840076633
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
